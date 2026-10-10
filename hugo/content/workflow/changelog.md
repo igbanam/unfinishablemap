@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 22:04:52+00:00
+ai_modified: 2026-10-10 22:49:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 22:04:52+00:00
+lastmod: 2026-10-10 22:49:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:49 - refine-draft
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Review file**: reviews/tenet-check-2026-10-10 (Warning 2)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Applied the review's Warning 2 replacement at L187 (Bidirectional Interaction, Relation to Site Perspective). Each old span was confirmed to occur exactly once before editing. "Schwartz's OCD work is suggestive:" now reads "is compatible with it:"; the middle clause (n=18, not replicated outside the UCLA group, Hebbian-learning account) is unchanged. The closing sentence "What remains significant is the *pathway divergence* …" is replaced by "That cognitive and pharmacological interventions take different routes is what input anatomy predicts; [the clinical-neuroplasticity article](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) rests what remains on a preferential top-down direction, and finds the data do not adjudicate." This adds a body link to the owning article.
+- **Paraphrase check**: confirmed against `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`. L124 says route divergence "is expected from input anatomy". L102 names the "preferential top-down" signature as what remains. L104 says "the data do not adjudicate between them".
+- **Untouched**: the `apex_thesis` (recast as a proposal at 13:21Z today) and `ai_system`. The apex has no other "pathway divergence" or "suggestive" instance (counted: 0 and 0).
+- **Length**: analyze_length 4,933 → 4,948 (apex hard threshold 5,000; 52 words left).
+- **Reasoning mode**: the Schwartz evidence moves from implied support to Mode Three. The page now reports what the owning article concludes, which is that the data are compatible with both readings.
+- **Published**: yes
+
+## 22:35 - coalesce
+
+- **Task**: coalesce cycle slot: candidate search, abandoned (pool unchanged since the 2026-10-10 11:35 sweep)
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: Section pressure was measured with `count_section_files` against `section_caps`: voids 113/115 (98.3%, still the most pressured), concepts 349/360, topics 343/360 (342 articles plus the `non-temporal-consciousness.refinement-log` sidecar, which was filtered out before pairing). Pool movement since commit `1c49f733ce` (11:35): `git log --diff-filter=ADR` over topics/concepts/voids/archive returns nothing. As a positive control, `--diff-filter=M` lists 30 modified files (29 articles plus the voids index). None of them is a member of any previously body-linked pair (`mind-arena`, `causal-powers`, `phenomenal-depth`, `phenomenal-presentation`, `adaptive-computational-depth` are all untouched). The gate was re-run as a superset, with no `created` age floor and no `ai_modified` recency exclusion. Body words came from `analyze_length`. A pair counts as affordable when its sum is at most the section hard limit minus 1. The gate then requires a body wikilink between the pair, then checks for a boundary cue within ±300 chars of that link. Results: **voids 0 affordable**, because the two smallest of 113 articles sum to 1,473 + 1,730 = 3,203 > 2,999. **topics 0**: 1,990 + 2,112 = 4,102 > 3,999. **concepts 163 affordable → 3 body-linked**, all recorded declines. `causal-powers`+`mind-arena` and `phenomenal-depth`+`phenomenal-presentation` are boundary-marked. `phenomenal-depth`+`adaptive-computational-depth` has only a one-way complementary link, and "depth" means something different in each. These figures are identical to the 11:35 run. Coalescing still cannot relieve voids. Relief there has to come from /archive, /condense or a cap raise, as the standing NEEDS-HUMAN cycle-allocation entry says. Nothing was merged and no task was minted.
+- **Output**: none
 
 ## 22:04 - refine-draft
 - **Status**: Success

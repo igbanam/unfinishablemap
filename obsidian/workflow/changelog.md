@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T22:35:27+00:00
+ai_modified: 2026-10-10T22:49:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:49 - refine-draft
+- **Status**: Success
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Review file**: reviews/tenet-check-2026-10-10 (Warning 2)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Applied the review's Warning 2 replacement at L187 (Bidirectional Interaction, Relation to Site Perspective). Each old span was confirmed to occur exactly once before editing. "Schwartz's OCD work is suggestive:" now reads "is compatible with it:"; the middle clause (n=18, not replicated outside the UCLA group, Hebbian-learning account) is unchanged. The closing sentence "What remains significant is the *pathway divergence* …" is replaced by "That cognitive and pharmacological interventions take different routes is what input anatomy predicts; [[clinical-neuroplasticity-evidence-for-bidirectional-causation|the clinical-neuroplasticity article]] rests what remains on a preferential top-down direction, and finds the data do not adjudicate." This adds a body link to the owning article.
+- **Paraphrase check**: confirmed against `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`. L124 says route divergence "is expected from input anatomy". L102 names the "preferential top-down" signature as what remains. L104 says "the data do not adjudicate between them".
+- **Untouched**: the `apex_thesis` (recast as a proposal at 13:21Z today) and `ai_system`. The apex has no other "pathway divergence" or "suggestive" instance (counted: 0 and 0).
+- **Length**: analyze_length 4,933 → 4,948 (apex hard threshold 5,000; 52 words left).
+- **Reasoning mode**: the Schwartz evidence moves from implied support to Mode Three. The page now reports what the owning article concludes, which is that the data are compatible with both readings.
+- **Published**: yes
 
 ## 22:35 - coalesce
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-10-10 13:21:49+00:00
+ai_modified: 2026-10-10 22:49:16+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-09 17:03:08+00:00
 apex_sources:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-10-10 13:21:49+00:00
+lastmod: 2026-10-10 22:49:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,7 +189,7 @@ The empirical strands (the dissociations, willed-mode markers, dopamine and stim
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention interface is where the Map locates mind-matter interaction, whether through the Zeno mechanism—with its [decoherence objections](/concepts/decoherence/) and sign problem noted above—or another. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes. That answers the energy worry, not [Kim's exclusion worry](/concepts/causal-exclusion-argument/), which is about causal redundancy given a sufficient physical cause rather than where the joules originate. The Map's reply denies that sufficiency at the quantum joint, where [closure](/concepts/causal-closure/) holds only probabilistically—fixing the statistics but not which outcome actualises, so nothing sufficient is there for selection to be redundant to.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The attention cluster elaborates this tenet without discharging [its standing debt](/tenets/#tenet-3-standing); the return cycle models it in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work is suggestive: patients who learn to redirect attention show reduced caudate activity on PET imaging, though the study was small (n=18), not replicated with the same method outside the UCLA group, and open to a Hebbian-learning account. What remains significant is the *pathway divergence*: cognitive and pharmacological interventions modulate the brain by different causal routes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The attention cluster elaborates this tenet without discharging [its standing debt](/tenets/#tenet-3-standing); the return cycle models it in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work is compatible with it: patients who learn to redirect attention show reduced caudate activity on PET imaging, though the study was small (n=18), not replicated with the same method outside the UCLA group, and open to a Hebbian-learning account. That cognitive and pharmacological interventions take different routes is what input anatomy predicts; [the clinical-neuroplasticity article](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) rests what remains on a preferential top-down direction, and finds the data do not adjudicate.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection model requires that quantum indeterminacies resolve to definite outcomes; if all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort does not decide the matter, since effort felt in *this* branch has a within-branch physical story. The rejection rests on the tenet's indexical objection, and here it is a commitment noted rather than a result won against many-worlds on its own terms.
 
