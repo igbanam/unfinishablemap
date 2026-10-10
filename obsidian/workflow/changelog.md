@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T23:06:01+00:00
+ai_modified: 2026-10-10T23:31:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:31 - deep-review
+- **Status**: Success
+- **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Word count**: 2427 → 2916 (+489, of which ~90 is four new References entries; topics soft 3000, `ok`)
+- **Critical issues addressed**: 7. (1) The Thompson quote ("metaphysically peculiar 'properties'" / "ineliminable transcendental character") was cited to the wrong work. It is from Thompson 2004, *PCS* 3(4), p. 394, not *Mind in Life*: grep-verified in the author PDF, and absent from *Mind in Life* via Google Books search-within with a control. (2) Meyer & Brancazio 2022 was credited with a deflationary/revisionist thesis that is absent from the paper (zero "deflat"/"revision" in the PMC full text). The thesis belongs to Shani 2020 and concerns radical enactivism. (3) Hutto & Myin were misattributed: they never say "physical processes cannot account for content". (4) The Dualism section of Relation to Site Perspective claimed enactivism's challenge "does not reach" the Map's framework, contradicting the lead. (5) "must account for it" was calibration slippage against the article's own L96 hedge. (6) Bidirectional interaction was said to "explain why" experience accompanies the structure. (7) The dilemma horn treated "produces" as "reductive".
+- **Medium issues addressed**: 6. Unattributed "critics" are now Kirchhoff & Hutto 2016. Panpsychism → biopsychism, with Thompson 2022. The "same commitment" overclaim is fixed. "The research found" voice leak is removed. The description stated dissolution as fact. Two "not X; it is Y" constructions were rephrased.
+- **Enhancements made**: 3. Opponent-sourced support was added: Thompson 2022 concedes the gap between sense-making and feeling, Thompson 2007 (p. 14) offers "progress on" the gap, and the body-body problem appears. The genealogy was rewritten from a single Dewey→Merleau-Ponty chain into two strands, as Wu 2024's own abstract describes, and Wu's neutral-monist stance is now stated. A named-anchor forward reference was added.
+- **Citation ledger**: Thompson 2004, Thompson 2022, Kirchhoff & Hutto 2016 and Shani 2020 added and verified. Meyer & Brancazio and Wu: metadata correct, content and stance claims corrected. Inline↔References complete.
+- **Reasoning mode**: Thompson Mixed (Mode One leads with his own concessions, Mode Three at the transcendental third option). Kirchhoff & Hutto Mode One. Sensorimotor Mode Two (unchanged).
+- **Family propagation**: In `topics/embodied-consciousness` L73, the same quote is now cited to Thompson 2004, the reference is added, and the restated dilemma is hedged (+41 words, 3775). The research note and the 06-20/07-26 review ratifications are annotated with corrections. A P2 refine-draft task was minted for `topics/pragmatisms-path-to-dualism` L145, which carries the same genealogy claim (hard_warning 4039, net-negative).
+- **Output**: [[reviews/deep-review-2026-10-10-enactivism-challenge-to-interactionist-dualism]]
 
 ## 23:06 - refine-draft
 - **Status**: Success

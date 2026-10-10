@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-21
-date: '2026-09-24'
+date: '2026-10-10'
 draft: false
-lastmod: 2026-09-24 00:00:00+00:00
+lastmod: 2026-10-10 00:00:00+00:00
 related_articles: []
 title: Research Notes - Enactivism as Challenge to Interactionist Dualism
 ---
@@ -62,6 +62,7 @@ Enactivism is a family of positions in philosophy of mind and cognitive science 
   - Self-organizing features of mind are enriched versions of self-organizing features of life
 - **Tenet alignment**: Shares Tenet 1's commitment to irreducibility of experience but rejects the metaphysical framework; directly opposes Tenet 2 (quantum interaction) by locating the mind-life connection in autopoiesis rather than quantum mechanics
 - **Quote**: "Experience is irreducible not because it possesses metaphysically peculiar 'properties'... It's irreducible because of its ineliminable transcendental character"
+- **Correction (2026-10-10)**: This quote is NOT in *Mind in Life* (Google Books search-within: zero hits for "metaphysically peculiar"; both "ineliminable" hits are other sentences). It is from Thompson, E. (2004), "Life and mind: From autopoiesis to neurophenomenology. A tribute to Francisco Varela," *Phenomenology and the Cognitive Sciences* 3(4): 381–398, at p. 394 (grep-verified in the author's PDF at evanthompson.me). The same passage continues: "There is no dualism or idealism here."
 
 ### Varela, Thompson, Rosch - "The Embodied Mind" (1991)
 - **URL**: https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human
@@ -90,6 +91,7 @@ Enactivism is a family of positions in philosophy of mind and cognitive science 
   - Argues enactivism does not meet requirements for a Kuhnian paradigm shift
   - No genuine internal crisis in cognitivism that enactivism resolves
   - Enactivism blends deflationary and revisionist tendencies incoherently
+  - **Correction (2026-10-10)**: NOT in this paper. The PMC full text (PMC9635051) contains zero occurrences of "deflat" or "revision". The deflationary/revisionist instability thesis is Shani (2020), "Befuddling the mind," *Phenomenology and the Cognitive Sciences* 20(1): 39–56, and is aimed at radical (Hutto-Myin) enactivism specifically. Meyer & Brancazio argue that enactivism gives no compelling reason to replace cognitivism (no Kuhnian crisis) and is better construed as a philosophy of nature.
   - Critiques the claim that enactivism provides inherently better explanations
 - **Tenet alignment**: Neutral—critiques enactivism from a cognitivist rather than dualist standpoint, but useful for understanding enactivism's vulnerabilities
 
@@ -166,7 +168,7 @@ Enactivism is a family of positions in philosophy of mind and cognitive science 
 ### Is Enactivism Coherent as a Unified Position?
 - **Sides**: Proponents see the three strands (autopoietic, sensorimotor, radical) as complementary; critics argue they are in tension
 - **Core disagreement**: Whether enactivism's simultaneous deflationary claims (dissolving problems) and revisionist claims (reframing the metaphysics of mind) are compatible
-- **Current state**: The "Putting down the revolt" critique (2022) argues persuasively that enactivism's theoretical stance is "inherently unstable" due to blending deflationism and revisionism. Internal debates between the strands continue.
+- **Current state**: Shani (2020) argues that radical (Hutto-Myin) enactivism's stance on experience is inherently unstable, blending deflationism with implicit metaphysical revisionism. (Corrected 2026-10-10: an earlier version of this note credited this thesis to the 2022 "Putting down the revolt" paper, which does not make it.) Internal debates between the strands continue.
 
 ### Embodied Cognition and Property Dualism
 - **Sides**: Embodied cognition proponents who accept irreducibility of experience vs. those who aim for full naturalization

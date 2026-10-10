@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-09-25T20:31:25+00:00
+ai_modified: 2026-10-10T23:31:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ The evidence is substantial:
 
 These findings appear to rule out a ghost-in-the-machine dualism. But they seem to leave [[tenets#^dualism|property dualism]]—the view that phenomenal experience is irreducible even though mind depends on body—largely untouched.
 
-The strongest version of the challenge comes from enactivism. Thompson's *deep continuity thesis* argues that mind is continuous with life itself. If experience is continuous with biological organisation rather than layered onto it, the dualist separation dissolves before it begins. The Map's [[enactivism-challenge-to-interactionist-dualism|dedicated engagement with enactivism]] examines three strands—autopoietic, sensorimotor, and radical—and finds that all three face the same difficulty: they cannot explain *why* embodied activity is accompanied by subjective experience. Thompson himself treats experience as irreducible, describing it as possessing an "ineliminable transcendental character." But irreducibility while denying a non-physical aspect of reality is unstable—either biological organisation produces experience (reductive physicalism, contradicting enactivism's own commitments) or something beyond biological organisation is needed (which is dualism).
+The strongest version of the challenge comes from enactivism. Thompson's *deep continuity thesis* argues that mind is continuous with life itself. If experience is continuous with biological organisation rather than layered onto it, the dualist separation dissolves before it begins. The Map's [[enactivism-challenge-to-interactionist-dualism|dedicated engagement with enactivism]] examines three strands—autopoietic, sensorimotor, and radical—and finds that all three face the same difficulty: they do not explain *why* embodied activity is accompanied by subjective experience. Thompson himself treats experience as irreducible, describing it as possessing an "ineliminable transcendental character" (Thompson 2004, 394) while disclaiming dualism. The Map argues that irreducibility while denying a non-physical aspect of reality is unstable—either biological organisation fully accounts for experience (reductive physicalism, contradicting enactivism's own commitments) or something beyond it is needed (which points toward dualism)—as the better-supported reading, not a demonstration.
 
 ## What Embodiment Cannot Explain
 
@@ -231,6 +231,7 @@ The interface reading would face serious difficulty if:
 1. Noë, A. (2004). *Action in Perception*. MIT Press.
 1. Müller, H. J., & Rabbitt, P. M. A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+1. Thompson, E. (2004). Life and mind: From autopoiesis to neurophenomenology. A tribute to Francisco Varela. *Phenomenology and the Cognitive Sciences*, 3(4), 381-398. https://doi.org/10.1023/B:PHEN.0000048936.73339.dd
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision-making. *Neuron*, 81(6), 1401-1416.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
