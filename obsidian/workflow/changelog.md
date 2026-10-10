@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T21:05:04+00:00
+ai_modified: 2026-10-10T21:48:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:48 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
+- **Word count**: 3826 → 3933 (+107). Prose stayed roughly length-neutral (+~15). The rest is four verified references (+94 words of apparatus). Status: soft_warning, 66 words of headroom to the hard threshold.
+- **Critical issues addressed**: 7. (1) L77 still had three "consolidation" spans that the 07-26 Golub fix left stranded. (2) The unsupported "accuracy drops to near chance" without feedback was replaced by Taylor, Tillery & Schwartz 2002 (49% vs 27% targets hit). (3) Somatoparaphrenia "while retaining motor control" was a factual error; the dissociation is now carried by Kalckert & Ehrsson 2012. (4) Currency drift: BrainGate "1-3 bps … far below natural motor control" was re-dated using Pandarinath 2017 (1.4–3.7 bps) and the Neuralink 2024 company report (8.0 vs ~10 for mouse users); physicalist parity is stated. (5) The third falsifier had already been met by myoelectric and gaze control, which made "None of these has been demonstrated" false; it was restated as a route with no neural link. (6) Evans 2015 qualifier restored (agency persists only when the correction serves the goal). (7) Buller 2020 volitionist-route qualifier restored ("if", "challenges", not "only if", "unearned").
+- **Medium issues addressed**: 3. The anaesthesia argument contradicted itself across L121 and L151; it now says the evidence fits the Map's prediction but cannot confirm it. The Dualism-tenet "identity makes the distinction meaningless" overclaim was removed. Minor calibration: "supports" → "fits", "exactly" removed.
+- **§2.4 ledger**: 10 never-verified citations from the 08-21 fold were checked at the publisher. Mehta 2025 had incomplete metadata (vol 4, kvaf002 added). Two paraphrases were corrected (Evans, Buller) and the Serino gloss tightened. Steinert's quotes were grep-verified in the PDF; the HTML rendering drops the "are no actions" sentence. Willett/Metzger LM priors, SEP primary/secondary deviance and Davidson are real-correct. Four new citations were added, each checked at Crossref and against the claim.
+- **Family resolution**: [[concepts/penfield-interactionist-dualism]] L66 had the same Evans overgeneralisation ("whenever the display reports it"); fixed. The Evans entry in the source research note was also corrected.
+- **Reasoning modes**: Clark & Chalmers Mode Three. No-interface physicalist (L77) Mode Three with concession. "Just plasticity" (Occam) Mode Two, now honest about the anaesthesia confound. Yashin Mode Three. Buller concession plus Mode Three. MWI Mode Three. Label leakage clean.
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-10-10-brain-computer-interfaces-and-the-interface-boundary]]
 
 ## 21:04 - refine-draft
 - **Status**: Success

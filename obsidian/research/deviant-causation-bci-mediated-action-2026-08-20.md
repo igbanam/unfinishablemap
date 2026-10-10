@@ -3,7 +3,7 @@ title: "Research Notes - Deviant Causation in Neuroprosthetic and BCI-Mediated A
 created: 2026-08-20
 modified: 2026-08-20
 human_modified: null
-ai_modified: 2026-08-21T11:58:32+00:00
+ai_modified: 2026-10-10T21:47:19+00:00
 draft: false
 target_section: topics
 consumed_by: "[[brain-computer-interfaces-and-the-interface-boundary]]"
@@ -141,7 +141,7 @@ The question this research covers: when an intention drives an effector through 
 ### Visual Feedback Dominates the Sense of Agency for Brain-Machine Actions (Evans, Gale, Schurger & Blanke 2015)
 - **URL**: https://doi.org/10.1371/journal.pone.0130019 (*PLoS ONE* 10(6): e0130019)
 - **Type**: Empirical paper
-- **Key points**: Bodily and BMI actions rely on common sensorimotor-integration mechanisms for agency judgments, but in the absence of overt movement and proprioception, visual feedback dominates the sense of agency "however erroneous the visual feedback may be." Users claim authorship of outcomes their brain did not produce when the display says so.
+- **Key points**: Bodily and BMI actions rely on common sensorimotor-integration mechanisms for agency judgments, but in the absence of overt movement and proprioception, visual feedback dominates the sense of agency "however erroneous the visual feedback may be." Discrepancies between decoded activity and feedback generally *lower* the sense of agency, but when the discrepancy corrects a poorly controlled action, agency stays high and can rise with the size of the correction — users claim authorship of outcomes their brain did not produce. (Qualifier restored 2026-10-10 deep review of the BCI article; the earlier "when the display says so" overgeneralised.)
 - **Tenet alignment**: Supports the Map's honesty about the verification circularity ([[agency-void]]): first-person experience cannot certify non-deviance of the route.
 
 ### Sense of Agency for Intracortical Brain-Machine Interfaces (Serino et al. 2022)

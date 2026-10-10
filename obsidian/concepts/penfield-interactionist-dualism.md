@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-09-09T01:48:26+00:00
+ai_modified: 2026-10-10T21:47:11+00:00
 last_deep_review: 2026-09-04T00:00:00+00:00
 draft: false
 topics:
@@ -63,7 +63,7 @@ The upshot is that Penfield's evidence *underdetermines* the choice between dual
 
 ## The inverse case: authorship without movement
 
-Penfield's datum has a modern inverse, and it constrains the comparator reading in the same framework-relative way. The electrode produced movement without authorship; a brain-computer interface produces authorship without movement. Evans et al. (2015) found visual feedback dominating agency judgements for brain-machine actions, so a user claims authorship of an outcome whenever the display reports it, even where overt movement and proprioception are absent. Serino et al. (2022) located the agency-monitoring signal for an intracortical brain-machine interface in primary motor cortex. On the comparator model a decoded command originates in motor cortex and so dispatches an efference copy, and should therefore arrive with agency attached; agency tracking the display instead marks a point at which the model owes a further account of what fixes authorship. This changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it. Its interest lies in where it puts the pressure — on the outbound arm of the mind-brain relation, where authorship is fixed rather than where sensation arrives. That arm is what the [[filter-vs-interface-distinction|filter/interface distinction]] separates from the inbound leg, and what [[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply|locked-in syndrome]] dissociates from the other side, sparing intention while severing its execution.
+Penfield's datum has a modern inverse, and it constrains the comparator reading in the same framework-relative way. The electrode produced movement without authorship; a brain-computer interface produces authorship without movement. Evans et al. (2015) found visual feedback dominating agency judgements for brain-machine actions, so when the display corrects a poorly controlled action a user claims authorship of the corrected outcome, even where overt movement and proprioception are absent. Serino et al. (2022) located the agency-monitoring signal for an intracortical brain-machine interface in primary motor cortex. On the comparator model a decoded command originates in motor cortex and so dispatches an efference copy, and should therefore arrive with agency attached; agency tracking the display instead marks a point at which the model owes a further account of what fixes authorship. This changes nothing about the verdict just reached: the constraint bears on both readings alike, and the dualist inference gains no support from it. Its interest lies in where it puts the pressure — on the outbound arm of the mind-brain relation, where authorship is fixed rather than where sensation arrives. That arm is what the [[filter-vs-interface-distinction|filter/interface distinction]] separates from the inbound leg, and what [[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply|locked-in syndrome]] dissociates from the other side, sparing intention while severing its execution.
 
 ## A physicalist convergence on Eccles's dendron
 
