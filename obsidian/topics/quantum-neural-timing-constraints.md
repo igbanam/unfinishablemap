@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-06T14:35:00+00:00
+ai_modified: 2026-10-10T20:52:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ The ~500ms timing for willed attention's frontal theta signature is later than t
 
 Schultze-Kraft et al. (2016) identified a "point of no return" at ~200ms before movement onset, measured by EMG. Brain-computer interface experiments showed that movement onset could be vetoed before this point but not after. Past the 200ms threshold a movement can no longer be withheld, though the authors note it can still be aborted or altered as it unfolds, so the cut-off is not strictly ballistic.
 
-This defines the withholding window: consciousness can cancel movement onset until about 200 ms before execution, but not after. The paper's own qualification opens a second channel: "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." A mechanism for conscious *withholding* must therefore act before the 200 ms boundary; a mechanism for conscious *shaping* of a movement is not bounded by it. The two channels also differ in what they leave behind. A successful veto produces nothing—no single trial can show that a cancelled impulse was ever live—whereas an altered movement leaves a trajectory, and Schultze-Kraft's "aborted button presses" are such products. The one-bit stop that [[control-theoretic-will|control-theoretic will]] calls the cheapest operation is the one that closes first and cannot be observed when it succeeds; the costlier, later channel is the one that can.
+This defines the withholding window, at least for cued stops: onset could be cancelled only when a stop signal came more than about 200 ms before movement. Whether a self-initiated, conscious veto shares that boundary is untested, since studies of intentional inhibition infer such vetoes from delays or omissions rather than observing them directly. The paper's own qualification opens a second channel: "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." If the boundary holds for self-initiated stops, a mechanism for conscious *withholding* must act before it; a mechanism for conscious *shaping* of a movement is not bounded by it. The two channels also differ in what they leave behind. A successful veto produces nothing—no single trial can show that a cancelled impulse was ever live—whereas an altered movement leaves a trajectory, and Schultze-Kraft's "aborted button presses" are such products. The one-bit stop that [[control-theoretic-will|control-theoretic will]] calls the cheapest operation is the one that closes first and cannot be observed when it succeeds; the costlier, later channel is the one that can.
 
 ## Quantum Zeno: A Different Timing Logic
 

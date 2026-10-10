@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T20:28:00+00:00
+ai_modified: 2026-10-10T20:52:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:52 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]], [[topics/quantum-neural-timing-constraints]]
+- **Review file**: research/voids-veto-void-2026-09-18 (Addendum 2026-10-10, framing side finding)
+- **Original score**: n/a (scripts/curate.py absent)
+- **Changes**: Citation-framing calibration on Schultze-Kraft et al. 2016. The study measured cancellation in response to an external stop signal, and its authors use "veto" to mean plain cancellation, not the dualist sense. (a) bandwidth-of-consciousness L189: "identified a 'point of no return' at ~200ms before movement execution, before which conscious intervention can veto prepared actions" → "found prepared actions remained cancellable until a 'point of no return' ~200ms before movement—at least for cued stops, the window …". Net 0 words (4,156 → 4,156; still hard_warning, unchanged). (b) quantum-neural-timing-constraints L101: "consciousness can cancel movement onset until about 200 ms before execution, but not after" → "at least for cued stops: onset could be cancelled only when a stop signal came more than about 200 ms before movement", mirroring concepts/libet-experiments L91. Added that whether a self-initiated, conscious veto shares the boundary is untested, because studies of intentional inhibition infer vetoes from delays or omissions rather than observing them. Conditioned the next sentence ("must therefore act before the 200 ms boundary" → "If the boundary holds for self-initiated stops, … must act before it") so it no longer contradicts the hedge. Kept the paper's after-onset quote. 2,946 → 2,984 (+38; 1,015 headroom left). No new references. Research note not edited. ai_system unchanged on both files.
+- **Attribution check**: the edit itself is a fix of the misattribution. Removes a conscious/dualist veto reading the source disclaims. No named-opponent reply, so no reasoning-mode classification.
+- **Published**: yes
 
 ## 20:28 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)

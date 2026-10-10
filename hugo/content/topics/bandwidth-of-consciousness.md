@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-10 03:22:27+00:00
+ai_modified: 2026-10-10 20:52:14+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:34:15+00:00
-lastmod: 2026-09-10 03:22:27+00:00
+lastmod: 2026-10-10 20:52:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,7 +190,7 @@ If the ~10 bits/s ceiling instead reflects the capacity of a mind-brain *interfa
 
 ## The Bandwidth and Free Will
 
-The constraint reshapes the free will debate. Libertarian free will requires consciousness to *bias* the few selections per second the channel allows, among options the brain has prepared—at points of [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/). Schultze-Kraft (2016) identified a "point of no return" at ~200ms before movement execution, before which conscious intervention can veto prepared actions—the window the [Libet problem](/concepts/libet-experiments/) leaves open once selection replaces initiation.
+The constraint reshapes the free will debate. Libertarian free will requires consciousness to *bias* the few selections per second the channel allows, among options the brain has prepared—at points of [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/). Schultze-Kraft (2016) found prepared actions remained cancellable until a "point of no return" ~200ms before movement—at least for cued stops, the window the [Libet problem](/concepts/libet-experiments/) leaves open once selection replaces initiation.
 
 ## How Robust Is the Ten-Bit Figure?
 

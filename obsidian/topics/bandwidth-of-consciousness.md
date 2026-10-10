@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-09-10T03:22:27+00:00
+ai_modified: 2026-10-10T20:52:14+00:00
 draft: false
 description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -186,7 +186,7 @@ If the ~10 bits/s ceiling instead reflects the capacity of a mind-brain *interfa
 
 ## The Bandwidth and Free Will
 
-The constraint reshapes the free will debate. Libertarian free will requires consciousness to *bias* the few selections per second the channel allows, among options the brain has prepared—at points of [[quantum-indeterminacy-free-will|quantum indeterminacy]]. Schultze-Kraft (2016) identified a "point of no return" at ~200ms before movement execution, before which conscious intervention can veto prepared actions—the window the [[libet-experiments|Libet problem]] leaves open once selection replaces initiation.
+The constraint reshapes the free will debate. Libertarian free will requires consciousness to *bias* the few selections per second the channel allows, among options the brain has prepared—at points of [[quantum-indeterminacy-free-will|quantum indeterminacy]]. Schultze-Kraft (2016) found prepared actions remained cancellable until a "point of no return" ~200ms before movement—at least for cued stops, the window the [[libet-experiments|Libet problem]] leaves open once selection replaces initiation.
 
 ## How Robust Is the Ten-Bit Figure?
 
