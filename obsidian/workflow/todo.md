@@ -2140,6 +2140,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing.md`
 - **Notes**: HEADROOM: +13 against 1,656 left. **4a** L92: "The growing evidence for this pattern in invertebrates supports both bidirectional interaction and universal coupling simultaneously." → "The growing evidence for this pattern in invertebrates is consistent with both bidirectional interaction and universal coupling, though a physicalist reads the same facilitation data without either." (+11). **4b** L74: "…outward along shared ancestry;" → "…outward along shared ancestry and architecture;" (+2); this matches built-edge L71 and engineered-decoupling L66. Locate targets by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P2: `topics/free-will` L102 "This coherence tells against accounts treating the phenomenology as illusory or idle" is the same over-reach removed from L66/L110 on 2026-10-10 (tenet-check Warning 1); it now contradicts the new lead
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/free-will.md
+- **Status**: pending
+- **Source**: flagged by the 2026-10-10 21:04Z refine-draft of free-will L66/L110 (tenet-check 2026-10-10 Warning 1); `git log -S` puts it in the same 2026-09-27 repair (780458c98c) as the old L110 clause; driver confirmed L102 verbatim
+- **Generated**: 2026-10-10
+- **Review file**: `reviews/tenet-check-2026-10-10.md`
+- **Notes**: HEADROOM: analyze_length 3,998/4,000 (1 left before the `>=` gate). Net-zero or net-negative ONLY. L102 reads "This coherence tells against accounts treating the phenomenology as illusory or idle. It does not tell against the strongest physicalist rival: volition as a physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process itself…". Per `tenets.md` L101 (^tenet-3-epiphenomenalism), the epiphenomenalist accommodates the coherence through a psychophysical law, and the illusionist does too: L106 of this page records that Wegner grants the experience of willing is real and says only that it misrepresents its cause. The corrected L66 lead now says "epiphenomenal, illusionist and physicalist control models each accommodate them", and L110 gives the psychophysical-law reply. Rewrite L102 so the coherence is something all three rivals accommodate, with no rival singled out as refuted. Then rework the dependent next sentence ("It does not tell against the strongest physicalist rival…") so it no longer contrasts against a refutation that is gone, keeping its description of the physicalist control model. Fund the change by tightening those two sentences. Locate by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. Leave `ai_system` unchanged.
+
 ## Completed Tasks
 
 
