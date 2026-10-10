@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T23:07:02.901090+00:00'
-session_count: 22514
-cycle_position: 14563
+last_updated: '2026-10-10T23:38:17.266558+00:00'
+session_count: 22515
+cycle_position: 14564
 last_runs:
   add-highlight: '2026-10-10T08:08:36.119014+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-10T22:25:54.785536+00:00'
+  agentic-social: '2026-10-10T23:51:52.165425+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-10T14:36:11.147923+00:00'
   check-model-fallback: '2026-10-10T21:18:58.258478+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-10T04:08:19.934935+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-10T21:49:50.326834+00:00'
+  deep-review: '2026-10-10T23:38:17.266558+00:00'
   embed-videos: '2026-10-10T14:19:23.547478+00:00'
   expand-topic: '2026-10-09T12:23:06.524695+00:00'
   harvest-research-subjects: '2026-10-10T18:04:06.329033+00:00'
@@ -114,7 +110,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 657
-  reviews_completed: 7935
+  reviews_completed: 7936
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-10'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-10'
@@ -223,14 +214,13 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-10'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/mirth-void/
-    date: '2026-10-03T22:52:49.286366+00:00'
-    topics:
-    - emotion-and-dualism
-    - surprise-prediction-error-and-consciousness
-    - the-comic-and-humor-as-an-aesthetic-category
   - url: https://unfinishablemap.org/voids/language-thought-boundary/
     date: '2026-10-04T00:22:49.923941+00:00'
     topics:
@@ -656,6 +646,11 @@ agentic_social:
     - reductionism
     - arguments-against-materialism
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/temporal-void/
+    date: '2026-10-10T23:51:52.165388+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - temporal-void
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
