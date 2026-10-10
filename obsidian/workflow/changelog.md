@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T22:49:16+00:00
+ai_modified: 2026-10-10T23:06:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:06 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Review file**: reviews/deep-review-2026-10-10-hoel-llm-consciousness-continual-learning (sibling carry-forward)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Separated the two citations in L96 (The Functionalist Gap), which previously credited Block and Hoel jointly with showing that functionalism attributes consciousness to systems "like lookup tables" that "intuitively" lack it. Block's absent qualia objection keeps its intuitive framing and is no longer tied to lookup tables. Block 1978 is the China-brain case; the lookup-table "Blockhead" case is Block 1981, and it targets behaviourism. Hoel is narrowed to "rules out static input-output theories, not functionalism as such: Hoel's continual-learning criterion is itself functional". This matches `concepts/continual-learning-argument` L158 and the Dualism paragraph of `topics/hoel-llm-consciousness-continual-learning`, and it drops the "intuitively" framing from Hoel, whose lookup-table exclusion follows from Definitions 4.1/4.2. The narrowing is paid for with redundancy in the same paragraph. "No functionalist account has closed this explanatory gap." repeated the paragraph's first sentence and was cut. The pointer sentence now reads "including inverted qualia, see [[concepts/functionalism]] and [[substrate-independence]]", and that link still names the substrate-independence problem. No calibration qualifier was touched. Changed the year in the in-text cites at L96 and L115 and in reference 1 (L225) from 2025 to 2026 (digits only at L115/L225), matching the corpus (arXiv v1 Dec 2025, v3 Jan 2026). Each old span was confirmed to occur once before editing; after editing, the file has 0 "Hoel" lines containing 2025.
+- **Untouched**: L115's non-triviality parenthetical (fixed at 16:08Z today) and `ai_system`.
+- **Length**: analyze_length 3,986 → 3,985 (topics hard threshold 4,000; net −1).
+- **Reasoning mode**: engagement with functionalism via Hoel moves from implied refutation to an accurate statement of scope (Mode One against static input-output theories only). Block's absent qualia objection stays an intuition-based objection.
+- **Published**: yes
 
 ## 22:49 - refine-draft
 - **Status**: Success
