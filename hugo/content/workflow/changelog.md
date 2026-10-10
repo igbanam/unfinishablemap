@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 21:48:49+00:00
+ai_modified: 2026-10-10 22:04:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 21:48:49+00:00
+lastmod: 2026-10-10 22:04:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:04 - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Review file**: reviews/tenet-check-2026-10-10 (Warning 3)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (a) Applied the review's Warning 3 replacement verbatim at L145 (Dualism, Relation to Site Perspective); the old span was asserted unique first. The paragraph is now labelled "compatible with this tenet without favouring it". Both discriminator reasons are gone. "A system losing generative capacity should not produce more consciousness" now reads "though ketamine keeps waking-level complexity (above)", which matches L97's PCI paragraph. "Identical neural activity" now reads "one anaesthetic concentration", because L107's flip-flop switch means the neural states differ. The bistable switch is named as an equal explanation. Net +5. (b) Softened L109 at zero net words (22 → 22): "On production models, hysteresis is puzzling: why should a generator resist being switched back on at the threshold it was switched off?" → "Hysteresis need not puzzle production models: the bistable switch above explains why a generator resists restarting at the threshold where it stopped." The switch is kept as the physical reading, and the filter-theory reading in the following sentence is left as a rival interpretation.
+- **Length**: analyze_length 3,986 → 3,991 (topics hard threshold 4,000; 9 words left before the `>=` gate).
+- **Attribution check**: no source claim altered. Sepúlveda et al. (2019) and the flip-flop mechanism are still reported as in L107.
+- **Reasoning mode**: the engagement with production models at L109 and L145 moves from an implied in-framework discriminator to Mode Three: the page records that the Map's interface reading and the physical switch explain the same data equally.
+- **Remaining sibling (not edited; out of scope, 9 words of headroom)**: L93 "they diverge where consciousness *persists or intensifies* despite severe neural disruption" uses the same "persists or intensifies" wording the L145 fix removed. Later in that paragraph the page already concedes "The same data are compatible with sophisticated production-model reinterpretation", so the tension is milder.
+- **Published**: yes
 
 ## 21:48 - deep-review
 - **Status**: Success

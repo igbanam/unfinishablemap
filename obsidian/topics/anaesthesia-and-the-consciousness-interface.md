@@ -4,7 +4,7 @@ description: "Anaesthetic agents disrupt separable components of consciousness �
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-10-10T07:40:13+00:00
+ai_modified: 2026-10-10T22:04:52+00:00
 draft: false
 anchoring_audit_exempt: true
 # anchoring exempt 2026-09-30: lexical false high — structural calibration present (suggestive-not-vindicating, convergence-of-vocabulary, live-hypothesis hedges, What-Anaesthesia-Cannot-Tell-Us); page at 3985/4000 cannot be padded
@@ -106,7 +106,7 @@ Recovery is not induction in reverse. The brain requires lower drug concentratio
 
 Sepúlveda et al. (2019) define **neural inertia** as intrinsic resistance of neural circuits to transitions between conscious and unconscious states: the hysteresis noted above, which pharmacokinetics cannot fully explain. Mutually inhibitory anaesthesia-active and wake-active populations form a bistable flip-flop switch in which each state reinforces itself. Friedman et al. (2010) showed neural inertia is phylogenetically conserved from invertebrates to mammals.
 
-On production models, hysteresis is puzzling: why should a generator resist being switched back on at the threshold it was switched off? The unconscious state is an actively maintained configuration that must be overcome, which filter theory reads as the interface's own structural resistance to reconfiguration rather than pharmacokinetic lag.
+Hysteresis need not puzzle production models: the bistable switch above explains why a generator resists restarting at the threshold where it stopped. The unconscious state is an actively maintained configuration that must be overcome, which filter theory reads as the interface's own structural resistance to reconfiguration rather than pharmacokinetic lag.
 
 ### The Active Reboot
 
@@ -142,7 +142,7 @@ Anaesthetic evidence alone cannot distinguish the Map's interactionist interpret
 
 Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete ways.
 
-**[[tenets#^dualism|Dualism]]**: Two patterns are compatible with, without establishing, this tenet. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, vivid ketamine experiences despite behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, neural inertia's hysteresis: identical neural activity corresponds to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
+**[[tenets#^dualism|Dualism]]**: Two patterns are compatible with this tenet without favouring it. First, experience persists through severe disruption — terminal lucidity, vivid ketamine experiences despite behavioural unresponsiveness — though ketamine keeps waking-level complexity (above). Second, neural inertia's hysteresis: one anaesthetic concentration corresponds to different consciousness states depending on transition direction, which the Map reads as the interface's own persistence conditions and the bistable switch above explains equally.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The anaesthetic-microtubule literature (Craddock et al., 2015; Wiest, 2025) bears on this tenet only through the pre-decoherence Orch-OR reading, which the Map currently demotes relative to post-decoherence selection, so it is not recruited here as affirmative support; see [[quantum-biology-and-neural-consciousness]] and [[stochastic-emergence-as-quantum-interface-evidence]].
 
