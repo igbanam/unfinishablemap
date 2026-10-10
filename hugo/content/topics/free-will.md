@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-10 13:21:49+00:00
+ai_modified: 2026-10-10 21:04:31+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-10-10 13:21:49+00:00
+lastmod: 2026-10-10 21:04:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map holds that consciousness is an [agent-causal](/concepts/agent-causation/) power that genuinely influences physical outcomes. Any account of agency must explain the felt difference between choosing and observing, deliberative effort, and the neural signatures of willed action; these tell against illusionist or epiphenomenal readings, not against physicalist control models.
+Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map holds that consciousness is an [agent-causal](/concepts/agent-causation/) power that genuinely influences physical outcomes. Any account of agency must explain the felt difference between choosing and observing, deliberative effort, and the neural signatures of willed action; epiphenomenal, illusionist and physicalist control models each accommodate them.
 
 <details class="yt-embed" data-video-id="ltzeYOXCUvY">
 <summary>Video introduction</summary>
@@ -111,7 +111,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [verification circularity](/voids/agency-void/#the-verification-circularity) blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than instructed attention. If choosing were epiphenomenal decoration, this correlation would be coincidental—though a physically realised control process predicts it equally.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) suggests that consciousness selects rather than merely observes, though it cannot exhibit that selection from inside — the [verification circularity](/voids/agency-void/#the-verification-circularity) blocks first-person confirmation of causal power, so the support here is indirect. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than instructed attention. If choosing were epiphenomenal decoration, a psychophysical law would carry this correlation—the epiphenomenalist's [best reply](/tenets/#tenet-3-epiphenomenalism)—and a physically realised control process predicts it equally.
 
 ### Counterfactual Reasoning
 

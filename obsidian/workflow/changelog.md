@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T20:52:34+00:00
+ai_modified: 2026-10-10T21:05:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:04 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Review file**: reviews/tenet-check-2026-10-10 (Warning 1)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Applied the review's two Warning 1 replacements verbatim. Each old span was asserted unique before replacement. (a) L66 lead: "these tell against illusionist or epiphenomenal readings, not against physicalist control models" → "epiphenomenal, illusionist and physicalist control models each accommodate them" (−3). (b) L110: "this correlation would be coincidental—though a physically realised control process predicts it equally" → "a psychophysical law would carry this correlation—the epiphenomenalist's [[tenets#^tenet-3-epiphenomenalism|best reply]]—and a physically realised control process predicts it equally" (+5). The page now matches tenets L101: a tight phenomenal-to-neural correlation can underwrite report accuracy without phenomenal causation. It also matches its own L106 record that Wegner grants the experience of willing is real. Description (rewritten 13:24Z) checked: it does not repeat the "tell against" claim. Length 3,996 → 3,998 (topics hard 4,000).
+- **Attribution check**: no source claim altered. The epiphenomenalist reply is credited to the tenets page, where it is stated.
+- **Reasoning mode**: engagement with epiphenomenalism and illusionism moves from a claimed in-framework refutation to Mode Three. The L110 strawman ("coincidental") was replaced with the opponent's actual reply.
+- **Remaining sibling (not edited; out of scope, 1 word of headroom)**: L102 "This coherence tells against accounts treating the phenomenology as illusory or idle." This is the same claim, installed in the same 780458c98c (09-27) repair. It now sits in tension with the new L66 lead.
+- **Published**: yes
 
 ## 20:52 - refine-draft
 - **Status**: Success
