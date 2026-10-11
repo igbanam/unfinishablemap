@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 17:05:53+00:00
+ai_modified: 2026-10-11 17:22:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 17:05:53+00:00
+lastmod: 2026-10-11 17:22:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:22 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Review file**: outer-review-2026-10-11-chatgpt-5-6-sol-pro (improvements 20 and 21; Verification Notes, "Not tasked", improvement 1, which left the title question to this task)
+- **Original score**: not run (`scripts/curate.py` absent)
+- **Word count**: 22,372 → 22,496 (+124) by `analyze_length`. The new paragraph is 148 words. A clause at L120 that restated the L114 rule ("and a tenet-load-bearing 'supports Dualism / supports MQI' claim is licensed only where the article names a discriminator the rival does not also predict") was cut (−24).
+- **Changes**: added a dated paragraph, "**Design labels (2026-10-11).**", at the end of "Compatibility vs. Support at the Rival-Model Interface" (L126). The section previously governed how evidence is classified, not what a design may be called. A design may claim to discriminate X from Y only for the Y it names. It must state each reading's prediction in advance and the outcome that would lower the Map reading's probability, or admit there is none. Its lead must name the strongest rival the design does not exclude, since designs are graded against the strongest rival left standing. A title may use "discriminating" only with that rival in view, and titles can be qualified without slug changes. The paragraph uses the P(E | Map) > P(E | best rival) wording of `apex/self-concealing-interface` L147 (L93's "bet placed in advance"). No heading was renamed, and the L408 anchor link still resolves.
+- **Worked cases**: `topics/direction-dependent-discriminating-test-design` is cited as the prompting case. Its lead, after today's three refines (latest 16:22), names static-threshold production as the only model it excludes, and multistable dynamics and emergence circuitry as surviving rivals. The lead complies; the title ("Designing a Direction-Dependent Discriminating Test for the Interface Model") does not. `topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy` is cited as not complying. Its lead says the tests "discriminate production from filter readings" and names only the region-vulnerability production reading. It concedes the two readings are equivalent on current evidence, but names no rival the design would leave standing (reviewer improvement 17).
+- **Not done**: no registry or tooling (improvement 23 needs an operator decision). Neither worked-case article was edited.
+- **Published**: yes
 
 ## 17:05 - refine-draft
 - **Status**: Success
