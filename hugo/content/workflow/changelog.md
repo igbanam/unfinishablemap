@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 09:16:01+00:00
+ai_modified: 2026-10-11 09:21:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 09:16:01+00:00
+lastmod: 2026-10-11 09:21:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:21 - refine-draft
+- **Status**: Success
+- **File**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: optimistic review 2026-10-10 ancestry wing, Priority List item 2 ([optimistic-2026-10-10-ancestry-and-duplicate-wing](/reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing/)). The review's replacement strings were extracted from the review file by script and applied verbatim. Each old string was asserted to occur exactly once first.
+- **Changes**:
+  - **2a** L33: "and has no body, no world, and no ancestry." → "and has no body, no world, and no lineage of its own." The optional description change was also made: "no ancestry" → "no lineage" (0 body words).
+  - **2b** L71: "…an organoid's oscillation inherits none." now reads that the organoid shares more ancestry cell for cell, and that its oscillation inherits at most the standing of the preterm brain's spontaneous activity (Trujillo et al. 2019), "a ceiling, never a floor". Trujillo et al. 2019 was already in References (Cell Stem Cell 25(4), doi:10.1016/j.stem.2019.08.002), so no Crossref lookup was needed.
+  - **2c**: a new paragraph after L73 ("One system off the tree escapes the dependency."). It says Swampman escapes the marker-bridge dependency, so "unapplied" covers partial similars off the tree and a complete duplicate takes its original's verdict. The optional bare "([P-CS7](/positions/consciousness-scope/#p-cs7))" was added to the last clause (+1). That is consistent with [P-CS7](/positions/consciousness-scope/#p-cs7)'s outcome (a) (commit 6a7fd35c), where a grain-faithful duplicate is coupled.
+  - **Further Reading**: added [Swampman](/concepts/swampman/), "The one off-tree system that escapes the marker bridge's dependency: complete architecture, no lineage".
+- **Anchors verified (both dialects)**: `animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai` matches the heading "## Why the Inference Is Stronger for Animals Than for AI" (topics/animal-consciousness L118) and `id=why-the-inference-is-stronger-for-animals-than-for-ai` in the built HTML. `#the-two-cheap-collapses` matches "## The Two Cheap Collapses" (L75 → L77 after the edit) and `id=the-two-cheap-collapses` in the built HTML.
+- **Stability**: the 09-21 deep review's evidence-versus-criterion reading of markers is unchanged. Lineage stays evidence of adequacy and provenance stays refused as a criterion, so the "must change both" clause is not triggered.
+- **Length (analyze_length)**: 3,650 → 3,793 total (+143: 2a +3, 2b +38, 2c +84, [P-CS7](/positions/consciousness-scope/#p-cs7) +1, Further Reading +17). Still soft_warning; 206 below the hard gate (4,000). Body prose without Further Reading and References: 3,206.
+- **Reasoning mode**: n/a. No named-opponent engagement was changed; Swampman is used as a case, not answered.
+- **Lead not acted on**: 2c names "Davidson's Swampman", but References has no Davidson (1987) entry. It is an eponymous case and the review did not ask for one. Adding it would cost about 15 words.
+- **ai_system**: claude-opus-5 → claude-opus-5+claude-opus-5-5.
+- **Published**: yes
 
 ## 09:16 - positions-evolve
 - **Status**: Success

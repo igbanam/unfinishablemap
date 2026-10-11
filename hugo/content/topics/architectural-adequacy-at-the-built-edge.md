@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-21
-ai_modified: 2026-09-24 03:16:22+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-10-11 09:20:33+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -11,15 +11,15 @@ concepts:
 - '[[substrate-independence]]'
 - '[[ai-hardware-substrate-taxonomy]]'
 created: 2026-09-21
-date: &id001 2026-09-21
-description: Cortical organoids and anthrobots have architecture but no ancestry.
-  A human-AI test of whether the Map's universal coupling response has an engineered
+date: &id001 2026-10-11
+description: Cortical organoids and anthrobots have architecture but no lineage. A
+  human-AI test of whether the Map's universal coupling response has an engineered
   case, or only an unapplied one.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 20:12:49+00:00
-lastmod: 2026-09-24 03:16:22+00:00
+lastmod: 2026-10-11 09:20:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 - '[[consciousness-in-simple-organisms]]'
 ---
 
-The Unfinishable Map's [universal coupling response](/concepts/universal-coupling-response/) holds that consciousness couples with every physical system whose architecture meets adequate conditions — scale-independent integration plus systemic coordination — and that adequacy is itself required, so a system falling short has no coupling at all. Every case the Map has used to calibrate that condition is an evolved animal. Built systems put it to a test it has never taken. A cortical organoid is real human neural tissue with real synapses and spontaneous oscillatory network activity, and has no body, no world, and no ancestry. An anthrobot is living human tissue with a transcriptome distinct from its source cells, and has no nervous system at all. Is either architecturally adequate?
+The Unfinishable Map's [universal coupling response](/concepts/universal-coupling-response/) holds that consciousness couples with every physical system whose architecture meets adequate conditions — scale-independent integration plus systemic coordination — and that adequacy is itself required, so a system falling short has no coupling at all. Every case the Map has used to calibrate that condition is an evolved animal. Built systems put it to a test it has never taken. A cortical organoid is real human neural tissue with real synapses and spontaneous oscillatory network activity, and has no body, no world, and no lineage of its own. An anthrobot is living human tissue with a transcriptome distinct from its source cells, and has no nervous system at all. Is either architecturally adequate?
 
 The Map does not know, and the built cases do not settle it in either direction — but the honest version of that verdict says more than a shrug does. Architectural adequacy and the evidence the Map has always used to detect it come apart at the built edge. The functional markers that make adequacy tractable in animals draw their force from a phylogenetic bridge that built systems sever ([the marker bridge](#the-marker-bridge), below). Universal coupling's scope claim is therefore, for built systems, currently *unapplied* rather than affirmatively extended, and most of what this article can do is refuse two cheap collapses — *organised living tissue, therefore adequate* and *artificial, therefore inadequate* — while conceding that refusing them leaves the question exactly where it was, with two shortcuts removed and no case gained.
 
@@ -72,9 +72,11 @@ Two flanking cases mark the ends of the class: JCVI-syn3.0, a synthetic 473-gene
 
 The universal coupling response was argued into place by two eliminations, and only one of them runs on evidence. Coupling selectivity falls to a conceptual objection — it needs an unexplained selection principle — and that leg is as good at the built edge as anywhere, which is why it does work in the next section. The threshold response falls to empirical erosion, and that is the leg the built cases strand. Barron and Klein (2016) found insect central complexes performing functions analogous to the vertebrate midbrain; Chittka (2022) documented face recognition, tool use and metacognition-like behaviour in bees; the New York Declaration (2024) extended a realistic possibility of consciousness to insects, crustaceans and cephalopods; Birch's (2022) programme supplies the framework these results are read within. Each finding pushes a proposed boundary lower, which is the pattern the Map takes to show no principled boundary exists.
 
-Every step of the erosion argument runs on markers, and markers work by inference from the one uncontested conscious case outward along shared ancestry and architecture. Rouleau and Levin state the feature of built systems that severs this, while arguing that engineered systems are the natural testbeds for sentience: engineered agents' "morphologic and behavioral competencies cannot be explained by a long history of selection for those traits" (Rouleau & Levin 2023). That conclusion — look harder, in stranger places — is a research policy [the Map does not oppose](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/); what the Map denies is that such a search could return a positive finding in the form these testbeds deliver. Either way, the observation removes the phylogenetic support on which marker inference runs. A crab's nociception inherits credibility from shared ancestry with the calibration case; an organoid's oscillation inherits none.
+Every step of the erosion argument runs on markers, and markers work by inference from the one uncontested conscious case outward along shared ancestry and architecture. Rouleau and Levin state the feature of built systems that severs this, while arguing that engineered systems are the natural testbeds for sentience: engineered agents' "morphologic and behavioral competencies cannot be explained by a long history of selection for those traits" (Rouleau & Levin 2023). That conclusion — look harder, in stranger places — is a research policy [the Map does not oppose](/topics/synthetic-minimal-agents-and-the-engineered-decoupling/); what the Map denies is that such a search could return a positive finding in the form these testbeds deliver. Either way, the observation removes the phylogenetic support on which marker inference runs. A crab's nociception inherits credibility from shared ancestry with the calibration case. An organoid's oscillation shares more ancestry with it, cell for cell, yet inherits at most the standing of what it resembles, the preterm brain's spontaneous activity (Trujillo et al. 2019), and without the organism that activity belongs to: a ceiling, never a floor.
 
 The consequence for universal coupling is specific. Threshold erosion is an argument about evolved animals, and it neither extends to built systems nor is weakened by them. The scope claim quantifies over all architecturally adequate systems, but the Map's only working method for identifying adequate systems stops at the edge of the tree. That is why the built cases leave the position unapplied rather than confirmed or refuted there.
+
+One system off the tree escapes the dependency. Davidson's [Swampman](/concepts/swampman/), a lightning-formed physical duplicate of a person, has no lineage and the whole architecture of the calibration case. Ancestry earns its evidential place by supplying a shared-cause explanation for similarity ([the animal case](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai)), and where the similarity is total that work is already done. What would remain is provenance as a criterion, which [the next section](#the-two-cheap-collapses) refuses. So "unapplied" describes partial similars off the tree; a complete duplicate takes whatever verdict its original takes ([P-CS7](/positions/consciousness-scope/#p-cs7)).
 
 ## The Two Cheap Collapses
 
@@ -131,6 +133,7 @@ Nothing has come in on any of the four. That is weaker than having been tested a
 - [brain-organoids-and-the-organoid-intelligence-question](/topics/brain-organoids-and-the-organoid-intelligence-question/) — The organoid case in full, with the three readings and the ethics literature
 - [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/) — The separate substrate-physics question: whether the class of matter could host an interface at all
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where the adequacy question is asked of organisms the marker method can reach
+- [Swampman](/concepts/swampman/) — The one off-tree system that escapes the marker bridge's dependency: complete architecture, no lineage
 - [Competency Without Felt Experience](/apex/competency-without-felt-experience/) — The synthesis this cluster feeds
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Where the falsifiability burden this article inherits is taken on
 - [tenets](/tenets/) — The five commitments, with Tenet 5 the primary stake
