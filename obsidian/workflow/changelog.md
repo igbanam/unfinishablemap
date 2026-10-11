@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T19:51:35+00:00
+ai_modified: 2026-10-11T20:18:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:18 - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
+- **Word count** (`analyze_length`, topics soft 3,000 / hard 4,000): 2,934 → 3,270 (+336; prose 2,577 → 2,852, still under soft; `soft_warning` on the total)
+- **Critical issues addressed**: 5. (1) McGinn strawmanned as an "inference from persistent failure"; he calls failure "suggestive, but scarcely conclusive" and argues structurally (Mind 1989 pp. 354–361, grep-verified), so the passage was rewritten to engage him on his own terms. (2) Three orphan references (Bechtel & Abrahamsen 2005, Chalmers 1996, Craver 2007) are now cited inline; the 06-01 "no orphans" certification was false. (3) Tegmark's 10⁻¹³ s figure was labelled "neural superpositions" but is the microtubule figure, with neuron firing at 10⁻²⁰ s; corrected. (4) The self-stultification argument now meets Chalmers' acquaintance reply and rebuts it from his own third-person concession. (5) The James–Stapp "identified independently / maps onto" claim is now attributed to Schwartz, Stapp & Beauregard 2005 and discounted under P-M2.
+- **Medium issues addressed**: 10. Schwartz OCD causal overclaim (Schwartz et al. 1996 added, result direction checked); willed-attention claim (Rajan et al. 2019 added, scope-limited); Schwitzgebel paraphrase; Zheng & Meister "measured" changed to "survey"; decoherence constraint scoped to coherence-dependent routes against [[post-decoherence-selection]]; PCS named as the strongest physicalist rival (convention 4); "would bias" ×3 (mechanism-debt convention); single-event qualifier; Tenet-5 overclaim; two "not X—it is Y" constructs.
+- **Enhancements made**: 5 cross-links ([[phenomenal-concepts-strategy]], [[self-stultification]], [[mysterianism]], [[post-decoherence-selection]], [[bandwidth-of-consciousness]]) and 1 Further Reading entry.
+- **Engagements** (editor-internal): Dennett Mode Three; PCS Mode Three (new); Chalmers Mixed (Mode One via his third-person concession, then Mode Three); McGinn Mixed (upgraded from a strawman; Mode One via his own concessions); MWI Mode Three.
+- **Citation ledger**: 14 cites web-verified at publisher of record or full text (12 existing, 2 added). Real-wrong-detail fixed in body: Tegmark, McGinn, Schwitzgebel, Zheng & Meister. See review archive.
+- **Follow-up queued**: P2 refine-draft sweep of the Tegmark 10⁻¹³/10⁻²⁰ mislabel across ~35 live lines, including `tenets/tenets.md` L77 (`workflow/todo.md`, above Completed Tasks).
+- **Output**: [[reviews/deep-review-2026-10-11-epistemology-of-mechanism-at-the-consciousness-matter-interface]]
 
 ## 19:51 - refine-draft
 - **Status**: Success
