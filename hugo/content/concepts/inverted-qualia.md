@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-08-07 22:24:00+00:00
+ai_modified: 2026-10-11 02:50:28+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -33,7 +33,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 10:13:31+00:00
-lastmod: 2026-08-07 22:24:00+00:00
+lastmod: 2026-10-11 02:50:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,9 +137,9 @@ The objections above come from physicalists and eliminativists, and each has bee
 
 The **dancing qualia** argument is his case. Give a subject a functionally identical silicon backup for some cortical region, with a switch that routes processing either way without altering overall organization. If the two substrates yielded inverted experiences, flipping the switch would swap red for blue while nothing in the subject's cognition registered the swap—no surprise, no shift of attention, no altered judgment. A rational subject attending to a dancing spectrum and noticing nothing is, Chalmers argues, less believable than the invariance principle he is defending. The companion **fading qualia** argument runs the same hinge over gradual neuron-by-neuron replacement.
 
-This cannot be deflected as physicalist question-begging, which is what makes it the sharpest case the article faces. Neither is it a refutation of the Map's position, nor the Map's reply a refutation of his. The disagreement concerns [psychophysical law](/concepts/psychophysical-laws/) and grain. Chalmers' principle carries its own qualifier—*at a fine enough grain*—and the Map's claim is that the consciousness-relevant grain includes the quantum interface posited by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If Invert and Nonvert differ at that interface, they were never fine-grained functional duplicates, and the dancing scenario does not arise for a genuine isomorph.
+This cannot be deflected as physicalist question-begging, which is what makes it the sharpest case the article faces. Neither is it a refutation of the Map's position, nor the Map's reply a refutation of his. The disagreement concerns [psychophysical law](/concepts/psychophysical-laws/) and grain. Chalmers sets that grain at the level "fine enough to determine a system's behavioral dispositions" (Chalmers 1995); the Map argues the consciousness-relevant grain is finer, and includes the quantum interface posited by [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If Invert and Nonvert differ at that interface, they were never duplicates at the grain experience depends on, and the dancing scenario does not arise for a genuine duplicate.
 
-The reply carries a dilemma the Map owns rather than escapes. If the interface difference is behaviourally detectable, it is *ipso facto* organizational—fine-grained organization is specified at whatever level of detail is needed to fix behaviour—so Chalmers' isomorph already reproduces it and the grain dispute collapses. If it makes no *detectable* difference, the subject's part-silicon stages are behaviourally identical to the all-neural ones while, on the Map's view, experience has shifted, which reinstates the very introspection-versus-experience dissociation the fading argument calls implausible. This article is not neutral between the horns: the [MQI discussion below](#bidirectional-interaction-and-minimal-quantum-interaction) predicts subtle behavioural differences from any actual inversion, which takes the first. What keeps that from being fatal is a type/token distinction—an isomorph reproduces the causal *pattern*, statistical envelope included, whereas MQI concerns which *token* outcome is drawn inside that envelope, a difference that is causally efficacious (so not [epiphenomenal](/concepts/epiphenomenalism/)) without being organizational (so not reproduced by the isomorph). The Map owes an account of that distinction rather than a free escape. [organizational-invariance](/concepts/organizational-invariance/) states both arguments at full strength and takes the same horn, with the account still owed.
+The reply carries a dilemma the Map owns rather than escapes. If the interface difference is behaviourally detectable, it is *ipso facto* organizational at Chalmers' grain, so his isomorph already reproduces it and the grain dispute collapses. If it makes no *detectable* difference, the subject's part-silicon stages are behaviourally identical to the all-neural ones while, on the Map's view, experience has shifted, which reinstates the very introspection-versus-experience dissociation the fading argument calls implausible. This article is not neutral between the horns: the [MQI discussion below](#bidirectional-interaction-and-minimal-quantum-interaction) predicts subtle behavioural differences from any actual inversion, which takes the first. What keeps that from being fatal is a type/token distinction—an isomorph reproduces the causal *pattern*, statistical envelope included, whereas MQI concerns which *token* outcome is drawn inside that envelope, a difference that is causally efficacious (so not [epiphenomenal](/concepts/epiphenomenalism/)) without being organizational (so not reproduced by the isomorph). But such an isomorph—behaviourally identical, and on the Map's view experientially different—is the second horn's dissociation again. The Map owes an account of that distinction rather than a free escape. [organizational-invariance](/concepts/organizational-invariance/) states both arguments at full strength and takes the same horn, with the account still owed.
 
 ## Process Philosophy Perspective
 
@@ -222,6 +222,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - Emery, K. J., Volbrecht, V. J., Peterzell, D. H. & Webster, M. A. (2023). "Fundamentally Different Representations of Color and Motion Revealed by Individual Differences in Perceptual Scaling." *PNAS*, 120(4), e2202262120.
 - Horiuchi, S. & Nagai, T. (2024). "Color Discrimination Repetition Distorts Color Representations." *Scientific Reports*, 14, 9615.
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
+- Chalmers, D. (1995). "Absent Qualia, Fading Qualia, Dancing Qualia." In T. Metzinger (ed.), *Conscious Experience*. Imprint Academic.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

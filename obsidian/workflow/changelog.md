@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T02:34:41+00:00
+ai_modified: 2026-10-11T02:50:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:50 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Original score**: n/a (`scripts/curate.py` absent; review-directed span fix)
+- **Review file**: reviews/deep-review-2026-10-10-organizational-invariance.md (P2 minted at its L146: inverted-qualia L136/L138 carried the same contradiction as that review's Critical 2)
+- **Changes**: L136 claimed Invert and Nonvert "were never fine-grained functional duplicates, and the dancing scenario does not arise for a genuine isomorph", which contradicted L138's "without being organizational (so not reproduced by the isomorph)". Chalmers fixes the grain himself. L136 now copies the twin's wording (`concepts/organizational-invariance` L80/L82): "Chalmers sets that grain at the level 'fine enough to determine a system's behavioral dispositions' (Chalmers 1995); the Map argues the consciousness-relevant grain is finer, and includes the quantum interface…", and they "were never duplicates at the grain experience depends on … for a genuine duplicate". This keeps *isomorph* in Chalmers' sense, as the review's terminology note asks. Added the Chalmers (1995) reference entry. OPTIONAL cost sentence taken, copied from twin L84: "But such an isomorph—behaviourally identical, and on the Map's view experientially different—is the second horn's dissociation again." L138's dash clause "fine-grained organization is specified at whatever level of detail is needed to fix behaviour" now repeated the L136 quote, so it became "organizational at Chalmers' grain, so his isomorph…" to offset length.
+- **Engagement classification**: Chalmers is Mixed, with a Mode Three core (the Map contests Chalmers' grain criterion on Tenet 2 grounds rather than applying it). The type/token passage is a Mode One self-accounting: Chalmers' dissociation argument is run against the Map's own reply. This matches the 2026-10-10 reclassification of the twin.
+- **Guards kept**: The type/token account was not strengthened and stays owed ("The Map owes an account" 1, "with the account still owed" 1). The first-horn commitment and the MQI cross-link are unchanged. Post-edit counts: "never fine-grained functional duplicates" 0, "genuine isomorph" 0, "carries its own qualifier" 0, "Chalmers sets that grain" 1, "duplicates at the grain experience depends on" 1, "second horn's dissociation again" 1.
+- **Length**: analyze_length 3,438 → 3,476 (concepts hard 3,500, gate `>=`; net +38, of which about 19 are the new reference line and citation, 18 the optional cost sentence, and −11 the L138 trim).
+- **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` left unchanged (copied wording; not re-authoring).
+- **Published**: yes
 
 ## 02:34 - refine-draft
 - **Status**: Success
