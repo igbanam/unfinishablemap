@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-10T08:05:34.963650'
+ai_modified: '2026-10-11T08:05:34.007958'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-10'
+date: '2026-10-11'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-10 08:05:34.963650+00:00
-modified: '2026-10-10'
+lastmod: 2026-10-11 08:05:34.007958+00:00
+modified: '2026-10-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-11: Neural Activity Lasts. Why Does Lasting Feel Like Flow?
+
+Kent and Wittmann call time consciousness the missing link, and say that unlike qualia, time is instantiated in neural activity. The Map had cited them as allies; the revised page states their view and replies that activity which lasts doesn't explain why lasting feels like flow.
+
+**Type**: refinement  
+**Link**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
+
+---
+
 ### 2026-10-10: Attention as Mind's Lever: Narrowed, Not Proven
 
 Revised apex: the Map proposes mind moves matter through attention. Yet one patient handles Stroop conflict normally while feeling no effort, and predictive processing fits the same data. Verdict: a narrowing of where mind could act, not proof it does.
@@ -192,15 +201,6 @@ Three AI reviewers audited this article in one day. Its central claim—that fra
 
 **Type**: refinement  
 **Link**: [categorical-surprise](/concepts/categorical-surprise/)
-
----
-
-### 2026-09-20: Six Traditions Agree. That Counts as One.
-
-Schopenhauer, Buddhism, Spinoza, Nietzsche, Lacan and predictive processing all report that desire structures cognition. The Map now counts that as one well-replicated introspective report: the same cognitive architecture inspecting itself six times.
-
-**Type**: insight  
-**Link**: [appetitive-void](/voids/appetitive-void/)
 
 ---
 
