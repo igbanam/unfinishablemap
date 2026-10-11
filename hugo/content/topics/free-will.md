@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-10 21:04:31+00:00
+ai_modified: 2026-10-11 12:06:21+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-10-10 21:04:31+00:00
+lastmod: 2026-10-11 12:06:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Three lines of evidence fit genuine agent causation:
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes. Reasons-responsiveness is also the compatibilist's criterion, so this line shows selection is not random, not that it is agent-causal.
 3. **Distinctive neural signatures**: Willed attention shows greater frontal theta power and fronto-parietal coherence than instructed attention (Rajan et al., 2019).
 
-The physicalist can accommodate the neural data—different neural modes explain different signatures. The evidence shows a systematic correspondence between felt effort and neural distinctiveness across domains—attention, motor control, reasoning—where the phenomenal character tracks the *degree* of conscious engagement rather than the *type* of neural processing. This coherence tells against accounts treating the phenomenology as illusory or idle. It does not tell against the strongest physicalist rival: volition as a physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process itself. That view predicts the same covariation, so the covariation is neutral between it and agent causation. What separates them is whether that conscious character needs explaining beyond its physical realisation—the hard problem— where the disagreement reaches bedrock.
+The physicalist can accommodate the neural data—different neural modes explain different signatures. The evidence shows a systematic correspondence between felt effort and neural distinctiveness across domains—attention, motor control, reasoning—where the phenomenal character tracks the *degree* of conscious engagement rather than the *type* of neural processing. Agent causation predicts this coherence, but epiphenomenalists (by psychophysical law) and illusionists accommodate it too, as does the strongest physicalist rival: volition as a physically realised, causally active control-and-monitoring process whose conscious character is an aspect of the process itself. That view predicts the same covariation, so the covariation is neutral between it and agent causation. What separates them is whether that conscious character needs explaining beyond its physical realisation—the hard problem—where the disagreement reaches bedrock.
 
 ### Introspective Reliability
 

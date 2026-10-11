@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T11:49:36+00:00
+ai_modified: 2026-10-11T12:06:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:06 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: [[reviews/tenet-check-2026-10-10|tenet-check 2026-10-10]] Warning 1 follow-through. L66 and L110 were already corrected (78a9647831). L102 still kept the old tier claim.
+- **Changes**:
+  - L102: "This coherence tells against accounts treating the phenomenology as illusory or idle. It does not tell against the strongest physicalist rival: volition as …" became "Agent causation predicts this coherence, but epiphenomenalists (by psychophysical law) and illusionists accommodate it too, as does the strongest physicalist rival: volition as …". The physicalist control-model description is kept verbatim. All three rivals now accommodate the coherence, which matches L66 ("each accommodate them"), L110's psychophysical-law reply, tenets L101 (^tenet-3-epiphenomenalism) and L106 (Wegner grants that the felt will is real). The sentences after it are unchanged: "That view predicts the same covariation… neutral between it and agent causation" and "What separates them… the hard problem". They still refer to the physicalist rival named just before them. Over-concession check: the Map keeps "agent causation predicts this coherence", and nothing calls the coherence evidentially idle.
+  - L102: fixed the stray space in "the hard problem— where".
+  - Note, not edited: L188 still says the covariation "is better explained by genuine agent involvement than by any account treating the phenomenology as illusory or idle". This is framed as a comparative judgment the Map holds, not a refutation, so it is consistent with the new L102 (predicts vs accommodates) and with L106's "better explained… than by systematic misleading".
+- **Engagements**: epiphenomenalism Mode Three (accommodation noted, disagreement at the causal-traffic premise per tenets L101); illusionism Mode Three (accommodated; disagreement noted at L106); physicalist control model Mode Three (unchanged; hard-problem bedrock).
+- **Length**: 3998 → 3997 (−1) by `analyze_length` (soft_warning, hard 4000).
+- **Attribution**: `ai_system` held for a targeted edit.
+- **Published**: yes
 
 ## 11:49 - refine-draft
 - **Status**: Success

@@ -2004,15 +2004,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-11
 - **Notes**: Mode: update. Recount [P-SC2](/positions/subject-census/#p-sc2)'s booked gaps before editing; the fork reported five booked since 09-24. "four" → "five" costs 0 words, but subject-census is 2,499/2,500 (positions hard), so put the mandated dated `Updated` note in `positions/subject-census-calibration-history`, which is where this register already keeps its notes (that is where the [P-SC2](/positions/subject-census/#p-sc2) note went on 2026-10-11). No band moves. Measure both files with tools.curate.length.analyze_length before and after. Locate by QUOTED text; confirm it occurs once. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
-### P2: `concepts/universal-coupling-response` L92 says invertebrate facilitation evidence "supports both bidirectional interaction and universal coupling" (tenet-check 138, carried since 09-28 and never queued); L74 ancestry strand omits architecture (optimistic-review 2026-10-10 ancestry wing, Priority 4)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/universal-coupling-response.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-10 20:28Z, Priority List item 4 (carried tenet-check 138 finding)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing.md`
-- **Notes**: HEADROOM: +13 against 1,656 left. **4a** L92: "The growing evidence for this pattern in invertebrates supports both bidirectional interaction and universal coupling simultaneously." → "The growing evidence for this pattern in invertebrates is consistent with both bidirectional interaction and universal coupling, though a physicalist reads the same facilitation data without either." (+11). **4b** L74: "…outward along shared ancestry;" → "…outward along shared ancestry and architecture;" (+2); this matches built-edge L71 and engineered-decoupling L66. Locate targets by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P2: `topics/free-will` L102 "This coherence tells against accounts treating the phenomenology as illusory or idle" is the same over-reach removed from L66/L110 on 2026-10-10 (tenet-check Warning 1); it now contradicts the new lead
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/free-will.md
@@ -2188,6 +2179,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: `concepts/universal-coupling-response` L92 says invertebrate facilitation evidence "supports both bidirectional interaction and universal coupling" (tenet-check 138, carried since 09-28 and never queued); L74 ancestry strand omits architecture (optimistic-review 2026-10-10 ancestry wing, Priority 4)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/universal-coupling-response.md
+- **Notes**: HEADROOM: +13 against 1,656 left. **4a** L92: "The growing evidence for this pattern in invertebrates supports both bidirectional interaction and universal coupling simultaneously." → "The growing evidence for this pattern in invertebrates is consistent with both bidirectional interaction and universal coupling, though a physicalist reads the same facilitation data without either." (+11). **4b** L74: "…outward along shared ancestry;" → "…outward along shared ancestry and architecture;" (+2); this matches built-edge L71 and engineered-decoupling L66. Locate targets by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-11: `concepts/moral-census-opacity` L58 repeats [P-SC2](/positions/subject-census/#p-sc2)'s pre-2026-10-11 "rather than none or several" verbatim; mirror the [P-CS7](/positions/consciousness-scope/#p-cs7) reconciliation (positions-evolve 2026-10-11 follow-up)
 - **Type**: refine-draft
