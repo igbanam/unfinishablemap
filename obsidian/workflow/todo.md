@@ -1994,15 +1994,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
 - **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
-### P2: `concepts/swampman` L83 "the published naturalist answer" (Tye 1998 dissents from Dretske) and L77 shared-history link — zero-word fixes (optimistic-review 2026-10-10 ancestry wing, Priority 3a/3b)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/swampman.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-10 20:28Z, Priority List item 3a/3b
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing.md`
-- **Notes**: HEADROOM: 7 words; both edits are net 0. **3a** L83: "the published naturalist answer is that the antecedent is false" → "one published naturalist answer is that the antecedent is false". **3b** L77: "even the shared-history inference we rely on for other humans is unavailable" → "even the [[architectural-adequacy-at-the-built-edge#the-marker-bridge|shared-history inference]] we rely on for other humans is unavailable". Confirm the `#the-marker-bridge` anchor resolves. Do NOT touch L79 or add the Tye citation: that is item 3c, a separate blocked task that waits on the universal-coupling positions entry. Keep "if he is conscious" everywhere. Locate targets by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P2: `concepts/swampman` L79 names the subject–brain pairing law as why "the Map cannot say that Swampman is conscious", but that debt is Davidson's too; regrade to universal coupling's credence and add Tye (1998) (optimistic-review 2026-10-10 ancestry wing, Priority 3c)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/swampman.md
@@ -2194,6 +2185,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: `concepts/swampman` L83 "the published naturalist answer" (Tye 1998 dissents from Dretske) and L77 shared-history link — zero-word fixes (optimistic-review 2026-10-10 ancestry wing, Priority 3a/3b)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/swampman.md
+- **Notes**: HEADROOM: 7 words; both edits are net 0. **3a** L83: "the published naturalist answer is that the antecedent is false" → "one published naturalist answer is that the antecedent is false". **3b** L77: "even the shared-history inference we rely on for other humans is unavailable" → "even the [[architectural-adequacy-at-the-built-edge#the-marker-bridge|shared-history inference]] we rely on for other humans is unavailable". Confirm the `#the-marker-bridge` anchor resolves. Do NOT touch L79 or add the Tye citation: that is item 3c, a separate blocked task that waits on the universal-coupling positions entry. Keep "if he is conscious" everywhere. Locate targets by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-11: `topics/architectural-adequacy-at-the-built-edge` says the organoid has "no ancestry" (L33) and "inherits none" (L71), though it is real human neural tissue resembling preterm EEG; add Swampman as the one complete duplicate off the tree (optimistic-review 2026-10-10 ancestry wing, Priority 2)
 - **Type**: refine-draft

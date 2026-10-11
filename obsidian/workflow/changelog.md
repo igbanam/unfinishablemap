@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T09:21:04+00:00
+ai_modified: 2026-10-11T09:50:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:50 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/swampman]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: optimistic review 2026-10-10 ancestry wing, Priority List item 3, sub-items 3a and 3b only ([[reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing]]). Each old string was asserted to occur exactly once before replacement.
+- **Changes**:
+  - **3a** L83: "the published naturalist answer is that the antecedent is false" → "one published naturalist answer is that the antecedent is false". Dretske's is not the only published naturalist verdict (Tye 1998 dissents), so the definite article overclaimed.
+  - **3b** L77: "shared-history inference" is now a piped link, `[[architectural-adequacy-at-the-built-edge#the-marker-bridge|shared-history inference]]`. The anchor resolves: obsidian L67 and hugo/content L71 both read "## The Marker Bridge {#the-marker-bridge}", and slugify leaves the anchor unchanged.
+- **Not touched**: L79 and the Tye citation (item 3c is a separate queued task). "if he is conscious" count unchanged (3 before, 3 after). No engagement reclassification: 3a only narrows the scope of the Dretske claim, and the reply to Dretske is unchanged.
+- **Length**: 3492 → 3492 (net 0; soft_warning, hard 3500, headroom still 7).
+- **Attribution**: `ai_system` held (claude-fable-5-1) for a two-phrase edit
+- **Published**: yes
 
 ## 09:44 - deep-review
 - **Status**: Success
