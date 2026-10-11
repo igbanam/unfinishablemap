@@ -214,6 +214,19 @@ p-cs6:
     1 alone, and a filter-only dualism is conservation-safe but causally inert — confidence: high · normative,
     not an empirical claim · framework-critical'
   weak: 'no'
+p-cs7:
+  bands: 'confidence: moderate · limited or indirect evidence · moderately central'
+  claim: Architectural adequacy suffices for coupling — no threshold or selection among adequate systems,
+    provenance included
+  credence: moderate
+  grade: C
+  id: P-CS7
+  slug: consciousness-scope
+  status: live
+  structural_centrality: moderate
+  summary: 'P-CS7: Architectural adequacy suffices for coupling — no threshold or selection among adequate
+    systems, provenance included — confidence: moderate · limited or indirect evidence · moderately central'
+  weak: 'no'
 p-d1:
   bands: 'confidence: high · some independent evidence · moderately central'
   claim: The anti-physicalist arguments are premise-sharing, not evidentially independent

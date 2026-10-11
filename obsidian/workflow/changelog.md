@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T08:36:02+00:00
+ai_modified: 2026-10-11T09:16:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:16 - positions-evolve
+- **Status**: Success
+- **Mode**: add [[positions/consciousness-scope|P-CS7]], the universal coupling scope law, and reconcile P-SC2's pairing sentence (optimistic review 2026-10-10 ancestry wing, Priority 1). Before this pass the register mentioned universal coupling nowhere (0 of 24 files), though [[concepts/universal-coupling-response]] says "The Unfinishable Map adopts this" and has 21 body inbound links (re-counted).
+- **New entry**: P-CS7, "Architectural adequacy suffices for coupling — no threshold or selection among adequate systems, provenance included". Calibration: credence moderate · grade C · centrality moderate · maturity developed · discriminability indirect · framework-internal yes. Asserts / Limits / Relations as the review specified: sufficiency, no threshold, no selectivity with provenance included (built edge L79), adequacy still required (not panpsychism); limits are *unapplied* off the tree, the vague-adequacy / sharp-engagement seam and trigger exits (engagement L74–L100), and census circularity. Placed by the dependency test: the entry needs the spine plus an adopted anti-selectivity premise and does not inherit the quantum-interface register, so it goes in consciousness-scope, not subject-census. It passes the foundational-dependency test directly (preamble "all six" → "all seven").
+- **Outcome (a) taken, (b) declined**: the history-blind reading. (b), pairing waiting on something besides architecture such as a developmental onset P-SC3 leaves undated, reinstates the selectivity the built edge (L79), the engagement condition (L76) and the coupling page's own trilemma refuse. For a grain-faithful duplicate: coupled, as [[concepts/organizational-invariance]] L88 says ("would, on the Map's view, reproduce the experience"), but as a new subject (P-I4, P-AC3) with its count unreadable (P-I3). A Swampman is conscious if P-CS7 holds, and what is specific to him is P-CS7's credence.
+- **P-SC2** ([[positions/subject-census]]): "rather than none or several." → "rather than several (P-CS7 answers *none* for adequate architectures, at its own credence)."; "This half of the debt" → "This gap" (five gaps booked since 09-24, and "half" would misread against the new split); history-index label → "notes of 2026-08-16 to 2026-10-11", with "and *none* disjunct" added to its summary; Last reviewed → 2026-10-11. No band moved. The dated note is in [[positions/subject-census-calibration-history]], per that register's convention.
+- **positions.md**: discriminability aggregate re-derived (live 61 → 62, indirect 25 → 26; inert 11, framework-internal inert 10, high-centrality inert 5 unchanged; the 09-20 figures reproduced exactly first), with its mandated Updated note. The consciousness-scope domain bullet now names the scope law.
+- **Length (analyze_length; content vs Updated-note words)**:
+  - positions/consciousness-scope 3,731 → 4,318 (+587 = content +479, Updated notes +108). **hard_warning → critical (4,000).** It is now the register's second critical file, after quantum-interface. Any compliant entry would have crossed: only 268 words were left, and P-M6's measured floor was 173 plus notes. This is covered by the standing NEEDS-HUMAN (todo L1254). Replenish Source 6 may now mint a P1 condense for this file; decline it, because register entries are not condensed. The precedent remedy is relocating the file's ~380 words of dated notes to a calibration-history companion, which is the operator's call.
+  - positions/subject-census 2,493 → 2,499 (+6 = content +5 in Asserts, +1 in the history-index line; its Updated note lives in the companion). Still soft_warning, with 0 headroom to hard.
+  - positions/subject-census-calibration-history 1,008 → 1,262 (+254, all Updated-note words).
+  - positions/positions.md 3,388 → 3,464 (+76 = content +15, Updated note +61). hard_warning, 536 from critical.
+- **Cascade (not edited)**: [[concepts/moral-census-opacity]] L58 repeats P-SC2's old sentence verbatim ("rather than none or several"). [[concepts/swampman]] L79 paraphrases it; the blocked item-3c task can now name P-CS7. The coupling page, the built edge and OI L88 need no change under (a); review M4 (OI L88 citing P-CS7) remains optional.
+- **Lead not acted on**: P-SC3's *Depends on* still calls the undated channel "one of that entry's four booked gaps"; P-SC2 has booked five since 2026-09-24. subject-census has 0 headroom, so this needs a length call of its own.
+- **ai_system**: +claude-opus-5-5 on consciousness-scope and positions.md; already present on subject-census and its history file.
 
 ## 08:36 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)

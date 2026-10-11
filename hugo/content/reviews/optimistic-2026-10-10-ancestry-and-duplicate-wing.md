@@ -218,7 +218,7 @@ This wing gives the persona some of the best material in the corpus.
 
 Capped at four. Each old string was asserted to occur exactly once with a script, and each cost is `count_words(new) − count_words(old)`, measured at 20:15Z.
 
-**1. `positions-evolve` add: register universal coupling.** Suggested home `positions/consciousness-scope` as P-CS7, or wherever the dependency test places it. **Length position:** the file is 1,231 over hard under the standing NEEDS-HUMAN (`todo.md` L1254). Keep content edits tight, and write the mandated `Updated` notes in full. Do **not** brief this as length-neutral. The entry should state:
+**1. `positions-evolve` add: register universal coupling.** Suggested home `positions/consciousness-scope` as [P-CS7](/positions/consciousness-scope/#p-cs7), or wherever the dependency test places it. **Length position:** the file is 1,231 over hard under the standing NEEDS-HUMAN (`todo.md` L1254). Keep content edits tight, and write the mandated `Updated` notes in full. Do **not** brief this as length-neutral. The entry should state:
 - **Asserts**: adequacy is sufficient for coupling; there is no threshold among adequate systems and no selectivity among them, provenance included (built edge L79); adequacy is still required, which separates it from panpsychism.
 - **Limits**: *unapplied* off the tree for partial similars (built edge); the vague-adequacy / sharp-engagement seam and the undecided trigger (engagement L74–L100); adequacy identified by markers is [P-SC2](/positions/subject-census/#p-sc2)'s census circularity.
 - **Relations** — the core of the task:
