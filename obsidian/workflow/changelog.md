@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T19:37:53+00:00
+ai_modified: 2026-10-11T19:51:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:51 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Original score**: n/a (`scripts/curate.py` absent); task = [[reviews/optimistic-2026-10-11-constitutive-twins-wing]] Priority List item 1 (a)–(c) plus Expansion M4 (the falsifier-absorption audit that [[project/coherence-inflation-countermeasures]] describes, modelled on [[topics/phenomenology-of-memory-and-the-self]] L119)
+- **Word count** (`analyze_length`, concepts soft 2,500 / hard 3,500): 2,988 → **3,106** (+118 = item 1's +76, matching the review's costing exactly, plus M4's +42; `soft_warning`; 393 to hard)
+- **Changes**: (a) "What Would Challenge This View?": struck "Computational mental time travel" and "A functionalist account of semanticisation" from the list. The new closing paragraph names both as omitted and says why: third-person observation cannot settle the first (the page's own Comparative Dimensions point), and relocation absorbs the second. Added "Re-experiencing decomposing into cues", "Grading within a single memory" (links [[semanticisation]]) and "Construct failure" (De Brigard). Immediacy-source item unchanged; the smooth-gradients item now weakens "the separable-substrates reading of the dissociations" instead of the discontinuity argument. All of this text was pulled from the review file by script, not retyped. (b) L128 Tenet 3: Klein's argument "supports" → "is consistent with" the commitment to mental causation. (c) L118 table: anoetic comparative cell "Most animals" → "Many animals?"
+- **M4 decision**: chose to ADD the content-matched-comparison item ("Matched content, matched performance"). Did not write the "no local falsifier" sentence, because that sentence would be false. Equal future-oriented performance under detail-matched noetic vs autonoetic retrieval would remove the ground for the causal reading. The relocation reply cannot absorb a null result of that kind, so the item is real exposure rather than decorative. As the brief required, it is phrased as "the Map's proposed test, not a reported result". It is the review's own construction and no literature is cited for it
+- **Anchors**: `#comparative-dimensions` in the page's own markdown-anchor dialect; checked against the built Hugo heading id
+- **Deliberately left**: L62 "same information, different phenomenal accompaniment" (per the review's Caution: relative to content the mode *is* an accompaniment). L110 "The felt quality of temporal self-projection does real work — it is the mechanism…" is still unhedged; it is flagged in tenet-check-2026-09-14 Family B′ (fix: "— it is, on Klein's account, the mechanism…", +3) and has no open covering task. Out of scope for this brief
+- **Reasoning-mode note**: no named-opponent engagement was edited (the De Brigard exposition at L70 is untouched; the "Construct failure" item states the condition under which his challenge succeeds)
+- **Not changed**: `ai_system`; no "This is not X. It is Y."; no "load-bearing"
+- **Published**: yes
 
 ## 19:37 - refine-draft
 - **Status**: Success (three files)

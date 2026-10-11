@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-02 15:37:18+00:00
+ai_modified: 2026-10-11 19:50:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-17 12:11:17+00:00
-lastmod: 2026-09-02 15:37:18+00:00
+lastmod: 2026-10-11 19:50:49+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -120,7 +120,7 @@ This bears on epiphenomenalism. Klein's content/manner distinction shows that th
 
 | Tulving Level | Memory System | Self-Awareness | Temporal Scope | Comparative |
 |---------------|--------------|----------------|----------------|-------------|
-| Anoetic | Procedural | Pre-reflective | Present | Most animals |
+| Anoetic | Procedural | Pre-reflective | Present | Many animals? |
 | Noetic | Semantic | Reflexive | Atemporal | Higher mammals? |
 | Autonoetic | Episodic | Temporal self | Past and future | Humans (primarily) |
 
@@ -130,7 +130,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 
 **[Dualism](/tenets/#dualism)**: The qualitative discontinuities between levels resist reductive explanation. The transitions introduce irreducible phenomenal properties—felt knowing, felt pastness, temporal self-presence—that physical descriptions of neural activity do not entail. The constitutive-contingent debate directly instantiates the broader question: if autonoetic awareness defines episodic memory, then a functionally identical system lacking the felt quality of re-experiencing would not have episodic memory at all.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation-and-downward-causation/). The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection is consistent with the Map's commitment to [mental causation](/concepts/mental-causation-and-downward-causation/). The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness presupposes a determinate personal history and a singular future self. Klein and Nichols (2012) tie the *sense* of personal identity directly to autonoetic ownership—the felt mineness of a remembered episode, not merely its content, is what grounds the subject's identification with their past self. Many-worlds fragmentation—where every quantum event spawns branching versions of the subject—undermines the indexical "I" that this ownership requires. If every plan is executed by countless branching copies, the felt urgency of deliberation loses its rational basis.
 
@@ -138,12 +138,14 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 
 ## What Would Challenge This View?
 
-- **Computational mental time travel**: A system that demonstrably engages in future self-projection and counterfactual reasoning without phenomenal accompaniment would undermine the causal efficacy argument.
+- **Re-experiencing decomposing into cues**: If felt re-experiencing broke down into separately manipulable components (fluency, vividness, contextual detail, source-signal strength) with no residual felt quality once they were controlled, the hierarchy's top level would name a bundle, not a mode.
+- **Grading within a single memory**: If felt re-experiencing faded by degrees within one memory as it semanticised, with access effects controlled, the noetic/autonoetic joint would be an artefact of coarse categories. [The semanticisation article](/concepts/semanticisation/) reports where that test stands.
+- **Construct failure**: If the measures operationalising autonoesis converged on nothing, De Brigard's construct-validity challenge would succeed and there would be no unified mode to rank.
 - **A unified framework resolving the immediacy-source tension**: If a single account could capture both why autonoetic experience feels immediate and where it comes from, the explanatory gap argument would lose force.
-- **Smooth neural gradients rather than discontinuities**: If improved neuroimaging revealed continuous variation between anoetic, noetic, and autonoetic processing rather than separable substrates, the qualitative discontinuity argument would weaken.
-- **A functionalist account of semanticisation**: If the phenomenal shift from autonoetic to noetic could be fully explained by changes in information structure, the argument from content-manner independence would lose its force.
+- **Smooth neural gradients rather than discontinuities**: If improved neuroimaging revealed continuous variation between anoetic, noetic, and autonoetic processing rather than separable substrates, the separable-substrates reading of the dissociations would weaken.
+- **Matched content, matched performance**: If noetic and autonoetic retrieval of content matched for detail supported the same future-oriented performance, the causal reading of Klein's content/manner distinction would lose its ground. The comparison is the Map's proposed test, not a reported result.
 
-These challenges bear directly on the arguments developed in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/). The "pastness quale" and "double presence" claims developed there rest on the same architectural commitments and inherit the same evidential exposure, so the two articles face the standing challenges jointly rather than separately.
+Two candidates often listed here are omitted. Computational mental time travel without phenomenal accompaniment could not be demonstrated, since third-person observation cannot settle whether such processing is felt ([above](#comparative-dimensions)). A functionalist account of semanticisation specifies how the noetic state is produced, not why the autonoetic one is experienced. [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) states the bound that strikes both; the two articles share it and the exposure that survives it.
 
 ## Further Reading
 
