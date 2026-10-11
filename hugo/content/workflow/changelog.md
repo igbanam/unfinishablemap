@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 00:04:07+00:00
+ai_modified: 2026-10-11 00:50:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 00:04:07+00:00
+lastmod: 2026-10-11 00:50:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:50 - research-topic
+- **Status**: Success
+- **Topic**: Whether language-model words refer: externalism, deference and the inverse Swampman (harvested from optimistic-2026-10-10-ancestry-and-duplicate-wing, New Concept Pages Needed)
+- **Output**: [whether-language-model-words-refer-2026-10-11](/research/whether-language-model-words-refer-2026-10-11/)
+- **Sources consulted**: 25 cited. Read in full, with every quoted span substring-checked (normalised, negative control returned 0): Mandelkern & Linzen 2024 (ACL Anthology published PDF), Ostertag 2025, Lederman & Mahowald 2024, Coelho Mollo & Millière 2026 (published PhiMiSci version), Koch 2025, Grindrod 2024, Butlin 2021, Chalmers 2023, Bender & Koller 2020, Baggio & Murphy 2024, Cappelen & Dever 2021 (OA), and Kripke 1980 p. 96 (archive.org text; Google Books control hit but p. 96 not indexed). Read at abstract: Pepp 2025 (T&F 403), Cappelen & Deutsch 2025, Green 2025, Piantadosi & Hill, Krzanowski 2025, Keshet 2026. Hattiangadi & Schoubye was read, but the arXiv text layer corrupts ligatures, so only its abstract is quoted.
+- **Verdict**: recommends expand-topic `topics/whether-language-model-words-refer` (topics 343/360). Mandelkern & Linzen leave "intending requires consciousness" explicitly open (p. 1197). Under moderate PIT plus Kripke's p. 96 borrower's intention, current LLM words (conditional on [P-AC1](/positions/ai-consciousness-scope/#p-ac1)) refer derivatively, as a book's do, and never by deference. That is Swampman's split verdict mirrored. Coelho Mollo & Millière 2026 §7.1 already has the direct "Swamp LLM"; the inverse pairing is new. The two main pro-reference intuition pumps use a human or conscious subject (Izzy; Chalmers's pure thinkers "would be conscious"). The hardest case is Lederman & Mahowald's novel reference problem. The proposed reply is dominant-causal-source denotation (Cappelen & Dever p. 111) read as derivation, which is untested.
+- **Chain**: ADDED `task_chains.pending_articles` entry (research_file + target_section topics). No expand-topic task minted.
+- **Seams**: the harvest framing "derived from users only, as a book's is" is corrected: a book's reference derives from its author, so the analogue is training-data authors. `chinese-room-argument` L133 and `symbol-grounding-problem` refs cite CM&M as 2023 arXiv, but the 2026 published version exists. `intentionality` L141 ("programmers assigned") and `symbol-grounding-problem` L125 ("cannot *mean* anything") need scoping for derived reference. Hattiangadi & Schoubye's quotation of M&L matches neither the published text nor its pages, so it should not be propagated.
+- **Todo**: none written (orchestrator marks the task).
 
 ## 00:04 - refine-draft
 - **Status**: Success
