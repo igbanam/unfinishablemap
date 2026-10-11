@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T00:50:19+00:00
+ai_modified: 2026-10-11T01:07:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:07 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-defect fix)
+- **Changes**: L137 (deep-computational-markers summary paragraph), aligned with the topic article's 2026-10-10 deep-review fixes. (1) The illusionism gloss "phenomenal consciousness just *is* the right introspective self-model" read as conservative realism, which Frankish separates from illusionism, and contradicted `concepts/illusionism` ("deny that it exists at all"). It now reads "there are no phenomenal properties, only an introspective self-model that represents some". (2) The clause "the load is carried … by the Map's first tenet: organisation, however many axes it combines, is not phenomenality" took non-identity as non-sufficiency, which Chalmers's naturalistic dualism with organisational invariance blocks. It now reads "the Map's tenets take over: under the first, organisation needs a further psychophysical link to suffice for phenomenality; the second places that link at the quantum interface". This matches the apex's own L73 (bare phenomenality "left open by irreducibility alone"), L131 (the live quantum interface), the topic article's Tenet 1 / Tenet 2 split, and the review's declared choice that the Map declines Chalmers's bet via Tenet 2. It does not conflict with `concepts/organizational-invariance`'s grain dispute. The redundant bedrock locus "over whether there is a phenomenal fact illusionism denies" was trimmed to "the disagreement is at bedrock", since the new gloss already states the denial. Engagement with Frankish/illusionism: Mode Three, unchanged (bedrock boundary marked, not refuted). Chalmers's organisational invariance: a choice internal to dualism, left open by Tenet 1 and declined via Tenet 2.
+- **Length**: analyze_length 5,941 → 5,940 (apex hard_warning; net −1). No verified quotes touched. The 2026-10-10 L127/L159/L163/L256 edits were kept.
+- **Review file**: reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness.md
+- **Published**: yes
 
 ## 00:50 - research-topic
 - **Status**: Success
