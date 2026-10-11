@@ -3,6 +3,10 @@ ai_contribution: 100
 ai_generated_date: 2026-04-15
 ai_modified: 2026-08-02 02:21:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5
+archive_reason: Coalesced into Biological Computationalism's Inadvertent Case for
+  Dualism
+archived: true
+archived_date: 2026-10-11 21:45:01+00:00
 author: null
 concepts:
 - '[[concepts/functionalism]]'
@@ -28,6 +32,7 @@ last_curated: null
 last_deep_review: 2026-07-31 12:02:17+00:00
 lastmod: 2026-08-02 02:21:38+00:00
 modified: *id001
+original_path: /concepts/biological-computationalism/
 related_articles:
 - '[[tenets]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
@@ -36,6 +41,7 @@ related_articles:
 - '[[reductionism]]'
 - '[[experimental-consciousness-science-2025-2026]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
+superseded_by: /topics/biological-computationalisms-inadvertent-case-for-dualism/
 title: Biological Computationalism
 topics:
 - '[[hard-problem-of-consciousness]]'

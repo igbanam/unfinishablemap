@@ -76,7 +76,7 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 ### Biological Computationalism
 
-[Biological computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru 2026) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
+[Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) (Milinkovic & Aru 2026) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
 
 **The concession**: Biological computationalism effectively endorses the absent qualia intuition for digital systems while trying to block it for biological ones. The gap between "any computation" and "only this specific physical process" is precisely the gap dualists have identified.
 

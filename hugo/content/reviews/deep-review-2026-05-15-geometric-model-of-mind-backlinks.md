@@ -55,7 +55,7 @@ The article has a dedicated subsection "Borrowed Tooling: The Geometric / Featur
 - Added to frontmatter `concepts:` list
 - Added to "Further Reading" with a short orienting gloss
 
-### 3. [concepts/biological-computationalism.md](/concepts/biological-computationalism/) (Mode One — natural fit)
+### 3. [concepts/biological-computationalism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/) (Mode One — natural fit)
 
 The "Historical Context" section discusses "Duch's substrate-independent computationalism (2005, 2019)" as the live alternative biological computationalism is reacting against. A one-clause extension of that paragraph now points readers to the intermediate-level description treated separately in the concept article. Installed:
 - Trailing clause added to the Duch paragraph

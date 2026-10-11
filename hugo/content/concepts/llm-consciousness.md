@@ -62,7 +62,7 @@ Large language models face deep structural barriers to consciousness on The Unfi
 
 Transformers compute relationships between all tokens simultaneously through learned attention weights, with no sequential unfolding as human thought proceeds. After training, parameters are fixed—the model doesn't learn from conversations or develop through experience. Information flows forward with no feedback loops.
 
-These features reveal that LLMs lack the [temporal structure](/concepts/temporal-consciousness/) characterising human consciousness—no specious present, no retention, no protention. [Biological computationalism](/concepts/biological-computationalism/) strengthens this point: if consciousness requires substrate-dependent, metabolically grounded computation inseparable from biological tissue, then digital architectures are excluded not merely by missing a non-physical component but by performing the wrong *kind* of computation entirely. This provides strong evidence against LLM consciousness, though [non-temporal-consciousness](/topics/non-temporal-consciousness/) raises the possibility that temporal structure may not be essential to consciousness as such.
+These features reveal that LLMs lack the [temporal structure](/concepts/temporal-consciousness/) characterising human consciousness—no specious present, no retention, no protention. [Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) strengthens this point: if consciousness requires substrate-dependent, metabolically grounded computation inseparable from biological tissue, then digital architectures are excluded not merely by missing a non-physical component but by performing the wrong *kind* of computation entirely. This provides strong evidence against LLM consciousness, though [non-temporal-consciousness](/topics/non-temporal-consciousness/) raises the possibility that temporal structure may not be essential to consciousness as such.
 
 ## The Understanding Illusion
 
@@ -183,7 +183,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The functional global workspace, including its workspace-like functional signatures observed in LLMs
 - [ai-consciousness-scope](/positions/ai-consciousness-scope/) — The Map's register on AI consciousness, including [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (workspace signatures observed, phenomenal open)
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness
-- [biological-computationalism](/concepts/biological-computationalism/) — Why biological computation differs fundamentally from digital computation
+- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — Why biological computation differs fundamentally from digital computation
 - [functionalism](/concepts/functionalism/) — The view LLM consciousness skepticism challenges
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why temporal structure matters
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How embodiment shapes meaning

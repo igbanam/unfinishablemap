@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [Biological Computationalism](/concepts/biological-computationalism/)
+**Article**: [Biological Computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 **Previous review**: [2026-04-16 (Extended Orphan Integration)](/reviews/deep-review-2026-04-16-biological-computationalism/)
 **Cross-reviewed against**: [Biological Computationalism's Inadvertent Case for Dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 

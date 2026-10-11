@@ -96,7 +96,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Why congenial clinical evidence is presented as suggestive rather than decisive
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — A modern clinical evidence stream in the same spirit
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The anaesthesia evidence that Dendritic Integration Theory, the physicalist rival at Eccles's dendron, rests on
-- [biological-computationalism](/concepts/biological-computationalism/) — A substrate-dependence proposal co-authored by Aru, one of Dendritic Integration Theory's authors
+- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — A substrate-dependence proposal co-authored by Aru, one of Dendritic Integration Theory's authors
 
 ## References
 

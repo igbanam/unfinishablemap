@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-06-25
-**Article**: [Biological Computationalism](/concepts/biological-computationalism/)
+**Article**: [Biological Computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 **Previous review**: [2026-05-29 (Citation-Currency Pass)](/reviews/deep-review-2026-05-29-biological-computationalism/)
 **Mode**: Convergence pass (7th deep review). The body argument is philosophically converged across 6 prior reviews. The only content change since the 05-29 citation-currency pass is two cross-link additions (an AI-hardware-substrate-taxonomy sentence in the body, a Further Reading link to content-vocabulary-as-derived-feature). This pass verified those additions, confirmed the 05-29 citation/quotation fixes did not regress, and ran the adversarial/sympathetic personas against the unchanged body. No body content was changed.
 

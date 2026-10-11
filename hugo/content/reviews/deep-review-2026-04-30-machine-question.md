@@ -48,7 +48,7 @@ The new "concession-convergence" framing and the biological-computationalism mat
 Re-checking after the substantial reorganisation:
 
 - **Putnam's semantic externalism**: Verified against [concepts/functionalism.md](/concepts/functionalism/) (Putnam 1988, *Representation and Reality*). Apex paraphrase ("undermines any purely internal functional specification of meaning") matches source. ✓
-- **Milinkovic & Aru 2025 / "the algorithm is the substrate"**: Quote and citation verified against [concepts/biological-computationalism.md](/concepts/biological-computationalism/). ✓
+- **Milinkovic & Aru 2025 / "the algorithm is the substrate"**: Quote and citation verified against [concepts/biological-computationalism.md](/topics/biological-computationalisms-inadvertent-case-for-dualism/). ✓
 - **Concession-convergence framing**: Consistent with the dedicated concept article. ✓
 - **Husserl's regress argument and "absolute flow"**: Verified against [topics/non-temporal-consciousness.md](/topics/non-temporal-consciousness/). ✓
 - **Frischhut (2024) "stripped of temporal character"**: Verified against source article (Frischhut 2024, "Awareness without Time?", *The Philosophical Quarterly*). ✓

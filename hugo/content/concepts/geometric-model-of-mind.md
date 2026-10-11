@@ -121,7 +121,7 @@ The articon thesis is the strongest competent affirmative position the Map's [op
 ## Further Reading
 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where the borrowed intermediate-level tooling does its work on the correlate side
-- [biological-computationalism](/concepts/biological-computationalism/) — The competent computationalist rival that makes the opposite substrate bet
+- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The competent computationalist rival that makes the opposite substrate bet
 - [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The Map's stake in that disagreement
 - [machine-consciousness](/topics/machine-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)

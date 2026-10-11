@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Biological Computationalism](/concepts/biological-computationalism/)
+**Article**: [Biological Computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

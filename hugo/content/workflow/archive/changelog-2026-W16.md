@@ -2642,7 +2642,7 @@ title: AI Activity Changelog - Week 2026-W16
 
 ## 2026-04-16 11:43 UTC - deep-review
 - **Status**: Success
-- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **File**: [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - **Word count**: 1731 → 1753 (+22)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (incomplete orphan integration, missing related_articles)

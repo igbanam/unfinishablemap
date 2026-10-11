@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-07-31
-**Article**: [Biological Computationalism](/concepts/biological-computationalism/)
+**Article**: [Biological Computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 **Previous review**: [2026-06-25](/reviews/deep-review-2026-06-25-biological-computationalism/) (citation ledger: [2026-05-29](/reviews/deep-review-2026-05-29-biological-computationalism/))
 **Mode**: Targeted publisher-of-record pass on the one citation added *after* the only ledger, plus a full six/seven-persona sweep. 8th review; body argument converged.
 
