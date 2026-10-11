@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-10-10 18:21:51+00:00
+ai_modified: 2026-10-11 02:34:41+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-10-10 18:21:51+00:00
+lastmod: 2026-10-11 02:34:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The *probabilities are fixed*—by a separate Zurek result: [envariance](/concep
 
 *Agreement is conditional*. A mutual-information redundancy plateau does not by itself secure observer agreement; that needs the stronger conditions of Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021), unshown for neural pointer states. Where they hold, later observers agree without consciousness synchronising their observations.
 
-These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy conditionally securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine, and injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [conservation-law](/concepts/conservation-laws-and-mental-causation/) consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables.
+These constraints clarify why the Map's proposal is one of minimal interaction *at the [point of selection](/concepts/post-decoherence-selection/)*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy conditionally securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention—the smallest that could count as causal influence, pending the [bias-without-deviation dilemma](#the-bias-without-deviation-dilemma-open) below—injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [conservation-law](/concepts/conservation-laws-and-mental-causation/) consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [selection-only-channel](/concepts/selection-only-channel/), with the parent topic [selection-only-mind-influence](/topics/selection-only-mind-influence/) carrying the empirical signature corridor and distinguishing observables.
 
 ### The Bias-Without-Deviation Dilemma [Open]
 

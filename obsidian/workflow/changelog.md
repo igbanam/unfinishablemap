@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T01:21:17+00:00
+ai_modified: 2026-10-11T02:34:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:34 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted one-span fix)
+- **Review file**: reviews/tenet-check-2026-10-10.md (coordination item 4, the post-decoherence P2; this L87 locus sits under the same P-Q3/P-Q10 debt as the L167 wording regraded at 2026-10-10 18:21Z)
+- **Changes**: L87 (in the "Zurek's programme has done the heavy lifting" paragraph). "The intervention is as small as it could be while still genuine, and injects no energy…" assumed the intervention is genuine, which is exactly what the open bias-without-deviation question leaves unsettled. It now reads "The intervention—the smallest that could count as causal influence, pending the [[#the-bias-without-deviation-dilemma-open|bias-without-deviation dilemma]] below—injects no energy…". This matches L167's wording ("the smallest intervention that could count as causal influence, pending the … dilemma above"). It says "below" because the `### The Bias-Without-Deviation Dilemma [Open]` heading comes straight after, at L89. The anchor already resolves from L159/L167. The stipulation/derivation clause and the conservation-law clause are unchanged. The old span was confirmed to occur exactly once before the edit.
+- **Guards kept**: both selection-only-channel links, Spekkens "statistically identical", L85 "Agreement is conditional", L109 "compatible with", the L115 realist reading, the L133/L139 criticality hedges and the 2026-10-10 L165–L171 regrade were all left alone. Post-edit counts: "as small as it could be" 0, "while still genuine" 0, "statistically identical" 1, "Agreement is conditional" 1, "compatible with" 1, `selection-only-channel` 2.
+- **Length**: analyze_length 4,993 → 4,993 (apex hard 5,000, gate `>=`; net 0). The appositive uses unspaced em-dashes, which is the page's own style (47 uses).
+- **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` left unchanged (targeted edit).
+- **Published**: yes
 
 ## 01:21 - refine-draft
 - **Status**: Success

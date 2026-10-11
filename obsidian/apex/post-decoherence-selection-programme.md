@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-10-10T18:21:51+00:00
+ai_modified: 2026-10-11T02:34:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ The *probabilities are fixed*—by a separate Zurek result: [[envariance]] deriv
 
 *Agreement is conditional*. A mutual-information redundancy plateau does not by itself secure observer agreement; that needs the stronger conditions of Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021), unshown for neural pointer states. Where they hold, later observers agree without consciousness synchronising their observations.
 
-These constraints clarify why the Map's proposal is one of minimal interaction *at the [[post-decoherence-selection|point of selection]]*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy conditionally securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could be while still genuine, and injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [[conservation-laws-and-mental-causation|conservation-law]] consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [[selection-only-channel]], with the parent topic [[selection-only-mind-influence]] carrying the empirical signature corridor and distinguishing observables.
+These constraints clarify why the Map's proposal is one of minimal interaction *at the [[post-decoherence-selection|point of selection]]*—a minimality that does not extend to the background, which objective reduction already renders non-unitary. Zurek's programme has done the heavy lifting—einselection fixing the basis, envariance grounding the probabilities, quantum Darwinism's redundancy conditionally securing objectivity—three distinct arguments, not one result. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention—the smallest that could count as causal influence, pending the [[#the-bias-without-deviation-dilemma-open|bias-without-deviation dilemma]] below—injects no energy by stipulation rather than derivation: selection on an improper mixture modifies the dynamics, leaving [[conservation-laws-and-mental-causation|conservation-law]] consistency open. The channel-theoretic formalisation of this minimality — the per-event log₂(N) ceiling, Born-preservation of the unconditioned long-run marginal, and the content-confinement bound on phenomenal repertoire — is developed in [[selection-only-channel]], with the parent topic [[selection-only-mind-influence]] carrying the empirical signature corridor and distinguishing observables.
 
 ### The Bias-Without-Deviation Dilemma [Open]
 
