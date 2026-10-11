@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T15:42:43+00:00
+ai_modified: 2026-10-11T15:53:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:53 - refine-draft
+- **Status**: Success
+- **File**: [[topics/direction-dependent-discriminating-test-design]]
+- **Review file**: outer-review-2026-10-11-chatgpt-5-6-sol-pro (P2: tFUS implementation and neural-inertia sourcing; the P1 lag-rival recalibration had already run)
+- **Original score**: not run (`scripts/curate.py` absent)
+- **Word count**: 3,408 → 3,683 (+275) by `analyze_length`, references included. The budget was +280. That leaves 316 words (hard 4,000, gate `>=`) for the sibling P2 on channel observables/probes.
+- **Changes**:
+  1. Reversible-perturbation ingredient: tFUS is now a candidate modality whose ramp-ability is unvalidated. Verhagen 2019 is marked as offline after-effects of a brief sonication. Added the carry-over caveat: the reopening phase runs in tissue still carrying the closing-phase effect, so the design needs a carry-over term or separate-session phases, at the cost of between-session variability. Added Yaakub et al. 2023 ("last at least 50 mins"; "state- or location-dependency"). The PCC-pilot link now points to the witness-mode `#ultrasound` caveats ("active–sham contrast was null").
+  2. Target-channel ingredient: added a target-engagement precondition beside the selectivity precondition. It requires a sound-matched active sham (Kop et al. 2024, auditory confound) and ITRUSST reporting, in situ exposure estimates included (Martin et al. 2024).
+  3. Neural-inertia paragraph: Sepúlveda "reliably higher" became "usually higher", the abstract's wording.
+  4. Caution paragraph: added Huang et al. 2021 (human propofol: abrupt restoration on emergence, pharmacokinetics excluded) as a physical direction asymmetry. It strengthens the caution, not the filter reading.
+  5. Trims for budget: the journal name in the Proekt–Hudson sentence; a redundant reversibility/lesion restatement.
+  6. References: added Huang 2021, Kop 2024, Martin 2024, Yaakub 2023.
+- **Verification**: All 8 DOIs resolved at Crossref. Every quoted phrase matched the Europe PMC abstract (Yaakub PMID 37658076, Kop 39190585, Huang 33848623, Sepúlveda 30835820, Martin 38670224) or the Verhagen PMC6372282 full text ("lasting up to 2 hr"). There were no mismatches. Yaakub's source has a thin space (U+2009) in "50 mins". Lord 2024 is cited by link only.
+- **Engagement classification**: not applicable; no named-opponent reply changed.
+- **Published**: yes
 
 ## 15:42 - deep-review
 - **Status**: Success
