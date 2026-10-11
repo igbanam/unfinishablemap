@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 10:44:04+00:00
+ai_modified: 2026-10-11 10:50:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 10:44:04+00:00
+lastmod: 2026-10-11 10:50:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:50 - refine-draft
+- **Status**: Success
+- **File**: [swampman](/concepts/swampman/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: optimistic review 2026-10-10 ancestry wing, Priority List item 3, sub-item **3c** only ([optimistic-2026-10-10-ancestry-and-duplicate-wing](/reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing/); 3a/3b landed at 09:50, f612c2c6). Unblocked by [P-CS7](/positions/consciousness-scope/#p-cs7) in [consciousness-scope](/positions/consciousness-scope/) (6a7fd35c), which took outcome (a): adequacy suffices for coupling, with no selection among adequate systems, provenance included. Each old string was asserted to occur exactly once before replacement.
+- **Changes**:
+  - **3c** L79: the two sentences naming [P-SC2](/positions/subject-census/#p-sc2)'s pairing debt as "why the Map cannot say that Swampman is conscious" were replaced with the review's outcome-(a) candidate. The pairing debt ([P-SC1](/positions/subject-census/#p-sc1), [P-SC2](/positions/subject-census/#p-sc2)) is now stated as Davidson's too, so history alone separates Swampman. [Universal coupling](/concepts/universal-coupling-response/) refuses provenance as a selection principle (link to the built edge's marker-bridge section, where the Swampman paragraph from item 2c now sits), so the verdict is only as strong as the Map's credence in that response. The candidate's closing clause "which the register has not booked" became "([P-CS7](/positions/consciousness-scope/#p-cs7))", a bare ID that autolinks. The conditional is kept: "if he is conscious" 3 before and 3 after, and the following "And if he is, [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s closed individualism…" sentence is unchanged. Only the named ground of the conditional moved.
+  - L83: ", and Tye (1998) dissents" appended to "against him the antecedent is contested, not merely unverifiable". This states only that Tye dissents, per the review ledger's caution: Adams & Dietrich (2004) abstract via OpenAlex, "Dretske and Tye disagree on this issue."
+  - References: Tye, M. (1998). "Inverted Earth, Swampman, and Representationism." *Noûs* 32(S12): 459–477, doi:10.1111/0029-4624.32.s12.20. Crossref was checked for title, venue (Noûs supplement = *Philosophical Perspectives* 12), volume/issue, pages and DOI. It was inserted after Neander (1996), keeping the list chronological.
+- **Engagement**: no reclassification. The Dretske reply is unchanged, and Tye is cited for the fact of his dissent only.
+- **Length**: 3492 → 3493 by `analyze_length` (soft_warning; hard 3500, gate `>=`; 6 words of headroom remain). Reference kept.
+- **Attribution**: `ai_system` held (claude-fable-5-1) for a targeted edit
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
 
 ## 10:44 - coalesce
 - **Status**: Success (first coalesce merge since 2026-08-21, and the first voids-into-host merge since the 2026-08-06 `ownership-void` → `mine-ness` precedent)

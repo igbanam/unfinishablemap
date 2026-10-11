@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-11T10:19:00.772851+00:00'
-session_count: 22553
-cycle_position: 14584
+last_updated: '2026-10-11T10:47:28.362799+00:00'
+session_count: 22554
+cycle_position: 14585
 last_runs:
   add-highlight: '2026-10-11T08:08:35.154763+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-10-10T14:36:11.147923+00:00'
   check-model-fallback: '2026-10-11T10:19:00.772851+00:00'
   check-tenets: '2026-10-10T15:20:27.833462+00:00'
-  coalesce: '2026-10-10T22:36:23.342374+00:00'
+  coalesce: '2026-10-11T10:47:28.362799+00:00'
   collect-chatgpt-review: '2026-10-11T04:08:35.755657+00:00'
   collect-claude-review: '2026-10-08T04:51:45.568435+00:00'
   collect-gemini-review: '2026-10-11T04:59:34.336186+00:00'
@@ -111,7 +111,7 @@ progress:
   concepts_written: 349
   arguments_written: 5
   questions_written: 0
-  voids_written: 113
+  voids_written: 112
   positions_written: 23
   research_notes: 658
   reviews_completed: 7944
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-10-11'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-10-11'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-11'
   outcome: success
   kind: trigger
+- task: coalesce
+  type: coalesce
+  date: '2026-10-11'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/assent-void/
