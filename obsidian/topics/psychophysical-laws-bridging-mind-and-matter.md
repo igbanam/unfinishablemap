@@ -4,7 +4,7 @@ description: "If consciousness is distinct, laws must bridge mind and matter. Ch
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-10-08T11:21:51+00:00
+ai_modified: 2026-10-11T06:51:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[concepts/functionalism]]"
   - "[[haecceity]]"
+  - "[[organizational-invariance]]"
   - "[[integrated-information-theory]]"
   - "[[stapp-quantum-mind]]"
   - "[[attention-as-interface]]"
@@ -66,7 +67,7 @@ In the same 1995 paper, Chalmers proposes three principles constraining how phen
 
 **Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). As Chalmers argues, consciousness systematically deceiving itself about its own existence seems deeply implausible.
 
-**The Map's divergence**: The Map rejects strong [[concepts/functionalism]]—the view that mental states are exhausted by their functional roles. The zombie argument is taken to show that functional organization doesn't logically entail experience. If zombies are genuinely conceivable, something beyond functional structure determines whether a system is conscious. [[haecceity|Haecceity]]—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
+**The Map's divergence**: The Map rejects strong [[concepts/functionalism]]—the view that mental states are exhausted by their functional roles. Its dispute with [[organizational-invariance|invariance]] is over grain. The zombie argument cannot settle it: Chalmers grants zombies' logical possibility, holding invariance as natural law. He sets the grain at whatever fixes behavioural dispositions; the Map argues the consciousness-relevant grain is finer, and includes the quantum interface. [[haecceity|Haecceity]]—the primitive "thisness" of a conscious subject—bears on a separate question: qualitatively identical systems could still differ in *which* subject is present. If the Map is right, psychophysical laws must also reference the interface and the particular subject.
 
 **Double-aspect information.** Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. He explicitly treats the scope as open: does *all* information have a phenomenal aspect, or only some? If all, even thermostats might have simple experiences—approaching panpsychism through information theory. This anticipates [[integrated-information-theory|Integrated Information Theory]], though the Map is skeptical of IIT's specific measures.
 
@@ -233,7 +234,7 @@ The framework would face serious difficulty if (see also [[tenet-falsification-c
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal
 - [[concepts/functionalism]] — The view Chalmers tends toward, the Map rejects
 - [[concepts/epiphenomenalism]] — Chalmers' tendency, the Map's rejection
-- [[haecceity]] — Why organizational invariance may fail
+- [[haecceity]] — Organization may leave *which* subject open
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness affects physical outcomes
 - [[interactionist-dualism]] — The philosophical position requiring bidirectional laws
 - [[quantum-consciousness]] — Quantum frameworks providing selection pathways

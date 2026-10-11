@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 06:27:07+00:00
+ai_modified: 2026-10-11 06:52:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 06:27:07+00:00
+lastmod: 2026-10-11 06:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:52 - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) (primary) + [psychophysical-laws](/concepts/psychophysical-laws/) (secondary; two-file task)
+- **Original score**: n/a (`scripts/curate.py` absent). Task-driven pass from the P2 minted by [deep-review-2026-10-10-organizational-invariance](/reviews/deep-review-2026-10-10-organizational-invariance/) (the haecceity-against-invariance string siblings). Invariance is a thesis about *qualitatively* identical experience ("qualitatively identical conscious experiences", Chalmers, consc.net/papers/qualia.html). `concepts/haecceity` L99 grants that a replica's consciousness is "qualitatively identical at the moment of copying". So haecceity bears on *which* subject is present and gives no ground against invariance.
+- **Length**: bridging 3,493 → 3,493 (analyze_length; topics hard 4,000). psychophysical-laws 3,493 → 3,493 (concepts hard 3,500, gate `>=`). Both net-zero.
+- **Changes (secondary, concepts/psychophysical-laws L273)**: Further Reading gloss "Why organizational invariance is rejected" → "Organization leaves *which* subject open" (5 → 5 words).
+- **Changes (bridging L236)**: Further Reading gloss "Why organizational invariance may fail" → "Organization may leave *which* subject open" (+1 word, hedge kept).
+- **Changes (bridging L69)**: removed the zombie-grounds conflation, the same one fixed at psychophysical-laws L100 after the 2026-08-22 review. The cut text was "taken to show that functional organization doesn't logically entail experience. If zombies are genuinely conceivable, something beyond functional structure determines whether a system is conscious". The paragraph now says the Map's dispute with [invariance](/concepts/organizational-invariance/) is over grain. The zombie argument cannot settle it, because Chalmers grants zombies' logical possibility and holds invariance as natural law. Chalmers sets the grain at whatever fixes behavioural dispositions; the Map argues the consciousness-relevant grain is finer and includes the quantum interface. That wording is copied from `concepts/organizational-invariance` L80 and `concepts/inverted-qualia` L136, paraphrased without the quote marks because bridging does not cite the "Absent Qualia" paper. Haecceity is now scoped to a separate question: "qualitatively identical systems could still differ in *which* subject is present". This removes the "(if any)" slide from which-subject to whether-any. The closing sentence is now "must also reference the interface and the particular subject". The "This isn't a minor disagreement … purely functionally" clause was cut to pay for the grain sentence. Net −1 word.
+- **Frontmatter**: bridging `concepts:` gains `[[organizational-invariance]]`. This is the first link from this file to that article.
+- **Left alone**: bridging L83 (constraint-5 preference) lists "particular subject" among the factors phenomenology might supervene on. It is hedged ("whatever … turn out to matter") but sits in mild tension with haecceity L99. It is outside the three named spans, so it is noted here and not edited. psychophysical-laws L100 ("the [haecceity](/concepts/haecceity/) of the subject may matter beyond abstract patterns") is unchanged; the 2026-10-10 review accepted it.
+- **Reasoning mode**: the engagement with Chalmers on invariance is Mode Three: a grain disagreement at the framework boundary, not an in-framework refutation. The removed zombie sentence was a boundary substitution, because a conceivability argument cannot touch a nomological thesis that Chalmers holds while granting conceivability.
+- **ai_system**: unchanged per driver instruction.
+- **Published**: yes
 
 ## 06:27 - refine-draft
 - **Status**: Success

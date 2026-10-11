@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-20 20:24:34+00:00
+ai_modified: 2026-10-11 06:51:40+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-09-20 20:24:34+00:00
+lastmod: 2026-10-11 06:51:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -274,7 +274,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
 - [functionalism](/concepts/functionalism/) — The view the Map rejects
 - [anomalous monism](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/) — Davidson's physicalist verdict that no strict psychophysical law exists, which the law programme must out-argue
-- [haecceity](/concepts/haecceity/) — Why organizational invariance is rejected
+- [haecceity](/concepts/haecceity/) — Organization leaves *which* subject open
 - [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) — Research notes on Chalmers' framework
 - [tenets](/tenets/) — The Map's foundational commitments
 

@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-09-20T20:24:34+00:00
+ai_modified: 2026-10-11T06:51:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -270,7 +270,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[contextual-selection-in-quantum-foundations]] — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
 - [[functionalism]] — The view the Map rejects
 - [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws|anomalous monism]] — Davidson's physicalist verdict that no strict psychophysical law exists, which the law programme must out-argue
-- [[haecceity]] — Why organizational invariance is rejected
+- [[haecceity]] — Organization leaves *which* subject open
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework
 - [[tenets]] — The Map's foundational commitments
 
