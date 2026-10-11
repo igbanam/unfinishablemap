@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T10:50:41+00:00
+ai_modified: 2026-10-11T11:28:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:28 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-psychophysical-control-law]]
+- **Word count**: 3274 → 3398 (+124 by `analyze_length`; prose 2892 → 2907 (+15), References 185 → 283 (+98), so the growth is citation apparatus; soft_warning, hard 4000)
+- **Critical issues addressed**: 4. (1) Chalmers 1995 was a References orphan, now cited inline. (2) Zheng & Meister's "throughput of human behavior" had been presented as their measured "conscious processing bandwidth" (L51, L127). (3) Schwartz et al. 1996: Schwartz's later "mindful attention" framing had been presented as the study's content; it is now ERP therapy with the *decrease* in caudate glucose metabolism the paper reports. (4) "Posner molecule research remains entirely theoretical" was false; it now cites Ettenberg et al. 2020 for the lithium-isotope work.
+- **Medium issues addressed**: 5. (1) The Stapp decoherence objection now names its source (Georgiev 2015) and Stapp's own 2012 reply (verified against the lbl.gov draft), with the open crux linked to [[concepts/process-1-specification-problem]]. "Hameroff's corrected" became "Hagan, Hameroff and Tuszyński's 2002 revised". (2) Bandwidth→conservation non sequitur fixed. (3) Eccles "pairing problem undermines" became "confronts", consistent with [[concepts/pairing-problem]]. (4) "Five candidate mechanisms" count drift fixed. (5) Two "not merely X. It is Y." constructs rephrased.
+- **Cross-review**: the three post-07-18 edits were ratified: the P-Q10 toy-model paragraph (matches the register), the 08-13 No Many Worlds rewrite, and the Davidson link.
+- **Enhancements made**: 3
+- **Engagements**: Schaffer Mode Three; mysterianism Mode Two; Wallace/MWI Mode Three; Tegmark/Georgiev versus Stapp stated as open. No label leakage.
+- **Attribution**: `ai_system` held (`claude-opus-4-6+claude-fable-5`) for targeted fidelity fixes
+- **Remaining**: the sibling [[concepts/psychophysical-laws]] L120, L145 and L167 carry the same Zheng & Meister and Schwartz conflations. They are noted in the review and not tasked.
+- **Output**: [[reviews/deep-review-2026-10-11-the-psychophysical-control-law]]
 
 ## 11:06 - refine-draft
 - **Status**: Success

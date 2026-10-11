@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-08-26 22:51:01+00:00
+ai_modified: 2026-10-11 11:26:35+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -28,8 +28,8 @@ description: What formal mapping connects conscious states to physical selection
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 03:55:00+00:00
-lastmod: 2026-08-26 22:51:01+00:00
+last_deep_review: 2026-10-11 11:26:35+00:00
+lastmod: 2026-10-11 11:26:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ The Unfinishable Map commits to [bidirectional interaction](/tenets/#bidirection
 
 A control law in engineering states the relationship between sensed error (difference between desired and actual state) and the corrective output the controller produces. A thermostat's control law is trivial: if temperature < setpoint, heat on; else off. An aircraft autopilot's is complex: combining proportional, integral, and derivative responses across multiple axes simultaneously.
 
-The [control-theoretic framing](/concepts/control-theoretic-will/) of consciousness identifies the will as a controller governing neural dynamics through what Zheng and Meister (2025) measured as a ~10 bits/second conscious processing bandwidth—a figure the Map treats as a plausible constraint on the psychophysical control channel, though the two bandwidths need not be identical. To make this more than metaphor, three elements need specification:
+The [control-theoretic framing](/concepts/control-theoretic-will/) of consciousness identifies the will as a controller governing neural dynamics through a narrow channel. Zheng and Meister (2025) estimate the information throughput of human behaviour and thought at ~10 bits/second—a figure the Map reads as a bound on conscious processing and treats as a plausible constraint on the psychophysical control channel, though the two bandwidths need not be identical. To make this more than metaphor, three elements need specification:
 
 **Input variables**: What the controller senses. In the Map's framework, phenomenal experience provides the sensor channel—qualia, felt states, the what-it-is-like of current neural activity. But which phenomenal dimensions feed into the control law? The intensity of attention, the felt quality of effort, the [valence of experience](/topics/valence-and-conscious-selection/), the structure of intention—these are candidates, but the control law must specify which ones function as error signals.
 
@@ -72,7 +72,7 @@ Physics took two millennia from Aristotle to Newton before arriving at F=ma—an
 
 We lack a measurement theory for phenomenal states comparable to what physics provides for physical quantities. Physical variables have defined units, standardised instruments, and intersubjective verification. Phenomenal variables—how much attention, how intense the effort—have none of these. A control law connecting unmeasured inputs to specifiable outputs cannot be fully formalised until both sides admit quantification.
 
-This is not merely a practical problem. The [hard problem](/topics/hard-problem-of-consciousness/) concerns precisely this asymmetry: phenomenal properties resist the third-person characterisation that science requires. A psychophysical control law must bridge first-person phenomenology and third-person physics—the same bridge that the hard problem claims cannot be built from the physical side alone.
+The difficulty runs deeper than practice: the [hard problem](/topics/hard-problem-of-consciousness/) concerns precisely this asymmetry: phenomenal properties resist the third-person characterisation that science requires. A psychophysical control law must bridge first-person phenomenology and third-person physics—the same bridge that the hard problem claims cannot be built from the physical side alone.
 
 ### The T-Shirt Problem
 
@@ -80,11 +80,11 @@ The "t-shirt problem" Schaffer presses against naturalistic dualism—so named b
 
 Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 276). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
 
-Some philosophers invoke [cognitive closure](/concepts/mysterianism/) here—arguing that human minds may lack the conceptual resources to formulate psychophysical laws. The Map acknowledges this as a logical possibility but does not rely on it. Cognitive closure functions as an unfalsifiable exit: if the law cannot be specified, that becomes evidence of closure rather than evidence against the framework. A research programme that reserves the right to invoke cognitive closure whenever progress stalls has immunised itself against failure. The Map's position is that the gap reflects scientific immaturity and conceptual asymmetry, not cognitive limitation—and that the path forward described in subsequent sections offers genuine traction.
+Some philosophers invoke [cognitive closure](/concepts/mysterianism/) here—arguing that human minds may lack the conceptual resources to formulate psychophysical laws. The Map acknowledges this as a logical possibility but does not rely on it. Cognitive closure functions as an unfalsifiable exit: if the law cannot be specified, that becomes evidence of closure rather than evidence against the framework, and a programme free to invoke it whenever progress stalls has immunised itself against failure. The Map's position is that the gap reflects scientific immaturity and conceptual asymmetry, not cognitive limitation.
 
 ## Candidate Formulations
 
-Five candidate mechanisms exist for psychophysical coupling (detailed in [psychophysical-laws](/concepts/psychophysical-laws/)). Here the question is not which mechanism operates but what control law *form* each implies.
+Several candidate coupling laws have been proposed (surveyed in [psychophysical-laws](/concepts/psychophysical-laws/)). Here the question is not which mechanism operates but what control law *form* each implies.
 
 ### Stapp's Attention-Rate Law
 
@@ -96,9 +96,9 @@ In control-theoretic notation: *observation frequency = f(attention intensity)*,
 
 This gives a recognisable control structure: a **proportional controller** where the control output (observation rate) scales with the input (attention intensity). The gain parameter—how much observation rate changes per unit of attention—would be the fundamental psychophysical constant in Stapp's framework.
 
-**Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. The OCD research of Schwartz et al. (1996) illustrates what confirmed predictions would look like: patients using mindful attention to redirect neural activity from compulsive circuits produced measurable metabolic changes in the caudate nucleus. This outcome is equally compatible with purely physicalist neuroplasticity and does not distinguish between the two frameworks, but it demonstrates the *kind* of evidence that could become discriminating once independent measures of attention intensity are available.
+**Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. The OCD research of Schwartz et al. (1996) illustrates what confirmed predictions would look like: responders to exposure-and-response-prevention therapy—which Schwartz frames as mindfully redirecting attention away from compulsions—showed decreased glucose metabolism in the caudate nucleus. This outcome is equally compatible with purely physicalist neuroplasticity and does not distinguish between the two frameworks, but it demonstrates the *kind* of evidence that could become discriminating once independent measures of attention intensity are available.
 
-**Limitations**: The Zeno mechanism faces the [decoherence](/concepts/decoherence/) timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions—the Zeno effect would require observation rates of roughly 10¹³ to 10²⁰ Hz across that range to maintain coherence (the faster end of the decoherence window demands the higher rate), a physically implausible demand for a biological system. Responses exist (Hameroff's corrected timescale estimates, post-decoherence selection at points where physics leaves outcomes undetermined), but none has been empirically confirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
+**Limitations**: The Zeno mechanism faces the [decoherence](/concepts/decoherence/) timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions, and Georgiev's (2015) simulations find the Zeno effect breaking down over intervals longer than the decoherence time—so holding a pattern would demand observation rates of roughly 10¹³ to 10²⁰ Hz, physically implausible for a biological system. Stapp (2012) replies that the model never used interference between superposed states and works on the already-decohered brain state; whether projections there change the brain's unconditional statistics is the open crux ([process-1-specification-problem](/concepts/process-1-specification-problem/)). Other responses (Hagan, Hameroff and Tuszyński's 2002 revised timescale estimates; post-decoherence selection where physics leaves outcomes undetermined) remain empirically unconfirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
 
 ### Eccles' Intention-Probability Law
 
@@ -110,7 +110,7 @@ This is a **probability-reweighting controller**: consciousness does not determi
 
 **Strengths**: Probability reweighting is minimal—consistent with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The form is testable in principle: measure vesicle release probabilities during intended versus unintended actions.
 
-**Limitations**: The [pairing problem](/concepts/pairing-problem/) undermines the framework before the control law becomes relevant. And intention is a coarser phenomenal variable than attention—it is unclear how intention maps to specific synapses among millions.
+**Limitations**: The [pairing problem](/concepts/pairing-problem/) confronts the framework before the control law becomes relevant. And intention is a coarser phenomenal variable than attention—it is unclear how intention maps to specific synapses among millions.
 
 ### Policy-Selection Law
 
@@ -118,7 +118,7 @@ The Map's [policy-level framework](/concepts/consciousness-selecting-neural-patt
 
 **Form**: Consciousness selects among a finite set of action policies that the brain has prepared. Selection is discrete (choose one), not continuous (modulate a parameter).
 
-In control terms, this is a **switching controller**—the simplest possible control law, requiring only enough bandwidth to specify which option (typically from a small set). With the ~10 bits/second constraint, consciousness could select among up to 1024 options per second, though realistic decisions involve far fewer.
+In control terms, this is a **switching controller**—the simplest possible control law, requiring only enough bandwidth to specify which option. With the ~10 bits/second constraint, consciousness could select among up to 1024 options per second, though realistic decisions involve far fewer.
 
 **Strengths**: Minimal bandwidth requirements. Consistent with Libet-style findings: the brain prepares options, consciousness selects or vetoes. Avoids the specification problem at the micro-level—the law governs policy choice, not neural-level quantum events.
 
@@ -128,7 +128,7 @@ In control terms, this is a **switching controller**—the simplest possible con
 
 Whatever the psychophysical control law turns out to be, the Map's commitments and empirical constraints jointly require:
 
-**Bandwidth compatibility.** Insofar as the conscious-processing figure constrains the control channel, the law's information throughput must not exceed ~10 bits/second. The qualification matters: as noted above, the Zheng–Meister figure measures conscious processing behaviourally and need not equal the psychophysical channel's capacity—it is recruited here as a plausible working bound rather than an established identity. Taken as that bound, it rules out laws where consciousness specifies neural activity at the level of individual neurons or synapses. Selection must be coarse-grained—at the level of action policies, attentional focus, or pattern stabilisation.
+**Bandwidth compatibility.** Insofar as the Zheng–Meister figure constrains the control channel, the law's information throughput must not exceed ~10 bits/second. The qualification matters: the figure is a behavioural throughput, recruited here as a plausible working bound on the psychophysical channel rather than an established identity with it. Taken as that bound, it rules out laws where consciousness specifies neural activity at the level of individual neurons or synapses. Selection must be coarse-grained—at the level of action policies, attentional focus, or pattern stabilisation.
 
 **Conservation compliance.** The law must not imply energy injection into the physical system. Probability reweighting, basis selection, and observation-rate modulation all satisfy this by operating within quantum indeterminacy rather than against physical law. A control law that required consciousness to *add* energy to neural systems would violate the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet and face empirical refutation.
 
@@ -136,17 +136,17 @@ Whatever the psychophysical control law turns out to be, the Map's commitments a
 
 **Phenomenological consistency.** The law must match what conscious effort feels like. If the law says doubling effort doubles physical effect, then harder tasks should feel twice as effortful as slightly hard ones. If the law implies a threshold, there should be a phenomenological correlate of crossing it. First-person experience provides an independent check on the law's form.
 
-**Falsifiability.** The law must predict something that could, in principle, turn out to be false. Stapp's proportionality claim predicts that sustained high-effort attention should show specific neural signatures distinguishable from low-effort processing. If these signatures cannot be found—or if they fully reduce to conventional neuroplasticity—the law loses empirical traction. This is in-principle falsifiability, not current discriminating power: as the Stapp and Schwartz discussions above concede, no presently available test separates the law's predictions from physicalist neuroplasticity, because we cannot yet independently measure the phenomenal inputs the law takes as its sensor channel. The framework's empirical content is therefore deferred and conditional—a promissory note that becomes a live test only once the measurement framework the Conceptual Asymmetry section calls for exists.
+**Falsifiability.** The law must predict something that could, in principle, turn out to be false. Stapp's proportionality claim predicts that sustained high-effort attention should show specific neural signatures distinguishable from low-effort processing. If these signatures cannot be found—or if they fully reduce to conventional neuroplasticity—the law loses empirical traction. This is in-principle falsifiability, not current discriminating power: as the Stapp and Schwartz discussions above concede, no presently available test separates the law's predictions from physicalist neuroplasticity, because we cannot yet independently measure the phenomenal inputs the law takes as its sensor channel. The framework's empirical content is therefore a conditional promissory note, live only once the measurement framework the Conceptual Asymmetry section calls for exists.
 
 ## Why Specification Matters
 
-The specification gap is not merely an academic problem. It marks the frontier where the Map's philosophical commitment must eventually become a scientific research programme—and the gap's current width reflects the field's youth, not a structural impossibility.
+The specification gap matters beyond philosophy: it marks the frontier where the Map's philosophical commitment must eventually become a scientific research programme—and the gap's current width reflects the field's youth, not a structural impossibility.
 
 A psychophysical control law, even schematic, would:
 
 **Generate novel predictions.** If attention intensity maps to observation rate, meditation should produce measurable quantum-relevant effects in neural tissue. If policy selection is discrete, reaction time distributions should show quantisation effects absent from continuous-dynamics models.
 
-**Enable disconfirmation.** Without a law, any outcome can be reconciled with "consciousness selects." With a law, specific outcomes falsify specific predictions—once the independent measurement of phenomenal inputs that the law requires becomes available. Until then the disconfirmation is in-principle rather than on the table; the law specifies *what* would count as falsifying evidence without yet making that evidence obtainable.
+**Enable disconfirmation.** Without a law, any outcome can be reconciled with "consciousness selects." With a law, specific outcomes falsify specific predictions—once independent measurement of the phenomenal inputs becomes available. Until then the law specifies *what* would count as falsifying evidence without yet making that evidence obtainable.
 
 **Distinguish the Map from epiphenomenalism.** Both the Map and [epiphenomenalists](/concepts/epiphenomenalism/) agree consciousness exists. The difference lies in causal efficacy—and that difference is invisible without specifiable, testable coupling between phenomenal and physical variables.
 
@@ -156,7 +156,7 @@ Four developments could advance psychophysical control law specification:
 
 **Bandwidth measurement.** Zheng and Meister's ~10 bits/second finding constrains the control channel's capacity. More precise measurements—varying by task type, attention mode, and cognitive load—would constrain the control law's form. If the bandwidth is strictly constant across conditions, a proportional law is unlikely; if it varies systematically, the variation pattern constrains the mapping function.
 
-**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Khan et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. Posner molecule research remains entirely theoretical, with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
+**Quantum biology in neural tissue.** Whether quantum effects survive at decision-relevant timescales in the brain remains contested. The 2024 microtubule-stabilising drug study (Khan et al., Cohen's d = 1.9 for delaying anaesthesia) is consistent with quantum consciousness hypotheses, though classical mechanisms—microtubule stabilisation affecting cellular transport and membrane dynamics—could also explain the effect. The Posner-molecule proposal has only circumstantial support (lithium-isotope effects on rat behaviour; Ettenberg et al. 2020), with no experimental confirmation of quantum coherence in neural tissue. If quantum processes are confirmed and characterised, these would identify the physical side of the control law's output variables.
 
 **Neurophenomenology.** First-person reports of effort, attention, and intention—calibrated against neural measurements—could constrain the phenomenal side. Francisco Varela's neurophenomenological programme sought exactly this integration. Advances in real-time brain imaging correlated with trained introspective reports might yield the phenomenal metrics a control law requires.
 
@@ -170,9 +170,9 @@ The psychophysical control law is the specification gap at the centre of the Map
 
 **[Dualism](/tenets/#dualism)** creates the need for the law. If consciousness were identical to brain processes, no separate specification would be required—physics would suffice. Precisely because consciousness is ontologically distinct, the relationship must be lawfully specified.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that the law run downward: from phenomenal states to physical selections. Upward supervenience laws (Chalmers' primary contribution) specify how physics yields experience; the Map needs the other direction. The psychophysical control law *is* the bidirectional interaction tenet in operational form.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that the law run downward: from phenomenal states to physical selections. Upward supervenience laws, Chalmers' primary contribution (1995; 1996), specify how physics yields experience; the Map needs the other direction. The psychophysical control law *is* the bidirectional interaction tenet in operational form.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the law's form. Whatever the mapping, it must operate within quantum indeterminacy—biasing rather than overriding physical outcomes. The ~10 bits/second bandwidth enforces this naturally: so little information flows through the channel that large-scale conservation violations are implausible.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the law's form. Whatever the mapping, it must operate within quantum indeterminacy—biasing rather than overriding physical outcomes. The ~10 bits/second bandwidth fits this minimalism by limiting how much can be selected, though conservation is secured by operating within indeterminacy, not by the channel's narrowness.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** secures the kind of law this article asks for, though the dependence needs stating at its true width. Under branching, every output the law would select is realised on some branch, which removes not every role for consciousness but the specific control-law form the Map prefers: exclusive single-outcome selection, which needs an outcome to be excluded. Many-worlds defenders note that self-locating uncertainty preserves rational agency—the agent discovers which branch they occupy, and decision-theoretic arguments (Wallace 2012) ground rational action within MWI—and the concession owed runs deeper than that. An Everettian dualist retains branch-local persistence, ownership of the action, and reasons-responsive deliberation, and could even grant that phenomenal states make a genuine causal difference, routing the influence through something other than outcome-selection. Nothing in the control-theoretic evidence refutes that alternative on its own terms. What separates the Map from it is the further requirement that unchosen alternatives be *globally* nonactual—unrealised anywhere, not merely absent from the agent's branch—a [posit the Map adopts](/tenets/background-commitments/) rather than derives. The Map's reading of [indexical identity](/concepts/indexical-knowledge-and-identity/) expresses the same commitment: that *I* experience *this* outcome is treated as an [irreducible metaphysical fact](/concepts/indexical-knowledge-and-identity/#from-epistemic-to-metaphysical) that genuine collapse honours—a starting point the Everettian alternative runs counter to, honestly noted as such, with the disagreement sitting at the framework boundary rather than being settled by the agency evidence.
 
@@ -203,10 +203,14 @@ The psychophysical control law is the specification gap at the centre of the Map
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 2. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 3. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-4. Schaffer, J. (2020). "Naturalistic Dualism and the Problem of the Physical Correlate." Unpublished manuscript (draft of 25 June 2020), Rutgers University. http://www.jonathanschaffer.org/dualismcorrelate.pdf
-5. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
-9. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
-10. Khan, S., ... Wiest, M. C. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro* 11(8), ENEURO.0291-24.2024.
+4. Ettenberg, A., Ayala, K., Krug, J.T., Collins, L., Mayes, M.S. & Fisher, M.P.A. (2020). "Differential effects of lithium isotopes in a ketamine-induced hyperactivity model of mania." *Pharmacology Biochemistry and Behavior* 190, 172875.
+5. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039.
+6. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E* 65(6), 061901.
+7. Khan, S., Huang, Y., Timuçin, D., ... Wiest, M.C. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro* 11(8), ENEURO.0291-24.2024.
+8. Schaffer, J. (2020). "Naturalistic Dualism and the Problem of the Physical Correlate." Unpublished manuscript (draft of 25 June 2020), Rutgers University. http://www.jonathanschaffer.org/dualismcorrelate.pdf
+9. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+10. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+11. Stapp, H.P. (2012). "Reply to a Critic: 'Mind Efforts, Quantum Zeno Effect and Environmental Decoherence'." *NeuroQuantology* 10(4). https://doi.org/10.14704/nq.2012.10.4.619
+12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+14. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
