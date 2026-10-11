@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T14:14:20+00:00
+ai_modified: 2026-10-11T15:07:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:07 - refine-draft
+- **Status**: Success
+- **File**: [[topics/vertiginous-question]]
+- **Trigger**: topic-concept anchoring audit 2026-10-11 against anchor [[interactionist-dualism]] (failed: strong_assertions, underdetermination_markers)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (three sentences, located by quoted text; recent calibration fixes at L125/L129/L163/L189 from 10-05/10-06 left untouched):
+  - L157 Zombies: "The conceivability of zombies ... shows that qualitative physical facts underdetermine consciousness" became "If zombies ... are possible, not merely conceivable, qualitative physical facts underdetermine ...". The conceivability-to-possibility step is the zombie argument's contested premise and is now named, not assumed.
+  - L82: the ownership void "shows that" became "suggests that" appropriation is structurally opaque. The source (`concepts/mine-ness` § The Ownership Void) states the opacity conditionally ("If Zahavi is right ... and Heidegger right ..."), so "shows" upgraded a conditional argument.
+  - L197 Occam's Razor: "the vertiginous question shows qualitative facts *don't* suffice to capture everything real about consciousness" became "on the Map's reading, which is not framework-neutral, the vertiginous question shows qualitative facts *don't* suffice". The verdict contradicted the article's own concessions: the deflationist exit is open (L129), the Map "has refuted none" (L125), and deflationary accounts "cannot be dismissed" (L88). This is the one underdetermination marker, placed where the article reaches a verdict that depends on its first-person realism. Not counted by the detector ("shows" without "that"), but the same overclaim.
+  - Left as is: L100 "His quadrilemma shows that" (an attributed formal result, List 2025) and L107 "does not prove ... shows that no comfortable resolution" (already calibrated).
+- **Engagement classification** (editor-internal): anti-haecceitists/deflationists at L197 went from a tenet-register verdict presented as a result to Mode Three (boundary marked honestly); the substantive engagement stays Mode Two at L88. Zombie L157 is not an opponent reply; it is a premise recalibration.
+- **Anchoring audit** (`evaluate_anchoring`): strong-assertion 4 hits / 1.00/kw → 2 hits / 0.50/kw (ceiling 0.86/kw = 1.5 × anchor 0.57); underdetermination markers 0 → 1; hedge density 8.01 → 8.26/kw (+1, from the "suggests" verb change; no hedges added for their own sake). Flags: 1 → 0.
+- **Length** (`analyze_length`): 3,993 → 3,996 (topics hard 4,000, gate `>=`; 3 words of headroom remain).
+- **Frontmatter**: `ai_modified` bumped; `ai_system` unchanged.
+- **Published**: yes
 
 ## 14:14 - apex-evolve
 - **Status**: Complete (driver-directed cross-apex audit against today's changes; no single staleness pick)

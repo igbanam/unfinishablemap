@@ -39,6 +39,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Semantic satiation as an inducible dissociation of felt meaning from competence
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-11-constitutive-twins-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-11-constitutive-twins-wing (High Priority, flagged 'for the harvester') proposes satiation as an INDUCIBLE zero case for [P-TU1](/positions/thought-and-understanding/#p-tu1): repetition drives a word's felt meaning toward zero while competence can be measured on the same trials (Tian & Huber 2010: responses 'gradually slowed for the repeated category'; 'a loss of association between the lexical item and meaning'). The corpus mentions satiation only in passing (memory-anomalies L61 via Moulin et al. 2021; phenomenology-of-linguistic-failure L83), never as a felt-meaning/competence test. The reviewer verified leads: Smith & Klein 1990, Tian & Huber 2010, Lambert & Jakobovits 1960, Kounios et al. 2000. It did NOT establish whether any study combines trial-level felt-meaning ratings with a competence measure, so the research should establish that first. Scope note: the reviewer estimated the landing as a short section on concepts/phenomenal-constitution-thesis or a [P-TU1](/positions/thought-and-understanding/#p-tu1) 'Would shift if' clause; the research note should recommend article versus section. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/semantic-satiation-and-felt-meaning-2026-10-11.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'semantic-satiation-and-felt-meaning' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-11
+
 ### P2: Adopt interactionist-dualism calibration in vertiginous-question
 - **Type**: refine-draft
 - **Status**: pending

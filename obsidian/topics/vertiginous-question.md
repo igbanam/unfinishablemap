@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-10-06T14:05:30+00:00
+ai_modified: 2026-10-11T15:06:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Every attempt to answer the vertiginous question seems to miss its target.
 
 **The psychological answer**: "You are this person because of your memories, personality, and psychological continuity." But memories and personality are contents of experience, not what makes it my experience. Two people could hypothetically have identical memories; the question of which one *I* am would remain.
 
-**[[cognitive-integration-and-the-self#integration-and-indexical-identity|Ownership-based answers]]** reverse the order. The [[mine-ness#the-ownership-void|ownership void]] shows that the mechanism of appropriation — how experiences become *mine* — is itself structurally opaque. Indexical identity cannot be grounded in ownership when ownership presupposes the very identity in question. The vertiginous question and the [[consciousness-and-the-ownership-problem]] are complementary faces of the same residue: the former is the indexical face ("why am I *this* subject?"), the latter the possessive face ("why is this experience *mine*?"), and neither face can be reduced to the other.
+**[[cognitive-integration-and-the-self#integration-and-indexical-identity|Ownership-based answers]]** reverse the order. The [[mine-ness#the-ownership-void|ownership void]] suggests that the mechanism of appropriation — how experiences become *mine* — is itself structurally opaque. Indexical identity cannot be grounded in ownership when ownership presupposes the very identity in question. The vertiginous question and the [[consciousness-and-the-ownership-problem]] are complementary faces of the same residue: the former is the indexical face ("why am I *this* subject?"), the latter the possessive face ("why is this experience *mine*?"), and neither face can be reduced to the other.
 
 **The deflationary answer**: "There is no further fact. 'Why am I this person?' is like asking 'Why is this spot here?' — the question presupposes something mysterious where there's only a brute particular."
 
@@ -154,7 +154,7 @@ The vertiginous question intersects several philosophical problems:
 
 **Teleportation and uploading.** If you were teletransported (scanned, destroyed, reconstructed from new matter), would the result be you? The vertiginous question clarifies what's at stake: the reconstructed person would be qualitatively identical, but would it be *this* subject — the one whose experiences I am living? If haecceity is primitive and non-transferable, the answer is no.
 
-**[[philosophical-zombies|Zombies]].** The conceivability of zombies — beings physically identical to conscious beings but lacking experience — shows that qualitative physical facts underdetermine consciousness. The vertiginous question adds: even among conscious beings, qualitative facts underdetermine which one I am.
+**[[philosophical-zombies|Zombies]].** If zombies — beings physically identical to conscious beings but lacking experience — are possible, not merely conceivable, qualitative physical facts underdetermine consciousness. The vertiginous question adds: even among conscious beings, qualitative facts underdetermine which one I am.
 
 **[[moral-responsibility|Moral responsibility]].** If haecceity grounds personal identity, it also grounds responsibility. I am responsible for *my* actions because I am this particular subject who performed them — not merely someone qualitatively similar. Pattern-identity theories that allow for branching or fusing selves face difficulties with desert and punishment.
 
@@ -194,7 +194,7 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** — If consciousness interfaces with the brain through quantum selection sites, the question of *which* consciousness makes *which* selections becomes real. The vertiginous question — why am I this consciousness? — connects to which selections constitute my causal history. This remains a philosophical proposal rather than established science, but it illustrates how the Map's framework could ground indexical facts in causal particularity.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** — Anti-haecceitists appeal to parsimony: why posit primitive thisness when qualitative facts suffice? But the vertiginous question shows qualitative facts *don't* suffice to capture everything real about consciousness. The seemingly simple answer ("I'm me because I'm me") conceals genuine complexity. Parsimony should not eliminate phenomena.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** — Anti-haecceitists appeal to parsimony: why posit primitive thisness when qualitative facts suffice? But on the Map's reading, which is not framework-neutral, the vertiginous question shows qualitative facts *don't* suffice. The seemingly simple answer ("I'm me because I'm me") conceals genuine complexity. Parsimony should not eliminate phenomena.
 
 ## Further Reading
 
