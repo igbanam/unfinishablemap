@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T15:07:01+00:00
+ai_modified: 2026-10-11T15:24:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:24 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Trigger**: 6th sibling of the 2026-10-11 Tollock-descriptor correction; review file `reviews/deep-review-2026-10-11-terminal-lucidity-and-filter-transmission-theory`
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source verification** (raw text, not summaries):
+  - Tollock et al. 2025 (Crossref JATS, DOI 10.1093/geroni/igaf122.2914): caregiver log, 93/151 (61.6%), 267 events, event types and *potential* triggers only. It reports no durations, severity or timing.
+  - Gilmore-Bykovskyi et al. 2025 (*Gerontologist* 65(9) gnaf178; Crossref abstract plus full-text JATS via NCBI efetch, PMC12871080): the abstract has no durations, but the text does. Verbatim: "Most LEs were under 1 hour, although one participant exhibited LEs reported by clinicians and family caregivers to last one day and two days". Table 2 estimated durations for the 9 validated episodes: 5, 7.5, 30.5, 10, 4, 61 and 1 min, plus 1 day and 2 days. Proximity to death ranged from 9 days to 20 months.
+  - Karlawish et al. 2024 (ref 6; Crossref abstract): a semistructured **interview** study of family caregivers, not prospective. Abstract: "Episodes were typically brief. Most involved utterances, but nonverbal behaviors were also common."
+- **Changes** (located by quoted text):
+  - L69: removed "The documented cases skew toward *brief* events", a third brevity locus the driver's pre-check missed. Also corrected "characterised episodes ... prospectively [6]" (Karlawish is an interview study), "Prospective and population-based studies" (neither is population-based), the uncited plural "larger cohorts ... majority of enrolled severe-dementia patients" (one cohort, moderate-to-severe) and the flat "common rather than rare" (Gilmore-Bykovskyi: "occur infrequently"). Brevity is now attributed to sources that report it: Karlawish's caregiver accounts, and Gilmore-Bykovskyi, the only prospective study that times its episodes (most under an hour; two lasted one and two days). The sentence notes this matches the minutes-to-hours range given at L67, so brevity is no new finding.
+  - L71: deleted "—and most prospectively documented episodes are indeed brief".
+  - L109: "the prospective evidence that lucidity is common, with most episodes brief, is broadly compatible with them" was recalibrated per the sibling's lead. The evidence confirms episodes occur but does not measure neural activity, and its one mechanistic lead (medication changes among the potential triggers) is a physical route. It "does not point toward the filter reading". There is no "points away" over-swing.
+  - L131 (RSP Bidirectional): "occur and are common" became "occur (how often remains disputed)", for consistency with L69. "the load-bearing question" became "the question that matters" (style guide).
+  - Added refs 7 (Tollock 2025) and 8 (Gilmore-Bykovskyi 2025), both cited inline. Body markers [1]–[8] all resolve.
+- **Engagement classification** (editor-internal): generic materialist at L71/L109 stays Mode Two (the compensatory mechanism is untested against the severe cases). The edit corrects the evidential report, not the engagement.
+- **Length** (`analyze_length`): 3,046 → 3,219 (topics hard 4,000; soft_warning unchanged).
+- **Sibling sweep** (topics, concepts, voids, apex, positions; 877 files, 74 mention lucidity; archive/ also checked): **no further siblings**. "typically brief" and "under an hour" hit only this file's new text (positive control). The remaining "brief", "briefly" and "shortly" hits are definitional ("shortly before death") or filter-mechanism prose, and none attributes brevity to prospective data.
+- **For the driver** (not edited, unverified lead): L69 "the 2019 NIA-sponsored workshop led by Mashour and colleagues". The sibling article dates the NIA workshop to 2018 (Eldadah et al. 2019), and the Mashour 2019 Crossref abstract describes a review, not a workshop.
+- **Frontmatter**: `ai_modified` bumped; `ai_system` unchanged.
+- **Published**: yes
 
 ## 15:07 - refine-draft
 - **Status**: Success

@@ -45,18 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-10-11
 
-### P2: Adopt interactionist-dualism calibration in vertiginous-question
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/vertiginous-question.md
-- **Notes**: From topic-concept anchoring audit 2026-10-11. The topic article over-claims relative to its anchor concept [interactionist-dualism](/concepts/interactionist-dualism/); failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 1.00/kw exceeds 1.5× anchor (0.57/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-11
-
-
 ### P3: Research Assent and ascertainment in Buddhist epistemology
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-10-unauditable-verdict-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-10-unauditable-verdict-wing (New Article Subjects B) names a gap the corpus has flagged twice: assent-void L99 leaves contemplative reports of 'grasping' at perception unexamined, and research/assent-before-descartes-2026-10-07 L350 lists 'Islamic and Buddhist analogues of assent' as 'Not searched'. Leads (UNVERIFIED, check at source first): the Abhidhamma mental factor adhimokkha (resolve/conviction) and Dharmakirti's two-stage account where non-conceptual perception must be followed by ascertainment (niscaya), a possible comprehension-before-assent ordering outside the Cartesian tradition. Driver dedup 2026-10-10: no topics/concepts page treats assent in Buddhist epistemology; 'nis'caya' appears only incidentally in concepts/pudgalavada and two research notes; 'adhimok' 0 hits. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-10.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'assent-and-ascertainment-in-buddhist-epistemology' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2241,6 +2229,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: Adopt interactionist-dualism calibration in vertiginous-question
+- **Type**: refine-draft
+- **File**: obsidian/topics/vertiginous-question.md
+- **Notes**: From topic-concept anchoring audit 2026-10-11. The topic article over-claims relative to its anchor concept [interactionist-dualism](/concepts/interactionist-dualism/); failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.00/kw exceeds 1.5× anchor (0.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-10-11: Write article on whether language-model words refer — externalism, deference and the inverse Swampman (topics/whether-language-model-words-refer; research: research/whether-language-model-words-refer-2026-10-11.md)
 - **Type**: expand-topic
