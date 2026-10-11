@@ -268,9 +268,21 @@ def load_state() -> dict:
 
 
 def save_state(state: dict) -> None:
-    """Save evolution state."""
-    with open(STATE_FILE, "w") as f:
-        yaml.dump(state, f, default_flow_style=False, sort_keys=False)
+    """Save evolution state, preserving the file's leading comment header.
+
+    yaml.safe_load discards comments, so a bare re-dump strips the header that
+    tools/evolution/state.py writes (restored by hand in commit a8ac2cce7b).
+    """
+    header = ""
+    if STATE_FILE.exists():
+        for line in STATE_FILE.read_text(encoding="utf-8").splitlines(keepends=True):
+            if line.startswith("#") or not line.strip():
+                header += line
+            else:
+                break
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        f.write(header)
+        yaml.dump(state, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
 
 
 def extract_topics(content: str) -> list[str]:
