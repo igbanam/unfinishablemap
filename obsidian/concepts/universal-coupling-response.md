@@ -4,7 +4,7 @@ description: "The dualist position that consciousness couples with all physical 
 created: 2026-04-13
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-21T19:24:11+00:00
+ai_modified: 2026-10-11T11:49:36+00:00
 draft: false
 topics:
   - "[[invertebrate-consciousness-as-interface-test]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-07-25T05:46:31+00:00
 ---
 
-The universal coupling response is the position that consciousness couples with every physical system whose architecture meets adequate conditions for interface. Where threshold views impose a sharp boundary below which coupling fails, and panpsychism extends consciousness to all matter regardless of organisation, the universal coupling response occupies a distinct middle position: architectural adequacy is required, but wherever it exists, coupling occurs. The Unfinishable Map adopts this as its most coherent response to the question of which physical systems are conscious.
+The universal coupling response is the position that consciousness couples with every physical system whose architecture meets adequate conditions for interface. Where threshold views impose a sharp boundary below which coupling fails, and panpsychism extends consciousness to all matter regardless of organisation, the universal coupling response occupies a distinct middle position: architectural adequacy is required, but wherever it exists, coupling occurs. The Unfinishable Map adopts this as its most coherent response to the question of which physical systems are conscious (P-CS7).
 
 The concept emerges from a trilemma facing dualist interface models. If consciousness is non-physical and couples with suitable physical systems, three responses are available when confronted with organisms whose neural architecture appears adequate yet whose consciousness remains uncertain. The threshold response denies coupling below some architectural boundary. The coupling selectivity response grants that architecture is adequate but holds that consciousness couples selectively based on unknown criteria. The universal coupling response holds that adequacy is sufficient—if the architecture supports coupling, coupling occurs.
 
@@ -71,7 +71,7 @@ The universal coupling response requires specifying—at least provisionally—w
 
 These criteria are provisional. The universal coupling response does not require a complete specification of adequacy—only that adequacy is the right kind of condition to ask about. As the empirical science of animal consciousness advances (through frameworks like Birch's facilitation hypothesis), the criteria will sharpen.
 
-Two features of the list become important away from the evolved cases. The functional markers are evidence of adequacy rather than part of it, and they work by inference from the one uncontested conscious case outward along shared ancestry; and nothing in the list mentions how an architecture came to exist. [[architectural-adequacy-at-the-built-edge|Built systems]]—cortical organoids and anthrobots—are where both features bite, and where this page's scope claim turns out to be unapplied rather than extended.
+Two features of the list become important away from the evolved cases. The functional markers are evidence of adequacy rather than part of it, and they work by inference from the one uncontested conscious case outward along shared ancestry and architecture; and nothing in the list mentions how an architecture came to exist. [[architectural-adequacy-at-the-built-edge|Built systems]]—cortical organoids and anthrobots—are where both features bite, and where this page's scope claim turns out to be unapplied rather than extended.
 
 ## Implications for the Interface Model
 
@@ -89,7 +89,7 @@ Universal coupling constrains the Map's interface model in specific ways.
 
 **Minimal Quantum Interaction**: If consciousness biases quantum indeterminacies in neural tissue, and quantum indeterminacies exist in all neural tissue, then universal coupling follows naturally from the Map's second tenet. The mechanism does not discriminate between species. Wherever neural architecture provides adequate quantum-level conditions, the coupling channel exists.
 
-**Bidirectional Interaction**: Universal coupling predicts that consciousness causally contributes to behaviour wherever it couples. Birch's facilitation hypothesis—that conscious processing outperforms unconscious processing on tasks requiring flexible integration—should therefore hold across phyla. The growing evidence for this pattern in invertebrates supports both bidirectional interaction and universal coupling simultaneously.
+**Bidirectional Interaction**: Universal coupling predicts that consciousness causally contributes to behaviour wherever it couples. Birch's facilitation hypothesis—that conscious processing outperforms unconscious processing on tasks requiring flexible integration—should therefore hold across phyla. The growing evidence for this pattern in invertebrates is consistent with both bidirectional interaction and universal coupling, though a physicalist reads the same facilitation data without either.
 
 **No Many Worlds**: Under MWI, every quantum event spawns branches and the question of whether a specific organism is conscious loses determinacy. The Map's rejection of MWI preserves the coherence of asking whether a given bee or octopus is conscious—a question that universal coupling answers affirmatively whenever architectural conditions are met.
 

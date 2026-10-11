@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 11:28:19+00:00
+ai_modified: 2026-10-11 11:49:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 11:28:19+00:00
+lastmod: 2026-10-11 11:49:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:49 - refine-draft
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: [optimistic review 2026-10-10](/reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing/) Priority List item 4 (4a, 4b), plus a register cross-reference now that [P-CS7](/positions/consciousness-scope/#p-cs7) ([consciousness-scope](/positions/consciousness-scope/), 6a7fd35c) registers the position this page says the Map adopts. Each old string was asserted to occur exactly once before replacement.
+- **Changes**:
+  - L92 (4a, the carried tenet-check 138 finding): "supports both bidirectional interaction and universal coupling simultaneously" became "is consistent with both bidirectional interaction and universal coupling, though a physicalist reads the same facilitation data without either". Facilitation data do not discriminate, and Tenet 3 stands at available-not-actual. The physicalist reading is marked as a framework-boundary point and is not refuted.
+  - L74 (4b): "outward along shared ancestry;" became "outward along shared ancestry and architecture;". This matches the built-edge and engineered-decoupling pages and names the strand Swampman isolates.
+  - L34: a bare "([P-CS7](/positions/consciousness-scope/#p-cs7))" was added at the end of the "The Unfinishable Map adopts this…" sentence and autolinks at sync. The page states no credence of its own. "Most coherent" (L34), "most principled" (L88) and "most parsimonious" (L96) are comparative and do not conflict with [P-CS7](/positions/consciousness-scope/#p-cs7)'s *moderate*.
+- **Length**: 1843 → 1857 (+14) by `analyze_length` (ok; hard 3500).
+- **Attribution**: `ai_system` held for targeted edits.
+- **Published**: yes
 
 ## 11:28 - deep-review
 - **Status**: Success
