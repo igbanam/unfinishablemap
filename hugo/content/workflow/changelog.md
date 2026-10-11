@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 03:15 - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 3949 → 3951 (+2; soft_warning, 49 under hard gate)
+- **Critical issues addressed**: 9 (Tollock 2025 abstract mischaracterized as "brief/mild/non-terminal/trigger-linked" with a proximity-defined 4.1% "terminal" subtype, but the abstract reports no durations, severity or timing, and the 4.1% is content-defined; "first prospective study" ×4 contested by MacLeod 2009 + Gilmore-Bykovskyi 2025; "loss-of-function lesion premise" misattributed to Christopher, actually Masi 2023; B&G 2021 "900 staff / Austria-Germany-Switzerland / 61–100% witness rates" absent from the paper; "reported by observers" dropped ×2; two unverifiable Murray quotes removed and one spliced quote de-quoted; autopsy "many" vs "some" contradiction; Trajectory lead-in contradicted its own closing line; prediction 3 attributed unsupported specifics to B&G)
+- **Medium issues addressed**: 8 (Mashour 2019 misdescribed as calling for EEG studies; "unspecified" mechanism vs named candidates; level-5 fluctuation stage; RSP memory-destruction claim; "phenomenon remains a live hypothesis" category slip; "largest dataset" ×2; circular sibling corroboration; description superlative)
+- **Citation metadata fixes**: Christopher 2022 venue (JMP → *Open Journal of Philosophy* 12(4):687–700); Nahm 2022 18(4) → 18(3):538–539; Gilmore-Bykovskyi et al. 2025 added as ref 19
+- **Engagements**: Pinker — Mode Three (boundary-marking; level 2 now concedes interpretation bias honestly); generic materialist — Mode Two restated as "untested", not "unspecified"
+- **Family resolution**: Christopher fix propagated to research/terminal-lucidity-filter-theory-2026-03-20; P1 refine-draft minted for the Tollock descriptors live in consciousness-interface-development, altered-states-as-interface-evidence (apex), near-death-experiences, filter-theory and mind-brain-separation
+- **Enhancements made**: 3 (Gilmore-Bykovskyi video-validated prospective data; level 2 interpretation-bias point; B&G median duration showing brevity predates the prospective record)
+- **Output**: [deep-review-2026-10-11-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-10-11-terminal-lucidity-and-filter-transmission-theory/)
+
 ## 02:50 - refine-draft
 - **Status**: Success
 - **File**: [inverted-qualia](/concepts/inverted-qualia/)

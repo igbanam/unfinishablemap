@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-09-26 09:16:47+00:00
+ai_modified: 2026-10-11 03:15:32+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-20
-date: '2026-09-26'
+date: '2026-10-11'
 draft: false
-lastmod: 2026-09-26 09:16:47+00:00
+lastmod: 2026-10-11 03:15:32+00:00
 related_articles: []
 title: Research Notes - Terminal Lucidity and Filter/Transmission Theory
 ---
@@ -111,11 +111,11 @@ Terminal lucidity — the unexpected return of mental clarity, memory, and perso
 
 ### Christopher (2022) — Dualism 101: Terminal Lucidity and an Explanation
 - **URL**: https://www.scirp.org/journal/paperinformation?paperid=121479
-- **Type**: Peer-reviewed paper (Journal of Modern Physics)
+- **Type**: Paper, *Open Journal of Philosophy* 12(4):687–700, DOI 10.4236/ojpp.2022.124047 *(venue corrected 2026-10-11; previously given as Journal of Modern Physics)*
 - **Key points**:
   - Explicitly argues terminal lucidity supports substance dualism
   - Frames terminal lucidity as evidence that consciousness is not identical to brain states
-  - Material monism relies on a "loss-of-function lesion premise" — brain damage reduces cognition, so cognition must be brain-generated
+  - Material monism relies on a "loss-of-function lesion premise" — brain damage reduces cognition, so cognition must be brain-generated *(Correction 2026-10-11: this phrase is Masi's (2023, abstract), not Christopher's; Christopher 2022 never uses "lesion". Christopher's own argument is soul-based, drawing on mediumship reports in Carter's* Science and the Afterlife Experience*.)*
   - Terminal lucidity directly violates this premise
 - **Tenet alignment**: Strongly supports Tenet 1 (Dualism) — explicitly dualist interpretation
 - **Quote**: "Terminal lucidity clearly challenges the assumption that consciousness in dementia vanishes in lockstep with brain deterioration"
@@ -248,7 +248,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 8. Bergson, H. (1896/1911). *Matter and Memory*. https://brocku.ca/MeadProject/Bergson/Bergson_1911b/Bergson_1911_01.html
 9. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 10. James, W. (1898). "Human Immortality: Two Supposed Objections to the Doctrine." Ingersoll Lecture, Harvard University.
-11. Christopher, T. (2022). Dualism 101: Terminal lucidity and an explanation. *Journal of Modern Physics*, 13, 1747–1761. https://www.scirp.org/journal/paperinformation?paperid=121479
+11. Christopher, T. (2022). Dualism 101: Terminal lucidity and an explanation. *Open Journal of Philosophy*, 12(4), 687–700. https://doi.org/10.4236/ojpp.2022.124047
 12. Murray, C. (2025). "Can Science Reckon With the Human Soul?" *Wall Street Journal*, October 16, 2025.
 13. Perera, S. (2025). Terminal lucidity as a health promotion challenge in end-of-life care. *American Journal of Health Promotion*. https://journals.sagepub.com/doi/10.1177/10541373251334317
 14. Mancuso, L. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10641890/
