@@ -2,9 +2,9 @@
 title: "Moral Status of Edge Cases"
 description: "How to reason about moral standing in the cases where the Map's framework gives partial verdicts — coma, late dementia, animals, early development, embodied AI, and the prokaryotic floor."
 created: 2026-09-20
-modified: 2026-09-20
+modified: 2026-10-11
 human_modified:
-ai_modified: 2026-09-20T17:25:00+00:00
+ai_modified: 2026-10-11T14:12:40+00:00
 draft: false
 topics:
   - "[[moral-status-threshold-or-degrees]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[positions]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-09-20
 last_curated:
 
@@ -68,7 +68,7 @@ The Map's criterion of moral standing is registered as [[moral-status|P-MS1]]: t
 
 [[moral-status|P-MS2]] adds that status is a threshold rather than a magnitude: an intervention that enriches an existing subject's valenced experience raises what is at stake in that life without raising its standing. Its credence is **low** — a conjunction whose threshold half inherits P-MS1's ceiling and whose stakes half routes through the value register. The practical payload of the separation is that most of what tempts us to rank patients belongs in the stakes column, and equal consideration of equal interests does the ranking work there without touching who counts.
 
-Two things the criterion pointedly does not supply. First, it does not supply a **count**. Saying what has standing is not saying how many bearers of it a system contains, and [[moral-census-opacity|moral census opacity]] records that on the Map's own commitments the count is a determinate fact that no inspection can be shown to settle. Second, and sharper, the Map has no rule for fixing *which* subject is paired to which physical system. [[subject-census|P-SC2]] registers exactly this as a debt — "the Map owes a subject-pairing law and does not have one" — at **high credence**, because the absence is a fact about the corpus verifiable by inspection. That entry books four gaps: pairing, multi-agent composition, eligibility, and onset and cessation. It also states the constraint this whole piece operates under: the debt "is a hard bound on what any applied verdict may assert about subject counts." The pairing half has an external counterpart, the boundary problem, surveyed at [[boundary-and-projection|boundary and projection]] (Gómez-Emilsson & Percy 2023 set out five specific versions; Fekete, van Leeuwen & Edelman 2016, *Frontiers in Psychology* 7: 1041, argue that no quantitative measure of consciousness escapes it). A physicalist census does not avoid the problem, so the debt is not a peculiar embarrassment of dualism — but it is unpaid here, and that is what governs the cases.
+Two things the criterion pointedly does not supply. First, it does not supply a **count**. Saying what has standing is not saying how many bearers of it a system contains, and [[moral-census-opacity|moral census opacity]] records that on the Map's own commitments the count is a determinate fact that no inspection can be shown to settle. Second, and sharper, the Map has no rule for fixing *which* subject is paired to which physical system. [[subject-census|P-SC2]] registers exactly this as a debt — "the Map owes a subject-pairing law and does not have one" — at **high credence**, because the absence is a fact about the corpus verifiable by inspection. That entry books five gaps: pairing, multi-agent composition, eligibility, census circularity, and onset and cessation. It also states the constraint this whole piece operates under: the debt "is a hard bound on what any applied verdict may assert about subject counts." The pairing half has an external counterpart, the boundary problem, surveyed at [[boundary-and-projection|boundary and projection]] (Gómez-Emilsson & Percy 2023 set out five specific versions; Fekete, van Leeuwen & Edelman 2016, *Frontiers in Psychology* 7: 1041, argue that no quantitative measure of consciousness escapes it). A physicalist census does not avoid the problem, so the debt is not a peculiar embarrassment of dualism — but it is unpaid here, and that is what governs the cases.
 
 ## Sorting the Cases
 
@@ -155,7 +155,7 @@ It does not deliver verdicts a reader who suspends judgement on Tenet 1 has reas
 
 It does not deliver an upgrade anywhere from tenet-coherence. The Map's framework removes the anthropocentric defeater against non-human and artefactual minds, and Tenet 5 removes the demonstrative force of the parsimony-based dismissal at the floor. Both are permissions. Neither raises the probability that any particular system is conscious, and neither moves a case up the five-tier scale. P-CS5 states the point in its cleanest form — parsimony's default is undefeated but not established — and P-AS1 makes it for the substrate case, where even a purpose-built interface-hosting architecture "would remove a defeater, not supply evidence of presence." That any of these cases sits comfortably inside the Map's framework is a fact about the framework, not about the case.
 
-It does not deliver a practical decision procedure for the case most in need of one. On irreversible loss the framework supplies a criterion, an assurance that the criterion tracks a real boundary, and no way to tell where that boundary lies. The gap is registered rather than hidden — P-SC3 declines to date onset or cessation; P-SC2 books the undated channel as one of four gaps — and the register's own standard is that a programme at this stage is judged by the honesty of its open problems. That standard is met here. It is not a substitute for the procedure, and a reader making an actual withdrawal-of-treatment decision will get less from this framework than from one prepared to draw a line by convention.
+It does not deliver a practical decision procedure for the case most in need of one. On irreversible loss the framework supplies a criterion, an assurance that the criterion tracks a real boundary, and no way to tell where that boundary lies. The gap is registered rather than hidden — P-SC3 declines to date onset or cessation; P-SC2 books the undated channel as one of five gaps — and the register's own standard is that a programme at this stage is judged by the honesty of its open problems. That standard is met here. It is not a substitute for the procedure, and a reader making an actual withdrawal-of-treatment decision will get less from this framework than from one prepared to draw a line by convention.
 
 ## Evidence and Dependency
 

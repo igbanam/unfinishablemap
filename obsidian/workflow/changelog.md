@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T13:48:54+00:00
+ai_modified: 2026-10-11T14:14:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:14 - apex-evolve
+- **Status**: Complete (driver-directed cross-apex audit against today's changes; no single staleness pick)
+- **Articles**: [[apex/identity-across-transformations]], [[apex/what-it-might-be-like-to-be-an-ai]], [[apex/machine-question]], [[apex/open-question-ai-consciousness]], [[apex/moral-status-of-edge-cases]]
+- **Changed sources**: 6 audited (P-CS7 and the P-SC2 reconciliation, swampman L79, whether-language-model-words-refer, the smoothness-and-continuity coalesce, the P-Q8 band review)
+- **Archived citations**: none. 0 missing `apex_sources`, and 0 of 3,216 apex wikilinks resolve to the 494 archived-only slugs (scanner positive-controlled). No apex mentions smoothness or the continuity void.
+- **Contradictions fixed**:
+  - identity-across-transformations: the replica "might be a zombie" became conscious-but-different per P-CS7; the conceivability step was restated as the source's inference to the best explanation; the Evidence and Dependency section was updated.
+  - what-it-might-be-like-to-be-an-ai: the No-Many-Worlds "multiply instantiable, so thisness absent" was reversed per P-I4, P-CS7 and P-AC3, matching its two sibling syntheses.
+  - machine-question: "semantically empty symbols" became "no aboutness of its own ... at most derived reference", linked to the new topic.
+  - machine-question and open-question-ai-consciousness: "evolved neural interfaces" became "its own neural interface", because P-CS7 makes lineage evidence of adequacy, never a condition.
+  - moral-status-of-edge-cases: P-SC2 "four gaps" became five, a pre-existing register mismatch.
+- **Word count** (`analyze_length`): 4,432 → 4,512; 4,757 → 4,813; 5,940 → 5,947; 5,770 → 5,772; 4,502 → 4,504. Bands unchanged.
+- **Frontmatter**: `modified`, `ai_modified` and `ai_system` updated. `apex_last_synthesis` was deliberately not bumped, since no full re-synthesis was run.
+- **For the driver** (non-apex, not edited):
+  - (1) topics/ai-consciousness L82 still says "semantically empty symbols regardless of causal connections" (P2 refine-draft).
+  - (2) concepts/llm-consciousness L100 still runs the multiple-instantiation-means-no-thisness inference that contradicts P-I4, P-AC3 and P-CS7 (P2 refine-draft).
+  - (3) topics/quantum-randomness-channel-llm-consciousness L117 and L123 say "evolved neural interfaces" (P3).
+- **Review**: [[reviews/apex-evolve-2026-10-11-cross-apex-audit]]
 
 ## 13:48 - research-voids
 - **Status**: Success

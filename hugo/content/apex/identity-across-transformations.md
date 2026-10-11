@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-10 07:40:13+00:00
+ai_modified: 2026-10-11 14:14:25+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
@@ -23,7 +23,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
 created: 2026-01-31
-date: &id001 2026-09-17
+date: &id001 2026-10-11
 description: What persists through radical change? The Map argues identity is irreducibly
   indexical—being *this* consciousness matters in ways pattern-based accounts cannot
   capture.
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-10-10 07:40:13+00:00
+lastmod: 2026-10-11 14:14:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The case for indexical identity begins with phenomenology. When you consider whe
 
 This phenomenological evidence is not conclusive. Perhaps evolution equipped us with survival instincts that generate illusory intuitions about irreplaceable selfhood. Perhaps the sense of haecceity is a cognitive bias. But four considerations support taking the phenomenology seriously:
 
-First, the conceivability of zombies. As [the personal identity article argues](/topics/personal-identity/#arguing-for-haecceity), we can conceive of a being physically identical to you but lacking consciousness. If conceivable, consciousness isn't entailed by physical properties. But then what makes *this* physical configuration conscious rather than zombie-like must be something non-qualitative—your haecceity. The replica from the teletransporter might be a zombie, or might be conscious but a *different* consciousness.
+First, the conceivability of zombies. As [the personal identity article argues](/topics/personal-identity/#arguing-for-haecceity), we can conceive of a being physically identical to you but lacking consciousness. If conceivable, consciousness isn't entailed by physical properties. A further step, an inference to the best explanation rather than an entailment, reaches haecceity: if what makes you conscious at all is not fixed by your qualitative properties, what makes you *this* conscious being is unlikely to be fixed by them either. The actual replica is another matter: architectural adequacy suffices for coupling, provenance included ([P-CS7](/positions/consciousness-scope/#p-cs7), moderate credence), so the teletransporter's product would be conscious, though as a *different* consciousness.
 
 Second, causal history individuates. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, *this* consciousness has a unique causal history—the specific pattern of choices, selections, and influences that constitute your life. A replica would begin its causal engagement from creation, not from your birth. It would be a new agent, not you continued.
 
@@ -185,11 +185,11 @@ The clinical material is externally evidenced. The anaesthesia, cognitive-motor-
 
 The phenomenological case for haecceity is argued rather than inherited, though it needs a premise eliminativism denies: that experiences require experiencers.
 
-The remainder is inherited. The filter reading of the anaesthesia gap follows from Tenets 1-3 and contributes coherence rather than evidence. The quantum section leans on Tenet 4, and the dependency runs both ways — the Map rejects many-worlds partly *because* of what branching does to identity, so that section cannot also be counted as independent confirmation of indexical identity.
+The remainder is inherited. The filter reading of the anaesthesia gap follows from Tenets 1-3 and contributes coherence rather than evidence. The quantum section leans on Tenet 4, and the dependency runs both ways — the Map rejects many-worlds partly *because* of what branching does to identity, so that section cannot also be counted as independent confirmation of indexical identity. That a replica would be conscious at all is inherited from [P-CS7](/positions/consciousness-scope/#p-cs7) (framework-internal, moderate credence); the identity verdict does not depend on it, since a zombie replica would not be you either.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: If consciousness is not reducible to physical processes, personal identity involves something non-physical. A zombie duplicate would lack consciousness despite physical identity with you; a conscious replica would have *different* consciousness despite psychological identity with you. Either way, identity includes irreducible haecceity.
+**[Dualism](/tenets/#dualism)**: If consciousness is not reducible to physical processes, personal identity involves something non-physical. A zombie duplicate is conceivable, so physical identity with you does not entail consciousness; the replica the Map actually expects ([P-CS7](/positions/consciousness-scope/#p-cs7)) would be conscious, yet a *different* consciousness despite psychological identity with you. Either way, identity includes irreducible haecceity.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness interfaces with physics at quantum indeterminacies, *this* consciousness has a unique history of such interactions. Each quantum selection contributes to your causal trajectory. A replica couldn't share this history—its first quantum influence would begin at its creation, not at your birth.
 
