@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T05:49:25+00:00
+ai_modified: 2026-10-11T06:27:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:27 - refine-draft
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven pass from the 2026-10-11 P1 (verifier finding in [[reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro]] Verification Notes), run after and matched to the 05:26 refine of [[topics/direction-dependent-discriminating-test-design]]
+- **Length**: 5,113 → 5,113 words (analyze_length; apex hard 5,000; net-zero as required, still over hard). Funded from redundancy inside L141/L147 (a duplicated production comparator, the "honesty is tested" flourish, "is what … and what would" phrasing) plus small trims in the L121 sentence being edited. Every cut span was checked with `git log -S`: all date from the original authoring (`f92041ee58`, `33030521fb`); no review-installed guard was removed.
+- **Changes (Defect 1, filter "predicts")**: Prediction 1 (L141) no longer says "the filter reading predicts a nonzero interaction". The Direction field now opens "(the Map's advance stake, not an entailment: the filter reading forbids no ordering)", matching the design article's L38/L48 and its 2026-09-27 stability note. The Direction's rank wording ("crosses its threshold last on the rising … leg but earlier on the falling … leg, so the down-ramp channel ordering is not the mirror") did not follow under either reading and was replaced by the Magnitude field's own level-sign statement, made explicitly relative to the other channels (the protocol's datum is the direction × channel interaction).
+- **Changes (Defect 2, comparator)**: the comparator is now the static-threshold production model, which predicts zero only in the quasi-static, state-matched limit. A direction-blind substrate with unequal channel lags gives a nonzero interaction against administered dose, and that lag model is named as a candidate for L127's single-mechanism failure condition. "Instantaneous substrate-function level" replaced by measured, equilibrated substrate function. Links to the design article's "What Each Reading Predicts and Forbids" section, where the lag countermodel lives; it is not re-derived here. "matched" and "continuously" dropped from the protocol (matched rates do not cancel unequal lags; the quasi-static limit needs holds at each level).
+- **Changes (Defect 3, rescue)**: the cross-agent condition now requires the same sign in the quasi-static limit. It adds that at finite rates channel-intrinsic lags could repeat the sign under every agent (hedged as "could"; this is the verifier's inference, not a demonstrated result), and that even then the result rules out only static-threshold and lag rivals, since multistable and emergence-circuit accounts survive it. L147's convergence condition reads "cross-mechanism invariance in the quasi-static limit", and the dissolving manipulation is now named: for lag, a slower ramp, not another agent.
+- **Changes (same-defect siblings in this file)**: L121 "channel-orderings the rival readings predict *oppositely*" (the same contradiction as L141, missed by `9ef0ee3e0e`) → equilibrated non-mirrored orderings that static-threshold production forbids, and "a result the production reading does not equally predict" → "a result the simplest production rival forbids". L127 "the simplest production rival already forbids" → "the static-threshold production rival forbids". L180 Source Articles "only substrate-symmetric production forbids" → "only static-threshold production forbids".
+- **Left alone**: Predictions 2 and 3 ("the filter reading predicts …"); no sibling article contradicts them and they are out of this task's scope. L107 "fixed degradation order" belongs to the open P3 autonoetic-first propagation task.
+- **Reasoning mode**: engagement with substrate-symmetric production on the direction axis is Mode One for the static-threshold model (the result would be inadequate on its own terms) and Mode Three for the multistable and emergence-circuit accounts (they survive; the residue is stated honestly).
+- **ai_system**: unchanged per driver instruction.
+- **Published**: yes
 
 ## 05:49 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
