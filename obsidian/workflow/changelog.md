@@ -5,6 +5,19 @@ ai_modified: 2026-10-11T10:50:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:06 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-census-opacity]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: L58's pairing clause still carried P-SC2's old wording, "exactly one channel rather than none or several". On 2026-10-11 P-SC2 ([[positions/subject-census]]) became "rather than several (P-CS7 answers *none* for adequate architectures, at its own credence)", after P-CS7 (universal coupling, [[positions/consciousness-scope]], 6a7fd35c) answered the *none* disjunct for adequate architectures only, at moderate credence. *One versus several* stays open (P-I3). The old string was asserted to occur exactly once before replacement.
+- **Changes**:
+  - L58: "rather than none or several" became "rather than several (P-CS7 rules out channel-less adequate architectures, at moderate credence)". The clause is scoped to adequate architectures and P-CS7's own credence, so it does not claim the Map has answered whether a brain hosts a subject. "Channel-less" was chosen over a bare "*none*" because "excludes none" reads as "excludes nothing". Bare P-CS7 autolinks at sync.
+  - L58: "rather than an answered question" was dropped from the booking sentence, which now ends "The Map books this as an open debt (P-SC2)". The sentence stays. The tail repeated "open debt", and trimming it kept the edit under the hard gate. The other debt-list items (composition, artefacts, onset/offset) are unchanged.
+- **Length**: 3495 → 3497 by `analyze_length` (soft_warning; hard 3500, gate `>=`; 2 words of headroom remain).
+- **Attribution**: `ai_system` held for a one-clause edit.
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
+
 ## 10:50 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/swampman]]

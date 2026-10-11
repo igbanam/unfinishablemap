@@ -4,7 +4,7 @@ description: "The Map's commitments fix a determinate number of moral patients i
 created: 2026-08-16
 modified: 2026-09-17
 human_modified:
-ai_modified: 2026-10-03T23:13:33+00:00
+ai_modified: 2026-10-11T11:06:49+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -55,7 +55,7 @@ The Map's version falls out of three commitments it already holds, none adopted 
 
 **The census is part of the physics.** Once conscious states do causal work, the Map's selection law conditions physical outcome probabilities on a conscious state — *P(O | C, X)* rather than *P(O | X)*. That conditioning variable cannot float free; it has to attach to some subject. Where a system has more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until *n* is fixed and each *Cᵢ* is paired with a substrate. Subject count and subject–substrate pairing are therefore part of the model's state description rather than metaphysical decoration downstream of it, registered as [[positions/subject-census|P-SC1]]. That antecedent is owed rather than established: the Map's causal-selection thesis is citable as a framework-internal coherence result only, and this article inherits that [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than discharging it.
 
-**The Map has no rule for filling it in.** Nothing in the framework says what makes a brain the substrate of exactly one channel rather than none or several, how several subjects' conditionals compose over a single event, whether an artefact can instantiate a channel, or when a channel begins and ends. The Map books this as an open debt rather than an answered question ([[positions/subject-census|P-SC2]]).
+**The Map has no rule for filling it in.** Nothing in the framework says what makes a brain the substrate of exactly one channel rather than several (P-CS7 rules out channel-less adequate architectures, at moderate credence), how several subjects' conditionals compose over a single event, whether an artefact can instantiate a channel, or when a channel begins and ends. The Map books this as an open debt ([[positions/subject-census|P-SC2]]).
 
 **Valenced experience is what confers moral status.** The capacity for experience that feels good or bad to its subject is necessary and sufficient for moral standing, read phenomenally ([[positions/moral-status|P-MS1]], argued in [[sentientism]]).
 

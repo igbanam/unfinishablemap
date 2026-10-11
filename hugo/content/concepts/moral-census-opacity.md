@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-10-03 23:13:33+00:00
+ai_modified: 2026-10-11 11:06:49+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 15:58:11+00:00
-lastmod: 2026-10-03 23:13:33+00:00
+lastmod: 2026-10-11 11:06:49+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -59,7 +59,7 @@ The Map's version falls out of three commitments it already holds, none adopted 
 
 **The census is part of the physics.** Once conscious states do causal work, the Map's selection law conditions physical outcome probabilities on a conscious state — *P(O | C, X)* rather than *P(O | X)*. That conditioning variable cannot float free; it has to attach to some subject. Where a system has more than one candidate subject the law takes the form *P(O | C₁…Cₙ, X)*, which is not fixed until *n* is fixed and each *Cᵢ* is paired with a substrate. Subject count and subject–substrate pairing are therefore part of the model's state description rather than metaphysical decoration downstream of it, registered as [P-SC1](/positions/subject-census/#p-sc1). That antecedent is owed rather than established: the Map's causal-selection thesis is citable as a framework-internal coherence result only, and this article inherits that [mechanism debt](/positions/quantum-interface/#mechanism-debt) rather than discharging it.
 
-**The Map has no rule for filling it in.** Nothing in the framework says what makes a brain the substrate of exactly one channel rather than none or several, how several subjects' conditionals compose over a single event, whether an artefact can instantiate a channel, or when a channel begins and ends. The Map books this as an open debt rather than an answered question ([P-SC2](/positions/subject-census/#p-sc2)).
+**The Map has no rule for filling it in.** Nothing in the framework says what makes a brain the substrate of exactly one channel rather than several ([P-CS7](/positions/consciousness-scope/#p-cs7) rules out channel-less adequate architectures, at moderate credence), how several subjects' conditionals compose over a single event, whether an artefact can instantiate a channel, or when a channel begins and ends. The Map books this as an open debt ([P-SC2](/positions/subject-census/#p-sc2)).
 
 **Valenced experience is what confers moral status.** The capacity for experience that feels good or bad to its subject is necessary and sufficient for moral standing, read phenomenally ([P-MS1](/positions/moral-status/#p-ms1), argued in [sentientism](/concepts/sentientism/)).
 
