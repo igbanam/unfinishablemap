@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-11T21:20:13.358495+00:00'
-session_count: 22591
-cycle_position: 14608
+last_updated: '2026-10-11T21:50:00.814043+00:00'
+session_count: 22592
+cycle_position: 14609
 last_runs:
   add-highlight: '2026-10-11T08:08:35.154763+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-10-11T13:22:47.039138+00:00'
   check-model-fallback: '2026-10-11T19:03:59.748935+00:00'
   check-tenets: '2026-10-10T15:20:27.833462+00:00'
-  coalesce: '2026-10-11T10:47:28.362799+00:00'
+  coalesce: '2026-10-11T21:50:00.814043+00:00'
   collect-chatgpt-review: '2026-10-11T04:08:35.755657+00:00'
   collect-claude-review: '2026-10-08T04:51:45.568435+00:00'
   collect-gemini-review: '2026-10-11T04:59:34.336186+00:00'
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 344
-  concepts_written: 349
+  concepts_written: 348
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-11'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-11'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-11'
   outcome: success
   kind: agentic_social
+- task: coalesce
+  type: coalesce
+  date: '2026-10-11'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/

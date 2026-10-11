@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T21:46:00+00:00
+ai_modified: 2026-10-11T22:09:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:09 - positions-evolve
+- **Status**: Success
+- **Mode**: update [[positions/memory-and-autonoesis|P-MA1]] and [[positions/thought-and-understanding|P-TU1]] (optimistic review 2026-10-11 constitutive-twins wing, Priority 2 (a)–(c); P-TU1 also carries pessimistic 2026-10-01 L240). Old and new strings were pulled from the review by script. Each old string occurred exactly once (P-MA1 L50, P-TU1 L46, L48, related_articles L21).
+- **P-MA1 Depends on (a)**: the P-TU1 item now records how the twins compose. They have different relata (content there, the memory kind here, with content held fixed) and different kind-claims (existential there, so a zero refutes it; between two positive modes here, so a gradient refutes it). They compose only if felt pastness is attitude-type phenomenology (Horgan & Tienson 2002). Fernández's (2019) self-referential reading would put pastness in content. The text stays in Depends on, the review's default, because its "the manner/content separation above" refers to the Klein item just before it. **Two deviations from the review's string**: "SDAM" expanded to "Severely deficient autobiographical memory (SDAM)", since the acronym was undefined in the entry; and "supports this entry" narrowed to "supports this entry's manner/content separation". The narrowing is needed because [[concepts/semanticisation]] L64 records that De Brigard reads SDAM as episodic memory without autonoesis ("Discreteness evidence it is; decisive it is not"), so SDAM backs the separation, not the constitutive kind-claim. Horgan & Tienson's content/attitude-type line was re-verified in the consc.net preprint (`consc.net/event/neh/papers/horgan.htm`, "To appear in" header): "phenomenology of intentional content" against "phenomenology of attitude type". No quotation and no page number were installed.
+- **P-TU1 Asserts (b)**: the clause "and unification is loveliness, so the [[concepts/inference-to-the-best-explanation-against-dualism|IBE consistency statement]] blunts this abduction exactly as far as the physicalist's" was appended. It matches the IBE page's current L84 ("blunted exactly as far as the physicalist's"). **No band moved**: the constitutive horn was already held at "lower" credence (L45), and grade C rests on the dissociation base, which the exposure does not touch.
+- **P-TU1 Argued in (c)**: appended "; the same constitutive structure, applied to the memory kind with content held fixed, is registered at P-MA1". `"[[positions/memory-and-autonoesis]]"` was added to related_articles.
+- **Updated notes / Last reviewed**: a dated 2026-10-11 note was added on each entry (first revision for both), and Last reviewed moved to 2026-10-11 on each. No calibration axis moved on either.
+- **Calibration history**: none written. Neither domain has a calibration-history companion. Per `positions.md` L99 and the convention at `quantum-interface-calibration-history` L30, companions hold notes *relocated* from domain files that overran their length advisories, and both files are well under hard. The dated notes therefore stay in the entries. Creating a companion would also have required an index line in `positions.md`, which is over hard.
+- **positions.md**: not touched. No position was added or retired and no band moved, so the discriminability aggregate is unchanged and no index note is required.
+- **Length (analyze_length; content vs Updated-note words)**:
+  - positions/memory-and-autonoesis 1,650 → 1,886 (+236 = content +120, Updated note +116). soft_warning; headroom to hard 613.
+  - positions/thought-and-understanding 1,220 → 1,362 (+142 = content +35, Updated note +107). ok; headroom to hard 1,137.
+- **Cascade (not edited)**: no register entry lists P-MA1 in `Depends on`. P-TU1 is listed only by P-MA1, updated here. [[apex/authority-of-form]] cites P-TU1 at L80 and L122 as "an abductive bet ... held below irreducibility". The new loveliness exposure is consistent with that wording, so no edit is needed. **Open carry**: pessimistic 2026-10-01 L240 also names [[concepts/phenomenal-constitution-thesis]] L84 ("where weak liberalism and deflationism handle them piecemeal"). PCT L86 accepts the bad-lot exposure but still not the loveliness exposure, so that half of the L240 item remains open. Review item 3 (PCT L56) does not cover it.
+- **ai_system**: unchanged on both files (as briefed).
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
 
 ## 21:46 - coalesce
 - **Status**: Success
