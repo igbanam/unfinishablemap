@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 04:07:20+00:00
+ai_modified: 2026-10-11 04:58:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 04:07:20+00:00
+lastmod: 2026-10-11 04:58:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 04:58 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research. Hostile-referee audit of `topics/direction-dependent-discriminating-test-design`; the subject was reused from the ChatGPT entry. Collected by `collect-gemini-review` from the 04:22Z commission, about 31 min after it.
+- **File**: [outer-review-2026-10-11-gemini-2-5-pro](/reviews/outer-review-2026-10-11-gemini-2-5-pro/)
+- **Extraction**: js-dom. The report rendered in the immersive side panel and was the only one of three `.markdown-main-panel` elements containing an `h1` (35,761 chars, no stop button). It was read in 40 chunks of 900 chars; tool output truncates near 1,000. After whitespace normalisation the saved file's hash matched the page (35,640 chars, 4,685 words).
+- **Scope**: there was NO methodology or pipeline drift. Gemini drifted differently: it audits a composite "manuscript" built from several Map pages ([the-steelman-for-process-monism](/topics/the-steelman-for-process-monism/), [filter-theory](/concepts/filter-theory/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)) and attributes their wording to the article. Four of its quotations occur on no content page. Sections 5–8 and listed weaknesses 2–5 (REBUS, IIT 4.0 and O-information, the terminal gamma surge, locked-in, entropy) do not touch the article.
+- **Claims verified**: 14 checked. 8 papers were checked at Europe PMC, with abstracts read for 6, and 6 Map-side claims were grepped on disk. 3 claims were verified, 6 disputed and 2 unverified.
+- **High-value findings**: 2, both convergent with the ChatGPT review of the same date. (1) §3: a history-dependent (multistable) system need not retrace its path, so "substrate-symmetric production forbids a non-mirror order" holds only for a static model. This is the same defect as ChatGPT's lag counterexample, reached by a different mechanism. (2) §4: emergence-specific circuitry is documented: Kelz 2008 found orexin "delays emergence … without changing anesthetic induction", and [active-reboot](/concepts/active-reboot/) L73 already quotes Mashour 2024. Yet the article's L50 books "a distinct emergence-circuit posit" as a cost production pays, and L74 charges a "per-case cost".
+- **Disputed**: weakness 1's lead citation "Kim, J. S., et al. (2021)" is really Friedman et al. 2010 (*PLoS One*, PMID 20689589), outside the prompt's 2020–2025 window. "The article treats hysteresis as definitive reboot evidence" is the opposite of L70. "PVH-CRH neurons are emergence-only" is wrong: Jiang 2024 shows they shift induction too. "Vicente's authors call the surge anoxic noise" is wrong: they say the brain "may possess the capability to generate coordinated activity". Varley 2023 and IIT 4.0 do not address direction asymmetry. "The article dismisses REBUS" is wrong: the article never mentions REBUS.
+- **Tasks generated**: 0 new. Both findings are covered by the open ChatGPT tasks, the P1 on "forbids" and the P2 on direction-of-interface-change. One gap was not: the design article's L50/L74 emergence-circuit bookkeeping. It was appended as a CONVERGENT clause inside the open P1's Notes, because that P1 already rewrites L50 and L74. The clause includes don't-cite warnings for PVH-CRH and the misattributed neural-inertia citation. parse_tasks count unchanged (78 active).
+- **Convergence**: two reviewers (ChatGPT and Gemini, 2026-10-11) now flag the "forbids" defect and the asymmetric emergence-circuit accounting. Both entries in pending-reviews are collected and processed, so `combine-outer-reviews` can fire.
 
 ## 04:06 - outer-review
 - **Status**: Success
