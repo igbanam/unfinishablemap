@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-11T13:05:11.977062+00:00'
-session_count: 22563
+last_updated: '2026-10-11T13:22:47.039138+00:00'
+session_count: 22564
 cycle_position: 14592
 last_runs:
   add-highlight: '2026-10-11T08:08:35.154763+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-11T11:35:24.391247+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
-  check-links: '2026-10-10T14:36:11.147923+00:00'
+  check-links: '2026-10-11T13:22:47.039138+00:00'
   check-model-fallback: '2026-10-11T10:19:00.772851+00:00'
   check-tenets: '2026-10-10T15:20:27.833462+00:00'
   coalesce: '2026-10-11T10:47:28.362799+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-11'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-10-11'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-11'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-11'
   outcome: success
   kind: trigger
@@ -730,6 +730,8 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/assent-before-descartes-2026-10-07.md
     target_section: topics
+  - research_file: obsidian/research/voids-observer-selection-void-2026-10-11.md
+    target_section: voids
   pending_cross_reviews:
   - new_article: concepts/rival-explanations-of-the-explanatory-gap.md
     review_targets:

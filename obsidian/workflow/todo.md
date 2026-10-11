@@ -2194,6 +2194,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-11
 - **Notes**: HEADROOM: 2,126 of 3,500. Add one clause that separates speaker meaning (absent on this view) from derived semantic reference (available), with a piped link to the new article. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P3: Bostrom (2003) is cited as "Are You Living in a Computer Simulation?" but the published title (Crossref, doi:10.1111/1467-9213.00309, *Philosophical Quarterly* 53(211), 243–255) is "Are We Living in a Computer Simulation?" (four files)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/simulation-detection-void.md
+- **Status**: pending
+- **Source**: research-voids 2026-10-11 (observer-selection void note); driver re-checked Crossref 2026-10-11: title "Are We Living in a Computer Simulation?"
+- **Generated**: 2026-10-11
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/voids/meta-epistemology-of-limits.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/adaptive-computational-depth.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/simulation.md
+- **Notes**: FOUR FILES; fix ALL of them and report each by name: voids/simulation-detection-void, voids/meta-epistemology-of-limits, concepts/adaptive-computational-depth, concepts/simulation. In each References entry for Bostrom 2003, replace the title "Are You Living in a Computer Simulation?" with the published title "Are We Living in a Computer Simulation?". "You" is the preprint title on Bostrom's site; the Map cites the journal version. Zero words. Also check the volume/issue/pages against Crossref while you are there. If a body sentence quotes the title, change it too. Grep `archive/` as well and REPORT any hits, but do not edit them (archived-page fixes are pending the NEEDS-HUMAN publication-policy decision). Locate by QUOTED text. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify all four in both trees.
+
 ## Completed Tasks
 
 

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T12:47:37+00:00
+ai_modified: 2026-10-11T13:48:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:48 - research-voids
+- **Status**: Success
+- **Topic**: The observer-selection void: consciousness cannot tell what its own existence and position as an observer are evidence of
+- **Category**: Mixed (Unexplorable rule and instability faces; Occluded class face)
+- **Output**: [[research/voids-observer-selection-void-2026-10-11]] (proposed slug `observer-selection-void`; added to `task_chains.pending_articles`, target_section voids)
+- **Key finding**: every self-locating updating rule has a reductio its defenders accept (SSA leads to Doomsday, SIA to the Presumptuous Philosopher, Sleeping Beauty is unresolved after 25 years); the reference class is a class of conscious subjects, so self-location presupposes the distribution of consciousness (Saad 2024; Elga 2024 MS; Standish 2013 runs it backwards); Boltzmann-brain cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020), and the instability exit is contested (Kotzen 2020; Dogramaci & Schoenfield 2025).
+- **Duplicate check**: corpus has a halfer/thirder section in [[indexical-knowledge-and-identity]] and two observer-selection sentences in [[mapping-mind-space]] L57; zero live hits for SSA/SIA, Doomsday argument, Presumptuous Philosopher, absent-minded driver or cognitive instability (control: Libet 55+ files). No banked `voids-*` note covers it, and the note differentiates it from vertiginous-question, mapping-mind-space, blindspot-void and simulation-detection-void.
+- **Verification**: 37 of 39 citations checked at Crossref or arXiv (title, venue, year, pages, DOI); 5 primary texts read; Elga 2024 marked manuscript; Ackermans preprints and the PhilPapers 2020 Sleeping Beauty figures marked UNVERIFIED (primary bot-blocked).
+- **Tenet demand (two-way)**: Everettian Born-rule derivations and confirmation run through self-locating credence and inherit the void; the Map's indexical objection is safe as an identity claim but exposed if converted into a credence argument. Audit item recorded in the note.
+- **For the driver**: (1) voids is at 112/115 and the 2026-10-06 slot triage ranked five banked notes; the note grades itself against the same four criteria (comparable to veto/dormancy) and gives a fold route (simulation-detection-void +1526 headroom; indexical-knowledge-and-identity +376). (2) Side finding, not actioned: Bostrom 2003's publisher title is "Are We Living in a Computer Simulation?" (OUP, Crossref), while 4 live files cite the author-PDF form "Are You Living…".
 
 ## 12:47 - expand-topic
 - **Status**: Success
