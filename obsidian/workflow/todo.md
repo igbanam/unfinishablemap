@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt interactionist-dualism calibration in vertiginous-question
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/vertiginous-question.md
+- **Notes**: From topic-concept anchoring audit 2026-10-11. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.00/kw exceeds 1.5× anchor (0.57/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-10-11
+
+
 ### P3: Research Assent and ascertainment in Buddhist epistemology
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-10-unauditable-verdict-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-10-unauditable-verdict-wing (New Article Subjects B) names a gap the corpus has flagged twice: assent-void L99 leaves contemplative reports of 'grasping' at perception unexamined, and research/assent-before-descartes-2026-10-07 L350 lists 'Islamic and Buddhist analogues of assent' as 'Not searched'. Leads (UNVERIFIED, check at source first): the Abhidhamma mental factor adhimokkha (resolve/conviction) and Dharmakirti's two-stage account where non-conceptual perception must be followed by ascertainment (niscaya), a possible comprehension-before-assent ordering outside the Cartesian tradition. Driver dedup 2026-10-10: no topics/concepts page treats assent in Buddhist epistemology; 'nis'caya' appears only incidentally in concepts/pudgalavada and two research notes; 'adhimok' 0 hits. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-10.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'assent-and-ascertainment-in-buddhist-epistemology' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2002,13 +2014,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-11
 - **Notes**: Mode: update. Recount P-SC2's booked gaps before editing; the fork reported five booked since 09-24. "four" → "five" costs 0 words, but subject-census is 2,499/2,500 (positions hard), so put the mandated dated `Updated` note in `positions/subject-census-calibration-history`, which is where this register already keeps its notes (that is where the P-SC2 note went on 2026-10-11). No band moves. Measure both files with tools.curate.length.analyze_length before and after. Locate by QUOTED text; confirm it occurs once. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
-### P2: Write article on whether language-model words refer — externalism, deference and the inverse Swampman (topics/whether-language-model-words-refer; research: research/whether-language-model-words-refer-2026-10-11.md)
-- **Type**: expand-topic
-- **Status**: pending
-- **Source**: chain (research-topic 2026-10-11 00:5xZ; `task_chains.pending_articles` entry added by the research fork; minted by the driver because the replenish gate is closed and has not converted pending_articles since 2026-09-29)
-- **Generated**: 2026-10-11
-- **Notes**: Synthesize research/whether-language-model-words-refer-2026-10-11.md into `topics/whether-language-model-words-refer` (the slug is free in the live and archive trees; topics is at 343/360). The research note recommends the Map's verdict: under moderate phenomenal-intentionality plus Kripke's intention-to-preserve-reference condition (p. 96), current LLM words refer *derivatively*, as a book's words derive from its authors (the training-data authors). They never refer *by deference*. This is conditional on P-AC1. It mirrors Swampman: the conscious source without the history, against the history without the conscious source. Quote Mandelkern & Linzen (2024) only in the published wording, since the arXiv abstract differs. Credit Coelho Mollo & Millière (2026 §7.1) for the "Swamp LLM", and present the inverse pairing as the Map's own contribution. Engage Lederman & Mahowald's novel-reference ("Marion Starlight") problem as the hardest case, and mark the dominant-causal-source reply (Cappelen & Dever p. 111) as the Map's untested proposal. Do not reuse Hattiangadi & Schoubye's quotation of Mandelkern & Linzen, which does not match the published paper. After the article lands, the research note lists follow-on fixes: intentionality L141, symbol-grounding-problem L125, language-and-consciousness L49, and the chinese-room-argument L133 citation year. Remove the `pending_articles` entry when done.
-
 ### P2: `topics/consciousness-and-neurodegenerative-disease` L71 "most prospectively documented episodes are indeed brief" and L109 "with most episodes brief" carry the unsupported Tollock (2025) brevity descriptor without naming it (sixth sibling of the 2026-10-11 correction)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-neurodegenerative-disease.md
@@ -2157,8 +2162,44 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: concepts/psychophysical-laws is 3,493 of 3,500 (hard), so 6 words. Every edit must be near-net-zero. Secondary sibling `topics/psychophysical-laws-bridging-mind-and-matter` (3,493 of 4,000) carries the same Schwartz framing at L142.
 - **Notes**: Mirror the control-law fixes made on 2026-10-11. Read that article's corrected sentences and the review file first, and reuse their verified wording. (1) Zheng & Meister (2025) report ~10 bits/s for "the information throughput of human behavior", reviewing prior measurements. Reading that as a *conscious processing* bandwidth is the Map's interpretation, so attribute it as such at L120 ("limitation on conscious processing (Zheng & Meister 2025)") and L145 ("Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025)"). (2) Schwartz et al. 1996 used exposure-and-response-prevention therapy and found reduced caudate glucose metabolism in treatment responders. "Mindful attention" is Schwartz's later framing, so fix L167 "OCD patients using mindful attention showed measurable changes in caudate nucleus activation (Schwartz et al., 1996)". Apply the same fix to the secondary file's L142 "patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort", which also implies causation. Do this ONLY if the edit fits; report it if skipped. Do not sweep the other ~41 Zheng & Meister citers; this task is these two pages only. Locate targets by QUOTED text; confirm each occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P2: `concepts/chinese-room-argument` cites Coelho Mollo & Millière as "(2023) … arXiv:2304.01481" (L133 reference, in-text L109); the published version is *Philosophy and the Mind Sciences* 7(1), 2026, which adds the Swamp LLM section
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/chinese-room-argument.md
+- **Status**: pending
+- **Source**: expand-topic `topics/whether-language-model-words-refer` 2026-10-11 (research-note follow-on list; driver-verified the live strings 12:5xZ)
+- **Generated**: 2026-10-11
+- **Notes**: HEADROOM: 3,494 of 3,500 (hard), so 5 words. Update reference 12 to the published version, doi:10.33735/phimisci.2026.12307 (verify at Crossref first), and update the in-text year(s) to match, e.g. the L109 mention. Keep the change near-net-zero; drop the arXiv identifier if needed to fund the venue. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
+### P3: `concepts/intentionality` L141 says "PARIS" represents Paris "only because programmers assigned that meaning", which misdescribes LLMs: their derived intentionality runs through the training text's causal history
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/intentionality.md
+- **Status**: pending
+- **Source**: expand-topic `topics/whether-language-model-words-refer` 2026-10-11 (research-note follow-on list; driver-verified the live strings 12:5xZ)
+- **Generated**: 2026-10-11
+- **Notes**: HEADROOM: 3,488 of 3,500 (hard), so 11 words. The sentence is fine for classical symbol systems; widen it so derivation for LLMs runs through the authors of the training text, as the new article argues (derivative reference, never by deference). Near-net-zero. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
+### P3: `concepts/symbol-grounding-problem` L125 "They cannot *mean* anything" overreaches; limit it to original intentionality / speaker meaning, since the Map now holds LLM words can refer derivatively
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/symbol-grounding-problem.md
+- **Status**: pending
+- **Source**: expand-topic `topics/whether-language-model-words-refer` 2026-10-11 (research-note follow-on list; driver-verified the live strings 12:5xZ)
+- **Generated**: 2026-10-11
+- **Notes**: HEADROOM: 2,565 of 3,500. Restrict the claim to original intentionality or speaker meaning, and note (with a piped link) that derived reference remains available. Keep it short. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
+### P3: `concepts/language-and-consciousness` L49 says an LLM without phenomenal states produces symbols "without genuine meaning"; add that missing Gricean speaker meaning is consistent with derived semantic reference
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/language-and-consciousness.md
+- **Status**: pending
+- **Source**: expand-topic `topics/whether-language-model-words-refer` 2026-10-11 (research-note follow-on list; driver-verified the live strings 12:5xZ)
+- **Generated**: 2026-10-11
+- **Notes**: HEADROOM: 2,126 of 3,500. Add one clause that separates speaker meaning (absent on this view) from derived semantic reference (available), with a piped link to the new article. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: Write article on whether language-model words refer — externalism, deference and the inverse Swampman (topics/whether-language-model-words-refer; research: research/whether-language-model-words-refer-2026-10-11.md)
+- **Type**: expand-topic
+- **Notes**: Synthesize research/whether-language-model-words-refer-2026-10-11.md into `topics/whether-language-model-words-refer` (the slug is free in the live and archive trees; topics is at 343/360). The research note recommends the Map's verdict: under moderate phenomenal-intentionality plus Kripke's intention-to-preserve-reference condition (p. 96), current LLM words refer *derivatively*, as a book's words derive from its authors (the training-data authors). They never refer *by deference*. This is conditional on P-AC1. It mirrors Swampman: the conscious source without the history, against the history without the conscious source. Quote Mandelkern & Linzen (2024) only in the published wording, since the arXiv abstract differs. Credit Coelho Mollo & Millière (2026 §7.1) for the "Swamp LLM", and present the inverse pairing as the Map's own contribution. Engage Lederman & Mahowald's novel-reference ("Marion Starlight") problem as the hardest case, and mark the dominant-causal-source reply (Cappelen & Dever p. 111) as the Map's untested proposal. Do not reuse Hattiangadi & Schoubye's quotation of Mandelkern & Linzen, which does not match the published paper. After the article lands, the research note lists follow-on fixes: intentionality L141, symbol-grounding-problem L125, language-and-consciousness L49, and the chinese-room-argument L133 citation year. Remove the `pending_articles` entry when done.
 
 ### ✓ 2026-10-11: `topics/pragmatisms-path-to-dualism` L145 claims "a direct genealogy from Dewey through Merleau-Ponty" to enactivism and that enactivists "draw anti-dualist conclusions from these pragmatist roots" — the cited Wu (2024) says enactivists drew on phenomenology and IGNORED pragmatism, and reads both as neutral monist
 - **Type**: refine-draft

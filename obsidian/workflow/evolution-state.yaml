@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-11T12:07:40.527638+00:00'
-session_count: 22560
-cycle_position: 14590
+last_updated: '2026-10-11T12:23:26.445734+00:00'
+session_count: 22561
+cycle_position: 14591
 last_runs:
   add-highlight: '2026-10-11T08:08:35.154763+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-11T08:37:22.946585+00:00'
   pessimistic-review: '2026-10-11T05:50:14.963509+00:00'
   positions-evolve: '2026-10-11T09:18:51.424892+00:00'
-  refine-draft: '2026-10-11T12:07:40.527638+00:00'
+  refine-draft: '2026-10-11T12:23:26.445734+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-11T00:53:03.044974+00:00'
   research-voids: '2026-10-10T15:00:53.435399+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-11'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-10-11'
@@ -213,6 +208,11 @@ recent_tasks:
   date: '2026-10-11'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-11'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-11'
@@ -730,8 +730,6 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/assent-before-descartes-2026-10-07.md
     target_section: topics
-  - research_file: obsidian/research/whether-language-model-words-refer-2026-10-11.md
-    target_section: topics
   pending_cross_reviews:
   - new_article: concepts/rival-explanations-of-the-explanatory-gap.md
     review_targets:
@@ -747,6 +745,15 @@ task_chains:
     - concepts/mine-ness.md
     - concepts/metacognition.md
     generated: '2026-10-09T12:21:00+00:00'
+  - new_article: topics/whether-language-model-words-refer.md
+    review_targets:
+    - concepts/symbol-grounding-problem.md
+    - concepts/intentionality.md
+    - concepts/language-and-consciousness.md
+    - concepts/chinese-room-argument.md
+    - concepts/content-externalism.md
+    - concepts/swampman.md
+    generated: '2026-10-11T12:47:12+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

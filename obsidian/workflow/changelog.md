@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T12:21:33+00:00
+ai_modified: 2026-10-11T12:47:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:47 - expand-topic
+- **Status**: Success
+- **Topic**: Whether language-model words refer (externalism, deference and the inverse Swampman)
+- **Output**: [[topics/whether-language-model-words-refer]]
+- **Word count**: 2,986 (`analyze_length`, reference apparatus included; topics soft 3,000, status ok)
+- **Based on research**: yes, [[research/whether-language-model-words-refer-2026-10-11]]
+- **Verdict carried**: current LLM words refer derivatively (from the training-data authors, the book analogue) and cannot borrow by deference, because Kripke's p. 96 borrower's intention needs a phenomenal source on moderate PIT. Conditional on P-AC1, stated in the lead. The inverse-Swampman table is credited as the Map's addition; the Swamp LLM is credited to Coelho Mollo & Millière 2026 §7.1. The Swampman cell is grounded on P-CS7 (a duplicate is conscious if P-CS7 holds; history alone separates him), with no "cannot say Swampman is conscious" framing. The dominant-causal-source reply to novel reference (Cappelen & Dever p. 111) is marked as the Map's untested proposal and faces Hattiangadi & Schoubye's no-stored-information and "Muhammad" objections.
+- **Verification**: all 10 cited DOIs checked at Crossref or DataCite (Koch's is DataCite); arXiv IDs checked at arXiv. Every direct quotation was substring-checked against raw primary text, with a planted negative control: Mandelkern & Linzen published PDF (ACL Anthology), Ostertag (ACL 2025.cl-2.8), Lederman & Mahowald (TACL PDF), Coelho Mollo & Millière (PhiMiSci PDF), Koch (journal PDF), Cappelen & Dever (arXiv 2406.08134, book p. 111), Chalmers (arXiv with APA pagination), Grindrod (Reading VoR), Baggio & Murphy (arXiv), and Kripke (archive.org djvu, p. 96 running head). Pepp, Cappelen & Deutsch and Hattiangadi & Schoubye are quoted from verified abstracts only. **Research-note page corrections**: Lederman & Mahowald's "These new names cannot derive…" is p. 1088 (note said 1092), their conclusion is p. 1098 (note said 1097), and Chalmers's "grounding argument is not a good reason…" is p. 39 (note said 38; not quoted in the article). The arXiv-only Mandelkern & Linzen wording ("referential contact") is confirmed absent from the published text and was not used. The Hattiangadi & Schoubye quotation of Mandelkern & Linzen was not reused. Pepp is cited as 2026 (print, *Inquiry* 69(6)) with online 2025, per Crossref.
+- **Integration**: zero-word piped inbound links in [[concepts/swampman]] ("borrow an extension"), [[concepts/intentionality]] ("derived intentionality", L141 sentence), [[concepts/symbol-grounding-problem]] ("inherit statistical traces of human grounding") and [[concepts/chinese-room-argument]] ("metasemantic case", Grindrod sentence). All four hosts are length-unchanged (3493 / 3488 / 2565 / 3494). [[concepts/content-externalism]] gets a Further Reading line (+22 words, 1959). Recorded in `task_chains.pending_cross_reviews`; the `pending_articles` entry was removed by a targeted text edit.
+- **Follow-ons for the driver to queue (not written to todo.md)**: intentionality L141 ("programmers assigned": LLM derivation runs through the training text's causal history, not assignment); symbol-grounding-problem L125 ("cannot *mean* anything": scope to original intentionality or speaker meaning); language-and-consciousness L49 (Gricean speaker meaning; say it is consistent with derived semantic reference); chinese-room-argument L133 (Coelho Mollo & Millière cited as 2023 arXiv; published 2026 *PhiMiSci* 7(1), doi 10.33735/phimisci.2026.12307, now with the §7.1 Swamp LLM). The research note's own p. 1092 / p. 1097 / p. 38 page errors could be corrected in passing.
 
 ## 12:21 - refine-draft
 - **Status**: Success

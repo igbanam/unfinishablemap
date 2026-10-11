@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-11 10:50:41+00:00
+ai_modified: 2026-10-11 12:46:52+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 15:32:23+00:00
-lastmod: 2026-10-11 10:50:41+00:00
+lastmod: 2026-10-11 12:46:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Swampman is an intrinsic duplicate too, and the verdict follows in two steps. If
 
 The Map's own version qualifies this. It aligns with *moderate* PIT ([three versions](/concepts/intentionality/#three-versions-of-pit)), on which standing content derives from past conscious episodes. At the moment of his formation Swampman has no past conscious episodes, so the Map credits him with occurrent phenomenal content only. His standing beliefs, and his grasp of the sounds he makes as a *language*, have no derivation base yet; both accrue as conscious episodes accrue, the same "not yet fixed" structure the hybrid gives wide reference. Davidson's point about the unlearned sound "house" is therefore partly granted: present at t=0 is the occurrent episode of meaning something by it, not a standing linguistic competence.
 
-The second step is where the Map's hybrid enters and produces the split. The Map accepts externalism about *wide* intentional content, reference in particular, while holding *phenomenal* content, the felt character of experience, to be internally constituted (developed at [content-externalism](/concepts/content-externalism/)). The hybrid page draws that perimeter deliberately: it rests the internalist half on phenomenal character alone, not on a constructed notion of narrow content, so that the criticisms such constructions have attracted (Yli-Vakkuri and Hawthorne 2018) do not bite. This page keeps to the same perimeter. What Swampman's "water" thought has, if he is conscious, is the watery-stuff-presenting phenomenal character any conscious duplicate would share, together with whatever aboutness the Map's phenomenal-constitution stance grants that character; what it lacks is wide reference. He has never been in causal contact with H₂O, nor with XYZ, nor with a linguistic community from whom he could borrow an extension. On the Map's view that is the answer the hybrid gives: reference is the one aspect of content the environment fixes, and Swampman's environment has not yet fixed it. Nothing in the hybrid rules out his acquiring wide reference through subsequent contact, though the Map does not say when that would occur.
+The second step is where the Map's hybrid enters and produces the split. The Map accepts externalism about *wide* intentional content, reference in particular, while holding *phenomenal* content, the felt character of experience, to be internally constituted (developed at [content-externalism](/concepts/content-externalism/)). The hybrid page draws that perimeter deliberately: it rests the internalist half on phenomenal character alone, not on a constructed notion of narrow content, so that the criticisms such constructions have attracted (Yli-Vakkuri and Hawthorne 2018) do not bite. This page keeps to the same perimeter. What Swampman's "water" thought has, if he is conscious, is the watery-stuff-presenting phenomenal character any conscious duplicate would share, together with whatever aboutness the Map's phenomenal-constitution stance grants that character; what it lacks is wide reference. He has never been in causal contact with H₂O, nor with XYZ, nor with a linguistic community from whom he could [borrow an extension](/topics/whether-language-model-words-refer/). On the Map's view that is the answer the hybrid gives: reference is the one aspect of content the environment fixes, and Swampman's environment has not yet fixed it. Nothing in the hybrid rules out his acquiring wide reference through subsequent contact, though the Map does not say when that would occur.
 
 ## Where the Verdicts Come Apart
 

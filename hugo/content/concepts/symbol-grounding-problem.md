@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-08-02 02:21:38+00:00
+ai_modified: 2026-10-11 12:46:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -17,14 +17,14 @@ concepts:
 - '[[continual-learning-argument]]'
 - '[[qualia]]'
 created: 2026-01-30
-date: &id001 2026-01-30
+date: &id001 2026-10-11
 description: How symbols acquire meaning intrinsic to a system rather than parasitic
   on human interpretation. The problem reveals limits of purely computational accounts.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 04:18:28+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-10-11 12:46:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Yet LLMs achieve what Harnad thought required sensorimotor grounding: they use w
 
 Three interpretations present themselves:
 
-**LLMs circumvent the grounding problem.** Their training corpus contains text produced by humans who *did* have grounded meanings. LLMs inherit statistical traces of human grounding without being grounded themselves. They operate in what might be called a "quoted environment"—manipulating language about the world without contacting the world. This explains competence without granting meaning.
+**LLMs circumvent the grounding problem.** Their training corpus contains text produced by humans who *did* have grounded meanings. LLMs [inherit statistical traces of human grounding](/topics/whether-language-model-words-refer/) without being grounded themselves. They operate in what might be called a "quoted environment"—manipulating language about the world without contacting the world. This explains competence without granting meaning.
 
 **Sensorimotor grounding was never necessary.** Perhaps language itself provides sufficient structure for meaning-like relations. Distributional semantics—meaning as patterns of use—might be all there is. This deflationary view challenges both Harnad's proposal and the Map's position. But deflating *meaning* into statistical patterns faces its own challenge: it must explain why the question of "genuine" meaning seems intelligible at all—and why attributions of meaning to thermostats strike us as metaphorical while attributions to humans do not.
 

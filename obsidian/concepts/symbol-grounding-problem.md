@@ -2,9 +2,9 @@
 title: "Symbol Grounding Problem"
 description: "How symbols acquire meaning intrinsic to a system rather than parasitic on human interpretation. The problem reveals limits of purely computational accounts."
 created: 2026-01-30
-modified: 2026-01-30
+modified: 2026-10-11
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-10-11T12:46:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ Yet LLMs achieve what Harnad thought required sensorimotor grounding: they use w
 
 Three interpretations present themselves:
 
-**LLMs circumvent the grounding problem.** Their training corpus contains text produced by humans who *did* have grounded meanings. LLMs inherit statistical traces of human grounding without being grounded themselves. They operate in what might be called a "quoted environment"—manipulating language about the world without contacting the world. This explains competence without granting meaning.
+**LLMs circumvent the grounding problem.** Their training corpus contains text produced by humans who *did* have grounded meanings. LLMs [[whether-language-model-words-refer|inherit statistical traces of human grounding]] without being grounded themselves. They operate in what might be called a "quoted environment"—manipulating language about the world without contacting the world. This explains competence without granting meaning.
 
 **Sensorimotor grounding was never necessary.** Perhaps language itself provides sufficient structure for meaning-like relations. Distributional semantics—meaning as patterns of use—might be all there is. This deflationary view challenges both Harnad's proposal and the Map's position. But deflating *meaning* into statistical patterns faces its own challenge: it must explain why the question of "genuine" meaning seems intelligible at all—and why attributions of meaning to thermostats strike us as metaphorical while attributions to humans do not.
 
