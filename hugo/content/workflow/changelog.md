@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 23:05:49+00:00
+ai_modified: 2026-10-11 23:38:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 23:05:49+00:00
+lastmod: 2026-10-11 23:38:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:38 - refine-draft
+- **Status**: Success
+- **File**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Original score**: n/a. This was a targeted pass on the task minted by [deep-review-2026-10-11-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-10-11-grain-mismatch-as-independent-evidence/) (Critical 3 sibling, Remaining Items). `scripts/curate.py` is absent.
+- **Method**: each target was located by quoted text and confirmed to occur once before replacement (the B&M anchor needed its `**` markers to match).
+- **(a) Bechtel & Mundale misdirection (L73)**: "argues that apparent mismatches arise from inconsistent granularity … an artificial appearance of incompatibility" now says the reply *borrows* the granularity diagnosis B&M (1999) brought against multiple-realizability arguments (coarse psychological vs fine neural individuation makes multiple realization look more pervasive than it is), which "a physicalist might turn" on this case. The wording is consistent with `concepts/reductionism` L125, `concepts/type-identity-theory` L63 and topic L40. The Sellars rebuttal is unchanged.
+- **(b) Lee real/apparent register (L71, L85)**: L71 "This faces Lee's opacity problem: we cannot determine from introspection whether experience is truly smooth or merely appears so" now reads: Lee's result does not block the illusion reply. If introspection leaves open continuous vs discrete, it can neither confirm nor rule out the reply, and Lee himself defends the discrete theory, on which a discrete experience can still feel smooth (cited-author stance: the old line enlisted a discrete theorist against the discrete reply). L85 "Lee's opacity caveat applies to the temporal case too …" now carries topic L50's register: the stream of consciousness is a structurally distinct question his arguments "won't directly adjudicate," he thinks a similar analysis plausible, and *to whatever extent it transfers*, introspection does not settle genuine continuity vs fine-grained discreteness. Both quote fragments were grep-verified in the 08-08 pdftotext extraction (changelog-2026-W32 L478).
+- **Consistency repairs forced by (b)/(c)**: L81 "If phenomenal smoothness is genuine" became "genuinely continuous". With Lee's smooth-discrete possibility now on the page, "genuine" smoothness no longer entails non-discreteness. L85 "require different physicalist responses" / "each would need to be resolved separately" became "Most physicalist responses reach only one of them, though the spatial and temporal legs share some candidate dissolvers, such as the vehicle/content reply above" / "no single response yet reaches all three". This mirrors topic L64 and the 10-11 review's stability note (Critical 5) that this sibling had not inherited.
+- **(c) Vehicle/content reply added (optional)**: a new fourth reply (~85 words), "arguably the strongest", puts homogeneity in represented content rather than in the vehicle (pixel grid / unbroken sky), is distinguished from the illusion reply, and links [first-order-representationalism](/concepts/first-order-representationalism/) (piped). The structural-mismatch reply's "the strongest physicalist response" became "a serious physicalist response", so the page no longer crowns two different replies and agrees with topic L40.
+- **Engagement modes (editor-internal)**: illusion reply: Mode One (recurrence at the level of the illusion), with a Mode Three residue for the eliminativist. Grain-of-analysis: Mode One (the contradiction holds regardless of descriptive grain). Structural mismatch: Mode Two (an unspecified homogeneous higher-level property). Vehicle/content: Mixed, Mode Two (felt = represented homogeneity, with no bridge offered) then Mode Three (the datum is experiential character).
+- **Length (analyze_length, before → after)**: 1,863 → 2,053 (+190; status ok, 447 below the 2,500 soft threshold).
+- **Corpus sweep ("opacity problem" / "opacity caveat", case-insensitive, all three trees)**: the only live content hits outside reviews and workflow records are two Lee-section headings that do not name Lee and whose bodies are correctly scoped: `concepts/grain-mismatch` L43 "## The Introspective Opacity Problem" (the section's L49 marks the opacity thesis as the Map's extension) and `topics/neural-refresh-rates-and-the-smoothness-problem` L85 "## The Introspective Opacity Caveat". There is one unrelated hit: `archive/voids/attention-disorders-and-consciousness` L43 "## The Diagnostic Opacity Problem". The remaining hits sit in `reviews/` and `workflow/` records and were left as history.
+- **Attribution**: `ai_modified` refreshed. `ai_system` held.
+- **Published**: yes
 
 ## 23:05 - refine-draft
 - **Status**: Success
