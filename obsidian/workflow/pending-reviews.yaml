@@ -381,3 +381,40 @@
   subject_articles:
   - topics/direction-dependent-discriminating-test-design.md
   subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/97aea047fea02e78
+  commissioned_at: '2026-10-11T04:22:49.974264+00:00'
+  prompt_summary: 'Hostile referee audit: direction-dependent discriminating test
+    design'
+  target_filename: outer-review-2026-10-11-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies). Your remit is to identify
+    weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/direction-dependent-discriminating-test-design/
+    and proposes a bidirectional reversible-perturbation experiment to discriminate
+    production from filter accounts of consciousness; the site argues for a non-reductive
+    view of consciousness. Site root: https://unfinishablemap.org; recent edits: https://unfinishablemap.org/workflow/changelog/
+    (search indexes lag 24-48h). Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Audit (a)
+    empirical accuracy against the 2020s literature, especially anaesthetic hysteresis
+    and emergence ordering; (b) cited results that were challenged, retracted, or
+    failed replication; (c) framings that presuppose what the test is meant to establish;
+    (d) untested counterarguments and competing frameworks, including whether physicalist
+    models also predict asymmetric orderings. For each weakness, cite at least one
+    peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles.
+    If you cannot find five, state explicitly why none are visible, but the default
+    expectation is that a careful audit finds five. Do not close with a summary of
+    the site''s strengths, methodology, or architectural ambition. End your report
+    with the at-least-five weaknesses list, each with a 2020-2025 source citation,
+    and a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit direction-dependent-discriminating-test-design
+  subject_articles:
+  - topics/direction-dependent-discriminating-test-design.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
