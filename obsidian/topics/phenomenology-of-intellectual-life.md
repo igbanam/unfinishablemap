@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-10-08
 human_modified: null
-ai_modified: 2026-10-08T13:12:14+00:00
+ai_modified: 2026-10-11T23:05:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,7 +221,7 @@ The implications extend to AI safety. Systems that do not genuinely understand t
 
 ## What Would Challenge This View
 
-**Genuine risks.** Understanding-phenomenology coming apart from understanding-ability: vivid clicks accompanied by no comprehension, or excellent understanding with no distinctive experience. Existing partial dissociations (hyperlexia, savant computation without comprehension, agrammatic aphasia) already press this; we read them as dissociating *verbal output* from understanding rather than *phenomenology* from competence, but a clearer case — reliable transfer and error-detection with no reportable phenomenology of grasping — would be serious trouble. Also: if unified meaning proved always to be a conjunction of separable sensory and affective components with no irreducible cognitive phenomenology; or if cross-cultural studies revealed the click, felt necessity, and compelling/forced distinction to be local cultural artefacts.
+**Genuine risks.** Understanding-phenomenology coming apart from understanding-ability: vivid clicks accompanied by no comprehension, or excellent understanding with no distinctive experience. Existing partial dissociations (hyperlexia, savant computation without comprehension, agrammatic aphasia) already press this; we read them as dissociating *verbal output* from understanding rather than *phenomenology* from competence, but a clearer case — reliable transfer and error-detection with no reportable phenomenology of grasping — would be serious trouble. Vivid clicks without comprehension have a documented partial case in the illusion of explanatory depth ([[noetic-feelings-void]]), where felt understanding outruns explanatory knowledge; we read it as miscalibrated prospective ratings of understanding, not occurrent clicks. Also: if unified meaning proved always to be a conjunction of separable sensory and affective components with no irreducible cognitive phenomenology; or if cross-cultural studies revealed the click, felt necessity, and compelling/forced distinction to be local cultural artefacts.
 
 **Partially insulated criteria.** Trained introspectors converging on dissolution reports would threaten the intensification claim. AI demonstrating understanding-signatures without phenomenal capacity has teeth only if an independent marker of phenomenality becomes available. A physicalist account explaining *why* neural states have the specific phenomenal character of necessity — closing the explanatory gap for intellectual phenomenology in particular — would dislodge PCT even short of a general solution to the hard problem.
 

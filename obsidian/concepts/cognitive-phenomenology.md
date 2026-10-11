@@ -58,7 +58,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-09-16T10:05:55+00:00
+ai_modified: 2026-10-11T23:05:49+00:00
 last_deep_review: 2026-07-07T08:28:29+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -124,7 +124,7 @@ PCT explains:
 
 ## The Mathematical Understanding Case
 
-[[consciousness-and-mathematics|Mathematical understanding]] delineates three stages: **verification** (checking steps follow rules), **understanding** (grasping *why*), and **insight** (sudden arrival). The verification-to-understanding transition is phenomenally marked—same symbols, different experience. Those reporting genuine understanding apply insights to new problems; mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
+[[consciousness-and-mathematics|Mathematical understanding]] delineates three stages: **verification** (checking steps follow rules), **understanding** (grasping *why*), and **insight** (sudden arrival). The verification-to-understanding transition is phenomenally marked—same symbols, different experience. Those reporting genuine understanding apply insights to new problems; mere verifiers cannot. Whether the felt difference predicts that success, rather than accompanying it, is untested here, and felt understanding is documented elsewhere to outrun explanatory knowledge ([[noetic-feelings-void]]); a reliable predictor would show tracking, not constitution.
 
 ## Arguments Against Cognitive Phenomenology
 

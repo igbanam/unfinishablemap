@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T22:42:28+00:00
+ai_modified: 2026-10-11T23:05:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:05 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]], plus [[topics/phenomenology-of-intellectual-life]] (optional b)
+- **Original score**: n/a. This was a targeted pass on optimistic review 2026-10-11 (constitutive-twins wing), Priority List item 4 plus the Ideas for Later entry for optional (b). `scripts/curate.py` is absent.
+- **Method**: item 4's old and new strings were pulled from the review by script. Each old string or anchor was asserted to occur exactly once before replacement. The review's code-span backticks around the wikilink were dropped, since in the article they would block wikilink conversion. No other characters changed.
+- **cognitive-phenomenology (item 4)**: L127 "If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably." became "Whether the felt difference predicts that success, rather than accompanying it, is untested here, and felt understanding is documented elsewhere to outrun explanatory knowledge ([[noetic-feelings-void]]); a reliable predictor would show tracking, not constitution." This is the page's first body link to the void, which was previously in frontmatter only. The void discusses the illusion of explanatory depth at L106 and carries Rozenblit & Keil (2002) as its ref 6 (L219), so no reference line was added here. The Crossref metadata (*Cognitive Science* 26(5), 521–562) matches the void's entry.
+- **phenomenology-of-intellectual-life (b)**: L224, after "…would be serious trouble.", inserted "Vivid clicks without comprehension have a documented partial case in the illusion of explanatory depth ([[noetic-feelings-void]]), where felt understanding outruns explanatory knowledge; we read it as miscalibrated prospective ratings of understanding, not occurrent clicks." The sentence routes the citation through the void page and follows the paragraph's own "we read them as" voice.
+- **PCT consistency check**: no tension with [[concepts/phenomenal-constitution-thesis]] as edited at 22:20Z. PCT's hyperintensionality bullet says "what a constitution claim owes is an explanation, not a covariation", which the new "tracking, not constitution" clause applies. PCT's constitution relation runs from phenomenal character to *content*, not to cognitive success, so conceding that prediction would show only tracking leaves PCT's own explanandum ("the felt difference between following a proof and verifying it mechanically") intact. One terminology note: "rather than accompanying it" here means co-occurring with success, not Chudnoff's accompany/constitute contrast (L115). The sentence stays coherent under either reading.
+- **Length (analyze_length, before → after)**: cognitive-phenomenology 3,271 → 3,291 (+20, as the review predicted; soft_warning, 209 below the hard 3,500 gate). phenomenology-of-intellectual-life 3,368 → 3,402 (+34 against an estimate of about +30; soft_warning, 598 below the hard 4,000 gate).
+- **Follow-up (not minted)**: a sibling of the struck inference survives at [[topics/phenomenology-of-intellectual-life]] L192: "If cognitive phenomenology were confabulation, this coupling would be coincidence; PCT explains it: the phenomenology *is* the understanding." It has two problems. (1) It offers a confabulation-or-PCT dichotomy that today's L127 wording and the review's grounds both reject, because a cue-based feeling can track success without constituting it. (2) "*is*" reads as identity, which PCT's three-contrasts section explicitly disclaims (constitution without identity). A repair costing about 0 to +15 words would recast it as abductive ("PCT offers one explanation of the coupling, which tracking accounts also predict") and replace "*is*" with "partly constitutes". This was outside the brief, so it was left unedited.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 22:42 - deep-review
 - **Status**: Success
