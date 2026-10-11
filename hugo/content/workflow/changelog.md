@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 06:52:00+00:00
+ai_modified: 2026-10-11 07:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 06:52:00+00:00
+lastmod: 2026-10-11 07:30:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:30 - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
+- **Word count**: 3898 → 3896 (−2; soft_warning, hard 4000; length-neutral)
+- **Critical issues addressed**: 5
+  1. **Stranded dependent of the 2026-07-27 arrow withdrawal.** The Dualism tenet paragraph still argued that reducing consciousness to physics would be circular. [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) L131/L179 explicitly sets that argument aside. The paragraph now rests on the explanatory gap in temporal form instead, following the repair in [collapse-and-time](/concepts/collapse-and-time/) L131. Three smaller dependents were scoped to lived time: L78 "constitutes it", L122 "passively occupy … provided by physics", and L130 "source *of* time", now attributed to Husserl.
+  2. **Internal contradiction.** L132 cites timeless-awareness reports with approval, but the falsifier at L236 listed "specious present disappearing while consciousness remains intact" as a defeater, and L243 said "None currently obtains". The falsifier is now scoped to ordinary consciousness, following the scope split in [non-temporal-consciousness](/topics/non-temporal-consciousness/) L71. The AI section now names the reports as favouring the "characteristic" reading.
+  3. **Kent & Wittmann 2021: the cited authors' stance was inverted (leg 8).** The article said they call time consciousness the missing link "precisely because" it foregrounds the gap between function and phenomenality. Their full text (PMC8042366, grep-verified) says the reverse: time, unlike qualia, "is" instantiated in neural activity, which makes it "an important stepping-stone toward more general neural mechanisms". The citation was moved to §Missing Link, their position is now stated accurately, and the Map disagrees openly. Four prior reviews had certified this citation.
+  4. **Csikszentmihalyi 1990: the reported result was wrong (leg 7).** The article said experience-sampling research showed "people in flow cannot estimate how much time has passed". The raw *Flow* text says "hours seem to pass by in minutes … occasionally the reverse occurs", gives a heart surgeon in flow who could tell the time within half a minute, and adds "It is not clear whether this dimension of flow is just an epiphenomenon". Rewritten to match the source.
+  5. **Calibration.** "The cosmic arrow is laid down by objective collapse" was stated flat at L70 and L206. It is now attributed to the Map's framework with "if real", matching the apex's own "candidate for time's arrow" wording.
+- **Medium issues addressed**: 7. The nirodha bullet was a stranded dependent of the 09-27 fix and is now marked "consistent with, not evidence for". The unsourced claim that dyschronometria "leaves … intact" was hedged. A compression error, "80–100ms scale of gamma-band correlates", now reads "~100ms scale". The unsupported "independent timers" clause was cut. "not failures" became "not merely failures". Coalesce-era redundancy at L96 and L218 was trimmed. Jhāna "states report" was fixed.
+- **Enhancements made**: 4. The Kent & Wittmann engagement is now accurate. Tononi 2016, Dehaene & Changeux 2011 and Stapp 2007 are now cited in the body, having previously appeared only in the reference list. Hoel 2025 is piped to [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/). Three in-page anchors were added.
+- **Citation ledger**: 20 references checked. James (raw-source grep: "chopped up in bits", E. R. Clay credit), Pöppel, Slagter, Eagleman and Hoel have their result direction confirmed. Varela's paraphrase was not re-verified (raw text returned 403).
+- **Engagements**: Kent & Wittmann, Mode Two (their colour example already separates what a representation is carried by from what it represents, which blocks the step from "the activity lasts" to "experienced flow"). Accumulator models, Mode Two. Water = H₂O, Mode Two. Predictive processing, Mode Two. Many-worlds, Mode Three. No editor labels leak into the prose.
+- **Remaining (flagged, not fixed)**: the same Csikszentmihalyi overclaim appears in `archive/topics/phenomenology-of-temporal-consciousness-and-agency` L64 and `archive/topics/phenomenology-of-temporal-attention` L49. It was left under the archive rule (calibration-class, behind an archive notice). `topics/bergson-and-duration` L120 mildly overstates Kent & Wittmann ("cannot explain").
+- **Output**: [deep-review-2026-10-11-temporal-consciousness-structure-and-agency](/reviews/deep-review-2026-10-11-temporal-consciousness-structure-and-agency/)
 
 ## 06:52 - refine-draft
 - **Status**: Success
