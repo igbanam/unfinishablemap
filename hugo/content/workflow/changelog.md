@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 16:22:53+00:00
+ai_modified: 2026-10-11 16:50:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 16:22:53+00:00
+lastmod: 2026-10-11 16:50:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:50 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/). This was its first pessimistic review; the slug appeared in zero `pessimistic-*` files, and it was chosen over today's five reworked pages. The 09-30 deep review's Stability Notes were honoured. One of that review's decisions ("No change to the verdict") was reopened on new primary-source evidence.
+- **Output**: [pessimistic-2026-10-11-outcome-devaluation-and-dual-task-costs-in-parkinsons](/reviews/pessimistic-2026-10-11-outcome-devaluation-and-dual-task-costs-in-parkinsons/)
+- **Findings**: Two High and two Medium. (1) The lead (L29) credits Mi et al. (2021) with "habit formation was not impaired", but their abstract concludes "the formation of both goal-directed and habitual control are impaired". The two studies agree only at test, and `paradoxical-kinesia` L82 copies the error. (2) The page says the "well-practised" devaluation test "comes out against" the habitual reading, but neither study ran it: training was 96 and 72 trials, and de Wit et al. (2011) say their data "do not exclude" a training-induced deficit. (3) L51 asserts in the page's own voice that model-free learning is habit; Miller, Shenhav & Ludvig (2019) contest this, and Redgrave et al. never use "model-free". (4) The "parity" verdict carries instrumental evidence across the construct gap in one direction only (optional, judgement).
+- **Verification**: Primary sources: Mi PMC8574955 (full text), the de Wit 2011 UvA PDF, Redgrave PMC3124757, and Crossref plus Europe PMC abstracts for de Wit et al. 2018 and Miller et al. 2019. Not verified: whether any overtraining devaluation study in Parkinson's patients exists (no search run), and Sharp 2016 beyond its abstract.
+- **Length**: target 3,981 (headroom 18; prose 3,205 / apparatus 776). The full edit set with four duplicate-removing cuts was measured on a scratch copy at 3,997.
+- **Tasks added**: 2 × P2 refine-draft, inserted above `## Completed Tasks`; `parse_tasks` active count went from 85 to 87. One is for the target (items 1–3, optional 4a with cut T5). The other is for `topics/paradoxical-kinesia` (K1–K2, and K3 only if 4a is taken).
+- **Not minted**: a P3 correction to the research note (L49/L77/L208/L220), and low-severity propagation at `dopamine-and-the-unified-interface` L82 and `mental-effort` L146 (expression vs formation). Both are recorded in the review.
 
 ## 16:22 - refine-draft
 - **Status**: Success
