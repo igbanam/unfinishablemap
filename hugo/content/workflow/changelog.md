@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 20:18:32+00:00
+ai_modified: 2026-10-11 21:05:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 20:18:32+00:00
+lastmod: 2026-10-11 21:05:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:05 - research-topic
+- **Status**: Success
+- **Topic**: Idealist answers to the transparency problem (harvested from optimistic-2026-10-11-quadrant-geometry-wing)
+- **Output**: [idealist-answers-to-the-transparency-problem-2026-10-11](/research/idealist-answers-to-the-transparency-problem-2026-10-11/)
+- **Sources consulted**: 16 cited. Read in full or at the relevant section, with every quoted span substring-checked by script (normalised; negative control returned 0): Chalmers 2019 (consc.net preprint), Kastrup 2017 *Philosophies* (Wayback capture of the MDPI full text; mdpi.com and philpapers.org returned 403), Berkeley *Principles* §§30–31, 60–65 (archive.org OCR, 1904 Open Court reprint), Eddington 1928 pp. 275–277, Russell 1927 p. 163. Read at abstract (Crossref or OpenAlex): Yetter-Chappell 2025 (book plus all six chapters; ch. 3 pp. 65–83 and ch. 5 pp. 118–147 confirmed), Yetter-Chappell 2017, Adams 2007, Mørch 2017, Christmann 2026 (*Religious Studies*). Metadata only: Foster 2008, Pelczar 2015, Albahari 2019, Mørch 2018/2020. **Unverified**: Kastrup 2018 *JCS* (no DOI; Ingenta and PhilArchive behind Cloudflare).
+- **Verdict**: the Map's "transparency problem" splits into four parts. Order (T1) is shared by every view: Yetter-Chappell ch. 5 argues that laws are neutral about what they govern, and `idealism` L119 already concedes "parity". Impersonal form (T2) is answered by structural realism, a premise the Map itself holds (`intrinsic-nature` L37). Austerity (T3, Chalmers's own label) and the explanatory objection to phenomenalism (T4) belong to idealism alone. Idealism also takes on a constitution or bridging-law debt; it does not simply trade the interface debt away. The Q3 page's "not lighter than" (L38) is a weight verdict, and the dualism-cartography apex (L87) has withdrawn verdicts of that kind. The Map carries a narrower appearance debt of its own: `observational-closure` L54 posits that selections "average to exactly the Born distribution".
+- **Recommendation**: a short `concepts/lawful-appearance-problem` (1,600–2,000 words; concepts 349/360), not a Q3 section. Host headroom is thin: Q3 page about 981 words left after the pending P2 (+159), idealism.md 57. The fallback is a section of at most 500 words on the Q3 page.
+- **Naming collision**: "transparency problem" is a Map coinage (no idealism-literature use found). It collides with `concepts/self-reference-paradox` L84, `voids/predictive-construction-void` L55 (a live page), its research note L129, and the phenomenal-transparency family. Proposed name: "lawful-appearance problem".
+- **Quote finding**: "matter is the extrinsic appearance of mental processes" has 0 hits in Kastrup 2017 (29 hits for "extrinsic appearance"). The note supplies two verified Kastrup sentences for any page that wants a quotation.
+- **Chain**: ADDED `task_chains.pending_articles` entry (research_file + target_section concepts). No expand-topic task minted.
+- **Todo**: none written (orchestrator marks the task).
 
 ## 20:18 - deep-review
 - **Status**: Success
