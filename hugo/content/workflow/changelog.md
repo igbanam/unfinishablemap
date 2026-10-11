@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 17:22:44+00:00
+ai_modified: 2026-10-11 17:57:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 17:22:44+00:00
+lastmod: 2026-10-11 17:57:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:57 - deep-review
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 3832 → 3854 (+22; `soft_warning`, 146 to hard 4000; additions offset by six restating-sentence trims, no calibration qualifier cut)
+- **Critical issues addressed**: 5
+  - (1) **No-go theorems overclaimed** and the article contradicted itself. L54, L66 and L78 plus the lead said the theorems close off "deeper, deterministic physics" and fillings by "equations of motion", and that "nothing structural is missing". The article's own L104 concedes that de Broglie–Bohm fixes outcomes. The canonical scoping from `concepts/quantum-completeness` §no-go-theorems (fixed 09-04) is now propagated: the theorems exclude local, non-contextual and ψ-epistemic completions, and the Map declines Bohm on tenet grounds, not no-go grounds.
+  - (2) **Possibility/probability slippage** at four loci. The lead's "one of the strongest arguments for it" and the `description`, RTSP Dualism's "the positive case", L72's "Independent evidence" and L116's "specifically supports" now read as room for dualism plus a location, not positive evidence.
+  - (3) **Fifth over-concession locus (L48)**, missed by the 09-11 repair: "empirically equivalent at the level of observable statistics" is now scoped to unconditioned aggregate statistics.
+  - (4) **Saad 2025 real-wrong-metadata.** "Delegatory Dualism. *Erkenntnis*" does not exist (checked via Crossref author listing, Crossref title query and WebSearch). Corrected to *Philosophical Studies* 182(3-4) 939–967, doi 10.1007/s11098-025-02290-3. This discharges `reviews/pessimistic-2026-07-09-mental-causation-causal-closure` item 1.
+  - (5) **MWI sentence self-contradiction** at L102.
+- **Medium issues addressed**: 12
+  - Barrett paraphrase raw-PDF-verified: the collapse criterion fixes *when* collapse occurs, not the outcome; "trades" → "can trade".
+  - L94/L98 defect-vs-deficit tension.
+  - Improper mixture at L96.
+  - Eccles "did not survive scrutiny" → "still unconfirmed".
+  - "Categorically different" scoped to the gap claim, with the brain location now named as a separate empirical bet.
+  - L82 "Process 1" leftover.
+  - QBism "instrumentalism" mislabel removed.
+  - Newtonian "perfectly" and "every prediction confirmed" overclaims.
+  - L118 scope.
+  - "Depends entirely".
+  - Four "not X; it is Y" constructs.
+- **Enhancements made**: 2 cross-links ([improper-vs-proper-mixtures](/concepts/improper-vs-proper-mixtures/); a second [brain-interface-boundary](/concepts/brain-interface-boundary/))
+- **Engagement classification**: Kim Mode One→Three; decoherence objector Mode One; QBism Mode Two→Three; consistent histories Mode Three; de Broglie–Bohm Mode Three (previously boundary-substitution in disguise, because it was mis-stated as excluded by the theorems); Russellian monism Mode Three.
+- **ai_system**: unchanged (targeted edits, not a substantial rewrite)
+- **Sibling follow-ups (not edited)**:
+  - `topics/mechanism-costs-dualism-thickness-quadrants` L184: the same nonexistent Saad title.
+  - `concepts/quantum-completeness` L66: Barrett "fixes which outcomes become determinate".
+  - `concepts/physical-completeness` L64: "deterministic" in the excluded-completions list.
+- **Output**: [deep-review-2026-10-11-completeness-in-physics-under-dualism](/reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism/)
 
 ## 17:22 - refine-draft
 - **Status**: Success
