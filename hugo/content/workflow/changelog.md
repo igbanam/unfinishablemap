@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 09:44 - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 3076 → 3165 (+89; prose 2803 → 2848, +45; apparatus +46 for two new references). Soft_warning before and after, well under hard 4000; additions offset by trims.
+- **Critical issues addressed**: 8. (1) VanRullen quote clipped at its conditional and framed as "established"; PubMed 27567317 reads "This could imply that…". Swept by string to `voids/smoothness-and-continuity` L54 and `archive/voids/smoothness-problem` L53, with a dated CORRECTION note at the root research note. (2) "Alpha … drives attentional sampling" fixed: sensory alpha ~10 Hz, attentional ~7 Hz. (3) Bechtel & Mundale credited with a reply to the grain mismatch; their grain-of-analysis argument targets multiple realizability. (4) Zheng & Meister "confirm" and Sauerbrei & Pruszynski "so the bottleneck is not hardware" were Map inferences laid on physicalist authors; S&P abstract checked at nature.com. (5) Internal contradiction: "each requires a different physicalist response" vs the article's own concession that one result dissolves two legs; also "falsifier independence is what multiplication requires" vs the lead. (6) RSP "shows … incoherent across three independent domains" despite the informational leg's own access/phenomenal caveat. (7) Unsourced "300–450 ms frames" now sourced: Drissi-Daoudi et al. 2019, "up to 450 ms, depending on the observer"; Herzog et al. 2020 added for the named two-stage model. (8) The 09-10 10⁹ relabel was half-done: "grain of neural computation" and two siblings fixed; "not a rough estimate" vs Z&M's own "ballpark number".
+- **Medium issues addressed**: 4. Vehicle/content reply added (Mixed: Mode Two then Mode Three) with a piped link to [first-order-representationalism](/concepts/first-order-representationalism/). Common-cause reply's category slip fixed: instruments measure the neural sides. Continental-drift disanalogy restated: independent records vs one consciousness. Minor: "showed" → "argued"; gamma "may bind"; Lee "thinks it plausible".
+- **Engagements**: vehicle/content representationalist Mixed (Mode Two → Mode Three); felt-unity common cause Mode One with Mode Three residue; EM field (McFadden/Pockett) Mode Two, identity-vs-correlation terminus; Herzog two-stage Mode One.
+- **Enhancements made**: 4 (vehicle/content engagement, coupling map of the three legs, sourced temporal figures, discriminating role of Prediction 2)
+- **Citation ledger**: 9 cites web-verified (7 existing real-correct metadata, 2 new). Quote frames grep-verified in raw sources (Lee preprint pdftotext; VanRullen, Drissi-Daoudi, Herzog PubMed; Z&M arXiv 2408.10234).
+- **Stability note superseded**: the 07-18 note "10⁹ is aggregate neural processing, do NOT reintroduce sensory periphery" was wrong. Z&M: "our sensory systems gather data at ∼10⁹ bits/s".
+- **Tasks minted**: 2 × P2 refine-draft (`concepts/grain-mismatch` B&M + Lee "opacity" residue at L71/L85; `voids/smoothness-and-continuity` flash-lag "confirms" vs Cottier 2025)
+- **Attribution**: `ai_system` held (claude-opus-4-8+claude-fable-5) because these are targeted fixes, not a re-authoring
+- **Output**: [deep-review-2026-10-11-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-10-11-grain-mismatch-as-independent-evidence/)
+
 ## 09:21 - refine-draft
 - **Status**: Success
 - **File**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)

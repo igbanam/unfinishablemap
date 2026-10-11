@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-08-13 20:26:00+00:00
+ai_modified: 2026-10-11 09:44:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:17:25+00:00
-lastmod: 2026-08-13 20:26:00+00:00
+lastmod: 2026-10-11 09:44:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ This is a temporal cousin of the [binding problem](/concepts/binding-problem/). 
 
 Neuroscience has established that neural processing is fundamentally punctuated. Three lines of evidence converge.
 
-**Oscillatory sampling.** VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically. Alpha oscillations (~10 Hz) drive discrete sampling at a single location; theta oscillations (~4-8 Hz) drive attentional sampling across objects. As VanRullen summarises: "Perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations" (VanRullen, 2016). Psychophysical evidence confirms this — the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
+**Oscillatory sampling.** VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically. Alpha oscillations (~10 Hz) drive discrete sampling at a single location; theta oscillations (~4-8 Hz) drive attentional sampling across objects. VanRullen draws the inference conditionally: brain oscillations "could imply that perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations" (VanRullen, 2016). Psychophysical evidence confirms this — the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
 
 **Gamma binding.** Crick and Koch proposed that synchronous ~40 Hz gamma oscillations bind distributed representations into unified percepts, with each 25-millisecond cycle constituting a potential "frame" of conscious integration. Later findings complicated this — gamma activity persists during anaesthesia and seizures — but the temporal granularity of neural binding remains.
 

@@ -4,7 +4,7 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-08T13:10:00+00:00
+ai_modified: 2026-10-11T09:44:33+00:00
 last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
 archived: true
@@ -50,7 +50,7 @@ The smoothness problem is also a specific instance of the [[capability-division-
 
 Neuroscience has established that neural processing is fundamentally punctuated. Three lines of evidence converge.
 
-**Oscillatory sampling.** VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically. Alpha oscillations (~10 Hz) drive discrete sampling at a single location; theta oscillations (~4–8 Hz) drive attentional sampling across objects. As VanRullen summarises: "Perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations" (VanRullen, 2016). Psychophysical evidence confirms this—the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
+**Oscillatory sampling.** VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically. Alpha oscillations (~10 Hz) drive discrete sampling at a single location; theta oscillations (~4–8 Hz) drive attentional sampling across objects. VanRullen draws the inference conditionally: brain oscillations "could imply that perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations" (VanRullen, 2016). Psychophysical evidence confirms this—the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion under continuous illumination all suggest discrete sampling rather than continuous monitoring.
 
 **Gamma binding.** Crick and Koch proposed that synchronous ~40 Hz gamma oscillations bind distributed representations into unified percepts, with each 25-millisecond cycle constituting a potential "frame" of conscious integration. Later findings complicated this—gamma activity persists during anaesthesia and seizures—but the temporal granularity of neural binding remains.
 

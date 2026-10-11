@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-08
-date: '2026-05-26'
+date: '2026-10-11'
 draft: false
-lastmod: 2026-05-26 00:00:00+00:00
+lastmod: 2026-10-11 00:00:00+00:00
 related_articles: []
 title: Research Notes - Neural Refresh Rates and the Smoothness Problem
 ---
@@ -62,6 +62,7 @@ Neural activity is discrete and oscillatory—brainwaves cycle at measurable fre
   - Both create "perceptual snapshots" at favourable phases of the oscillation cycle
 - **Tenet alignment**: Neutral — describes the neural substrate without explaining why discrete snapshots feel smooth
 - **Quote**: "Perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations."
+  - **(Clipped conditional — corrected 2026-10-11):** the source sentence is conditional. PubMed abstract (PMID 27567317): *"Brain function involves oscillations at various frequencies. This could imply that perception and cognition operate periodically, as a succession of cycles mirroring the underlying oscillations."* Quote the span from "could imply" onward and frame it as VanRullen's conditional, never as an established finding. The clipped form propagated to `topics/grain-mismatch-as-independent-evidence` (as "established that…"), `voids/smoothness-and-continuity` and `archive/voids/smoothness-problem`; all three were corrected 2026-10-11. The abstract also puts the attentional rhythm at "around 7Hz" alongside a sensory alpha rhythm (~10 Hz).
 
 ### Crick & Koch — Gamma Binding Hypothesis (1990)
 - **URL**: https://en.wikipedia.org/wiki/Gamma_wave (overview)
