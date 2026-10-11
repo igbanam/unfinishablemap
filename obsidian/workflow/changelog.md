@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T18:28:15+00:00
+ai_modified: 2026-10-11T18:52:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:52 - optimistic-review
+- **Status**: Success (no article edited; review file written; 4 refine-draft tasks minted above `## Completed Tasks`, parse_tasks active 93 → 97)
+- **Content reviewed**: the quadrant geometry wing. `topics/q3-q4-sliding-boundary-and-transparency-problem` (2 mentions, both in its 05-27 origin review) and `concepts/articulability-of-q1` (3, last 07-15) are the two least-reviewed pages of the four-quadrant cluster across all 596 prior optimistic reviews (content count), and neither links the other. Siblings read at loci: the taxonomy, mechanism-costs, dualism-cartography, analytic-idealism, william-james-consciousness, interactionist-dualism, yogacara.
+- **Findings**: (1) the two pages are halves of one loop. The mind-side exit from Q1 lands in Q3, and the Q3 page's stabilisers presuppose the control law Q1 has not articulated. (2) Four passages route mind-only inflation to Q4 (articulability L72, taxonomy L159, mechanism-costs L130, cartography L125), against the taxonomy's own cells (L107/L113) and mechanism-costs' own L97. (3) Goff is still in Q4 in mechanism-costs L109 and cartography L71, stale since the 08-03 refile `681f58127e`. (4) Articulability L131 says MQI forecloses inflating "either pole", against taxonomy L149. (5) Calibration: Q3 page L92 says its functional stabilisers make Dualism's exclusion of idealism more than stipulation; analytic-idealism L54/L92 concede the function is shared and the choice underdetermined. (6) Citations: Q3 page reference 8 credits "Wallace, B. A., & contributors" for the SEP Yogācāra entry by Szanyi (2024). The quoted Kastrup string "matter is the extrinsic appearance of mental processes" (Q3 L38, mechanism-costs L99) was not found verbatim, so the fix is to paraphrase.
+- **Priority List (cap 4, old strings script-verified unique, `count_words` costs)**: (1) articulability +28 (136 headroom) plus four 0-word taxonomy Q4→Q3 swaps (taxonomy −4 over hard); (2) mechanism-costs +24 / cartography −2 (−186 over hard): Goff refile, both neighbours lists, Kastrup unquote; (3) Q3 page +159 (1,140): L92 calibration, L74 stabiliser dependence, title-boundary passage citing `#limits-thickness`, 0-word link to articulability, three 0/negative citation fixes; (4) reciprocal links from analytic-idealism L54 (+21) and william-james L174 (+22).
+- **Verified**: Szanyi 2024 (plato.stanford.edu meta); Yetter-Chappell 2025 *The View from Everywhere* and Chalmers 2019 "Idealism and the Mind-Body Problem" (Crossref); James 1898/1899 "mother sea"/"mother-sea" (archive.org OCR, two scans); Kastrup's APA Blog 2019 wording (raw HTML). **Not verified**: the exact quoted Kastrup string; Kastrup 2018 *JCS* at Crossref (no DOI).
+- **New subject for the harvester**: idealist answers to the transparency problem (Yetter-Chappell 2025, Chalmers 2019, Kastrup 2018). The Map charges idealism with this debt on five pages and never states an idealist's answer.
+- **Output**: [[reviews/optimistic-2026-10-11-quadrant-geometry-wing]]
 
 ## 18:28 - refine-draft
 - **Status**: Success
