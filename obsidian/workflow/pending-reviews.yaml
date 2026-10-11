@@ -351,3 +351,33 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-10-10-gemini-2-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6acaeeeb-c82c-83eb-9814-d3438d48f2ca
+  commissioned_at: '2026-10-11T02:06:09.641046+00:00'
+  prompt_summary: Audit direction-dependent-discriminating-test-design (filter vs
+    physicalist)
+  target_filename: outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the article "Designing a Direction-Dependent Discriminating
+    Test for the Interface Model" on The Unfinishable Map: https://unfinishablemap.org/topics/direction-dependent-discriminating-test-design/
+    (last substantively modified 2026-10-04). The site root is https://unfinishablemap.org
+    and the changelog of recent changes is at https://unfinishablemap.org/workflow/changelog/
+    - check it, since search indexes may lag. The article proposes a reversible-perturbation
+    experiment in which a closing-phase ordering that fails to mirror the reopening-phase
+    ordering is forbidden by substrate-symmetric production but permitted by the filter
+    reading. Assess whether that prediction genuinely discriminates the two models:
+    do physicalist accounts (hysteresis, metastability, asymmetric neural or pharmacological
+    dynamics) already predict the same asymmetry? Check its claims, citations and
+    empirical premises against current literature; identify missed counterarguments,
+    tenet-protective bracketing, stale references, and how well it integrates with
+    the surrounding articles on the interface/filter model. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit direction-dependent-discriminating-test-design
+  subject_articles:
+  - topics/direction-dependent-discriminating-test-design.md
+  subject_source: fallback:recent-aged
