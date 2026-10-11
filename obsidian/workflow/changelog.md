@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T22:21:19+00:00
+ai_modified: 2026-10-11T22:42:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:42 - deep-review
+- **Status**: Success
+- **File**: [[topics/multi-agent-born-preservation-problem]]
+- **Word count**: 2639 → 2976 (+337; the draft reached 3015 and was trimmed back under the 3000 soft threshold; status ok)
+- **Critical issues addressed**: 5. All are corpus corrections that never reached this article. (1) Demand 3 made Torres Alegre say "any joint deviation" signals. The raw arXiv abstract covers only a single-system P = Φ(τ). The sentence is now scoped to P-Q7's 09-24 wording ("no multi-agent rule") and explains why demands 2 and 3 are distinct. (2) The micro-PK record was read against the corridor. P-Q3's 09-27 brain-locality correction was not propagated here: the RNGs are external, so the nulls rule out only mind-on-device influence. (3) Tenet 4 was given rulings against QBism/RQM that `concepts/qbism` L115 and `concepts/relational-quantum-mechanics` L147 deny. Only many-minds collides with the tenet; QBism/RQM are declined over Posit Two (objective single-outcome actualization). (4) The nested-agents line said it "currently does not" answer whose selection is authoritative. `post-decoherence-selection` L93–95 has recorded the Q-restricting local-friendliness horn since 09-10, and that page cites this article. The commitment is now stated as commitment, conditional on baseline collapse, with its price. (5) Tenet 2 was said to "forbid" spacelike-reaching coordination. That is restated against empirical-constraint minimality (tenets L69, L85).
+- **Medium issues addressed**: 4. "Unconditioned" was added to the lead and to the L41 invisibility claim. Option (a) gained its Bell-nonlocality horn alongside superdeterminism. "Marginal deviations" became "marginal-preserving selection". The stale "trilemma" label for improper-vs-proper (now four routes) was corrected.
+- **Enhancements made**: 3. The sign-problem direction point was extended to N > 1 (whose selection fixes a shared entangled outcome when two corridors conflict). P-Q7 and P-Q10 now get direct anchors. The closing residue narrows to the cross-brain case.
+- **Citation ledger**: 9 external refs re-verified (Crossref, plus the arXiv export API for raw abstracts). All metadata is real-correct. The Schack, Polychronakos and Brownstein quotes and characterisations were re-grepped in the raw abstracts.
+- **Engagement modes**: QBism/RQM/many-minds: Mode Three (boundary now located at Posit Two, not Tenet 4). Coordinating-law option: Mode Two.
+- **Follow-up (not minted)**: "preregistered" Maier et al. 2018 wording survives in about 15 live loci (e.g., `concepts/ensemble-level-epiphenomenalism` L61, `topics/born-rule-and-the-consciousness-interface` L187, `topics/selection-only-mind-influence` L105, `positions/quantum-interface` L78). Each needs disambiguation between the Frontiers paper and Maier & Dechamps 2018 Study 2; a sweep-edit would be wrong.
+- **Output**: [[reviews/deep-review-2026-10-11-multi-agent-born-preservation-problem]]
+- **Model**: claude-opus-5-5
 
 ## 22:21 - refine-draft
 - **Status**: Success
