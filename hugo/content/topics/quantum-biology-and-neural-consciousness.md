@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-11 19:37:22+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:22:00+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-11 19:37:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,13 +49,13 @@ Quantum biology has shifted the burden of proof on one narrow point in conscious
 
 The evidence surveyed below is not a uniform support pillar for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Tenet 2 admits at least three sub-readings that differ sharply in what they need from neural quantum biology: *pre-decoherence-coherence mechanisms* (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner) stand or fall with the evidence catalogued here; the *post-decoherence-selection programme*, the Map's central path (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)), is merely supplemented by it; the *strict corridor* reading in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) is unmoved either way. The [calibration table below](#the-calibration-table) slots each piece of evidence into the row where it actually bears weight.
 
-## The Objection That Collapsed
+## The Warm-Biology Objection
 
 Max Tegmark's influential 2000 calculation estimated that [decoherence](/concepts/decoherence/) would destroy the neural superpositions orchestrated-objective-reduction (Orch OR) requires (microtubule conformational states, ion superpositions in open neural membranes) in femtoseconds (10⁻¹³ seconds), twelve orders of magnitude faster than the millisecond timescales of neural processing. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable. As the [decoherence section below](#the-decoherence-debate-today) clarifies, the calculation does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different objections.
 
 Warm biology has since offered candidate counterexamples, fewer than once claimed:
 
-**[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** is the strongest surviving case, though its in vivo implementation is unsettled: the leading model has cryptochrome radical pairs sustaining spin coherence for tens of microseconds. Denton et al. (2024) modelled how the [quantum Zeno effect](/concepts/stapp-quantum-mind/) can enable this magnetosensitivity (a computational result rather than an experimental measurement; see also Luo et al., 2025). This indicates that warm Zeno-type quantum effects *can* occur in a specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
+**[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** is the strongest surviving case, though its in vivo implementation is unsettled: the leading model has cryptochrome radical pairs sustaining spin coherence for an estimated few microseconds (unmeasured). Denton et al. (2024) modelled how the [quantum Zeno effect](/concepts/stapp-quantum-mind/) can enable this magnetosensitivity (a computational result rather than an experimental measurement; see also Luo et al., 2025). This indicates that warm Zeno-type quantum effects *can* occur in a specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 
 **Enzyme catalysis** draws on quantum tunnelling, which contributes to reaction acceleration factors of 10¹² to 10¹⁷ (confirmed by large kinetic isotope effects); how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested. **Photosynthetic energy transfer**, long cited on the strength of Engel et al. (2007), no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
 
@@ -116,7 +116,7 @@ Each line has limitations; the case lies in convergence across independent lines
 
 | Evidence Type | What It Shows | What It Does Not Show |
 |---------------|---------------|----------------------|
-| Biological precedent | Selection has propagated quantum-exploiting variants in warm biology (enzymes, photosystems, probably cryptochromes) | That neurons specifically do so |
+| Biological precedent | Selection has propagated quantum-exploiting variants in warm biology (enzymes, probably cryptochromes) | That neurons specifically do so |
 | Pharmacological | Microtubule state modulates anaesthetic response | That quantum disruption mediates it |
 | Direct measurement | Quantum phenomena exist in neural components | That they persist in vivo or are functional |
 | Computational | Quantum dynamics improve neural models | That the brain actually uses them |
@@ -135,7 +135,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence bears on—
 | Evidence (article section above) | Load-bearing for pre-decoherence mechanisms | Plausibility supplement for post-decoherence selection | Bearing on the strict corridor |
 |---|---|---|---|
 | Cryptochrome / radical-pair magnetoreception (Denton 2024, Luo 2025) | Precedent, not licence: transferring a specialised photoactivated retinal sensor's coherence to deep-brain non-photonic structures is an unearned leap absent in-vivo neural-coherence evidence | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
-| Enzyme tunnelling and photosynthetic coherence | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
+| Enzyme tunnelling | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
 | Superradiance-consistent UV fluorescence in microtubule tryptophan networks (Babcock 2024) | Precedent, not licence: Babcock's effect is UV/optical (~10¹⁵ Hz), not the mechanical conformational-mode coherence (kHz–GHz) Orch OR's collapse dynamics require, and no coupling between the two regimes is established — suggestive of warm-biology coherence, not a demonstration of the Orch OR / Fröhlich-microtubule mechanism | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Would be load-bearing for Orch OR–style proposals if the delay reflects quantum disruption rather than receptor trafficking | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
 | Posner-molecule lithium isotope effects (Fisher 2015; Esmaeilpour 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
@@ -148,7 +148,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 ## What Remains Uncertain
 
 **Established:**
-- Quantum effects operate in warm, wet biology—selection has propagated specific molecular architectures (certain enzymes, photosystems, probably cryptochromes) whose dynamics exploit them
+- Quantum effects operate in warm, wet biology—selection has propagated specific molecular architectures (certain enzymes, probably cryptochromes) whose dynamics exploit them
 - Multiple candidate mechanisms exist for neural quantum effects
 - Decoherence is not categorically prohibitive (a serious constraint, addressed differently by sustained-coherence and discrete-event mechanisms)
 
@@ -168,7 +168,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield very different results, and the literature has not converged:
 
 - Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors, obtaining corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. But this is one counter-calculation by Hameroff collaborators, unreplicated and still contested—an unresolved dispute, not a settled rebuttal.
-- Radical pairs: [compass models](/concepts/radical-pair-magnetoreception/) require tens of microseconds of coherence—in cryptochrome's specific molecular architecture, not neural tissue.
+- Radical pairs: [compass models](/concepts/radical-pair-magnetoreception/) require microsecond-scale coherence—in cryptochrome's specific molecular architecture, not neural tissue.
 - QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation.
 
 Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed parameters, leaving a gap between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap matters only for candidates requiring *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). [Post-decoherence-selection](/apex/post-decoherence-selection-programme/) proposals locate the consciousness-relevant event *after* decoherence completes—as Schlosshauer's 2019 review notes, decoherence suppresses interference but leaves the system in a mixture of outcomes without saying why only one is measured—and so do not depend on sustained coherence. The role for consciousness at measurement stays open regardless of coherence timescales, and that openness is what Tenet 2 commits to.

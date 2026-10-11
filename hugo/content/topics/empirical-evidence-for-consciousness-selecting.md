@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-09-27 15:06:18+00:00
+ai_modified: 2026-10-11 19:37:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-09-27 15:06:18+00:00
+lastmod: 2026-10-11 19:37:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The neurological line supports the following claims:
 
 This line addresses whether the physical substrate for consciousness-selecting exists. For decades, the categorical objection was that quantum effects cannot survive in warm, wet biological systems. This objection has collapsed.
 
-**Avian magnetoreception.** Migratory birds are thought—on the leading but undemonstrated radical-pair account—to navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs, molecules with correlated electron spins, maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. Luo et al. (2025) computationally confirmed the radical-pair electron-transfer pathway and how protein structure stabilises the pairs. Denton et al. (2024) modelled the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—the same mechanism Stapp proposes for consciousness-brain interaction—as enabling cryptochrome magnetosensitivity: a computational precedent for the mechanism category, not a demonstration that evolution has deployed it neurally.
+**Avian magnetoreception.** Migratory birds are thought—on the leading but undemonstrated radical-pair account—to navigate using quantum spin entanglement in cryptochrome proteins. On that account, radical pairs (molecules with correlated electron spins) sustain spin coherence for an estimated few microseconds (unmeasured), not the femtoseconds Tegmark predicted for neural tissue. Luo et al. (2025) computationally confirmed the radical-pair electron-transfer pathway and how protein structure stabilises the pairs. Denton et al. (2024) modelled the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—the same mechanism Stapp proposes for consciousness-brain interaction—as enabling cryptochrome magnetosensitivity: a computational precedent for the mechanism category, not a demonstration that evolution has deployed it neurally.
 
 **Enzyme catalysis.** Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects; how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 

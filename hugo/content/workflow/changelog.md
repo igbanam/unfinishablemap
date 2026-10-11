@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 18:52:26+00:00
+ai_modified: 2026-10-11 19:37:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 18:52:26+00:00
+lastmod: 2026-10-11 19:37:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:37 - refine-draft
+- **Status**: Success (three files)
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [neural-implementation-specifics](/topics/neural-implementation-specifics/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Original score**: n/a (`scripts/curate.py` absent); task = residual warm-biology overclaims left by the 2026-10-11 cryptochrome sweep, graded against [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/) [P-Q8](/positions/quantum-interface/#p-q8) (grade B: "a leading model unsettled in vivo"; Asserts verb *establish* retired for *indicate*)
+- **Word count** (`analyze_length`): quantum-biology 4,395 → **4,388** (net −7; still `hard_warning` under the standing NEEDS-HUMAN length decision); neural-implementation-specifics 2,851 → 2,853; empirical-evidence 3,846 → 3,854 (146 to hard)
+- **Changes, quantum-biology**: (a) heading "The Objection That Collapsed" → "The Warm-Biology Objection" (unqualified heading overstated the section's own "has weakened"; inbound-anchor check in both dialects, `#the-objection-that-collapsed` and heading text, across obsidian/hugo/archive: zero links, control `#the-calibration-table` hits; the name survives only in dated reviews/changelogs and research note `radical-pair-magnetoreception-2026-07-14` L28, all historical prose, left). L116 table and L148 "Established" list: "photosystems" removed (contradicted L57 Duan 2017 retraction). **Beyond the brief, same defect**: L135 calibration-table row "Enzyme tunnelling and photosynthetic coherence" → "Enzyme tunnelling". Compass figure (batch-B loci, now fixed here): L55 "sustaining spin coherence for tens of microseconds" → "for an estimated few microseconds (unmeasured)"; L168 "require tens of microseconds of coherence" → "require microsecond-scale coherence"; wording follows the settled [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/) L56–L58 sentence (Kobylkov et al. 2019 broadband ~2–10 µs; Gauger 2011 floor rests on unreplicated single-frequency result)
+- **Deliberately left**: lede L45 "have collapsed that *categorical* objection". Edited then reverted: its referent is pinned to the categorical claim, the same case the 2026-08-07 decision on empirical-evidence L92 ("This objection has collapsed") ruled sound and not to be hedged (completed-tasks-2026-W32). Empirical-evidence L92 and NIS L200 "the categorical objection ... does not survive it" left on the same ground
+- **Changes, neural-implementation-specifics**: (b) L200 "**Strongly supported**, as precedent" → "**Best supported**, as precedent" (relative tier, since grade B is "some independent support"), "the firm anchor" → "the anchor", "leading mechanistic account" + "(unsettled in vivo)"; L62 "What the precedent does establish" → "does indicate" ([P-Q8](/positions/quantum-interface/#p-q8)'s retired verb)
+- **Changes, empirical-evidence**: (c) L94 "Radical pairs ... maintain coherence for microseconds" → "On that account, radical pairs (...) sustain spin coherence for an estimated few microseconds (unmeasured)", tied to the preceding "leading but undemonstrated" hedge
+- **Not changed**: `ai_system` on all three; no "This is not X. It is Y."; no "load-bearing" added (the L135 cell's pre-existing "not load-bearing" is untouched text)
+- **Published**: yes
 
 ## 18:52 - optimistic-review
 - **Status**: Success (no article edited; review file written; 4 refine-draft tasks minted above `## Completed Tasks`, parse_tasks active 93 → 97)

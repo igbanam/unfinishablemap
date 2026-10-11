@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-11 19:37:22+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:45:57+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-11 19:37:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ Radical pair mechanisms have the firmest empirical grounding among quantum neura
 
 ### What Makes Radical Pairs Compelling
 
-**Behaviourally attested precedent.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/)—how migratory birds orient by Earth's magnetic field—is attested in behaviour: night-migratory robins lose their bearings under weak radiofrequency fields that a magnetite compass would ignore, which is the signature pointing to spin chemistry. Several distinct claims run together in that result and are worth separating. The magnetosensitivity itself is measured. The radical-pair account of it is the leading model rather than a settled finding, and cryptochrome—likely Cry4a—remains the candidate host molecule, with isolated cryptochrome showing weaker in-vitro magnetic sensitivity than the behaviour requires. Which particular radical pair carries the effect is modelled, not measured in a functioning retina. Nothing in the result reaches neural tissue: the sensor is a photoactivated molecule in the retina. And the picture of birds seeing the field, directional information overlaid on vision, is a perceptual claim the cited work leaves untouched. What the precedent does establish is the regime—coherent spin dynamics producing a macroscopic biological output at body temperature ([quantum-interface](/positions/quantum-interface/) [P-Q8](/positions/quantum-interface/#p-q8)).
+**Behaviourally attested precedent.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/)—how migratory birds orient by Earth's magnetic field—is attested in behaviour: night-migratory robins lose their bearings under weak radiofrequency fields that a magnetite compass would ignore, which is the signature pointing to spin chemistry. Several distinct claims run together in that result and are worth separating. The magnetosensitivity itself is measured. The radical-pair account of it is the leading model rather than a settled finding, and cryptochrome—likely Cry4a—remains the candidate host molecule, with isolated cryptochrome showing weaker in-vitro magnetic sensitivity than the behaviour requires. Which particular radical pair carries the effect is modelled, not measured in a functioning retina. Nothing in the result reaches neural tissue: the sensor is a photoactivated molecule in the retina. And the picture of birds seeing the field, directional information overlaid on vision, is a perceptual claim the cited work leaves untouched. What the precedent does indicate is the regime—coherent spin dynamics producing a macroscopic biological output at body temperature ([quantum-interface](/positions/quantum-interface/) [P-Q8](/positions/quantum-interface/#p-q8)).
 
 **Microsecond coherence times.** On the leading model, spin-correlated radical pairs need coherence lasting at least microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. If that model holds, radical pairs show that biologically relevant quantum coherence can occur in warm tissue at all—though a microsecond still falls roughly three orders short of the millisecond scale at which neural processing operates, and whether radical pairs participate in computation remains unestablished.
 
@@ -200,7 +200,7 @@ Mechanisms requiring only discrete quantum events (Zeno, tunneling) face far les
 
 As of early 2026:
 
-**Strongly supported, as precedent**: Warm, wet biological tissue can host functional quantum coherence. Avian magnetoreception is the firm anchor here—a compass measured in behaviour, with radical-pair spin dynamics its leading mechanistic account and Denton et al.'s Zeno result a computational model of that account—and the categorical objection, "brains are too warm for quantum effects," does not survive it.
+**Best supported, as precedent**: Warm, wet biological tissue can host functional quantum coherence. Avian magnetoreception is the anchor here—a compass measured in behaviour, with radical-pair spin dynamics its leading mechanistic account (unsettled in vivo) and Denton et al.'s Zeno result a computational model of that account—and the categorical objection, "brains are too warm for quantum effects," does not survive it.
 
 What that anchor does not establish is the neural case. Cryptochrome coherence is microsecond-scale and operates in a specialised photoactivated retinal sensor; no coherence-time calculation currently supports the deep-brain, non-photonic structures the mechanisms above propose. The Map holds this distinction as a standing commitment ([quantum-interface](/positions/quantum-interface/) [P-Q8](/positions/quantum-interface/#p-q8)): warm-quantum-biology results are a *precedent*, showing the regime is not categorically impossible, rather than a *licence* for the neural case, and citations that read as the latter are calibration drift corrected when caught. The per-item grading is set out in [the quantum biology survey's calibration table](/topics/quantum-biology-and-neural-consciousness/#the-calibration-table).
 
