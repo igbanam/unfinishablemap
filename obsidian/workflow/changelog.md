@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T22:09:06+00:00
+ai_modified: 2026-10-11T22:21:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:21 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenal-constitution-thesis]], plus [[topics/phenomenology-of-memory-and-the-self]] and [[concepts/semantic-memory]]
+- **Original score**: n/a. This was a targeted pass on optimistic review 2026-10-11 (constitutive-twins wing), Priority List item 3 (a)–(c), plus the driver rider carrying pessimistic 2026-10-01 L240. `scripts/curate.py` is absent.
+- **Method**: the old and new strings for (a)–(c) were pulled from the review by script, not retyped, and each old string or anchor was asserted to occur exactly once before replacement.
+- **phenomenal-constitution-thesis (a)**: after "…whereas the constitution reading absorbs them." (L56) the review's attitude/content sentence was inserted. Horgan & Tienson (2002, ref 7) separate content phenomenology from the "phenomenology of attitude type", and PCT concerns the first. Remembering versus knowing is one content under two modes, and P-MA1 registers that mode as constitutive of the memory *kind*. This agrees with P-MA1's new Depends-on composition note (attitude-type pastness per Horgan & Tienson; Fernández 2019 would put it in content). The quote is limited to the term, with no page number, per the review's Caution. The rabbit example is Horgan & Tienson's own (review L81, from the consc.net preprint).
+- **phenomenal-constitution-thesis (rider)**: L84 "…handle them piecemeal." now continues with "; unification is loveliness, so the [[inference-to-the-best-explanation-against-dualism|IBE consistency statement]] blunts this abduction exactly as far as the physicalist's." This reuses P-TU1's new Asserts wording. With it, PCT carries the loveliness half of pessimistic 2026-10-01 L240 alongside the bad-lot half already at L86, so **L240 is now closed on both P-TU1 and PCT**.
+- **phenomenology-of-memory-and-the-self (b)**: L105 "from pastness to qualia generally." became "from pastness to [[cognitive-phenomenology|cognitive phenomenology]]." (0 words; Fernández's self-referential content is non-sensory).
+- **semantic-memory (c)**: L83 PCT link retargeted from `phenomenology-of-intellectual-life` to `phenomenal-constitution-thesis` (0 words; the page had no other link to the PCT concept page).
+- **Length (analyze_length, before → after)**: phenomenal-constitution-thesis 2,499 → 2,599 (+100 = +83 for (a), +17 for the rider; now soft_warning, 900 below the hard 3,500 gate); phenomenology-of-memory-and-the-self 3,996 → 3,996 (0; NEEDS-HUMAN length block respected); semantic-memory 3,488 → 3,488 (0).
+- **Reasoning mode**: no named-opponent reply was added. The rider is a symmetry concession on the Map's own abduction.
+- **ai_system**: unchanged on all three files (as briefed). ai_modified set to 2026-10-11T22:20:47+00:00.
+- **Style**: no "This is not X. It is Y."; no "load-bearing" added.
+- **Published**: yes
 
 ## 22:09 - positions-evolve
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-10-04 12:46:21+00:00
+ai_modified: 2026-10-11 22:20:47+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-10-04 12:46:21+00:00
+lastmod: 2026-10-11 22:20:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ The same process that builds the self threatens it: reconstruction means the sel
 
 Contemporary philosophy of memory offers several deflationary readings, each denying pastness is a primitive phenomenal property. The **metacognitive epistemic-feeling reading** (Perrin, Michaelian & Sant'Anna 2020) holds pastness is a downstream feeling produced by monitoring retrieval features—fluency, vividness, source-signals. The reply does not turn on rejecting metacognition: the metacognitive feeling is itself something the subject is conscious of, so relocating felt-pastness one tier up does not remove it from the phenomenal register. The move is bounded; [the falsification discussion below](#the-pastness-quale-and-irreducibility) states the bound. The reading's strongest form presses where relocation cannot reach: felt pastness as a culturally acquired discriminative skill for reality-monitoring, an assembly of cues leaving no unified phenomenal item at the relocated site to defend. That challenge is live, and its empirical form is the first falsifier named below.
 
-The **intentionalist reading** (Fernández 2019) holds pastness is a representational property—the memory represents itself as caused by a past experience. The view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content—a debt Perrin and Sant'Anna (2022) argue it cannot pay, preferring metacognition. If intentionalism succeeded, the irreducibility claim would transfer from pastness to qualia generally.
+The **intentionalist reading** (Fernández 2019) holds pastness is a representational property—the memory represents itself as caused by a past experience. The view owes a story about why representation of pastness produces a felt difference between remembering and imagining the same content—a debt Perrin and Sant'Anna (2022) argue it cannot pay, preferring metacognition. If intentionalism succeeded, the irreducibility claim would transfer from pastness to [cognitive phenomenology](/concepts/cognitive-phenomenology/).
 
 The **two-tier** (Dokic 2014) and **felt-quality** readings (Matthen 2010; Russell 2014) are absorbable: Dokic's phenomenal tier is where the article's claim sits, and Matthen and Russell specify the felt character—spatiotemporal embeddedness and ergonomic significance, felt remoteness from the present—rather than deflating it.
 

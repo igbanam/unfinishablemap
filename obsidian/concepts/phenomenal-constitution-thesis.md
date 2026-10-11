@@ -4,7 +4,7 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-10-01T08:41:50+00:00
+ai_modified: 2026-10-11T22:20:47+00:00
 last_deep_review: 2026-09-19T12:01:01+00:00
 draft: false
 topics:
@@ -53,7 +53,7 @@ PCT is sharpest when triangulated against its neighbours. It is stronger than ph
 
 **PCT versus supervenience.** A supervenience thesis says content covaries with phenomenal character: no difference in content without a difference in experience. This is mere covariation and is symmetric in a way constitution is not. Supervenience leaves open *which* fixes which, and it is compatible with both being fixed by some third, non-phenomenal base. PCT makes the stronger directional claim that phenomenal character is the *in-virtue-of* ground of content—the asymmetric dependence supervenience cannot capture.
 
-**PCT versus identity.** The crudest version of the view would say content simply *is* a quale—"meaning = phenomenal character." PCT does not require this. Borrowing Johnston's lesson, constitution without identity lets the Map hold that phenomenal character constitutes content while the two remain numerically distinct, with potentially different persistence and individuation conditions. This matters because outright identity invites obvious counterexamples (the same content under different experiential modes; the same experience deployed across distinct contents), whereas the constitution reading absorbs them.
+**PCT versus identity.** The crudest version of the view would say content simply *is* a quale—"meaning = phenomenal character." PCT does not require this. Borrowing Johnston's lesson, constitution without identity lets the Map hold that phenomenal character constitutes content while the two remain numerically distinct, with potentially different persistence and individuation conditions. This matters because outright identity invites obvious counterexamples (the same content under different experiential modes; the same experience deployed across distinct contents), whereas the constitution reading absorbs them. The first is absorbed by a distinction the strong horn's own proponents draw: Horgan and Tienson (2002) separate the phenomenology of intentional content from the "phenomenology of attitude type" (wondering whether rabbits have tails versus thinking that they do), and PCT is a claim about the first. Remembering and merely knowing one fact is the Map's standing case of one content under two modes, and the memory wing registers that mode as constitutive of the *kind* of memory, not of its content ([[positions/memory-and-autonoesis|P-MA1]]).
 
 ## Constituting versus Accompanying {#constitution-vs-accompaniment}
 
@@ -81,7 +81,7 @@ The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal
 
 - **Content determinacy.** What makes a thought about *rabbits* rather than *undetached rabbit parts*? Physical and functional description famously underdetermine content (the Quinean indeterminacy that embarrasses non-phenomenal accounts). PCT proposes that phenomenal character fixes the determinate content where third-person description leaves it open.
 - **Understanding versus processing.** Genuine comprehension carries a phenomenal character of grasping that mere symbol-processing lacks—the felt difference between following a proof and verifying it mechanically.
-- **The unity of the explananda.** PCT offers one account of all of these, where weak liberalism and deflationism handle them piecemeal.
+- **The unity of the explananda.** PCT offers one account of all of these, where weak liberalism and deflationism handle them piecemeal; unification is loveliness, so the [[inference-to-the-best-explanation-against-dualism|IBE consistency statement]] blunts this abduction exactly as far as the physicalist's.
 
 The opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration, and winning counts only if the true account is among the three—the [[inference-to-the-best-explanation-against-dualism|bad-lot exposure]] the Map accepts for itself as for physicalism. Consequently, downstream applications that lean on it—the [[symbol-grounding-problem|symbol-grounding diagnosis]], the [[arguments/functionalism-argument|Chinese Room verdict]], and AI-understanding skepticism across the [[ai-consciousness-typology|consciousness typology]]—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
 

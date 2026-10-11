@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-20 21:57:14+00:00
+ai_modified: 2026-10-11 22:20:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:22:56+00:00
-lastmod: 2026-09-20 21:57:14+00:00
+lastmod: 2026-10-11 22:20:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Consider what happens when you finally understand a proof. There's the "aha" mom
 
 ### The Phenomenal Constitution Thesis
 
-The [Phenomenal Constitution Thesis (PCT)](/topics/phenomenology-of-intellectual-life/) makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
+The [Phenomenal Constitution Thesis (PCT)](/concepts/phenomenal-constitution-thesis/) makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
 
 TOT states are the Map's main argument for PCT, and the argument has to be made, because this article's own cited authority supplies the rival. During a TOT state you have the meaning without the phonological form, and the Map reads what you possess as more than information about the target word: *phenomenal access to the meaning itself*, present even when the label cannot be retrieved. Schwartz (2002) reads the same state the other way—the TOT feeling is a metacognitive inference over partial activation, so the first-letter and syllable-count cues above are not a residue alongside phenomenal access but the material the inference runs on. The Map's reading turns on recognition: the target is identified the moment it arrives, which looks to require a held content richer than the cues. Schwartz can answer that recognition is cue-driven too, and the phenomenology does not by itself decide between the accounts. The dissociation is offered as support for semantic content having phenomenal presence independent of linguistic expression, not as a demonstration of it.
 
