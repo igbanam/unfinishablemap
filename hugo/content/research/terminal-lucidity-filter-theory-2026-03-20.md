@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-10-11 03:15:32+00:00
+ai_modified: 2026-10-11 03:39:43+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-20
 date: '2026-10-11'
 draft: false
-lastmod: 2026-10-11 03:15:32+00:00
+lastmod: 2026-10-11 03:39:43+00:00
 related_articles: []
 title: Research Notes - Terminal Lucidity and Filter/Transmission Theory
 ---
@@ -20,10 +20,10 @@ title: Research Notes - Terminal Lucidity and Filter/Transmission Theory
 
 This note was written in March 2026, before two developments that change its "retrospective only" framing. The original text below is preserved as a dated record, with brief in-place qualifiers where it had gone stale.
 
-- **First prospective study (reported as an abstract).** Tollock, Leontovich, Gonzalez & Parnia (2025), "A Multi-Site Prospective Study of Paradoxical Lucidity in Moderate to Severe Dementia," *Innovation in Aging* 9(Suppl 2), igaf122.2914 (PMC12761273). This is a Gerontological Society of America meeting **abstract**, not a full peer-reviewed paper; its detailed figures await full publication. Across NYU Langone, VNS Health, and Bellevue Hospital, 151 patients were enrolled; 93 (61.6%) had at least one lucidity event, across 267 recorded events. Events were predominantly mild and non-terminal, and only 4.1% met a terminal-lucidity definition. Identified triggers included medication changes (including immunomodulating agents and antihistamines). The study observed episodes clinically; it did not record brain activity during them.
+- **First prospective study (reported as an abstract).** Tollock, Leontovich, Gonzalez & Parnia (2025), "A Multi-Site Prospective Study of Paradoxical Lucidity in Moderate to Severe Dementia," *Innovation in Aging* 9(Suppl 2), igaf122.2914 (PMC12761273). This is a Gerontological Society of America meeting **abstract**, not a full peer-reviewed paper; its detailed figures await full publication. Across NYU Langone, VNS Health, and Bellevue Hospital, 151 patients were enrolled; 93 (61.6%) had at least one lucidity event, across 267 recorded events. Events were predominantly mild and non-terminal, and only 4.1% met a terminal-lucidity definition. Identified triggers included medication changes (including immunomodulating agents and antihistamines). The study observed episodes clinically; it did not record brain activity during them. *(Correction 2026-10-11, checked against the raw abstract at Crossref: events were logged by primary caregivers as "perceived mental clarity". The abstract reports no durations, no severity grading and no timing relative to death, so "predominantly mild and non-terminal" is not a finding. The 4.1% category is "terminal lucidity (memories consistent with near-death experiences)", defined by content, not by proximity to death. The abstract lists "potential triggers" without reporting what share of episodes they preceded. "First prospective" is the authors' own claim and is contested: MacLeod 2009 (*Palliative & Supportive Care* 7(4):513–516) prospectively observed 100 hospice deaths, and Gilmore-Bykovskyi et al. 2025 (*The Gerontologist* 65(9), gnaf178) video-recorded 20 advanced-dementia participants, validating nine episodes in three of them.)*
 - **In-episode EEG study registered and recruiting.** NYU Langone's hospice study "Paradoxical Lucidity in Severe End-Stage Dementia" (ClinicalTrials.gov NCT05234866) pairs video-EEG with symptom diaries; it is recruiting, with estimated primary completion 2027-03-31. Its primary outcomes are feasibility measures; EEG change during a paradoxical-lucidity episode is a conditional, secondary Phase II outcome.
 
-**Net effect on this note.** The claims "all evidence is retrospective" and "no prospective study" are retired: paradoxical lucidity has now been documented prospectively. The claim that **no in-episode brain measurement (EEG, fMRI, or biomarker) has been published** still holds as of 2026-09-26. The prospective profile (brief, modest, often trigger-linked episodes, terminal cases a small minority) is more consistent with neurochemical mechanisms than supportive of the filter reading; see [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) for the current treatment.
+**Net effect on this note.** The claims "all evidence is retrospective" and "no prospective study" are retired: paradoxical lucidity has now been documented prospectively. The claim that **no in-episode brain measurement (EEG, fMRI, or biomarker) has been published** still holds as of 2026-09-26. The prospective profile (brief, modest, often trigger-linked episodes, terminal cases a small minority) is more consistent with neurochemical mechanisms than supportive of the filter reading *(Correction 2026-10-11: that profile is not in the abstract; see the correction to the Tollock entry above. What survives is that the prospective data confirm the episodes, record no in-episode neural activity, and name medication changes among potential triggers, a physical route, so they do not point toward the filter reading)*; see [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) for the current treatment.
 
 ## Executive Summary
 
@@ -179,7 +179,7 @@ Terminal lucidity — the unexpected return of mental clarity, memory, and perso
 ### Is Terminal Lucidity Genuine or Observer Bias?
 - **Sides**: Skeptics (Pinker) argue caregivers overinterpret minimal responses due to emotional desperation; proponents (Nahm, Batthyány, Greyson) cite detailed case reports from trained medical professionals
 - **Core disagreement**: Whether the evidence base (predominantly retrospective case reports and surveys) meets the standard for establishing the phenomenon
-- **Current state**: The NIA's 2018 recognition and funded research programs suggest mainstream science accepts the phenomenon as real. The debate has shifted from *whether* it occurs to *how* to explain it. ~~No prospective neuroscientific study has yet captured an episode in real time.~~ *(Superseded 2026-09-26: Tollock et al. (2025) prospectively documented 267 paradoxical-lucidity events in 93 of 151 patients, only 4.1% meeting a terminal-lucidity definition, but recorded them clinically; no in-episode brain measurement has yet been published.)*
+- **Current state**: The NIA's 2018 recognition and funded research programs suggest mainstream science accepts the phenomenon as real. The debate has shifted from *whether* it occurs to *how* to explain it. ~~No prospective neuroscientific study has yet captured an episode in real time.~~ *(Superseded 2026-09-26: Tollock et al. (2025) prospectively documented 267 paradoxical-lucidity events in 93 of 151 patients, only 4.1% meeting a terminal-lucidity definition, but recorded them clinically; no in-episode brain measurement has yet been published.)* *(Correction 2026-10-11: the 4.1% category is defined by near-death-experience-like memories, not by proximity to death, and the events were caregiver-logged.)*
 
 ### Does Terminal Lucidity Require Non-Physical Explanation?
 - **Sides**: Dualists (Kelly, Nahm, Christopher) argue it is inexplicable under productive theories because severely damaged brains lack the structural capacity for the cognition observed; materialists propose disruption-not-destruction models, neurotransmitter surges, or unknown compensatory mechanisms
@@ -208,7 +208,7 @@ Terminal lucidity — the unexpected return of mental clarity, memory, and perso
 | 2022 | Nahm terminological clarification | Distinguishes terminal from paradoxical lucidity |
 | 2023 | Batthyány publishes *Threshold* | Book-length treatment of the evidence |
 | 2025 | Murray–Pinker public debate | Terminal lucidity enters mainstream intellectual discourse |
-| 2025 | Tollock, Leontovich, Gonzalez & Parnia multi-site prospective study (GSA abstract) | First prospective data: 93 of 151 patients (61.6%) with at least one event, 267 events, 4.1% terminal; episodes observed clinically, without in-episode brain recording |
+| 2025 | Tollock, Leontovich, Gonzalez & Parnia multi-site prospective study (GSA abstract) | First prospective data: 93 of 151 patients (61.6%) with at least one event, 267 events, 4.1% terminal; episodes observed clinically, without in-episode brain recording *(Correction 2026-10-11: "first" is contested by MacLeod 2009 and Gilmore-Bykovskyi et al. 2025; the 4.1% category is defined by near-death-experience-like content, not proximity to death)* |
 
 ## Potential Article Angles
 

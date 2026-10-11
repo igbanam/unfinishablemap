@@ -5,6 +5,25 @@ ai_modified: 2026-10-11T02:50:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 03:39 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-interface-development]] (+ [[apex/altered-states-as-interface-evidence]], [[concepts/near-death-experiences]], [[concepts/filter-theory]], [[concepts/mind-brain-separation]]; annotations in [[research/terminal-lucidity-filter-theory-2026-03-20]], [[research/intact-substrate-reversibility-2026-09-16]])
+- **Original score**: n/a (`scripts/curate.py` absent; review-directed source-fidelity propagation)
+- **Review file**: reviews/deep-review-2026-10-11-terminal-lucidity-and-filter-transmission-theory.md (Critical 1–2; P1 sibling-propagation task)
+- **Source check**: Tollock et al. 2025 abstract re-pulled from Crossref (DOI 10.1093/geroni/igaf122.2914, raw JATS). It reports event types, a content-defined 4.1% "terminal lucidity (memories consistent with near-death experiences)" category, and "potential triggers". It gives no durations, severity grading or timing relative to death. Events were caregiver-logged. The Methods section says "the first prospective investigation" (the authors' own claim, contested by MacLeod 2009 and Gilmore-Bykovskyi et al. 2025). Gilmore-Bykovskyi 2025 metadata confirmed at Crossref (DOI 10.1093/geront/gnaf178).
+- **Changes**: Removed "brief / mild / modest / non-terminal / trigger-linked", the 4.1% "terminal subtype / terminal-lucidity definition" reading and "the first prospective study" at every listed locus. Replaced them with what the abstract supports: the episodes are confirmed, no neural activity was recorded, and medication changes appear among potential triggers, which is a physical route. "Points away from" became "does not point toward" at the three loci where it rested on the descriptors (apex, NDE, mind-brain-separation; filter-theory already said "has not vindicated").
+  - consciousness-interface-development L95 "predominantly mild and non-terminal" was cut; L99 now says the abstract gives no durations, severity or timing and that the 4.1% is content-defined; it also gives the orientation-dominance plus potential-triggers profile (model wording). L97 "caregiver and clinician report" became "caregiver report", since the abstract names primary caregivers only.
+  - apex L128: the network-level quote was dropped. It had been presented as the authors' framing of "the finding" and had lost its "the possibility of" hedge, and restoring it would have broken length-neutrality. "More consistent with a neurochemical reading" became "one mechanistic lead … is a physical route".
+  - near-death-experiences L142 rewritten. Dependent locus L150 "the prospective data above make that reading [proximity to death loosens constraints] harder to sustain" rested on the proximity misreading of the 4.1%; it now says the data, reporting no timing relative to death, leave it untested.
+  - filter-theory L113 descriptors replaced; "framed the finding mechanism-neutrally" dropped.
+  - mind-brain-separation L86 now names both 2025 prospective studies; refs 9 (Tollock) and 10 (Gilmore-Bykovskyi) added.
+  - Research notes annotated in place with dated *(Correction 2026-10-11 …)* notes, not rewritten: terminal-lucidity note L19/L22/L178/L207, intact-substrate note L234/L255.
+- **Calibration**: No over-swing. The constrain-vs-establish thesis is untouched everywhere, and no pro-filter claim was installed. "Has not vindicated the dualist/filter reading" is retained where it stood.
+- **Length** (analyze_length, gate `>=`): consciousness-interface-development 3,981 → 3,981 (0); apex 4,874 → 4,874 (0); near-death-experiences 3,494 → 3,489 (−5); filter-theory 3,496 → 3,490 (−6); mind-brain-separation 2,546 → 2,622 (+76: +15 sentence with the counter-citation, +61 two reference lines).
+- **Unlisted sibling (not edited, flagged)**: `topics/consciousness-and-neurodegenerative-disease` L71 "most prospectively documented episodes are indeed brief" and L109 "the prospective evidence that lucidity is common, with most episodes brief". No cited prospective source reports durations (ref [6] is Karlawish 2024 caregiver accounts), so these are probably the same Tollock descriptor unnamed and need source verification.
+- **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` unchanged on all seven files (wording corrections, not re-authoring).
+- **Published**: yes
+
 ## 03:15 - deep-review
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]

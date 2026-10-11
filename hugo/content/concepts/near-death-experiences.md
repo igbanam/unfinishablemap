@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-07 23:11:56+00:00
+ai_modified: 2026-10-11 03:39:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:17:52+00:00
-lastmod: 2026-09-07 23:11:56+00:00
+lastmod: 2026-10-11 03:39:43+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -142,7 +142,7 @@ One deflationary move must be granted first. The reported clarity is *phenomenal
 
 The puzzle: if neurodegeneration has physically destroyed neural substrates for memory and thought, what restores them before death? Mashour et al. (2019) called paradoxical lucidity a "potential paradigm shift," suggesting some dementia involves *functional* suppression rather than purely structural destruction. But this strains against cases with massive structural damage where relevant neural substrates no longer exist.
 
-Filter theory has a ready reading: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen—memories accessed through the brain rather than stored in it, access briefly returning as filtering collapses. Readiness is not support, though. The first prospective study (Tollock et al., 2025) followed 151 patients across three sites and recorded 267 lucidity events in 93 of them, but found the events predominantly brief and trigger-linked, with the dramatic terminal subtype only 4.1% of them, and framed the phenomenon mechanism-neutrally. The prospective record points away from the filter reading rather than toward it; [the dedicated treatment](/topics/terminal-lucidity-and-filter-transmission-theory/) sets out the full assessment.
+Filter theory has a ready reading: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen—memories accessed through the brain rather than stored in it, access briefly returning as filtering collapses. Readiness is not support, though. A prospective study (Tollock et al., 2025) followed 151 patients across three sites and logged 267 lucidity events in 93 of them, but recorded no neural activity during episodes and listed medication changes among potential triggers, a physical route. The prospective record does not point toward the filter reading; [the dedicated treatment](/topics/terminal-lucidity-and-filter-transmission-theory/) sets out the full assessment.
 
 Terminal lucidity is one of several [death-related phenomena beyond NDEs](/topics/death-and-consciousness/)—deathbed visions, shared death experiences, nearing death awareness—that pose the same challenge under different physiological conditions. Being the same challenge repeated, they do not compound; see the symmetry note below.
 
@@ -150,7 +150,7 @@ Terminal lucidity is one of several [death-related phenomena beyond NDEs](/topic
 
 Filter theory faces a genuine difficulty: if brain compromise reduces filtering, why does *most* brain damage produce *diminished* rather than enhanced consciousness? NDEs and terminal lucidity are exceptions, not the rule.
 
-Several distinctions have been proposed, though none is fully satisfying. One suggestion is that the filter model predicts enhancement when the constraining *mechanism* fails while the interface *channel* remains partially intact—the rapid global shutdown during cardiac arrest may selectively compromise the "reducing valve" while the channel persists briefly. However, this distinction between "constraining mechanism" and "interface channel" is itself ad hoc: filter theory does not independently predict which types of brain damage affect which function, making the distinction explanatorily convenient rather than principled. Dying also involves distinctive neurochemical cascades (gamma oscillations, serotonin surges) that differ qualitatively from the localized destruction of stroke or trauma. Terminal lucidity was once read as narrowing the gap further, on the thought that proximity to death itself loosens constraints; the prospective data above make that reading harder to sustain.
+Several distinctions have been proposed, though none is fully satisfying. One suggestion is that the filter model predicts enhancement when the constraining *mechanism* fails while the interface *channel* remains partially intact—the rapid global shutdown during cardiac arrest may selectively compromise the "reducing valve" while the channel persists briefly. However, this distinction between "constraining mechanism" and "interface channel" is itself ad hoc: filter theory does not independently predict which types of brain damage affect which function, making the distinction explanatorily convenient rather than principled. Dying also involves distinctive neurochemical cascades (gamma oscillations, serotonin surges) that differ qualitatively from the localized destruction of stroke or trauma. Terminal lucidity was once read as narrowing the gap further, on the thought that proximity to death itself loosens constraints; the prospective data above, which report no timing relative to death, leave it untested.
 
 The asymmetry remains a genuine tension that filter theory has not resolved; [sorting cases by causal leg](/concepts/filter-vs-interface-distinction/) narrows it to the inbound side without removing it. The explanation that different disruption types affect constraining and transmitting functions differently is post hoc and difficult to test—without independent criteria for distinguishing the two functions, the theory risks becoming unfalsifiable on this point. Filter theory's explanatory advantage over production models is narrower than the "paradox of heightened experience" alone might suggest.
 

@@ -3,7 +3,7 @@ title: "Research Notes - Intact-Substrate Reversibility as the Clinical Wing's D
 created: 2026-09-16
 modified: 2026-09-16
 human_modified:
-ai_modified: 2026-09-16T23:50:00+00:00
+ai_modified: 2026-10-11T03:39:43+00:00
 draft: false
 description: "Research note for a concepts/ page on intact-substrate reversibility: what the signature licenses, which physicalist accounts predict it equally, where they diverge, and how the four planned clinical-wing articles should divide the ground."
 topics:
@@ -231,7 +231,7 @@ What this article takes the signature to license: the constraint-not-establishme
 
 ### Network reserve / paradoxical disinhibition (Mashour et al. 2019)
 - **Core claim**: spared circuitry briefly returns to function ("network-level return").
-- **Reversibility prediction**: brief, trigger-linked, incomplete return, which is what Tollock et al. 2025 (already in the wing) reported for most episodes.
+- **Reversibility prediction**: brief, trigger-linked, incomplete return, which is what Tollock et al. 2025 (already in the wing) reported for most episodes. *(Correction 2026-10-11: Tollock et al. 2025 is a meeting abstract that reports event types and lists potential triggers but gives no durations, severity grading, completeness measure, or share of episodes that followed a trigger, so it did not report this profile. The rival's prediction stands, but that study does not test it.)*
 - **Domain**: terminal and paradoxical lucidity only.
 
 ## The Discriminative Question
@@ -252,7 +252,7 @@ Where the accounts come apart, and so where any interface-favouring residue woul
 | Pharmacological / TMS / vestibular remission | Stone 2014 (propofol, 5/11); Garcin 2013, 2017 (TMS, RMS); Cappa 1987 (vestibular); Kikuchi 2010 and Marsh 2024 (treatment recovery with fMRI marker) | normal (FND, amnesia) or stable lesion (neglect, anosognosia) | Bayesian FND and executive gating, since Garcin 2017 shows the route does not matter | none; retrieval suppression is silent on motor cases but not embarrassed |
 | Spontaneous remission | Harrison 2017 (fugue to normal/near-normal at 3-6 months; focal RA partial) | normal | metarepresentational inhibition and clinical retrieval suppression | laboratory retrieval suppression, if fidelity proves complete; interface reading and metarepresentational inhibition, if a residue is found |
 | Placebo, nocebo, suggestion, demonstration | Poole 2010 (suggestion predicts recovery); Pollak 2014 mechanism (c); Rommelfanger 2013 (opinion); Fotopoulou 2009 (video self-observation, permanent) | normal or stable lesion | Bayesian FND, by construction | interface reading has no account of *why* demonstration works that the rival does not already give |
-| Terminal / paradoxical lucidity | Batthyány and Greyson 2021; Mashour 2019; Tollock 2025 | degraded | network reserve for brief, trigger-linked episodes | network reserve for the rare complete, autopsy-verified tail; none of the FND or amnesia rivals reach this class at all |
+| Terminal / paradoxical lucidity | Batthyány and Greyson 2021; Mashour 2019; Tollock 2025 *(2026-10-11: no durations or trigger shares reported; see the network-reserve correction above)* | degraded | network reserve for brief, trigger-linked episodes | network reserve for the rare complete, autopsy-verified tail; none of the FND or amnesia rivals reach this class at all |
 
 The one class where a physicalist rival visibly strains is the last, and only in its rare tail, and the strain is against *documentation* the wing already grades as retrospective. No rival struggles with the first three classes. The concept page should say this plainly.
 

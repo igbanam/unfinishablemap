@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-01 23:40:30+00:00
+ai_modified: 2026-10-11 03:39:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-10-01 23:40:30+00:00
+lastmod: 2026-10-11 03:39:43+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -114,7 +114,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Terminal Lucidity
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2021) 124-case survey reported high rates of cognitive remission, but was retrospectively collected from caregiver reports, with the selection bias that invites (dramatic remissions are reported; non-remissions are not) and no controls or standardised assessment. The prospective era has since arrived, and it has not vindicated the filter reading. Tollock et al. (2025) followed 151 patients with moderate-to-severe dementia across three sites and recorded 267 lucidity events in 93 of them—so the phenomenon is real and capturable in advance—but the events were predominantly brief and trigger-linked, the dramatic terminal subtype only 4.1% of them, and the authors framed the finding mechanism-neutrally. Terminal lucidity therefore *constrains* production models without *establishing* the filter alternative; it belongs in this catalogue as its costliest anomaly rather than as confirmation.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity in patients with severe neurodegeneration shortly before death—poses a structural challenge for production models. In late-stage Alzheimer's, the cortical substrate has been substantially destroyed, yet lucidity sometimes returns. Batthyány and Greyson's (2021) 124-case survey reported high rates of cognitive remission, but was retrospectively collected from caregiver reports, with the selection bias that invites (dramatic remissions are reported; non-remissions are not) and no controls or standardised assessment. The prospective era has since arrived, and it has not vindicated the filter reading. Tollock et al. (2025) followed 151 patients with moderate-to-severe dementia across three sites and recorded 267 lucidity events in 93 of them—so the phenomenon is real and capturable in advance—but measured no neural activity during episodes and listed medication changes among potential triggers, a physical route. Terminal lucidity therefore *constrains* production models without *establishing* the filter alternative; it belongs in this catalogue as its costliest anomaly rather than as confirmation.
 
 ### Covert Consciousness
 

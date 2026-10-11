@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-10-02 16:44:22+00:00
+ai_modified: 2026-10-11 03:39:43+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 apex_last_synthesis: 2026-10-02 16:44:22+00:00
 apex_sources:
@@ -51,7 +51,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:52:48+00:00
-lastmod: 2026-10-02 16:44:22+00:00
+lastmod: 2026-10-11 03:39:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +134,7 @@ Three further phenomena bear on the interface, each with its interpretation held
 
 ### Terminal Lucidity: The Interface Near Collapse
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of memory, orientation, and coherent speech in patients with severe neurodegeneration, often shortly before death—is the cluster's steepest single-phenomenon cost, and the one where honesty matters most. Severe documented damage paired with dramatic cognitive return strains the production model's monotonic prediction that less substrate means less capacity. But the first prospective study (Tollock et al., 2025, so far a meeting abstract; 151 enrolled, 93 with a lucidity event across 267 events) points *away* from the filter reading, not toward it: the events are predominantly brief and trigger-linked, with the dramatic terminal subtype only 4.1% of them, and the authors frame the finding mechanism-neutrally as "a network-level return of cognitive function despite severe dementia." Terminal lucidity therefore *constrains* the production account without *establishing* the filter alternative—the prospective data is more consistent with a neurochemical reading than with interface loosening. Its place in the catalogue is as the costliest anomaly, not confirmation.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of memory, orientation, and coherent speech in patients with severe neurodegeneration, often shortly before death—is the cluster's steepest single-phenomenon cost, and the one where honesty matters most. Severe documented damage paired with dramatic cognitive return strains the production model's monotonic prediction that less substrate means less capacity. But the prospective record does not point toward the filter reading. Tollock et al. (2025, so far a meeting abstract; 151 enrolled, 93 with a caregiver-logged lucidity event across 267 events) confirm the episodes but report no durations, severity or timing relative to death, and their 4.1% "terminal lucidity" category is defined by near-death-experience-like content, not proximity to death. They recorded no neural activity during episodes, and their one mechanistic lead—medication changes among the potential triggers—is a physical route. Terminal lucidity therefore *constrains* the production account without *establishing* the filter alternative. Its place in the catalogue is as the costliest anomaly, not confirmation.
 
 ## The Convergence Matrix
 

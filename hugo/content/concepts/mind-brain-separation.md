@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-30 12:13:01+00:00
+ai_modified: 2026-10-11 03:39:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 19:22:00+00:00
-lastmod: 2026-09-30 12:13:01+00:00
+lastmod: 2026-10-11 03:39:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ William James, Henri Bergson, and Aldous Huxley each proposed that the brain's r
 
 The framework accounts for why brain damage produces specific deficits (damaged filter components), why qualia resist physical explanation (they are not outputs of the filter), and why [dreams](/topics/dream-consciousness/) can construct perceptual worlds without external input. Consciousness also persists through massive neural loss, as [hemispherectomy](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) shows—though that case carries less weight than the simple subtraction argument implies, since most hemispherectomies are paediatric and reorganisation in the surviving hemisphere explains the preserved unity without appeal to a non-physical mind.
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of cognitive clarity in patients with severe neurodegeneration—raises the steepest explanatory cost on production models of any single anomaly, but its evidential force is constraint rather than confirmation: it rules out the simplest production model, on which neural substrate and cognitive capacity vary monotonically, without *establishing* the filter alternative. The first prospective study found only 4.1% of recorded events met a terminal-lucidity definition, most of them brief and trigger-linked, so the early prospective evidence points away from, not toward, the filter interpretation.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of cognitive clarity in patients with severe neurodegeneration—raises the steepest explanatory cost on production models of any single anomaly, but its evidential force is constraint rather than confirmation: it rules out the simplest production model, on which neural substrate and cognitive capacity vary monotonically, without *establishing* the filter alternative. Prospective studies in dementia (Tollock et al., 2025; Gilmore-Bykovskyi et al., 2025) confirm that lucid episodes occur, but neither recorded neural activity during one, and the larger lists medication changes among potential triggers, a physical route, so the early prospective evidence does not point toward the filter interpretation.
 
 The disruptive states carry a symmetric burden these explanatory successes obscure. Anaesthesia and dreamless sleep are cases the filter reading must *accommodate*—the interface narrows, or its bandwidth falls toward zero, while the consciousness it filters is untouched (see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/))—rather than cite as further confirmations, and the same move is available to production theorists for the cases that appear to favour the filter. Because both framings make structurally identical accommodations, the altered-state cluster carries the evidential weight of one pattern rather than four independent confirmations. The filter theory's advantage lies not in the count of cases it absorbs but in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
 
@@ -160,3 +160,5 @@ The mind-brain separation framework would face serious difficulty if:
 6. Huxley, A. (1954). *The Doors of Perception*.
 7. Ajina, S., & Bridge, H. (2016). Blindsight and unconscious vision: What they teach us about the human visual system. *The Neuroscientist*, 23(5), 529–541.
 8. Demirel, Ç., et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20), e2237242025.
+9. Tollock, M., Leontovich, N., Gonzalez, A., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Supplement_2), igaf122.2914. https://doi.org/10.1093/geroni/igaf122.2914
+10. Gilmore-Bykovskyi, A., Kottler, H., Cochran, A., Dillon, K., Coulson, A., Benson, C., Fehland, J., & Mueller, K. (2025). A prospective observational study of lucid episodes in advanced dementia. *The Gerontologist*, 65(9), gnaf178. https://doi.org/10.1093/geront/gnaf178
