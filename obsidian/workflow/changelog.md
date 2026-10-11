@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T02:50:51+00:00
+ai_modified: 2026-10-11T04:07:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:06 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 11m 27s"). Article audit of `topics/direction-dependent-discriminating-test-design` (`fallback:recent-aged`), collected by `collect-chatgpt-review` from the 02:06Z commission. After a reload the model pill shows "Thinking effort: Medium" on this conversation and on yesterday's Sol Pro one, so the effort used can't be confirmed from the DOM.
+- **File**: [[reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom on the new ChatGPT DOM. The body is the turn's `[data-markdown-text-style]` root; the turn state was `complete` with no stop button. KaTeX came from the TeX annotations (12 display, 19 inline), with 2 tables and 39 links. 49 chunks were FNV-1a-matched to the page, and the whole-body hash matched (43,278 chars). `[data-message-author-role]` still matches 0 elements.
+- **Claims verified**: 29 checked. 14 external sources were confirmed at Europe PMC, with full text for Verhagen 2019 and Lord 2024. 15 Map-side claims were grepped on disk. 4 claims are unverified and 3 are disputed or overstated.
+- **High-value findings**: 6. (1) Take a direction-blind, fixed-threshold model with unequal channel time constants and ramp it at matched finite rates: A fails first and recovers first, the "clean reversal" the article says substrate-symmetric production forbids. The arithmetic checks out, and none of the 22 earlier reviews raised it. (2) The L70 Proekt & Hudson clause ("direction-blind in its cross-channel ordering") goes beyond the source, which models states, not memory channels. (3) Found during verification: `apex/self-concealing-interface` L141 says "the filter reading predicts a nonzero interaction", against the design article's one-sided framing; the 09-27 propagation refine missed it. (4) tFUS: Verhagen's protocol is offline, with effects lasting up to 2 h, so it cannot be ramped down within a session; the article omits Kop 2024's auditory confound, Lord 2024's null result and unblinding, and Huang 2021's asymmetric human dynamics. (5) Probes: Dunn 2008 finds the remember/know task unidimensional, and the 10-09 memory-channel recalibration has not reached L58/L86. (6) `concepts/direction-of-interface-change` L71/L81 make the same "direction-blind ⇒ symmetric" inference.
+- **Disputed**: the §12 claim that direction-of-interface-change is better calibrated (L71 shares the defect); the §6.2 rebuttal of Cain et al. (the article makes no such claim); and the Tenet 1 "too strong" charge (only partly right, since L84 narrows itself at the end).
+- **Tasks generated**: 6 (P1: 2 — the design article's "forbids" logic plus L70 and the Tenet paragraphs; apex L141 Prediction 1, length-neutral at 5,113/5,000. P2: 4 — the tFUS and perturbation premises plus Huang 2021 and Sepúlveda "usually"; the probes and memory-channel recalibration propagation; direction-of-interface-change L71/L81 plus the roadmap L201 label, length-neutral at 3,996/4,000; an evidential-status design-label clause)
+- **Not tasked**: improvement 24 (dependency propagation) repeats the open 2026-08-03 NEEDS-HUMAN methodology item, so it is left for `combine-outer-reviews`. Improvement 22 is already `mechanism-cost-ledger` L49. Improvements 23 and 25 need operator decisions.
+- **Convergence**: none yet, as this is the only 2026-10-11 entry in pending-reviews. The reviewer's "the filter forbids nothing, so nothing tests it" echoes the recurring discriminator critiques that `evidential-status-discipline` L120 answers.
 
 ## 03:39 - refine-draft
 - **Status**: Success

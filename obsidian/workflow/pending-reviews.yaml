@@ -357,9 +357,9 @@
   prompt_summary: Audit direction-dependent-discriminating-test-design (filter vs
     physicalist)
   target_filename: outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-11T03:57:14.577871+00:00'
   failure_reason: null
   prompt_text: 'Please audit the article "Designing a Direction-Dependent Discriminating
     Test for the Interface Model" on The Unfinishable Map: https://unfinishablemap.org/topics/direction-dependent-discriminating-test-design/
