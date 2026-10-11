@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-03 03:28:56+00:00
+ai_modified: 2026-10-11 07:58:23+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-10-03 03:28:56+00:00
+lastmod: 2026-10-11 07:58:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: Hameroff challenged Tegmark's parameters; quantum biology shows that functionally relevant quantum effects can occur in warm, wet systems—the surviving case being avian magnetoreception, since Duan et al. (2017) found photosynthetic light-harvesting to involve electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. That precedent establishes that warm-wet biology is not a blanket barrier to quantum effects—but it is precedent, not licence: cryptochrome's spin coherence persists for microseconds in a purpose-built photoreceptor, and nothing in it shows that the much longer-lived, neuron-scale coherence interactionism would need is realised in the brain. The work of arguing for that remains to be done. Crucially, [decoherence](/concepts/decoherence/) explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map prefers the post-decoherence-selection framing on tenet-fit grounds (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)) precisely because it does not require coherence to survive the decoherence the objection invokes.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: Hameroff challenged Tegmark's parameters; quantum biology indicates that functionally relevant quantum effects can occur in warm, wet systems—the surviving case being avian magnetoreception, since Duan et al. (2017) found photosynthetic light-harvesting to involve electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. That precedent establishes that warm-wet biology is not a blanket barrier to quantum effects—but it is precedent, not licence: the leading but unsettled compass model needs tens-of-microseconds spin coherence in cryptochrome, a purpose-built photoreceptor, and nothing in the precedent shows that the much longer-lived, neuron-scale coherence interactionism would need is realised in the brain. The work of arguing for that remains to be done. Crucially, [decoherence](/concepts/decoherence/) explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [amplification void](/voids/amplification-void/). The Map prefers the post-decoherence-selection framing on tenet-fit grounds (see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)) precisely because it does not require coherence to survive the decoherence the objection invokes.
 
 ## Agent Causation: The Metaphysical Framework
 

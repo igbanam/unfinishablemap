@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-10-08T14:25:22+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ See [[decoherence]] for comprehensive analysis. Two distinct questions arise, an
 
 Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
 
-**Biology exploits quantum effects, but the neural case is unproven.** [[radical-pair-magnetoreception|Avian magnetoreception]] (spin coherence) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [[quantum-biology-and-neural-mechanisms|Quantum biology]] establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
+**Biology exploits quantum effects, but the neural case is unproven.** [[radical-pair-magnetoreception|Avian magnetoreception]] (spin coherence, unsettled) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [[quantum-biology-and-neural-mechanisms|Quantum biology]] indicates evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous, though each still needs a quantum state to act on.
 

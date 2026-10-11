@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-10 18:36:44+00:00
+ai_modified: 2026-10-11 07:58:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:22:00+00:00
-lastmod: 2026-10-10 18:36:44+00:00
+lastmod: 2026-10-11 07:58:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The evidence surveyed below is not a uniform support pillar for the Map's [Minim
 
 Max Tegmark's influential 2000 calculation estimated that [decoherence](/concepts/decoherence/) would destroy the neural superpositions orchestrated-objective-reduction (Orch OR) requires (microtubule conformational states, ion superpositions in open neural membranes) in femtoseconds (10⁻¹³ seconds), twelve orders of magnitude faster than the millisecond timescales of neural processing. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable. As the [decoherence section below](#the-decoherence-debate-today) clarifies, the calculation does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different objections.
 
-The assumption proved false. Nature had already solved the decoherence problem multiple times:
+Warm biology has since offered candidate counterexamples, fewer than once claimed:
 
 **[Avian magnetoreception](/concepts/radical-pair-magnetoreception/)** is the strongest surviving case, though its in vivo implementation is unsettled: the leading model has cryptochrome radical pairs sustaining spin coherence for tens of microseconds. Denton et al. (2024) modelled how the [quantum Zeno effect](/concepts/stapp-quantum-mind/) can enable this magnetosensitivity (a computational result rather than an experimental measurement; see also Luo et al., 2025). This indicates that warm Zeno-type quantum effects *can* occur in a specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 

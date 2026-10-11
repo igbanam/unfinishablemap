@@ -4,7 +4,7 @@ description: "The hypothesis that consciousness acts on the brain through phenom
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,7 +199,7 @@ COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets 
 
 **The Stochastic Pre-State Challenge**: Pre-decision EEG alpha activity predicts free choices ~1000ms before participants decide. As with the [[libet-experiments]]: stochastic activity provides options; consciousness selects among them. Neural activity preceding choice does not show it *causes* choice in a way that excludes conscious selection.
 
-**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Hagan et al. (2002) recalculated coherence times far longer, though Reimers et al. (2009) and McKemmish et al. (2009) contested those parameters in turn—the dispute is live, not settled either way; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [[quantum-neural-timing-constraints]].
+**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Hagan et al. (2002) recalculated coherence times far longer, though Reimers et al. (2009) and McKemmish et al. (2009) contested those parameters in turn—the dispute is live, not settled either way; biological precedent (avian magnetoreception, though unsettled) indicates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [[quantum-neural-timing-constraints]].
 
 **The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
 

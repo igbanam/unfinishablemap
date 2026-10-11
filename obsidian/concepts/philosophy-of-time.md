@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-10-05T12:35:41+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ Three responses preserve the framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out through environmental entanglement. But it doesn't explain why we see *definite* outcomes rather than superpositions of ourselves observing different results. As Tomaz, Mattos, and Barbatti (2025) note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." The selector problem remains—and consciousness remains a candidate selector, acting after decoherence has selected preferred bases.
 
-**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds—a million times longer than molecular decoherence in solution. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
+**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, avian magnetoreception needs radical-pair spin coherence lasting tens of microseconds—a million times longer than typical molecular decoherence in solution. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The Zeno mechanism shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers. For time-constitution specifically, each rapid observation event contributes to temporal structure; the succession of Zeno observations *is* the microstructure of experienced time.
 

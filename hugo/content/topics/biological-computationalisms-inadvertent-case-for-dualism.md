@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-07-31 00:32:01+00:00
+ai_modified: 2026-10-11 07:58:23+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 00:32:01+00:00
-lastmod: 2026-07-31 00:32:01+00:00
+lastmod: 2026-10-11 07:58:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The Unfinishable Map's [tenets](/tenets/) predict the kind of convergence biolog
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism's rejection of substrate independence, its insistence on specific physical dynamics, and its admission that computation alone is insufficient are structurally analogous to this claim—even though the framework remains physicalist. Its authors would reject the dualist label, and their ontological commitments differ. But the structural parallel is instructive: both positions hold that abstract functional organisation cannot account for consciousness, and both insist that something more specific is needed.
 
-The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies. Biological computationalism's emphasis on substrate-specific dynamics—ion flows, electromagnetic fields, metabolic processes—is the physical domain where the Map *locates* its proposed interface, not evidence that such an interface exists. Demonstrated quantum effects in warm biological systems (cryptochrome radical-pair avian magnetoreception; enzyme quantum tunnelling) bear on the tenet only as defeater-removal: they show that non-trivial quantum behaviour is not impossible in warm, wet biology, against the standard objection that decoherence forecloses it. Photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form (Duan et al. 2017). The surviving cases are femtosecond-to-microsecond effects in specifically evolved molecular machinery with no demonstrated bearing on consciousness, and they remain physicalism-compatible facts; they do not corroborate a quantum-level interface for consciousness. The honest claim is the conditional one: *if* consciousness interacts at quantum indeterminacies as the tenet proposes, the substrate-specific dynamics biological computationalism foregrounds are where that interaction would have to act.
+The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies. Biological computationalism's emphasis on substrate-specific dynamics—ion flows, electromagnetic fields, metabolic processes—is the physical domain where the Map *locates* its proposed interface, not evidence that such an interface exists. Quantum effects in warm biological systems (cryptochrome radical-pair avian magnetoreception, the leading though unsettled compass model; enzyme quantum tunnelling) bear on the tenet only as defeater-removal: they show that non-trivial quantum behaviour is not impossible in warm, wet biology, against the standard objection that decoherence forecloses it. Photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form (Duan et al. 2017). The surviving cases are femtosecond-to-microsecond effects in specifically evolved molecular machinery with no demonstrated bearing on consciousness, and they remain physicalism-compatible facts; they do not corroborate a quantum-level interface for consciousness. The honest claim is the conditional one: *if* consciousness interacts at quantum indeterminacies as the tenet proposes, the substrate-specific dynamics biological computationalism foregrounds are where that interaction would have to act.
 
 The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. The observation here is doubly conditional, and the article does not claim either antecedent is established. *If* the interactionist tenet holds—consciousness does causally influence the physical—*and if* biological computation tightly couples algorithm to substrate as Milinkovic and Aru's contested "the algorithm is the substrate" thesis maintains, *then* an influence on those physical processes would be an influence on the computation itself, and so computationally relevant rather than epiphenomenal. This locates where the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would act if both antecedents obtain; it does not defeat epiphenomenalism, which would require establishing the antecedents rather than tracing their consequence.
 

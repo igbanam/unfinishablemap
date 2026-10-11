@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead a
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-08-17T06:40:46+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-07-25T16:45:57+00:00
 ---
 
-Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest empirical grounding—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. That precedent establishes that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([[positions/quantum-interface]] P-Q8). Microtubule coherence draws on anesthetic studies and room-temperature super-radiance results, each of which the Map grades as contested rather than confirmatory—the line-by-line grading lives in [[quantum-biology-and-neural-consciousness#the-calibration-table|the quantum biology survey's calibration table]]—and the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
+Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest empirical grounding—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception, on its leading though unsettled radical-pair model, provides a biological precedent. That precedent indicates that the warm-biology regime is real; it does not license the neural case, and the Map corrects citations that read it as support rather than precedent ([[positions/quantum-interface]] P-Q8). Microtubule coherence draws on anesthetic studies and room-temperature super-radiance results, each of which the Map grades as contested rather than confirmatory—the line-by-line grading lives in [[quantum-biology-and-neural-consciousness#the-calibration-table|the quantum biology survey's calibration table]]—and the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
 
 ## The Evidence Hierarchy
 
@@ -61,7 +61,7 @@ Radical pair mechanisms have the firmest empirical grounding among quantum neura
 
 **Behaviourally attested precedent.** [[radical-pair-magnetoreception|Avian magnetoreception]]—how migratory birds orient by Earth's magnetic field—is attested in behaviour: night-migratory robins lose their bearings under weak radiofrequency fields that a magnetite compass would ignore, which is the signature pointing to spin chemistry. Several distinct claims run together in that result and are worth separating. The magnetosensitivity itself is measured. The radical-pair account of it is the leading model rather than a settled finding, and cryptochrome—likely Cry4a—remains the candidate host molecule, with isolated cryptochrome showing weaker in-vitro magnetic sensitivity than the behaviour requires. Which particular radical pair carries the effect is modelled, not measured in a functioning retina. Nothing in the result reaches neural tissue: the sensor is a photoactivated molecule in the retina. And the picture of birds seeing the field, directional information overlaid on vision, is a perceptual claim the cited work leaves untouched. What the precedent does establish is the regime—coherent spin dynamics producing a macroscopic biological output at body temperature ([[positions/quantum-interface]] P-Q8).
 
-**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur in warm tissue at all—though a microsecond still falls roughly three orders short of the millisecond scale at which neural processing operates, and whether radical pairs participate in computation remains unestablished.
+**Microsecond coherence times.** On the leading model, spin-correlated radical pairs need coherence lasting at least microseconds (10⁻⁶ seconds), nine orders of magnitude longer than the femtosecond (10⁻¹⁵ s) scale Tegmark's calculations assign to neural superpositions—and fourteen orders longer than his 10⁻²⁰-second figure for ion channels specifically. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. If that model holds, radical pairs show that biologically relevant quantum coherence can occur in warm tissue at all—though a microsecond still falls roughly three orders short of the millisecond scale at which neural processing operates, and whether radical pairs participate in computation remains unestablished.
 
 **Experimental accessibility.** The mechanism is testable: magnetic field perturbations, light wavelength manipulation, and cryptochrome knockouts all produce predictable effects.
 
@@ -187,7 +187,7 @@ If quantum signatures track consciousness level while classical neural activity 
 | Stapp Zeno | None (discrete observations) | N/A | Sidesteps problem |
 | SNARE tunneling | Instantaneous events | Femtoseconds (sufficient) | Adequate if real |
 | Ion tunneling | Instantaneous events | Femtoseconds (sufficient) | Adequate if real |
-| Radical pairs | Microseconds | 10⁻⁶ s (demonstrated) | Verified |
+| Radical pairs | Microseconds | ≥10⁻⁶ s (model-inferred) | Leading model, unsettled |
 | Microtubules (revised) | 10-100 μs | 10⁻⁵ to 10⁻⁴ s (disputed) | Plausible |
 | Posner molecules | Hours | Minutes to days (disputed) | Unknown |
 

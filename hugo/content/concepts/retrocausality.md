@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-30 12:13:01+00:00
+ai_modified: 2026-10-11 07:58:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-09-30 12:13:01+00:00
+lastmod: 2026-10-11 07:58:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ How do retrocausal influences propagate through systems that have undergone [dec
 
 (2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer. Hagan cannot be cited as a closed rebuttal, however: Reimers et al. (2009) and McKemmish et al. (2009) re-derived the recalibration and found its parameter assumptions either rely on dielectric properties of microtubules that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled, and no experiment has directly measured coherence times in living neural tissue. See [the decoherence article](/concepts/decoherence/) for full analysis of the Tegmark-Hameroff-Reimers-McKemmish debate and recent experimental developments.
 
-(3) **Biological quantum effects demonstrate that evolution can exploit coherence.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
+(3) **Biological quantum effects indicate that evolution can exploit coherence.** On the leading but unsettled model, avian magnetoreception needs radical-pair spin coherence lasting tens of microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
 
 The transactional picture adds a subtlety: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual. But this framework depends on the transactional interpretation being correct, and the decoherence challenge applies to any quantum consciousness mechanism that retrocausality is paired with.
 

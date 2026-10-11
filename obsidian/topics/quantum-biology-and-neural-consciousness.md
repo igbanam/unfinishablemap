@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-10T18:36:44+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ The evidence surveyed below is not a uniform support pillar for the Map's [[tene
 
 Max Tegmark's influential 2000 calculation estimated that [[decoherence]] would destroy the neural superpositions orchestrated-objective-reduction (Orch OR) requires (microtubule conformational states, ion superpositions in open neural membranes) in femtoseconds (10⁻¹³ seconds), twelve orders of magnitude faster than the millisecond timescales of neural processing. The [[timing-gap-problem|timing gap]] appeared unbridgeable. As the [[#the-decoherence-debate-today|decoherence section below]] clarifies, the calculation does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different objections.
 
-The assumption proved false. Nature had already solved the decoherence problem multiple times:
+Warm biology has since offered candidate counterexamples, fewer than once claimed:
 
 **[[radical-pair-magnetoreception|Avian magnetoreception]]** is the strongest surviving case, though its in vivo implementation is unsettled: the leading model has cryptochrome radical pairs sustaining spin coherence for tens of microseconds. Denton et al. (2024) modelled how the [[stapp-quantum-mind|quantum Zeno effect]] can enable this magnetosensitivity (a computational result rather than an experimental measurement; see also Luo et al., 2025). This indicates that warm Zeno-type quantum effects *can* occur in a specialised molecular architecture—a photoactivated retinal radical-pair sensor—not that the microtubule or consciousness-interface proposals inherit that support. The precedent is for the *mechanism category*, not for any neural deployment of it.
 

@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-08-17T06:40:46+00:00
+ai_modified: 2026-10-11T07:58:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,11 +53,11 @@ coalesced_from:
   - "/concepts/quantum-neural-mechanisms-and-coherence/"
 ---
 
-Quantum biology has established that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Avian magnetoreception and enzyme catalysis are the surviving functional cases, with olfaction unresolved; photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form ([[#photosynthesis|revised below]]). Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [[quantum-consciousness|quantum consciousness theories]]. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require physical holism, with quantum entanglement among the candidate mechanisms that could supply it.
+Quantum biology indicates that warm, wet biological systems harness quantum effects—undermining the categorical claim that quantum consciousness is impossible. Avian magnetoreception (on its leading but unsettled model) and enzyme catalysis are the surviving functional cases, with olfaction unresolved; photosynthetic energy transfer, long cited alongside them, no longer serves in its long-lived-electronic-coherence form ([[#photosynthesis|revised below]]). Building on this biological precedent, five distinct quantum mechanisms have been proposed for neural systems, with four coherence protection strategies that may shield quantum states from thermal destruction. The Unfinishable Map's interest is not commitment to any specific mechanism but recognition that these biological precedents remove the standard objection to [[quantum-consciousness|quantum consciousness theories]]. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require physical holism, with quantum entanglement among the candidate mechanisms that could supply it.
 
 ## The "Warm, Wet, and Noisy" Objection
 
-The standard objection to [[quantum-consciousness]] holds that brain tissue is too warm, wet, and noisy for quantum effects. [[decoherence|Decoherence]] destroys superpositions in femtoseconds under biological conditions, while neural processes operate on millisecond timescales. Quantum biology has proved this objection's core assumption—that biology cannot exploit quantum effects—false.
+The standard objection to [[quantum-consciousness]] holds that brain tissue is too warm, wet, and noisy for quantum effects. [[decoherence|Decoherence]] destroys superpositions in femtoseconds under biological conditions, while neural processes operate on millisecond timescales. Quantum biology has undercut this objection's core assumption—that biology cannot exploit quantum effects.
 
 ## Quantum Biological Effects and Their Standing
 
@@ -69,11 +69,11 @@ The measurement itself stands, and that residue matters: electronic coherence wa
 
 ### Avian Magnetoreception
 
-Migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. Spin coherence persists for microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
+On the leading but unsettled model, migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. The model needs spin coherence lasting tens of microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
 
 Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though the tightly bound FAD–superoxide pair it models needs only about 700 ns of coherence — some three orders of magnitude below neural firing timescales, and a shorter budget than the tens of microseconds the well-separated compass pair requires ([[radical-pair-magnetoreception|radical-pair magnetoreception]]).
 
-Selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
+If the leading model holds, selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
 
 ### Enzyme Quantum Tunneling
 
@@ -117,7 +117,7 @@ These five mechanisms need not operate independently—their combination could e
 
 ## Five Neural Quantum Mechanisms
 
-**1. Radical pair effects in neural cryptochromes**: The radical pair mechanism established in avian magnetoreception may extend to neural tissue. Whether cryptochromes function beyond magnetoreception in cognition remains uncertain.
+**1. Radical pair effects in neural cryptochromes**: The radical pair mechanism, the leading but unsettled model of avian magnetoreception, may extend to neural tissue. Whether cryptochromes function beyond magnetoreception in cognition remains uncertain.
 
 **2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal et al. (2021) modelled tunnelling through the closed hydrophobic gate, drawing implications for epilepsy, cardiac arrhythmias, and pain. Evidence remains primarily theoretical.
 

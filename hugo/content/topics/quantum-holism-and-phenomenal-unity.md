@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-09-30 21:52:22+00:00
+ai_modified: 2026-10-11 07:58:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 19:47:42+00:00
-lastmod: 2026-09-30 21:52:22+00:00
+lastmod: 2026-10-11 07:58:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -123,7 +123,7 @@ The standard objection to quantum consciousness is [decoherence](/concepts/decoh
 
 This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium, which living tissue does not maintain. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer** than Tegmark calculated. But two distinct 2009 feasibility critiques press from other directions: Reimers et al. found the coherent Fröhlich condensation Orch OR needs inaccessible in living tissue, and McKemmish et al. found tubulin lacks the rapid conformational switching its qubits require. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
-The biological precedent strengthens the case. [Avian magnetoreception](/concepts/radical-pair-magnetoreception/) relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures; Luo et al. (2025) provided computational support via QM/MM simulations showing protein and solvent reorganization stabilizes the separated radical pair underlying this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
+The biological precedent strengthens the case. The leading but unsettled [avian compass](/concepts/radical-pair-magnetoreception/) model needs tens-of-microseconds spin coherence in cryptochrome at biological temperatures; Luo et al. (2025) provided computational support via QM/MM simulations showing protein and solvent reorganization stabilizes the separated radical pair underlying this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
 A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach proposes that repeated attentional "observations" hold a state in place. Denton et al. (2024) modelled in *Nature Communications* how Zeno dynamics enable magnetosensitivity in cryptochrome radical pairs, but there the "observation" is spin-selective recombination, a chemical reaction, and the model still needs ~700 ns coherence. That is a computational precedent for the mechanism category, not an attentional or neural demonstration.
 
