@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T04:58:35+00:00
+ai_modified: 2026-10-11T05:12:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:12 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-11
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, gemini-2-5-pro). Both audited `topics/direction-dependent-discriminating-test-design` (`fallback:recent-aged`; Gemini reused ChatGPT's subject). The Claude leg was not commissioned (backoff to 2026-10-14T04:00Z) and has no pending entry.
+- **Clusters**: 2 convergent, both inside the open design-article P1. (1) "Forbids" holds only for a static, history-independent model: ChatGPT's verified lag counterexample and Gemini's path dependence. (2) Documented emergence circuitry (orexin, Kelz 2008; KCC2, Hu 2023) is booked at L50/L74 as a production cost. 1 convergent but recorded only: no ordering exposes the filter reading. The article concedes this at L38/L48/L76, and Gemini's half rests on a quote found on no content page. 0 singletons from Gemini (its §5–8 are off-article, untasked); 5 ChatGPT tasks left as they were. 2 divergent: what the article claims (candid-but-overreaching vs "decisive evidence"; the text sides with ChatGPT) and whether the design can be saved (model ladder vs reject). 3 near-misses not scored: the neural-inertia paragraph, "strawman production", stale literature.
+- **Adjudication before clustering**: every disputed Gemini characterisation was grepped against the live article (0 hits each for "interface friction", "decisive", "unified-switch", REBUS). Both prompts asked whether physicalist models already predict the asymmetry. The scored weight therefore rests on the verified specifics (lag arithmetic; Kelz 2008, Hu 2023), not on the reviewer count.
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0). The design-article P1 was rewritten with `Review files`, a `Synthesis` field and pointer, a convergent Notes preamble and an extended `Source`. The direction-of-interface-change propagation P2 stays P2, because Gemini never read that page (the 2026-09-09 rule). Open P1s: 2, both from this cycle.
+- **Tasks deduplicated**: 0
+- **NEEDS-HUMAN addendum**: ChatGPT improvement 24 recorded as the 7th-cycle (single-reviewer) addendum to the 2026-08-03 propagation entry, with two verified instances: `37fc8c1630` (the memory-channel recalibration has not reached the design article) and `9ef0ee3e0e` (fixed apex L127 but left L141). The second is a new sub-pattern: the pass reached the right file but fixed only the sentence it was pointed at.
+- **Pointer check**: `parse_tasks` returns 78 active tasks before and after; the rewritten P1 keeps a non-`None` review pointer.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-11]]
 
 ## 04:58 - outer-review
 - **Status**: Success
