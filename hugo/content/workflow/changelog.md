@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 15:53:23+00:00
+ai_modified: 2026-10-11 16:22:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 15:53:23+00:00
+lastmod: 2026-10-11 16:22:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:22 - refine-draft
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Review file**: outer-review-2026-10-11-chatgpt-5-6-sol-pro (P2: channel observables and premises; ran after the P1 lag-rival rewrite and the tFUS P2)
+- **Original score**: not run (`scripts/curate.py` absent)
+- **Word count**: 3,683 → 3,886 (+203) by `analyze_length`, references included. The budget was +316. Hard limit is 4,000 with a `>=` gate, so 113 words remain.
+- **Changes**:
+  1. Probing ingredient: brought in the targeted-lesion design's caveat that the probes "were not designed for tight cross-channel comparison under focal perturbation", with a link. Named the scale differences (response format, chance level, reliability, decision criterion). Without a measurement model (fitted psychometric curves, matched formats where possible, reliability estimates) the order read off the probes is an order of behavioural thresholds, not of latent channels. Added that the probe-to-channel mapping is contested: Dunn 2008 (remember-know, "little or no evidence of bidimensionality") and Kim 2026 (source memory, "familiarity-like, not recollection-like").
+  2. Same ingredient: named practice effects (retrieval practice, familiarity, strategy) as a further physical route to a direction effect. The second phase measures someone the first phase changed, and a sham run through the same probe schedule must estimate it. The reversal criterion in "What a Result Would and Would Not Settle" now reads "net of practice effects".
+  3. Target-channel ingredient: propagated `37fc8c1630`. The autonoetic channel's high cost is now a working assumption. The source article holds the ordering as "a hypothesis with exceptions, not an established cross-condition finding" and ranks cost partly by that ordering, so no result here can confirm the cost ranking without circularity. The selectivity sentence was tightened to avoid a third "working assumption"; its posited-not-established content and its precondition clause are unchanged, so "So is target engagement" still parses.
+  4. Production-reading paragraph: the autonoetic-most-vulnerable ordering was stated as fact. It is now "the Map's conjectured ordering".
+  5. Tenet 3 paragraph: "Subject-participation", like channel cost, has no independent measure. This propagates the same circularity in three words; the P1's working-assumption framing is unchanged.
+  6. Trim: cut the companion paragraph's closing sentence (the "turned on and off within one subject … stand alone" restatement), which the reversible-perturbation ingredient already says. Not trimmed: the "multistate rival is more formidable" sentence (2026-06-16 citation fix) and "evidential grade on one axis" (quoted as a strength in optimistic-2026-09-25).
+  7. References: added Dunn 2008 and Kim 2026. Left out the optional Sant'Anna, Michaelian & Andonovski 2024 clause to stay well under budget.
+- **Verification**: Dunn (PMID 18426296), Kim (PMID 42061891) and Sant'Anna (PMID 37557099) re-verified at Europe PMC and Crossref. Both Dunn phrases appear verbatim in the abstract. Kim's phrase is verbatim from the title, and "often assumed to reflect strong, recollective retrieval" in the abstract supports "often read as recollective". Sant'Anna was issued online in 2023, with print in 2024 (vol. 15).
+- **Engagement classification**: not applicable; no named-opponent reply changed.
+- **Published**: yes
 
 ## 15:53 - refine-draft
 - **Status**: Success
