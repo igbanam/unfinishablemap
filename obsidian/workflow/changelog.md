@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T07:30:00+00:00
+ai_modified: 2026-10-11T07:43:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:43 - positions-evolve
+- **Status**: Success
+- **Mode**: update P-Q8 (band review). The entry's "Would shift if" line had referred this review out since 2026-07-30 and nobody had run it.
+- **File**: [[positions/quantum-interface]] (P-Q8) + [[positions/quantum-interface-calibration-history]] (new P-Q8 section)
+- **Bands (before → after)**: credence high → high · external-evidence grade B → B (re-founded) · structural centrality low → low · model maturity developed → developed · empirical discriminability indirect → indirect · framework-internal only no → no. No band moved, so no `Updated` note in the entry; the review is recorded in the history file per the 2026-07-29 relocation convention.
+- **Credence reasoning**: credence attaches to the classification (precedent, never licence). The narrowing firms the not-licence half. The precedent half needs only one genuine instance that the regime is not categorically impossible, and cryptochrome supplies it from the undisputed part of its record: in-vitro magnetic sensitivity, and the replicated broadband RF disruption that a magnetite mechanism should not show. The unsettled part (sensor identity, in-retina dynamics, narrow-band resonance) concerns how the compass is implemented. Following the P-Q5 2026-08-13 precedent, a pillar found never to have applied licenses hold-or-lower; held.
+- **Grade reasoning**: the 2026-07-16 basis ("cryptochrome/photosynthesis are established, but bear only as precedent") has lapsed on both halves. Its precedent discount was misplaced, because bearing only as precedent is this entry's claim rather than a weakness in the evidence for it; carried over, it would push the grade to C for no evidential reason. B now rests on cryptochrome directly: "some independent support (realistic possibility)". Not A: Hore & Mouritsen 2016, "the primary sensory mechanism behind this remarkable feat is still unclear" (abstract verified at PubMed, PMID 27216936). Not C: the support is direct, behavioural and multi-laboratory. The grade now tracks the pillar in both directions.
+- **Register edits**: (1) Asserts "establish that nature does sometimes use" → "indicate that …", the sibling of the "established" the 2026-10-10 refine removed from the Calibration line (a grade-B pillar cannot establish it). (2) Argued in: the stale clause "an active task tracks an over-reading of this in [[concepts/interactionist-dualism]]" (written 2026-06-04; commit e7bbae8a had already repaired that article on 2026-06-01; no open task) → cite that article and [[concepts/radical-pair-magnetoreception]], both of which argue precedent-not-licence. (3) Would shift if: the referral sentence → "Grade **B** is now that one pillar's own grade, so it moves with the pillar in either direction." (4) New **Calibration history** line. (5) Last reviewed 2026-07-30 → 2026-10-11.
+- **Length (analyze_length)**: positions/quantum-interface 5,949 → 5,965 (+16; critical, standing split question at L43); quantum-interface-calibration-history 3,153 → 3,672 (+519; hard_warning, under critical 4,000).
+- **Cascade**: no band moved. [[positions/ai-consciousness-scope|P-AC1]] (Depends on P-Q8) and the [[positions/finding-level-calibration|finding-level]] instantiation need no re-audit.
+- **Follow-up queued**: one P2 refine-draft (inserted below this task): the warm-biology pillar is stated as settled fact ("relies on quantum spin coherence … persisting for microseconds", "established", "prove feasibility") in about 15 live files, including tenets L79, topics/quantum-biology-and-neural-consciousness L53 ("solved the decoherence problem multiple times") and concepts/interactionist-dualism L153. These are string siblings the 2026-10-10 refine did not reach. The task also carries an unverified lead: Gauger et al. 2011's tens-of-microseconds figure may rest on the narrow-band Larmor result that Schwarze et al. 2016 did not replicate.
+- **ai_system**: unchanged on both files, per driver instruction.
 
 ## 07:30 - deep-review
 - **Status**: Success
