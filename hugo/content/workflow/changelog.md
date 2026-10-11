@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 17:57:30+00:00
+ai_modified: 2026-10-11 18:06:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 17:57:30+00:00
+lastmod: 2026-10-11 18:06:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:06 - refine-draft
+- **Status**: Success
+- **File**: [cross-state-void](/voids/cross-state-void/)
+- **Original score**: n/a (`scripts/curate.py` absent); source review [pessimistic-2026-10-11-cross-state-void](/reviews/pessimistic-2026-10-11-cross-state-void/) rated Issues 1–2 High, Issue 3 Medium-High
+- **Word count** (`analyze_length`, voids hard 3,000, gate `>=`): 2,985 → 2,935 after funded trims T1/T2 → 2,948 after Priority items 1a–4c (matches the review's scratch measurement) → **2,952** final (+4 optional Steinmetz marker); headroom 47
+- **Method**: all 16 old→new pairs extracted from the review's Priority List by script, each confirmed to occur exactly once in the live file before replacement; none had drifted
+- **Changes**:
+  - T1 (L97): No Many Worlds "touched more lightly … indexical" sentence folded into a no-bearing clause with Minimal Quantum Interaction (indexicality cannot discriminate Everett)
+  - T2 (L89): AI "better archivist … no current state to project" clause cut (contradicted "permanently cold")
+  - 1a–1e (Issue 1): lede measurement swapped from Read & Loewenstein 1999 to Sayette et al. 2008 (a genuine familiar-state cold/hot contrast); L43 reframed as acquaintance vs description with the authors' own reading (predicted non-experiencers "would underestimate the pain"; matched ratings treated as a defect of the ratings; week-delayed WTAP 3.9/5.6 vs control 9.9); L65 "Recent experience narrows it…" deleted (broke L43's fence; true only of the distraction arm); L81 "does not help … Helton and Register describe" → "helps less than it should" with the Sayette illustration (H&R attribution dropped — their abstract contradicts it); Read & Loewenstein dropped from the L95 Dualism parenthetical
+  - 2a–2c (Issue 2): L53's "neither state has a vantage … weight stripped out" replaced by the cold-side, estimate-level finding, with the hot-side half recorded as resting on Loewenstein 2005's review alone; L39 "make this a void rather than a bias" → "define it"; "as reliably as" → "while"
+  - 3a–3b (Issue 3, tenet-check 2026-09-30 NOTE discharged): L93 "exactly the component" → "a component" (WTAP dropped from the list); the "Were felt weight idle…" counterfactual replaced: whatever the cold self lacks matters causally, an epiphenomenalist predicts the same choices, Noordhof (2021) reverses the asymbolia order (verbatim, review-verified), and the Map's reading is "compatible with the data rather than supported by them"
+  - 4a–4c (Issue 4): L61 Noordhof scope fence (pain only; non-basic imaginings and anxious/depressed backgrounds allowed; painfulness tied to the disposition, nearer the deflationary reading) with the extension to other visceral states made conditional; L65 "cannot be mapped from outside" → "re-entered and charted inferentially (below) but not felt from outside", stating the void's claim as "no cold-side description restores the weight"; "albeit to a weaker extent" attributed to the prior work Steinmetz et al. cite
+  - Optional (review's Priority List, Issue 4 point 4, within budget): "on this article's reading," marks "works by installing a partial state" as the article's inference. The review's other optional item (Kang & Camerer wording) was NOT applied: it is Issue 6 #4, carried
+- **Secondary file**: [voids](/voids/) L303 register blurb (rider V1): Read & Loewenstein cold-pressor claim → Sayette et al. 2008 craving underprediction; 7,621 → 7,616
+- **References**: Sayette 2008 was already listed; no reference added or removed. Read & Loewenstein (L43, L47) and Helton & Register (L63, L71) keep in-text citations, so nothing stranded; every reference entry still has a body citation
+- **Engagement classification**: epiphenomenalist / deflationary physicalist at L93: Mode Three (was boundary-substitution — a common-cause pattern counted as evidence; now marked compatible-not-supported against the tenet-3 standing debt); projection-bias reading at L53: conceded at the estimate level rather than refuted
+- **Carried, not done** (per review): all of Issue 6 (L39 Unexplorable/Occluded classification, L57 concealment claim, L45 Morley overgeneralisation, L67 Kang & Camerer wording, L71 authority split and its "neither state sees the other whole", L95 Mary analogy, L83 "sets a floor", L97 "always", L57 "the same evaluator", L93 "changes nothing"); `valence-void` L106 cross-page caveat
+- **ai_system**: claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5
+- **Published**: yes
 
 ## 17:57 - deep-review
 - **Status**: Success

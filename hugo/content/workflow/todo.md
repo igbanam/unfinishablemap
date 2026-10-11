@@ -2234,6 +2234,26 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro.md`
 - **Notes**: HEADROOM: 3,886 of 4,000 after three edits today; this is a FRONTMATTER title change only, so do not touch the body. The lead already names static-threshold production as what the design excludes, and multistable dynamics and emergence circuitry as surviving rivals. Qualify the title accordingly, e.g. "Designing a Direction-Dependent Test Against Static-Threshold Production", and check the description agrees. Grep live pages whose link text copies the old title and REPORT them; do not edit them. Read the "**Design labels (2026-10-11).**" paragraph at the end of "## Compatibility vs. Support at the Rival-Model Interface" in `project/evidential-status-discipline` first. Do NOT change the slug. Locate by QUOTED text. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P2: `topics/mechanism-costs-dualism-thickness-quadrants` L184 cites Saad (2025) as "Delegatory Dualism." — no such title; the paper is "A dualist theory of experience", *Philosophical Studies* 182(3-4), 939–967
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/mechanism-costs-dualism-thickness-quadrants.md
+- **Status**: pending
+- **Source**: deep-review 2026-10-11 17:57Z of `topics/completeness-in-physics-under-dualism` (sibling follow-ups; driver confirmed strings and Crossref 18:0xZ)
+- **Generated**: 2026-10-11
+- **Review file**: `reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism.md`
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/research/min-max-dualism-taxonomy-2026-04-21.md
+- **Notes**: TWO FILES, report each. Crossref (driver, 2026-10-11) for doi 10.1007/s11098-025-02290-3: "A dualist theory of experience", *Philosophical Studies* 182(3-4), 939–967, author Saad. "Delegatory dualism" is the NAME of the view, not the title. Replace reference 8 at mechanism-costs L184 ("8. Saad, B. (2025). \"Delegatory Dualism.\" Summary: …") with the full Crossref citation in the format `topics/delegatory-dualism` L269 already uses; keeping the research-note summary link is optional. In `research/min-max-dualism-taxonomy-2026-04-21` fix the L302 reference the same way. The L148 heading and L280 table row use the view name as a label: change them to "Saad, delegatory dualism (2025)" or leave them and REPORT. Driver grep found no other live page with the wrong title (archive/concepts/causal-delegation is archived: do not edit). Near-zero length cost. Locate by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
+### P3: `concepts/quantum-completeness` L66 says Barrett's collapse criterion "fixes which outcomes become determinate" (per the PDF it fixes *when* collapse occurs); `concepts/physical-completeness` L64 lists "deterministic" among completions the no-go theorems exclude (de Broglie–Bohm survives them)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-completeness.md
+- **Status**: pending
+- **Source**: deep-review 2026-10-11 17:57Z of `topics/completeness-in-physics-under-dualism` (sibling follow-ups; driver confirmed strings and Crossref 18:0xZ)
+- **Generated**: 2026-10-11
+- **Review file**: `reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism.md`
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/concepts/physical-completeness.md
+- **Notes**: TWO FILES, report each. Mirror today's fixes in `topics/completeness-in-physics-under-dualism`; read its corrected Barrett sentence and its no-go wording first. (1) quantum-completeness L66: Barrett (2006, *Erkenntnis* 65(1) 97–115) makes conscious observation fix WHEN collapse occurs, not which outcome; the deep review checked this against the raw PDF. Restate it. (2) physical-completeness L64: the theorems exclude local, non-contextual and ψ-epistemic completions, not deterministic ones, because Bohm survives Bell, Kochen-Specker, Hardy and PBR. Use quantum-completeness's own corrected 09-04 wording. Measure both with tools.curate.length.analyze_length; keep them near-net-zero. Locate by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
 
