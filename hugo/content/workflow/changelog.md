@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 16:50:24+00:00
+ai_modified: 2026-10-11 17:05:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 16:50:24+00:00
+lastmod: 2026-10-11 17:05:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:05 - refine-draft
+- **Status**: Success
+- **File**: [direction-of-interface-change](/concepts/direction-of-interface-change/) and [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Review file**: outer-review-2026-10-11-chatgpt-5-6-sol-pro (Verification Notes, "same inference is upstream"; improvement 14; ran after the three `direction-dependent-discriminating-test-design` refines, latest 16:22)
+- **Original score**: not run (`scripts/curate.py` absent)
+- **Word count**: concept page 2,426 → 2,730 (+304), hard 3,500 (it crosses the soft 2,500 band). Roadmap 3,996 → 3,996 (±0), hard 4,000 with a `>=` gate. Both by `analyze_length`.
+- **Changes (concept page)**:
+  1. "Constrain, Not Establish" L71: the paragraph said the direction-blind profile "predicts symmetry". That holds only for the static, quasi-equilibrium model, in which every channel is a threshold read-out of one shared ordered quantity. The paragraph now says that, and names three physical rivals that break the mirror without direction-specific machinery: heterogeneous channel time constants (lag, linked to the design article's worked example), adaptation, and multistability with the bistable switch as its simplest case. Added the independent physical evidence of direction asymmetry, Huang et al. 2021 (human propofol, "Pharmacokinetic effects could not account for the difference") and Hu et al. 2023 (mouse VPM KCC2 degradation, "an active process"). "Hysteresis terms for the bistable switch" and the stochastic-reconstitution model are no longer charged as per-case production costs. Doing so while the filter's reopening pathway is unspecified is the asymmetric accounting [mechanism-cost-ledger](/project/mechanism-cost-ledger/) L49 names. The additivity point is recalibrated on the model of `memory-channel-interface-evidence` L136: only two per-case additions remain (terminal-lucidity surge, dissociation gating), and the point is narrow because the filter's reopening pathway owes the same specification.
+  2. Same section, L73: the design-article summary said a non-mirrored ordering is one "the substrate-symmetric production reading forbids". That is the same uncalibrated inference, so it now reads "persisting in the quasi-static, state-matched limit … a static-threshold production model forbids", the design article's settled wording.
+  3. Tenet 1, L81: "in its simplest form" became "in its simplest, quasi-static form". Added that unequal channel lags, adaptation and multistability break the mirror on a substrate-emergent reading too.
+  4. References: added Huang 2021 (format copied from the design article) and Hu 2023.
+- **Changes (roadmap)**: the Further Reading label at L201, "whose non-mirrored channel ordering substrate-symmetric production forbids", now says "static-threshold production forbids". This matches the design article's description and is length-neutral.
+- **Verification**: Hu 2023 was re-verified at Europe PMC (PMID 36973513) and Crossref: *Nat Neurosci* 26(5):751–764, doi 10.1038/s41593-023-01290-y. The abstract reads "This pathway to recovery is an active process and occurs independent of anesthetic choice". Huang 2021 was re-verified at Europe PMC (PMID 33848623): *NeuroImage* 236:118042. Its abstract contains "abrupt restoration of cortical … temporal autocorrelation" and "Pharmacokinetic effects could not account for the difference".
+- **Engagement classification**: not applicable. No named-opponent reply changed; the production-account accounting was recalibrated.
+- **Published**: yes
 
 ## 16:50 - pessimistic-review
 - **Status**: Success
