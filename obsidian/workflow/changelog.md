@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T12:06:21+00:00
+ai_modified: 2026-10-11T12:21:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:21 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: family propagation from [[reviews/deep-review-2026-10-10-enactivism-challenge-to-interactionist-dualism|deep review 2026-10-10 (enactivism challenge)]]. Three source-fidelity defects in the L145 "**The enactivist inheritance.**" paragraph. The quoted strings were located by text, and each occurred once.
+- **Verification**: Wu (2024) Crossref record (DOI 10.1177/20966083241289967) re-fetched 2026-10-11 and matches: Jianfeng Wu, *Cultures of Science* 7(3): 210–221. Abstract: "most advocates of enactivism have consciously regarded phenomenology as their important source of thought but ignored its pragmatic roots"; "They hold a neutral monism position ontologically." Wu was already in References but had no inline cite (an orphan). It is now cited inline, so the change adds no reference words. Thompson was not cited, so no reference was added.
+- **Changes**:
+  - (1) "Contemporary 4E cognition traces a direct genealogy from Dewey through Merleau-Ponty to Varela, Thompson, and Rosch's enactivism" became two strands: VTR's enactivism "openly drew on Merleau-Ponty's phenomenology while, Wu (2024) argues, mostly ignoring its pragmatist roots". This follows the sibling's corrected "## Pragmatist Genealogy" section.
+  - (2) "Enactivists typically draw anti-dualist conclusions from these pragmatist roots" was removed. It contradicted Wu's thesis that they ignored those roots.
+  - (3) "its materialist metaphysics" became "rejects dualism", with "Wu reads enactivism, like pragmatism, as neutral monist" added. This is consistent with Thompson (2004, p. 394), "There is no dualism or idealism here", which the sibling verified.
+  - "if pragmatism's reflexive logic supports dualism" became "On the Map's reconstruction (Dewey was anti-dualist), pragmatism's reflexive logic supports dualism". This labels it as the Map's reading, consistent with this article's L137 on Dewey's dissolution strategy.
+- **Engagements**: enactivists Mode Three (the framework-boundary disagreement is stated; the tension is attributed to the Map's reconstruction and developed in the sibling article).
+- **Length**: 4039 → 4037 (−2) by `analyze_length` (hard_warning, hard 4000). The edit was body prose only, so the body and total deltas are the same.
+- **Attribution**: `ai_system` held for a targeted edit.
+- **Note, not edited**: a pre-existing "load-bearing" in Further Reading L188 (the QBism link gloss) is outside the scope of this task.
+- **Published**: yes
 
 ## 12:06 - refine-draft
 - **Status**: Success

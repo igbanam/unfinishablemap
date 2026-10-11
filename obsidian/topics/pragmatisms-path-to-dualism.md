@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-09-15T06:36:17+00:00
+ai_modified: 2026-10-11T12:21:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ But dissolution is not refutation. The hard problem arguably does not depend on 
 
 **Association with substance dualism.** Pragmatists associate dualism with Cartesian substance dualism and its interaction problem. But the Map's [[interactionist-dualism]] is not Descartes'. Property dualism and other non-Cartesian frameworks satisfy the Map's requirements without inheriting Cartesian difficulties.
 
-**The enactivist inheritance.** Contemporary 4E cognition traces a direct genealogy from Dewey through Merleau-Ponty to Varela, Thompson, and Rosch's enactivism. Enactivists typically draw anti-dualist conclusions from these pragmatist roots. But if pragmatism's reflexive logic supports dualism, enactivism inherits an unresolved tension. The Map's article on [[enactivism-challenge-to-interactionist-dualism|the enactivist challenge]] develops this: enactivism's insistence on the irreducibility of lived experience sits uncomfortably with its materialist metaphysics.
+**The enactivist inheritance.** Varela, Thompson, and Rosch's enactivism openly drew on Merleau-Ponty's phenomenology while, Wu (2024) argues, mostly ignoring its pragmatist roots; Wu reads enactivism, like pragmatism, as neutral monist. On the Map's reconstruction (Dewey was anti-dualist), pragmatism's reflexive logic supports dualism, so enactivism inherits an unresolved tension, developed in [[enactivism-challenge-to-interactionist-dualism|the enactivist challenge]]: it insists on irreducible lived experience yet rejects dualism.
 
 **The success of science.** Science works by producing understanding in conscious agents. Its success may be read as evidence that conscious agents can grasp truths about the physical world — which is what bidirectional interaction predicts. On this reading, science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
 
@@ -185,7 +185,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [[self-stultification-as-master-argument]] — The master argument pattern that pragmatism's reflexive case instantiates
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 - [[pragmatist-quantum-foundations-and-the-agent]] — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
-- [[quantum-measurement-and-subjective-probability]] — How QBism's subjective reading of the Born rule makes consciousness load-bearing — the quantum endpoint of the Peirce-Fuchs lineage traced above
+- [[quantum-measurement-and-subjective-probability]] — How QBism's subjective reading of the Born rule makes consciousness essential — the quantum endpoint of the Peirce-Fuchs lineage traced above
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 - [[consciousness-and-the-normativity-of-reason]] — Why the gap between causal and normative "because" requires conscious minds
 - [[evaluative-phenomenal-character]] — Demand-character as intrinsic to experience

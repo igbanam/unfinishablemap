@@ -2002,15 +2002,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-11
 - **Notes**: Mode: update. Recount P-SC2's booked gaps before editing; the fork reported five booked since 09-24. "four" → "five" costs 0 words, but subject-census is 2,499/2,500 (positions hard), so put the mandated dated `Updated` note in `positions/subject-census-calibration-history`, which is where this register already keeps its notes (that is where the P-SC2 note went on 2026-10-11). No band moves. Measure both files with tools.curate.length.analyze_length before and after. Locate by QUOTED text; confirm it occurs once. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
-### P2: `topics/pragmatisms-path-to-dualism` L145 claims "a direct genealogy from Dewey through Merleau-Ponty" to enactivism and that enactivists "draw anti-dualist conclusions from these pragmatist roots" — the cited Wu (2024) says enactivists drew on phenomenology and IGNORED pragmatism, and reads both as neutral monist
-- **Type**: refine-draft
-- **File**: obsidian/topics/pragmatisms-path-to-dualism.md
-- **Status**: pending
-- **Source**: deep-review of `topics/enactivism-challenge-to-interactionist-dualism` 2026-10-10 (same genealogy claim fixed there; family propagation)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/deep-review-2026-10-10-enactivism-challenge-to-interactionist-dualism.md`
-- **Notes**: HEADROOM: analyze_length 4,039 = hard_warning (topics hard 4,000). Net-NEGATIVE only. Three defects in the L145 "**The enactivist inheritance.**" paragraph, all verified 2026-10-10 against Wu's Crossref-deposited abstract (DOI 10.1177/20966083241289967): (1) "traces a direct genealogy from Dewey through Merleau-Ponty to Varela, Thompson, and Rosch" is contested historiography presented as fact — Wu: "most advocates of enactivism have consciously regarded phenomenology as their important source of thought but ignored its pragmatic roots"; the lineage is two parallel strands (pragmatist, phenomenological), not a chain through Merleau-Ponty. (2) "Enactivists typically draw anti-dualist conclusions from these pragmatist roots" contradicts the same sentence of Wu (they ignored those roots). (3) "its materialist metaphysics" misdescribes the enactivists: Wu says pragmatism and enactivism "hold a neutral monism position ontologically"; Thompson's own gloss (2004, p. 394) is "There is no dualism or idealism here" — verify any 'materialist' label against his texts before keeping it. Also label "if pragmatism's reflexive logic supports dualism" as the Map's reconstruction — Dewey was explicitly anti-dualist (the article's own L137 already says Dewey's response is dissolution). Model the fix on the corrected `topics/enactivism-challenge-to-interactionist-dualism` "Pragmatist Genealogy" section.
-
 ### P2: Write article on whether language-model words refer — externalism, deference and the inverse Swampman (topics/whether-language-model-words-refer; research: research/whether-language-model-words-refer-2026-10-11.md)
 - **Type**: expand-topic
 - **Status**: pending
@@ -2168,6 +2159,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: `topics/pragmatisms-path-to-dualism` L145 claims "a direct genealogy from Dewey through Merleau-Ponty" to enactivism and that enactivists "draw anti-dualist conclusions from these pragmatist roots" — the cited Wu (2024) says enactivists drew on phenomenology and IGNORED pragmatism, and reads both as neutral monist
+- **Type**: refine-draft
+- **File**: obsidian/topics/pragmatisms-path-to-dualism.md
+- **Notes**: HEADROOM: analyze_length 4,039 = hard_warning (topics hard 4,000). Net-NEGATIVE only. Three defects in the L145 "**The enactivist inheritance.**" paragraph, all verified 2026-10-10 against Wu's Crossref-deposited abstract (DOI 10.1177/20966083241289967): (1) "traces a direct genealogy from Dewey through Merleau-Ponty to Varela, Thompson, and Rosch" is contested historiography presented as fact — Wu: "most advocates of enactivism have consciously regarded phenomenology as their important source of thought but ignored its pragmatic roots"; the lineage is two parallel strands (pragmatist, phenomenological), not a chain through Merleau-Ponty. (2) "Enactivists typically draw anti-dualist conclusions from these pragmatist roots" contradicts the same sentence of Wu (they ignored those roots). (3) "its materialist metaphysics" misdescribes the enactivists: Wu says pragmatism and enactivism "hold a neutral monism position ontologically"; Thompson's own gloss (2004, p. 394) is "There is no dualism or idealism here" — verify any 'materialist' label against his texts before keeping it. Also label "if pragmatism's reflexive logic supports dualism" as the Map's reconstruction — Dewey was explicitly anti-dualist (the article's own L137 already says Dewey's response is dissolution). Model the fix on the corrected `topics/enactivism-challenge-to-interactionist-dualism` "Pragmatist Genealogy" section.
 
 ### ✓ 2026-10-11: `topics/free-will` L102 "This coherence tells against accounts treating the phenomenology as illusory or idle" is the same over-reach removed from L66/L110 on 2026-10-10 (tenet-check Warning 1); it now contradicts the new lead
 - **Type**: refine-draft
