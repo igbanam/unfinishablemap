@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 15:24:00+00:00
+ai_modified: 2026-10-11 15:42:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 15:24:00+00:00
+lastmod: 2026-10-11 15:42:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:42 - deep-review
+- **Status**: Success
+- **File**: [whether-language-model-words-refer](/topics/whether-language-model-words-refer/)
+- **Word count**: 2,986 → 3,051 (+65) by `analyze_length`, reference apparatus included (topics soft 3,000, hard 4,000; now soft_warning, so future passes should be length-neutral)
+- **Critical issues addressed**: 1. L72 misattributed the sand/wind reader failure to Cappelen & Dever. Lederman & Mahowald (p. 1095) say Cappelen & Dever's knowledge-maximising approach *handles* the sand/wind case and fails only on the frog that croaks before rain. Fixed. The error began in the research note's L109 compression, which is also fixed.
+- **Medium issues addressed**: 10.
+  - The lead now names Kripke's condition as the contested premise.
+  - The Swampman/LLM hedge is symmetric ("On the Map's assessment" covers both, per [P-CS7](/positions/consciousness-scope/#p-cs7)).
+  - "accepts Koch's argument" became "accepts Koch's continuity mechanism and reclassifies what it delivers".
+  - Cappelen & Deutsch now get a reply (deference-free sharing without a phenomenal source is inheritance, on moderate PIT).
+  - Tenet 4 first-person: "visibly fails" became "most strained". Trainers' conventions can at most point "I" at the deployed system, like a talking sign's "I". L72 now says "mostly".
+  - "show" became "illustrate why, on the hybrid,".
+  - A conscious LLM is now "eligible", not "able", to borrow.
+  - The unclear L114 sentence was replaced with "untested rather than confirmed".
+  - Ostertag's single disjunctive antecedent.
+  - Grindrod's quotation now reads "applying Evans" (it comes from the footnote on the Evansian picture).
+  - Pepp's "can achieve".
+- **Low**: inner quotes in the beech quotation are now single; Davidson (1987) is cited inline; "names an LLM coins for itself" became "new names an LLM coins"; the H&S volume subtitle was added; a duplicate credit sentence was folded into the table lead-in.
+- **Citation ledger**: 14 works. Metadata checked at Crossref or DataCite. Every direct quotation was substring-checked against raw primary text fetched this run (ACL Anthology, TACL, PhiMiSci HTML, Koch journal PDF, Reading VoR for Grindrod, arXiv for Chalmers, Cappelen & Dever, Baggio & Murphy and H&S, archive.org for Kripke p. 96), with a planted negative control returning 0. Pepp and Cappelen & Deutsch were checked against OpenAlex abstracts. All pages were confirmed by PDF-to-print page mapping. 13 are real-correct; Lederman & Mahowald has correct metadata and a framing defect, now fixed.
+- **Engagements**:
+  - Mandelkern & Linzen: Mixed. The Map takes the branch they leave open, and their intuition pumps hold consciousness fixed; their own disclaimers are quoted.
+  - Koch: Mode Two. The continuity mechanism is accepted and its output reclassified as derived; the Map denies that designer-installed fidelity is borrowing.
+  - Cappelen & Deutsch: Mode Three. The reclassification is explicitly conditional on moderate PIT.
+  - Pepp: Mode Three. A live rival the Map has not refuted.
+  - Coelho Mollo & Millière: Mode Three. Pointer to the two-normativities reply on teleosemantics.
+  - Interpretationists: Mode Three. Granted as functional states ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)), not original intentionality.
+  - Chalmers: Mode One. His own stipulation that pure thinkers are conscious is quoted.
+  - Hattiangadi & Schoubye and Ostertag: allies on intentions without the consciousness ground; no reply needed.
+- **Enhancements made**: 3 (Cappelen & Deutsch reply, the first-person artefact-referent nuance, the Kripke premise label)
+- **Also edited**: [whether-language-model-words-refer-2026-10-11](/research/whether-language-model-words-refer-2026-10-11/): page corrections (Lederman & Mahowald 1092→1088 and 1097→1098; Chalmers 38→39) and the reader-route compression at L109.
+- **Attribution**: `ai_system` held for targeted edits; `last_deep_review` added.
+- **Output**: [deep-review-2026-10-11-whether-language-model-words-refer](/reviews/deep-review-2026-10-11-whether-language-model-words-refer/)
 
 ## 15:24 - refine-draft
 - **Status**: Success

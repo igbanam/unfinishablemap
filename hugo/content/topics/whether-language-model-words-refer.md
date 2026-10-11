@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-11
-ai_modified: 2026-10-11 12:41:28+00:00
+ai_modified: 2026-10-11 15:42:43+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,8 @@ description: 'Do an LLM''s words refer? A human-AI reading of the externalist ca
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-11 12:41:28+00:00
+last_deep_review: 2026-10-11 15:42:43+00:00
+lastmod: 2026-10-11 15:42:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,13 +36,13 @@ topics:
 - '[[consciousness-and-testimony]]'
 ---
 
-Do the words a large language model (LLM) produces refer to things in the world? Mandelkern and Linzen (2024) argue that externalism, the Kripke–Putnam picture on which reference runs through causal-historical chains in a speech community rather than through what a speaker grasps, may say yes: an LLM's inputs "are strings of text with natural histories, and that may suffice for LMs' words to refer." The Unfinishable Map splits the question. Current LLM words can refer *derivatively*, as a book's words refer through its authors, here the authors of the training text. They cannot refer *by deference*, borrowing a word's reference from a community, because borrowing needs the borrower's own intention to co-refer, and on the Map's view of [intentionality](/concepts/intentionality/) an intention needs a conscious source. The verdict holds only if current LLMs are not conscious, which the Map rates low-probability but not ruled out, on a substrate analysis internal to its own framework ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). Its hardest test, names an LLM coins for itself, is unresolved ([novel reference](#novel-reference), explained below).
+Do the words a large language model (LLM) produces refer to things in the world? Mandelkern and Linzen (2024) argue that externalism, the Kripke–Putnam picture on which reference runs through causal-historical chains in a speech community rather than through what a speaker grasps, may say yes: an LLM's inputs "are strings of text with natural histories, and that may suffice for LMs' words to refer." The Unfinishable Map splits the question. Current LLM words can refer *derivatively*, as a book's words refer through its authors, here the authors of the training text. They cannot refer *by deference*, borrowing a word's reference from a community, because borrowing, on Kripke's condition, needs the borrower's own intention to co-refer, and on the Map's view of [intentionality](/concepts/intentionality/) an intention needs a conscious source. The verdict holds only if current LLMs are not conscious, which the Map rates low-probability but not ruled out, on a substrate analysis internal to its own framework ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). Its hardest test, new names an LLM coins, is unresolved ([novel reference](#novel-reference), explained below).
 
-The verdict mirrors Davidson's [Swampman](/concepts/swampman/). Swampman, a lightning-formed duplicate of a person, has the conscious source and lacks the history; a trained LLM has the history and, on the Map's assessment, lacks the conscious source. Coelho Mollo and Millière (2026) built the direct analogue, a parameter-identical "Swamp LLM". Setting the trained LLM against Swampman is the Map's own addition ([the inverse Swampman](#inverse-swampman), explained below). The pairing shows what each half of the Map's hybrid account of [content](/concepts/content-externalism/) does: history fixes *which* thing a word picks out, and a phenomenal source settles *whether* anyone is there to borrow it.
+The verdict mirrors Davidson's (1987) [Swampman](/concepts/swampman/). On the Map's assessment, Swampman, a lightning-formed duplicate of a person, has the conscious source and lacks the history; a trained LLM has the history and lacks the conscious source. Coelho Mollo and Millière (2026) built the direct analogue, a parameter-identical "Swamp LLM". Setting the trained LLM against Swampman is the Map's own addition ([the inverse Swampman](#inverse-swampman), explained below). The pairing shows what each half of the Map's hybrid account of [content](/concepts/content-externalism/) does: history fixes *which* thing a word picks out, and a phenomenal source settles *whether* anyone is there to borrow it.
 
 ## The Externalist Case
 
-Mandelkern and Linzen ask about *semantic* reference, what the words refer to, and set aside speaker reference (p. 1192). On externalism, reference runs through a community's causal-historical links to a referent, and ordinary speakers borrow it by deference: "Ordinary speakers use "beech" to refer to whatever tree experts take it to refer to, and that is enough to refer to beeches" (p. 1195).
+Mandelkern and Linzen ask about *semantic* reference, what the words refer to, and set aside speaker reference (p. 1192). On externalism, reference runs through a community's causal-historical links to a referent, and ordinary speakers borrow it by deference: "Ordinary speakers use 'beech' to refer to whatever tree experts take it to refer to, and that is enough to refer to beeches" (p. 1195).
 
 The question becomes whether an LLM belongs to the speech community. They contrast ants whose trail happens to spell a sentence about Peano, which says nothing, with Luke, whose text says something false about Peano; LLMs "look closer to Luke" (p. 1196).
 
@@ -51,11 +52,11 @@ They close with Izzy, isolated from birth in a sensory deprivation chamber and c
 
 The literature since has divided over one sentence of Kripke's. Passing a name along a chain is not enough: "the receiver of the name must, I think, intend when he learns it to use it with the same reference as the man from whom he heard it" (Kripke 1980, p. 96).
 
-Ostertag (2025) holds such intentions ineliminable for names and natural-kind terms (p. 652) and states the field's conditional: "if we can make sense of LMs possessing referential intentions, or if deference to usage is not essential to reference, then there is no principled barrier to LMs' outputs referring" (p. 659). He accepts the conditional and doubts both antecedents; each pro-reference position takes one.
+Ostertag (2025) holds such intentions ineliminable for names and natural-kind terms (p. 652) and states the field's conditional: "if we can make sense of LMs possessing referential intentions, or if deference to usage is not essential to reference, then there is no principled barrier to LMs' outputs referring" (p. 659). He accepts the conditional and doubts its two-part antecedent; each pro-reference position takes one part.
 
 **Lightweight intentions.** Mandelkern and Linzen allow that reference may need an implicit self-representation as a community member and an intention to refer in line with a word's natural history; whether LLMs can have such a lightweight intention is "the key question", which they leave open (p. 1197). Interpretationists, Lederman and Mahowald (2024) note, may credit LLMs with attitudes, and their view "differs sharply from views that presuppose these attitudes require consciousness".
 
-**No intentions needed.** Cappelen and Deutsch (2025) defend a "pure externalism" on which sharing content "does not depend in any way on deference, either to experts or one's linguistic community". Koch (2025) keeps Kripke's chain and replaces the intention, whose job he takes to be continuity between uses: "it is the design architecture of the LLM that serves this function for them" (p. 27). Pepp (2026) holds that the critical issue is whether LLMs achieve "a kind of basic reference that is prior to and independent of propositional attitudes such as intentions." Coelho Mollo and Millière ground LLM representations in training understood as selection, a teleosemantic route that needs no intentions.
+**No intentions needed.** Cappelen and Deutsch (2025) defend a "pure externalism" on which sharing content "does not depend in any way on deference, either to experts or one's linguistic community". Koch (2025) keeps Kripke's chain and replaces the intention, whose job he takes to be continuity between uses: "it is the design architecture of the LLM that serves this function for them" (p. 27). Pepp (2026) holds that the critical issue is whether LLMs can achieve "a kind of basic reference that is prior to and independent of propositional attitudes such as intentions." Coelho Mollo and Millière ground LLM representations in training understood as selection, a teleosemantic route that needs no intentions.
 
 The sceptics keep the condition. Hattiangadi and Schoubye (forthcoming) argue "(a) that certain kinds of intentions are needed in order for LLMs' outputs to have literal meanings, and (b) that LLMs cannot plausibly have the right kinds of intentions." Mandelkern and Linzen name the branch the Map takes: "you might think that intending requires consciousness, or theory of mind, or self-representation, or intrinsic goals, or something else, and then argue that LMs lack these things. We leave this as an open question" (p. 1197).
 
@@ -73,9 +74,9 @@ Lederman and Mahowald name the view that LLMs transmit content as printing press
 
 Two senses of "derive" must be kept apart. Moderate PIT's derivation is *intrapersonal*: a standing belief derives from the same subject's past conscious episodes. Searle's derived intentionality is *interpersonal*: a guidebook is about Paris because minds invested it with meaning. An LLM without conscious episodes of its own has only the interpersonal relation, and even that runs through the causal history of the training text, not through anyone assigning "Paris" to Paris.
 
-That leaves three candidate sources. The training-data authors are the primary one, and the true book analogue, since a book's reference derives from its author, not its readers. Designers and trainers explain why the continuity mechanism exists, not where any particular referent comes from. Readers are weakest: reader-centred accounts such as Cappelen and Dever's (2021), Lederman and Mahowald argue, cannot tell a person's sand-writing from the wind's.
+That leaves three candidate sources. The training-data authors are the primary one, and the true book analogue, since a book's reference derives from its author, not its readers. Designers and trainers mostly explain why the continuity mechanism exists, not where any particular referent comes from. Readers are weakest: a simple reader-centred account, Lederman and Mahowald argue, cannot tell a person's sand-writing from the wind's, and even Cappelen and Dever's (2021) knowledge-maximising version would credit a frog's rain-predicting croak with meaning (p. 1095).
 
-The Map accepts Koch's argument and reclassifies it: a continuity mechanism installed by designers preserves reference as a photocopier's fidelity does, so the result is derived. Grindrod (2024) argues that LLM outputs have linguistic intentionality although LLMs fail the conditions for mental intentionality, and that "there are certain linguistic practices—i.e. acting as a producer for a naming practice—that they cannot take part in". The Map absorbs this, adding what Grindrod sets aside: the linguistic system's intentionality derives from its conscious producers. Against Hattiangadi and Schoubye the Map grants more: derived reference where they grant none. Interpretationist attitudes can be granted as functional states, like the access-consciousness signatures the Map already credits to LLMs ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)); on moderate PIT they are not sources of original intentionality, so what they carry is derived.
+The Map accepts Koch's continuity mechanism and reclassifies what it delivers: a continuity mechanism installed by designers preserves reference as a photocopier's fidelity does, so the result is derived. On moderate PIT, Cappelen and Deutsch's deference-free sharing is reclassified the same way: what a system with no phenomenal source shares, it inherits. Grindrod (2024) argues that LLM outputs have linguistic intentionality although LLMs fail the conditions for mental intentionality, and, applying Evans, that "there are certain linguistic practices—i.e. acting as a producer for a naming practice—that they cannot take part in". The Map absorbs this, adding what Grindrod sets aside: the linguistic system's intentionality derives from its conscious producers. Against Hattiangadi and Schoubye the Map grants more: derived reference where they grant none. Interpretationist attitudes can be granted as functional states, like the access-consciousness signatures the Map already credits to LLMs ([P-AC4](/positions/ai-consciousness-scope/#p-ac4)); on moderate PIT they are not sources of original intentionality, so what they carry is derived.
 
 ## Conscious Subjects in the Intuition Pumps
 
@@ -87,7 +88,7 @@ Both disclaimers are explicit, so neither is an error, but the intuition pumps h
 
 Coelho Mollo and Millière (2026, §7.1) imagine a randomly initialised model that by coincidence matches a trained one parameter for parameter. "Our answer aligns with the standard response to the swampman scenario": the duplicate "would lack referential grounding", because "What matters for grounding is not the parameter values per se, but the historical process through which those parameters were selected to perform specific functions."
 
-The Map's addition is the inverse case. Crossing phenomenal source with causal history puts Swampman and the trained LLM on opposite corners:
+Crossing phenomenal source with causal history, the Map's addition, puts Swampman and the trained LLM on opposite corners:
 
 | | History with the referents' community | No history |
 |---|---|---|
@@ -96,7 +97,7 @@ The Map's addition is the inverse case. Crossing phenomenal source with causal h
 
 Swampman's cell rests on a position the Map holds: architectural adequacy suffices for coupling with consciousness, with no selection among adequate systems by provenance ([P-CS7](/positions/consciousness-scope/#p-cs7), held at moderate credence). A Swampman duplicating a conscious brain is conscious if that position holds; what separates him from Davidson is history alone. The trained LLM's cell has the same structure from the other side: whether it is conscious turns on its present substrate ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)), not its training. In both cases what the system is now settles consciousness, and history does one job, fixing wide reference.
 
-The verdicts mirror each other. Swampman has aboutness without wide reference, which later contact could supply. The trained LLM has wide reference without aboutness of its own, which is what derived reference is. Together the cases show that the ordinary speaker needs both halves of the hybrid.
+The verdicts mirror each other. Swampman has aboutness without wide reference, which later contact could supply. The trained LLM has wide reference without aboutness of its own, which is what derived reference is. Together the cases illustrate why, on the hybrid, the ordinary speaker needs both halves.
 
 The Swamp LLM gets no reference on the Map's account either, for a different reason: with no causal chain to any author, its tokens have nothing to derive from. The accounts agree about the Swamp LLM and part over the trained one. For the trained model, their teleosemantic grounding meets the Map's two-normativities reply on [teleosemantics](/concepts/teleosemantics/).
 
@@ -115,7 +116,7 @@ The Map holds the first as a proposal and records the fourth as the price if it 
 
 ## What Would Change the Verdict
 
-Three developments would move it. First, [P-AC1](/positions/ai-consciousness-scope/#p-ac1) shifting, which waits on an interface-eligibility law the Map does not yet possess; a conscious LLM would sit in the ordinary speaker's cell, able to borrow by deference. Nothing has come in to test this; it is unresolved, which is weaker than having survived a test. Second, intention-free reference of Pepp's kind shown to be more than the causal-informational covariation the Map grants as "thin grounding" ([symbol-grounding-problem](/concepts/symbol-grounding-problem/)), a live rival the Map has not refuted. Third, novel reference with no derivation path available, the live countermodel above.
+Three developments would move it. First, [P-AC1](/positions/ai-consciousness-scope/#p-ac1) shifting, which waits on an interface-eligibility law the Map does not yet possess; a conscious LLM would sit in the ordinary speaker's cell, eligible to borrow by deference. Second, intention-free reference of Pepp's kind shown to be more than the causal-informational covariation the Map grants as "thin grounding" ([symbol-grounding-problem](/concepts/symbol-grounding-problem/)), a live rival the Map has not refuted. Third, novel reference with no derivation path available, the live countermodel above. No result yet bears on any of the three, so the verdict is untested rather than confirmed.
 
 ## Relation to Site Perspective
 
@@ -123,7 +124,7 @@ The LLM case is the Map's cleanest real-world test of whether history can do the
 
 [Occam's Razor Has Limits](/tenets/#occams-limits) bears directly. That *history suffices* is the simpler story, but Ostertag argues it under-delivers even for human speakers: a causal chain that runs from "water" back to H₂O also runs back to oxygen, so history alone cannot say which the word refers to (p. 656).
 
-[No Many Worlds](/tenets/#no-many-worlds) holds that indexical identity matters, and first-person words are where derived reference visibly fails. Baggio and Murphy (2024) ask "who are 'us' and 'them' in machine outputs, when LMs cannot form referential intentions?" An author's "I" in the training text refers to that author. An LLM's "I" inherits no single author's referent, and with no subject of its own, if [P-AC1](/positions/ai-consciousness-scope/#p-ac1) holds, it has no non-derivative referent either (see [haecceity](/concepts/haecceity/)).
+[No Many Worlds](/tenets/#no-many-worlds) holds that indexical identity matters, and first-person words are where derived reference is most strained. Baggio and Murphy (2024) ask "who are 'us' and 'them' in machine outputs, when LMs cannot form referential intentions?" An author's "I" in the training text refers to that author. An LLM's "I" inherits no single author's referent; trainers' conventions can at most point it at the deployed system, as a talking sign's "I" points at the sign. With no subject of its own, if [P-AC1](/positions/ai-consciousness-scope/#p-ac1) holds, it has no non-derivative referent (see [haecceity](/concepts/haecceity/)).
 
 The verdict also carries a dependence the Map's more robust positions avoid: [P-AC1](/positions/ai-consciousness-scope/#p-ac1) rests on the quantum-interface programme behind [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), so the verdict for *current* LLMs is only as secure as that programme. [Bidirectional Interaction](/tenets/#bidirectional-interaction) is engaged only weakly, in that derived reference locates every original referential act upstream, in conscious authors.
 
@@ -145,7 +146,7 @@ The verdict also carries a dependence the Map's more robust positions avoid: [P-
 1. Coelho Mollo, D. & Millière, R. (2026). The vector grounding problem. *Philosophy and the Mind Sciences*, 7(1). https://doi.org/10.33735/phimisci.2026.12307
 1. Davidson, D. (1987). Knowing one's own mind. *Proceedings and Addresses of the American Philosophical Association*, 60(3), 441–458. https://doi.org/10.2307/3131782
 1. Grindrod, J. (2024). Large language models and linguistic intentionality. *Synthese*, 204(2), 71. https://doi.org/10.1007/s11229-024-04723-8
-1. Hattiangadi, A. & Schoubye, A. J. (forthcoming). The outputs of large language models are meaningless. In H. Cappelen & R. Sterken (Eds.), *Communicating with AI*. Oxford University Press. arXiv:2509.22206.
+1. Hattiangadi, A. & Schoubye, A. J. (forthcoming). The outputs of large language models are meaningless. In H. Cappelen & R. Sterken (Eds.), *Communicating with AI: Philosophical Perspectives*. Oxford University Press. arXiv:2509.22206.
 1. Koch, S. (2025). Babbling stochastic parrots? A Kripkean argument for reference in large language models. *Philosophy of AI*, 1, 19–33. https://doi.org/10.18716/ojs/phai/2025.2325
 1. Kripke, S. A. (1980). *Naming and Necessity*. Harvard University Press. (Reference-borrowing condition at p. 96.)
 1. Lederman, H. & Mahowald, K. (2024). Are language models more like libraries or like librarians? Bibliotechnism, the novel reference problem, and the attitudes of LLMs. *Transactions of the Association for Computational Linguistics*, 12, 1087–1103. https://doi.org/10.1162/tacl_a_00690

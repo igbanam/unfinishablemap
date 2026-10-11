@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-11
-ai_modified: 2026-10-11 00:50:19+00:00
+ai_modified: 2026-10-11 15:42:43+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Research notes on LLM reference: Mandelkern & Linzen, Ostertag, Le
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-11 00:50:19+00:00
+lastmod: 2026-10-11 15:42:43+00:00
 modified: *id001
 related_articles:
 - '[[conceptual-role-semantics]]'
@@ -109,9 +109,9 @@ Against: overlap with `symbol-grounding-problem` and `chinese-room-argument`. Th
 - **Key points**:
   - **Bibliotechnism** (after Gopnik's "cultural technology"): LLMs transmit content like printing presses and lack beliefs, desires and intentions. Its defining consequence: "So, according to bibliotechnism, LLMs can only produce tokens which refer or are meaningful derivatively" (p. 1090). The basic/derivative distinction is stipulated: "it is only agents—that is, entities that have beliefs, desires, and intentions—that produce tokens which refer or are meaningful basically."
   - Part I defends bibliotechnism, "showing how even novel text may inherit its meaning from original human-generated text". Derivative meaning needs an appropriate causal chain to a basically meaningful token, and causal sensitivity to the *intelligibility* of the training data. A unigram's accidental sentence fails: "The tokens are like sand blown into the shape of a sentence by the wind."
-  - Part II, the **novel reference problem**. GPT-4, asked to rename a historical figure, wrote "Marion Starlight" in a text that plausibly refers to Robespierre. In an ASCII-picture variant, the model names elements of a picture it has just created. "These new names cannot derive their reference from original text, since by assumption the name is not used in the data to refer to the relevant object" (p. 1092).
-  - Four human-attitude sources are examined and found wanting: RLHF (contra Coelho Mollo & Millière), creators' intentions, the prompt-writer's intentions, and readers' interpretations (contra Cappelen & Dever's interpreter-centric metametasemantics). The reader route cannot separate a beachgoer's sand-writing from the wind's, or a frog's "rain" croak: "The challenge for such theories is to eliminate the prediction that wind-produced tokens are meaningful without eliminating the prediction that LLM-produced tokens are" (p. 1095).
-  - Conclusion: "If LLMs do not have these attitudes, we must either significantly change our theory of meaning or deny the intuitive datum that new names they produce can be meaningful" (p. 1097). On interpretationism LLMs have attitudes, but in a sense that "differs sharply from views that presuppose these attitudes require consciousness, sentience, or intelligence (topics about which we make no claims)" (abstract).
+  - Part II, the **novel reference problem**. GPT-4, asked to rename a historical figure, wrote "Marion Starlight" in a text that plausibly refers to Robespierre. In an ASCII-picture variant, the model names elements of a picture it has just created. "These new names cannot derive their reference from original text, since by assumption the name is not used in the data to refer to the relevant object" (p. 1088).
+  - Four human-attitude sources are examined and found wanting: RLHF (contra Coelho Mollo & Millière), creators' intentions, the prompt-writer's intentions, and readers' interpretations (contra Cappelen & Dever's interpreter-centric metametasemantics). A simple reader route cannot separate a beachgoer's sand-writing from the wind's; Cappelen & Dever's knowledge-maximising version handles that case but not a frog's "rain" croak: "The challenge for such theories is to eliminate the prediction that wind-produced tokens are meaningful without eliminating the prediction that LLM-produced tokens are" (p. 1095).
+  - Conclusion: "If LLMs do not have these attitudes, we must either significantly change our theory of meaning or deny the intuitive datum that new names they produce can be meaningful" (p. 1098). On interpretationism LLMs have attitudes, but in a sense that "differs sharply from views that presuppose these attitudes require consciousness, sentience, or intelligence (topics about which we make no claims)" (abstract).
   - Not considered: a dominant-causal-source or description-mediated derivation of the novel name's reference from the training data. Grep for "dominant", "Evans" and "mental file" finds only the 1973 citation.
 - **Tenet alignment**: The sharpest challenge to the Map. The Map is committed to a bibliotechnist-shaped verdict and must answer the novel reference problem or accept its cost. Interpretationism is the rival ontology of attitudes, and PIT rejects it as an account of original intentionality.
 - **Quote**: "If LLMs do not have these attitudes, we must either significantly change our theory of meaning or deny the intuitive datum that new names they produce can be meaningful."
@@ -161,7 +161,7 @@ Against: overlap with `symbol-grounding-problem` and `chinese-room-argument`. Th
 - **Tenet alignment**: Neutral. A task-based line between base models and deployed assistants that the Map's verdict does not need, since [P-AC1](/positions/ai-consciousness-scope/#p-ac1) is about substrate, not task. Worth one sentence, because it splits the "LLM" category in a way most of the literature does not.
 
 ### Chalmers, D. J. (2023). "Does Thought Require Sensory Grounding? From Pure Thinkers to Large Language Models." *Proceedings and Addresses of the APA* 97: 22–45 [raw, arXiv 2408.09605, journal pagination present in the PDF]
-- **Key points**: Pure thinkers (no senses) are possible, so sensory grounding is not required for thought or reference: "the grounding argument is not a good reason to think that LLMs cannot think about things in the world or refer to them" (p. 38). Sensory concepts are held only partially, "mediated by linguistic deference" (p. 33), as Mary's are. **But**: "As I'm thinking of them, pure thinkers would be conscious and could undergo nonsensory experiences" (p. 31). He brackets "arguments that LLMs lack consciousness or communicative intent to arguments that they are "stochastic parrots." All those arguments require separate treatment" (p. 38).
+- **Key points**: Pure thinkers (no senses) are possible, so sensory grounding is not required for thought or reference: "the grounding argument is not a good reason to think that LLMs cannot think about things in the world or refer to them" (p. 39). Sensory concepts are held only partially, "mediated by linguistic deference" (p. 33), as Mary's are. **But**: "As I'm thinking of them, pure thinkers would be conscious and could undergo nonsensory experiences" (p. 31). He brackets "arguments that LLMs lack consciousness or communicative intent to arguments that they are "stochastic parrots." All those arguments require separate treatment" (p. 38).
 - **Tenet alignment**: Chalmers removes the *sensory*-grounding objection. The Map's objection was never sensory; it is phenomenal-intentional. Chalmers's argument stipulates exactly what the Map says is required, which is the core of [the smuggling observation](#the-smuggling-observation).
 
 ### Bender, E. M. & Koller, A. (2020). "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data." *Proceedings of ACL 2020*: 5185–5198 [raw]
