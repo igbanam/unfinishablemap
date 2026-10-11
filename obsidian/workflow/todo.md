@@ -1992,16 +1992,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
 - **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
-### P2: `concepts/global-workspace-theory` L108 calls Dehaene and Naccache "the originators of the Global Neuronal Workspace" and L114 "The GNW originators", contradicting its own L60 (Dehaene and Changeux) and the commentary PDF's own bio
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/global-workspace-theory.md
-- **Status**: pending
-- **Source**: sibling carry-forward of the 2026-10-10 deep review of `topics/deep-computational-markers-for-machine-consciousness` (Medium: named-idea originator), driver-verified 2026-10-10
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness.md`
-- **Headroom**: analyze_length 2026-10-10: 3,424 against concepts hard 3,500 (75 left). The fix is about +4 words.
-- **Notes**: L108 reads "Stanislas Dehaene and Lionel Naccache—the originators of the Global Neuronal Workspace—were invited as commentators". The commentary PDF (`https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf`, p.1 bio) says "Together with molecular neurobiologist Jean-Pierre Changeux, they developed and tested the global neuronal workspace model". The founding paper in this article's own References is Dehaene, Kerszberg & Changeux (1998), and L60 says "Stanislas Dehaene and Jean-Pierre Changeux developed GWT into the Global Neuronal Workspace". The topic article now reads "Stanislas Dehaene and Lionel Naccache, who with Jean-Pierre Changeux developed the Global Neuronal Workspace, were invited as commentators"; reuse that wording at L108. At L114, "The GNW originators draw the opposite conclusion" → "The GNW theorists draw the opposite conclusion" (length-neutral). Do not touch L110/L112/L114's verified quotes. Sync both trees.
-
 ### P2: `apex/machine-question` L137 glosses illusionism as "phenomenal consciousness just *is* the right introspective self-model" (contradicts `concepts/illusionism`, where illusionists deny it exists) and credits Tenet 1 alone with the conjunctive sufficiency ceiling
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/machine-question.md
@@ -2130,6 +2120,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-11: `concepts/global-workspace-theory` L108 calls Dehaene and Naccache "the originators of the Global Neuronal Workspace" and L114 "The GNW originators", contradicting its own L60 (Dehaene and Changeux) and the commentary PDF's own bio
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/global-workspace-theory.md
+- **Notes**: L108 reads "Stanislas Dehaene and Lionel Naccache—the originators of the Global Neuronal Workspace—were invited as commentators". The commentary PDF (`https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf`, p.1 bio) says "Together with molecular neurobiologist Jean-Pierre Changeux, they developed and tested the global neuronal workspace model". The founding paper in this article's own References is Dehaene, Kerszberg & Changeux (1998), and L60 says "Stanislas Dehaene and Jean-Pierre Changeux developed GWT into the Global Neuronal Workspace". The topic article now reads "Stanislas Dehaene and Lionel Naccache, who with Jean-Pierre Changeux developed the Global Neuronal Workspace, were invited as commentators"; reuse that wording at L108. At L114, "The GNW originators draw the opposite conclusion" → "The GNW theorists draw the opposite conclusion" (length-neutral). Do not touch L110/L112/L114's verified quotes. Sync both trees.
 
 ### ✓ 2026-10-10: `topics/ai-consciousness` L96 says Hoel's proximity argument shows functionalism "would attribute consciousness to systems—like lookup tables—that intuitively lack it", the same overreach fixed at L115 and in `concepts/continual-learning-argument` on 2026-10-10; its Hoel reference is dated 2025 against the corpus's 2026
 - **Type**: refine-draft

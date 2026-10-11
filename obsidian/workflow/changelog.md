@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T23:31:49+00:00
+ai_modified: 2026-10-11T00:04:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:04 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Review file**: reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness (sibling carry-forward)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Changed an originator attribution at L108 (J-space section). "Stanislas Dehaene and Lionel Naccache—the originators of the Global Neuronal Workspace—were invited as commentators" now reads "Stanislas Dehaene and Lionel Naccache, who with Jean-Pierre Changeux developed the Global Neuronal Workspace, were invited as commentators". This is the wording `topics/deep-computational-markers-for-machine-consciousness` L60 already uses. It matches the commentary PDF's p.1 bio ("Together with molecular neurobiologist Jean-Pierre Changeux, they developed and tested the global neuronal workspace model"), the article's own L60 (Dehaene and Changeux developed GWT into GNW), and its founding reference, Dehaene, Kerszberg & Changeux (1998). At L114, "The GNW originators draw the opposite conclusion" became "The GNW theorists draw the opposite conclusion", with no change in length. The verified quotes at L110/L112/L114 were not touched, and both old spans were confirmed to occur exactly once before editing. Length went from 3424 to 3428 words (concepts hard limit 3500), and `ai_system` is unchanged.
+- **Published**: yes
 
 ## 23:31 - deep-review
 - **Status**: Success
