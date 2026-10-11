@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-10-11 06:51:27+00:00
+ai_modified: 2026-10-11 23:51:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-10-11 06:51:27+00:00
+lastmod: 2026-10-11 23:51:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **Causal pathway**: Consciousness (phenomenal attention) → Process 1 actions → quantum Zeno effect → neural pattern stability → behaviour.
 
-**Supporting evidence**: Jeffrey Schwartz's OCD research showed that patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort. Willed attention produces different frontal-parietal activation patterns than reflexive attention; meditation documents neural connectivity changes from sustained attention training. However, these findings are compatible with both interpretations: the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account, and no prediction from the Zeno model has yet been identified that *only* Stapp's mechanism explains.
+**Supporting evidence**: In Jeffrey Schwartz's OCD research, responders to exposure-and-response-prevention therapy—which Schwartz frames as mindfully redirecting attention away from compulsions—showed decreased glucose metabolism in the caudate nucleus (Schwartz et al., 1996). Willed attention produces different frontal-parietal activation patterns than reflexive attention; meditation documents neural connectivity changes from sustained attention training. However, these findings are compatible with both interpretations: the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account, and no prediction from the Zeno model has yet been identified that *only* Stapp's mechanism explains.
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down beyond the brain decoherence time when the environment decoheres in a basis other than the mind's. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 

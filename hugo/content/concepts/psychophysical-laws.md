@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-11 06:51:40+00:00
+ai_modified: 2026-10-11 23:51:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-10-11 06:51:40+00:00
+lastmod: 2026-10-11 23:51:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 **Rejection of Organizational Invariance**: Substrate matters—not because silicon can't be conscious, but because particular physical instantiation may affect phenomenal character in ways functional description misses.
 
-**Bandwidth Constraints**: The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025), which makes selection coarse-grained enough to match deliberate decision-making phenomenology at ~3-4 choices/second.
+**Bandwidth Constraints**: The Map reads Zheng & Meister's (2025) ~10 bits/second behavioural throughput as a limit on conscious processing, coarse-graining selection to match deliberate decision-making phenomenology at ~3-4 choices/second.
 
 ## The Coupling Problem
 
@@ -146,7 +146,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Minimality.** The Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
-**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — 100 million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) develops this constraint in detail.
+**Bandwidth limits.** Behavioural throughput is ~10 bits/second (Zheng & Meister 2025), 100 million times below sensory intake; the Map reads this as conscious bandwidth. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) develops this constraint.
 
 **Scope restriction.** Coupling appears limited to the subject's own brain: you cannot select quantum outcomes in another's neural system or in external apparatus, because attention is neurally implemented and first-personal.
 
@@ -168,7 +168,7 @@ Four families of coupling laws emerge, operating through different [coupling-mod
 
 **Attention selects what it attends to.** Directed attention determines which neural representation becomes actual among quantum-superposed alternatives. Bandwidth: ~10 bits/second. Scope: only neural systems in the subject's attention loop. [Empirical evidence](/topics/attention-and-the-consciousness-interface/) that attention and consciousness dissociate means coupling operates through *directed* attention specifically (the [interface](/concepts/attention-as-interface/) through which consciousness engages matter).
 
-Stapp's quantum Zeno model provides the most developed mechanism: attending to a neural pattern increases observation rate, "freezing" the pattern via the Zeno effect. OCD patients using mindful attention showed measurable changes in caudate nucleus activation (Schwartz et al., 1996), though this is compatible with physicalist neuroplasticity. See [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) for the apex synthesis into a three-layer neural/dopamine/selection architecture. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
+Stapp's quantum Zeno model provides the most developed mechanism: attending to a neural pattern increases observation rate, "freezing" the pattern via the Zeno effect. OCD responders to exposure-and-response-prevention therapy, which Schwartz frames as mindful attention, showed decreased caudate glucose metabolism (Schwartz et al., 1996), though this fits physicalist neuroplasticity. See [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) for the apex synthesis into a three-layer neural/dopamine/selection architecture. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
 
 ### Law Family 2: Policy-Level Selection {#intention}
 

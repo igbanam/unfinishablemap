@@ -5,6 +5,19 @@ ai_modified: 2026-10-11T23:38:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 23:51 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]] (primary); [[topics/psychophysical-laws-bridging-mind-and-matter]] (secondary)
+- **Original score**: n/a. Targeted sibling pass on the drift noted in [[reviews/deep-review-2026-10-11-the-psychophysical-control-law]] (Remaining Items L93–94). It mirrors that day's control-law fixes. `scripts/curate.py` is absent.
+- **Method**: each target was located by quoted text and confirmed to occur exactly once (count asserted) before replacement. Every replacement was scored on word delta before it was written.
+- **concepts/psychophysical-laws: Zheng & Meister (2025) attribution (L120, L145)**: the paper's quantity is the information throughput of human behaviour (~10 bits/s), set against sensory systems that "gather data at ~10^9 bits/s" (arXiv 2408.10234 abstract, re-fetched this pass). L120 "incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2025)" now says the Map *reads* their behavioural throughput as a limit on conscious processing. L145 "Conscious processing operates at approximately 10 bits per second … 100 million times slower than unconscious sensory processing" now reads "Behavioural throughput is ~10 bits/second (Zheng & Meister 2025), 100 million times below sensory intake; the Map reads this as conscious bandwidth". "Unconscious" was also the Map's gloss on the paper's sensory figure. The 10^8 ratio is unchanged. The edit was funded by dropping "in detail" from the same paragraph's closing pointer sentence.
+- **concepts/psychophysical-laws: Schwartz et al. (1996) (L167)**: "OCD patients using mindful attention showed measurable changes in caudate nucleus activation" now reads "OCD responders to exposure-and-response-prevention therapy, which Schwartz frames as mindful attention, showed decreased caudate glucose metabolism". This states the study's actual treatment and its PET measure, and the direction of the result, as the control-law review verified from PMID 8629886. "Mindful attention" is labelled as Schwartz's framing. The caveat "though this is compatible with physicalist neuroplasticity" was tightened to "though this fits physicalist neuroplasticity" to fund the edit.
+- **topics/psychophysical-laws-bridging-mind-and-matter: Schwartz (L142)**: "patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort" wrongly presented Schwartz's later framing as the 1996 study's content, and its causal wording ("produced … through directed mental effort") overstated the result. It now reuses the control-law's verified wording: responders to ERP therapy, "which Schwartz frames as mindfully redirecting attention away from compulsions", showed decreased glucose metabolism in the caudate nucleus. An inline (Schwartz et al., 1996) cite was added, so reference 13 now has a body citation. The paragraph's existing "compatible with both interpretations" caveat is unchanged.
+- **Scope held**: the other ~41 Zheng & Meister citers were deliberately not swept, per task.
+- **Length (analyze_length, gate >=)**: concepts/psychophysical-laws 3,493 → 3,493 (net 0; hard 3,500). topics/psychophysical-laws-bridging-mind-and-matter 3,493 → 3,498 (+5; hard 4,000).
+- **Attribution**: `ai_modified` refreshed on both files. `ai_system` held.
+- **Published**: yes
+
 ## 23:38 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]
