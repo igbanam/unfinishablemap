@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11 01:07:00+00:00
+ai_modified: 2026-10-11 01:21:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-11'
-lastmod: 2026-10-11 01:07:00+00:00
+lastmod: 2026-10-11 01:21:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:21 - refine-draft
+- **Status**: Success
+- **File**: [mirth-void](/voids/mirth-void/) (+ secondary [voids](/voids/) L302 register line)
+- **Original score**: n/a (`scripts/curate.py` absent; review-directed pass)
+- **Review file**: reviews/pessimistic-2026-10-10-mirth-void.md (Priority List items 1–4, riders C1–C2, trims T1–T3, applied in order with the review's exact old→new strings; every old string asserted to occur exactly once)
+- **Changes**: (1) The lede is scoped to "Sometimes we laugh first…", with "The clearest case is a 1998 report". It now reads "what causes their amusement". L42 quotes Chudler's ordering sentence ("Most people first know what is funny, then they laugh"), re-verified verbatim on the Chudler page today. L52 now reads "can arrive" and "can be generated without access to the cause", and drops "unusually well-controlled". A cause-vs-object sentence was added. The description now reads "why the cause of our own amusement is hidden" and "the will directly reaches". (2) The L94 tenet paragraph was replaced with the review's conditional text. It names the common-cause/epiphenomenalist pattern and reads "compatible with … not evidence for it", matching L96 and `tenets.md` `^tenet-3-standing`. This discharges tenet-check 2026-09-30 row 4. (3) L74 now reads "a leading … predicts most of it". The L76 reason-gap derivation was repaired: the immediate report can miss the trigger, and analysis can recover it only by spending the joke. "Explain mirth away" became "explain mirth". L98 now carries the naive-audience clause, which resolves the contradiction with L78. L70 is conditional on the mirth-quale reading. (4) L44 now reads "without evident feeling". The L46 Provine passage was rewritten: "much", "laughter followed material…", and "Provine did not ask laughers for reasons" replace "mostly" and "explain it afterwards in terms of jokes". A Gervais & Wilson (2005) Duchenne/non-Duchenne clause was added. L62 now reads "partially independent", "at least partly anatomical" and "largely a different act". L64 and L88 treat spontaneity as a proxy for mirth, and L64 adds "directly". Riders: ref 12 (was 11) is retitled "The preaching humorist", with p. 16 and the preface's "pure"/"purely" difference noted, re-verified at Quote Investigator today. L98 cites "Morreall (2024)", which attaches the orphan ref. Trims: T1 removes L84's first observation, the author/laugher conflation; T2 removes the duplicate "primary text was not consulted" tail of ref 5; T3 removes "the void depends on" at L90.
+- **New reference**: Gervais & Wilson 2005, inserted as ref 6, with refs 6–13 renumbered 7–14. Crossref record printed: "The Evolution and Functions of Laughter and Humor: A Synthetic Approach", Matthew Gervais and David Sloan Wilson, *Quarterly Review of Biology* 80(4):395–430, 2005-12, DOI 10.1086/498281. The Europe PMC abstract states "two distinct types of laughter--Duchenne and non-Duchenne" and ties Duchenne laughter to "playful emotional contagion". It is cited only for that distinction.
+- **Guard check**: `git log -S` on all three trim spans returned only the creation commit 67fdc0a74c. None was installed by a review.
+- **Length**: analyze_length 2,848 → 2,985 (voids hard 3,000, gate `>=`; margin 14). This matches the review's scratch measurement exactly. voids.md L302 is 55 → 55 words: "Laughter can come first and reasons afterwards"; "humour seldom survives analysis or willed production".
+- **Reasoning modes** (editor-internal): Hurley/Dennett/Adams engagement: Mode One. The repaired derivation now follows from the theory's own detection mechanism. Epiphenomenalist/common-cause reading at L94: Mode Three. The tenet's causal claim is stated as conditional, and the evidence is conceded to be non-discriminating.
+- **Checks**: `evaluate_symmetry` None. No "This is not X. It is Y.", no "load-bearing". All 14 superseded strings return 0 and all 8 installed strings return 1. `ai_system` was left unchanged (targeted edits, not a re-authoring).
+- **Carried, not done** (per task): Issue 5 (will-gap generality: Rinn 1984, `agency-void` L64, contagion/indirect routes, L62 "feels empty"). Issue 6 (L82 "as they do in people"). Issue 7 (spontaneous-wit fence at L68; Bergson's unmarked extension at L90; "in front of her" sourcing at L36; reciprocal links from the comic article and `confabulation-void`). Issue 3e (L100 placement vs `three-kinds-of-void` L97). Also residual: L52 "the confabulated reason" and L96 "a confabulated reason" sit slightly uneasily beside the new cause-vs-object fence.
+- **Published**: yes
 
 ## 01:07 - refine-draft
 - **Status**: Success
