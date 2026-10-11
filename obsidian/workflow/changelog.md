@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T05:26:27+00:00
+ai_modified: 2026-10-11T05:49:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:49 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/cross-state-void` (created 2026-09-28, no commit since; first focused review of any kind; 2,985/3,000, headroom 14). Of the 51 articles added since 09-20, it is one of three with no pessimistic or deep review on either coverage method. It is the only untouched one carrying a known untasked item (tenet-check 09-30 NOTE on L93). Read against its research note, `tenets.md` L95 (`^tenet-3-standing`), `valence-void` L54/L106, `three-kinds-of-void` L51–L73 and `voids.md` L303. Read & Loewenstein 1999 (CMU PDF), Noordhof 2021 (RIFP PDF) and Kang & Camerer 2013 (Europe PMC) were read in full text; the other sources at OpenAlex, Crossref, Gutenberg #9662 and the Princeton repository.
+- **Clean**: every reachable quote is verbatim (Hume ×4, Morley, Loewenstein 2005, Nordgren ×3 papers, Sayette, Noordhof, Steinmetz). All 15 DOIs resolve. The WTAP direction ("markedly less money") is correct: WTAP counts offers accepted, 9.9 vs 4.2. No label leakage or banned construct; the altered-state gate does not apply; hugo is in sync.
+- **Findings**:
+  1. The lede's "clearest measurement" is an acquaintance-vs-description contrast, not a cross-state one. Every group chose after the pain ended, and the week-delayed (cold) groups kept the weight (3.9/5.6 vs 9.9). The authors predicted that controls "would underestimate the pain" and read the matched ratings as a defect of the ratings. L65 breaks L43's own ordering fence. L81 "having been there does not help" is contradicted by the study and by Helton & Register's abstract.
+  2. Every gap study cited locates the cold self's error in the estimate itself, so "content crosses, weight does not" and L53 outrun the sources. The hot-side half of "Both Directions" rests on one review sentence.
+  3. L93 counts a common-cause pattern as evidence (the epiphenomenalist predicts the same choices) against L67's declared neutrality. The article's own structural source, Noordhof, reverses the asymbolia order: "failure to have the disposition is the explanation of why they don't experience the pain as painful".
+  4. Structural and "Unexplorable" claims equivocate (epistemic/metaphysical check): Noordhof is pain-only with stated exceptions; "cannot be mapped from outside" contradicts L75; Steinmetz's "albeit" belongs to prior work, not their finding.
+- **Priority List**: cap 4 plus rider V1 (`voids.md` L303), with exact old→new strings; applied to a scratch copy and measured at 2,948 (−37, funded by T1 −28 on the L97 No Many Worlds sentence and T2 −22 on the L89 archivist clause). Carried off-list: classification and concealment, Morley's 59%, the Kang & Camerer direction, the authority split, the Mary/ability-hypothesis point, L83 "floor" wording, and a `valence-void` L106 cross-page note. A ready P2 refine-draft block is in the file for the driver to mint.
+- **Output**: [[reviews/pessimistic-2026-10-11-cross-state-void]]
 
 ## 05:26 - refine-draft
 - **Status**: Success
