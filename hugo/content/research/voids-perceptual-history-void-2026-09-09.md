@@ -217,7 +217,7 @@ Recommend **fold, not standalone.** The catalogue's stated discipline is absorpt
 
 - **[Predictive construction void](/voids/predictive-construction-void/)** — primary host. Cicchini et al. (2024) describe serial-dependence priors as generated at high cortical levels and fed back to sensory areas, which is that article's exact subject matter; the pull face and the awareness-gating result belong here.
 - **[Fusion void](/voids/fusion-void/)** — the diachronic-merging face, as an explicit temporal counterpart to concurrent cue fusion.
-- **[Smoothness and continuity](/voids/smoothness-and-continuity/)** — the stability face, where a mechanism for manufactured stability is directly on topic.
+- **[Smoothness and continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)** — the stability face, where a mechanism for manufactured stability is directly on topic.
 - **[Self-opacity](/voids/self-opacity/)** and, lightly, [the noetic feelings void](/voids/noetic-feelings-void/) — the methodological self-implication and the absence of any felt marker.
 
 If a standalone slot is ever allocated, angle 1 is the one that justifies it.

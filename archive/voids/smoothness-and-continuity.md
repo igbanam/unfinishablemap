@@ -41,6 +41,11 @@ last_deep_review: 2026-07-19T14:17:25+00:00
 coalesced_from:
   - "/voids/smoothness-problem/"
   - "/voids/continuity-void/"
+archived: true
+archived_date: 2026-10-11T10:40:40+00:00
+superseded_by: "/topics/neural-refresh-rates-and-the-smoothness-problem/"
+archive_reason: "Coalesced into Neural Refresh Rates and the Smoothness Problem"
+original_path: "/voids/smoothness-and-continuity/"
 ---
 
 The Unfinishable Map identifies a double void at the heart of temporal consciousness. First, neural activity operates in discrete bursts — action potentials fire or don't, oscillations cycle at measurable frequencies, perceptual sampling occurs in periodic snapshots at roughly 4-13 Hz — yet conscious experience flows without gaps, seams, or flicker. Second, consciousness cannot determine whether this apparent flow is genuine continuity or a construction from discrete moments, because every method of investigation either presupposes the answer or transforms what it examines. The mismatch between substrate and phenomenology is one problem; the structural impossibility of resolving it is another. Read through the Map's [[tenets#^dualism|dualist]] commitments, the pair marks a limit of physical explanation — a framework-relative verdict, not a neutral description: functionalism and illusionism accommodate the same findings by denying premises the Map keeps ([[#Why Physical Smoothing Falls Short|below]]). In the origin-class terms of the [[apex/taxonomy-of-voids#void-clustering-audit|void clustering audit]], the discrete-sampling evidence and the measurement circularity are framework-independent, but the unreachability verdict is dualism-specific — under the [[common-cause-null|common-cause null]], this void contributes framework-internal coherence, not independent confirmation of the tenets ([[what-voids-reveal]]).

@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - Missing cross-link to [grain-mismatch](/concepts/grain-mismatch/) concept page (created since article was written): Added
-- Missing cross-links to [temporal-consciousness](/concepts/temporal-consciousness/), [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/), [attention-as-interface](/concepts/attention-as-interface/), [continuity-void](/voids/smoothness-and-continuity/): Added throughout body and Further Reading
+- Missing cross-links to [temporal-consciousness](/concepts/temporal-consciousness/), [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/), [attention-as-interface](/concepts/attention-as-interface/), [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/): Added throughout body and Further Reading
 - Description at 119 chars, below 150-160 target: Extended to 157 chars
 - No Many Worlds tenet not addressed in Relation to Site Perspective (other voids cover all five): Added section
 
@@ -61,7 +61,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/)
-- [continuity-void](/voids/smoothness-and-continuity/)
+- [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 
 ## Remaining Items
 

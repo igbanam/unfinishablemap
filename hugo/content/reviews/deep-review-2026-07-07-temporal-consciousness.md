@@ -69,7 +69,7 @@ Opening three-timescale cascade; Bergson durée / qualitative multiplicity; temp
 None. Confirmation review; no content edits warranted.
 
 ### Cross-links Added
-None. All inline body wikilinks resolve to live (non-archived) pages; the [smoothness-and-continuity](/voids/smoothness-and-continuity/) void reciprocates. Article is already richly cross-linked.
+None. All inline body wikilinks resolve to live (non-archived) pages; the [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) void reciprocates. Article is already richly cross-linked.
 
 ## Length Check
 - 2939 words (118% of 2500 soft target) — soft_warning, well under the 3500 concepts hard cap. No condensation needed. Metadata-only pass; length-neutral.

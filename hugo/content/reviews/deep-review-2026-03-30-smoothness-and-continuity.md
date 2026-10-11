@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-03-30
-**Article**: [Smoothness and Continuity](/voids/smoothness-and-continuity/)
+**Article**: [Smoothness and Continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-smoothness-problem/) (pre-coalescence, reviewed old smoothness-problem article)
 **Context**: First post-coalescence review. Cross-review against temporal-consciousness, binding-problem, grain-mismatch, neural-refresh-rates-and-the-smoothness-problem, capability-division-problem, bergson-and-duration, temporal-void, resolution-void, observation-and-measurement-void, unity-of-consciousness, temporal-structure-of-consciousness, episodic-memory.
 

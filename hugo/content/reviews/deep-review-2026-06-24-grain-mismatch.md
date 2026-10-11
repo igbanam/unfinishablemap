@@ -48,7 +48,7 @@ The wrong "Lee 2023" year had propagated across 7 live files (intra-corpus consi
 - [voids/resolution-void.md](/voids/resolution-void/) (inline + References)
 - [topics/neural-refresh-rates-and-the-smoothness-problem.md](/topics/neural-refresh-rates-and-the-smoothness-problem/) (References)
 - [topics/grain-mismatch-as-independent-evidence.md](/topics/grain-mismatch-as-independent-evidence/) (References)
-- [voids/smoothness-and-continuity.md](/voids/smoothness-and-continuity/) (References)
+- [voids/smoothness-and-continuity.md](/topics/neural-refresh-rates-and-the-smoothness-problem/) (References)
 - [concepts/temporal-consciousness.md](/concepts/temporal-consciousness/) (References)
 
 Each sibling's `ai_modified` was bumped to reflect the metadata fix; `last_deep_review` was NOT touched on the siblings (a propagated cite fix is not a deep review — leaving their drift detection intact). `archive/voids/continuity-void.md` and research notes (`research/voids-*`) left unchanged (archived/notes scope).

@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-10-11
 human_modified: 2026-01-08
-ai_modified: 2026-10-11T01:20:41+00:00
+ai_modified: 2026-10-11T10:40:40+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -193,7 +193,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [[agency-void|The Agency Void]] — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
 - [[decision-void|The Decision Void]] — The structural opacity of the deliberation→commitment crossing: three faces (closure / latency / reconstruction) at the most theoretically motivated site for any non-physical influence on the physical world; cognate to suspension-void and sister-regress to inference-void (created 2026-05-10)
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
-- [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
+- [[neural-refresh-rates-and-the-smoothness-problem#the-continuity-void|The Continuity Void / Smoothness Problem]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain (coalesced 2026-10-11)
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[noetic-feelings-void|The Noetic Feelings Void]] — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [[vertiginous-question|The Indexical Void / Vertiginous Question]] — Why first-person identity resists explanation (coalesced 2026-04-23)

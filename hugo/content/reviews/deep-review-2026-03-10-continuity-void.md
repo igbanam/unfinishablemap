@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [The Continuity Void](/voids/smoothness-and-continuity/)
+**Article**: [The Continuity Void](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

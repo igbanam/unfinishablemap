@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-06-25
-**Article**: [Smoothness and Continuity](/voids/smoothness-and-continuity/)
+**Article**: [Smoothness and Continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: [2026-05-26](/reviews/deep-review-2026-05-26-smoothness-and-continuity/) (second post-coalescence review)
 **Review context**: Re-qualified for review by a cosmetic `ai_modified` bump — the 2026-06-24 grain-mismatch deep review (commit 6b581a337) touched only the cross-link timestamp on its face, BUT that same commit silently regressed a previously-verified citation (see Critical Issues). Third deep review; convergence-damping does NOT exclude (prior `last_deep_review` 2026-05-26 ≈ 30d, outside the 14-day cutoff). Article body content otherwise unchanged since the 2026-05-26 full citation re-verification.
 

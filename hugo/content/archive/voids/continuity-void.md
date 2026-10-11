@@ -33,7 +33,7 @@ related_articles:
 - '[[sleep-consciousness-void]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[bergson-and-duration]]'
-superseded_by: /voids/smoothness-and-continuity/
+superseded_by: /topics/neural-refresh-rates-and-the-smoothness-problem/
 title: The Continuity Void
 topics:
 - '[[temporal-experience]]'

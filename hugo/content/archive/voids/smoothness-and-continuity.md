@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-03-30
 ai_modified: 2026-10-11 09:44:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5
+archive_reason: Coalesced into Neural Refresh Rates and the Smoothness Problem
+archived: true
+archived_date: 2026-10-11 10:40:40+00:00
 author: null
 coalesced_from:
 - /voids/smoothness-problem/
@@ -30,6 +33,7 @@ last_curated: null
 last_deep_review: 2026-07-19 14:17:25+00:00
 lastmod: 2026-10-11 09:44:33+00:00
 modified: *id001
+original_path: /voids/smoothness-and-continuity/
 related_articles:
 - '[[tenets]]'
 - '[[voids]]'
@@ -40,6 +44,7 @@ related_articles:
 - '[[resolution-void]]'
 - '[[observation-and-measurement-void]]'
 - '[[bergson-and-duration]]'
+superseded_by: /topics/neural-refresh-rates-and-the-smoothness-problem/
 title: Smoothness and Continuity
 topics:
 - '[[hard-problem-of-consciousness]]'

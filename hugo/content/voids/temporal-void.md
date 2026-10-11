@@ -163,7 +163,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 - [The Absorption Void](/voids/disappearance-voids/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [smoothness-and-continuity](/voids/smoothness-and-continuity/) — Whether consciousness has gaps
+- [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory

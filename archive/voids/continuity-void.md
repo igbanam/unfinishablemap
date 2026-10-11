@@ -8,7 +8,7 @@ ai_modified: 2026-08-08T17:26:00+00:00
 draft: false
 archived: true
 archived_date: 2026-03-30T04:03:00+00:00
-superseded_by: "/voids/smoothness-and-continuity/"
+superseded_by: "/topics/neural-refresh-rates-and-the-smoothness-problem/"
 archive_reason: "Coalesced into Smoothness and Continuity"
 original_path: "/voids/continuity-void/"
 topics:

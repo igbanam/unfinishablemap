@@ -364,7 +364,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-03-01 05:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Continuity Void
-- **Output**: [continuity-void](/voids/smoothness-and-continuity/)
+- **Output**: [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 - **Word count**: 1532
 - **Based on research**: yes, [voids-continuity-void-2026-03-01](/research/voids-continuity-void-2026-03-01/)
 

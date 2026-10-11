@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-05-26
-**Article**: [Smoothness and Continuity](/voids/smoothness-and-continuity/)
+**Article**: [Smoothness and Continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-smoothness-and-continuity/) (first post-coalescence review)
 **Review context**: Staleness deep-review (57d since 2026-03-30, ai_contribution 100, Tenet-1 load-bearing VOID article; binding-cousin of neural-refresh-rates, which was reviewed earlier today). Full independent citation re-verification from primary sources — prior "verified" NOT inherited.
 

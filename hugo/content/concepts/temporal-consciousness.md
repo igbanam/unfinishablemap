@@ -104,7 +104,7 @@ The specious present was named by E.R. Clay and developed by William James, Huss
 
 Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are nested components of temporal experience, not competing estimates.
 
-The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/voids/smoothness-and-continuity/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, forthcoming)—but the collapse framework makes extensionalism a natural fit.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity void](/topics/neural-refresh-rates-and-the-smoothness-problem/) reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, forthcoming)—but the collapse framework makes extensionalism a natural fit.
 
 ### The Irreducibility Argument
 
@@ -215,7 +215,7 @@ Temporal consciousness connects to all five tenets:
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the growing block position
 - [Time-bias and "Thank goodness that's over"](/topics/time-bias-and-thank-goodness-thats-over/) — Prior's relief argument: what the felt pastness of a finished pain can and cannot show about time
-- [smoothness-and-continuity](/voids/smoothness-and-continuity/) — The smoothness problem and why consciousness cannot determine its own temporal grain
+- [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The smoothness problem and why consciousness cannot determine its own temporal grain
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness

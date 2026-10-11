@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Smoothness Problem](/voids/smoothness-and-continuity/)
+**Article**: [The Smoothness Problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -55,7 +55,7 @@ topics: []
 - Added `[[continuity-void]]` to related_articles
 
 ### Cross-links Added
-- [continuity-void](/voids/smoothness-and-continuity/)
+- [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [illusionism](/concepts/illusionism/)
 - [process-philosophy](/concepts/process-philosophy/)

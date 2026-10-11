@@ -78,7 +78,7 @@ Integration kept minimal due to word count constraints (article at 118% of soft 
 - Tightened dissolving-insight interpretation paragraph (merged sentences)
 
 ### Cross-links Added
-- [continuity-void](/voids/smoothness-and-continuity/)
+- [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/)
 
 ## Remaining Items
 

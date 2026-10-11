@@ -28,7 +28,7 @@ topics: []
 The coalesce made this article the survivor of a merge with `concepts/neural-refresh-rates` (now archived at its old URL). Body change was limited to **three internal cross-link sentences** — no new external citations, no new factual claims, no new arguments, References block byte-unchanged:
 
 1. §Neural Evidence — appended reciprocal pointer to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) ("~25 ms gamma cycle and ~500 ms frontal theta band bound which quantum mechanisms could plausibly influence neural timing").
-2. §Relation to Site Perspective / Bidirectional interaction — appended [capability-division-problem](/voids/capability-division-problem/) framing + [smoothness-and-continuity](/voids/smoothness-and-continuity/) void consequence.
+2. §Relation to Site Perspective / Bidirectional interaction — appended [capability-division-problem](/voids/capability-division-problem/) framing + [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) void consequence.
 3. Further Reading — three matching cross-link entries.
 
 Frontmatter: `related_articles` swapped `[[neural-refresh-rates]]` (the archived merge source) for `[[quantum-neural-timing-constraints]]`, `[[capability-division-problem]]`, `[[smoothness-and-continuity]]`; `coalesced_from: /concepts/neural-refresh-rates/` added.
@@ -41,7 +41,7 @@ Frontmatter: `related_articles` swapped `[[neural-refresh-rates]]` (the archived
 ### Verification of the Three New Cross-Links
 - **[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)** — resolves (obsidian/topics/). The ~500 ms frontal theta figure is faithfully sourced in that sibling (Rajan et al. 2019 row; "frontal theta power increases at ~500ms post-cue during willed attention"), and the reference is **reciprocal** — the sibling explicitly states "the gamma cycle (~25 ms) and frontal theta (~500 ms) rows are treated as oscillatory sampling bands in [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)". No new claim introduced; faithful.
 - **[capability-division-problem](/voids/capability-division-problem/)** — resolves (obsidian/voids/). Framing consistent with the pre-existing Relation-to-Site content.
-- **[smoothness-and-continuity](/voids/smoothness-and-continuity/)** — resolves (obsidian/voids/). Consequence sentence duplicates an idea already present in the converged Relation section; no calibration change.
+- **[smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)** — resolves (obsidian/voids/). Consequence sentence duplicates an idea already present in the converged Relation section; no calibration change.
 
 ### Citations Web-Verify (§2.4)
 - References block **byte-unchanged** since the 2026-06-25 publisher-of-record pass. No new inline cites added by the coalesce. Full per-cite ledger inherited from 2026-06-25 (VanRullen 2016, Crick & Koch 1990, Herzog/Drissi-Daoudi/Doerig 2020 [author order confirmed 2026-06-26], Zheng & Meister 2025, Bergson 1907 *Creative Evolution* ch.4, James 1890, Dainton 2000/2006, Sellars 1965, Locke 1689, Lee 2024). No web-spend warranted — the trigger fired on internal cross-links, not bibliographic change.

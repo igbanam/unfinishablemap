@@ -37,7 +37,7 @@ related_articles:
 - '[[continuity-void]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[neural-refresh-rates-smoothness-problem-2026-03-08]]'
-superseded_by: /voids/smoothness-and-continuity/
+superseded_by: /topics/neural-refresh-rates-and-the-smoothness-problem/
 title: The Smoothness Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -108,7 +108,7 @@ This resonates with [Whitehead's process philosophy](/concepts/process-philosoph
 - [binding-problem](/concepts/binding-problem/) — Spatial cousin of the smoothness problem
 - [grain-mismatch](/concepts/grain-mismatch/) — The spatial face of the same structural incompatibility between phenomenal smoothness and neural discreteness
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Full treatment of the smoothness problem as a concrete instance of the explanatory gap
-- [continuity-void](/voids/smoothness-and-continuity/) — Why consciousness cannot determine its own temporal grain
+- [continuity-void](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Why consciousness cannot determine its own temporal grain
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Temporal unity as the diachronic dimension of conscious unity
 - [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [explanatory-gap](/concepts/explanatory-gap/)

@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-27 23:35:22+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-11 10:40:40+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/neural-refresh-rates/
+- /voids/smoothness-and-continuity/
 concepts:
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
@@ -14,15 +15,21 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 - '[[grain-mismatch]]'
+- '[[introspection]]'
+- '[[process-philosophy]]'
+- '[[illusionism]]'
+- '[[unity-of-consciousness]]'
+- '[[philosophy-of-time]]'
 created: 2026-03-17
-date: &id001 2026-03-17
-description: Rhythmic neural sampling at 7-13 Hz clashes with smooth conscious experience—a
-  concrete instance of the explanatory gap that functionalism and dualism answer differently.
+date: &id001 2026-10-11
+description: 'Rhythmic 7-13 Hz neural sampling clashes with smooth conscious experience—an
+  explanatory gap functionalism and dualism answer differently, over a void: introspection
+  cannot settle whether the flow is real.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 07:54:35+00:00
-lastmod: 2026-09-27 23:35:22+00:00
+lastmod: 2026-10-11 10:40:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,7 +39,12 @@ related_articles:
 - '[[grain-mismatch-as-independent-evidence]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[capability-division-problem]]'
-- '[[smoothness-and-continuity]]'
+- '[[voids]]'
+- '[[temporal-void]]'
+- '[[resolution-void]]'
+- '[[observation-and-measurement-void]]'
+- '[[bergson-and-duration]]'
+- '[[episodic-memory]]'
 title: Neural Refresh Rates and the Smoothness Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -40,7 +52,7 @@ topics:
 - '[[the-binding-problem]]'
 ---
 
-The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz — a sensory alpha rhythm near 10 Hz alongside a slower attentional rhythm near 7 Hz — and may bind features at ~40 Hz gamma frequencies. That the sampling is rhythmic is well evidenced — detection of brief stimuli varies with alpha phase, and the attentional blink exposes a refractory period in conscious access. Whether that rhythmicity amounts to genuinely *discrete* perception remains contested. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (periodic sampling) and a specific phenomenal feature (continuity) that pull in opposite directions.
+The brain samples the world periodically rather than continuously. Neural oscillations sample at roughly 7–13 Hz — a sensory alpha rhythm near 10 Hz alongside a slower attentional rhythm near 7 Hz — and may bind features at ~40 Hz gamma frequencies. That the sampling is rhythmic is well evidenced — detection of brief stimuli varies with alpha phase, and the attentional blink exposes a refractory period in conscious access. Whether that rhythmicity amounts to genuinely *discrete* perception remains contested. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [explanatory gap](/concepts/explanatory-gap/) between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (periodic sampling) and a specific phenomenal feature (continuity) that pull in opposite directions. Beneath it lies a second problem: consciousness may be unable to tell from the inside whether its own flow is genuinely continuous or assembled from discrete moments, a limit treated as a void [below](#the-continuity-void).
 
 ## The Neural Evidence for Discrete Processing
 
@@ -84,6 +96,18 @@ Second, his target question is not identical to this one. Lee is explicit that t
 
 With those two qualifications registered, the caveat still cuts both ways. The dualist cannot prove from introspection alone that temporal experience is genuinely smooth. But the physicalist cannot rescue identity by claiming temporal experience is "really" periodic either. If experience were discrete at a grain matching neural oscillations, the smoothness problem would dissolve — and Lee's result, to the extent it transfers to the temporal case, is that introspective evidence does not settle which way to go. The structural puzzle identified by the phenomenological tradition persists precisely because the tool we would most want to resolve it with — introspective access to temporal phenomenal microstructure — cannot by itself decide the matter.
 
+## The Continuity Void
+
+The caveat generalises into a [void](/voids/). Whether the flow of experience is genuine continuity or a construction from discrete moments may be unanswerable from inside, because each way of investigating it either presupposes the answer or alters what it examines.
+
+The first obstacle is circularity. To time a conscious moment, consciousness must serve as both clock and thing measured. If experience is discrete, the measuring act occupies a moment of the same grain and cannot resolve anything finer; if it is continuous, marking a boundary creates one where none existed. Film can be slowed until its frames show, but slowing [introspection](/concepts/introspection/) reveals no frames, only a different experience. Contemplative practice meets the same wall. Vipassana practitioners report perceiving momentary *khaṇas*, discrete flashes of experience, yet the [observation problem](/voids/observation-and-measurement-void/) applies: sustained attention to temporal boundaries may construct discreteness rather than discover it.
+
+The second is non-convergence. Proposed lengths for the specious present, the experienced duration of "now", range from a fraction of a second to several seconds. Temporal-order judgements, simultaneity windows, fusion thresholds and rhythmic grouping each operationalise "now" differently, and none captures the duration of a single unit of experience as experienced; that notion may not be coherent. Bergson's warning reaches further. Asking whether consciousness comes in "moments" already spatialises time, and asking whether it is "continuous" imports limits and density from mathematics that may not apply to phenomenal structure.
+
+The third is underdetermination. Four accounts of [temporal consciousness](/concepts/temporal-consciousness/) fit the same first-person evidence: the cinematic model (rapid static snapshots), Husserl's retentional model (each moment temporally thick with retention and protention), the extensional model (experience genuinely spanning intervals, as Dainton holds), and Dennett's Multiple Drafts, which denies a single stream with determinate temporal structure. The first three predict identical phenomenology; the fourth denies that the predictions describe anything real. [Parsimony](/tenets/#occams-limits) cannot break the tie, because the simplest-seeming model, continuity because it feels continuous, rests on the introspective evidence that Lee's result, to the extent it transfers, leaves open.
+
+The circularity and the non-convergence are framework-independent. Reading them as a permanent limit is the Map's dualism-specific verdict (see the [void clustering audit](/apex/taxonomy-of-voids/#void-clustering-audit)), so under the [common-cause null](/project/common-cause-null/) this void adds coherence to the tenets rather than independent confirmation of them.
+
 ## Physical Smoothing Mechanisms
 
 Physicalists offer several mechanisms for bridging the discrete-to-continuous gap. Predictive coding models suggest the brain generates continuous forward predictions that fill gaps between discrete sensory samples. Temporal interpolation algorithms — analogous to frame interpolation in video processing — could smooth transitions between perceptual snapshots. Recurrent neural circuits might sustain activation patterns across oscillatory troughs.
@@ -122,7 +146,7 @@ The smoothness problem aligns with several of the Map's [tenets](/tenets/).
 
 **Dualism.** For those who reject functionalism, the smoothness problem illustrates the [dualism tenet](/tenets/#dualism) concretely. If functional organisation does not exhaust phenomenal character, then the continuity of experience is a property that physical description — including the most detailed account of temporal integration mechanisms — leaves out. The Map treats smoothness as one instance among many (alongside [qualia](/concepts/qualia/) like colour and pain) where the explanatory gap between physical process and phenomenal character becomes apparent. The smoothness case is distinctive not because it is a separate argument but because the rhythmicity of neural sampling is empirically established, making the gap particularly precise.
 
-**Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [bidirectional interaction tenet](/tenets/#bidirectional-interaction), though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts. Framed this way, the smoothness problem is an instance of the [capability-division-problem](/voids/capability-division-problem/): the brain provides discrete temporal snapshots, while consciousness may contribute the seamless continuity that characterises experience. The [smoothness-and-continuity](/voids/smoothness-and-continuity/) void develops a further consequence — if temporal smoothness is contributed by consciousness rather than constructed by the brain, consciousness cannot determine its own temporal grain from the inside.
+**Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [bidirectional interaction tenet](/tenets/#bidirectional-interaction), though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts. Framed this way, the smoothness problem is an instance of the [capability-division-problem](/voids/capability-division-problem/): the brain provides discrete temporal snapshots, while consciousness may contribute the seamless continuity that characterises experience. If consciousness also helps set when unconscious processing renders into awareness, the [continuity void](#the-continuity-void) becomes self-referential: the temporal grain consciousness cannot measure may be one it partly constitutes.
 
 The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
 
@@ -138,7 +162,7 @@ The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independ
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Where the ~25 ms gamma and ~500 ms theta bands bound viable quantum mechanisms
 - [capability-division-problem](/voids/capability-division-problem/) — The general problem of dividing capabilities between brain and mind
-- [smoothness-and-continuity](/voids/smoothness-and-continuity/) — The continuity void: consciousness cannot determine its own temporal grain from the inside
+- [temporal-void](/voids/temporal-void/) — Other temporal limits on consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 

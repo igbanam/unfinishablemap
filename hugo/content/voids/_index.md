@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-11 01:20:41+00:00
+ai_modified: 2026-10-11 10:40:40+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-10-11 01:20:41+00:00
+lastmod: 2026-10-11 10:40:40+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -197,7 +197,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Agency Void](/voids/agency-void/) — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
 - [The Decision Void](/voids/decision-void/) — The structural opacity of the deliberation→commitment crossing: three faces (closure / latency / reconstruction) at the most theoretically motivated site for any non-physical influence on the physical world; cognate to suspension-void and sister-regress to inference-void (created 2026-05-10)
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
-- [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
+- [The Continuity Void / Smoothness Problem](/topics/neural-refresh-rates-and-the-smoothness-problem/#the-continuity-void) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain (coalesced 2026-10-11)
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
 - [The Noetic Feelings Void](/voids/noetic-feelings-void/) — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — Why first-person identity resists explanation (coalesced 2026-04-23)
