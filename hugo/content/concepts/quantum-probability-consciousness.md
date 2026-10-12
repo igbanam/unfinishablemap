@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-27 10:50:36+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-12 13:40:45+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/quantum-probability-and-consciousness/
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:17:16+00:00
-lastmod: 2026-09-27 10:50:36+00:00
+lastmod: 2026-10-12 13:40:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ The Map's position differs from universal consciousness-collapse: physical mecha
 
 ## The Decoherence Challenge
 
-A critical objection: [decoherence](/concepts/decoherence/) destroys quantum superpositions in warm biological systems almost instantly—Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules, though Hagan et al. (2002) disputed his parameters, yielding estimates eight to nine orders of magnitude longer—a recalibration Reimers et al. (2009) and McKemmish et al. (2009) then contested in turn, leaving the dispute live rather than settled either way.
+A critical objection: [decoherence](/concepts/decoherence/) destroys quantum superpositions in warm biological systems almost instantly—Tegmark (2000) calculated a decoherence time of about 10⁻¹³ seconds for neural microtubules, though Hagan et al. (2002) disputed his parameters, yielding estimates eight to nine orders of magnitude longer—a recalibration Reimers et al. (2009) and McKemmish et al. (2009) then contested in turn, leaving the dispute live rather than settled either way.
 
 The interface view does not require sustained coherence. It requires only that consciousness bias *which outcome* occurs when superposition resolves. Decoherence selects preferred bases and suppresses interference, but it doesn't determine which outcome from the resulting mixture becomes actual—physics doesn't specify what does.
 

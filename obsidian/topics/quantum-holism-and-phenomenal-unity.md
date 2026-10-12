@@ -4,7 +4,7 @@ description: "Classical binding coordinates separate processes but cannot make t
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-10-12T10:08:55+00:00
+ai_modified: 2026-10-12T13:40:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-07-30T19:47:42+00:00
@@ -115,7 +115,7 @@ The gap between "physically unified" and "phenomenally unified" may be bridged b
 
 ## The Decoherence Debate
 
-The standard objection to quantum consciousness is [[decoherence]]. Warm, wet biological systems should destroy quantum superpositions almost instantly. Max Tegmark's influential 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds in neural microtubules.
+The standard objection to quantum consciousness is [[decoherence]]. Warm, wet biological systems should destroy quantum superpositions almost instantly. Max Tegmark's influential 2000 calculation estimated decoherence times of about 10⁻¹³ seconds in neural microtubules.
 
 This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium, which living tissue does not maintain. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**eight to nine orders of magnitude longer** than Tegmark calculated. But two distinct 2009 feasibility critiques press from other directions: Reimers et al. found the coherent Fröhlich condensation Orch OR needs inaccessible in living tissue, and McKemmish et al. found tubulin lacks the rapid conformational switching its qubits require. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 

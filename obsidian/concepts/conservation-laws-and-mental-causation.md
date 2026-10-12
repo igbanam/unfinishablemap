@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? Not on the clas
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-10-10T09:24:13+00:00
+ai_modified: 2026-10-12T13:40:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ Their model's specific prediction of temperature-independent exocytosis was late
 
 Doesn't [[decoherence]] destroy quantum superpositions too quickly in warm neural tissue for consciousness to interact with them?
 
-This objection requires careful handling because it involves two separable questions. Decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times of 10^-13 to 10^-20 seconds for neural microtubules — far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
+This objection requires careful handling because it involves two separable questions. Decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times: 10^-20 seconds for neuron firing, 10^-13 for microtubules — far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
 
 This creates a tension within the selection framework that should be stated honestly. Stapp's quantum Zeno mechanism *does* require repeated observation of coherent states. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate far too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's model parameters, yielding estimates eight to nine orders of magnitude longer, but this challenge has not achieved consensus in the physics community.
 

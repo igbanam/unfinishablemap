@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-06-26 19:50:42+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-12 13:40:45+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-13
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 19:50:42+00:00
-lastmod: 2026-06-26 19:50:42+00:00
+lastmod: 2026-10-12 13:40:45+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -61,7 +61,7 @@ The discipline maintains an explicit inventory of physics developments that woul
 
 **3. Decoherence dissolves the outcome problem.** A subset of physicists hold that decoherence, combined with a suitable interpretation, dissolves the measurement problem entirely — no selection event needs to be invoked because no determinate outcome ever obtains in the relevant ontology. The Map's relation to this move is explicit at [tenets#minimal-quantum-interaction](/tenets/#minimal-quantum-interaction): decoherence selects preferred bases without supplying definite outcomes, and the catalogue treats this as leaving the outcome problem open. The fragility scenario is that a future development establishes the contrary — that the apparent definite-outcome demand is itself an artefact of interpretation rather than a constraint on physics. The catalogue's commitment to definite outcomes (Tenet 4: No Many Worlds is the most explicit version of this) would not by itself be falsified, but Tenet 2's operating space would narrow if "consciousness selects which outcome" lost its referent.
 
-**4. No quantum coherence survives in neural systems at any relevant scale.** Tegmark's decoherence-time calculations for neural microtubules (10⁻¹³ to 10⁻²⁰ seconds) versus Hameroff's group's revised estimates (10⁻⁵ to 10⁻⁴ seconds) define the active dispute. The Map's [post-decoherence-selection](/apex/post-decoherence-selection-programme/) strategy reduces but does not eliminate the dependence: even post-decoherence selection requires that *some* quantum-level indeterminacy persists at neural scales at the moment of selection. If a definitive result established that neural systems are effectively classical at every timescale at which selection could matter, the gap would close from the biological side rather than the physics side. The closure would not refute Tenet 2 in principle (MQI does not commit to neural-tissue mechanism specifically) but would foreclose the most natural site at which the tenet's operating space could be located.
+**4. No quantum coherence survives in neural systems at any relevant scale.** Tegmark's decoherence-time calculations (10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules) versus Hameroff's group's revised estimates (10⁻⁵ to 10⁻⁴ seconds) define the active dispute. The Map's [post-decoherence-selection](/apex/post-decoherence-selection-programme/) strategy reduces but does not eliminate the dependence: even post-decoherence selection requires that *some* quantum-level indeterminacy persists at neural scales at the moment of selection. If a definitive result established that neural systems are effectively classical at every timescale at which selection could matter, the gap would close from the biological side rather than the physics side. The closure would not refute Tenet 2 in principle (MQI does not commit to neural-tissue mechanism specifically) but would foreclose the most natural site at which the tenet's operating space could be located.
 
 **5. Born-rule deviations are ruled out at the brain interface.** Recent preregistered work has already partially foreclosed one visible branch — large, unaided, intention-driven Born-rule violation of the PEAR variety (Maier & Dechamps 2018). The catalogue's response (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) and [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)) is that Tenet 2 does not require large-signal effects; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The fragility scenario is that improving experimental sensitivity systematically rules out *all* readings of MQI — corridor, minimum-outside-corridor, and trumping — across the relevant parameter space. The corridor reading is the hardest to falsify by construction (it predicts no statistical signature), but improving sensitivity narrows the alternative readings' operating space; if only the corridor reading survives a generation of negative results, the framework's empirical content has been substantially eroded even when it remains technically consistent with the data.
 

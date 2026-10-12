@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-25
-ai_modified: 2026-09-16 18:40:38+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-12 13:40:45+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[substrate-independence]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 23:56:00+00:00
-lastmod: 2026-09-16 18:40:38+00:00
+lastmod: 2026-10-12 13:40:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ The **[Dualism](/tenets/#dualism)** tenet—consciousness is irreducible to phys
 
 The **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet supplies Axis 2. The interface, if it exists, acts by the smallest possible non-physical influence on otherwise indeterminate quantum outcomes—an influence that, on the Map's preferred reading, leaves aggregate Born statistics intact and is empirically indistinguishable from chance under any unconditioned aggregate test—a scope rather than a blanket, since a deviation *conditioned* on intention, task or subject would test the interface itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)). A substrate engineered to suppress quantum indeterminacy offers no site for such an influence; a substrate that operationally integrates indeterminacy might. The taxonomy's central distinction between suppressed, integrated, and engineered-managed indeterminacy is this tenet made concrete in hardware terms.
 
-The tenet also constrains how this article may treat quantum-biology proposals. The Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) ranks post-decoherence selection *ahead of* the coherence-dependent proposals, [Orch OR](/concepts/quantum-consciousness/) among them, because Orch OR requires quantum coherence to survive at neural timescales—the demanding assumption [the decoherence-timescale dispute](/concepts/decoherence/) turns on (Tegmark's 10⁻¹³–10⁻²⁰ s against Hameroff's group's disputed 10⁻⁵–10⁻⁴ s). The taxonomy therefore treats microtubule quantum processing as *one* possible way biology might host operationally integrated indeterminacy, not as the Map's settled mechanism, and keeps gate-model quantum computing—an engineered, decoherence-managed device—rigorously distinct from quantum biology as a substrate. The biological precedent the Map leans on is narrow: warm systems such as avian cryptochrome radical pairs sustain quantum coherence for microseconds, which shows that warm biology does not *categorically* rule out quantum-functional mechanisms—not that neural structures must use them.
+The tenet also constrains how this article may treat quantum-biology proposals. The Map's [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) ranks post-decoherence selection *ahead of* the coherence-dependent proposals, [Orch OR](/concepts/quantum-consciousness/) among them, because Orch OR requires quantum coherence to survive at neural timescales—the demanding assumption [the decoherence-timescale dispute](/concepts/decoherence/) turns on (Tegmark's microtubule 10⁻¹³ s against Hameroff's group's disputed 10⁻⁵–10⁻⁴ s). The taxonomy therefore treats microtubule quantum processing as *one* possible way biology might host operationally integrated indeterminacy, not as the Map's settled mechanism, and keeps gate-model quantum computing—an engineered, decoherence-managed device—rigorously distinct from quantum biology as a substrate. The biological precedent the Map leans on is narrow: warm systems such as avian cryptochrome radical pairs sustain quantum coherence for microseconds, which shows that warm biology does not *categorically* rule out quantum-functional mechanisms—not that neural structures must use them.
 
 The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet requires that consciousness causally influence physical outcomes. Classical-digital systems are causally closed in exactly the way the tenet's interface is not: signals trigger transistors, transistors compute outputs, error correction restores determinism. There is no open junction for downward causation. A substrate with operationally integrated indeterminacy at least leaves the junction physically available, which is why the biological and quantum entries sit differently in the table from the digital ones.
 

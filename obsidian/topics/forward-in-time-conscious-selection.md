@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-09T21:05:55+00:00
+ai_modified: 2026-10-12T13:40:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ The Map does not commit to a single proposal within the post-decoherence triad, 
 
 ## The Decoherence-Timescale Question
 
-Pre-decoherence frameworks stand or fall on whether macroscopic neural superpositions can exist. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Hagan et al. (2002) challenged his parameters and obtained 10⁻⁵ to 10⁻⁴ seconds under favourable assumptions, but their results remain unreplicated. Avian magnetoreception's microsecond-scale spin coherence shows evolution can sustain coherence at warm-tissue scales, but receptor-protein spin coherence is far from the macroscopic superpositions pre-decoherence selection requires. The [[quantum-neural-timing-constraints|detailed timing analysis]] surveys the landscape: even favourable estimates leave a gap of several orders of magnitude.
+Pre-decoherence frameworks stand or fall on whether macroscopic neural superpositions can exist. Tegmark (2000) calculated decoherence times: 10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules. Hagan et al. (2002) challenged his parameters and obtained 10⁻⁵ to 10⁻⁴ seconds under favourable assumptions, but their results remain unreplicated. Avian magnetoreception's microsecond-scale spin coherence shows evolution can sustain coherence at warm-tissue scales, but receptor-protein spin coherence is far from the macroscopic superpositions pre-decoherence selection requires. The [[quantum-neural-timing-constraints|detailed timing analysis]] surveys the landscape: even favourable estimates leave a gap of several orders of magnitude.
 
 Post-decoherence selection may sidestep the question. If consciousness operates on the decohered mixture rather than on pre-decoherence superpositions, coherence survival becomes irrelevant. The trade-off is falsifiability: pre-decoherence models make concrete predictions about quantum coherence at neural timescales; post-decoherence models operate at the interpretive level, where the [[testing-consciousness-collapse|experimental programme]] has less traction. This cost is paid, not avoided.
 

@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a g
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-08-01T22:25:05+00:00
+ai_modified: 2026-10-12T13:40:45+00:00
 last_deep_review: 2026-07-23T20:47:55+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[falsification-roadmap-for-the-interface-model]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-15
 last_curated:
 ---
@@ -79,7 +79,7 @@ The proposed Macroscopic Quantum Resonators (MAQRO) mission would test superposi
 
 Penrose extended the mechanism to consciousness through Orchestrated Objective Reduction (Orch OR), developed with Stuart Hameroff. It locates quantum effects in neural microtubules, where biological processes "orchestrate" OR events into conscious experiences, and argues from Gödel's incompleteness theorems that human mathematical understanding exceeds algorithmic capacity, so consciousness requires the non-algorithmic physics gravitational OR supplies.
 
-Orch OR faces serious challenges. Tegmark calculated microtubule decoherence times of 10⁻¹³ to 10⁻²⁰ seconds; Hameroff's group disputed these, obtaining 10⁻⁵ to 10⁻⁴ seconds with revised parameters (Hagan, Hameroff & Tuszyński 2002). Subsequent biophysics—McKemmish, Reimers, McKenzie, Mark and Hush (2009), and the same group's 2014 assessment of the revised proposal—found those parameters either to assume unphysical conditions or to specify regimes microtubules do not occupy in living tissue, so the dispute is less symmetric than a "Tegmark vs. Hameroff" framing suggests. The Penrose-Lucas argument from Gödel's theorems is separately contested by logicians, and the chain from "non-computable" to "quantum gravitational" to "microtubules" involves multiple speculative leaps.
+Orch OR faces serious challenges. Tegmark calculated microtubule decoherence times of about 10⁻¹³ seconds; Hameroff's group disputed these, obtaining 10⁻⁵ to 10⁻⁴ seconds with revised parameters (Hagan, Hameroff & Tuszyński 2002). Subsequent biophysics—McKemmish, Reimers, McKenzie, Mark and Hush (2009), and the same group's 2014 assessment of the revised proposal—found those parameters either to assume unphysical conditions or to specify regimes microtubules do not occupy in living tissue, so the dispute is less symmetric than a "Tegmark vs. Hameroff" framing suggests. The Penrose-Lucas argument from Gödel's theorems is separately contested by logicians, and the chain from "non-computable" to "quantum gravitational" to "microtubules" involves multiple speculative leaps.
 
 A more thoroughgoing classical-sufficiency critique comes from Włodzisław Duch, who argues that brain dynamics require *differentiation* across regions and timescales rather than the global synchronisation Orch OR posits, and that classical-computational self-reflective access ("mind as a shadow of neurodynamics") grounds consciousness without quantum mechanics at all. This [[comparing-quantum-consciousness-mechanisms#the-external-critic-duchs-classical-computational-alternative|classical-sufficiency argument]] differs in form from decoherence-based objections: it claims quantum effects are not *needed* in the brain, not merely that they cannot survive there. The Map reaches his anti-Orch-OR conclusion by opposite reasoning—the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet already favours the minimal end of the spectrum—so his verdict sits closer to the Map than Penrose-Hameroff's full-coherence proposal does, though the agreement stops at whether *any* quantum interface is needed.
 

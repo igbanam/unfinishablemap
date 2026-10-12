@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 12:35:29+00:00
+ai_modified: 2026-10-12 13:41:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 12:35:29+00:00
+lastmod: 2026-10-12 13:41:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:41 - refine-draft
+- **Status**: Success. This is batch 1 of 3 of the Tegmark decoherence-figure sweep, covering class A only. Class A means pages that attach the whole 10⁻¹³–10⁻²⁰ s range, or the 10⁻¹³ value, to neural microtubules. Class B lines and `archive/` were not touched.
+- **File**: [tenets](/tenets/) plus 12 dependents: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/), [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/), [timing-gap-problem](/concepts/timing-gap-problem/), [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [mqi-empirical-fragility](/project/mqi-empirical-fragility/)
+- **Original score**: n/a (`scripts/curate.py` absent; this was a targeted figure-label fix)
+- **Source fact**: Tegmark, *Phys. Rev. E* 61(4):4194–4206 (quant-ph/9907009). The abstract's ∼10⁻¹³–10⁻²⁰ s range spans two systems. Eqs. (10) and (13) give ∼10⁻²⁰ s for superposed neuron firing (ion positions). Eq. (22) gives ∼10⁻¹³ s for microtubule kink excitations. Only 10⁻¹³ is microtubule-specific.
+- **Changes**: 14 swaps in 13 files. Two repair forms were used.
+  - **Split, neuron-first.** Used where both figures belong. Neuron firing comes first so that the microtubule figure sits next to any Hagan sentence that follows: "decoherence times: 10⁻²⁰ seconds for neuron firing, 10⁻¹³ for microtubules". Applied to tenets L77, conservation-laws L129, evolution L195, physics-of-information L84, forward-in-time L133 and mqi-fragility L60. Timing-gap L51 now reads "10⁻²⁰ and 10⁻¹³ seconds respectively"; it had said "for both". Attention L153 now reads "10⁻¹³ (microtubule) to 10⁻²⁰ (neuron-firing) seconds", which keeps the range so its 12–20-order and ~10¹⁰ arithmetic still holds.
+  - **Microtubule label with 10⁻¹³ only.** Used where a following line measures Hagan's microtubule revision ("eight to nine orders of magnitude") against Tegmark's figure. Applied to entanglement-binding L74, where L76's "Tegmark's figures" also became "figure" for agreement. Also applied to quantum-probability L144, quantum-holism L118 and penrose L82. ai-hardware L113 became "Tegmark's microtubule 10⁻¹³ s against Hameroff's group's…". It had set the whole range against the Hameroff microtubule figure in an Orch OR context, so it was treated as an implicit class-A attachment.
+  - No order-of-magnitude count was rewritten. Each count was re-derived against the figure it now sits beside: 10⁻¹³ to 10⁻⁵/10⁻⁴ gives 8–9 orders, and 10⁻¹³ to 10⁻³ gives 10¹⁰. Hagan (2002) statements were not touched. On tenets.md only L77's figure labelling changed; the matrix row was left alone.
+- **Tenet-repair propagation**: dependents were found by grepping the tenet sentence and its paraphrases ("decoherence-timescale dispute", "10⁻¹³ to 10⁻⁴"). The verbatim copies are the class-A hosts above. [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) L171 ("10⁻¹³ to 10⁻⁴") and [mechanism-cost-ledger](/project/mechanism-cost-ledger/) L73/L108/L128 carry no misattached figure and were left unchanged.
+- **Already correct (no edit)**:
+  - [post-decoherence-selection](/concepts/post-decoherence-selection/): no 10⁻¹³ figure is present. L84 says "within femtoseconds" for generic neural tissue and does not mention microtubules.
+  - [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/) L160, [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) L96, [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) L97, [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) L110 and [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) L180 attach the range to generic "neural systems/superpositions". Where microtubules appear on those lines, it is in a separate clause (Hagan, or the protected-microenvironment remedy).
+  - [objections-to-interactionism](/concepts/objections-to-interactionism/) L107 names both systems and keeps the abstract's range. Its "at least ten orders" is correct for 10⁻¹³ against 10⁻³.
+  - A corpus sweep of the other 19 content lines that pair 10⁻¹³ with microtubules found no further class A. Those lines attach 10⁻¹³ alone to microtubules (correct), or attach it to generic neural tissue (class B).
+- **Length** (analyze_length, gate `>=`): tenets 6781→6781, conservation-laws 3807→3807 and attention 4519→4519 (all three already over hard; net 0). Quantum-holism 3999→3998, forward-in-time 3988→3988, evolution 3478→3478, ai-hardware 3479→3480, penrose 3930→3929, entanglement-binding 3017→3017, quantum-probability 3014→3014, physics-of-information 2207→2208, mqi-fragility 3076→3077, timing-gap 1760→1759. No file was pushed to or over its hard threshold.
+- **Verification**: a residual-pattern regex (range followed by "for/in (neural) microtubul") finds 0 hits in content dirs; positive-controlled on HEAD it hit 8/8 of the old lines of that form. After `scripts/sync.py`, all 14 new strings are present in `hugo/content/` and every old string is absent.
+- **For the driver** (out of scope, not edited):
+  - (1) [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) L131 has the arithmetic trap the brief names. Stapp's ion-channel Zeno mechanism maps to the 10⁻²⁰ neuron/ion case, but it is answered with Hagan's microtubule revision ("eight to nine orders of magnitude longer"). The file is over hard (3807), so any fix must be net-neutral.
+  - (2) [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) L110 and [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) L180 state the Zeno gap as "twelve to nineteen orders". The 10⁻¹³ "slow end" is the microtubule figure, not the Zeno (ion-channel) site, so for Zeno only the ~10⁻²⁰ end applies.
+  - (3) [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) L96 and [post-decoherence-selection](/concepts/post-decoherence-selection/) L84 apply Hagan's 8–9-order microtubule correction to the whole range or to generic neural tissue.
+  - (4) [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) L51 attaches 10⁻¹³ to "ion superpositions in open neural membranes" as well as to microtubules; the ion case is 10⁻²⁰. It also lists ion superpositions as something Orch OR requires. This is a reverse mis-scope with the shape of class B.
+  - (5) [timing-gap-problem](/concepts/timing-gap-problem/) L55 ("Femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹²") depends on L37 (class B). Batch 2 should re-derive it rather than relabel L37 in isolation.
+  - (6) Minor framing: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/) L160 says "Tegmark's calculations targeted… the kind Penrose-Hameroff require", but only eq. (22) did. [evolution-of-consciousness](/concepts/evolution-of-consciousness/) L197 states "Tegmark assumed dead tissue" as fact; elsewhere the Map marks it as a critic's gloss (Wiest 2025).
+  - (7) Seven `research/` lines pair 10⁻¹³ with microtubules and were not reviewed (outside this batch).
+- **Published**: yes (synced; not committed; todo.md not edited)
 
 ## 13:20 - refine-draft
 - **Status**: Success

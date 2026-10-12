@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-10-08T14:25:22+00:00
+ai_modified: 2026-10-12T13:40:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-10
 last_curated:
 last_deep_review: 2026-07-25T09:52:35+00:00
@@ -48,7 +48,7 @@ The timing gap is The Unfinishable Map's most important empirical challenge. The
 
 Two timescales must connect for quantum consciousness theories to work:
 
-**Quantum side.** Decoherence destroys superpositions through environmental interaction. In warm, wet biological tissue, thermal noise causes rapid decoherence. Tegmark modelled both regular neuron firing (involving ion channels) and microtubule polarisation excitations, finding decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for both—far shorter than any neural process.
+**Quantum side.** Decoherence destroys superpositions through environmental interaction. In warm, wet biological tissue, thermal noise causes rapid decoherence. Tegmark modelled both regular neuron firing (involving ion channels) and microtubule polarisation excitations, finding decoherence times of 10⁻²⁰ and 10⁻¹³ seconds respectively—far shorter than any neural process.
 
 **Neural side.** Conscious decisions involve empirically established timing windows, though the figures below come from different species and are anchored to different events. Thura and Cisek (2014) found motor commitment signatures approximately 280 milliseconds before movement in monkeys choosing reaches. Voluntary attention takes approximately 300 milliseconds to deploy after a cue in humans (Müller & Rabbitt 1989), and the frontal theta signature of willed attention, also measured in humans, begins approximately 500 milliseconds post-cue (Rajan et al. 2019). The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
 
