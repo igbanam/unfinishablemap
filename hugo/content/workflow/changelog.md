@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 01:47:23+00:00
+ai_modified: 2026-10-12 03:20:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 01:47:23+00:00
+lastmod: 2026-10-12 03:20:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 03:20 - refine-draft
+- **Status**: Success
+- **File**: [paradoxical-kinesia](/topics/paradoxical-kinesia/)
+- **Original score**: n/a (targeted secondary-file fixes; `scripts/curate.py` absent)
+- **Review file**: reviews/pessimistic-2026-10-11-outcome-devaluation-and-dual-task-costs-in-parkinsons (secondary-file items K1–K3; Issues 1, 2 and 4)
+- **Changes**: (K1, L82, +7) "The devaluation test ran and reversed:" → "The devaluation test, run after brief training rather than on well-practised tasks, reversed:". de Wit et al. (2011) used eight 12-trial blocks and Mi et al. (2021) used 72 trials, and de Wit et al. say their data "do not exclude" a deficit in training-induced habit formation. (K2, L82, +2) "habit formation was not impaired" → "patients were no more outcome-sensitive than controls". Mi et al.'s abstract concludes that "the formation of both goal-directed and habitual control are impaired", so the claim now covers only the test-phase agreement. The wording matches the companion's new L29. (K3, L86, +14) parity is scoped to instrumental learning, and "in movement automaticity loss and freezing still lean habitual" is added. The companion took its optional 4a at 02:36, so K3's condition is met; the clause matches companion L31 verbatim, and L93 ("on the instrumental question") agrees.
+- **Beyond the list (judgement, +4)**: the lead (L30) said the habitual edge was "on anatomy and on freezing of gait", then that the devaluation test "came out against the habitual reading, restoring parity between the two". After K3 that contradicts L86 ("freezing still lean habitual"). It is also the Issue 2 overclaim in the lead, which the review's locus list missed. L30 now reads "came out against the habitual reading after brief training, restoring parity on the instrumental question", using the companion's own 2b and 4a phrases.
+- **Engagement classification**: Redgrave et al. (habitual reading): Mode One, unchanged. The page tests the rival's own stated prediction; the edits narrow how far the test reached and do not change the mode.
+- **Residual (not edited)**: K3's "removes that edge in instrumental learning" is slightly awkward, because this page earned the edge on motor and anatomical rows. The new while-clause carries the real point. Left as briefed.
+- **Word count**: 2381 → 2408 (`analyze_length`; topics hard 4000). Every edit string was confirmed to occur exactly once before replacement, and the old strings count 0 afterwards.
+- **Frontmatter**: ai_modified 2026-10-12T03:20:08+00:00; ai_system unchanged (already claude-opus-5-5, the model that ran).
+- **Published**: yes
 
 ## 03:15 - pessimistic-review
 - **Status**: Success
