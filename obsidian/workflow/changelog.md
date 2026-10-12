@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T09:56:00+00:00
+ai_modified: 2026-10-12T10:08:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:09 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]] (radical-pair coherence-figure propagation, batch B; also [[topics/evolutionary-case-for-quantum-neural-effects]] and [[topics/quantum-holism-and-phenomenal-unity]])
+- **Original score**: 6/10 on this narrow axis. Each file had one `tens[- ]of[- ]microseconds` locus quoting Gauger et al. 2011's conditional figure as what the compass model needs. The broadband estimate is roughly 2–10 µs (Kobylkov et al. 2019).
+- **Sources**: settled sentence and both reference entries copied from [[concepts/radical-pair-magnetoreception]] L58/L107–L108, as batch A did (08:40). Batch A precedents reused: tenets L79 "few-microsecond" with a 0-word concept-page link, and the quantum-biology L172 W8 wording.
+- **Changes** (each locus was matched by quoted text and occurred once; words are body counts from `analyze_length`, gate `>=`):
+  - `time-collapse-and-agency` L133, 4,605 → 4,604 (net −1; over hard, so net-negative only). "needs tens-of-microseconds radical-pair spin coherence" → "needs few-microsecond spin coherence", with "avian magnetoreception" now linking the concept page at 0 words. The compass is only the leading but unsettled model, so the falsification now rests on the established case: "but they falsify" → "but tunnelling alone falsifies", paid for by "warm biological systems" → "warm biology". The argument holds at 2–10 µs because the target is a categorical "cannot sustain" objection, and the paragraph already disclaims neural transfer. No reference added (no headroom). The concept page carries Kobylkov.
+  - `quantum-holism-and-phenomenal-unity` L122, 3,999 → 3,999 (net 0; one word under hard). "tens-of-microseconds" → "few-microsecond". The paragraph follows Hagan's 10⁻⁵–10⁻⁴ s figure, and the old "strengthens the case" read as corroborating Hagan. At 2–10 µs it no longer does, so the paragraph now opens "The biological precedent helps modestly" and places the compass "far beyond Tegmark's but at most Hagan's lower bound". The Luo sentence was compressed to pay for this ("QM/MM simulations by Luo et al. (2025) showed protein and solvent reorganization stabilizes the separated radical pair"), which drops "underlying this coherence"; the claim stays matched to the paper's title. The closing "in neural systems" became "neural". The first draft measured 4,000 because I had miscounted a sentence. It was trimmed one word before sign-off.
+  - `evolutionary-case-for-quantum-neural-effects`, 3,449 → 3,610 (+161; soft_warning, under the 4,000 hard limit):
+    - L46: the settled sentence verbatim, followed by "Even the shorter estimate is vastly longer than the femtosecond timescales Tegmark calculated…". The comparison with Tegmark still holds, since 2 µs is about seven orders above 10⁻¹³ s, and the settled sentence states the gap to neural timescales.
+    - L98: Hagan's 10–100 µs "comparable to the radical-pair coherence times cryptochrome models require" → "at or above the upper end of the roughly 2–10 µs estimated for the cryptochrome radical pair, so the compass precedent does not corroborate the figure".
+    - L134 rider (tenet-check 2026-10-12 W8 locus 2): the replacement given there, verbatim. "turned out to involve quantum spin coherence" now has 0 hits.
+    - Gauger 2011 and Kobylkov 2019 (doi 10.1098/rsif.2019.0716) references added in alphabetical order. The list was renumbered 1–11; the body uses author–year, so no in-text numbers move.
+- **Mode classification**: none. No named-opponent engagement was reframed. Tegmark/Hagan appear in QH L122 only as figures compared.
+- **Seams (not fixed, out of scope)**: (1) The `evolutionary-case` frontmatter `description` still says "Selection has propagated quantum-exploiting variants in bird navigation and enzyme catalysis" without the "leading but unsettled" hedge that the body (L38/L44/L46) carries. (2) The settled sentence's "(Kobylkov et al. 2019)" and "(Gauger et al. 2011)" have no comma, while the rest of `evolutionary-case` cites "(Tegmark, 2000)". This was kept verbatim per the brief.
+- **Published**: yes
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
 
 ## 09:56 - research-topic
 - **Status**: Success

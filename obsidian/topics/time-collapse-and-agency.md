@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-10-11T07:58:23+00:00
+ai_modified: 2026-10-12T10:08:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ Three responses bear on the temporal framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out—but not why we see *definite* outcomes rather than superpositions of us observing different results. That transition from "both possibilities" to "this one outcome" remains unexplained, so consciousness's role as selector survives decoherence: it operates *after* decoherence has selected preferred bases, biasing which of the remaining alternatives becomes actual.
 
-**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, avian magnetoreception needs tens-of-microseconds radical-pair spin coherence, and enzyme catalysis exploits quantum tunnelling—molecular-scale effects, not neural computation, but they falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
+**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs few-microsecond spin coherence, and enzyme catalysis exploits quantum tunnelling—molecular-scale effects, not neural computation, but tunnelling alone falsifies the categorical objection that warm biology cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. Freezing a superposition this way requires re-measurement on a timescale short compared with the decoherence time, and Tegmark (2000) puts that time at roughly 10⁻¹³–10⁻²⁰ s for neural-scale superpositions—against which no proposed neural process supplies a selection cycle anywhere near fast enough. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—a question that remains formally open but, on Tegmark's numbers, currently looks unfavourable at the neural scale.
 
