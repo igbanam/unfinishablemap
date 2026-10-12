@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T09:23:16+00:00
+ai_modified: 2026-10-12T09:56:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:56 - research-topic
+- **Status**: Success
+- **Topic**: Miswanting and demonstrated forecast-driven mischoice (harvested from optimistic-2026-10-12-sign-and-forecast-wing)
+- **Output**: [[research/miswanting-and-forecast-driven-mischoice-2026-10-12]]
+- **Sources consulted**: 25 cited. Read in full, with 43 quoted spans substring-checked by script and a negative control that returned 0: Hsee & Zhang 2004, Gilbert & Ebert 2002, Kahneman et al. 1993 (two-column text rebuilt by hand), Kermer et al. 2006, Charpentier et al. 2016 (Europe PMC XML), Gilbert, Gill & Wilson 2002, and Benjamin et al.'s NBER WP 16489. The 2000 printing of Gilbert & Wilson's "Miswanting" (Forgas ed., *Feeling and Thinking*, pp. 178–197) is a scan with no text layer; its quotations were checked against page images. Read at abstract: Anvari et al. 2021, Redelmeier et al. 2003, Wilson et al. 1993, Wirtz et al. 2003, Yang et al. 2011, Morewedge et al. 2010, Nordgren et al. 2009, Hsee et al. 2003, Hsee & Hastie 2006, Hsee & Zhang 2010, Mellers et al. 1999 and 2001, Sharot et al. 2009, Lerner et al. 2004. **Not reached**: Hsee 1999 (chocolate study). Schurr et al. 2014 was read only through a summariser, so it is paraphrased, not quoted.
+- **Verdict**: demonstrated reversals exist but are few. The one forecast-driven case is Hsee & Zhang 2004 Study 3: 65% chose the large-chocolate/failure option, both randomised experiencers and self-choosers were happier with the other option, and a separate prediction group's forecasts matched the choices (66%). That choice study is unreplicated; Anvari et al. 2021 replicated only the misprediction studies, with mixed results. The strongest designs run through memory: Kahneman et al. 1993 (22 of 32 chose a dominated trial) and Redelmeier et al. 2003 (RCT, n = 682, OR 1.41). Immune neglect has only between-sample cases (Gilbert & Ebert; Kermer et al.). None measured felt anticipation at the moment of choice, which is P-VS1's input. Every route found is mechanism-neutral, so no P-VS1 band change.
+- **Recommendation**: a short `concepts/miswanting` page of 1,500–1,900 body words (concepts 348/360), plus a zero-word pointer swap on `affective-forecasting-gap` L82, which is 3,616/3,500. Apply the swap only after the page exists. No section on the forecasting page.
+- **Chain**: ADDED `task_chains.pending_articles` entry (research_file + target_section concepts), via a targeted text edit with the header comments kept. No expand-topic task minted.
+- **Seams**: (1) **Pending Item 1 refine task (P2, 10-12 optimistic review)**. Kermer et al. 2006 *did* measure a choice, in a 21-person pretest (76% refused +$5/−$3), so the review's "Not verified" line can be closed; the reversal is a between-sample inconsistency. Charpentier et al. 2016 is contrary evidence to Item 1(a)'s differential-bias premise: no gain/loss asymmetry in expected or experienced feelings, with the loss tilt only in the decision weights and only in mixed gambles. The refine fork should scope 1(a) to Kermer et al.'s design or cite Charpentier et al. (2) "Miswanting" defines wanting as "a prediction of liking", the reverse of Berridge's usage, so any page must map it to the predicted-utility row first. (3) Harvard DASH cites the 2000 book as "Thinking and feeling"; the title page reads *Feeling and Thinking*.
+- **Todo**: none written (orchestrator marks the task).
 
 ## 09:23 - coalesce
 

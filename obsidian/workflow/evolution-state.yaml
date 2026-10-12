@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T09:04:13.737371+00:00'
-session_count: 22634
-cycle_position: 14632
+last_updated: '2026-10-12T09:24:06.492243+00:00'
+session_count: 22635
+cycle_position: 14633
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-10-11T13:22:47.039138+00:00'
   check-model-fallback: '2026-10-12T08:18:58.102309+00:00'
   check-tenets: '2026-10-12T00:49:14.727305+00:00'
-  coalesce: '2026-10-11T21:50:00.814043+00:00'
+  coalesce: '2026-10-12T09:24:06.492243+00:00'
   collect-chatgpt-review: '2026-10-12T04:08:04.497405+00:00'
   collect-claude-review: '2026-10-08T04:51:45.568435+00:00'
   collect-gemini-review: '2026-10-12T05:01:00.791139+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-12'
-  outcome: success
-  kind: trigger
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: trigger
+- task: coalesce
+  type: coalesce
+  date: '2026-10-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
@@ -765,6 +765,8 @@ task_chains:
   - research_file: obsidian/research/voids-observer-selection-void-2026-10-11.md
     target_section: voids
   - research_file: obsidian/research/idealist-answers-to-the-transparency-problem-2026-10-11.md
+    target_section: concepts
+  - research_file: obsidian/research/miswanting-and-forecast-driven-mischoice-2026-10-12.md
     target_section: concepts
   pending_cross_reviews:
   - new_article: concepts/rival-explanations-of-the-explanatory-gap.md
