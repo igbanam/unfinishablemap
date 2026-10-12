@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-08 18:57:18+00:00
+ai_modified: 2026-10-12 11:34:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 07:39:45+00:00
-lastmod: 2026-08-08 18:57:18+00:00
+lastmod: 2026-10-12 11:34:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ James wasn't right about everything, and intellectual honesty requires noting li
 
 **Vague mechanisms**: James's filter theory, while conceptually powerful, lacked any physical mechanism for how transmission might work. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet attempts to fill this gap, but James himself offered only metaphor.
 
-**Neutral monism tensions**: James's pure experience doctrine sits in potentially fatal tension with his filter theory. If pure experience is the only stuff, what is being filtered *through the brain*? The 1898 Ingersoll Lecture uses language of "permissive or transmissive function" and, more strikingly, of a "mother-sea" of consciousness that individual minds draw from—language that suggests an independent reservoir pre-existing any brain, which the brain selectively admits. That picture sits uneasily with the 1904 radical empiricism essay's insistence that pure experience is the only primal stuff, with no further ontological layer waiting to be filtered. James's own preface to the lecture's second edition sharpens the tension rather than softening it: answering critics, he let the pre-existing reservoir stand while disowning the monistic reading of it, protesting that he was "anything but a pantheist of the monistic pattern" and had spoken of the mother-sea as a unit only "for simplicity's sake."
+**Neutral monism tensions**: James's pure experience doctrine sits in potentially fatal tension with his filter theory. If pure experience is the only stuff, what is being filtered *through the brain*? The 1898 Ingersoll Lecture uses language of "permissive or transmissive function" and, more strikingly, of a "mother-sea" of consciousness that individual minds draw from—language that suggests an independent reservoir pre-existing any brain, which the brain selectively admits. That picture sits uneasily with the 1904 radical empiricism essay's insistence that pure experience is the only primal stuff, with no further ontological layer waiting to be filtered. James's own preface to the lecture's second edition sharpens the tension rather than softening it: answering critics, he let the pre-existing reservoir stand while disowning the monistic reading of it, protesting that he was "anything but a pantheist of the monistic pattern" and had spoken of the mother-sea as a unit only "for simplicity's sake." The [sliding-boundary analysis](/topics/q3-q4-sliding-boundary-and-transparency-problem/) reads this unresolved tension as what keeps James a candidate for stable thick-mind dualism rather than a clear instance.
 
 One reading, sometimes offered in James's defence, is that "transmission" concerns the *organisation* of experience into individual streams rather than its fundamental existence—there is no independent ocean of consciousness, only experience structured by neural interfaces. The textual evidence for this organisational reading is mixed at best. James's own language—a brain whose function is "permissive or transmissive", sifting and limiting a light it does not itself produce—presupposes something to sift or permit, not merely an organising scheme. (The "reducing valve" formulation often attached to the filter model is Bergson's and Huxley's, not James's.) Ralph Barton Perry's biography notes James's own uncertainty on the point, and some readers treat the 1898 filter lecture and the 1904 radical empiricism essay as successive rather than compatible stances.
 

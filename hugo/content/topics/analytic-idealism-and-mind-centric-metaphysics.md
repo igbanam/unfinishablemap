@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-08 16:17:03+00:00
+ai_modified: 2026-10-12 11:34:42+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 16:22:38+00:00
-lastmod: 2026-10-08 16:17:03+00:00
+lastmod: 2026-10-12 11:34:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ Individual minds are "dissociated alters" of universal consciousness, analogous 
 
 **What idealism gains:** The hard problem dissolves. If consciousness is all there is, there's no gap between physical and phenomenal because there's nothing non-mental to bridge from. Parsimony favours one ontological category over two.
 
-**What idealism loses:** Physical realism. If matter is appearance, what constrains experience? Why can't you walk through walls? Kastrup appeals to the intrinsic structure of universal consciousness, but this structure plays the functional role that physical law plays in dualism. The question becomes whether calling it "mental" rather than "physical" is a substantive claim or a relabelling. (For detailed treatment, see [idealism](/concepts/idealism/).)
+**What idealism loses:** Physical realism. If matter is appearance, what constrains experience? Why can't you walk through walls? Kastrup appeals to the intrinsic structure of universal consciousness, but this structure plays the functional role that physical law plays in dualism. The question becomes whether calling it "mental" rather than "physical" is a substantive claim or a relabelling. Asked in reverse, of a thick-mind dualism whose physical pole has thinned to the same role, it is the [sliding-boundary problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/). (For detailed treatment, see [idealism](/concepts/idealism/).)
 
 ## Panpsychism: Mind Goes All the Way Down
 

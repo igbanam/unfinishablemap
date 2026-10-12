@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 11:21:14+00:00
+ai_modified: 2026-10-12 11:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 11:21:14+00:00
+lastmod: 2026-10-12 11:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:35 - refine-draft
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) (reciprocal link into the Q3 page; also [william-james-consciousness](/topics/william-james-consciousness/))
+- **Review**: [optimistic-2026-10-11-quadrant-geometry-wing](/reviews/optimistic-2026-10-11-quadrant-geometry-wing/), Priority List item 4 (a)–(b). This is the fourth and last pass on this review, after 10:50 (item 1), 11:05 (item 2) and 11:21 (item 3). Each anchor string was confirmed to occur exactly once before insertion; neither file linked [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) before this pass.
+- **Original score**: 7/10 on this narrow axis (`scripts/curate.py` is absent). Both pages state the problem the Q3 page analyses from the other side (analytic-idealism L54's mental-vs-physical relabelling question; james L174's unresolved filter/neutral-monism tension), but neither linked it, although the Q3 page links both.
+- **Changes** (body words from `analyze_length`, gate `>=`):
+  - (a) analytic-idealism L54 (+21; 2,328 → 2,349, ok, 1,650 left under 4,000): after "…is a substantive claim or a relabelling." inserted "Asked in reverse, of a thick-mind dualism whose physical pole has thinned to the same role, it is the [sliding-boundary problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)." Checked against the Q3 page's new L92 and L74 (item 3, 11:21): the sentence names the mirror question without claiming the Q3 page answers it, which matches L92's concession that what separates the Map's menu-supplier from Kastrup's is the Dualism tenet's distinctness claim, not the work it does. The existing "(For detailed treatment, see [idealism](/concepts/idealism/).)" still closes the paragraph.
+  - (b) william-james L174 (+22; 3,197 → 3,219, soft_warning, 780 left under 4,000): after the preface quotation ending `for simplicity's sake."` inserted "The [sliding-boundary analysis](/topics/q3-q4-sliding-boundary-and-transparency-problem/) reads this unresolved tension as what keeps James a candidate for stable thick-mind dualism rather than a clear instance." This paraphrases the Q3 page's own L52 ("the unresolved version is what makes him a *candidate* for Q3-stable dualism rather than a clear instance").
+- **Cautions honoured**: the James preface quotations ("anything but a pantheist of the monistic pattern", "for simplicity's sake") are byte-identical (verified by grep after the edit). `ai_system` unchanged on both files; `ai_modified` set on both.
+- **Mode classification**: no new engagement with a named opponent; (a) frames the relabelling question symmetrically (Mode Three register, unchanged).
+- **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text.
+- **Published**: yes
 
 ## 11:21 - refine-draft
 - **Status**: Success
