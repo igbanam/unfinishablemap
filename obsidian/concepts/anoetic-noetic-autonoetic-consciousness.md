@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-10-11T19:50:49+00:00
+ai_modified: 2026-10-12T13:20:17+00:00
 last_deep_review: 2026-08-17T12:11:17+00:00
 draft: false
 topics:
@@ -32,20 +32,20 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-02-15
 last_curated:
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
 ---
 
-Endel Tulving's tripartite framework divides consciousness into three levels defined by increasing self-awareness: *anoetic* (non-knowing), *noetic* (knowing), and *autonoetic* (self-knowing). Each level accompanies a distinct memory system and introduces qualitative features absent from the level below. The framework matters for The Unfinishable Map because the transitions between levels—particularly the emergence of autonoetic self-awareness—resist explanation in purely computational terms. A system that retrieves information need not *re-experience* anything. The jump from data access to felt temporal self-projection marks a boundary that functionalist accounts struggle to cross.
+Endel Tulving's tripartite framework divides consciousness into three levels defined by increasing self-awareness: *anoetic* (non-knowing), *noetic* (knowing), and *autonoetic* (self-knowing). *Autonoetic* is Tulving's coinage; *anoetic* and *noetic* he took from G.F. Stout's *Analytic Psychology* (1896), noting that Stout had used them "in somewhat different, but related, senses" (Tulving, 1985, p. 3). Each level accompanies a distinct memory system and introduces qualitative features absent from the level below. The framework matters for The Unfinishable Map because the transitions between levels—particularly the emergence of autonoetic self-awareness—resist explanation in purely computational terms. A system that retrieves information need not *re-experience* anything. The jump from data access to felt temporal self-projection marks a boundary that functionalist accounts struggle to cross.
 
 ## The Three Levels
 
 ### Anoetic Consciousness
 
-*Anoetic* (Greek: *a-* "without" + *noein* "to know") consciousness accompanies procedural and [[implicit-memory|implicit memory]]. A person riding a bicycle, touch-typing, or catching a ball operates with skilled awareness that involves no self-reference. There is experience—something it is like to balance, to feel keys under fingers—but no representation of oneself *as* the experiencer. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode. These are genuine phenomenal states—non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009)—temporally bound to the present moment, with no sense of past learning or projection into future performance.
+*Anoetic* (Greek: *a-* "without" + *noein* "to know") consciousness accompanies procedural and [[implicit-memory|implicit memory]]. A person riding a bicycle, touch-typing, or catching a ball operates with skilled awareness that involves no self-reference. There is experience—something it is like to balance, to feel keys under fingers—but no representation of oneself *as* the experiencer. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode. Stout's usage already carried that point: anoetic consciousness was *sentience*, presentation with "an existence relatively independent of thought" (Stout, 1896, Vol. 1, p. 50). These are genuine phenomenal states—non-reflective [[qualia]] (Vandekerckhove & Panksepp, 2009)—temporally bound to the present moment, with no sense of past learning or projection into future performance.
 
 Animals with procedural learning but no episodic memory likely operate at this level (Tulving, 1985). The [[baseline-cognition|baseline cognition hypothesis]] suggests great apes possess sophisticated anoetic and noetic processing without reaching the autonoetic capacities that distinguish human cognition.
 
@@ -107,7 +107,7 @@ How much that paradigm can be asked to carry is contested, and the claim made he
 
 ## Autonoesis and Causal Efficacy
 
-Klein (2016) argued that autonoetic consciousness—not episodic memory content—drives future-oriented cognition, reaching that conclusion by conceptual and phenomenological analysis of existing findings rather than by new experiment. His earlier evolutionary reframing of memory's purpose sets the claim up: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" (Klein, 2013). The felt quality of temporal self-projection does real work — it is the mechanism through which past experience shapes future behaviour.
+Klein (2016) argued that autonoetic consciousness—not episodic memory content—drives future-oriented cognition, reaching that conclusion by conceptual and phenomenological analysis of existing findings rather than by new experiment. His earlier evolutionary reframing of memory's purpose sets the claim up: "Memory has been designed by natural selection not to relive the past, but rather to anticipate and plan for future contingencies" (Klein, 2013). The felt quality of temporal self-projection does real work — on Klein's account, it is the mechanism through which past experience shapes future behaviour.
 
 This bears on epiphenomenalism. Klein's content/manner distinction shows that the same informational content, present in both noetic and autonoetic modes, yields different functional outcomes depending on *how it is experienced*. The manner of experiencing—not the information alone—determines what the agent can do with the memory. The [[baseline-cognition|baseline cognition hypothesis]] reinforces this: great apes demonstrate sophisticated cognition but cannot perform counterfactual reasoning or cumulative culture. If autonoetic consciousness explains this cognitive gap, it is doing real causal work—not merely accompanying processes that would proceed identically without it.
 
@@ -168,6 +168,7 @@ Two candidates often listed here are omitted. Computational mental time travel w
 1. Klein, S.B. & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
 1. Palombo, D.J., Alain, C., Söderlund, H., Khuu, W., & Levine, B. (2015). Severely deficient autobiographical memory (SDAM) in healthy adults: A new mnemonic syndrome. *Neuropsychologia*, 72, 105-118.
 1. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). Autonoesis and episodicity: Perspectives from philosophy of memory. *WIREs Cognitive Science*, 15(1), e1665.
+1. Stout, G.F. (1896). *Analytic Psychology* (Vols. 1 & 2). London: Swan Sonnenschein. [Source of the terms Tulving adopted: anoetic consciousness, Vol. 1, p. 50; noetic consciousness, Vol. 2, p. 11.]
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.

@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 13:20 - refine-draft
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted attribution fix from [deep-review-2026-09-21-implicit-memory](/reviews/deep-review-2026-09-21-implicit-memory/))
+- **Changes**:
+  - Lead now marks the roles of the three terms. *Autonoetic* is Tulving's coinage. *Anoetic* and *noetic* he took from G.F. Stout's *Analytic Psychology* (1896). The lead quotes Tulving's footnote that Stout used them "in somewhat different, but related, senses" (Tulving, 1985, p. 3). The Greek etymologies are kept.
+  - The anoetic section adds Stout's 1896 definition: anoetic consciousness is *sentience*, presentation with "an existence relatively independent of thought" (Vol. 1, p. 50). This is an earlier statement of the experiential reading, independent of Tulving, and it now precedes the Vandekerckhove & Panksepp (2009) gloss. Stout is not described as the coiner, not described as a dualist, and not tied to the tenets. Tulving's senses are not equated with his.
+  - Rider: L110 is hedged as "on Klein's account, it is the mechanism…", as the 2026-09-14 tenet-check (Family B′) suggested.
+  - References: Stout 1896 added in alphabetical order with both locators (Vol. 1 p. 50; Vol. 2 p. 11), in the same format as [implicit-memory](/concepts/implicit-memory/).
+  - Both quoted spans were primary-source verified in the 09-21 review. No web budget was spent.
+- **Length**: analyze_length went from 3,106 to 3,195 (+89; concepts soft 2500 / hard 3500).
+- **Published**: yes
+
 ## 12:35 - research-voids
 - **Status**: Success. This was a gap-closure run on the second-ranked banked note. No new void is proposed and no new file was created.
 - **Topic**: The Dormancy Void. This run closed the decision-changer that [voids-slot-triage-five-banked-candidates-2026-10-06](/research/voids-slot-triage-five-banked-candidates-2026-10-06/) names for it (an interactionist-dualist source stating the fork). The 10-10 run explicitly left that item unworked.
