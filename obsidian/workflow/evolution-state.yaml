@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T16:51:33.910907+00:00'
-session_count: 22661
+last_updated: '2026-10-12T17:04:00.113190+00:00'
+session_count: 22662
 cycle_position: 14650
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-12T16:21:09.832145+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-12T12:12:19.362175+00:00'
-  check-model-fallback: '2026-10-12T12:49:00.503147+00:00'
+  check-model-fallback: '2026-10-12T17:04:00.113190+00:00'
   check-tenets: '2026-10-12T00:49:14.727305+00:00'
   coalesce: '2026-10-12T09:24:06.492243+00:00'
   collect-chatgpt-review: '2026-10-12T04:08:04.497405+00:00'
@@ -128,11 +128,6 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-12'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/reinforcement-learning-reward-signals-and-machine-valence/

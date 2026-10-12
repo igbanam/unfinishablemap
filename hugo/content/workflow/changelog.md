@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 16:49:54+00:00
+ai_modified: 2026-10-12 17:20:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 16:49:54+00:00
+lastmod: 2026-10-12 17:20:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:20 - refine-draft
+- **Status**: Success
+- **File**: [grain-mismatch](/concepts/grain-mismatch/) (primary); [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) (secondary)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Task**: tenet-check 2026-10-12 Warning 5. Both Relation sections still called the grain mismatch a "structural impossibility", "logical, not empirical", and said it "directly supports" Tenet 1. Both bodies, though, now carry the vehicle/content reply (topic L40 from `2dcd20a0db`, concept L77 from `a7ce7c8c7e`), which denies the dualist reading of the datum at the framework boundary.
+- **Changes**: Applied the review's four exact replacements. Each quote was pulled from the review by script and matched exactly once on its stated line. The concept page's 10-11 23:37Z refine had not touched any of the four strings, so none were already fixed.
+  - concept L81: "identifies a structural impossibility: certain phenomenal properties and certain neural properties" became "identifies a structural tension: if homogeneity belongs to experience itself, as the dualist reads the datum, certain phenomenal and neural properties".
+  - concept L85: the closing clause is now scoped "on that reading of the datum" and adds "the vehicle/content reply above denies the reading, at the framework boundary".
+  - topic L106: "directly supports the Map's first tenet" became "gives the Map's first tenet suggestive support, conditional on the phenomenal datum the vehicle/content reply contests".
+  - topic L108: "resolves a logical mismatch between property types" gains "if that is what the mismatch is; the vehicle/content reply denies it".
+- **Word count**: concept 2,053 → 2,080 (+27; concepts hard 3,500, gate `>=`, headroom 1,419). Topic 3,165 → 3,187 (+22; topics hard 4,000, headroom 812). Both match the review's estimates.
+- **Engagement modes**: vehicle/content (representationalist) reply, Mode Three in both Relation sections. The tenet-level conclusion had been standing in for an in-framework refutation the bodies do not claim, and it is now marked as a framework-boundary disagreement. No label leakage.
+- **Residual (noted, not fixed)**: concept L61 "making identity logically impossible for these property pairs" (unconditional, in the epistemic/modal/structural taxonomy). Concept L41: "The grain mismatch argues that physicalist identification is *logically incoherent*" (reported as the argument's claim, unconditional). Concept L85's middle sentence: "masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural" (scoped only by the preceding "if the properties are structurally incompatible"). Topic L108: "The grain programme argues that this assertion is structurally incoherent", and "causal closure assumptions cannot override structural incompatibilities" (not swept terms, same over-reach). Concept L63's closing is already conditional ("As long as experience has homogeneous properties…"). The remaining "logical"/"in principle"/"necessar*" hits are benign: independence claims (concept L55, L63; topic L48), concessive dissolvability (topic L68, L86), a hedge (topic L76), or other arguments' modal targets (concept L59, L65, L81).
+- **Published**: yes
 
 ## 16:49 - refine-draft
 - **Status**: Success
