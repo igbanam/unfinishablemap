@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T01:22:06+00:00
+ai_modified: 2026-10-12T01:47:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:47 - deep-review
+- **Status**: Success
+- **File**: [[concepts/african-philosophy-of-consciousness]]
+- **Word count**: 2645 → 2772 (+127 total; body prose 2458 → 2513, +55; the rest is 4 added references). Soft 2500, hard 3500. Additions are citation-bearing corrections, offset by 4 cuts.
+- **Why selected**: selector top pick (score 61). Six refine-drafts since the 07-17 review (08-06 ×4, 08-16, 09-25) had never been deep-reviewed.
+- **Critical issues addressed**: 8. (1) RSP said distinctness "is the whole of what the [Bidirectional Interaction] tenet asserts". That contradicts tenets.md L53/L89 and sibling interaction-problem-across-traditions L132; it now says distinctness is a joint Dualism + BI commitment. (2) Agada's panpsychist monism had been called "excluded by the dualism tenet". It is now described as sharing the irreducibility claim and rivalling interactionist dualism, consistent with tenets.md and concepts/panpsychism L186. (3) The Akan *okra* was spliced into the Ubuntu reconciliation, contradicting L54 (only the sunsum is socially shaped). The 08-06 ChatGPT outer review flagged this at L194 and it was never discharged; the reconciliation is now labelled the Map's own. (4) Chisale 2018 result direction: her abstract says Ubuntu care is "not exclusively feminine", so she is not an internal critic of Ubuntu; text reworded. (5) Searle misattribution: "groups have consciousness in Searle's collective intentionality sense" corrected to individual we-intentions. (6) Ubuntu personhood → consciousness extension now labelled as the Map's (outer-review L210, also undischarged). (7) The Menkiti paragraph no longer settles a live dispute: it now reports Oyowe 2022 (social kind) vs Flikschuh 2024 (a quasi-material/panpsychist sketch of the mind's survival), keeping "does not demonstrate persisting phenomenal awareness". (8) RSP qualifiers now match the body's contested readings (Gyekye's Akan reading; ori only if read as a bearer of experience; "Bantu and Akan" in place of "widespread ... multiple traditions").
+- **Medium issues addressed**: 5. Uncited "three-substance reading" → Lamptey 2025's "three-aspect" (cited); "many African traditions maintain clearer boundaries" → Tempels' ranking (grep-verified); "twelve-year exchange" → "long-running" (a figure that ages yearly); the "most systematic" superlative dropped; the grade-C Agada label is now attributed to secondary summaries and paired with Agada's own 2019 abstract wording.
+- **Citation ledger**: 12 existing plus 4 added references, each checked at Crossref, the publisher, or raw full text. Tempels, Majeed 2013 and Flikschuh 2024 were grep-verified in full text. One real-wrong-metadata: the Menkiti volume's editor order was reversed; it is now Etieyibo & Ikuenobe (Crossref/publisher). Added: Agada 2019 (*SAJP* 38(1)), Oyowe 2022 (*Menkiti's Moral Man*), Flikschuh 2024 (*Philosophia Africana* 23(1)), Lamptey 2025 (UG thesis). A WebFetch summary of the Flikschuh PDF fabricated a Menkiti "moral excellence" quotation and the wrong author; the raw text has neither.
+- **Engagements**: Wiredu Mode 3; Agada Mode 3 (now scoped to interactionist dualism); Hountondji Mode 1 against the Map's own convergence argument; Akan interface Mode 2 (preserved).
+- **Follow-up queued**: P3 refine-draft on topics/interaction-problem-across-traditions L132. It attributes distinctness to the Dualism tenet alone and says monism "dissolves" irreducibility; it needs aligning with tenets.md L53 and this article's corrected RSP. Net-zero, with 152 words of hard-limit headroom.
+- **Output**: [[reviews/deep-review-2026-10-12-african-philosophy-of-consciousness]]
 
 ## 01:22 - refine-draft
 - **Status**: Success
