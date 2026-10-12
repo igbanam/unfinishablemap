@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-27 08:21:45+00:00
+ai_modified: 2026-10-12 07:13:43+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-09-27 08:21:45+00:00
+lastmod: 2026-10-12 07:13:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, bidirectional frontoparietal coherence, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
+Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, reciprocal frontoparietal interaction, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
 
 This article maps that architecture—how the three modes differ, the specific neural machinery that implements willed control, where that machinery sits in the brain, and what the phenomenology of each mode reveals about the mind-matter interface. The mechanistic detail earns its place because it names candidate sites: if willed attention engages distinct pathways with unique temporal and spectral signatures, those pathways mark where the [bidirectional interaction](/tenets/#bidirectional-interaction) between mind and matter could operate.
 
@@ -54,7 +54,7 @@ A loud noise snaps your head around. A flash in peripheral vision seizes your fo
 | **Trigger** | External salience |
 | **Deployment** | ~100ms |
 | **Duration** | Transient (100-300ms) |
-| **Effort** | None |
+| **Felt effort** | None |
 | **Control** | Involuntary |
 
 Exogenous attention operates through the ventral attention network (temporoparietal junction, ventral frontal cortex). It generates "inhibition of return"—after ~300ms, the captured location is actively suppressed, preventing repeated capture by the same stimulus. The capture event itself is phenomenologically dark: one finds oneself reoriented without ever experiencing the reorientation. The [transit-void](/voids/transit-void/) examines this structural feature, pairing ERP timing with probe-caught mind-wandering to show that the moment of being pulled is never itself available to experience.
@@ -66,9 +66,9 @@ Exogenous attention operates through the ventral attention network (temporoparie
 | Feature | Instructed |
 |---------|------------|
 | **Trigger** | External cue/instruction |
-| **Deployment** | ~300ms |
+| **Deployment** | ~300–700ms post-cue |
 | **Duration** | Can be sustained |
-| **Effort** | Low-moderate |
+| **Felt effort** | Low-moderate |
 | **Control** | Voluntary implementation |
 
 Instructed attention uses the dorsal attention network (intraparietal sulcus, frontal eye fields, superior parietal cortex). It's genuinely top-down—unlike exogenous capture—but differs from willed attention in a crucial way: the goal originates externally.
@@ -80,16 +80,16 @@ You're at a noisy party. You decide to focus on your conversation partner's word
 | Feature | Willed |
 |---------|--------|
 | **Trigger** | Internal decision |
-| **Deployment** | ~300ms |
+| **Deployment** | Hundreds of ms later than instructed |
 | **Duration** | Can be sustained |
-| **Effort** | High |
+| **Felt effort** | High |
 | **Control** | Fully voluntary |
 
 The willed/instructed distinction is critical. Research (Rajan et al. 2019; Nadra & Mangun 2023) identifies three neural signatures that distinguish willed attention:
 
 **Frontal theta oscillations**: frontal theta power (3–7 Hz) increases approximately 500ms after the moment of free choice—a relative increase over the same attentional shift externally instructed, not a marker present in one condition and missing in the other. Theta oscillations in this context index genuine decision-making: the brain doing something during willed attention that instruction-following bypasses.
 
-**Bidirectional frontoparietal coherence**: during instructed attention, information flows predominantly from frontal decision regions to parietal attention-control regions, a unidirectional command structure. During willed attention, Granger causality analysis reveals *bidirectional* theta-band coherence between the same regions. If consciousness merely triggered attention mechanisms, we would expect the one-way pattern: decision → implementation. The bidirectional flow suggests that willed attention is an ongoing dialogue between decision systems and attention-execution systems rather than a single command issued and abandoned.
+**Reciprocal frontoparietal interaction**: willed attention shows greater theta-band coherence between frontal and parietal regions than instructed attention. Coherence has no direction; the directional measure, Granger causality, was higher for willed attention in *both* directions—frontal→parietal and parietal→frontal—an increase over instructed attention rather than a switch from one-way to two-way traffic. The authors read this as frontal regions not only sending attentional instructions to parietal regions but also receiving input about the current attentional state. If consciousness merely triggered attention mechanisms, one might expect the increase to run from decision to implementation alone; the two-way increase suggests an ongoing dialogue between decision systems and attention-execution systems rather than a single command issued and abandoned.
 
 **Additional frontal recruitment**: willed attention engages frontal regions beyond those active during instructed attention. Dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC) show increased activation specifically for internally generated attentional decisions—the decision-making machinery that instruction-following does not require.
 
@@ -101,22 +101,23 @@ When a loud sound seizes your attention, the phenomenology is passive. Something
 
 This phenomenological difference—why willing feels effortful while capture doesn't—demands explanation. If all attention were just neural computation, why would some modes feel like work? The [mental-effort](/concepts/mental-effort/) article develops this: effort may feel real because it *is* real work—consciousness actively holding neural patterns through repeated observation.
 
-## The 300ms Window
+## Deployment Timescales
 
-Both instructed and willed attention take ~300ms to deploy, compared to ~100ms for exogenous capture. This shared timescale is striking—and potentially significant.
+The three modes deploy on different timescales. Reflexive capture is fastest: facilitation from a peripheral cue peaks at roughly 100–175ms (Müller & Rabbitt 1989). Voluntary orienting to a central symbolic cue builds more slowly—earlier studies put its optimum near 300ms, Müller and Rabbitt's own data at 400–725ms. Willed attention is slower again. Rajan et al. (2019) found the posterior alpha lateralization that marks attentional allocation beginning hundreds of milliseconds later after a choice prompt than after an instructional cue (significant from 1,190ms against 730ms post-cue in one dataset), with the delay tracking the timing of the frontal theta increase. The extra time is what an added decision stage would cost.
 
 | Process | Timescale | Implication |
 |---------|-----------|-------------|
 | Exogenous capture | ~100ms | Too fast and transient for sustained influence |
-| Voluntary deployment | ~300ms (post-cue) | Close in magnitude to motor selection timing (Thura & Cisek 2014), differently anchored |
+| Instructed deployment | ~300–700ms (post-cue) | Behavioural facilitation from a central cue |
+| Willed deployment | Hundreds of ms later than instructed | Allocation delayed by the decision stage |
 | Sustained voluntary attention | Seconds to minutes | Enables cumulative effects and neuroplasticity |
 | Pre-decision bias | ~1000ms before choice | Prior neural states constrain but may not determine choices |
 
-A comparable figure appears in motor selection, though not on the same clock. Thura & Cisek (2014) identified a "commitment point" ~280ms before voluntary movement where frontal-parietal coherence strengthens and options collapse to a decision — counted back from movement onset in monkeys, where the attentional ~300ms is counted forward from a cue in humans. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
+Motor selection has its own decision timescale, on a different clock. Thura & Cisek (2014) identified volitional commitment ~280ms before movement onset in monkeys choosing reaches, when premotor activity for the selected target peaks and motor-cortex activity for the alternative is suppressed. That figure counts back from movement, where attentional latencies count forward from a cue in humans, so the two do not form a shared timeline. Giacomo Rizzolatti's premotor theory of attention proposes that attention shifts *are* motor plans—the brain's preparation for orienting movements.
 
-If willed attention and willed action share a common mechanism, the ~300ms window marks where consciousness engages the selection interface. The timing is too slow for exogenous reflexes, too slow for automatic processing, but right for deliberate choice.
+If willed attention and willed action share a common mechanism, the decision stage that delays willed deployment—indexed by frontal theta from ~500ms post-cue—is where consciousness would engage the selection interface. That latency fits deliberate choice, but a purely physical decision process would take the same time, so the timing locates the candidate contribution without favouring the Map's reading of it.
 
-For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [quantum consciousness](/concepts/quantum-consciousness/) mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
+For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [quantum consciousness](/concepts/quantum-consciousness/) mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. Willed attention, once deployed, can be held for seconds or longer, which might provide that time. This remains speculative: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
 
 A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. Theoretical modeling of quantum-Zeno-like effects in cryptochrome radical pairs at microsecond coherence timescales (Denton et al. 2024, extending a quantum-Zeno account of radical-pair magnetoreception that dates to the late 2000s) offers a biological precedent, though this is a computational result rather than an experimental one and remains far from the neural circuit scale. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for how the Zeno mechanism applies specifically to motor selection.
 
@@ -196,7 +197,7 @@ Finding that brain activity correlates with upcoming choices establishes that co
 
 ## Structure and the Interface
 
-The three-mode structure illuminates the [attention-as-interface](/concepts/attention-as-interface/) hypothesis by grading conscious contribution. Exogenous capture involves none—the world selects and you respond. Instructed attention involves minimal contribution, since the choice was outsourced even though you implement it. Willed attention is where consciousness adds something, an instance of [agent-causation](/concepts/agent-causation/) at the neural level: the frontal theta, the bidirectional coherence, and the extra frontal recruitment mark the contribution that instruction-following lacks. When you will attention, machinery engages that does not engage otherwise, and the phenomenology of effort corresponds to that neural distinctiveness.
+The three-mode structure illuminates the [attention-as-interface](/concepts/attention-as-interface/) hypothesis by grading conscious contribution. Exogenous capture involves none—the world selects and you respond. Instructed attention involves minimal contribution, since the choice was outsourced even though you implement it. Willed attention is where consciousness adds something, an instance of [agent-causation](/concepts/agent-causation/) at the neural level: the frontal theta, the reciprocal frontoparietal exchange, and the extra frontal recruitment mark the contribution that instruction-following lacks. When you will attention, machinery engages that does not engage otherwise, and the phenomenology of effort corresponds to that neural distinctiveness.
 
 A critic might respond: the neural differences simply reflect different computational pathways—internally-generated goals versus externally-provided ones—without requiring any non-physical contribution. The frontal theta and extra recruitment ARE the willing, not evidence OF willing beyond the neural.
 
@@ -218,23 +219,23 @@ Buddhist traditions raise a challenge: if there is no stable self, who does the 
 
 ### Dualism
 
-If consciousness were identical to neural processing, willed and instructed attention should show identical signatures—both are "attention" achieving the same result. The neural distinction (frontal theta, bidirectional coherence, extra frontal recruitment) supports the claim that consciousness adds something when it decides. The additional machinery marks what's different about genuine willing.
+If consciousness were identical to neural processing, willed and instructed attention should show identical signatures—both are "attention" achieving the same result. The neural distinction (frontal theta, reciprocal frontoparietal exchange, extra frontal recruitment) supports the claim that consciousness adds something when it decides. The additional machinery marks what's different about genuine willing.
 
 ### Bidirectional Interaction
 
-The attention structure exemplifies the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness selects where attention goes; attention determines what consciousness experiences. The bidirectional frontoparietal coherence during willed attention may be the neural signature of this two-way causal flow.
+The attention structure exemplifies the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness selects where attention goes; attention determines what consciousness experiences. The two-way frontoparietal exchange during willed attention is traffic between brain regions, not between mind and brain, so it is at most a candidate site for this flow rather than its signature.
 
 Jeffrey Schwartz's OCD research provides suggestive evidence: patients who learned to voluntarily redirect attention showed altered caudate metabolism on PET imaging (Schwartz et al., 1996), though the study was small (18 participants) and not replicated with the same method outside the UCLA group. Whatever the mechanism, willed attention appears to have physical consequences—though materialist explanations via Hebbian learning remain viable.
 
 ### Minimal Quantum Interaction
 
-The ~300ms deployment window and sustained character of willed attention fit the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If consciousness operates through quantum Zeno effects, holding desired patterns through rapid observation, it requires sustained engagement—which willed attention provides and exogenous capture doesn't.
+The sustained character of willed attention fits the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If consciousness operates through quantum Zeno effects, holding desired patterns through rapid observation, it requires sustained engagement—which willed attention provides and exogenous capture doesn't.
 
 The mechanisms surveyed above sharpen the point. Thalamic gating, salience-network switching, and competitive selection among neural populations all involve junctures where outcomes are not fully fixed by prior physical states. These underdetermined points are the candidate sites for minimal influence: consciousness need not generate new signals, only bias which competing signals win at gates the brain already operates.
 
 ### Occam's Razor Has Limits
 
-The simplest account would eliminate the willed/instructed distinction: all attention is just neural processing, with "willing" as post-hoc narrative. But this ignores the neural evidence. The frontal theta, the bidirectional coherence, the extra frontal recruitment—these mark *something*. If that something were "more neural processing," we'd need to explain why this particular kind of processing feels like willing rather than like anything else. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies: simplicity is unreliable when it dismisses the phenomenon to be explained.
+The simplest account would eliminate the willed/instructed distinction: all attention is just neural processing, with "willing" as post-hoc narrative. But this ignores the neural evidence. The frontal theta, the reciprocal frontoparietal exchange, the extra frontal recruitment—these mark *something*. If that something were "more neural processing," we'd need to explain why this particular kind of processing feels like willing rather than like anything else. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies: simplicity is unreliable when it dismisses the phenomenon to be explained.
 
 ## What Would Challenge This View?
 
@@ -244,13 +245,13 @@ The framework would be undermined if:
 
 2. **Willed attention becomes fully predictable** — If neural activity predicted choices with certainty (not just above chance), the space for selection would close.
 
-3. **Artificial systems replicate the signatures** — If computational attention showed the same frontal theta and bidirectional coherence, it would suggest these mark computation rather than consciousness.
+3. **Artificial systems replicate the signatures** — If computational attention showed the same frontal theta and reciprocal frontoparietal exchange, it would suggest these mark computation rather than consciousness.
 
 4. **Illusionism explains the phenomenology** — If the sense of effort could be explained as a functional illusion without remainder, the phenomenological argument would fail.
 
 ## Summary
 
-Attention divides into three architecturally distinct modes—exogenous, instructed, and willed—and the third alone shows heightened frontal theta, bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention, despite identical behavioural outcomes. The phenomenology tracks the neuroscience: willing feels like work in a way instruction-following does not. For the Map's framework, consciousness acts through willed attention specifically, and the ~300ms deployment window, the sustained character, and the identified gates—thalamic, salience-network, competitive—are the interface in action.
+Attention divides into three architecturally distinct modes—exogenous, instructed, and willed—and the third alone shows heightened frontal theta, greater frontoparietal coherence with Granger causality raised in both directions, additional frontal recruitment, and slower deployment relative to instructed attention, despite no reliable difference in task performance. The phenomenology tracks the neuroscience: willing feels like work in a way instruction-following does not. For the Map's framework, consciousness acts through willed attention specifically, and the decision stage that delays willed deployment, the sustained character, and the identified gates—thalamic, salience-network, competitive—are where the interface would act.
 
 ## Further Reading
 
@@ -274,6 +275,7 @@ Attention divides into three architecturally distinct modes—exogenous, instruc
 1. Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. Menon, V. & Uddin, L.Q. (2010). Saliency, switching, attention and control: A network model of insula function. *Brain Structure and Function*, 214(5-6), 655-667.
+1. Müller, H.J. & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. Rizzolatti, G. et al. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. *Neuropsychologia*, 25(1A), 31-40.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R. Jr., Martin, K.M., & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.

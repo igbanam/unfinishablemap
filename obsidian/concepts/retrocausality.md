@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-10-11T07:58:23+00:00
+ai_modified: 2026-10-12T07:13:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ Retrocausality complements [[forward-in-time-conscious-selection|non-retrocausal
 
 ### Motor Selection: A Suggestive Parallel
 
-The retrocausal framework gains support from [[motor-selection|motor control research]]. Motor commitment (~280ms) matches willed attention's ~300ms deployment in order, though the frontal-theta contrast is measured for attention only. The parallel is suggestive, not independent corroboration.
+[[motor-selection|Motor control research]] offers a parallel. Motor commitment (~280ms before movement onset, in monkeys) and attentional deployment (hundreds of milliseconds after a cue in humans, with [[structure-of-attention|willed deployment lagging instructed]]) both fall in the hundreds-of-milliseconds range, but on different clocks, so they do not match; the frontal-theta contrast is also measured for attention only. The parallel is suggestive, not independent corroboration.
 
 The Libet challenge to motor control has also weakened: Sjöberg (2024) argued that neurosurgical resection of the supplementary motor area—where readiness potentials originate—does not permanently impair voluntary action, suggesting the readiness potential reflects preparation for execution rather than the decision itself.
 

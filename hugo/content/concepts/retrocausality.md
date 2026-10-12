@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-12 07:13:43+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-12 07:13:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ Retrocausality complements [non-retrocausal quantum consciousness mechanisms](/t
 
 ### Motor Selection: A Suggestive Parallel
 
-The retrocausal framework gains support from [motor control research](/concepts/motor-selection/). Motor commitment (~280ms) matches willed attention's ~300ms deployment in order, though the frontal-theta contrast is measured for attention only. The parallel is suggestive, not independent corroboration.
+[Motor control research](/concepts/motor-selection/) offers a parallel. Motor commitment (~280ms before movement onset, in monkeys) and attentional deployment (hundreds of milliseconds after a cue in humans, with [willed deployment lagging instructed](/topics/structure-of-attention/)) both fall in the hundreds-of-milliseconds range, but on different clocks, so they do not match; the frontal-theta contrast is also measured for attention only. The parallel is suggestive, not independent corroboration.
 
 The Libet challenge to motor control has also weakened: Sjöberg (2024) argued that neurosurgical resection of the supplementary motor area—where readiness potentials originate—does not permanently impair voluntary action, suggesting the readiness potential reflects preparation for execution rather than the decision itself.
 

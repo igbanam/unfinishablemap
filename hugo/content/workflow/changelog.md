@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 06:36:00+00:00
+ai_modified: 2026-10-12 07:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 06:36:00+00:00
+lastmod: 2026-10-12 07:14:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:14 - refine-draft
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/) (secondary: [structure-of-attention](/topics/structure-of-attention/); string siblings: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/), [embodied-consciousness](/topics/embodied-consciousness/), [retrocausality](/concepts/retrocausality/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [quantum-consciousness](/concepts/quantum-consciousness/))
+- **Review file**: [outer-review-2026-10-12-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-12-chatgpt-5-6-sol-pro/) (§12 Attention, item 32, Verification Notes)
+- **Original score**: 6/10 (evidence-fidelity axis). The three-mode table gave willed attention a ~300ms deployment time and an effort rating. No cited source measured either. Rajan 2019 found the opposite on timing.
+- **Sources re-checked this pass**:
+  - Rajan et al. 2019, Europe PMC abstract, verbatim: "increased frontal–parietal theta-band coherence and bidirectional Granger causality". Alpha-lateralization onset "was delayed in willed attention relative to instructed attention".
+  - Rajan PMC full text, via WebFetch: willed "had significantly higher GC in both directions as compared with the instructed condition". Alpha lateralization became significant "at 730 ms post cue and 1190 ms post cue for instructed and willed condition". Two separately worded extractions agreed on these figures. RT and accuracy "did not differ significantly".
+  - Nadra & Mangun 2023, raw Frontiers HTML grep: only Figures 1–4, no tables, timings or effort ratings. "delayed for willed attention compared to cued attention hundreds of milliseconds" is verbatim.
+  - Müller & Rabbitt 1989, PubMed abstract plus PDF: compares peripheral with central symbolic cues and has no willed condition. Peripheral facilitation peaks at "100- to 175-ms SOAs", central at "400- to 725-ms SOAs". "requiring 300 ms to reach optimum" summarises earlier work.
+  - Thura & Cisek 2014 abstract: records PMD and M1 neurons only, with no frontal–parietal coherence.
+- **Changes, primary (3427 → 3468)**:
+  1. L137 table. The Deployment Time and Effort columns are gone, and "identifies three levels" now reads "separate willed from instructed voluntary attention, and both from reflexive capture". Added: willed deployment lags instructed, because alpha lateralization starts hundreds of ms later (Rajan 2019). Added: neither source rates effort, so the felt difference is a first-person report.
+  2. L145. "bidirectional theta-band frontoparietal coherence … not unidirectional triggering" now reads "greater theta-band frontoparietal coherence, with Granger causality raised in both directions".
+  3. L147. "Bidirectional coherence … mark a qualitatively different process" now reads "suggest an added decision stage, not merely a harder version". The data show graded increases.
+  4. L159. The ~300ms near-match is replaced: that figure comes from cued orienting, runs on a different clock, and willed deployment lags it, so there is no shared timeline.
+  5. Word-neutral string siblings. L115: "stronger bidirectional frontoparietal coherence" → "stronger reciprocal frontoparietal interaction", using the title term. L182: "three-level" → "three-mode".
+- **Changes, secondary structure-of-attention (3619 → 3863)**:
+  1. Per-mode tables. Instructed deployment is now "~300–700ms post-cue" and willed is "Hundreds of ms later than instructed". "Effort" is relabelled "Felt effort".
+  2. L88 rewritten. The claim that instructed attention is a "unidirectional command structure" had no support: Rajan reports a two-way GC *increase*, not a switch from one-way to two-way. The text now says coherence has no direction and that GC rose both ways.
+  3. "## The 300ms Window" → "## Deployment Timescales" (no inbound anchor links in either dialect). The text now gives the real ordering: reflexive 100–175ms, cued 300 (earlier work) or 400–725ms (M&R), willed hundreds of ms later. L113 now names the decision stage as the candidate engagement point and says a physical decision process takes the same time. L115 now rests on sustained duration, not the 300ms window.
+  4. L111: "where frontal-parietal coherence strengthens" (absent from Thura & Cisek) → "premotor activity for the selected target peaks and motor-cortex activity for the alternative is suppressed". The unverified quote "commitment point" became "volitional commitment" (abstract wording).
+  5. L221: "bidirectional frontoparietal coherence … may be the neural signature of this two-way causal flow" conflated neural with mind–brain bidirectionality, as the reviewer warned. It now says the exchange is traffic between brain regions and at most a candidate site.
+  6. L227 dropped "~300ms deployment window". L249 summary: Granger wording, "slower deployment", "identical behavioural outcomes" → "no reliable difference in task performance" (76% vs 82% accuracy, n.s.), and "are the interface in action" → "are where the interface would act".
+  7. L38, L195, L217, L233, L243: "bidirectional coherence" → "reciprocal frontoparietal interaction/exchange". Added the Müller & Rabbitt 1989 reference.
+- **String siblings fixed**:
+  - attention-as-causal-bridge (4948 → 4959): L73 "(~300ms)" → "(~300–700ms)". L75 "(~300ms)" → "(slower still)" and "bidirectional … coherence" → "reciprocal frontoparietal theta interaction". L79 (also on the optional list) now says the ~300ms is the cued-orienting optimum from studies M&R summarise, and willed lags cued.
+  - embodied-consciousness (3775 → 3794): L158 rewritten. "Willed attention deploys in approximately 300 milliseconds" was false, so there is no timing match, and the convergence rests on shared substrate alone. Added the Rajan 2019 reference.
+  - retrocausality (3145 → 3171): L103. "gains support … matches willed attention's ~300ms" → "offers a parallel … on different clocks, so they do not match".
+  - phenomenology-mechanism-bridge (4982 → 4989): L100. "share a timing order (~300ms …)" → "share phenomenology … but no common timeline".
+  - stapp-quantum-mind (4002 → 4002, word-neutral, over hard): L90 "only commitment latencies (~280-300ms) roughly coincide" → "no latency match holds either". L175 "bidirectional coherence" → "frontoparietal coherence".
+  - quantum-consciousness (3690 → 3687, net-negative, over hard; not in brief): L92 dropped "~300ms-order commitment and".
+- **Optional (5), noted, not changed**: these lines cite cued "voluntary attention ~300ms (Müller & Rabbitt 1989)". The cue type is right, but the 300ms is M&R's summary of earlier work; their own central-cue peak is 400–725ms. Lines: motor-selection L92, L155; decoherence L113; timing-gap-problem L53; motor-control-quantum-zeno L68.
+- **Residual, not fixed**: "bidirectional (fronto-parietal) coherence" still appears at comparing-quantum-consciousness-mechanisms L88, the-interface-problem L91, valence-and-conscious-selection L160, empirical-evidence-for-consciousness-selecting L80, motor-selection L153, mental-effort L68, phenomenology-of-consciousness-doing-work L93, testing-the-map-from-inside L120 ("that instructed attention lacks" also overstates a graded difference), quantum-neural-timing-constraints L93, and the motor-control-quantum-zeno L71 label. Agent-causation L125 is left to its own P2. The archive has 18 carriers, frozen.
+- **Engagement classification (editor-internal)**: no named-opponent reply changed. The physicalist decision-stage reading added at structure-of-attention L113 is a parity note, not a refutation.
+- **Published**: yes
 
 ## 06:36 - optimistic-review
 - **Status**: Success

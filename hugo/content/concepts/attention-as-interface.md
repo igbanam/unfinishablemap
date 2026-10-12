@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-12 07:13:43+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:56:09+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-12 07:13:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ The interface hypothesis rests on a further distinction: attention and conscious
 
 **Phenomenal attention without focused computational attention**: Ned Block's analysis of iconic memory showed subjects seeing all letters while reporting only 3-4—[consciousness overflowing](/concepts/phenomenal-overflow/) the computational bottleneck. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-**Willed versus instructed computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—shows greater frontal theta, stronger bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
+**Willed versus instructed computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—shows greater frontal theta, stronger reciprocal frontoparietal interaction, and additional frontal recruitment relative to instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
 
 If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
@@ -138,17 +138,19 @@ The interface specified here is the human case. Whether and how the same couplin
 
 ## The Willed Attention Distinction
 
-Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies three levels:
+Not all top-down attention is willed. Nadra and Mangun (2023) separate willed from instructed voluntary attention, and both from reflexive capture:
 
-| Mode | Trigger | Deployment Time | Effort |
-|------|---------|-----------------|--------|
-| **Exogenous** | External salience | ~100ms | None |
-| **Instructed** | External cues | ~300ms | Low |
-| **Willed** | Internal decision | ~300ms | High |
+| Mode | Trigger |
+|------|---------|
+| **Exogenous** | External salience |
+| **Instructed** | External cues |
+| **Willed** | Internal decision |
 
-Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta power rising from ~500ms post-cue, greater than in instructed attention (a relative increase rather than an all-or-none marker); bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
+Willed deployment lags instructed: posterior alpha lateralization, the marker of attentional allocation, began hundreds of milliseconds later after a choice prompt than after an instructional cue (Rajan et al. 2019). Neither source rates effort; the felt difference is a first-person report.
 
-Bidirectional coherence and theta oscillations mark a qualitatively different process from instructed attention shifts to the same location, not merely a harder version. See [structure-of-attention](/topics/structure-of-attention/) for the full mechanistic analysis.
+Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta power rising from ~500ms post-cue, greater than in instructed attention (a relative increase rather than an all-or-none marker); greater theta-band frontoparietal coherence, with Granger causality raised in both directions (suggesting two-way exchange between decision and attention-control regions); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
+
+The theta increase and two-way exchange suggest an added decision stage, not merely a harder version of an instructed shift to the same location. See [structure-of-attention](/topics/structure-of-attention/) for the full mechanistic analysis.
 
 ## Phenomenal Attention and Effort
 
@@ -160,7 +162,7 @@ The Map's proposed mechanism—the quantum Zeno effect ([Stapp](/concepts/stapp-
 
 Rizzolatti's premotor theory of attention (PMTA) provides striking support: selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there—attention *is* motor preparation.
 
-Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed. That near-matches willed attention's ~300ms deployment time, but the anchors differ — theirs counts back from movement onset in monkeys choosing reaches, the attentional figure forward from a cue in humans — so the coincidence is not yet a shared timeline.
+Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed. A ~300ms attentional latency is often set beside it, but that figure comes from cued orienting, counts forward from a cue in humans rather than back from movement in monkeys, and willed deployment lags cued deployment by hundreds of milliseconds, so there is no shared timeline.
 
 The [dopamine system](/topics/dopamine-and-the-unified-interface/) illuminates further. A 2024 *Nature* study showed mice with impaired phasic dopamine release still move spontaneously but lose reward-oriented vigour—dopamine dynamics modulate the *decision threshold*, not raw motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and—on the Map's reading—willed attention participates in threshold selection. The rival reading needs no such addition: classical models of top-down attentional control plus dopaminergic threshold-setting already determine which option crosses the line, with the felt effort of willing a phenomenal accompaniment rather than a causal contributor. What the data establish is the layered threshold architecture; that phenomenal attention is doing selective work within it is the interface hypothesis's interpretation, not a result the study isolates.
 
@@ -183,7 +185,7 @@ COGITATE (2025) suggests attention and consciousness networks are distinct; sele
 
 ## Meditation as Interface Training
 
-Focused attention (FA) meditation trains selection; open monitoring (OM) cultivates receiving without preference. Samatha practice reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself. Meditation training follows the [skill-delegation](/concepts/skill-delegation/) pattern: initial conscious calibration, progressive withdrawal as stability develops, and retained override capacity when attention drifts.
+Focused attention (FA) meditation trains selection; open monitoring (OM) cultivates receiving without preference. Samatha practice reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-mode distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself. Meditation training follows the [skill-delegation](/concepts/skill-delegation/) pattern: initial conscious calibration, progressive withdrawal as stability develops, and retained override capacity when attention drifts.
 
 ## Relation to Major Theories
 

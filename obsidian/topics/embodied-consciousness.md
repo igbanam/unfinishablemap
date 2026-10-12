@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-10-10T23:31:49+00:00
+ai_modified: 2026-10-12T07:13:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,7 +155,7 @@ The premotor theory of attention suggests that directing attention to a location
 
 This convergence means the interface has a specific architecture: consciousness engages through the same system that plans action. An organism's range of possible attention is constrained by its range of possible action—exactly what an interface model predicts.
 
-The timing evidence may reinforce this, though less securely than the bare numbers suggest. Willed attention deploys in approximately 300 milliseconds, counted forward from a cue in humans (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement, counted back from movement onset in monkeys choosing reaches (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is what one would expect. But the inference rides on two figures measured in different species against different anchors, so the near-match is not yet a shared timeline. A common-cause account from shared neural substrate is also compatible with the timing pattern, so the convergence is suggestive rather than decisive.
+Timing evidence does not add to this. The attentional figure usually paired with motor commitment—about 300 milliseconds, counted forward from a cue in humans—is the optimum for symbolically cued orienting in studies Müller and Rabbitt (1989) summarise, and willed attention deploys hundreds of milliseconds later than cued attention (Rajan et al., 2019). Motor commitment occurs approximately 280 milliseconds before movement, counted back from movement onset in monkeys choosing reaches (Thura & Cisek, 2014). Across different modes, species and anchors there is no timing match to explain, so the convergence rests on shared substrate alone—which a common-cause account from shared neural machinery also accommodates—and remains suggestive rather than decisive.
 
 ## Intercorporeality
 
@@ -230,6 +230,7 @@ The interface reading would face serious difficulty if:
 1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
 1. Noë, A. (2004). *Action in Perception*. MIT Press.
 1. Müller, H. J., & Rabbitt, P. M. A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
+1. Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Thompson, E. (2004). Life and mind: From autopoiesis to neurophenomenology. A tribute to Francisco Varela. *Phenomenology and the Cognitive Sciences*, 3(4), 381-398. https://doi.org/10.1023/B:PHEN.0000048936.73339.dd
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.

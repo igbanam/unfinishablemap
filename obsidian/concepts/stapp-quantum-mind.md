@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-08T14:25:22+00:00
+ai_modified: 2026-10-12T07:13:43+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -87,7 +87,7 @@ The clinical data is compatible with both the quantum interpretation and classic
 
 The [[attention-as-interface|attention as interface hypothesis]] extends Stapp's framework. The core claim: attention functions as the *interface layer* between consciousness and neural systems.
 
-**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [[attention-as-interface]] develops this convergence in detail, though willed attention's frontal-theta and coherence signatures remain untested for willed action; only commitment latencies (~280-300ms) roughly coincide.
+**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [[attention-as-interface]] develops this convergence in detail, though willed attention's frontal-theta and coherence signatures remain untested for willed action, and no latency match holds either.
 
 **Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2025)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. The vast gap fits consciousness operating at policy level (goals, strategies) rather than micromanaging neurons—though low bandwidth is by itself neutral between a coarse-grained quantum selector and a coarse-grained epiphenomenal monitor. This policy-level operation aligns with [[adaptive-computational-depth|adaptive computational depth]]: consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
 
@@ -172,7 +172,7 @@ The materialist dismissal of effort phenomenology as "what computation feels lik
 The model generates falsifiable predictions:
 
 1. **Effort phenomenology proves inconsistent** across trained observers (>30% disagreement)
-2. **The willed/instructed neural distinction** (frontal theta, bidirectional coherence) proves artifactual across replications
+2. **The willed/instructed neural distinction** (frontal theta, frontoparietal coherence) proves artifactual across replications
 3. **Neuroplasticity occurs without conscious engagement**—equivalent brain changes under anaesthesia or sleep
 4. **Neural quantum effects prove non-functional**—quantum coherence occurs in neurons but plays no role in processing or consciousness
 5. **Conscious behavioural throughput vastly exceeds current estimates** (>15 bits/second consistently)

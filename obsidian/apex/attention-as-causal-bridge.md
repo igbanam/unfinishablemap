@@ -4,7 +4,7 @@ description: "How might consciousness act on matter? The Map's proposal: through
 created: 2026-02-14
 modified: 2026-10-09
 human_modified: null
-ai_modified: 2026-10-10T22:49:16+00:00
+ai_modified: 2026-10-12T07:13:43+00:00
 last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
@@ -70,13 +70,13 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 **Exogenous attention** (~100ms): a loud noise, a flash of light. The ventral attention network captures it reflexively; consciousness registers a selection the brain has already made.
 
-**Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network; consciousness follows an established rule.
+**Instructed attention** (~300–700ms): "look at the red square." An external cue directs attention through the dorsal attention network; consciousness follows an established rule.
 
-**Willed attention** (~300ms): you decide to focus on a difficult passage. In spatial cueing, three markers distinguish it from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment—while the salience network switches processing between stimulus-driven and endogenous control.
+**Willed attention** (slower still): you decide to focus on a difficult passage. In spatial cueing, three markers distinguish it from instructed attention (Rajan et al. 2019)—frontal theta oscillations, reciprocal frontoparietal theta interaction, and additional frontal recruitment—while the salience network switches processing between stimulus-driven and endogenous control.
 
 That frontal localisation is contested. Whether prefrontal activity tracks consciousness or only the machinery of reporting it remains open in the [[neural-correlates-of-consciousness|neural-correlates literature]], and these markers read equally as executive registration of a self-initiated selection rather than as a non-physical contributor entering.
 
-The willed mode is where the Map locates the candidate conscious contribution. Its ~300ms timescale has been read as shared with motor selection, but the numbers are not yet commensurable: Thura and Cisek's (2014) ~280ms commitment point counts back from movement onset in monkeys choosing reaches, while ~300ms is a post-cue deployment latency for voluntary attention in humans (Müller & Rabbitt 1989), and Rajan et al.'s theta marker itself begins only ~500ms post-cue. A common zero-point in one species would make the comparison testable. The architectural case stands regardless: [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory]] gives attending and preparing to act shared substrates, and Fine and Hayden (2022) call all prefrontal cortex premotor. One interface may serve thought and action alike, on the anatomy rather than the clock.
+The willed mode is where the Map locates the candidate conscious contribution. Its timing has been read as shared with motor selection, but the numbers are not commensurable: Thura and Cisek's (2014) ~280ms commitment point counts back from movement onset in monkeys choosing reaches; the ~300ms often paired with it is the cued-orienting optimum in studies Müller and Rabbitt (1989) summarise; and willed deployment lags cued deployment by hundreds of milliseconds, behind a theta marker that begins ~500ms post-cue (Rajan et al. 2019). A common zero-point in one species would make the comparison testable. The architectural case stands regardless: [[attention-and-the-consciousness-interface|Rizzolatti's premotor theory]] gives attending and preparing to act shared substrates, and Fine and Hayden (2022) call all prefrontal cortex premotor. One interface may serve thought and action alike, on the anatomy rather than the clock.
 
 ## Why Effort Matters
 
