@@ -418,3 +418,30 @@
   subject_articles:
   - topics/direction-dependent-discriminating-test-design.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6acc408d-b23c-83ed-833c-9a2f8aaf4b8a
+  commissioned_at: '2026-10-12T02:07:03.654510+00:00'
+  prompt_summary: Audit concepts/agent-causation (recent-aged fallback)
+  target_filename: outer-review-2026-10-12-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please carry out a rigorous outer review of the article "Agent Causation"
+    on The Unfinishable Map (https://unfinishablemap.org), a philosophy site that
+    argues for interactionist dualism from five stated tenets. The article is https://unfinishablemap.org/concepts/agent-causation/
+    and was last substantively revised on 2026-10-04. Web indexes lag by a day or
+    two, so check the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Audit whether the article''s claims survive scrutiny: verify
+    that cited works exist and say what the article attributes to them; assess its
+    treatment of the luck objection, of event-causal and compatibilist alternatives,
+    and of how agent causation is meant to interface with physics; flag missed counterarguments,
+    tenet-protective bracketing, overclaiming about what attention or motor selection
+    shows, and stale references. Also judge how well it integrates with the linked
+    articles on free will, mental effort, and attention. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit agent-causation
+  subject_articles:
+  - concepts/agent-causation.md
+  subject_source: fallback:recent-aged
