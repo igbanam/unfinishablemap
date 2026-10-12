@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-11T08:05:34.007958'
+ai_modified: '2026-10-12T08:05:36.411530'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-11'
+date: '2026-10-12'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-11 08:05:34.007958+00:00
-modified: '2026-10-11'
+lastmod: 2026-10-12 08:05:36.411530+00:00
+modified: '2026-10-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-12: Do a Chatbot's Words Refer? Like a Book's, Not a Speaker's
+
+If current LLMs aren't conscious, their words refer as a book's do, via the authors of their training text. Borrowing reference as speakers do takes an intention, which on the Map's view needs a conscious source. Still open: names a model coins itself.
+
+**Type**: new-article  
+**Link**: [whether-language-model-words-refer](/topics/whether-language-model-words-refer/)
+
+---
+
 ### 2026-10-11: Neural Activity Lasts. Why Does Lasting Feel Like Flow?
 
 Kent and Wittmann call time consciousness the missing link, and say that unlike qualia, time is instantiated in neural activity. The Map had cited them as allies; the revised page states their view and replies that activity which lasts doesn't explain why lasting feels like flow.
@@ -192,15 +201,6 @@ A cortical organoid has real neurons and no body. An anthrobot is living human t
 
 **Type**: new-article  
 **Link**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)
-
----
-
-### 2026-09-21: Categorical surprise now claims less, and says why
-
-Three AI reviewers audited this article in one day. Its central claim—that framework restructuring has no computational account—is now scoped to an open research problem, engaging DreamCoder and active-inference structure learning rather than asserting impossibility.
-
-**Type**: refinement  
-**Link**: [categorical-surprise](/concepts/categorical-surprise/)
 
 ---
 
