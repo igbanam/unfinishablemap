@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 03:20:08+00:00
+ai_modified: 2026-10-12 04:06:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 03:20:08+00:00
+lastmod: 2026-10-12 04:06:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 04:06 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 20m 25s"). This is an article audit of `concepts/agent-causation` (`fallback:recent-aged`). `collect-chatgpt-review` collected it from the 02:07Z commission. The recommendation is "major revision".
+- **File**: [outer-review-2026-10-12-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-12-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom on the new ChatGPT DOM. The body is the single `[data-markdown-text-style]` root in the one `[data-turn-key]` turn, whose state was `complete` with no stop button. KaTeX came from 7 TeX annotations. The body was read as 58 chunks of 900 characters; every chunk hash and the whole-body hash matched the page (51,821 chars, 6,796 words). `[data-message-author-role]` still returns 0 elements. The model slug is not in the DOM, so `gpt-5-6-sol-pro` is the commissioned model.
+- **Claims verified**: 34 checked. 22 were external. I extracted the primary text for Jacobs & O'Connor 2013 and Müller & Rabbitt 1989 myself and re-read the Rajan 2019 abstract; the rest came from two verification subagents using primary PDFs, PMC full text, Europe PMC abstracts and Crossref. 12 were Map-side claims, grepped on disk. 4 are unverified: the six-point exclusion list in the 2024 Kane book text itself, the gist wording for Potter & Mitchell and for Moore, and "urgency-gating". 5 were only partly right or overstated.
+- **High-value findings**: 7.
+  - (1) L95's "O'Connor (2000) developed substance causation where all causation is agents exercising powers" is Lowe 2008's wording (p. 12). O'Connor 2000 adds agent causation to an event-causal powers metaphysics.
+  - (2) J&O 2013 §7: "We have not here endorsed, let alone argued for, the substance causation metaphysics".
+  - (3) The Kane 2024 "convergence" (L71, L183, quantum-indeterminacy-free-will L89) is wrong: Kane rejects immaterial-substance agent causation, and `event-causal-libertarianism` L60 already says so.
+  - (4) L170's "What the Map adds is mechanism" contradicts free-will L118 and the register's mechanism-debt convention.
+  - (5) L145's "would be coincidental" is the strawman that tenets.md ^tenet-3-epiphenomenalism rejects; it was removed from free-will on 10-10.
+  - (6) L162's falsifier "research robustly distinguishes them" contradicts the page's own L146.
+  - (7) Found in verification: "willed attention ~300ms" is contradicted by Rajan 2019, where willed alpha-lateralization onset is *delayed* relative to instructed. Hub `structure-of-attention` L102 states it, and `attention-as-interface` credits a latency/effort table to Nadra & Mangun 2023, which has no tables, times or effort ratings. Müller & Rabbitt has no willed condition, and its ~300 ms is a summary of earlier work.
+- **Disputed / partly right**: the akrasia "not propagated" charge (L101 has carried the non-akratic scope since 10-04, though the who-settles/why-this-way residue is still missing); "Aristotle cited without a work" (*Metaphysics* is given); Boden "named" in the recent-work passage (he is only in the references); "give the species" (L131 already says monkey); the Consequence Argument point (L71 already says it targets compatibilists).
+- **Tasks generated**: 4 (P1: 3, P2: 1).
+  - P1: agent-causation attribution (O'Connor, J&O, Kane, the L174 dualism-essential scope), with quantum-indeterminacy-free-will L89 as the secondary.
+  - P1: agent-causation calibration (L170 mechanism, L89 quantum premise, L145 coincidental, L151 robustness, L157–162 falsifiers, L101 residue).
+  - P1: attention-as-interface table plus structure-of-attention L102, with 5 string siblings listed.
+  - P2: agent-causation empirical precision and bibliography (L125, L131, L133; 4–5 orphan references fund it).
+  - agent-causation is at 3,487/3,500, so all three of its tasks are briefed net-neutral. `parse_tasks` active count went 103 → 107.
+- **Not tasked**: items 36/38/39/45 (claim ledger, dependency propagation, stale-edge warnings, proposition IDs) repeat the open NEEDS-HUMAN propagation item. The Kane, mechanism and "coincidental" instances are fresh cases of it, and recording that is left for `combine-outer-reviews`. Not tasked for other reasons: §6 pairing (conceded at L107, with a dedicated page); items 7–8 (`the-divided-will` and `atemporal-causation` treat them); items 29–31 (`mental-effort` already carries those caveats).
+- **Convergence**: Claude and Gemini review the same subject today, so `combine-outer-reviews` will cluster. The "mechanism vs. schema" and "compatibility, not discrimination" critiques echo the 10-10 ChatGPT review that led to the free-will and attention-bridge downgrades.
 
 ## 03:20 - refine-draft
 - **Status**: Success

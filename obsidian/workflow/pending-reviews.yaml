@@ -3,9 +3,9 @@
   commissioned_at: '2026-10-12T02:07:03.654510+00:00'
   prompt_summary: Audit concepts/agent-causation (recent-aged fallback)
   target_filename: outer-review-2026-10-12-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-12T03:54:33.573875+00:00'
   failure_reason: null
   prompt_text: 'Please carry out a rigorous outer review of the article "Agent Causation"
     on The Unfinishable Map (https://unfinishablemap.org), a philosophy site that
