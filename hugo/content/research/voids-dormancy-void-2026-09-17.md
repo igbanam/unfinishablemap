@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-17
-ai_modified: 2026-09-17 01:10:00+00:00
-ai_system: claude-fable-5-1
+ai_modified: 2026-10-12 12:31:12+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[simulation]]'
 - '[[concepts/intentionality]]'
 - '[[filter-theory]]'
 created: 2026-09-17
-date: &id001 2026-09-17
+date: &id001 2026-10-12
 description: 'Research notes on the dormancy void: where a mind''s standing beliefs,
   memories and skills are while no one is thinking them, why consciousness cannot
   inspect its own non-occurrent bulk, and what this asks of dualism.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-17 01:10:00+00:00
+lastmod: 2026-10-12 12:31:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,9 @@ related_articles:
 - '[[sleep-consciousness-void]]'
 - '[[memory-channel-interface-evidence]]'
 - '[[language-and-consciousness]]'
+- '[[consciousness-and-memory]]'
+- '[[episodic-memory]]'
+- '[[bergson-and-duration]]'
 target_section: voids
 title: 'Research Notes - Voids: The Dormancy Void'
 topics: []
@@ -37,6 +40,9 @@ topics: []
 **Date**: 2026-09-17
 **Search queries used**: "dispositional belief occurrent standing mental states consciousness philosophy 2022–2025"; "activity-silent working memory synaptic hidden state consciousness review"; Crossref bibliographic queries for Audi 1994 and Schwitzgebel 2010; archive.org full-text search of Bergson, *Matter and Memory* (1911 translation)
 **Voids category**: Mixed — structurally Unexplorable (consciousness cannot be present to what is, by definition, not present), with an Unexplored edge (the distinction itself has, in Bartlett's words, "never been explicated in any significant detail")
+**Proposed slug**: `dormancy-void` (free across `obsidian/`, `archive/` and `hugo/content/` on 2026-10-12)
+
+**Updated 2026-10-12.** The triage's decision-changer for this note (an interactionist-dualist source stating the fork) and Gaps 2, 3 and 5 below have been worked. Results, with their own evidence grades, are in the [Addendum](#addendum-2026-10-12-gap-closure-on-the-fork). Net effect: the fork is **historically occupied, not assembled**, and it is not exclusive (Descartes partitions it; Broad adds a non-mental carrier). The Map's own pages already answer the location question, inconsistently. Dormancy stays second in the [slot triage](/research/voids-slot-triage-five-banked-candidates-2026-10-06/).
 
 ## Executive Summary
 
@@ -218,11 +224,11 @@ A transformer has no dormant states in the relevant sense while inactive: its we
 ### Most Relevant Tenet
 **Dualism**, as a demand rather than a support. A physicalist owes no special answer to the dormancy void: the dormant mind is the engram plus the hidden synaptic state, and its inaccessibility to consciousness is the ordinary inaccessibility of brain structure to introspection. A dualist owes one of three answers, and each carries a cost:
 
-1. **The dormant mind is in the brain.** Consciousness is non-physical, but beliefs, memories and skills are physical dispositions of the brain that consciousness reactivates. Cost: the overwhelming bulk of the mind is then physical, and "consciousness" names only the momentary occurrent surface. This is a live and respectable dualism (interactionist dualisms since Descartes have mostly put memory in the body), but it concedes more to physicalism than the Map's framing usually acknowledges.
+1. **The dormant mind is in the brain.** Consciousness is non-physical, but beliefs, memories and skills are physical dispositions of the brain that consciousness reactivates. Cost: the overwhelming bulk of the mind is then physical, and "consciousness" names only the momentary occurrent surface. This is a live and respectable dualism (interactionist dualisms since Descartes have mostly put memory in the body; ⚠️ *qualified 2026-10-12, Addendum §1b: Descartes himself kept an intellectual memory in the soul alongside the corporeal one, so options 1 and 2 are not exclusive*), but it concedes more to physicalism than the Map's framing usually acknowledges.
 2. **The dormant mind is non-physical** (Bergson's pure memory; the strong [filter-theory](/concepts/filter-theory/) reading). Cost: a non-physical store that consciousness cannot survey, with the brain as selector. The [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) topic's finding that memory channels fail in a fixed order under anaesthesia and disease bears directly here — a non-physical store should not degrade channel by channel with brain lesions unless the *access* to it is what degrades, which is Bergson's own reply and is not independently testable.
 3. **The dormant mind is nowhere; only the interface's capacity exists.** A strict dispositionalism grounded in the interface. Cost: Searle's Connection Principle then does all the work — a dormant belief is mental only as an accessibility-in-principle to consciousness — and the grounds of that accessibility are again physical dispositions (option 1) or non-physical ones (option 2).
 
-The void is that the tenets are silent between these, and the silence is not innocent: options 1 and 2 predict different things about [dreamless sleep](/voids/sleep-consciousness-void/), anaesthesia, and the [lower bound of consciousness](/voids/minimal-consciousness-void/) (whether a mind with no occurrent states still *has* a dormant mind, and where).
+The void is that the tenets are silent between these (⚠️ *2026-10-12, Addendum §4: the tenets and the positions register are silent, but four content pages already answer, inconsistently*), and the silence is not innocent: options 1 and 2 predict different things about [dreamless sleep](/voids/sleep-consciousness-void/), anaesthesia, and the [lower bound of consciousness](/voids/minimal-consciousness-void/) (whether a mind with no occurrent states still *has* a dormant mind, and where).
 
 ### Implications
 - **Bidirectional Interaction** gains a specific locus: reactivation. The transition of a hidden state to an active one (Trübutschek's "reactivation, associated with conscious reportability") is where a non-physical selection would have to act if consciousness recruits its own dormant content. Panichello et al.'s On/Off alternation puts the same locus at the seconds timescale.
@@ -238,10 +244,96 @@ The void is that the tenets are silent between these, and the silence is not inn
 ## Gaps in Research
 
 - The two PhilArchive items surfaced by search (a 2020s paper on local fictionalism about dispositional states; Crane's "The Limits of the Doxastic") could not be read: the site returned bot-block stubs. Neither is cited above.
-- No source was found that states the dualist's three-way fork explicitly; it is assembled here from Searle, Bergson and the engram literature. A targeted search of interactionist-dualist treatments of memory storage (Eccles; Popper & Eccles 1977; contemporary emergent dualists) is owed before an article commits to the fork as exhaustive.
-- The "activity-silent" literature is contested (the Nature 2024 paper reports *intermittent* spiking plus synaptic coding, not pure silence). An article should not overstate "silent" as "no activity at all".
+- No source was found that states the dualist's three-way fork explicitly; it is assembled here from Searle, Bergson and the engram literature. A targeted search of interactionist-dualist treatments of memory storage (Eccles; Popper & Eccles 1977; contemporary emergent dualists) is owed before an article commits to the fork as exhaustive. **Worked 2026-10-12 (Addendum §1)**: every branch has a named occupant, and the fork is neither exhaustive nor exclusive.
+- The "activity-silent" literature is contested (the Nature 2024 paper reports *intermittent* spiking plus synaptic coding, not pure silence). An article should not overstate "silent" as "no activity at all". **Worked 2026-10-12 (Addendum §2)**: the contest is now sourced on both sides (Constantinidis et al. 2018 vs Lundqvist, Herman & Miller 2018).
 - Whether phenomenal dispositions (Schwitzgebel) can be dormant without a physical or non-physical ground is the philosophical question the note leaves open; it may be unanswerable from inside, which would make this void Unexplorable rather than merely Unexplored.
-- Whether a mind in dreamless sleep or under anaesthesia *has* a dormant mind (option 1 and 2 answer yes; option 3 arguably no) was not researched; it is the natural test case.
+- Whether a mind in dreamless sleep or under anaesthesia *has* a dormant mind (option 1 and 2 answer yes; option 3 arguably no) was not researched; it is the natural test case. **Partly worked 2026-10-12 (Addendum §2)**: it is the Locke–Leibniz "does the soul always think?" dispute, which experience could not settle then and has not settled since. The contemporary dreamless-sleep literature (Windt, Nielsen & Thompson 2016) was not read.
+
+## Addendum 2026-10-12: Gap Closure on the Fork
+
+**Why this addendum and not a new note.** Voids measured **112/115** this run (`tools.evolution.state.count_section_files("voids")`; the 113→112 drop is the 2026-10-11 coalesce of `voids/smoothness-and-continuity` into `topics/neural-refresh-rates-and-the-smoothness-problem#the-continuity-void`). With three slots and at least eight banked candidates (veto, dormancy, observer-selection, serial-order, grammar, contingency, perceptual-history, prevalence), a new note cannot win a slot, and because the pipeline is LIFO it would push older notes further back. The 2026-10-10 run closed the veto note's decision-changer. This run does the same for the second-ranked note. The [triage](/research/voids-slot-triage-five-banked-candidates-2026-10-06/) named the item: "If an interactionist-dualist source stating the dormancy fork explicitly cannot be found ... the dormancy article must present the fork as assembled."
+
+**Evidence grades used below.** Keep them attached to any claim carried into an article.
+
+- **[raw]**: full text obtained and grep-verified this run. Locke, *Essay* II.i (Project Gutenberg eBook #10615; edition not stated in the file header; Gutenberg renders italics as CAPITALS, so *man* and *soul* below are lower-cased). Broad 1925 (archive.org scan `minditsplaceinna00broa`, Kegan Paul / Harcourt 1925, whitespace-normalised; page numbers taken from the scan's running heads). Leibniz, *New Essays* II.i in **Jonathan Bennett's Early Modern Texts version** (`earlymoderntexts.com/assets/pdfs/leibniz1705book2.pdf`). That version is a paraphrastic modernisation, not the Remnant & Bennett 1981 translation; check it against Remnant & Bennett before an article quotes it, or paraphrase. Joyce 1997, opening two pages only (the OpenAlex abstract field carries the article's first pages verbatim).
+- **[abstract]**: abstract or opening text read verbatim via OpenAlex. Loftus & Loftus 1980; Constantinidis et al. 2018; Lundqvist, Herman & Miller 2018; Heil 1978; De Brigard 2014, 2020; Díaz Quiroz 2021.
+- **[metadata]**: Crossref record confirmed, body not read. Popper & Eccles 1977 ch. E8; Bursen 1978; Robins 2016; Windt, Nielsen & Thompson 2016.
+- **UNVERIFIED / do not cite**: Malcolm 1977 *Memory and Mind* (attested only through De Brigard 2020's abstract; not checked at the publisher). A sentence circulating as Eccles's ("The mind searches the brain's store of engrammed information and integrates what it extracts from that store") is **an unquoted paraphrase by Arthur Custance** (custance.org, *The Mysterious Matter of Mind* ch. 6), checked on the raw page. A WebFetch summary presented it as a Popper & Eccles quotation from p. 559, which it is not. Do not quote it as Eccles.
+
+### 1. The fork is historically occupied (closes Gap 2)
+
+**(a) Locke states the cost accounting, against dualists, in 1690.** In the "soul always thinks" chapter, Locke reports the Cartesian explanation of why sleep-thoughts leave no memory and turns it into a demand [raw, II.i.15]: "Perhaps it will be said, that in a waking man the materials of the body are employed, and made use of, in thinking; and that the memory of thoughts is retained by the impressions that are made on the brain, and the traces there left after such thinking; but that in the thinking of the soul, which is not perceived in a sleeping man, there the soul thinks apart, and making no use of the organs of the body, leaves no impressions on it, and consequently no memory of such thoughts." His reply: "whatever ideas the mind can receive and contemplate without the help of the body, it is reasonable to conclude it can retain without the help of the body too". That is the note's option 1 / option 2 pressure stated by a critic of dualism. If the soul has activity of its own, it owes itself a store of its own. Locke then argues (§§16–17) that the store is empirically idle, because no one ever wakes recalling "pure native thoughts". **Bearing**: the fork is no longer this note's construction. Its cost accounting has a 1690 source aimed at Cartesians.
+
+**(b) Descartes partitions the fork.** Joyce [raw, opening pages]: "Descartes believes in two forms of memory: the corporeal and the intellectual", a distinction "never explicitly mentioned in any work which he published, and one must look to his correspondence, mostly from the last decade of his life." Joyce's first aim is "to establish that Descartes held that a purely mechanistic, soulless system is capable of having a memory faculty". Rule 12, via Joyce (AT X 416, CSM I 43): "But memory is no different from imagination—at least the memory which is corporeal and similar to the one which animals possess." Díaz Quiroz [abstract] argues the motive for intellectual memory was philosophical, not theological ("no son teológicas"). **Bearing**: the first interactionist dualist did not choose a branch. He put sensory and imagistic dormant content in the brain (option 1) and some intellectual content in the soul (option 2). The fork's options are therefore **not exclusive**: a dualist can split the dormant mind by content kind. Joyce's caution travels with this: "Descartes's statements on this topic are so brief and imprecise that if we eschewed conjecture altogether there would be little hope of progress." The Map already cites the split at [episodic-memory](/concepts/episodic-memory/) L132 (Fóti 2000; Klein 2019), so it is not new to the corpus. What is new is its bearing on the fork. Primary texts (to Mesland, 2 May 1644; to Hyperaspistes, August 1641; *Conversation with Burman*) were **not read**.
+
+**(c) Broad names the void, declares it unknown, and adds a fourth branch.** In the chapter on mnemic phenomena and the unconscious, Broad writes [raw, p. 359]: "The plain fact is that we know nothing with certainty about the intrinsic nature of traces, and we ought therefore studiously to avoid all phrases which suggest some particular view of their intrinsic nature. I propose to call traces and dispositions by the innocent name of 'mnemic persistents'." He contrasts them with "transients" [raw, p. 360]: persistents "are supposed to last for a long time, and to fill the gaps between our transient states of mind." Broad's "persistents" are this note's "dormant remainder" under another name, coined in 1925 with an explicit statement that their nature is unknown. Broad's Compound Theory (pp. 535–541) then places a candidate carrier outside both brain and mind. The "psychic factor ... is not itself a mind, but it may carry modifications due to experiences" (p. 540). Between unions, "all that exists is this psychic factor ; and this by itself is no more a mind than John Jones's corpse is a mind" (p. 541). His summary [raw, p. 651]: "it must be capable of carrying traces of experiences which happened to the mind of which it was formerly a constituent. And negatively we can say that there is at present no reason to believe and strong reason to doubt that it has the higher factors of mentality." And (p. 652): "If the Psychic Factor be material, and if it have none of the factors of mentality, the Compound Theory is a form of Emergent Materialism". **Bearing**: option 2 silently equated "non-physical store" with "mental store". Broad separates them. The carrier of dormant content could be non-bodily and non-mental, or even material. That gives a **fourth branch** (a non-mental persistent carrier) and shows the fork's labels to be less dualist-specific than the note assumed. ⚠️ **Caution**: Broad's motive was the evidence of 1920s mediumship research. Cite him for the logical shape of the option, never for that evidence. He is a dualist-leaning neutral, not an interactionist.
+
+**(d) Eccles takes option 1, at metadata grade only.** The most prominent twentieth-century interactionist titled his memory chapter "Conscious Memory: The Cerebral Processes Concerned in Storage and Retrieval" (Popper & Eccles 1977, ch. E8, pp. 377–406) [metadata]. The title alone places storage among cerebral processes. The body was not obtained (archive.org copies are access-restricted), so nothing about Eccles's account of retrieval is sourced here. See the Custance warning above.
+
+**(e) Option 3 (no stored item) was held, by non-dualists, and is now the minority.** Heil [abstract]: "trace theories are in fact philosophical theories", not empirical hypotheses. Bursen 1978 [metadata] devotes a chapter to "Trace Theory Criticized" (pp. 19–47). De Brigard 2020 [abstract] reconstructs Malcolm's 1977 anti-trace argument ("we still don't need to postulate the existence of memory traces") and replies that "realists' arguments amount to inferences to the best explanation", which the neuroscience of memory now strengthens. Heil's claim predates engram-cell work (Ryan et al. 2015 in the note) and should not be read as a reply to it.
+
+**Net for Gap 2.** Each branch has a named occupant: option 1 (Descartes for corporeal memory; Eccles by chapter title), option 2 (Bergson; Descartes for intellectual memory), option 3 (Malcolm, Bursen, the dispositionalists). There is also a fourth (Broad's non-mental carrier) and a partition (Descartes). An article should present the fork as **historically occupied and non-exclusive**, not as "the dualist's three options". It should also concede that the location question is everyone's: Loftus & Loftus and Broad face it without a dualist stake (§3). Only the number of live branches differs.
+
+### 2. The test case is the oldest part of the void (works Gaps 3 and 5)
+
+The note proposed dreamless sleep as "the natural test case". It is the subject of the Locke–Leibniz exchange. Locke [raw, II.i.10]: "It is doubted whether I thought at all last night or no. The question being about a matter of fact, it is begging it to bring, as a proof for it, an hypothesis, which is the very thing in dispute". And [raw, II.i.18]: "it is possible the soul may always think, but not always retain it in memory. And I say, it is as possible that the soul may not always think". The §13 summary heading in this text names the access problem: "Impossible to convince those that sleep without dreaming, that they think."
+
+Leibniz denies that any state is purely dormant [raw, Bennett version, II.i]: "True powers are never mere possibilities; there is always endeavour, and action." And: "given that the body is never without movement it is credible that the soul that corresponds to it is never without perception." Also: "many errors can flow from the belief that the only perceptions in the soul are the ones of which it is aware."
+
+**Bearing.** The 1690–1705 exchange has the same structure as the current working-memory dispute that Gap 3 flagged. The Lockean position (genuine non-occurrence, with only a capacity remaining) matches the activity-silent account (Stokes 2015; Trübutschek et al. 2019). The Leibnizian position (no bare powers, only unnoticed activity) matches the persistent-activity camp. Constantinidis et al. [abstract]: "Alternative models of working memory, depending on the rhythmicity of discharges or exclusively on short-term synaptic plasticity, are inconsistent with the neurophysiological data." Between them sit Lundqvist, Herman & Miller [abstract], who keep activity but drop persistence: "On single trials, activity often occurs in sparse transient bursts". Panichello et al. 2024's On/Off alternation (already in the note) is a version of that middle position. The question "is the non-occurrent mind dormant, or only unnoticed?" therefore recurs at two scales, the whole mind across a night and a single item across seconds. It has been settled at neither scale from the inside, and at the seconds scale the third-person data are still contested. Bartlett's 2018 proposal (occurrent = active, possibly unconscious) restates Leibniz's side of the line. The parallel is this note's reading. None of these authors draws it.
+
+**Calibration for an article.** "Activity-silent" must now be presented as one side of an open dispute, with Constantinidis et al. as the named opposition. The phrase "no activity at all" must not appear.
+
+### 3. Existence versus access may be undecidable (strengthens the evidence)
+
+Loftus & Loftus [abstract/opening text], psychologists with no stake in the mind–body question: "Does forgetting consist of an actual loss of stored information, or does it result from a loss of access to information, which, once stored, remains forever? It should be noted at the outset that this question may be impossible to resolve in an absolute sense." Their review of hypnosis, psychoanalytic recovery and Penfield's stimulation reports concludes that "the evidence in no way confirms the view that all memories are permanent and thus potentially recoverable." Broad drew the same line between existence and access in 1925 and made it graded: an experience is "accessible when it can be remembered by normal means", and "there will probably be degrees of accessibility" [raw, p. 362].
+
+**Bearing.** This is the void's existence face, stated as a possibly undecidable question by a field with no dualist stake. Ryan et al. 2015's silent engrams (in the note) give a partial third-person answer for one class of memories in one species: existence can outrun natural accessibility. They do not overturn the Loftuses' "absolute" point, because a failed reactivation can never show that nothing remains. Framework independence on the finding rises from High to **High, with a despite-commitments witness**.
+
+### 4. The Map is split, not silent (corpus finding)
+
+The note said "the tenets are silent between these". The tenets and the positions register are silent: [memory-and-autonoesis](/positions/memory-and-autonoesis/) asserts nothing about storage, and no position mentions engrams, storage or dormancy (grep of `obsidian/positions/`). **Four content pages already answer the location question, and they do not agree.**
+
+| Page | Line | Wording (verbatim) | Branch |
+|---|---|---|---|
+| [consciousness-and-memory](/topics/consciousness-and-memory/) | L88 | "the brain handles storage and replay, consciousness handles selectional significance" | Option 1 |
+| [episodic-memory](/concepts/episodic-memory/) | L126 | "Physical traces—synaptic patterns, engram cells, reconsolidation mechanisms—provide the substrate for encoding and storage" | Option 1. L132 then cites Descartes's split and Bergson's "brain as a filter rather than a container" as precedents "paralleling" the Map's interface framework |
+| [filter-theory](/concepts/filter-theory/) | L75 | Bergson's "memory is not stored in the brain", then: "the engram literature does not support the filter interpretation" | Rejects option 2 for memory |
+| [bergson-and-duration](/topics/bergson-and-duration/) | L88–90 | "The past is not stored in the brain like files in a cabinet." ... "This aligns with filter theory" (a wikilink in the source) | Presents option 2 as aligned with the Map, without filter-theory's engram caveat |
+
+**Bearing.** The void's demand on the tenets is sharper than the note stated. The Map has answered the location question piecemeal and inconsistently, without registering an answer, and the inconsistency runs between a concept page and the topic page that links to it. A dormancy article would be the natural place to hold the fork open honestly. It should cite these four pages as the Map's current, divided practice.
+
+**Side finding (not actioned, for the driver).** [bergson-and-duration](/topics/bergson-and-duration/) L90 ("This aligns with filter theory") lacks the engram caveat that [filter-theory](/concepts/filter-theory/) L75 carries ("the engram literature does not support the filter interpretation"). A one-clause calibration on bergson-and-duration (2862 body words; topics hard ceiling 4000, so 1137 words of headroom) would align them. Separately, episodic-memory L126 and L132 sit side by side without noting that the Bergson precedent contradicts the storage sentence above it.
+
+### 5. Effect on the triage ranking
+
+| Criterion | Triage grade (2026-10-06) | After this addendum | What moved it |
+|---|---|---|---|
+| Signature specificity | Strong | Strong, sharpened | Locke's argument shows the dormant mind's existence cannot be settled from experience ("It is doubted whether I thought at all last night"); Broad coined a term for the dormant remainder and declared its nature unknown |
+| Structured persistence | Strong | **Very strong** | Descartes (1640s correspondence) → Locke 1690 → Leibniz c.1704 → Broad 1925 → Eccles 1977 → Loftus & Loftus 1980 → the 2018 working-memory exchange → Panichello 2024 |
+| Cross-observer convergence | Strong | Strong | Adds early-modern philosophy and memory psychology. **Discount**: Locke and Leibniz are one exchange, and Broad is within the same philosophical lineage. Loftus & Loftus is the independent addition |
+| Framework independence | High on the finding, lower on the significance | High on the finding (despite-commitments witness added); **the significance is no longer assembled by this note**, but it is less dualist-specific | The fork has named occupants including a critic of dualism. Broad's material carrier and the Loftuses' undecidability show that physicalists face the location question too |
+
+**Net: dormancy stays second.** The triage's decision-changer resolved in its favour: the fork is stated (by Locke, against Cartesian dualists), partitioned (by Descartes) and extended (by Broad). The article must drop the "three options" framing for an occupied, non-exclusive fork, and must not claim the void as uniquely a dualist's problem.
+
+### 6. Ranking against the bank for the three remaining slots
+
+Measured this run: voids **112/115**. Fold-host body words (`analyze_length`, gate `>=` 3000; headroom = 2999 − count): [fusion-void](/voids/fusion-void/) 1994 (+1005), [simulation-detection-void](/voids/simulation-detection-void/) 1473 (+1526), [self-opacity](/voids/self-opacity/) 3069 (−70), [tacit-integration-void](/voids/tacit-integration-void/) 2250 (+749), [sleep-consciousness-void](/voids/sleep-consciousness-void/) 2917 (+82), [causal-interface](/voids/causal-interface/) 2343 (+656), [agency-void](/voids/agency-void/) 3257 (−258).
+
+1. **Veto**: slot. Unchanged since the 2026-10-10 addendum.
+2. **Dormancy**: slot. Strengthened here. Its natural hosts are still closed (self-opacity −70, sleep-consciousness +82), and tacit-integration (+749) is the sibling it distinguishes itself from.
+3. **Observer-selection** ([note](/research/voids-observer-selection-void-2026-10-11/), banked after the triage): slot, ahead of serial-order. On the four criteria the two are close. The deciding factors are fold costs and tenet demand. Serial-order has a cheap fold waiting: fusion-void has +1005 words, and its taxonomy sentence names the empty production cell. Its tenet reading is unfavourable to the Map and makes no demand on it. Observer-selection makes a two-way demand on Tenet 4, the triage's stated reason for preferring a slot over a fold. Its only roomy host (simulation-detection-void) is a downstream application, where the Tenet-4 caution would sit out of reach of Tenet-4 readers.
+4. **Fold**: serial-order → fusion-void. Grammar → expertise-and-its-occlusion (access face) plus the dormancy article (status face; the Connection Principle section). Contingency → nomic, intrinsic-nature and thrownness. Perceptual-history and prevalence → folds per their own notes. Notation and suggestion stay *Surveyed* and are not ranked here.
+
+⚠️ **Pipeline mismatch, for the operator.** `task_chains.pending_articles` holds **grammar** and **observer-selection** as its only `target_section: voids` entries. **Veto and dormancy are absent.** Replenish mints expand tasks from that list, so on the current state the pipeline would spend slots on grammar (a fold on this ranking) and observer-selection, and never reach the top two. This run did not edit `pending_articles`, because the slot allocation is the open operator decision (todo.md P3 "NEEDS-HUMAN (voids slot)"). The 10-08 and 10-09 entries recorded the same fix: remove grammar, add veto and dormancy.
+
+### 7. Remaining gaps
+
+- Eccles ch. E8 body not obtained, so his retrieval account is unsourced.
+- Descartes primary texts not read; the partition rests on Joyce 1997 and Díaz Quiroz 2021.
+- Leibniz quotations come from Bennett's paraphrastic version; check them against Remnant & Bennett (CUP 1981) pagination before quoting.
+- Not searched: Swinburne (the soul in dreamless sleep; "continuing mental states"), Hasker's emergent dualism, Wittgenstein *Zettel* §§608–610 (anti-trace; lead only), Robins 2016 (metadata only), Windt, Nielsen & Thompson 2016 on dreamless sleep (metadata only).
+- Whether Broad's fourth branch is distinct from option 1 once the carrier is material. Broad himself says it would then be "a form of Emergent Materialism".
 
 ## Citations
 
@@ -263,3 +355,21 @@ The void is that the tenets are silent between these, and the silence is not inn
 16. Ryan, T. J., Roy, D. S., Pignatelli, M., Arons, A., & Tonegawa, S. (2015). "Engram cells retain memory under retrograde amnesia." *Science*, 348(6238), 1007–1013. https://doi.org/10.1126/science.aaa5542 (metadata and summary verified at Crossref)
 17. Josselyn, S. A., & Tonegawa, S. (2020). "Memory engrams: Recalling the past and imagining the future." *Science*, 367(6473), eaaw4325. https://doi.org/10.1126/science.aaw4325 (metadata and summary verified at Crossref)
 18. Brysbaert, M., Stevens, M., Mandera, P., & Keuleers, E. (2016). "How Many Words Do We Know? Practical Estimates of Vocabulary Size Dependent on Word Definition, the Degree of Language Input and the Participant's Age." *Frontiers in Psychology*, 7, 1116. https://doi.org/10.3389/fpsyg.2016.01116 (metadata verified at Crossref; abstract verified at Europe PMC)
+
+*Added 2026-10-12 (Addendum). Grades as defined there.*
+
+19. Locke, J. (1690). *An Essay Concerning Human Understanding*, Book II, ch. i, §§10–18. Text checked against Project Gutenberg eBook #10615 (edition not stated in the file header). [raw]
+20. Leibniz, G. W. (c.1704; publ. 1765). *New Essays on Human Understanding*, Book II, ch. i. Quoted from Jonathan Bennett's Early Modern Texts version (paraphrastic), https://www.earlymoderntexts.com/assets/pdfs/leibniz1705book2.pdf. Standard translation: P. Remnant & J. Bennett (Trans.), Cambridge University Press, 1981 (not consulted). [raw, Bennett version]
+21. Broad, C. D. (1925). *The Mind and Its Place in Nature*. London: Kegan Paul, Trench, Trubner; New York: Harcourt, Brace. pp. 359–362, 535–541, 651–652. Scan: https://archive.org/details/minditsplaceinna00broa. Routledge reissue 2014, https://doi.org/10.4324/9781315824147 (Crossref). [raw]
+22. Joyce, R. (1997). "Cartesian Memory." *Journal of the History of Philosophy*, 35(3), 375–393. https://doi.org/10.1353/hph.1997.0046 (Crossref; opening pages read via OpenAlex) [raw, pp. 375–376 only]
+23. Díaz Quiroz, D. (2021). "Descartes y la memoria intelectual." *Estudios de Filosofía*, 64, 123–138. https://doi.org/10.17533/udea.ef.n64a06 (Crossref) [abstract]
+24. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain*. Berlin: Springer. Ch. E8, "Conscious Memory: The Cerebral Processes Concerned in Storage and Retrieval," pp. 377–406. https://doi.org/10.1007/978-3-642-61891-8_14 (Crossref) [metadata]
+25. Loftus, E. F., & Loftus, G. R. (1980). "On the permanence of stored information in the human brain." *American Psychologist*, 35(5), 409–420. https://doi.org/10.1037/0003-066x.35.5.409 (Crossref; abstract and opening text via OpenAlex) [abstract]
+26. Constantinidis, C., Funahashi, S., Lee, D., Murray, J. D., Qi, X.-L., Wang, M., & Arnsten, A. F. T. (2018). "Persistent Spiking Activity Underlies Working Memory." *Journal of Neuroscience*, 38(32), 7020–7028. https://doi.org/10.1523/jneurosci.2486-17.2018 (Crossref, all seven authors confirmed) [abstract]
+27. Lundqvist, M., Herman, P., & Miller, E. K. (2018). "Working Memory: Delay Activity, Yes! Persistent Activity? Maybe Not." *Journal of Neuroscience*, 38(32), 7013–7019. https://doi.org/10.1523/jneurosci.2485-17.2018 (Crossref) [abstract]
+28. Heil, J. (1978). "Traces of Things Past." *Philosophy of Science*, 45(1), 60–72. https://doi.org/10.1086/288779 (Crossref) [abstract]
+29. Bursen, H. A. (1978). *Dismantling the Memory Machine*. Dordrecht: Reidel (Springer). https://doi.org/10.1007/978-94-009-9885-8 (Crossref; ch. "Trace Theory Criticized," pp. 19–47) [metadata]
+30. De Brigard, F. (2014). "The Nature of Memory Traces." *Philosophy Compass*, 9(6), 402–414. https://doi.org/10.1111/phc3.12133 (Crossref) [abstract]
+31. De Brigard, F. (2020). "The Explanatory Indispensability of Memory Traces." *The Harvard Review of Philosophy*, 27, 23–47. https://doi.org/10.5840/harvardreview202072328 (Crossref) [abstract]
+32. Robins, S. K. (2016). "Representing the past: memory traces and the causal theory of memory." *Philosophical Studies*, 173(11), 2993–3013. https://doi.org/10.1007/s11098-016-0647-x (Crossref) [metadata; not used in the text]
+33. Windt, J. M., Nielsen, T., & Thompson, E. (2016). "Does Consciousness Disappear in Dreamless Sleep?" *Trends in Cognitive Sciences*, 20(12), 871–882. https://doi.org/10.1016/j.tics.2016.09.006 (Crossref) [metadata; not read]

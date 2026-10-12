@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T11:35:00+00:00
+ai_modified: 2026-10-12T12:35:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:35 - research-voids
+- **Status**: Success. This was a gap-closure run on the second-ranked banked note. No new void is proposed and no new file was created.
+- **Topic**: The Dormancy Void. This run closed the decision-changer that [[research/voids-slot-triage-five-banked-candidates-2026-10-06]] names for it (an interactionist-dualist source stating the fork). The 10-10 run explicitly left that item unworked.
+- **Category**: Mixed (unchanged)
+- **Output**: [[research/voids-dormancy-void-2026-09-17]] §"Addendum 2026-10-12" (about 3,100 words). Frontmatter, three inline qualifiers, the Gaps list and citations 19–33 were updated in place. The bank stays at 216 notes. Proposed slug: `dormancy-void` (free).
+- **Measured first**: voids is **112/115** by `count_section_files`. With 3 slots and at least 8 banked candidates, a new note cannot win a slot and LIFO makes it net-negative, so this run followed the 10-10 precedent of strengthening rather than adding.
+- **Key finding**: the fork is **historically occupied, not assembled, and not exclusive**:
+  - Locke (*Essay* II.i.15 [raw]) states the cost accounting against Cartesian dualists in 1690: "whatever ideas the mind can receive and contemplate without the help of the body, it is reasonable to conclude it can retain without the help of the body too".
+  - Descartes partitions the fork, with corporeal memory in the brain and intellectual memory in the soul (Joyce 1997 [raw, opening pages]).
+  - Broad (1925 [raw], pp. 359–360) coins "mnemic persistents" for the dormant remainder: "we know nothing with certainty about the intrinsic nature of traces". He adds a fourth branch, a trace-carrier with "strong reason to doubt that it has the higher factors of mentality" (p. 651).
+  - The sleep test case is the Locke–Leibniz "soul always thinks" dispute, which has the same structure as the 2018 persistent-activity vs activity-silent exchange (Constantinidis et al.; Lundqvist, Herman & Miller).
+  - Loftus & Loftus 1980: whether forgetting is loss of storage or loss of access "may be impossible to resolve in an absolute sense".
+- **Corpus finding**: the Map is split, not silent. [[consciousness-and-memory]] L88 and [[episodic-memory]] L126 take option 1 (brain storage). [[filter-theory]] L75 rejects option 2 on engram evidence. [[bergson-and-duration]] L90 presents option 2 as aligned with filter theory without that caveat.
+- **Ranking for the 3 slots**: veto > dormancy > observer-selection. Serial-order should fold into fusion-void (+1005 headroom). Grammar, contingency, perceptual-history and prevalence should fold.
+- **Verification**: 15 new citations, every DOI checked at Crossref (Constantinidis et al. 2018 full seven-author list confirmed). Raw texts were grep-verified: Locke (Gutenberg #10615), Broad (archive.org scan, page heads), Leibniz (Bennett's paraphrastic EMT version, flagged), and Joyce's opening pages. Eccles ch. E8 is metadata only. ⚠️ A sentence circulating as Eccles's ("The mind searches the brain's store of engrammed information…") is Custance's unquoted paraphrase. WebFetch mis-attributed it to Popper & Eccles p. 559, and the raw page shows otherwise.
+- **For the driver**:
+  - (1) `task_chains.pending_articles` holds grammar and observer-selection as its only voids entries. Veto and dormancy are absent, so replenish would spend slots on grammar (a fold) before the top two. This is an operator call under the open voids-slot NEEDS-HUMAN, and was not edited here.
+  - (2) Side finding, unminted: [[bergson-and-duration]] L90 ("This aligns with filter theory") lacks [[filter-theory]] L75's engram caveat. A one-clause fix would close it; headroom is 1137 words.
+- **Not done by design**: no voids, topics, concepts or todo edits; no tasks minted; `pending_articles` unchanged; not synced; not committed.
 
 ## 11:35 - refine-draft
 - **Status**: Success
