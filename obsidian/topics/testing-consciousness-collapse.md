@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-05-26
 human_modified:
-ai_modified: 2026-10-07T17:21:30+00:00
+ai_modified: 2026-10-12T14:56:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[the-reverse-inference]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-07-25T14:16:42+00:00
@@ -82,7 +82,7 @@ An ideal experiment would compare a quantum system measured by a conscious obser
 
 **Macromolecule and nanoparticle interferometry:** The molecular-beam record (Fein et al., 2019, ~25,000 amu) was overtaken by Pedalino et al. (2026), who interfered sodium nanoparticles above ~170,000 amu (into the megadalton regime), advancing demonstrated macroscopicity by about an order of magnitude. Direct CSL testing still requires 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe that regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
 
-**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock et al. microtubule superradiance evidence (2024), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [[born-rule-and-the-consciousness-interface]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy; [[brain-internal-born-rule-testing]] specifies the mechanism-specific experimental signatures (Stapp Zeno, Orch-OR, strict selection-only, trumping-preemption) and what *convergent* negative evidence would foreclose the strict corridor reading.
+**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock et al. microtubule superradiance evidence (2024), and the Nirvanic quantum-agent device (2025); Maier et al.'s (2018) RNG null tests an external device, outside that regime. [[born-rule-and-the-consciousness-interface]] catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy; [[brain-internal-born-rule-testing]] specifies the mechanism-specific experimental signatures (Stapp Zeno, Orch-OR, strict selection-only, trumping-preemption) and what *convergent* negative evidence would foreclose the strict corridor reading.
 
 ## Tier 1 Predictions: Does Collapse Happen at All?
 

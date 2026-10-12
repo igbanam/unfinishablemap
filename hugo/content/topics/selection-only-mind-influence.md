@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-10-10 06:23:50+00:00
+ai_modified: 2026-10-12 14:56:43+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 11:52:15+00:00
-lastmod: 2026-10-10 06:23:50+00:00
+lastmod: 2026-10-12 14:56:43+00:00
 modified: *id001
 related_articles:
 - '[[trilemma-of-selection]]'
@@ -106,9 +106,9 @@ Three results sharpen this corridor:
 
 - The Princeton Engineering Anomalies Research programme, accumulated over decades, reported a per-trial bias on the order of 10⁻⁴ bits per bit processed. Independent replication across the Mind/Machine Interaction Consortium with 227 participants and roughly 2 million trials failed to confirm the original effect (Jahn et al. 2000).
 - Bösch, Steinkamp & Boller's 2006 meta-analysis of 380 RNG-PK studies reported a significant overall effect, but with effect size strongly inversely related to sample size: "the small effect size, the relation between sample size and effect size, and the extreme effect size heterogeneity found could in principle be a result of publication bias" (Bösch et al. 2006).
-- Maier, Dechamps & Pflitsch (2018) ran a pre-registered Bayesian replication with 12,571 subjects and reported strong evidence for the null: "the Bayesian analysis revealed strong evidence for H0 (BF01 = 10.07), thus micro-PK did not exist in the data".
+- Maier, Dechamps & Pflitsch (2018) ran a sequential Bayesian study with 12,571 subjects and reported strong evidence for the null: "The Bayesian analysis revealed strong evidence for H0 (BF01 = 10.07). Thus, micro-PK did not exist in the data".
 
-Read together, these results bracket the corridor. If a real selection-only signature exists in these protocols, its per-trial bias sits below ~10⁻⁴ bits/bit at PEAR scales and below the Maier-Dechamps detection threshold at large N. The strict reading *predicts* this — large detectable bias would be evidence against it, not for it. The corridor is what a Born-marginal-preserving channel should leave behind.
+Read together, these results bracket the corridor. If a real selection-only signature exists in these protocols, its per-trial bias sits below ~10⁻⁴ bits/bit at PEAR scales and below the Maier et al. detection threshold at large N. The strict reading *predicts* this — large detectable bias would be evidence against it, not for it. The corridor is what a Born-marginal-preserving channel should leave behind.
 
 The corridor's scope needs care, because this article previously overstated it. These bounds constrain the *measured endpoint of the protocols that produced them*. Carrying them across to a ceiling on an unobserved neural interface would need a stated mapping from the neural coupling to that endpoint — how many selectable events a protocol recruits, how they aggregate, how participant state and task context enter, what measurement noise absorbs. The Map has no such mapping, so the corridor bounds intentional micro-psychokinesis at the coarsest conditioning grain, not the interface.
 

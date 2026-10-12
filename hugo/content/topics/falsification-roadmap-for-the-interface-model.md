@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-10-11 17:05:53+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-12 14:56:43+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:58:00+00:00
-lastmod: 2026-10-11 17:05:53+00:00
+lastmod: 2026-10-12 14:56:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 *Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [baseline cognition hypothesis](/concepts/baseline-cognition/) currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
 
-*Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Preregistered Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier & Dechamps, 2018) has foreclosed large, unaided, intention-driven Born-rule violation of the PEAR variety at an *external* RNG—outside the brain-locality Tenet 3 concerns. Tenet 3 does not require this kind of large-signal effect; corridor-level biasing—Born on the unconditioned aggregate by construction, testable in the conditioned register only—remains compatible. The [Born-rule consciousness-interface article](/topics/born-rule-and-the-consciousness-interface/) maps what this empirical trajectory has and has not closed off.
+*Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Large-sample Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier et al., 2018) has foreclosed large, unaided, intention-driven Born-rule violation of the PEAR variety at an *external* RNG—outside the brain-locality Tenet 3 concerns. Tenet 3 does not require this kind of large-signal effect; corridor-level biasing—Born on the unconditioned aggregate by construction, testable in the conditioned register only—remains compatible. The [Born-rule consciousness-interface article](/topics/born-rule-and-the-consciousness-interface/) maps what this empirical trajectory has and has not closed off.
 
 **The conservation of energy challenge**: Pitts (2020) argues that conservation laws "trivially nearly entail" causal closure—"nearly" because conservation holds only locally, so assuming it holds in the brain begs the question against mental causation. On his own account mental causation would nonetheless be locally conservation-violating, a cost he does not dissolve. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—needs no violation at all: read as local and energetically-equivalent-respecting, the conservation laws permit selection among energetically equivalent alternatives. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works.
 
@@ -144,7 +144,7 @@ The analysis reveals a clear asymmetry across the five tenets. These map to dist
 |-------|------|---------------|-------------------------------|
 | Dualism | Framework commitment | Cumulative only | None direct |
 | Minimal Quantum Interaction — strict corridor reading | Mechanism hypothesis | Not Popper-refutable; vulnerable to motivation-loss / theoretical supersession | No direct Born-statistical signature by construction; depends on resolution of the definite-outcome problem |
-| Minimal Quantum Interaction — probability-bias reading | Mechanism hypothesis | High at non-brain scales; moderate brain-internally | RNG meta-analysis ε ≈ 10⁻⁴ ceiling; preregistered Bayesian work (Maier & Dechamps 2018) trending toward null |
+| Minimal Quantum Interaction — probability-bias reading | Mechanism hypothesis | High at non-brain scales; moderate brain-internally | RNG meta-analysis ε ≈ 10⁻⁴ ceiling; large-sample Bayesian work (Maier et al. 2018) trending toward null |
 | Minimal Quantum Interaction — Stapp/Zeno reading | Mechanism hypothesis | High in literal-Zeno form; corridor-compliant in weaker reading | Predicts attention-rate-dependent deviations; no brain-internal test yet published |
 | Minimal Quantum Interaction — Orch-OR | Mechanism hypothesis | High | MAQRO-class interferometry; Tegmark decoherence calculation contested by Hagan-Hameroff-Tuszynski 2002; Gran Sasso, Majorana and XENONnT exclude the parameter-free Diósi-Penrose model |
 | Minimal Quantum Interaction — Chalmers-McQueen / IIT-collapse | Mechanism hypothesis | High in principle | Predicts Φ-dependent collapse signatures; no operational protocol yet |

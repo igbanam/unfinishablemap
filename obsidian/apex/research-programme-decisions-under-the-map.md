@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-09-27T19:02:00+00:00
+ai_modified: 2026-10-12T14:56:43+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -28,7 +28,7 @@ related_articles:
 
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-06-16
 last_curated: null
 last_deep_review: 2026-07-19T16:44:53+00:00
@@ -83,7 +83,7 @@ The second-most warranted direction targets P-Q1's mechanism preference directly
 
 This makes a specific, technical, publishable calculation decision-relevant. A coherence-time model for the relevant neural structures that survived review would not merely add detail; it would re-rank the entire mechanism cluster. P-Q5 (Orch-OR demoted), re-based onto the coherence record in 2026-07-31, shifts on "a microtubule coherence-time model", which would re-elevate the family. P-Q4 (Stapp-Zeno demoted) asks more: "a working coherence-time calculation for the relevant neural structures is published *and* observation intervals are shown to clear the bath-correlation bar with an account of what sets the sign" — the [[concepts/sign-problem-for-conscious-observation|regime criterion]], a second gate the calculation alone cannot open. P-Q8 makes a fourth: the neural licence it withholds is released by "a positive coherence-time calculation for the neural case." So one calculation has fan-out across **four** positions — P-Q1, P-Q4, P-Q5, P-Q8 — not three. The contested experimental line against Tegmark's original decoherence estimate — detailed in the [[falsification-roadmap-for-the-interface-model|falsification roadmap]] — is exactly where this work is live.
 
-The decision-relevance is symmetric, which is what makes it a test rather than a confirmation hunt. A coherence-time calculation that *confirmed* warm-wet decoherence is fast would further entrench post-decoherence selection and further demote the rivals — also a band-relevant result. Either way the direction pays, because either result moves the register. Contrast this with re-running PEAR-style micro-psychokinesis experiments at the coarse grain: P-Q9 puts the unconditioned marginal in the pre-committed-null zone, where neither outcome moves the Map, and the register books the intention-to-RNG nulls (Maier & Dechamps 2018) as predicted on either horn, the RNG lying outside [[brain-interface-boundary|brain-locality]], so a rerun discriminates nothing.
+The decision-relevance is symmetric, which is what makes it a test rather than a confirmation hunt. A coherence-time calculation that *confirmed* warm-wet decoherence is fast would further entrench post-decoherence selection and further demote the rivals — also a band-relevant result. Either way the direction pays, because either result moves the register. Contrast this with re-running PEAR-style micro-psychokinesis experiments at the coarse grain: P-Q9 puts the unconditioned marginal in the pre-committed-null zone, where neither outcome moves the Map, and the register books the intention-to-RNG nulls (Maier et al. 2018) as predicted on either horn, the RNG lying outside [[brain-interface-boundary|brain-locality]], so a rerun discriminates nothing.
 
 Tractability points the same way, and here is where it first bites. Direction 2 asks for a calculation the field already knows how to attempt and to referee; Direction 1 asks for a formal object nobody has built, and which the register concedes may never exist. Direction 1 leads on band-movement; Direction 2 is the likelier to actually deliver one.
 

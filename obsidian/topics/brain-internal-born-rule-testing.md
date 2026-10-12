@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-10-09T18:34:36+00:00
+ai_modified: 2026-10-12T14:56:43+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -65,7 +65,7 @@ Making the corridor empirically superfluous requires more than a single null res
 
 The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [[channel-class-taxonomy|channel-class taxonomy]]: Class 1, the [[selection-only-channel|selection-only channel]]. The mind sees the prior distribution {p₁, …, p_N}, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied, no-signalling only on the strong per-context reading argued in [[selection-only-channel|selection-only channel]]. The trade-off is severe: Han and Choi (2016) derive the Born rule from a strengthened relativistic-causality condition, and on their condition probability assignments that deviate from the Born rule would enable superluminal signalling. A strictly Born-compliant selection channel therefore transmits no ensemble-level information — any redistribution of probability mass readable off the long-run statistics would, on their causality condition, open a forbidden signalling channel.
 
-A reading slightly outside the corridor — *probability-bias* — admits a small per-event deviation ε. Probability-bias channels reweight {pᵢ} to {pᵢ′} subject to Σpᵢ′ = 1. The empirical ceiling from RNG meta-analysis is roughly ε ≈ 10⁻⁴ (Bösch et al. 2006), tightened toward the null at typical scales by preregistered Bayesian work (Maier & Dechamps 2018). The corridor is what survives categorical commitment to no deviation; probability-bias is what survives if the empirical ceiling permits a non-zero ε at sub-RNG-detection levels brain-internally.
+A reading slightly outside the corridor — *probability-bias* — admits a small per-event deviation ε. Probability-bias channels reweight {pᵢ} to {pᵢ′} subject to Σpᵢ′ = 1. The empirical ceiling from external-RNG meta-analysis is roughly ε ≈ 10⁻⁴ (Bösch et al. 2006), tightened toward the null at typical scales by large-sample Bayesian work (Maier et al. 2018). The corridor is what survives categorical commitment to no deviation; probability-bias is what survives if the empirical ceiling permits a non-zero ε at sub-RNG-detection levels brain-internally.
 
 The article's working question: what would shut both readings, forcing the Map either to retreat to a [[trumping-preemption|trumping-preemption]] reading (selection on an axis the Born rule does not touch) or to abandon [[tenets#^bidirectional-interaction|Tenet 3]] altogether?
 
@@ -130,7 +130,7 @@ Honouring [[evidential-status-discipline|evidential-status discipline]] requires
 What the present empirical record currently supports:
 
 - Born-rule deviation in photon, atomic, and high-energy regimes is bounded to ~10⁻² and tightening.
-- Large-signal mind-matter influence on RNG outputs at non-brain scales is bounded to ε ≈ 10⁻⁴, with preregistered Bayesian work since 2018 (Maier & Dechamps 2018) trending toward the null at typical scales. The original PEAR-style large-effect claim is weakly supported at best.
+- Large-signal mind-matter influence on RNG outputs at non-brain scales is bounded to ε ≈ 10⁻⁴, with large-sample Bayesian work since 2018 (Maier et al. 2018) trending toward the null at typical scales. The original PEAR-style large-effect claim is weakly supported at best.
 - The parameter-free Diósi-Penrose collapse model — Penrose's own version, with R₀ fixed from physics rather than fitted — is ruled out by the Gran Sasso germanium-detector experiment, and by the tighter Majorana and XENONnT bounds since. What survives is the model with R₀ demoted to a free parameter, giving up the gravity-fixed quantum-classical boundary that made it distinctive.
 
 What the present record does *not* establish:

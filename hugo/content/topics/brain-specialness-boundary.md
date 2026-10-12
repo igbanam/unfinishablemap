@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-09-28 16:13:05+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-12 14:56:43+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 19:27:44+00:00
-lastmod: 2026-09-28 16:13:05+00:00
+lastmod: 2026-10-12 14:56:43+00:00
 modified: *id001
 related_articles:
 - '[[amplification-mechanisms-consciousness-physics]]'
@@ -48,7 +48,7 @@ The Map's framework proposes that [consciousness selects among quantum-indetermi
 
 But if consciousness can bias quantum outcomes at all, critics ask, why only in brains? Quantum indeterminacy exists everywhere. Random number generators, radioactive decay, photon polarisation—all involve genuine quantum indeterminacy. Why can't consciousness bias these too?
 
-Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The most comprehensive independent assessment, a meta-analysis of 380 RNG studies, found a small overall effect that the authors judged could not be unambiguously distinguished from publication bias and small-study effects (Bösch, Steinkamp & Boller, 2006); a later pre-registered Bayesian quantum-RNG experiment found evidence *against* psychokinetic biasing (Maier, Dechamps & Pflitsch, 2018). The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols—a mind-to-mind claim distinct from the mind-to-matter psychokinesis at issue here, and one the brain-locality argument cannot dispatch by the same move. Another person's brain is not "just an external quantum system" like a random number generator: it is a genuine neural interface, already coupled to *another* subject. So telepathy is not refuted by noting the target is unrepresented—it is a coupled interface, merely coupled to someone else. The scope clause excludes it on a distinct ground: the Map's coupling law is *subject-paired*, binding one consciousness to one nervous system through its co-adaptive history. A second subject's brain falls outside the first's coupling not for want of the right structure but because that structure is already spoken for—telepathy would need a cross-subject channel the subject-pairing constraint specifically forecloses.
+Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The most comprehensive independent assessment, a meta-analysis of 380 RNG studies, found a small overall effect that the authors judged could not be unambiguously distinguished from publication bias and small-study effects (Bösch, Steinkamp & Boller, 2006); a later large-sample Bayesian quantum-RNG experiment found evidence *against* psychokinetic biasing (Maier, Dechamps & Pflitsch, 2018). The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols—a mind-to-mind claim distinct from the mind-to-matter psychokinesis at issue here, and one the brain-locality argument cannot dispatch by the same move. Another person's brain is not "just an external quantum system" like a random number generator: it is a genuine neural interface, already coupled to *another* subject. So telepathy is not refuted by noting the target is unrepresented—it is a coupled interface, merely coupled to someone else. The scope clause excludes it on a distinct ground: the Map's coupling law is *subject-paired*, binding one consciousness to one nervous system through its co-adaptive history. A second subject's brain falls outside the first's coupling not for want of the right structure but because that structure is already spoken for—telepathy would need a cross-subject channel the subject-pairing constraint specifically forecloses.
 
 If the Map's mechanism permits any external influence, these claims become unexpectedly plausible. If it doesn't, the Map must explain why—without appearing to draw an arbitrary line to preserve respectability.
 
@@ -102,7 +102,7 @@ A trained brain-computer interface looks like a counterexample: a paralysed user
 
 The Map's framework makes no prediction about external psychokinesis because the mechanism doesn't extend there. This isn't dismissal through assumption; it's what the framework actually implies.
 
-Consider the PEAR research claiming small effects on random number generators. The Map's *own* Stapp-based control-loop model predicts no robust external effect, because the coupling law it posits does not reach external systems. (A different psi model could posit a weak or bandwidth-limited external channel—but it would then owe its own coupling law and its own replication record, neither of which the parapsychological literature has supplied.) Reported PEAR effect sizes are ~0.0001-0.001, barely distinguishable from statistical noise, and the broader meta-analytic and pre-registered record (Bösch et al., 2006; Maier et al., 2018) gives no robust external signal once publication bias is modelled. The older popular-science skepticism about PEAR's controls and post-hoc analysis (Park, 2000) anticipated this, though the quantitative case now rests on the meta-analyses rather than that critique. The pattern aligns with what the Map's coupling law predicts: nothing for it to reach.
+Consider the PEAR research claiming small effects on random number generators. The Map's *own* Stapp-based control-loop model predicts no robust external effect, because the coupling law it posits does not reach external systems. (A different psi model could posit a weak or bandwidth-limited external channel—but it would then owe its own coupling law and its own replication record, neither of which the parapsychological literature has supplied.) Reported PEAR effect sizes are ~0.0001-0.001, barely distinguishable from statistical noise, and the broader meta-analytic and large-sample Bayesian record (Bösch et al., 2006; Maier et al., 2018) gives no robust external signal once publication bias is modelled. The older popular-science skepticism about PEAR's controls and post-hoc analysis (Park, 2000) anticipated this, though the quantitative case now rests on the meta-analyses rather than that critique. The pattern aligns with what the Map's coupling law predicts: nothing for it to reach.
 
 The Global Consciousness Project illustrates the same point with an additional caution. Its historical correlations (the original network's claims about RNG departures around major world events) are themselves contested for flexible analysis choices; more recent claimant-side "GCP 2.0" material and preprints are produced by the project's own proponents and do not constitute independent validation. Following the [evidential-status-discipline](/project/evidential-status-discipline/), such claimant-generated results carry the evidential weight of a hypothesis to be tested, not of a confirmed effect.
 

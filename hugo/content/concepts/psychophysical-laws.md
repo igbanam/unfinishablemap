@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-11 23:51:08+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-12 14:56:43+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/psychophysical-laws/
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-10-11 23:51:08+00:00
+lastmod: 2026-10-12 14:56:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -222,7 +222,7 @@ Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quan
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** sought to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier and Dechamps (2018) report strong preregistered Bayesian evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — [corridor dualism](/topics/born-rule-and-the-consciousness-interface/) predicts no signature under unconditioned aggregate tests; a conditioned deviation would test the corridor ([P-Q3](/positions/quantum-interface/#mechanism-debt)). Born-rule testing at the brain interface is catalogued in that companion article.
+**Random number generator experiments** sought to detect consciousness influencing external quantum outcomes. Bösch et al. (2006) found small positive effects consistent with publication bias; Maier, Dechamps and Pflitsch (2018) report strong Bayesian evidence for the null. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design — [corridor dualism](/topics/born-rule-and-the-consciousness-interface/) predicts no signature under unconditioned aggregate tests; a conditioned deviation would test the corridor ([P-Q3](/positions/quantum-interface/#mechanism-debt)). Born-rule testing at the brain interface is catalogued in that companion article.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 

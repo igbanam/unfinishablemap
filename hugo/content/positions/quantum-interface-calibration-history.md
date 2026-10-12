@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-29
-ai_modified: 2026-10-11 07:41:48+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-12 14:56:43+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -13,7 +13,7 @@ description: 'Relocated calibration audit trail for the quantum-interface positi
 draft: false
 human_modified: 2026-07-29
 last_curated: null
-lastmod: 2026-10-11 07:41:48+00:00
+lastmod: 2026-10-12 14:56:43+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -57,6 +57,7 @@ The bias-without-deviation dilemma is the strongest live challenge to the defaul
 - **Updated 2026-07-15**: `Argued in` re-verified against today's cross-review of [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) (commit 1288d3603), which added the difference-making-vs-trumping layering seam; extended the gloss to track it. The change sharpens the same open dilemma rather than shifting it; confidence unchanged.
 - **Updated 2026-07-27**: cross-checked against the same CONVERGENT outer review (2026-07-27, ChatGPT 5.6 Pro + Claude Opus 5) that drove the [P-Q1](/positions/quantum-interface/#p-q1) register action. The flagship [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) now states the trumping route's honest cost in full — under corridor-plus-trumping the route is empirically silent by construction, the authorship/epiphenomenalism distinction becoming entirely metaphysical, and the preemption machinery is symmetric (a physicalist can run the mirror move). This *reinforces* rather than shifts this position: it is direct confirmation that the dilemma is genuine and unresolved, which is exactly what this entry's credence axis tracks. So — contra a naive "propagate the uncertainty downward" reading — the band is **not** lowered here: [P-Q3](/positions/quantum-interface/#p-q3)'s high credence is credence *that the dilemma is real and open*, and the concession makes it more sharply so, not less. The mechanism debt ([P-Q10](/positions/quantum-interface/#p-q10)) remains unpaid and the epiphenomenalism horn (b) remains live. Credence held high; the propagation this review demanded is carried by [P-Q1](/positions/quantum-interface/#p-q1)'s demotion trigger and [P-Q10](/positions/quantum-interface/#p-q10) conditionalization, not by demoting the position that names the debt.
 - **Updated 2026-07-28**: registered a second **candidate** account of the shape this entry's *Would shift if* asks for — "a positive account of how the bias makes a phenomenological difference without making a statistical one". [inverted-qualia](/concepts/inverted-qualia/) supplies a type/token distinction: a fine-grained functional isomorph reproduces the causal *pattern*, statistical envelope included, whereas MQI concerns which *token* outcome is drawn inside that envelope — a difference that is causally efficacious (so not epiphenomenal) without being organizational (so not reproduced by the isomorph). **The debt is not discharged.** The article itself books it as owed rather than paid — "The Map owes an account of that distinction rather than a free escape" — and the distinction has not been worked out or survived review, which is what the shift condition requires. It is recorded here so the candidate is visible and can be tested, not so it can be counted. **No band changed**, and specifically no credence upgrade: treating a candidate account as satisfaction of a shift condition would be exactly the coherence inflation this register exists to catch (see [P-M1](/positions/methodology-and-calibration/#p-m1)).
+- **Updated 2026-10-12**: citation correction; no band moved. The empirical-discriminability gloss no longer calls the Maier et al. (2018) nulls "preregistered": that *Frontiers in Psychology* study (12,571 participants, BF01 = 10.07) carries no registration. The preregistered null is Study 2 of Maier & Dechamps (2018, *J. Sci. Explor.* 32, 265–297), a separate paper.
 
 ## [P-Q5](/positions/quantum-interface/#p-q5)
 

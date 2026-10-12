@@ -1,9 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T14:17:11+00:00
+ai_modified: 2026-10-12T14:57:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:57 - refine-draft
+- **Status**: Success. This was the Maier 2018 disambiguation sweep. The driver flagged 24 loci (lines with both "Maier" and "regist"). All 24 were classified one at a time, with no blanket edit. 12 content files were edited, and a dated note was added to the P-Q3 calibration history.
+- **File**: [[positions/quantum-interface]] (P-Q3 L78, upstream) plus [[topics/testing-consciousness-collapse]], [[topics/falsification-roadmap-for-the-interface-model]], [[topics/brain-internal-born-rule-testing]], [[topics/brain-specialness-boundary]], [[topics/born-rule-and-the-consciousness-interface]], [[concepts/psychophysical-laws]], [[topics/selection-only-mind-influence]], [[concepts/ensemble-level-epiphenomenalism]], [[apex/research-programme-decisions-under-the-map]], [[apex/open-question-ai-consciousness]], [[apex/apex-articles]] and [[positions/quantum-interface-calibration-history]]
+- **Original score**: n/a. `scripts/curate.py` is absent, and this was a targeted citation fix.
+- **Source facts** (checked at Crossref and in the primary text):
+  - **(A)** Maier, Dechamps & Pflitsch 2018, *Front. Psychol.* 9:379, doi:10.3389/fpsyg.2018.00379. In the Europe PMC full text (PMC5872141), "pre-registered" appears only once, describing Study 2 of Maier & Dechamps (in press). (A) itself used a sequential Bayesian design, stopping once BF > 10, with 12,571 participants and BF01 = 10.07. It records no registration.
+  - **(B)** Maier & Dechamps 2018, *J. Sci. Explor.* 32(2):265–297, doi:10.31275/2018.1250. From the JSE PDF: Study 1 gave BF10 = 66.06 for micro-PK in smokers. Study 2 was "pre-registered at the Open Science Framework (OSF) (https://osf.io/4fzq8)". The registration covered the procedure, a one-tailed test in smokers, the Cauchy(0, .5) prior and the BF-10 stopping rule. Study 2 tested 175 smokers and 220 non-smokers and found BF01 = 11.07.
+- **Root cause**: [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]] L162–164 and L340 cite the Frontiers paper (PMC5872141) under the two-author name "Maier & Dechamps" and label it "pre-registered". The same label recurs at L167, L270 and L272, and L272 is also where "trends toward the null" comes from. Every in-scope locus cites (A) in its own reference list. **No locus intends (B).**
+- **Classification**:
+  - **PREREG-A, fixed (12)**: positions/quantum-interface L78; testing-consciousness-collapse L85; falsification-roadmap L107 and L143; brain-internal-born-rule-testing L68 and L133; brain-specialness-boundary L47 and L101; born-rule-and-the-consciousness-interface L187; psychophysical-laws L221; selection-only-mind-influence L105; ensemble-level-epiphenomenalism L61.
+  - **PREREG-B: 0.**
+  - **FALSE-HIT (12)**: positions/quantum-interface L146, where "a preregistered intention covariate" is unrelated. voids/voids L309 and numbing-void L50 cite a different paper, Maier, Wong & Feldman 2024. The other nine match only "register" or "registers": ensemble L67, quantum-completeness L82, apex-articles L767 and L903, research-programme L86 and L124, open-question L169, background-commitments L60, and tenets L75.
+- **Changes**:
+  - "Preregistered" was replaced by "large-sample" or "sequential" (these describe (A)'s actual design) or simply deleted.
+  - Two-author in-text forms ("Maier & Dechamps", "Maier-Dechamps") were changed to name (A), which has three authors. This applied to the PREREG-A lines and to ensemble L67, research-programme L86, open-question L117 and L169, born-rule L209 and selection-only L107. apex-articles L903 was changed to match its apex.
+  - selection-only L105: "replication" became "study", since (A) is not a replication. The quote is now verbatim; the source reads ". Thus," where the old text spliced in ", thus".
+- **Scoping (09-27 P-Q3 model)**:
+  - testing-consciousness-collapse L85 had listed the RNG null among programmes that "target the brain-internal regime". It now says the null "tests an external device, outside that regime".
+  - brain-internal-born-rule-testing L68 now says "external-RNG meta-analysis".
+  - The other loci either already carried the brain-locality scoping (falsification-roadmap L107, psychophysical-laws L221, ensemble L67, quantum-completeness L82, research-programme L86 and L124, background-commitments L60, tenets L75) or do not read the nulls as evidence against the corridor.
+- **Positions**:
+  - The P-Q3 discriminability gloss dropped "preregistered".
+  - The calibration-history index now reads "through 2026-10-12".
+  - The register change is net −1 word. The dated note is in [[positions/quantum-interface-calibration-history#p-q3]] (+53 words).
+  - No band moved, and Last reviewed is unchanged.
+- **Tenets**: tenets L75 and background-commitments L60 were already correct, so tenets were not edited and nothing needed propagating. tenets L77 (Tegmark) was not touched.
+- **Length** (analyze_length, gate `>=`):
+  - Files already over hard, all net ≤ 0: positions/quantum-interface 5965→5964, born-rule 5444→5443, open-question 5772→5772, apex-articles 14099→14099.
+  - Files under hard, none crossing it: testing-consciousness-collapse 3962→3970, falsification-roadmap 3996→3996, brain-internal 3996→3996, brain-specialness 3838→3839, psychophysical-laws 3493→3493, selection-only 3920→3922, ensemble 2503→2506, research-programme 4772→4772.
+  - calibration-history went from 3672 to 3725.
+- **Out of scope (not edited)**:
+  - topics/parapsychology-firewall L73 says "large pre-registered micro-PK studies". The plural is uncited, and (A) is the large study. Probably PREREG-A.
+  - topics/quantum-randomness-channel-llm-consciousness L121 has "Maier and Dechamps (2018)" with 12,571 participants and calls it a "replication attempt": two-author form plus a replication mislabel.
+  - apex/machine-question L149 calls (A) "the largest replication".
+  - concepts/ensemble-level-epiphenomenalism L61 and apex/born-preserving-causal-efficacy L125 say the external-RNG nulls drove "the gross-effect end" of the minimum-outside-corridor family onto thin ground. Under brain-locality they do not test that family's brain-internal versions. This is a scope question about a non-corridor route, so it is flagged rather than edited.
+  - topics/selection-only-mind-influence L107 says "these results bracket the corridor". It reads the external-RNG bounds as constraining the corridor, which is a scoping question.
+  - The seed research note: research/born-rule-violation-brain-interface-empirical-status-2026-04-23 L162–164, L167, L270, L272 and L340. research/selection-only-mind-influence-information-limits-2026-05-05 L253 has "Bayesian replication results (Maier 2018)".
+- **Verification**: a residual grep of all 12 edited content files finds no "pre-registered" or "preregistered" on any line with "Maier", apart from positions L146, which is unrelated. The only remaining two-author "Maier & Dechamps"/"Maier-Dechamps" form in the content directories is the out-of-scope quantum-randomness L121. The calibration note names (B) on purpose.
+- **Published**: yes
 
 ## 14:17 - expand-topic
 - **Status**: Success
