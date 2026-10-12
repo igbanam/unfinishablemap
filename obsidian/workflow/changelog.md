@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T21:50:25+00:00
+ai_modified: 2026-10-12T22:21:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:21 - refine-draft
+- **Status**: Success
+- **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]. Review: [[optimistic-2026-10-11-quadrant-geometry-wing]]; research: [[idealist-answers-to-the-transparency-problem-2026-10-11]] (L186–187, L235).
+- **Original score**: n/a (`scripts/curate.py` is absent). `analyze_length`: 3,028 → 3,028 (net 0; topics soft 3,000, hard 4,000; status soft_warning unchanged).
+- **Changes**:
+  - L38 weight verdict: "The transparency problem is not lighter than the interface problem; it is a different debt with a different shape." became "The interface problem and the transparency problem are different debts with different shapes, and the second is [[lawful-appearance-problem|only partly idealism's own]]." This withdraws the verdict in line with [[dualism-cartography]] L87, which drops weight comparisons "for want of a scale". The item order now matches "Trading the first for the second", which follows unchanged. The piped link sits on existing words and points to the four-part split (lawfulness and structural form are shared; austerity and the explanatory objection belong to idealism) without restating it. The page now names the slug 3 times: L38, L84 and Further Reading. No new bullet was added.
+  - L38 attribution: "Bernardo Kastrup's formulation — that matter is the extrinsic appearance of mental processes — is the canonical contemporary statement" became "Bernardo Kastrup's analytic idealism, on which matter is the extrinsic appearance of mental processes, is the canonical contemporary version". This puts the paraphrase in the Map's voice. The string gets 0 hits in the Kastrup 2017 full text, per the research note at L110 and the 14:17Z raw capture. No quote marks and no new Kastrup quotations were added. The unattributed paraphrase at L48 was left as is.
+  - L86: "do not pay a heavy recovery debt" became "do not incur a recovery debt". The sentence now states a debt that is owed and no longer ranks its weight.
+  - L64 style: "The slide is not a mistake the philosopher makes; it is the position telling the truth about itself." became "Rather than a mistake the philosopher makes, the slide is the position telling the truth about itself." This removes the "not X; it is Y" construction, keeps the punchline the review quoted, and costs −1 word.
+  - Untouched: the L84 piped link, the 14:17Z Further Reading bullet, the 11:21Z L92 menu-supplier edit, and the hedged stabiliser register. Three prior deep reviews say not to re-flag that register. The pre-existing "load-bearing" at L84 was left alone, per the driver's instruction not to touch L84.
+  - Reasoning mode: the engagement with Kastrup's idealism at L38 is a framework-boundary marking. The old "not lighter than" line was a weight verdict standing in for an argument the page never gave. It is now an itemised difference with no verdict.
+  - `ai_modified` updated; `ai_system` unchanged.
+- **Published**: yes
 
 ## 21:50 - expand-topic
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-12 14:16:32+00:00
+ai_modified: 2026-10-12 22:21:17+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:14:51+00:00
-lastmod: 2026-10-12 14:16:32+00:00
+lastmod: 2026-10-12 22:21:17+00:00
 modified: *id001
 related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
@@ -39,7 +39,7 @@ Call it the **Q3 sliding-boundary problem**: when the mental side of a dualism i
 
 The mechanism of the slide is an explanatory squeeze. A dualist owes an account of *why there are two ontological kinds* rather than one. The usual justification for keeping a physical pole is that it does work the mental pole cannot — it grounds the regularities science describes, the public measurable world, the resistance of matter to thought. But as the mental side is enriched to explain perception, lawful structure, and the felt world from the inside, the physical side's residual job shrinks. At the limit, "physical" names nothing but *how the mental looks from outside*. Once that happens, parsimony pressure becomes nearly irresistible: a pole that does no independent explanatory work and is definable wholly in terms of the other pole is a candidate for elimination. The position has become monist whether or not its holder announces the move.
 
-The slide leaves a characteristic residue. Where the interactionist dualist owes an *interface* account (how do the two kinds touch?), the position that has slid to [idealism](/concepts/idealism/) instead owes a **transparency problem**: why does the intrinsic mental reality appear, from the outside, *exactly* as impersonal lawful physical structure? Bernardo Kastrup's formulation — that matter is the extrinsic appearance of mental processes — is the canonical contemporary statement (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing). The transparency problem is not lighter than the interface problem; it is a different debt with a different shape. Trading the first for the second is precisely what the slide accomplishes.
+The slide leaves a characteristic residue. Where the interactionist dualist owes an *interface* account (how do the two kinds touch?), the position that has slid to [idealism](/concepts/idealism/) instead owes a **transparency problem**: why does the intrinsic mental reality appear, from the outside, *exactly* as impersonal lawful physical structure? Bernardo Kastrup's analytic idealism, on which matter is the extrinsic appearance of mental processes, is the canonical contemporary version (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing). The interface problem and the transparency problem are different debts with different shapes, and the second is [only partly idealism's own](/concepts/lawful-appearance-problem/). Trading the first for the second is precisely what the slide accomplishes.
 
 ## The Historical Record
 
@@ -65,7 +65,7 @@ Two forces, working together, drive positions off Q3-dualism and into monism.
 
 **Parsimony pressure on a thin physical substance.** A physical pole that has been thinned to "the outside appearance of the mental" is maximally exposed to Occam's razor. It posits a second ontological kind while doing no work the first kind does not already do. The Map's tenet that [Occam's Razor Has Limits](/tenets/#occams-limits) resists treating thinness as an automatic virtue — but it does not license keeping a pole that has been argued into explanatory vacancy. Parsimony is a real pressure even for a position that denies it the final word.
 
-**Reduced explanatory burden undermines distinctness.** The justification for two kinds is that each does something the other cannot. As the mental side is enriched to explain qualitative character, lawful regularity, and the structure of experience from within, the physical side's distinctive contribution erodes. Eventually the only thing "physical" picks out is a *mode of presentation* of the mental — and a mode of presentation is not a second ontological kind. The slide is not a mistake the philosopher makes; it is the position telling the truth about itself. Once the mind does this much work, calling the residue "physical and real" becomes a label without a referent.
+**Reduced explanatory burden undermines distinctness.** The justification for two kinds is that each does something the other cannot. As the mental side is enriched to explain qualitative character, lawful regularity, and the structure of experience from within, the physical side's distinctive contribution erodes. Eventually the only thing "physical" picks out is a *mode of presentation* of the mental — and a mode of presentation is not a second ontological kind. Rather than a mistake the philosopher makes, the slide is the position telling the truth about itself. Once the mind does this much work, calling the residue "physical and real" becomes a label without a referent.
 
 ## What Would Stabilise Q3 Dualism
 
@@ -87,7 +87,7 @@ The Q3 slide has a structural cousin in the interpretation of quantum mechanics,
 
 The analogy runs as follows. In both cases, an ontology that has been made *uniform* — all-branches-real for MWI, all-mental for idealism — must then recover the *apparent structure* that the uniformity dissolved. MWI must recover why one branch is experientially mine; idealism must recover why the mental ground appears as lawful impersonal matter ([the transparency problem](/concepts/lawful-appearance-problem/)). Both are *recovery debts* incurred by removing a distinction the world appears to honour: the distinctness of *the* actual outcome (MWI) or the distinctness of physical from mental (idealism). The Map's rejection of MWI under the [No Many Worlds](/tenets/#no-many-worlds) tenet rests on holding that indexical identity — *which* outcome is actually mine — is a real distinction not to be dissolved. The same instinct motivates resisting the Q3 slide: the distinctness of the physical pole is a real distinction not to be dissolved into "appearance of mind." In both cases the Map's move is to refuse the uniformity that generates the recovery debt, on the grounds that the dissolved distinction was load-bearing.
 
-The parallel is structural, not a claim that idealism *is* MWI. But it shows that the Map's anti-slide instinct at Q3 and its anti-MWI commitment share a single underlying methodological pattern: do not pay a heavy recovery debt to buy an ontological uniformity whose chief attraction is parsimony, when the dissolved distinction was doing real explanatory work.
+The parallel is structural, not a claim that idealism *is* MWI. But it shows that the Map's anti-slide instinct at Q3 and its anti-MWI commitment share a single underlying methodological pattern: do not incur a recovery debt to buy an ontological uniformity whose chief attraction is parsimony, when the dissolved distinction was doing real explanatory work.
 
 ## Relation to Site Perspective
 
