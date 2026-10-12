@@ -30,9 +30,9 @@
   commissioned_at: '2026-10-12T04:22:14.388974+00:00'
   prompt_summary: Hostile-referee audit of concepts/agent-causation (reuse)
   target_filename: outer-review-2026-10-12-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-12T04:52:58.552590+00:00'
   failure_reason: null
   prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese) reviewing this submission. Your remit is to identify

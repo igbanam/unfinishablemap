@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T04:38:01+00:00
+ai_modified: 2026-10-12T05:00:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro, Deep Research. This is the same-day article audit of `concepts/agent-causation`, reusing ChatGPT's subject. `collect-gemini-review` collected it from the 04:22Z commission. The verdict is "rejected outright".
+- **File**: [[reviews/outer-review-2026-10-12-gemini-2-5-pro]]
+- **Extraction**: js-dom. The report is the only `.markdown-main-panel` with an `h1` (one of three panels). There was no stop button. The 28,310-character body was read in 32 chunks of 900 characters, and the normalised whole-body hash and all 8 section hashes matched the page (3,787 words of reply).
+- **Claims verified**: 19 checked. Externally: 5 confirmed and 3 unverified, using Crossref, OpenAlex and Europe PMC abstracts. On disk: 6 disputed and 5 convergent. Gemini audits a composite: Maoz, "live test", Zeno, PMTA, Gandevia and the Causal Consistency Constraint all have 0 hits in the article. They come from free-will, libet-experiments, attention-and-the-consciousness-interface, the changelog and earlier outer-review pages.
+- **Disputed**: Shepherd & Mylopoulos 2021 is about unconscious *perception* and does not cover forward models. Gemini also drops the co-author. The article does not read the RP as deterministic (L133 already gives Schurger's reading). The choking claim is already scoped to "access-level efficacy" (L121). The micromanagement question is answered by skill delegation (L121). The article never pairs Zeno with post-decoherence selection (L111, L160). The "uncaused cause" charge ignores L83's "uncaused by events".
+- **Unverified**: Palmer 2022 (*J. Philosophical Theological Research*) and Sarr, Godard & Emmanuel (*J. Comput. Chem.* 47(19)) were not found on Crossref or OpenAlex. Chiari et al. 2025 (*PRA*) was not found either. Gavenas et al. 2024 is real, but Gemini dropped Rutishauser and overstated a hedged abstract.
+- **High-value findings**: 5. All of them converge with the ChatGPT review of the same date:
+  - the Kane recast;
+  - the L71 direction-of-fit clause (new to the queue);
+  - the L101 luck terminus;
+  - the L159 complete-prediction falsifier (new to the queue);
+  - the L170 Stapp/Penrose-Hameroff mechanism naming against L160's concession (new to the queue).
+- **Tasks generated**: 0 new. Following the dedupe brief, the findings were folded into today's ChatGPT tasks on agent-causation:
+  - P1 attribution: new item (6), the L71 direction-of-fit clause, which also funds 7 words if cut;
+  - P1 calibration: item (1) gains the L170 vs L160 coherence point, item (5) gains L159, and item (6) records the convergence plus a do-not-cite warning on Palmer.
+  - `parse_tasks` still reads 106 active tasks, and both tasks' Notes carry the additions.
 
 ## 04:38 - refine-draft
 - **Status**: Success
