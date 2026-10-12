@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-10-12 20:05:27+00:00
+ai_modified: 2026-10-12 21:49:52+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:23:22+00:00
-lastmod: 2026-10-12 20:05:27+00:00
+lastmod: 2026-10-12 21:49:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ This article and [affective-forecasting-gap](/concepts/affective-forecasting-gap
 
 | Term | Source | What it names | Felt as such? | Place in the two questions |
 |---|---|---|---|---|
-| Predicted utility | Kahneman & Snell 1992 | A judgement of the experienced utility an outcome will have; the *object* of what [affective-forecasting-gap](/concepts/affective-forecasting-gap/) calls anticipated valence | Only insofar as present anticipatory affect (below) carries it | The fallible forecast a selector might consult |
+| Predicted utility | Kahneman & Snell 1992 | A judgement of the experienced utility an outcome will have; the *object* of what [affective-forecasting-gap](/concepts/affective-forecasting-gap/) calls anticipated valence | Only insofar as present anticipatory affect (below) carries it | The [fallible forecast](/concepts/miswanting/) a selector might consult |
 | Decision utility | Kahneman, Wakker & Sarin 1997 | The weight an outcome carries in choice, read off the choice made | No—inferred from behaviour | Not a currency selection can consult; "selection runs on decision utility" is near-circular |
 | Experienced utility | Kahneman, Wakker & Sarin 1997 | The hedonic quality of an outcome as lived (*instant*) or as later assessed (*remembered*) | Yes | On the Map's reading, what constitutes value; the forecast's target |
 | Learned value (V/Q) | Reinforcement learning; see [reinforcement-learning-reward-signals-and-machine-valence](/concepts/reinforcement-learning-reward-signals-and-machine-valence/) | A cached estimate of expected reward, updated by δ, that a predictor-driven chooser consults | No | The value-blind rival's chooser input |

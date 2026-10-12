@@ -1,0 +1,114 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-10-12
+ai_modified: 2026-10-12 21:45:41+00:00
+ai_system: claude-opus-5-5
+author: null
+concepts:
+- '[[affective-forecasting-gap]]'
+- '[[negative-valence-asymmetry-and-the-selection-weighting-function]]'
+- '[[valence]]'
+created: 2026-10-12
+date: &id001 2026-10-12
+description: 'Gilbert and Wilson''s miswanting on the Map''s utility rows: forecast-driven
+  mischoice rests on one unreplicated study, and no design measured felt anticipation
+  at choice.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-10-12 21:45:41+00:00
+modified: *id001
+related_articles:
+- '[[preference-void]]'
+- '[[transformative-experience-void]]'
+- '[[cross-state-void]]'
+title: 'Miswanting: When a Forecast Error Changes the Choice'
+topics:
+- '[[valence-and-conscious-selection]]'
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[the-steelman-for-value-blind-selection]]'
+---
+
+**Miswanting** is Daniel Gilbert and Timothy Wilson's (2000) name for wanting what one will not, in the event, like. Their terms run against the vocabulary the Unfinishable Map uses elsewhere. For them "wanting is, simply enough, a prediction of liking", which puts their wanting on the *predicted utility* row of the Map's [shared terminology map](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology), the reverse of Berridge's incentive-salience "wanting", which can decouple from predictions of outcome value altogether. Their "liking" is consciously felt experienced utility, not Berridge's objective "liking" reaction. In the Map's vocabulary, then, miswanting is predicted utility ranking the options differently from the experienced utility they go on to deliver. The question this article asks is when that misranking has been shown to change the option chosen, and not only the prediction.
+
+The answer is rarely, and mostly not through forecasting. The strongest demonstrated reversals run through *memory* of past experience. The only reversal shown to be carried by a forecast, Hsee and Zhang's (2004) Study 3, has never been independently replicated, and immune neglect has been shown only across samples, one group choosing and another experiencing. No study found for this article measured the felt anticipation present at choice, the input the Map's position [P-VS1](/positions/value-in-selection/#p-vs1) names as its candidate selection currency, and every route documented would mislead a value-blind selector equally. The evidence makes miswanting's cost concrete without discriminating between the Map's value-sensitive reading and its rival ([explained below](#limits)).
+
+## What a Demonstrated Mischoice Requires {#demonstrated-mischoice}
+
+Showing that a forecast error *changed a choice* is harder than showing that a forecast was wrong. A single choice has no within-person counterfactual, so every design approximates one. Hsee and Zhang separate a preference reversal between presentation formats, which shows only that preferences are labile, from the case where people choose badly: "Substantive inconsistencies refer to findings that people fail to choose what is best for them". The [preference-void](/voids/preference-void/) holds the first kind; this article concerns the second.
+
+The designs form a rough ladder: experience both options and then choose one to repeat, which locates the error in memory; randomise what is remembered and observe a real later choice; choose, experience, and compare choosers who selected themselves into each option; or record choice in one sample and experience in another. Only Hsee and Zhang measured forecasts, choices and experiences together and showed the forecast predicting the choice. No study manipulated a forecast while holding the other inputs fixed, the dissociation the test battery in [affective-forecasting-gap](/concepts/affective-forecasting-gap/) needs, so the forecast's causal role is everywhere inferred.
+
+## Three Routes to a Changed Choice {#three-routes}
+
+### Memory: The Strongest Designs
+
+Kahneman et al. (1993) had 32 people hold one hand in 14 °C water for 60 seconds and the other for the same 60 seconds plus 30 more as the water was raised to 15 °C. Asked which trial to repeat, 22 of 32 chose the long one, which contained the short trial's pain and then more. In Redelmeier, Katz and Kahneman's (2003) randomised trial of 682 colonoscopy patients, a short added interval made the final moments less painful and the remembered procedure less unpleasant. Over a median 5.3 years, return for a repeat colonoscopy was "slightly higher (odds ratio=1.41, P=0.038)" in the extended group.
+
+Both errors sit in *remembered* utility, the first arrow of the pipeline (experience → memory → forecast → selection) set out in [affective-forecasting-gap](/concepts/affective-forecasting-gap/), not in the forecast. "Worse" means worse by total utility, the temporal integral of experience that Kahneman, Wakker and Sarin (1997) offer as a *normative* standard. By the standard of the patient's health, though, the colonoscopy shift is desirable.
+
+### Comparison Mode: The One Forecast-Driven Case
+
+Distinction bias (Hsee & Zhang 2004) arises because choices and predictions are usually made in *joint evaluation*, options side by side, while experience comes in *single evaluation*, where quantitative differences that look large side by side are barely felt. In Study 3, 243 students at a Chinese university chose between recalling a failure while eating a 15 g chocolate and recalling a success while eating a 5 g one. Sixty-five per cent chose the large chocolate, whether choosing for themselves or for others. Yet randomly assigned experiencers were happier with the success-and-small-chocolate option (mean ratings 2.41 versus −0.71), and so were the self-choosers (2.61 versus 0.09). A separate group asked only to predict which option would make others happier favoured the large chocolate (66%), so the authors conclude that the inconsistency "is chiefly a result of JE/SE misprediction", not of choice departing from forecast.
+
+The self-chooser comparison is, in the authors' words, "a less direct test", since those groups selected themselves and had seen both chocolates. And the choice study has never been independently replicated: the one replication on record (Anvari et al. 2021) re-ran only the two misprediction studies, reproduced one and not the other, and reported "mixed support for distinction bias".
+
+### Immune Neglect: Between Samples Only
+
+Immune neglect is forecasters' failure to anticipate the reframing and rationalisation that soften bad outcomes. Gilbert and Ebert (2002) found that photography students who could exchange their chosen print came to like it less than those whose choice was final, though forecasters predicted no difference. In a separate study most participants wanted the changeable option anyway. Kermer et al. (2006) found people forecasting that losing a gamble would hurt more than an equal win would please, while those who actually gambled found that losses "did not have as much of an emotional impact as they predicted". In a separate pretest, 16 of 21 participants declined to risk $3 on an even chance of winning $5. In both studies the choice and the feelings that contradict it come from different people.
+
+## Loss Aversion: Forecast or Weighting? {#loss-aversion}
+
+Kermer et al. read loss aversion itself as a forecasting error, the asymmetry being "more a property of affective forecasts than a property of affective experience", while conceding that endowing participants with $5 may have made losses easy to rationalise. Charpentier et al. (2016) point elsewhere. Predicting 56 people's choices across hundreds of gambles from separately rated expected and experienced feelings, they found neither kind of feeling tilted between gains and losses. Losses weighed more only at the decision, and only when a gain and a loss shared one choice: loss aversion "was explained by an asymmetry in how feelings about losses and gains were weighted when making a decision, not by an asymmetry in the feelings themselves".
+
+On the rows of the [weighting article](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/), Kermer et al. put the tilt on predicted utility and Charpentier et al. on the selection policy. If Charpentier et al. are right, the loss-averse part of a refusal is not miswanting: the forecast of feeling carried no gain–loss tilt, and the extra weight entered after it.
+
+## What the Demonstrations Do Not Show {#limits}
+
+**They do not discriminate between the readings.** The Map's value-sensitive reading makes felt valence the currency of selection; its rival, the [value-blind steelman](/topics/the-steelman-for-value-blind-selection/), has selection run on learned value or other mechanism, with feeling idle. Every route is one both readings share: joint evaluation belongs to any comparator, felt or unfelt; peak-end memory to the record a learned-value chooser and a felt forecaster both draw on; immune neglect to the forecast's content, whatever carries it. The rival predicts every reversal here, so they join the non-discriminating row of [P-VS2](/positions/value-in-selection/#p-vs2)'s battery, where every model predicts that a changed forecast changes choice.
+
+**They do not measure the felt input.** [P-VS1](/positions/value-in-selection/#p-vs1)'s currency is the *presently felt* valence of anticipating each outcome, the dread or relish felt at choice, which differs from a cool judgement about how one will later feel. Hsee and Zhang's predictions were rating-scale judgements of the second kind, and Charpentier et al.'s expected feelings were rated in a task separate from the choices. No study found measured the felt state at choice alongside later experience, so whether the felt vehicle carried the same misranking is unknown. The search was not exhaustive, so this is a gap in what was found, not proof of absence.
+
+**Their standards are relative.** Each reversal is relative to a chosen standard: total utility for the cold-water study, immediate happiness ratings for the chocolates, liking reported days later for the prints. A revealed-preference view denies that "mischoice" is well formed at all, since on that view choice defines welfare; this article leaves that objection unexamined. At larger scale the same question becomes the [transformative-experience-void](/voids/transformative-experience-void/)'s: against whose later experience a choice should be judged.
+
+## The Felt Currency's Own Failure: Misattribution {#misattribution}
+
+Gilbert and Wilson give wanting three ingredients: "the particular details that we imagine when we consider a future event, our beliefs about the ways in which people like us are likely to react to such events, and the "gut reactions" we experience when we imagine the event" (p. 182). The third is the one place in this literature where the forecast's *felt* vehicle is named as an input. "Our affective reactions to imaginary events are, in a sense, experiential previews of our affective reactions to the events themselves", they write, and the previews fail in their own way: "The crux of the problem is that the feelings we experience when we imagine a future event are not necessarily or solely caused by that act of imagination" (p. 182). Feelings, they note, "do not say where they came from" (p. 183).
+
+Neither ingredient dominates: "feelings sometimes serve us better than theories, and theories sometimes serve us better than feelings" (p. 184). Their illustration is a grocery study in which shoppers without a list bought more unplanned items when hungry than when fed, while shoppers holding a list were unaffected (Gilbert, Gill & Wilson 2002).
+
+The Map reads misattribution as the risk specific to a felt currency: a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults. The rival has an analogue at the behavioural grain, since hunger also raises incentive salience and shifts learned value, so the grocery result does not isolate feeling either. Misattribution describes a cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts rather than evidence against it. Forecasts bent by a present bodily state are the wider territory of the [cross-state-void](/voids/cross-state-void/).
+
+## Relation to Site Perspective
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects on presently felt anticipation, as [P-VS1](/positions/value-in-selection/#p-vs1) holds on prior commitments at low credence, miswanting is the demonstrated cost of that driver. A selector reading a fallible forecast would choose the long cold-water trial and the large chocolate, as people did. For the reasons given under [what the demonstrations do not show](#limits), the demonstrations neither support nor undercut the claim that the feeling selects, and they warrant no change to [P-VS1](/positions/value-in-selection/#p-vs1)'s confidence band.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The value-blind rival explains every reversal here without an experiential term, a genuine parsimony advantage. The tenet permits declining it only by argument, and the argument the Map has is its prior commitment to [phenomenal value realism](/topics/phenomenal-value-realism/), not a datum from this literature. What would move the question is the measurement no study here made: felt anticipation at choice, dissociated from forecast content and learned value, set against later experience.
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: Miswanting presupposes a forgone option. As with the [affective-forecasting-gap](/concepts/affective-forecasting-gap/), asking which valence selects has a referent only if one outcome is really selected; under many-worlds every outcome of a quantum-level selection occurs, and the forgone option disappears with the question.
+
+## Further Reading
+
+- [affective-forecasting-gap](/concepts/affective-forecasting-gap/) — the anticipated-versus-experienced question this concept makes concrete
+- [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — on which row loss aversion's tilt sits
+- [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — the shared terminology map used in the opening
+- [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — the rival that predicts every reversal here
+- [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — the parent question of whether felt value selects
+- [preference-void](/voids/preference-void/) — preference reversals that show lability rather than mischoice
+- [transformative-experience-void](/voids/transformative-experience-void/) — when the standard of "worse" itself moves
+- [cross-state-void](/voids/cross-state-void/) — forecasting across bodily states
+
+## References
+
+1. Gilbert, D. T., & Wilson, T. D. (2000). Miswanting: Some problems in the forecasting of future affective states. In J. P. Forgas (Ed.), *Feeling and Thinking: The Role of Affect in Social Cognition* (pp. 178–197). Cambridge University Press. Reprinted in S. Lichtenstein & P. Slovic (Eds.), *The Construction of Preference* (2006, pp. 550–564). https://doi.org/10.1017/CBO9780511618031.031
+2. Hsee, C. K., & Zhang, J. (2004). Distinction bias: Misprediction and mischoice due to joint evaluation. *Journal of Personality and Social Psychology*, 86(5), 680–695. https://doi.org/10.1037/0022-3514.86.5.680
+3. Anvari, F., Olsen, J., Hung, W. Y., & Feldman, G. (2021). Misprediction of affective outcomes due to different evaluation modes: Replication and extension of two distinction bias experiments by Hsee and Zhang (2004). *Journal of Experimental Social Psychology*, 92, 104052. https://doi.org/10.1016/j.jesp.2020.104052
+4. Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. *Psychological Science*, 4(6), 401–405. https://doi.org/10.1111/j.1467-9280.1993.tb00589.x
+5. Redelmeier, D. A., Katz, J., & Kahneman, D. (2003). Memories of colonoscopy: A randomized trial. *Pain*, 104(1), 187–194. https://doi.org/10.1016/S0304-3959(03)00003-4
+6. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–406. https://doi.org/10.1162/003355397555235
+7. Gilbert, D. T., & Ebert, J. E. J. (2002). Decisions and revisions: The affective forecasting of changeable outcomes. *Journal of Personality and Social Psychology*, 82(4), 503–514. https://doi.org/10.1037/0022-3514.82.4.503
+8. Kermer, D. A., Driver-Linn, E., Wilson, T. D., & Gilbert, D. T. (2006). Loss aversion is an affective forecasting error. *Psychological Science*, 17(8), 649–653. https://doi.org/10.1111/j.1467-9280.2006.01760.x
+9. Charpentier, C. J., De Neve, J.-E., Li, X., Roiser, J. P., & Sharot, T. (2016). Models of affective decision making: How do feelings predict choice? *Psychological Science*, 27(6), 763–775. https://doi.org/10.1177/0956797616634654
+10. Gilbert, D. T., Gill, M. J., & Wilson, T. D. (2002). The future is now: Temporal correction in affective forecasting. *Organizational Behavior and Human Decision Processes*, 88(1), 430–444. https://doi.org/10.1006/obhd.2001.2982
+11. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+12. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/

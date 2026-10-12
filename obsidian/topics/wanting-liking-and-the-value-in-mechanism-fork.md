@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation fractionates reward—but d
 created: 2026-06-05
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-12T20:05:27+00:00
+ai_modified: 2026-10-12T21:49:52+00:00
 last_deep_review: 2026-08-27T10:23:22+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ This article and [[affective-forecasting-gap]] draw on three vocabularies—Berr
 
 | Term | Source | What it names | Felt as such? | Place in the two questions |
 |---|---|---|---|---|
-| Predicted utility | Kahneman & Snell 1992 | A judgement of the experienced utility an outcome will have; the *object* of what [[affective-forecasting-gap]] calls anticipated valence | Only insofar as present anticipatory affect (below) carries it | The fallible forecast a selector might consult |
+| Predicted utility | Kahneman & Snell 1992 | A judgement of the experienced utility an outcome will have; the *object* of what [[affective-forecasting-gap]] calls anticipated valence | Only insofar as present anticipatory affect (below) carries it | The [[miswanting\|fallible forecast]] a selector might consult |
 | Decision utility | Kahneman, Wakker & Sarin 1997 | The weight an outcome carries in choice, read off the choice made | No—inferred from behaviour | Not a currency selection can consult; "selection runs on decision utility" is near-circular |
 | Experienced utility | Kahneman, Wakker & Sarin 1997 | The hedonic quality of an outcome as lived (*instant*) or as later assessed (*remembered*) | Yes | On the Map's reading, what constitutes value; the forecast's target |
 | Learned value (V/Q) | Reinforcement learning; see [[reinforcement-learning-reward-signals-and-machine-valence]] | A cached estimate of expected reward, updated by δ, that a predictor-driven chooser consults | No | The value-blind rival's chooser input |

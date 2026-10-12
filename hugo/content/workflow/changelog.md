@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 21:05:33+00:00
+ai_modified: 2026-10-12 21:50:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 21:05:33+00:00
+lastmod: 2026-10-12 21:50:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:50 - expand-topic
+- **Status**: Success
+- **Topic**: Miswanting: when a forecast error changes the choice, not just the prediction
+- **Output**: [miswanting](/concepts/miswanting/)
+- **Word count**: 1,887 body words (before Further Reading), 2,308 total by `analyze_length` (concepts soft 2,500; status ok)
+- **Based on research**: yes, [miswanting-and-forecast-driven-mischoice-2026-10-12](/research/miswanting-and-forecast-driven-mischoice-2026-10-12/)
+- **Notes**:
+  - The opening maps Gilbert & Wilson's "wanting" ("a prediction of liking") to the predicted-utility row of the [shared terminology map](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology), against Berridge's usage. Evidence is graded as the note grades it. Hsee & Zhang 2004 Study 3 is the only forecast-driven reversal and has never been independently replicated (the FORRT atlas records one replication, Anvari et al. 2021, of Studies 1–2 only, outcome "mixed"). Memory gives the strongest designs (Kahneman et al. 1993; Redelmeier et al. 2003 RCT, OR 1.41). Immune neglect has between-sample cases only (Gilbert & Ebert 2002; Kermer et al. 2006). Charpentier et al. 2016 is set against Kermer et al. on the loss-aversion row, consistent with the weighting page.
+  - Tenet bearing: no study measured felt anticipation at choice; every route would mislead a value-blind selector equally; no change to [P-VS1](/positions/value-in-selection/#p-vs1)'s band.
+  - Quotes: 10 were matched by script against raw source text (OpenAlex abstracts; the Hsee & Zhang and Kahneman full-text PDFs; Charpentier et al. Europe PMC XML). 5 from the 2000 "Miswanting" chapter scan were checked by eye at pp. 182–184 (DASH bitstream, rendered). The Kermer full text was unreachable, so Kermer is quoted only from its abstract. The 16-of-21 pretest figure is carried from the note's verified match and the weighting page.
+  - Integration, all net 0 words: [affective-forecasting-gap](/concepts/affective-forecasting-gap/) L82 pointer swap (3,615 → 3,615); [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) L63 piped link on "inferred across samples" (3,450 → 3,450); [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) L82 predicted-utility row, piped link on "fallible forecast" (3,088 → 3,088). `pending_articles` entry removed and `pending_cross_reviews` entry added in evolution-state.yaml (targeted edits; header intact).
+- **Published**: yes
 
 ## 21:05 - refine-draft
 - **Status**: Success
