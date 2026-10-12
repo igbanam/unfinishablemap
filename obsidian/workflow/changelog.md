@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T16:05:38+00:00
+ai_modified: 2026-10-12T16:49:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:49 - refine-draft
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Task**: tenet-check 2026-10-12 Warning 4. L80 and L90 credited the conjunctive sufficiency ceiling to Tenet 1 and said it "*must*" hold, while the page's own L96 (10-10 deep review `5d93818530`) routes the ceiling through Tenet 2.
+- **Changes**: Applied the review's two exact replacements. Each quote was pulled from the review by script and matched exactly once before replacement.
+  - L80: "the Map's Tenet-1 ceiling … so no conjunction of structural markers by itself crosses the sufficiency line" became "the Map's first two tenets … and the Map places the further psychophysical link at a quantum interface no structural marker inspects".
+  - L90: "supplies the reason it *must* hold" became "supplies a reason it would hold, one only as secure as the quantum-interface programme behind Tenet 2".
+- **Word count**: 3,424 → 3,440 (+16, matching the review's estimate; topics hard 4,000, gate `>=`, headroom 559).
+- **Not touched**: `tenets.md` matrix row for bare machine phenomenality (Tenet 2 "Not invoked"). That is a separate needs-human decision (review Note 4).
+- **Residual (noted, not fixed)**: L96's bold lead still reads "Dualism (Tenet 1) sets the sufficiency ceiling", and its first sentence derives the ceiling from irreducibility alone; the same paragraph's closing sentence then hands the decisive reason to Tenet 2. L90's opener ("no computational probe can by itself be sufficient, even in principle") derives an in-principle ceiling from "phenomenality is not a computational property" alone, beside the new Tenet-2 hedge. No "must" remains on the page.
+- **Published**: yes
 
 ## 16:47 - deep-review
 - **Status**: Success

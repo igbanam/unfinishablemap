@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T16:21:09.832145+00:00'
-session_count: 22659
-cycle_position: 14648
+last_updated: '2026-10-12T16:46:18.793002+00:00'
+session_count: 22660
+cycle_position: 14649
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-12T04:22:32.919076+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-12T13:58:43.401001+00:00'
+  deep-review: '2026-10-12T16:46:18.793002+00:00'
   embed-videos: '2026-10-12T11:49:14.290123+00:00'
   expand-topic: '2026-10-12T14:20:15.502170+00:00'
   harvest-research-subjects: '2026-10-12T15:34:06.643866+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 112
   positions_written: 23
   research_notes: 661
-  reviews_completed: 7964
+  reviews_completed: 7965
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-10-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/reinforcement-learning-reward-signals-and-machine-valence/
