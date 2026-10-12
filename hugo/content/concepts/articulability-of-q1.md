@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-25 22:16:18+00:00
+ai_modified: 2026-10-12 10:50:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 13:49:23+00:00
-lastmod: 2026-09-25 22:16:18+00:00
+lastmod: 2026-10-12 10:50:12+00:00
 modified: *id001
 related_articles:
 - '[[interface-formalization-void]]'
@@ -73,7 +73,7 @@ This gap is inherited directly from Schaffer's framework. As the [prior treatmen
 
 The difficulty is specific to *authority-selecting* laws between two *already-sufficient* processes. Ordinary natural laws operate where there is causal work to assign: the law settles what happens because, without it, the outcome would be undetermined. An authority law is stranger. By construction both candidates are sufficient, so the *physical outcome is already fixed* whichever is authoritative — the corporal charges either way. The law is asked to settle not *what happens* but *which of two adequate producers gets the credit*. In the fictional and conventional cases that "credit" is intelligible because there is an agent or community whose attribution practices the rule answers to. Strip away the attributing agent and it is unclear what natural fact the authority even tracks. This is the gap's sharpest form: not merely that we have not found the natural authority law, but that it is not obvious what *kind* of natural fact could play the role an agent's stipulation plays in the fictional cases.
 
-A dualist has two broad ways to close the gap, and each threatens to push Q1 out of its quadrant — the [taxonomy](/topics/four-quadrant-dualism-taxonomy/) flags exactly this instability. Grounding authority in *richer phenomenal facts* (some intrinsic feature of phenomenal character) inflates the mind side toward Q4; grounding it in *richer physical structure* (hidden variables, Russellian quiddities) inflates the physical side toward Q2/Q4. If neither minimal grounding works, Q1 collapses into a degenerate boundary between Q2 and Q4. Whether Q1's *delegatory* route survives is therefore identical to whether its authority law is articulable without inflation. The difference-making route is not hostage to that question in the same way, since it owes no authority law; but it inherits the same non-stipulativity demand for its own control law, so neither route escapes the criterion.
+A dualist has two broad ways to close the gap, and each threatens to push Q1 out of its quadrant — the [taxonomy](/topics/four-quadrant-dualism-taxonomy/) flags exactly this instability. Grounding authority in *richer phenomenal facts* (some intrinsic feature of phenomenal character) inflates the mind side toward Q3, the cell where thick-mind dualism [tends to slide toward idealism](/topics/q3-q4-sliding-boundary-and-transparency-problem/); grounding it in *richer physical structure* (hidden variables, Russellian quiddities) inflates the physical side toward Q2. If neither minimal grounding works, Q1 collapses into a degenerate boundary between Q2 and Q3. Whether Q1's *delegatory* route survives is therefore identical to whether its authority law is articulable without inflation. The difference-making route is not hostage to that question in the same way, since it owes no authority law; but it inherits the same non-stipulativity demand for its own control law, so neither route escapes the criterion.
 
 ## The Anomalism Objection
 
@@ -132,7 +132,7 @@ The articulability problem is generated directly by the Map's tenets, and the te
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** forbids the cheap escape. A dualist could avoid the problem by retreating to [epiphenomenalism](/concepts/epiphenomenalism/) — if experience causes nothing, no selection law is needed. Bidirectional Interaction rules that out: consciousness must make a genuine physical difference, so the law must genuinely be paid.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** sets the difficulty's exact shape. Committing to the *smallest* non-physical influence, the Map cannot pay a psychophysical selection debt by inflating either pole — the obvious closure moves are precisely what MQI forecloses. Whichever of Q1's routes is taken, it is therefore committed to the hardest version of the problem: a non-stipulative selection law that keeps both axes minimal. On the Map's own route that law is the control law rather than the authority law, and the Map [does not claim to have met the commitment](/project/evidential-status-discipline/) — it registers the control law and the interface specification as its [Q1 cell](/topics/four-quadrant-dualism-taxonomy/)'s outstanding bills, and the authority law as the one the region's delegatory route owes.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** sets the difficulty's exact shape. Committing to the *smallest* non-physical influence, the Map cannot pay a psychophysical selection debt by inflating the physical pole, which MQI keeps lean. MQI narrows the channel without capping the mind's richness, so a mind-side ground stays open, at the price of moving toward Q3 ([above](#the-fiction-to-nature-gap)). While the Map stays in Q1, either route is committed to the hardest version of the problem: a non-stipulative selection law that keeps both axes minimal. On the Map's own route that law is the control law rather than the authority law, and the Map [does not claim to have met the commitment](/project/evidential-status-discipline/) — it registers the control law and the interface specification as its [Q1 cell](/topics/four-quadrant-dualism-taxonomy/)'s outstanding bills, and the authority law as the one the region's delegatory route owes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** keeps the problem real. Under Many-Worlds there is no selection among exclusive outcomes for an authority law to govern — every candidate "wins" in some branch, and the authority question dissolves into indexical illusion. The Map's rejection of MWI keeps a genuine selection for the law to govern; without it the problem could be defined away rather than solved.
 

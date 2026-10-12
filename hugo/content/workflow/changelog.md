@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 10:29:43+00:00
+ai_modified: 2026-10-12 10:50:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 10:29:43+00:00
+lastmod: 2026-10-12 10:50:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:50 - refine-draft
+- **Status**: Success
+- **File**: [articulability-of-q1](/concepts/articulability-of-q1/) (Q3/Q4 label correction; also [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/))
+- **Review**: [optimistic-2026-10-11-quadrant-geometry-wing](/reviews/optimistic-2026-10-11-quadrant-geometry-wing/), Priority List item 1 (a)–(c). The old and new strings were pulled from the review by script, and each old string was confirmed to occur exactly once before replacement.
+- **Original score**: 6/10 on this narrow axis. Both pages filed a mind-side inflation of Q1 (thicker mind, physics still lean) under Q4. On the taxonomy's own grid that is Q3: taxonomy L107 defines Q3 as max-mind/min-physical, L113 files Myers–James plus lean physics there, and interactionist-dualism L175 calls the same expansion "max-mind/thin-physical". The articulability page also said MQI forecloses inflating *either* pole, but taxonomy L149 (with cartography L121 agreeing) says MQI "does not directly constrain mind-side thickness".
+- **Changes** (words are body counts from `analyze_length`, gate `>=`):
+  - `articulability-of-q1`, 3,363 → 3,391 (+28; soft_warning, 108 words left under the 3,500 hard limit).
+    - L72 (+10): the mind-side route now leads "toward Q3, the cell where thick-mind dualism [tends to slide toward idealism](/topics/q3-q4-sliding-boundary-and-transparency-problem/)". The physical-side route now leads "toward Q2" (was "Q2/Q4"), and the degenerate boundary is "between Q2 and Q3" (was "Q2 and Q4").
+    - L131 (+18): "by inflating either pole — the obvious closure moves are precisely what MQI forecloses" now reads "by inflating the physical pole, which MQI keeps lean. MQI narrows the channel without capping the mind's richness, so a mind-side ground stays open, at the price of moving toward Q3 ([above](#the-fiction-to-nature-gap))". The anchor was confirmed in both forms: the heading text "## The Fiction-to-Nature Gap" is at L64 in obsidian and L68 in hugo, and the rendered `id=the-fiction-to-nature-gap` appears in `hugo/public`. L72 sits under that heading.
+  - `four-quadrant-dualism-taxonomy`, 4,003 → 4,003 (net 0; still 4 over hard). Four 0-word label swaps: L151 "hybrids in between" → "hybrids toward Q3"; L151 and L159 "degenerate limit between Q2 and Q4" → "…Q2 and Q3"; L159 "or toward Q4 (if it requires thick mind)" → "or toward Q3 (…)".
+- **Cautions honoured**: (1) The 09-09 route distinction is intact. L131 keeps "either route", and the mind-side ground is now framed as open. (2) Q3 drift is presented as a cost ("at the price of moving toward Q3"; "tends to slide"), never as a refutation of the mind-side ground, as the 06-03 stability note requires. (3) `q3-q4-sliding-boundary-and-transparency-problem` was not edited; its own P2 task covers the reciprocal link and the L92 fix.
+- **Mode classification**: none. No named-opponent engagement was touched.
+- **Seam (not fixed, out of scope)**: taxonomy L151 still ends "bounded below by an unworkable Q1 and above by parsimony-costly Q4". It reads acceptably beside "hybrids toward Q3", but it describes the surviving interior on one axis only. No edit was made, since the page is over hard.
+- **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text (one older use of "load-bearing" at articulability L44 was left alone). `ai_system` unchanged on both files.
+- **Published**: yes
 
 ## 10:27 - deep-review
 - **Status**: Success
