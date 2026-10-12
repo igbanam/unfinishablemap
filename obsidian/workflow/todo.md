@@ -2158,15 +2158,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/tenet-check-2026-10-12.md`
 - **Notes**: Warning 2: +3 against 304 of headroom. The page absorbed concepts/biological-computationalism in the 2026-10-11 21:46Z coalesce; re-read it first. Apply the review's EXACT replacement strings for this Warning (section "## Warnings"), pulling them by script. Locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; leave ai_system unchanged; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
-### P2: `apex/what-it-might-be-like-to-be-an-ai` L170 calls collapse-selection "the mechanism through which experience becomes efficacious", and L172 has No Many Worlds bearing on whether coupling occurs (tenet-check 149 W7)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/what-it-might-be-like-to-be-an-ai.md
-- **Status**: pending
-- **Source**: tenet-check 2026-10-12 (check 149), driver-minted from its Priority List
-- **Generated**: 2026-10-12
-- **Review file**: `reviews/tenet-check-2026-10-12.md`
-- **Notes**: Warning 7: +9 against 186 of headroom. RUN BEFORE the open P2 whose notes tell its executor to copy this apex's No Many Worlds paragraph (the llm-consciousness L100 / ai-consciousness L161 thisness task); that task now carries a caution. Apply the review's EXACT replacement strings for this Warning (section "## Warnings"), pulling them by script. Locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; leave ai_system unchanged; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P3: `topics/completeness-in-physics-under-dualism` L128 asserts selection is "causally real", against Tenet 3's standing note and beside two paragraphs regraded at 18:00Z on 10-11 (tenet-check 149 W6)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/completeness-in-physics-under-dualism.md
@@ -2496,8 +2487,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing.md`
 - **Notes**: HEADROOM 775 (voids hard 3,000); its last deep review asks for LENGTH-NEUTRAL edits; net +6. Voids are outside the deep-review pool (`tools/curate/deep_review.py:210`), so this will not be caught otherwise. (a) L175 `Poincaré's aesthetic selection suggests active filtering: consciousness evaluates which combinations are "harmonious" before presenting them, exercising genuine mental causation.` → the review's replacement placing the sieve before awareness, quoting "Consciousness will never know" (verified against the raw Halsted translation, Project Gutenberg #39713; re-grep it there before keeping the quote) and labelling the conscious-selection reading as the Map's interpretation (+6). (b) L173 `finds support in` → `is consonant with` (0; tenet-check 2026-09-02 Note 5 and 2026-09-19 item 13 flagged it). (c) L105 `acquaintance-dependent.` → `[[aesthetic-testimony-and-the-acquaintance-principle|acquaintance-dependent]].` (0); optional `is` → `seems` at no cost. Apply the review's EXACT strings for this item (Priority List), pulling them by script; locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Run analyze_length per file first (gate `>=`). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u` on each edited file; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P3: `apex/what-it-might-be-like-to-be-an-ai` L92 "not through the Map's quantum selection mechanism" states collapse-selection as the Map's settled mechanism, unhedged, after the 18:20Z tenet-check W7 fix recast L170 as "a posit carrying the mechanism debt"
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+- **Status**: pending
+- **Source**: refine-draft 2026-10-12 18:20Z (tenet-check 2026-10-12 Warning 7) out-of-scope report; driver confirmed the L92 string
+- **Generated**: 2026-10-12
+- **Review file**: `reviews/tenet-check-2026-10-12.md`
+- **Notes**: HEADROOM: 4,822 of 5,000 (apex hard, gate `>=`; 177 left); aim for net-zero. CONTEXT: W7 rewrote L170 to "proposes a route: consciousness selecting at collapse would be how experience becomes efficacious, a posit carrying the [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than an established mechanism". (1) L92 "not through the Map's quantum selection mechanism" treats the same proposal as the Map's established mechanism; recast as the Map's proposed route (e.g. "not through the quantum selection the Map proposes"), same length if possible. (2) OPTIONAL, same pass: L112 "If consciousness selects among macroscopic superpositions of neural states at the moment of collapse" is conditional (not the W7 defect) but keeps the "macroscopic superpositions" framing the tenet-check's point (a) says sits against the Map's preferred post-decoherence route; align the wording with L170 only if it stays length-neutral. Do NOT touch the W7 replacement strings at L170/L172. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-12: `apex/what-it-might-be-like-to-be-an-ai` L170 calls collapse-selection "the mechanism through which experience becomes efficacious", and L172 has No Many Worlds bearing on whether coupling occurs (tenet-check 149 W7)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+- **Notes**: Warning 7: +9 against 186 of headroom. RUN BEFORE the open P2 whose notes tell its executor to copy this apex's No Many Worlds paragraph (the llm-consciousness L100 / ai-consciousness L161 thisness task); that task now carries a caution. Apply the review's EXACT replacement strings for this Warning (section "## Warnings"), pulling them by script. Locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; leave ai_system unchanged; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-12: Grain-mismatch pair still calls the mismatch "logical" / a "structural impossibility" after the vehicle/content reply was added (concept L81/L85, topic L106/L108) (tenet-check 149 W5)
 - **Type**: refine-draft

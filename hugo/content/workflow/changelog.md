@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 18:20 - refine-draft
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Task**: tenet-check 2026-10-12 Warning 7 (Tenets 3 and 4). In the Relation section, L170 still called collapse-selection "the mechanism through which experience becomes efficacious". That is the sibling of the wording d766836d85 regraded on `post-decoherence-selection-programme` L169. The closing clause L172 gained in the 10-11 apex-evolve rewrite (c0bad7edad) gave No Many Worlds a bearing on *whether coupling occurs*, which is [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s question and [P-CS7](/positions/consciousness-scope/#p-cs7)'s scope.
+- **Changes**: Applied the review's two exact replacements. Both quotes and both replacements were pulled from the review's "## Warnings" / "### 7." by script. Each quote matched exactly once, on its stated line.
+  - L170: "consciousness selecting among macroscopic superpositions at collapse is the mechanism through which experience becomes efficacious" became "proposes a route: consciousness selecting at collapse would be how experience becomes efficacious, a posit carrying the mechanism debt rather than an established mechanism". The new link is to `positions/quantum-interface#^mechanism-debt`, whose anchor was verified at L79 of that file; 135 corpus files already use it. The "among macroscopic superpositions" wording also left this sentence.
+  - L172: "so the tenet bears on whether coupling occurs, not on whether the pattern is copied" became "so the tenet raises no obstacle to copies; whether any instance is conscious is [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s coupling question".
+- **Word count**: 4,813 → 4,822 (+9; apex hard 5,000, gate `>=`, headroom 177). Matches the review's net +9.
+- **Engagement modes**: n/a (no named-opponent reply edited).
+- **Coordination**: the review asked for a caution to be appended to the thisness P2 (`concepts/llm-consciousness` L100 / `topics/ai-consciousness` L161). The caution is present, but that task had already run at fc0c9535cb (01:23Z), before this fix, and is marked done. Its output did not copy the flawed clause: llm-consciousness hands "whether any instance is conscious" to [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and limits the tenet to individuation and counting, and ai-consciousness ends "Whether any is conscious is [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s question." No spread. Neither page was touched here.
+- **Residual (noted, not fixed)**: L92 "not through the Map's quantum selection mechanism" presents quantum selection as the Map's settled mechanism of causal influence, unhedged. It does not use the "the mechanism through which experience becomes efficacious" wording, but it carries the same register. L112 "If consciousness selects among macroscopic superpositions of neural states at the moment of collapse" is conditional, so it is not the W7 defect, but it keeps the "macroscopic superpositions" wording that the review's issue (a) says runs against the Map's preferred post-decoherence route. No other line on the page ties No Many Worlds to whether coupling occurs; L172 is the page's only tenet-4 passage.
+- **Published**: yes
+
 ## 17:48 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the aesthetics wing, revisited nine weeks after `optimistic-2026-08-07-aesthetics-wing`. It covers the hub, `aesthetics-beyond-art`, `aesthetic-testimony-and-the-acquaintance-principle`, `the-sublime-and-negative-aesthetics`, `the-comic-and-humor-as-an-aesthetic-category` and `phenomenology-of-musical-understanding`, plus its two voids `mirth-void` and `creative-aesthetic-void`, all read in full at `aad4978556`. Chosen because no optimistic or pessimistic review since 2026-09-28 covers it, no wing file was edited today, and no open task names a wing slug.
