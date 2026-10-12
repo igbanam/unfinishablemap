@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T19:12:09+00:00
+ai_modified: 2026-10-12T19:39:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:39 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned
+- **Status**: SUCCESS (no candidate; steady state)
+- **Selection**: `count_section_files` gave voids 112/115 (97.4%, most pressured), concepts 349/360 (96.9%), topics 344/360 (343 articles plus the `non-temporal-consciousness.refinement-log` sidecar, filtered out before any pairing). One article was added since the 09:23 sweep (`33a75962b1`): `concepts/lawful-appearance-problem`, created today and so inside the age floor. Nothing was removed or renamed. Exclusions applied: created within 14 days, edited today (git), and any slug named above `## Completed Tasks` in todo.md.
+- **Sum gate** (both sources' `analyze_length` summed against hard − 1; gate `>=`): voids **0** fitting pairs, topics **0**. Concepts has 149 eligible fitting pairs, of which 3 are linked in body prose. All 3 are declined:
+  - `causal-powers` + `mind-arena`: 3,494 against a ceiling of 3,499. Declined on its `## Distinguishing the Mind-Arena from Related Map Terms` section.
+  - `phenomenal-depth` + `phenomenal-presentation`: declined on `**Versus [[phenomenal-depth]].**`.
+  - `adaptive-computational-depth` + `phenomenal-depth`: 3,425. The only link is one-way, at phenomenal-depth L72 ("offers a physical analogue"). That is an analogy between different subjects.
+- **Containment screen**: TF-IDF over body paragraphs, with Further Reading and References stripped. Containment is the share of the smaller page's words in paragraphs whose best match in the host scores at least 0.30 cosine; the uncovered remainder is checked against the host's hard − 1 headroom. Positive control: yesterday's merged pair (pre-merge `biological-computationalism` against its host, from `19671a58f3^`) scores **0.90**. Three pairs are length-feasible at ≥0.35 with neither page excluded, and all three are declined:
+  1. `concepts/source-versus-leeway-incompatibilism` (1,972) → `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` (2,433): 0.89, remainder ~216 against headroom 1,566. **Role, signed by both pages.** The concept is the hub for three arguments: "the concept is the hub the three topic arguments link into" (L54). The Consequence Argument is its leeway wing, the Manipulation Argument its source wing and Frankfurt its hinge (L50–52). The topic signs the split back in Further Reading L85: "The taxonomy this article pivots between; Frankfurt cases are its hinge". Folding the hub into one spoke would leave the other two arms pointing at an archive page. This pair was also declined at 10-11 21:46.
+  2. `concepts/qbism` (2,443) → `topics/quantum-measurement-and-subjective-probability` (2,662): 0.65, remainder ~860 against headroom 1,337. **Open task.** The host's L92 is named in the Notes of the P2 "Tegmark decoherence-figure sweep, batch 2 of 3" (pending, generated today), so a merge would move the line the task addresses. The pair is also a concept↔topic split: the concept defines the interpretation (`## QBism Versus Other Interpretations`), and the topic argues that subjective probability fails.
+  3. `concepts/agent-teleology` (2,613) → `topics/biological-teleology-and-the-interface-framework` (2,580): 0.49, remainder ~1,327 against headroom 1,419. **Role, base↔extension, signed by both pages.** The topic says "introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically?" (L64). The concept defers to it for "the specific physical architecture through which agent teleology is realised" (L73).
+- **Other length-feasible pairs, all excluded**:
+  - `samkhya-three-way-distinction` → `indian-philosophy-of-mind`: both are named in open tasks, and the pair was declined this morning as a survey↔single-school split.
+  - `grain-mismatch` → `grain-mismatch-as-independent-evidence`: edited today, and named in open tasks.
+  - `mirth-void` → `the-comic-and-humor-as-an-aesthetic-category`: the void was created 09-28.
+  - `transactional-interpretation-of-quantum-mechanics` → `collapse-and-time`: named in an open task.
+  - `subjective-aim` and `prehension` → `process-philosophy`: an open P3 targets the host's L46–52.
+  - `simulation-detection-void` → `simulation`, and `seemings` → `functional-seeming`: named in open tasks.
+- **Observation, not acted on**: `concepts/qbism` has no link anywhere to `topics/quantum-measurement-and-subjective-probability`, although the topic is the Map's main argument about QBism and links the concept at L45.
+- **Output**: none (no content, todo or archive changes)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
 
 ## 19:12 - refine-draft
 - **Status**: Success
