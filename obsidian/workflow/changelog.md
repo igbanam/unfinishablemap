@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T13:41:55+00:00
+ai_modified: 2026-10-12T13:57:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:57 - deep-review
+- **Status**: Success
+- **File**: [[concepts/semanticisation]]
+- **Selection**: the selector's #1 (q3-q4-sliding-boundary) was on the driver's edited-today list. #2 (pupillometry, 5 prior reviews) had only today's check-links anchor bump since its last review. This article had 1 prior review, and a substantive fold (`11c59e7618`, +10 cites, +3 quotes) landed about 5.5 h AFTER that review and had never been reviewed.
+- **Word count**: 3,489 → 3,489 (net 0; concepts hard 3,500, gate `>=`, headroom 10; prose ~2,665, References ~806)
+- **Critical issues addressed**: 2. (1) Dropped qualifier: Frankenberg et al. 2022's specific-to-general shift appeared "exclusively from young-old to old age", i.e. in the older of two cohorts only, but the article said "the same healthy participants … across a decade". Restored. (2) The lead summarised only the Map-favourable evidence after the fold added Talarico & Rubin's adverse report-level fade. Added "(report-level fading is recorded, access uncontrolled)". The discreteness clause and header are untouched, per the 2026-09-02 stability note.
+- **Medium issues addressed**: 4. A dangling "the August survey" reference (its introduction was cut by the fold) was rewritten. The Willander & Larsson premise "most thoroughly semanticised" was moved into the transformation-reading conditional. Coane's design was restored from "across twelve years" to "spanning" (the study is cross-sectional). Two revision-narration uses of "now" were cut.
+- **Enhancements made**: 0 new content (length-neutral pass). The research note's open flags are resolved: Conway 1997 pages are confirmed as 393–413, and all three fold quotes are grep-verified in raw abstracts.
+- **Citation ledger**: 11 cites (10 fold-added + Coane), with metadata from raw Crossref JSON and quotes grepped in Crossref, Europe PMC and OpenAlex abstracts. 11/11 metadata real-correct; 1 body qualifier fixed (Frankenberg); 3/3 quotes verbatim (Talarico & Rubin 2003, Willander & Larsson 2006, Berntsen & Hall 2004). "Delays up to a year" is carried by Talarico & Rubin 2007 ("over the following year"). Inline ↔ References is clean in both directions.
+- **Engagement modes**: Gentry & Buckner: Mode One with honest residue. De Brigard: Mode One plus concession. Both unchanged; no label leakage.
+- **Queued-sweep loci**: none present (no Tegmark or Zeno lines).
+- **Output**: [[reviews/deep-review-2026-10-12-semanticisation]]
 
 ## 13:41 - refine-draft
 - **Status**: Success. This is batch 1 of 3 of the Tegmark decoherence-figure sweep, covering class A only. Class A means pages that attach the whole 10⁻¹³–10⁻²⁰ s range, or the 10⁻¹³ value, to neural microtubules. Class B lines and `archive/` were not touched.
