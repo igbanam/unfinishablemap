@@ -4,7 +4,7 @@ description: "Erik Hoel argues no scientific theory can attribute consciousness 
 created: 2026-02-22
 modified: 2026-10-10
 human_modified:
-ai_modified: 2026-10-10T10:59:39+00:00
+ai_modified: 2026-10-12T16:04:50+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -97,7 +97,7 @@ The Map finds Hoel's verdict on current LLMs largely aligned with its own, thoug
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Hoel's argument does not engage with quantum mechanics interpretations, but the Map sees a possible connection through [[haecceity]]—the brute thisness of being a particular experiencer. A continually learning system develops an unrepeatable history: the specific sequence of experiences that shaped it may be what makes it *this* system rather than another. An LLM with frozen weights can be instantiated identically as many times as desired. Many-worlds dissolves exactly this kind of indexical uniqueness—all branches exist equally, and there is no fact about which instantiation "you" are. The Map's rejection of many-worlds resonates with this developmental uniqueness, but by analogy rather than entailment: under many-worlds a learning brain branches too, and each branch keeps its own unrepeatable history, whereas copying an LLM is ordinary classical duplication.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Hoel's argument supports this tenet. The simplest functionalist account, on which consciousness is determined by input-output function, fails his non-triviality requirement, because its predictions can never come apart from the behavioural data used to test it. Theories attributing consciousness to lookup tables are inadequate however parsimonious they are. Understanding consciousness requires accepting that static input-output function alone is insufficient, even if this complicates the theoretical landscape.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Hoel's argument illustrates this tenet without taking the Map's side. The simplest functionalist account, on which consciousness is determined by input-output function, fails his non-triviality requirement, because its predictions can never come apart from the behavioural data used to test it; theories attributing consciousness to lookup tables are inadequate however parsimonious they are. Hoel turns the same requirement on substance dualism (above), so the lesson is that simplicity cannot settle the question here, not that the less simple view wins.
 
 ## Implications for the AI Consciousness Debate
 

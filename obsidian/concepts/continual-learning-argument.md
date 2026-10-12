@@ -4,7 +4,7 @@ description: "Current LLMs very likely lack consciousness because they lack cont
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-10-10T16:08:34+00:00
+ai_modified: 2026-10-12T16:04:50+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -163,7 +163,7 @@ Hoel's verdict on current LLMs aligns with the Map's own, though his framework a
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The argument connects subtly to the Map's rejection of the Many-Worlds Interpretation. MWI dissolves the distinction between conscious and non-conscious systems: all branches exist equally, so there's no fact about which branch "you" are in. But [[haecceity]]—the brute thisness of being this particular experiencer—grounds the distinction between undergoing an experience and merely having a branch-counterpart who does. Continual learning tracks this: a system that develops through time has a history, a trajectory, a specific path of becoming. The "same" LLM can be instantiated endlessly with identical behaviour. A continually learning system has an unrepeatable developmental history—it has become *this* particular system through *these* particular experiences.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Hoel's argument supports this tenet. The simplest functionalist account—consciousness is determined by input-output function—fails his non-triviality requirement. Understanding consciousness requires abandoning the simplifying assumption that static input-output function is all that matters. The mechanism gap reveals that even Hoel's criterion doesn't *explain* consciousness—it provides a constraint, not a theory. Complete understanding may require accepting that consciousness involves irreducible elements that resist simple explanation, as [[mysterianism]] suggests.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Hoel's argument illustrates this tenet without taking the Map's side. The simplest functionalist account—consciousness is determined by input-output function—fails his non-triviality requirement, and he turns that requirement on substance dualism too (above). Understanding consciousness requires abandoning the simplifying assumption that static input-output function is all that matters. The mechanism gap reveals that even Hoel's criterion doesn't *explain* consciousness—it provides a constraint, not a theory. Complete understanding may require accepting that consciousness involves irreducible elements that resist simple explanation, as [[mysterianism]] suggests.
 
 ## Implications for AI Consciousness
 

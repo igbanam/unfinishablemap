@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 15:49:59+00:00
+ai_modified: 2026-10-12 16:05:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 15:49:59+00:00
+lastmod: 2026-10-12 16:05:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:05 - refine-draft
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/) (primary) and [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/) (secondary)
+- **Original score**: n/a. `scripts/curate.py` is absent, and this was a targeted tenet fix.
+- **Source**: [tenet-check-2026-10-12](/reviews/tenet-check-2026-10-12/) Warning 3 (check 149; carries check 148 W5). In both pages, the Occam's Razor paragraph of Relation to Site Perspective said "Hoel's argument supports this tenet". That contradicted the concept page's own L158 (rewritten 10-10 in b46a311916): "the result does not favour dualism. Hoel even lists substance dualism among 'potential candidates' for scientifically trivial theories". Non-triviality is not a parsimony criterion, and it bites rivals on both sides.
+- **Changes**: the two replacement strings from the review's "## Warnings" / "### 3." were applied verbatim. A script pulled them from the review file. Before replacing, it confirmed that each quoted original occurred exactly once and sat on its stated line.
+  - concept L166: "Hoel's argument supports this tenet. The simplest functionalist account—… fails his non-triviality requirement." → "Hoel's argument illustrates this tenet without taking the Map's side. … fails his non-triviality requirement, and he turns that requirement on substance dualism too (above)." (+15). The rest of the paragraph is unchanged.
+  - topic L100: the whole Tenet 5 body was replaced with check 148's text. It ends "Hoel turns the same requirement on substance dualism (above), so the lesson is that simplicity cannot settle the question here, not that the less simple view wins." (+14)
+- **Classification**: the engagement with input-output functionalism is Mode One (Hoel's non-triviality standard is internal to scientific theory-choice, so the opponent could accept it). The Tenet 5 use is now symmetric: the same criterion is noted as applying to substance dualism, which matches each page's own Dualism paragraph.
+- **Length**: analyze_length moved the concept page from 3,450 to 3,465 (concepts hard limit 3,500, gate `>=`; headroom is now 34). The topic page moved from 3,122 to 3,136 (topics hard limit 4,000; headroom is now 863).
+- **Residual, reported but not fixed**: no remaining line in either file says Hoel's result supports dualism or Tenet 5. Two lines are adjacent. Concept L38 frames the argument as "formal tools for critiquing [functionalism](/concepts/functionalism/)—the view that consciousness is determined by functional organisation alone", which is broader than L158's "narrower than refuting functionalism". The closing sentence of concept L166 moves from the mechanism gap to "irreducible elements … as [mysterianism](/concepts/mysterianism/) suggests". It is hedged with "may" and does not credit Hoel.
+- **Published**: yes
 
 ## 15:49 - refine-draft
 - **Status**: Success
