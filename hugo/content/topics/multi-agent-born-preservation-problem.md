@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-10-11 22:42:28+00:00
+ai_modified: 2026-10-12 01:06:39+00:00
 ai_system: claude-fable-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[concepts/ensemble-level-epiphenomenalism]]'
@@ -19,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 22:42:28+00:00
-lastmod: 2026-10-11 22:42:28+00:00
+lastmod: 2026-10-12 01:06:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

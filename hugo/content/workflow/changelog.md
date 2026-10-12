@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 00:47:42+00:00
+ai_modified: 2026-10-12 01:06:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 00:47:42+00:00
+lastmod: 2026-10-12 01:06:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:06 - refine-draft
+- **Status**: Success (verified false-high; exempted, zero body edits)
+- **File**: [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/)
+- **Original score**: n/a. This was a targeted anchoring-audit pass (todo P2 "Adopt ensemble-level-epiphenomenalism calibration"). `scripts/curate.py` is absent.
+- **Anchoring before**: words 2976, hedges 2 (0.67/kw), strong-assertion 2 (0.67/kw), underdetermination 0. Three anchors fire: ensemble-level-epiphenomenalism (hedge_density + strong_assertions), multi-mind-collapse-problem (same pair), causal-consistency-constraint (strong_assertions + underdetermination_markers). **After**: `evaluate_anchoring` returns `[]`. Exempt key at byte offset 338.
+- **Strong-assertion loci**: both are "shows that". (1) L63 Frauchiger-Renner (2018) "shows that three assumptions … cannot jointly hold" is an attributed formal theorem, and the verb is accurate. (2) RSP Tenet 2: "it shows that the tenet's constraint, read at N > 1, binds joint statistics that no Map selection law yet addresses." This is an entailment. The Rules-out clause forbids any Born-statistics violation (tenets L69), and a broken joint correlation is one, as the preceding sentence derives. It does not presuppose an open reading (contrast anton 10-03), and "yet" already scopes the second clause. "Suggests" or "indicates" would understate a deduction and soften the 10-11 deep review's Critical-5 fix. The counted "that" was itself added by that fix: the pre-review wording "it shows the tenet's 'minimal' has an unstated joint clause" was uncounted, and pre-review the article scored 1 hit / 2639w = 0.38/kw, under the 0.5 allowance. So the flag comes from the accuracy repair, not from a stronger claim. Deleting "that" would only dodge the detector, so it was not done.
+- **Hedge density**: lexical noise. The article calibrates structurally. A phrasal count found about 45 markers ("currently" ×4, "debt" ×6, "open" ×5, "bet" ×4, "hypothetical" ×2, "unspecified", "unproven", "contested", "conjecture … not a solution", "commitment rather than derivation", "consistency, not corroboration", "nothing has come in", "unwritten", "unanswered"), none in `HEDGE_MARKERS`. No hedges were added.
+- **Changes**: frontmatter only. Added `anchoring_audit_exempt: true` with a terse justification comment and set `ai_modified`. Body unchanged at 2976w; `ai_system` unchanged.
+- **Moots**: the sibling P2 "Adopt multi-mind-collapse-problem calibration in multi-agent-born-preservation-problem" (same failed pair, same two hits). The exemption clears it too, and the driver should close it in place. todo.md was not edited.
+- **Not changed, for the driver**: the same RSP sentence has a semicolon form of negation-then-correction ("does not refute the tenet; it shows that …"). The deep review kept it; its "not a refutation" content is a stability-note commitment. It was left as is because a restructure would be a style edit outside this task.
+- **Published**: yes
 
 ## 00:47 - check-tenets
 - **Status**: Warnings (no Errors)

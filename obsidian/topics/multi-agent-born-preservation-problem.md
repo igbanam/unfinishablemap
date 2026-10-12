@@ -4,8 +4,9 @@ description: "Corridor dualism preserves each agent's Born marginal; entangled c
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-10-11T22:42:28+00:00
+ai_modified: 2026-10-12T01:06:39+00:00
 draft: false
+anchoring_audit_exempt: true  # 2026-10-12 verified false-high vs ensemble-level-epiphenomenalism, multi-mind-collapse-problem, causal-consistency-constraint. Both strong hits are "shows that": the attributed Frauchiger-Renner theorem, and the Tenet 2 line restating the no-Born-statistics-violation entailment derived in the sentence before it (its "that" came from the 10-11 deep review's accuracy fix; verb strength unchanged). Calibrates structurally: Map-internal-synthesis + "unspecified / open debt" lead, "consistency, not corroboration", "commitment rather than derivation", "conjecture ... not a solution", ~45 phrasal markers the lexical counter misses.
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[selection-only-mind-influence]]"
