@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-08T06:11:21+00:00
+ai_modified: 2026-10-12T20:50:38+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -191,9 +191,9 @@ The [[graduated-middle-path-valence-modulated-attention|graduated middle path]]�
 
 ## Limits and Open Questions
 
-**Anticipated vs experienced valence.** Selection depends on *anticipated* valence, but Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: a real but poorly calibrated currency. [[affective-forecasting-gap|The affective-forecasting gap]] develops one candidate resolution—the presently felt valence of anticipating selects, and forecasts the outcome poorly—without closing the question against the graduated position above.
+**Anticipated vs experienced valence.** Selection depends on *anticipated* valence, but Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans mispredict how salient experiences will feel. If anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: a real but poorly calibrated currency. [[affective-forecasting-gap|The affective-forecasting gap]] develops one candidate resolution—the presently felt valence of anticipating selects, and forecasts the outcome poorly—without closing the question against the graduated position above.
 
-**Negative valence and avoidance.** A complete selection law must specify whether positive and negative valence are symmetric in selection influence or one is primary; asymmetric models (pain avoidance stronger than pleasure seeking) carry different empirical signatures—see [[negative-valence-asymmetry-and-the-selection-weighting-function]].
+**Negative valence and avoidance.** If negative valence outweighs positive, selection needs a coefficient, not only a sign. [[negative-valence-asymmetry-and-the-selection-weighting-function|The weighting article]] finds the asymmetry contested; some studies place it in forecasts, joining the two questions, others at choice.
 
 ## Relation to Site Perspective
 

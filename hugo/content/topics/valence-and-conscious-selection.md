@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-08 06:11:21+00:00
+ai_modified: 2026-10-12 20:50:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 06:11:21+00:00
-lastmod: 2026-10-08 06:11:21+00:00
+lastmod: 2026-10-12 20:50:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -194,9 +194,9 @@ The [graduated middle path](/topics/graduated-middle-path-valence-modulated-atte
 
 ## Limits and Open Questions
 
-**Anticipated vs experienced valence.** Selection depends on *anticipated* valence, but Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: a real but poorly calibrated currency. [The affective-forecasting gap](/concepts/affective-forecasting-gap/) develops one candidate resolution—the presently felt valence of anticipating selects, and forecasts the outcome poorly—without closing the question against the graduated position above.
+**Anticipated vs experienced valence.** Selection depends on *anticipated* valence, but Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans mispredict how salient experiences will feel. If anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: a real but poorly calibrated currency. [The affective-forecasting gap](/concepts/affective-forecasting-gap/) develops one candidate resolution—the presently felt valence of anticipating selects, and forecasts the outcome poorly—without closing the question against the graduated position above.
 
-**Negative valence and avoidance.** A complete selection law must specify whether positive and negative valence are symmetric in selection influence or one is primary; asymmetric models (pain avoidance stronger than pleasure seeking) carry different empirical signatures—see [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/).
+**Negative valence and avoidance.** If negative valence outweighs positive, selection needs a coefficient, not only a sign. [The weighting article](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) finds the asymmetry contested; some studies place it in forecasts, joining the two questions, others at choice.
 
 ## Relation to Site Perspective
 

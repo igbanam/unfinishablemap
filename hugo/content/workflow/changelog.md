@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 20:32:37+00:00
+ai_modified: 2026-10-12 20:50:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 20:32:37+00:00
+lastmod: 2026-10-12 20:50:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:50 - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/). Applied item 3 of the [optimistic-2026-10-12-sign-and-forecast-wing](/reviews/optimistic-2026-10-12-sign-and-forecast-wing/) priority list to the parent's two open questions (L194, L196).
+- **Original score**: n/a (`scripts/curate.py` is absent). Length 4,338 / 4,000 hard limit, so both edits had to be word-neutral. `analyze_length` read 4,338 before and 4,338 after (net 0).
+- **Changes**:
+  - (a) L194, 16 → 16 words, applied as the review wrote it: "humans systematically mispredict how experiences will feel" → "humans mispredict how salient experiences will feel". This matches the forecasting page's own conditional scope (L30: a directional bias for salient events, a small error over an accurate ranking in everyday life) and [P-VS1](/positions/value-in-selection/#p-vs1)'s "forecasting claim conditionalised". The phrase "without closing the question against the graduated position above" is kept.
+  - (b) L196, 37 → 37 words. The review's second sentence ("more a matter of forecast than experience") was **not** used as written. At 19:58Z today the weighting page added Charpentier et al. 2016 as a contrary result: neither expected nor experienced feelings were tilted, and losses weighed more only at choice. The page now scopes the forecast tilt to Kermer et al.'s design (L63, L67), says "more readily than in experience" (L69), points the contested evidence at the selection-policy row, and "fixes no row". The final wording is: "If negative valence outweighs positive, selection needs a coefficient, not only a sign. [The weighting article] finds the asymmetry contested; some studies place it in forecasts, joining the two questions, others at choice." This reports the split between studies rather than a verdict. It also attaches "joining the two questions" to the forecast placement only, which is the one placement that does join them (a policy-row placement does not touch the anticipated-vs-experienced question). The link is now piped.
+  - `ai_modified` updated. The 10-08 and 07-08 stability-noted paragraphs (middle path; Carruthers) were not touched.
+- **Published**: yes
 
 ## 20:32 - deep-review
 - **Status**: Success
