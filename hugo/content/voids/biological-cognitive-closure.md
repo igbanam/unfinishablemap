@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-09-28 09:53:45+00:00
+ai_modified: 2026-10-12 10:27:47+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 10:33:53+00:00
-lastmod: 2026-09-28 09:53:45+00:00
+lastmod: 2026-10-12 10:27:47+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -168,7 +168,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
-4. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
+4. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 5. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 6. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 7. Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? *Behavioral and Brain Sciences*, 33(2-3), 61-83.

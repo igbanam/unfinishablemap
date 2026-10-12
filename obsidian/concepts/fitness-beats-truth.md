@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-28T03:40:00+00:00
+ai_modified: 2026-10-12T10:27:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ The FBT theorem does not stand alone. Several independent lines of research conv
 
 - Gerd Gigerenzer's **ecological rationality** programme identifies "less-is-more" effects where systematically ignoring available information yields better decisions. The cognitive system performs better by *not* representing reality fully.
 - Field and Bonsall (2018) prove formally that the **reproductive value of information can be negative**—organisms that remain ignorant sometimes have higher fitness than those that acquire information.
-- Robert Trivers argues that **self-deception** evolved to facilitate social deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness because knowing them would compromise social strategies.
+- Robert Trivers argues that **self-deception** evolved to facilitate social deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness because knowing them would compromise social strategies.
 
 Together with the FBT theorem, and subject to the contestation above, these results make a strong case that evolved cognitive systems are shaped to be selectively ignorant rather than comprehensively informed.
 
@@ -112,7 +112,7 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
-5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
+5. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 6. Bagwell, J. N. (2023). Debunking interface theory: why Hoffman's skepticism (really) is self-defeating. *Synthese*, 201(1), Article 25.
 7. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195. https://doi.org/10.1111/cogs.13195
 8. Mark, J. T., Marion, B. B., & Hoffman, D. D. (2010). Natural selection and veridical perceptions. *Journal of Theoretical Biology*, 266(4), 504-515.

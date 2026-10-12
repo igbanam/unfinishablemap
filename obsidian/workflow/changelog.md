@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T10:08:55+00:00
+ai_modified: 2026-10-12T10:29:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:27 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-limit-types]]
+- **Word count**: 2,406 → 2,656 (+250, about 85 of it References; 89% of the topics soft 3,000, normal mode)
+- **Critical issues addressed**: 2. (1) Internal contradiction: L43 lists the hard problem under *frustration*, faithfully to biological-cognitive-closure L71/L121, but L123 said "The hard problem does not produce frustration". L123 now reads "produces more than the frustration of mere difficulty, and never the satisfaction of resolution". (2) Quote cited to the wrong work: Pritchard's "a response to one's overall rational position which is in a sense phobic" was cited to JHAP 2021 but grep-verified only in the publisher abstract of Pritchard 2020, "Epistemic Vertigo" (Brogaard & Gatzia eds., Routledge, pp. 110–128). Ref 2 replaced. JHAP full text was unreachable (bot-check/403), so presence there is unknown, not disproven. The 06-25 review had certified the quote without a raw grep.
+- **Medium issues addressed**: 7. Cited-author stance: Pritchard denies that groundlessness is a cognitive limitation, and his vertigo can outlast a fully adequate solution, so L65 now says so and marks the limit-signalling use as the Map's. Bias blind spot: Pronin & Hazel root it in self-perception mechanics and self-esteem motives, not selection. TMT: added Arndt et al. 1997 and the Many Labs 4 null (Klein et al. 2022); L105 recast as a Map conjecture. L111: the 09-28 refine had turned "convergence of signatures" into "convergence of limits", which does not support "felt quality tracks origin"; reworded. L97 "reveals" → "encodes a conjecture". L125 "finding that … may" → "possibility". L127: Trivers re-stated as the interpersonal-deception thesis, with the mind–body extension marked as Map speculation. Also fixed inline orphans McGinn 1989 and Hoffman 2015.
+- **Enhancements made**: 3. Vertigo now carries a false-positive caution parallel to L123's aporia caution; the Hoffman extension is labelled as the conceptual counterpart; L69 tautology and two overclaims ("impervious", "bypasses") fixed.
+- **Citation ledger**: 10 cites; 8 real-correct, 1 replaced (JHAP → 2020 chapter), 2 newly added (Arndt 1997 and Klein 2022, both via Crossref/OpenAlex). Result-direction and stance legs were recorded for all 10. Ledger is in the review file.
+- **Family resolution**: the publisher order "von Hippel, W., & Trivers, R." propagated to [[concepts/fitness-beats-truth]] (ref 5 and inline L85) and [[voids/biological-cognitive-closure]] (ref 4). References only, with `ai_modified` bumped.
+- **Engagement modes**: §2.6 does not apply (no named-opponent reply). No label leakage.
+- **Follow-up queued**: two P3 refine-drafts. (a) TMT currency in self-maintained-cognitive-limits L89 and interested-party-void L53. (b) The Trivers overreach in biological-cognitive-closure L139, plus a quote-to-work check on fitness-beats-truth L85.
+- **Not queued**: archive/voids/topology-of-cognitive-failure L138–140 has unattributed Pritchard 2020 quotes and an in-quote splice.
+- **Queued-sweep loci**: none present (no radical-pair, Tegmark, Maier, Bostrom or Granger loci).
+- **Style**: no "This is not X. It is Y."; no "load-bearing". `ai_system` unchanged (targeted fixes, not a rewrite).
+- **Output**: [[reviews/deep-review-2026-10-12-phenomenology-of-cognitive-limit-types]]
 
 ## 10:09 - refine-draft
 - **Status**: Success
