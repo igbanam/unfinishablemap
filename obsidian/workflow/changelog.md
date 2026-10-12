@@ -5,6 +5,15 @@ ai_modified: 2026-10-12T01:47:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 03:15 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule]], its first pessimistic review (no review file mentions the slug; one deep review, 2026-09-02; untouched since then)
+- **Output**: [[reviews/pessimistic-2026-10-12-quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]
+- **Findings (priority list, 4 issues / 6 edit loci)**: (1, High) a deterministic-hidden-variables theorem (Valentini 2002) is called "the Map's structural reason" for Born exactness in an indeterministic framework (L31, L73); [[causal-consistency-constraint]] is the in-class argument and was unlinked. (2, Medium-High) L67's "not surveyed" post-Planck gap was already answered by Vitenti, Peter & Valentini (2019): "statistically inconclusive results"; the research note flagged the gap and the article inherited it unfilled. (3, Medium) L37/L75 predate Valentini (2023) on quantum-gravitational creation of non-equilibrium, and L75's speculation opens onto the region L57 prices at signalling. (4, Medium) L57 softens Valentini (2008), who accepts absolute simultaneity and a preferred foliation.
+- **Verification**: all new quotes were checked by whitespace-normalised substring match against raw arXiv text: the 1901.08885 full text, plus the abstracts of 2212.12175, quant-ph/0504011 and quant-ph/0112151. Crossref confirmed PRD 100 043506, Found. Phys. 53 6 and PLA 297. Valentini 2008 is not in Crossref; its arXiv journal-ref was used. The existing quotes still hold.
+- **Headroom**: 2,520 words, rising to 2,832 when the full set plus refs is applied to a scratch copy (topics soft 3000). No funded cuts needed.
+- **Tasks added**: P2 refine-draft on the target (items 1a–4 plus 3 refs); P3 refine-draft on string siblings `concepts/agency-budget` L71 and `positions/quantum-interface` P-Q11. `parse_tasks` active count went 102 → 104.
+
 ## 02:36 - refine-draft
 - **Status**: Success
 - **File**: [[topics/outcome-devaluation-and-dual-task-costs-in-parkinsons]]
