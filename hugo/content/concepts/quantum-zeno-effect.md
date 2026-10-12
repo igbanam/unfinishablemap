@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-10-05 23:23:56+00:00
+ai_modified: 2026-10-12 08:38:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 16:42:28+00:00
-lastmod: 2026-10-05 23:23:56+00:00
+lastmod: 2026-10-12 08:38:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The strongest evidence that warm, wet biology can host Zeno-like dynamics comes 
 Denton and colleagues (2024) extended the picture with a computational study of tightly bound radical pairs in cryptochrome, concluding that the quantum Zeno effect enables their magnetosensitivity. Four qualifications keep this precedent calibrated, and this page is meant to be its authoritative home:
 
 - **It is computational modelling, not an experimental demonstration.** The study models cryptochrome radical pairs; it does not measure Zeno dynamics in a living neuron or even in the protein directly.
-- **Its coherence budget is sub-microsecond.** The tightly bound FAD–superoxide pair Denton models needs roughly 700 ns of coherence to become magnetosensitive in a geomagnetic field—about three orders of magnitude below the millisecond timescale of neural decision-making. That is a different and shorter budget than the tens of microseconds required of the well-separated compass radical pair; the [radical-pair magnetoreception](/concepts/radical-pair-magnetoreception/) page carries that figure and is its home. On either budget the precedent's regime is far shorter than a neural application needs.
+- **Its coherence budget is sub-microsecond.** The tightly bound FAD–superoxide pair Denton models needs roughly 700 ns of coherence to become magnetosensitive in a geomagnetic field—about three orders of magnitude below the millisecond timescale of neural decision-making. That is a different and shorter budget than the well-separated compass pair's. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. The [radical-pair magnetoreception](/concepts/radical-pair-magnetoreception/) page carries that figure and is its home. On either budget the precedent's regime is far shorter than a neural application needs.
 - **Its operating regime is spin transitions in the MHz–GHz band.** Denton and colleagues report an inter-radical coupling up to −1.7 GHz, an N5 hyperfine `A∥/(2π)` of 49.2 MHz, and Larmor precession at 1.4 MHz in the geomagnetic field. Those are frequencies unlike anything a neural selection event would involve, which gives the precedent a second and independent obstacle to transfer alongside the structural one below.
 - **It is a precedent for the mechanism category, not a licence for neural deployment.** Radical-pair spin states are structurally unlike the neural superpositions Stapp's model would require, and Kominis, not Denton, established the first biological Zeno framing. The Map's standing line—precedent, not licence—applies.
 
@@ -115,6 +115,8 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Fischer, M.C., Gutiérrez-Medina, B., & Raizen, M.G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87(4), 040402. https://doi.org/10.1103/PhysRevLett.87.040402
 1. Naskar, K., & Joarder, P. (2023). *Quantum decoherence in Microtubules*. arXiv:2304.06518. https://arxiv.org/abs/2304.06518
 1. Kominis, I.K. (2009). Quantum Zeno effect explains magnetic-sensitive radical-ion-pair reactions. *Physical Review E*, 80(5), 056115. https://doi.org/10.1103/PhysRevE.80.056115. arXiv:0806.0739.
+1. Gauger, E.M., Rieper, E., Morton, J.J.L., Benjamin, S.C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
+1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P.J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Denton, M.C.J., Smith, L.D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D.R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823. https://doi.org/10.1038/s41467-024-55124-x
 1. Ishizaki, A., & Fleming, G.R. (2009). Theoretical examination of quantum coherence in a photosynthetic system at physiological temperature. *Proceedings of the National Academy of Sciences*, 106(41), 17255–17260. https://doi.org/10.1073/pnas.0908989106
 1. Huh, J., Saikin, S.K., Brookes, J.C., Valleau, S., Fujita, T., & Aspuru-Guzik, A. (2014). Atomistic study of energy funneling in the light-harvesting complex of green sulfur bacteria. *Journal of the American Chemical Society*, 136(5), 2048–2057. https://doi.org/10.1021/ja412035q. Preprint: arXiv:1307.0886.

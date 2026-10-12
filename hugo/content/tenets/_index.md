@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-12 08:38:45+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-12 08:38:45+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -80,7 +80,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
 
-**Biological precedent for quantum effects in warm systems.** Avian magnetoreception's leading but unsettled model needs tens-of-microseconds spin coherence in cryptochrome; Luo, Hungerland, Solov'yov, Subotnik & Hammes-Schiffer (2025, *Journal of the American Chemical Society* 147(47):43934–43945, [10.1021/jacs.5c15726](https://doi.org/10.1021/jacs.5c15726)) added computational support for the radical-pair mechanism, modelling how protein and solvent reorganisation stabilises the charge-transfer states it requires (Princeton's news release announcing the work followed in January 2026). This establishes a biological *precedent* rather than a licence for neural coherence: cryptochrome radical pairs are an extremely specific molecular architecture, and their existence does not by itself entail that microtubules or other neural structures sustain coherence at the scales consciousness would require. The narrower claim the Map leans on is that warm biological environments do not categorically rule out quantum-functional mechanisms—not the stronger claim that neural consciousness must use them. As a plausibility supplement this matters only for the mechanism candidates that need pre-decoherence coherence; the post-decoherence-selection path does not turn on it.
+**Biological precedent for quantum effects in warm systems.** [Avian magnetoreception's](/concepts/radical-pair-magnetoreception/) leading but unsettled model needs few-microsecond spin coherence in cryptochrome; Luo, Hungerland, Solov'yov, Subotnik & Hammes-Schiffer (2025, *Journal of the American Chemical Society* 147(47):43934–43945, [10.1021/jacs.5c15726](https://doi.org/10.1021/jacs.5c15726)) added computational support for the radical-pair mechanism, modelling how protein and solvent reorganisation stabilises the charge-transfer states it requires (Princeton's news release announcing the work followed in January 2026). This establishes a biological *precedent* rather than a licence for neural coherence: cryptochrome radical pairs are an extremely specific molecular architecture, and their existence does not by itself entail that microtubules or other neural structures sustain coherence at the scales consciousness would require. The narrower claim the Map leans on is that warm biological environments do not categorically rule out quantum-functional mechanisms—not the stronger claim that neural consciousness must use them. As a plausibility supplement this matters only for the mechanism candidates that need pre-decoherence coherence; the post-decoherence-selection path does not turn on it.
 
 **Falsifiability status:** Tenet 2 makes a *consistency claim*—that consciousness influence is consistent with current physics at the post-decoherence-selection interface—rather than a *novel-prediction claim*. The framework would be falsified by: (a) a complete reductive explanation of phenomenal experience that requires no interface; (b) a proof that the measurement problem is solved (the definite-outcome question dissolved) without any selection event; or (c) direct detection of consciousness-correlated Born-statistics deviation in a sufficiently high-precision neural quantum experiment—a falsifier that bites on minimum-outside-corridor readings in the unconditioned register, and on the corridor reading the Map endorses only *conditionally*, since that reading leaves the aggregate Born measure intact by construction while leaving the consciousness-conditioned distributions free ([P-Q3](/positions/quantum-interface/#mechanism-debt), above). The first two are theoretical falsifiers; the third is empirical, well beyond current reach at the neural grain, and tests the endorsed corridor path only through its conditional structure. The tenet trades empirical risk for explanatory completeness, and the page registers this rather than letting the framework appear immune to refutation.
 

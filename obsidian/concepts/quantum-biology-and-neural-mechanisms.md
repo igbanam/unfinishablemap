@@ -4,7 +4,7 @@ description: "Quantum effects in living systems—magnetoreception and enzyme tu
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-11T07:58:23+00:00
+ai_modified: 2026-10-12T08:38:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,9 +69,9 @@ The measurement itself stands, and that residue matters: electronic coherence wa
 
 ### Avian Magnetoreception
 
-On the leading but unsettled model, migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. The model needs spin coherence lasting tens of microseconds—vastly longer than femtosecond timescales often cited for biological decoherence.
+On the leading but unsettled model, migratory birds navigate using Earth's magnetic field through [[radical-pair-magnetoreception|radical pair quantum effects]] in cryptochrome proteins, the mechanism first modelled by Ritz et al. (2000). Light triggers electron transfer in cryptochrome-4a, creating entangled singlet-triplet radical pairs whose relative orientation is sensitive to external magnetic fields. Different singlet/triplet ratios produce different chemical yields transduced into neural activity. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. Even the shorter estimate is vastly longer than the femtosecond timescales often cited for biological decoherence.
 
-Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though the tightly bound FAD–superoxide pair it models needs only about 700 ns of coherence — some three orders of magnitude below neural firing timescales, and a shorter budget than the tens of microseconds the well-separated compass pair requires ([[radical-pair-magnetoreception|radical-pair magnetoreception]]).
+Luo et al. (2025) showed how protein reorganisation drives radical pair stability in cryptochrome-4a. Denton et al. (2024) modelled in *Nature Communications* how the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism category Stapp proposes for mental causation, providing a computational precedent, though the tightly bound FAD–superoxide pair it models needs only about 700 ns of coherence — some three orders of magnitude below neural firing timescales, and a shorter budget than the well-separated compass pair's estimated 2–10 µs ([[radical-pair-magnetoreception|radical-pair magnetoreception]]).
 
 If the leading model holds, selection has propagated cryptochrome variants that exploit radical-pair quantum coherence for magnetic compass function—the strongest evidence that biological systems can retain quantum-coherent dynamics under selective pressure. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] examines whether the same logic licenses an inference to neural systems; the extension is a realistic possibility, not a demonstrated probability.
 
@@ -169,7 +169,7 @@ The Map's position would face serious difficulty if: (1) biological quantum effe
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Protected quantum coherence matters only if collapse is real. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Birds navigate using quantum entanglement; enzymes accelerate reactions partly through quantum tunnelling. Simplicity pointed in the wrong direction.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Enzymes accelerate reactions partly through quantum tunnelling, and on the leading but unsettled compass model birds navigate by radical-pair spin dynamics. Simplicity pointed in the wrong direction.
 
 **A mysterian caveat:** [[mysterianism|McGinn's cognitive closure thesis]] suggests we may be constitutionally incapable of understanding the connection between phenomenal experience and physical processes. The Map documents these mechanisms as candidates constrained by physics, not final explanations.
 
@@ -212,12 +212,14 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
+1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
 1. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Kalra, A. P., Benny, A., Travis, S. M., Zizzi, E. A., et al. (2023). Electronic Energy Migration in Microtubules. *ACS Central Science*, 9(3), 352-361. https://doi.org/10.1021/acscentsci.2c01114
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Mavromatos, N. E., Mershin, A., & Nanopoulos, D. V. (2025). On the potential of microtubules for scalable quantum computation. *The European Physical Journal Plus*, 140, 1116.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.

@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T07:20:05+00:00
+ai_modified: 2026-10-12T08:40:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:40 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]] (radical-pair coherence-figure propagation, batch A; also [[concepts/quantum-biology-and-neural-mechanisms]], [[concepts/decoherence]], [[concepts/quantum-zeno-effect]], [[concepts/interactionist-dualism]])
+- **Original score**: 6/10 on this narrow axis. Six loci quoted Gauger et al. 2011's "tens of microseconds" as what the compass model needs. That figure depends on the unreplicated Ritz 2009 single-frequency result. The broadband estimate is roughly 2–10 µs (Kobylkov et al. 2019).
+- **Sources re-checked**: The settled sentence comes from [[concepts/radical-pair-magnetoreception]] L62. "at least tens of microseconds" appears verbatim in the Gauger arXiv:0906.3725 abstract (count 1). Crossref confirms both entries: Gauger, *PRL* 106(4) 040503, five authors; Kobylkov, *J. R. Soc. Interface* 16(161) 20190716, eight authors, doi 10.1098/rsif.2019.0716.
+- **Changes** (every locus was matched by quoted text and occurred once; words are body counts from `analyze_length`):
+  - `tenets.md` L79, 6,781 → 6,781 (net 0; critical, so net-zero only). "needs tens-of-microseconds spin coherence" → "needs few-microsecond spin coherence". "Avian magnetoreception's" now links to the concept page, at zero word cost, and the concept page carries Kobylkov and the provenance. L77 (Tegmark) was not touched.
+  - `quantum-biology-and-neural-mechanisms.md`, 3,304 → 3,449 (+145; soft_warning, under the 3,500 hard limit):
+    - L72: the settled sentence, verbatim, followed by "Even the shorter estimate is vastly longer than the femtosecond timescales often cited for biological decoherence."
+    - L74: "the tens of microseconds the well-separated compass pair requires" → "the well-separated compass pair's estimated 2–10 µs".
+    - L172 rider (tenet-check 2026-10-12 W8): the replacement given there, verbatim. "Birds navigate using quantum entanglement" no longer appears.
+    - Gauger 2011 and Kobylkov 2019 references added in alphabetical order.
+  - `decoherence.md` L145, 3,484 → 3,484 (net 0). "radical pairs need spin coherence lasting *tens of microseconds*" → "radical pairs' spin coherence lasts an estimated *2–10 µs*". The line already links the concept page.
+  - `quantum-zeno-effect.md` L64, 2,998 → 3,126 (+128). The settled sentence is used verbatim. The Denton 700 ns budget is now compared with "the well-separated compass pair's" estimate. Gauger and Kobylkov references added next to Kominis.
+  - `interactionist-dualism.md` L153, 3,487 → 3,487 (net 0). "tens-of-microseconds" → "few-microsecond". "compass model" now links the concept page.
+- **Argument checks at ~2–10 µs**:
+  - QBNM L72: the femtosecond contrast still holds, by about nine orders of magnitude. The settled sentence's "two to three orders of magnitude below … neural signalling" keeps the transfer limit in view.
+  - QBNM L74 and QZE L64: Denton's 700 ns is still shorter than 2 µs, so "shorter budget" stands.
+  - interactionist L153 and tenets L79: the precedent-versus-licence argument holds, and the gap to neuron-scale coherence widens.
+  - decoherence L145: the qualitative contrast holds.
+- **Left unverified, as instructed**: decoherence L145 "a million times longer than typical molecular decoherence in solution". It has no comparison class or source, and the multiplier now attaches to a figure 3–10× smaller. The same clause appears at `concepts/philosophy-of-time` L145, which batch C already covers.
+- **Dependents copying the tenets L79 wording** (reported, not edited; all are already queued):
+  - Batch B: `topics/quantum-holism-and-phenomenal-unity` L122 (near-verbatim, including the Luo follow-on) and `topics/time-collapse-and-agency` L133.
+  - Batch C: `concepts/substance-property-dualism` L129 (near-verbatim, including Luo), `concepts/evolution-of-consciousness` L197 and `concepts/quantum-indeterminacy-free-will` L174.
+  - The archive tree has no hits.
+- **Published**: yes
 
 ## 07:49 - deep-review
 - **Status**: Success
