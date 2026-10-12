@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 05:00:05+00:00
+ai_modified: 2026-10-12 05:28:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 05:00:05+00:00
+lastmod: 2026-10-12 05:28:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:28 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-12
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, gemini-2-5-pro). Both audited `concepts/agent-causation` (`fallback:recent-aged`; Gemini reused ChatGPT's subject). The Claude leg was not commissioned (backoff to 2026-10-14T04:00Z) and has no pending entry.
+- **Clusters**: 4 convergent, all inside the two open agent-causation P1s. (1) Kane is a naturalistic rival, not a convergence (L71, L183). (2) The L71 directedness clause and the L174 dualism-or-collapse dichotomy assert what event-causal and hybrid rivals deny; the synthesis newly maps Gemini's "false dichotomy" to L174. (3) The L101 terminus says who settles, not why. (4) The L159 complete-prediction falsifier credits the article with a gap stochastic physicalism also predicts. 3 candidate convergences rejected on adjudication: the Zeno physics charge, phenomenology-as-validation, and the Consequence Argument's placement. 2 divergences: what the page claims about its RP and motor evidence, and the verdict (major revision vs. reject).
+- **Adjudication before clustering**: every disputed Gemini characterisation was grepped against the live article. Body hits: 0 each for "Zeno", "Gandevia", "introspective asymmetry", "strikingly absent" and "one interface rather than two". The refuting text is present at L83, L121, L133 and L160. Both prompts named the luck objection and event-causal libertarianism, so clusters 1–3 rest on the verified loci, not on the vote.
+- **Tasks upgraded**: 0 (P3→P2: 0, P2→P1: 0). Both convergent tasks are already P1, the skill's ceiling. P0 was considered and declined: these are calibration and attribution defects on one page, and the three agent-causation tasks share one 12-word budget (3,487 of 3,500). Two tasks were rewritten, the attribution P1 and the calibration P1. Each got `Review files`, an extended `Source`, a `Synthesis` field, and a convergent Notes preamble that restates the shared length budget. The calibration P1 also gained optional item (7): L127 "First-person experience confirms this", flagged by tenet-check-2026-09-27 and ChatGPT §7 and never tasked; the fix is word-neutral. The attention P1 and the agent-causation P2 are unchanged (singletons).
+- **Tasks deduplicated**: 0 (Gemini minted none; its processing pass had already folded its points into the ChatGPT tasks).
+- **NEEDS-HUMAN addendum**: ChatGPT items 28, 36, 38, 39 and 45 recorded as the 8th-cycle (single-reviewer) addendum to the 2026-08-03 propagation entry. It lists five verified instances on agent-causation: the free-will who/why residue (`780458c98c`), the "coincidental" anchor (`78a9647831`), Kane described three ways across pages, the L170 mechanism claim against free-will (eight months), and L127 left behind when `f02ff88e6e` fixed L121 (the 2026-10-11 sub-pattern again).
+- **Pointer check**: `parse_tasks` returns 106 active tasks before and after (P1 3, P2 27, P3 76). Both rewritten P1s keep a non-`None` review pointer under the plural field.
+- **Output**: [outer-review-synthesis-2026-10-12](/reviews/outer-review-synthesis-2026-10-12/)
 
 ## 05:00 - outer-review
 - **Status**: Success
