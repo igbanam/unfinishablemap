@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-11 03:15:32+00:00
+ai_modified: 2026-10-12 15:49:28+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 03:15:32+00:00
-lastmod: 2026-10-11 03:15:32+00:00
+lastmod: 2026-10-12 15:49:28+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -178,7 +178,7 @@ Terminal lucidity's visibility and evidence base have grown substantially over t
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: A Tenet 3 reading would add that consciousness actively drives expression through the remaining circuitry—downward causation before the interface fails. But coherent cognition through damaged tissue is equally what inbound filter loosening predicts with no outbound contribution, so this evidence does not discriminate that reading ([filter evidence](/positions/consciousness-scope/#p-cs6) bears only on the inbound leg; see [common-cause-null](/project/common-cause-null/)).
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest materialist response—that terminal lucidity reflects transient neural recovery—may seem parsimonious. But this parsimony comes at the cost of leaving the mechanism untested while requiring that severely damaged brains briefly perform at levels their physical state should not permit. When considered alongside the broader convergent evidence, the filter model's apparent complexity may actually be the more economical explanation of the full dataset.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest materialist response—that terminal lucidity reflects transient neural recovery—may seem parsimonious. But it leaves its mechanism untested and must still explain the severity subset, where documented damage is greatest. The tenet binds both sides: simplicity cannot dismiss the filter model, and the filter model's single framework cannot count as the more economical explanation either; the in-episode measurement has to decide.
 
 ## Further Reading
 

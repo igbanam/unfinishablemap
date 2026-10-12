@@ -4,7 +4,7 @@ description: "Terminal lucidity—clarity returning despite severe brain damage�
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-10-11T03:15:32+00:00
+ai_modified: 2026-10-12T15:49:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -174,7 +174,7 @@ Terminal lucidity's visibility and evidence base have grown substantially over t
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: A Tenet 3 reading would add that consciousness actively drives expression through the remaining circuitry—downward causation before the interface fails. But coherent cognition through damaged tissue is equally what inbound filter loosening predicts with no outbound contribution, so this evidence does not discriminate that reading ([[positions/consciousness-scope#^p-cs6|filter evidence]] bears only on the inbound leg; see [[common-cause-null]]).
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simplest materialist response—that terminal lucidity reflects transient neural recovery—may seem parsimonious. But this parsimony comes at the cost of leaving the mechanism untested while requiring that severely damaged brains briefly perform at levels their physical state should not permit. When considered alongside the broader convergent evidence, the filter model's apparent complexity may actually be the more economical explanation of the full dataset.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simplest materialist response—that terminal lucidity reflects transient neural recovery—may seem parsimonious. But it leaves its mechanism untested and must still explain the severity subset, where documented damage is greatest. The tenet binds both sides: simplicity cannot dismiss the filter model, and the filter model's single framework cannot count as the more economical explanation either; the in-episode measurement has to decide.
 
 ## Further Reading
 

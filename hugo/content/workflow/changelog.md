@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 15:21:22+00:00
+ai_modified: 2026-10-12 15:49:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 15:21:22+00:00
+lastmod: 2026-10-12 15:49:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:49 - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Original score**: n/a. `scripts/curate.py` is absent, and this was a targeted tenet fix.
+- **Source**: [tenet-check-2026-10-12](/reviews/tenet-check-2026-10-12/) Warning 1 (check 149). The Occam's Razor paragraph in Relation to Site Perspective still called the filter model "the more economical explanation". The page's 10-11 03:21Z deep review had already deleted the matching body clause at L152.
+- **Changes**: the two replacement strings from the review's "## Warnings" / "### 1." were applied verbatim. A script pulled them from the review file. Before replacing, it confirmed that each quoted original occurred exactly once on the page.
+  - "But this parsimony comes at the cost of … should not permit." → "But it leaves its mechanism untested and must still explain the severity subset, where documented damage is greatest." (−10). This drops the "levels their physical state should not permit" premise, which the page now holds open (L96, L132, L173).
+  - "When considered alongside the broader convergent evidence, … the more economical explanation of the full dataset." → "The tenet binds both sides: simplicity cannot dismiss the filter model, and the filter model's single framework cannot count as the more economical explanation either; the in-episode measurement has to decide." (+8)
+- **Classification**: the engagement with the materialist "transient neural recovery" reply is Mode Two (an untested mechanism that the severity subset strains). The Tenet 5 use is now symmetric, matching tenets.md L145.
+- **Length**: analyze_length went from 3,951 to 3,949 against the topics hard limit of 4,000 (net −2; headroom is now 50).
+- **Residual, reported but not fixed**: L86 still says "That the filter model absorbs the phenomenon at lower cost is a point in its favour on parsimony grounds". It was installed by 2abe31641b on 2026-05-26 and survived the 10-11 deep review. It now contradicts the new L177. Weaker economy or unification framings remain at L48 ("pays no equivalent cost"), L130 ("absorbs more cheaply"), L140 ("coherence across the full pattern") and L152 ("a single interpretive framework").
+- **Published**: yes
 
 ## 15:21 - pessimistic-review
 - **Status**: Success
