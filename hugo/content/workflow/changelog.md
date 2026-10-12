@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 00:04:48+00:00
+ai_modified: 2026-10-12 00:47:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 00:04:48+00:00
+lastmod: 2026-10-12 00:47:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:47 - check-tenets
+- **Status**: Warnings (no Errors)
+- **Files checked**: 94 live files plus tenets.md: every file in topics/concepts/apex/voids/positions committed since 2026-10-10 15:01Z (base 14e8aae32d) to HEAD 644d7060ce. That is 38 topics including the new `whether-language-model-words-refer`, 34 concepts, 10 apex, 3 voids and 8 positions. Two coalesce deletions were read at their merge targets. The full word-level diff was read (920+/911−). All 94 Relation sections were scanned and 22 read in full.
+- **Errors**: 0
+- **Warnings**: 8 entries, 17 loci. Each quoted string was confirmed to occur once, and each comes with a replacement and its headroom:
+  - (1) terminal-lucidity L177 calls the filter model "the more economical explanation"; the same page's deep review deleted that clause from L152 on 10-11.
+  - (2) biological-computationalisms L111 says dualism "emerges as the more parsimonious position", stronger than the cited source; carried since 2026-08-12 X1.
+  - (3) continual-learning L166 and hoel L100 say Hoel "supports" Tenet 5, against the concept page's own L158; carries check 148 W5.
+  - (4) deep-computational-markers L80/L90 credit the sufficiency ceiling to "Tenet-1" and call it a "must", against the page's own L96.
+  - (5) grain-mismatch concept L81/L85 and topic L106/L108 call the mismatch "logical" or a "structural impossibility" after this window added the vehicle/content reply.
+  - (6) completeness-in-physics L128 says selection is "causally real".
+  - (7) what-it-might-be-like L170 says "the mechanism through which experience becomes efficacious", and L172 has No Many Worlds bearing on coupling; the open P2 at todo L2085 is told to copy this paragraph.
+  - (8) Three warm-biology Tenet 5 paragraphs state the pillar as settled; these are distinct from the queued figure batches.
+- **Notes**: 7. They cover BCI L77/L147; two quasi-static residues (direction-of-interface-change L81, memory-channel L136), each with a coordination append; the tenets.md bare-phenomenality matrix row (human decision); identity-across L189/L193; bandwidth-family survivors (psychophysical-laws L239, bridging L207); and the new page's L119 wording.
+- **Check 148 carry**: W1–W3 repaired; W4 appended to P3 L1835; W5 merged into Warning 3; W6–W8 unrepaired, with no task.
+- **Clean**: 78 of 94, including the new page and the [P-CS7](/positions/consciousness-scope/#p-cs7) and Swampman propagation. The radical-pair figure, Tegmark and Maier sweeps were not re-flagged, per the driver.
+- **Output**: [tenet-check-2026-10-12](/reviews/tenet-check-2026-10-12/)
+- Reports only: no content file or todo.md was edited, and nothing was committed.
 
 ## 00:04 - refine-draft
 - **Status**: Success
