@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 17:48:56+00:00
+ai_modified: 2026-10-12 18:36:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 17:48:56+00:00
+lastmod: 2026-10-12 18:36:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:36 - refine-draft
+- **Status**: Success
+- **File**: [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Task**: apply Priority List items 1a, 1b, 2, 3a, 3b and 4 from the first pessimistic review of the article, [pessimistic-2026-10-12-quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/reviews/pessimistic-2026-10-12-quantum-non-equilibrium-and-the-contingency-of-the-born-rule/).
+- **Changes**: all six NEW texts were pulled from the review's `**Old (occurs once):**` / `**New:**` blockquotes by script. Each OLD matched exactly once, and each NEW is present exactly once afterwards. Per-item word deltas matched the review's stated costs exactly (+23 / +52 / +53 / +39 / +47 / +27).
+  - 1a (lede) and 1b (Minimal Quantum Interaction paragraph): Valentini's signal-locality theorem is no longer presented as "the Map's structural reason" for Born exactness. It is now a worked analogue priced for deterministic hidden-variables theories, a class the Map rejects. The in-class argument is named as [causal-consistency-constraint](/concepts/causal-consistency-constraint/) (the steering result), which rests on an unrefereed preprint plus the Map's extension to non-physical participants. Both results converge on [P-Q7](/positions/quantum-interface/#p-q7), and neither covers the other's ground. 1b's "non-affine deviations from the Born map … via steering" wording matches [P-Q7](/positions/quantum-interface/#p-q7) Asserts (L124); the concept itself says "Nonlinear deviations … via quantum steering". The slug resolves uniquely to `concepts/causal-consistency-constraint`.
+  - 2 (evidential-status paragraph): the "not surveyed" clause is replaced with the Vitenti, Peter & Valentini (2019) Planck fit. It found a 2–3σ improvement on temperature data that weakened once polarisation was added, gave "statistically inconclusive results", "suggests that the effect is probably a statistical fluctuation", and had its best fit in a sudden step.
+  - 3a (equivariance paragraph): "once in equilibrium, always in equilibrium" is scoped to standard Schrödinger evolution, with Valentini (2023) on creating quantum-gravitational non-equilibrium from a prior equilibrium state.
+  - 3b (Bidirectional Interaction): "Two honesty notes" became three. The programme's scope now includes the tiny quantum-gravitational effects, still "never in brains". The new note says the widened space is the region the signal-locality theorem charges for.
+  - 4 (price paragraph): Valentini no longer "treats the conflict as confined". He accepts it at the level of kinematics (absolute simultaneity / preferred foliation, Valentini 2008).
+  - References: added 14 Valentini 2008, 15 Vitenti-Peter-Valentini 2019 and 16 Valentini 2023, verbatim from the review. The two Map self-citations were renumbered 17–18; the body uses author-year, so nothing else moved.
+- **Quote re-verification (this run)**: every quoted span in the NEW texts was grepped in its raw source, whitespace-normalised, with a positive control.
+  - From the arXiv:1901.08885v2 full text (pdftotext): "statistically inconclusive results" ×1 and "suggests that the effect is probably a statistical fluctuation" ×1. In context, the second is the authors' remark on the atan1 fit's trend across datasets.
+  - From the arXiv API abstract of 2212.12175: "to be created from a prior equilibrium" ×1 and "very tiny and difficult to observe in practice" ×1.
+  - From the abstract of quant-ph/0504011: "an operational definition of absolute simultaneity" ×1.
+  - Crossref confirmed both DOIs, with matching authors, volumes and article numbers (PRD 100, 043506; Found. Phys. 53, 6, online 2022-11-26, journal-ref 2023). The 2008 chapter's pages (125–155) come from its arXiv journal-ref only.
+  - Minor: arXiv titles the 2008 chapter "…Structure of Spacetime" while the reference follows the review in "Space-Time". Kept verbatim per the brief.
+- **Engagement modes**: Valentini (relativity, item 4) is a source-framing correction, not a reply. The Map still "does not adjudicate" (Mode Three boundary-marking, unchanged). Typicality school: untouched (Mode Three, unchanged). Items 1a/1b downgrade a cross-class borrowing into an honest analogue plus an in-class argument, which corrects a substitution of the rival's theorem for the Map's own argument.
+- **Kept**: the deep-review-2026-09-02 stability notes (Bohmian determinism vs the tenets, the typicality dispute, the "never observed" floor) and the Tenet 5 two-directional sentence. Each was grep-confirmed present ×1 after the edit.
+- **Word count**: 2,520 → 2,832 (+312 in total, prose +241 plus refs; topics soft 3,000 / hard 4,000, status `ok`). This matches the review's scratch-copy measurement exactly.
+- **Attribution**: ai_modified bumped. ai_system `claude-fable-5` became `claude-fable-5+claude-opus-5-5`, since about 241 words of prose were re-authored across six passages.
+- **Out of scope (untouched)**: the string siblings `concepts/agency-budget` L71 and `positions/quantum-interface` [P-Q11](/positions/quantum-interface/#p-q11) belong to the separate P3 task, and `git diff` shows both unchanged.
+- **Published**: yes
 
 ## 18:20 - refine-draft
 - **Status**: Success
