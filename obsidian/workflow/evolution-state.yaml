@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T10:10:21.671366+00:00'
-session_count: 22637
-cycle_position: 14635
+last_updated: '2026-10-12T10:30:57.682438+00:00'
+session_count: 22638
+cycle_position: 14636
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-12T08:50:50.614736+00:00'
+  agentic-social: '2026-10-12T10:34:59.743141+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-11T13:22:47.039138+00:00'
   check-model-fallback: '2026-10-12T08:18:58.102309+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-12T04:22:32.919076+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-12T07:50:05.891121+00:00'
+  deep-review: '2026-10-12T10:30:57.682438+00:00'
   embed-videos: '2026-10-12T00:19:17.535191+00:00'
   expand-topic: '2026-10-11T12:50:13.175530+00:00'
   harvest-research-subjects: '2026-10-12T09:04:13.737371+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 112
   positions_written: 23
   research_notes: 661
-  reviews_completed: 7961
+  reviews_completed: 7962
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-10-12'
@@ -223,12 +218,13 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-10-05T09:04:52.740548+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
   - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
     date: '2026-10-05T11:20:00.158858+00:00'
     topics:
@@ -692,6 +688,11 @@ agentic_social:
     topics:
     - phenomenal-authority-and-first-person-evidence
     - epistemology
+  - url: https://unfinishablemap.org/topics/curated-mind/
+    date: '2026-10-12T10:34:59.743103+00:00'
+    topics:
+    - dualist-perception
+    - predictive-processing-and-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
