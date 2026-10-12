@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T04:06:46+00:00
+ai_modified: 2026-10-12T04:38:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:38 - refine-draft
+- **Status**: Success
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Review file**: [[reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro]] improvement 17; rule source: the "Design labels (2026-10-11)" paragraph in [[evidential-status-discipline]], which names this article's lead as non-compliant.
+- **Original score**: 6/10 (the lead framed the tests as discriminating "production from filter" while the design excludes only the region-vulnerability production reading; no surviving rival was named).
+- **Reviewer check**: item 17 holds. A distributed-network production reading with diaschisis explains the cross-region uniformity the K.C. section scored as a filter gain, and network-level collapse can produce the "channel-down" form the medial-PFC section assigned to the filter reading. Region-specific or graded outcomes favour production of either kind, so that reading survives every outcome. Aggleton & Brown 1999 (already cited) was re-checked against the Europe PMC abstract (PMID 11301518): "a common feature of anterograde amnesia is damage to part of an 'extended hippocampal system'". That gives the distributed reading a documented anchor without a new reference. The response-bias and measurement-invariance points were adopted as one sentence. Diaschisis was named without a citation.
+- **Changes**: (1) Frontmatter title qualified to "...Between Region-Vulnerability Production and Filter Readings..."; slug and filename unchanged. The description now names region-vulnerability production as the excluded rival and distributed-network production as the survivor. (2) The lead (L44) names the rival the design is built against as *region-vulnerability* production. It names the distributed-network reading as the strongest production rival left standing, says why it survives every outcome, and closes with "A favourable result would tell against the weaker production rival only". This is modelled on [[direction-dependent-discriminating-test-design]]. (3) The predictions ingredient (L54) gains one sentence stating the result that would lower the Map's filter reading's probability, and scores routing reassignment as a post-hoc addition. (4) In the K.C. section (L66), the filter "gain" from cross-region uniformity is scoped to region-vulnerability production, noting that the distributed-network reading already explains uniformity. (5) In the medial-PFC section (L108), "channel-degraded" is attributed to the region-vulnerability reading, and a sentence on response-criterion shifts in remember-know judgements requires bias-corrected, group-invariant measures before a channel-down reading counts.
+- **Engagement classification**: region-vulnerability production is Mode One (empirical), because the design states advance predictions it can lose on its own terms. Distributed-network production is Mode Four (empirical underdetermination): the survivor is named and no claim is made to refute it.
+- **Length**: 3,602 → 3,790 words (`analyze_length`; soft_warning before and after; hard 4,000).
+- **Link-text sweep (reported, not edited)**: archive/topics/recovery-order-asymmetry-as-interface-evidence.md:140 has the full old title in a reference entry. apex/self-concealing-interface.md:179 has the link text "Targeted-Lesion Discriminating Tests"; the prefix is unchanged in the new title. direction-dependent-discriminating-test-design.md:40 and archive/topics/{memory-system-vulnerability-hierarchies-as-interface-evidence.md:138, recovery-order-asymmetry-as-interface-evidence.md:95} have "targeted-lesion discriminating-tests article". Bare wikilinks render as slug text and are unaffected.
+- **Published**: yes
 
 ## 04:06 - outer-review
 - **Status**: Success

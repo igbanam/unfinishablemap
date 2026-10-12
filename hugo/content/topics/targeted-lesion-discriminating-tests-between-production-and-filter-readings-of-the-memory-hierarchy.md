@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-04 08:29:34+00:00
+ai_modified: 2026-10-12 04:37:09+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -17,13 +17,13 @@ concepts:
 created: 2026-05-19
 date: &id001 2026-05-19
 description: 'Human+AI design-space inquiry: which focal-lesion or focal-stimulation
-  experiments could discriminate production from filter readings of the autonoetic-noetic-anoetic
-  ordering — and which the existing data cannot deliver.'
+  experiments could discriminate region-vulnerability production from filter readings
+  of the memory hierarchy, and why distributed-network production survives them.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 08:29:34+00:00
-lastmod: 2026-10-04 08:29:34+00:00
+lastmod: 2026-10-12 04:37:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,8 +35,8 @@ related_articles:
 - '[[framework-stage-calibration]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[direction-dependent-discriminating-test-design]]'
-title: Targeted-Lesion Discriminating Tests Between Production and Filter Readings
-  of the Memory Hierarchy
+title: Targeted-Lesion Discriminating Tests Between Region-Vulnerability Production
+  and Filter Readings of the Memory Hierarchy
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-memory]]'
@@ -46,7 +46,7 @@ topics:
 
 The [memory-vulnerability hierarchy article](/topics/memory-channel-interface-evidence/) names a discriminating test in passing — "a narrow perturbation that hits an autonoetic-supporting region while sparing its noetic-supporting subregions should, on the production reading, produce a *different* ordering, while the filter reading still predicts the standard one" — and admits the catalogue does not yet have a clean case to point to. This article develops the named-but-undeveloped discriminator into a worked design space, specifying what the test would require, what existing data approximates, where the approximations fall short, and which candidate target-region pairs might one day deliver it. The article is a *design space* rather than an extant experimental programme, and the [evidential-status discipline](/project/evidential-status-discipline/) requires foregrounding that nothing said here moves the production-vs-filter dispute above [Mode Four empirical underdetermination](/project/direct-refutation-discipline/) at present. On the evidence currently available, the two readings are empirically equivalent at the memory-hierarchy tier, and the tests proposed below are candidate discriminators rather than settled results.
 
-The structural claim the design space tests is sharp. The sophisticated production reading explains the autonoetic-noetic-anoetic ordering by appeal to differential cortical-area vulnerability: autonoetic re-experiencing depends on more cortical regions and more reconstruction work than noetic recognition, which depends on more than anoetic procedural fluency, so any substrate perturbation hits the most-dependent channel first. The filter reading explains the same ordering by appeal to channel architecture: bandwidth-and-reconstruction-cost differences produce stable bandwidth-order degradation under partial blockade regardless of which substrate is perturbed. The two readings predict the same ordering across the five clinical-state cases the hierarchy article surveys. They appear to diverge on what would happen under a *focal* perturbation whose substrate-topology is mismatched to the channel-vulnerability ordering: production predicts the ordering should track the substrate damage; filter predicts it should track the channel architecture. The discriminating test is whether substrate-vs-channel can be made to dissociate — and whether such a dissociation, if observed, could be cleanly attributed to one reading remains an open question.
+The structural claim the design space tests is sharp. The *region-vulnerability* production reading explains the autonoetic-noetic-anoetic ordering by appeal to differential cortical-area vulnerability: autonoetic re-experiencing depends on more cortical regions and more reconstruction work than noetic recognition, which depends on more than anoetic procedural fluency, so any substrate perturbation hits the most-dependent channel first. The filter reading explains the same ordering by appeal to channel architecture: bandwidth-and-reconstruction-cost differences produce stable bandwidth-order degradation under partial blockade regardless of which substrate is perturbed. The two readings predict the same ordering across the five clinical-state cases the hierarchy article surveys. They appear to diverge on what would happen under a *focal* perturbation whose substrate-topology is mismatched to the channel-vulnerability ordering: region-vulnerability production predicts the ordering should track the substrate damage; filter predicts it should track the channel architecture. The discriminating test is whether substrate-vs-channel can be made to dissociate, and it separates the filter reading from region-vulnerability production only. The strongest production rival, a *distributed-network* reading, survives every outcome the design can produce. On it the autonoetic-supporting regions are nodes of one circuit, as in Aggleton and Brown's (1999) "extended hippocampal system", damage to some part of which is the common feature of anterograde amnesia, and a focal lesion also depresses connected, undamaged nodes (diaschisis). A lesion at any node can then switch the channel off in the same way, giving the cross-region uniformity and all-or-none failure the filter reading expects, while region-specific or graded outcomes favour production of either kind. A favourable result would tell against the weaker production rival only.
 
 ## The Discriminator Stated Cleanly
 
@@ -56,7 +56,7 @@ First, a *focal lesion or focal perturbation* affecting one autonoetic-supportin
 
 Second, *concurrent multi-channel memory probing* that measures autonoetic, noetic, and anoetic channels separately under the same perturbation. The Tulving-tradition probes (remember-know judgements, source-memory accuracy, repetition priming, motor-sequence learning) are clinically validated but were not designed for tight cross-channel comparison under focal perturbation.
 
-Third, an *expected ordering under each prediction* stated in advance. The production reading predicts that lesion of an autonoetic-supporting region while sparing noetic-supporting subregions should produce a narrower-than-usual deficit only if the cortical-area-vulnerability story is the full explanation; uniform autonoetic failure across many substrate topologies would favour the filter reading. The filter reading predicts the autonoetic channel goes dark in any region whose role is to route autonoetic content; autonoetic preservation despite focal lesion of an autonoetic-only region would favour the production reading by showing the substrate is not playing the channel-routing role.
+Third, an *expected ordering under each prediction* stated in advance. The production reading predicts that lesion of an autonoetic-supporting region while sparing noetic-supporting subregions should produce a narrower-than-usual deficit only if the cortical-area-vulnerability story is the full explanation; uniform autonoetic failure across many substrate topologies would favour the filter reading. The filter reading predicts the autonoetic channel goes dark in any region whose role is to route autonoetic content; autonoetic preservation despite focal lesion of an autonoetic-only region would favour the production reading by showing the substrate is not playing the channel-routing role. The result that would lower the probability of the Map's filter reading is the production column: signatures that differ by lesioned region, or autonoetic capacity graded with damage rather than switched off; absorbing it by reassigning which regions route the channel would be a post-hoc addition.
 
 Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. Recent transcranial focused-ultrasound work in non-human primates (Verhagen et al. 2019) demonstrates offline neuromodulation at cortical targets earlier surface TMS could not reach reliably, and the same modality has begun delivering subcortical targeting in humans in disorders-of-consciousness pilot work (Cain et al. 2021); the autonoetic-target version, with multi-channel concurrent probing, has not yet been attempted.
 
@@ -68,7 +68,7 @@ The clinical literature contains several near-discriminating cases. None appears
 
 K.C., extensively studied by Tulving and colleagues, suffered bilateral medial-temporal-lobe damage in a 1981 motorcycle accident and lost episodic memory and autonoetic consciousness entirely while retaining semantic memory, intelligence, and personality (Tulving 2002). On the production reading, this is what differential cortical-area vulnerability predicts: the medial-temporal lobe is more critical for episodic than semantic memory. On the filter reading, it is what an autonoetic-channel-routed-through-MTL architecture predicts: the channel is blocked because its routing substrate is gone. Both readings predict the same observation for the same reason at the level of clinical description.
 
-The discriminator the case does *not* deliver is the comparison between K.C.'s ordering and the ordering under focal lesion of a *different* autonoetic-supporting region. If lesions of medial prefrontal cortex, precuneus, or anterior thalamic nuclei all produce the same autonoetic-down-noetic-preserved signature, the filter reading gains: the channel goes dark regardless of which routing substrate is hit, and the production reading must additionally explain why the cross-region uniformity holds. If lesions of these regions produce *different* signatures, the production reading gains: the ordering tracks substrate topology rather than channel architecture. The systematic cross-region comparison has not yet been done; individual cases are reported in isolation, with the autonoetic deficit treated as the headline finding rather than as one row in a matrix whose completion would discriminate the rival readings.
+The discriminator the case does *not* deliver is the comparison between K.C.'s ordering and the ordering under focal lesion of a *different* autonoetic-supporting region. If lesions of medial prefrontal cortex, precuneus, or anterior thalamic nuclei all produce the same autonoetic-down-noetic-preserved signature, the filter reading gains against region-vulnerability production: the channel goes dark regardless of which routing substrate is hit, and that reading must additionally explain why the cross-region uniformity holds, which the distributed-network reading already does. If lesions of these regions produce *different* signatures, the production reading gains: the ordering tracks substrate topology rather than channel architecture. The systematic cross-region comparison has not yet been done; individual cases are reported in isolation, with the autonoetic deficit treated as the headline finding rather than as one row in a matrix whose completion would discriminate the rival readings.
 
 ### Patient H.M. and the Boundary of the Test
 
@@ -110,7 +110,7 @@ The design space is structured by which region-pair dissociations would, if achi
 
 ### Medial Prefrontal vs. Lateral Prefrontal
 
-The medial prefrontal cortex is implicated in self-referential processing, autobiographical-memory retrieval, and the default-mode-network operations the autonoetic-channel literature treats as the substrate route for re-experiencing (Conway 2005; Andrews-Hanna et al. 2014). The lateral prefrontal cortex is implicated in semantic retrieval and executive control. Focal perturbation of medial PFC sparing lateral PFC should, on either reading, preferentially impair autonoetic re-experiencing while leaving semantic recognition intact. The discriminator is whether the autonoetic deficit takes the *channel-down* form predicted by the filter reading (autonoetic essentially unavailable, with semantic substitution where autonoetic content is requested) or the *channel-degraded* form predicted by the production reading (autonoetic available but degraded in proportion to the substrate damage).
+The medial prefrontal cortex is implicated in self-referential processing, autobiographical-memory retrieval, and the default-mode-network operations the autonoetic-channel literature treats as the substrate route for re-experiencing (Conway 2005; Andrews-Hanna et al. 2014). The lateral prefrontal cortex is implicated in semantic retrieval and executive control. Focal perturbation of medial PFC sparing lateral PFC should, on either reading, preferentially impair autonoetic re-experiencing while leaving semantic recognition intact. The discriminator is whether the autonoetic deficit takes the *channel-down* form predicted by the filter reading (autonoetic essentially unavailable, with semantic substitution where autonoetic content is requested) or the *channel-degraded* form predicted by the region-vulnerability reading (autonoetic available but degraded in proportion to the substrate damage). Neither form reads straight off the probes: a shifted remember-know response criterion can make graded loss look like a closed channel, so the channel-down form counts only on bias-corrected measures shown to behave alike in lesioned and intact groups.
 
 Stimulation work on the autobiographical-retrieval network has concentrated on laterally and posteriorly accessible nodes, and medial prefrontal cortex sits beyond the reliable depth and focality of standard figure-of-eight TMS coils. Focused ultrasound has since been aimed at anterior medial PFC, but in an open-label depression trial that did not probe memory (Schachtner et al. 2025). The channel-state versus channel-degradation distinction has therefore not been tested at this target by any modality, which makes the pairing the least tractable of the three despite its theoretical centrality.
 
