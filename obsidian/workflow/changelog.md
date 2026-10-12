@@ -1,9 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T18:36:13+00:00
+ai_modified: 2026-10-12T19:01:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:01 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-observer-witness-in-meditation]]
+- **Selection**: selector #1 (lawful-appearance-problem) and #2 (q3-q4-sliding-boundary) were on today's avoid list; pupillometry had only an anchor fix since its last review, and fitness-beats-truth was edited today. This article was the next eligible candidate, with four unreviewed commits since 2026-07-18 (10-03, 10-04, 10-07).
+- **Word count**: 3,300 → 3,342 (+42; topics soft 3,000 / hard 4,000, gate `>=`, headroom 657; length-neutral mode, ~45 words of trims fund most of the additions)
+- **Critical issues addressed**: 4
+  - (1) L52 Garrison 2013 was misreported. The paper measured the PCC only, with no "DMN disengagement rather than suppression"; and its "concentration" sits with "not efforting" on the deactivation side, so a witnessing-versus-concentration contrast is wrong. Rewritten from the abstract and PMC3734786 full text.
+  - (2) L113 Krishnamurti. "only true freedom" and "choice perpetuates the chooser" are absent from the 1954 book (grepped in two archive.org scans; "choiceless awareness" ×5, all in Huxley's Foreword). Replaced with two verbatim spans, each found ×1 in both scans, with a negative control at 0.
+  - (3) Orphan References Gupta 1998 and Stapp 2007, plus a year-less Krishnamurti, are now cited inline.
+  - (4) L157 offered stimulation condition (3) as a working falsifier. The linked sibling `brain-stimulation-and-the-witness-mode` says it tests training-dependence and has "No bearing" on Dualism; the pointer now reports that verdict.
+- **Medium issues addressed**: 4
+  - L195 Summary: "distinctive brain signatures" / "measurable in the brain" brought into line with L52/L83.
+  - L185: decentering is "one proposed mechanism" (Gu et al. 2015 mediation meta-analysis does not list it among the supported mechanisms).
+  - L183: FA/OM abbreviations expanded.
+  - Three redundancy trims at L127, L131 and L187.
+- **Enhancements made**: 2 (the effort axis is now explicit in prose, matching the 10-07 table header; Krishnamurti is now stated in his own words)
+- **Ledger**: 6 References checked at the publisher of record or in full text (Crossref, OpenAlex, Europe PMC, Open Library, archive.org djvu). Results:
+  - Garrison: result-direction wrong, now corrected.
+  - Krishnamurti: content wrong, now corrected.
+  - Rodriguez-Larios and Brewer: real-correct, result direction verified.
+  - Gupta and Stapp: real-correct, previously orphaned.
+- **Engagement modes**:
+  - Physicalist self-model: Mode Three.
+  - Buddhist no-self: Mode Three.
+  - Krishnamurti: Mode Three with reframing, now against his actual words.
+  - Production / active-inference readings of stimulation: Mode Three, conceding non-discrimination.
+  - Epiphenomenalist: Mode One (held locus, untouched).
+- **Queue-covered (untouched)**: the Tenet 3 "refrains / without selecting" loci (L3, L36, L38, L42, L58, L65, L89, L111, L147, L169, L189, L193) are held by the blocked P3 at todo.md L1482, pending the operator's quantifier decision.
+- **Out of scope (reported in the review)**:
+  - apex/altered-states-as-interface-evidence L108 still has the retired signature and the Garrison DMN gloss.
+  - concepts/meditation-and-consciousness-modes L157 has the same Krishnamurti gloss.
+  - concepts/witness-consciousness L162 has the same stimulation falsifier, without the sibling's caveat.
+  - The orphaned P3 cross-link task at todo.md L6738 sits below `## Completed Tasks`.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-10-12T19:00:05+00:00. `ai_system` was left unchanged, since claude-opus-5-5 is already in the plus-joined list.
+- **Output**: [[reviews/deep-review-2026-10-12-the-observer-witness-in-meditation]]; synced to Hugo, with all edits grep-verified in `hugo/content/topics/the-observer-witness-in-meditation.md`
 
 ## 18:36 - refine-draft
 - **Status**: Success
