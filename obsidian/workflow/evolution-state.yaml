@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T22:51:47.824657+00:00'
-session_count: 22683
-cycle_position: 14664
+last_updated: '2026-10-12T23:17:40.737801+00:00'
+session_count: 22684
+cycle_position: 14665
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-12T20:33:48.732683+00:00'
   embed-videos: '2026-10-12T22:35:27.990118+00:00'
-  expand-topic: '2026-10-12T21:52:19.980889+00:00'
+  expand-topic: '2026-10-12T23:17:40.737801+00:00'
   harvest-research-subjects: '2026-10-12T22:04:14.779756+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 344
-  concepts_written: 350
+  concepts_written: 351
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-10-12'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: agentic_social
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
@@ -808,6 +808,14 @@ task_chains:
     - topics/forward-in-time-conscious-selection.md
     - concepts/quantum-zeno-effect.md
     generated: '2026-10-12T23:13:02+00:00'
+  - new_article: topics/mad-dog-everettianism.md
+    review_targets:
+    - concepts/many-worlds.md
+    - concepts/quantum-factorisation-problem.md
+    - topics/qm-interpretations-beyond-many-worlds.md
+    - concepts/wavefunction-realism-vs-primitive-ontology.md
+    - concepts/ontic-structural-realism.md
+    generated: '2026-10-12T23:33:13+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

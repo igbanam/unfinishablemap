@@ -2,9 +2,9 @@
 title: "Ontic Structural Realism"
 description: "Ontic structural realism holds relational structure is all there is. A human-AI study of where the Map assembles this rival, who holds it, and what it removes."
 created: 2026-09-04
-modified: 2026-09-04
+modified: 2026-10-12
 human_modified:
-ai_modified: 2026-09-08T20:32:34+00:00
+ai_modified: 2026-10-12T23:32:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-09-04
 last_curated:
 last_deep_review: 2026-09-05T00:00:06+00:00
@@ -76,7 +76,7 @@ So the Map's standard reply does not fit. Against the materialist who says the e
 
 The best pressure point available is older than the position it presses. In 1928 M. H. A. Newman objected to Russell's structuralism that structure alone is too weak to say anything. In Ladyman's statement of the difficulty, "structure is not sufficient to uniquely pick out any relations in the world": given a collection of the right size some relation holds over it, so a purely structural claim is either trivially satisfied or must smuggle in a non-structural fact about which relations are real. Reviving the objection in 1985, Demopoulos and Friedman drew the consequence that "only cardinality questions are open to discovery!"
 
-Turned on the ontic reading this becomes a problem about being rather than knowing: if structure is all there is and fixes only cardinality, the ontology threatens to empty out. Lyre's programme is the honest case, its abstract promising "a solution of the Newman problem of the brain in terms of spatiotemporal relations" — a non-structural input, declared rather than eliminated.
+Turned on the ontic reading this becomes a problem about being rather than knowing: if structure is all there is and fixes only cardinality, the ontology threatens to empty out. Lyre's programme is the honest case, its abstract promising "a solution of the Newman problem of the brain in terms of spatiotemporal relations" — a non-structural input, declared rather than eliminated. Physics offers a parallel, on the Map's reading: [[mad-dog-everettianism|Hilbert-space fundamentalism]] makes a single vector and a Hamiltonian the whole of fundamental ontology, and whether those alone can fix any physically relevant structure uniquely is an open dispute.
 
 **The objection cuts both ways, and the Map has to say so.** Newman raised it against Russell's *epistemic* structuralism — the Map's own position — and Demopoulos and Friedman pressed it further as a collapse worry: structure-only knowledge threatens to reduce to phenomenalism. Deploying Newman against the ontic reading while the Map's commitment sits exposed to it would be an unearned asymmetry.
 

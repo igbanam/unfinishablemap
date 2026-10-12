@@ -4,7 +4,7 @@ description: "Entanglement is defined only relative to a tensor-product factoris
 created: 2026-09-30
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-12T08:01:07+00:00
+ai_modified: 2026-10-12T23:31:57+00:00
 draft: false
 anchoring_audit_exempt: true  # verified lexical false-high 2026-09-30 (deep-review): 3 hedge markers / 2 strong verbs in 3498w flag against three anchors; the page calibrates structurally (constraint-not-evidence lead, abstract-only markers, "as the Map reads Stapp", "located as of", unresolved Stoica–Soulas dispute); clearing by metric would pad a page at the concepts hard gate
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[quantum-factorisation-problem-2026-09-25]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-30
 last_curated:
 last_deep_review: 2026-09-30T22:30:27+00:00
@@ -97,7 +97,7 @@ Both readings of the problem are live: as a debt owed by entanglement-based unit
 
 **Tenet 4 (No Many Worlds)** carries the symmetric parity stated above. The Map holds the tenet as a starting point that survives the loss of this argument, but the argument's standing is weakened on both sides until a factorisation is fixed.
 
-**Tenet 5 (Occam's Razor Has Limits)** gets a conditional case. Hilbert-space fundamentalism (Carroll & Singh 2019) — the view that Hilbert space, a Hamiltonian and a state exhaust the fundamental ontology — is the simplest structure-only ontology on offer, and the factorisation problem is where it cannot fix its own subsystems without further input, on Stoica's reading, or can do so only generically and conditionally, on Cotler's. Simplicity of the base did not settle which parts the world has. This is a documented dispute in the physics literature, not a Map reconstruction; the Map's use of it is framework-conditional.
+**Tenet 5 (Occam's Razor Has Limits)** gets a conditional case. [[mad-dog-everettianism|Hilbert-space fundamentalism]] (Carroll & Singh 2019) — the view that Hilbert space, a Hamiltonian and a state exhaust the fundamental ontology — is the simplest structure-only ontology on offer, and the factorisation problem is where it cannot fix its own subsystems without further input, on Stoica's reading, or can do so only generically and conditionally, on Cotler's. Simplicity of the base did not settle which parts the world has. This is a documented dispute in the physics literature, not a Map reconstruction; the Map's use of it is framework-conditional.
 
 The page's status is a booked constraint: it adds no evidential support to any tenet, records a dependency [[many-worlds]] had stated against Everett but the selection programme's apex statement had not booked, and gives the outer review's challenge a register address.
 

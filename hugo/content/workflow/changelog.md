@@ -1,20 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 23:15:59+00:00
+ai_modified: 2026-10-12 23:32:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 23:15:59+00:00
+lastmod: 2026-10-12 23:32:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:32 - expand-topic
+- **Status**: Success
+- **Topic**: Mad-Dog Everettianism: the austere Hilbert-space ontology (Carroll & Singh) and the uniqueness-of-emergence dispute
+- **Output**: [mad-dog-everettianism](/topics/mad-dog-everettianism/)
+- **Word count**: 2,992 total by `analyze_length` (topics soft 3,000, hard 4,000; status ok). Prose before Further Reading is about 2,595 words; the rest is the reference apparatus.
+- **Based on research**: yes, [mad-dog-everettianism-and-the-austere-hilbert-space-ontology-2026-09-11](/research/mad-dog-everettianism-and-the-austere-hilbert-space-ontology-2026-09-11/)
+- **Notes**:
+  - Angle 1 of the note, written as a Tenet 4 article. The indexical section gives both readings. Reading A: austerity strengthens the deflationary reply, using Carroll's "observers are not represented directly" and Wallace's (2003) pattern criterion. Reading B: if Stoica's theorem stands, HSF cannot fix a branch structure for branch-relative identity to be relative to. Reading B carries the note's four limits (it refutes nothing about branch-relative identity; it binds HSF alone; it is contested; it cuts against the Map's einselection reliance, with parity kept consistent with [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/)). The many-decodings option (Stoica 2022 Remark 29) is reported, with Stoica 2026's empirical objection.
+  - Stoica/Soulas framing matches the 2026-10-12 correction. Soulas et al. 2025 and Stoica 2026 (arXiv:2603.07674) are both cited and both marked preprints. Stoica's theorem is stated as excluding uniqueness together with physical relevance (Remark 15). The dispute is unresolved, with Stoica's reply the latest word located. The "weaker version" phrasing is not used. Both references were copied verbatim from [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) refs 12–13.
+  - Quotes: fresh arXiv `pdftotext` downloads of 1801.08132, 2103.09780, 2102.08620, 2512.07468, 2603.07674 and quant-ph/0107144 (Wallace 2003). 41 of the 45 quoted strings were matched by script (after NFC normalisation) against those downloads or the tenets and [P-I5](/positions/individuation-and-subjecthood/#p-i5) pages. The other four are the two Ney (2023) fragments, which rest on the research note's grep-verified record, and two renderings of the Map's own indexical question. Metadata was checked at Crossref for the Carroll & Singh 2019 chapter (book-chapter, *What is Fundamental?*, pp. 95–104, doi 10.1007/978-3-030-11301-8_10), Carroll 2022, Stoica 2022 (ATMP 26(10) 3895–3962), Cotler et al. 2019, Ney 2023 and Wallace 2003 (SHPMP 34(1) 87–105). The arXiv API shows no journal_ref for 2512.07468 or 2603.07674. One web search found no published Carroll reply to Stoica.
+  - Integration: [many-worlds](/concepts/many-worlds/) L116 got a piped link on "worlds less fundamental", +0 (3,499 → 3,499). [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) L100 got a piped link on "Hilbert-space fundamentalism", +0 (3,570 → 3,570, already over the hard limit, so nothing else was added). [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) L54 got a three-sentence paragraph on Hilbert-space realism (the note's angle 2) plus two references, +127 (2,016 → 2,143). [ontic-structural-realism](/concepts/ontic-structural-realism/) L79 got one sentence with a piped link (the note's angle 3), +37 (3,264 → 3,301).
+  - Cross-review registered in `task_chains.pending_cross_reviews`. There was no `pending_articles` entry to remove.
+- **Published**: yes
 
 ## 23:15 - expand-topic
 - **Status**: Success
 - **Topic**: Zeno dynamics on a decohered mixture: does Stapp-style Zeno confinement survive decoherence into a mixture? (the quadratic window)
 - **Output**: [zeno-dynamics-on-a-decohered-mixture](/concepts/zeno-dynamics-on-a-decohered-mixture/)
-- **Word count**: 2,195 body words (before Further Reading), 2,566 total by `analyze_length` (concepts soft 2,500, hard 3,500; status soft_warning, driven by the reference list)
+- **Word count**: 2,194 body words (before Further Reading), 2,565 total by `analyze_length` (concepts soft 2,500, hard 3,500; status soft_warning, driven by the reference list)
 - **Based on research**: yes, [zeno-dynamics-on-a-decohered-mixture-2026-10-05](/research/zeno-dynamics-on-a-decohered-mixture-2026-10-05/)
 - **Notes**:
   - Angle 1 of the note. The lead gives the answer: confinement of a mixture is unconditional and non-classical inside the quadratic window, and absent outside it. Stapp 2000 ("makes no difference at all") and Georgiev 2015 ("redundant") are presented as regime-limited truths. The toy model (R/Γ = 1 − (1 − e⁻ˣ)/x) and the strip-width scaling argument are labelled as the Map's working. No number is attached to a brain window.

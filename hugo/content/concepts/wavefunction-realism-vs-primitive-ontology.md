@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-19 10:16:30+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-12 23:32:13+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-07-09
-date: &id001 2026-07-09
+date: &id001 2026-10-12
 description: Human-AI exploration of quantum foundations' deepest ontology dispute
   — is the wavefunction a real high-dimensional field, or a law governing matter in
   3D space?
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-19 10:16:30+00:00
-lastmod: 2026-08-19 10:16:30+00:00
+lastmod: 2026-10-12 23:32:13+00:00
 modified: *id001
 related_articles: []
 title: Wavefunction Realism versus Primitive Ontology
@@ -55,6 +55,8 @@ Three fault lines organize the disagreement.
 
 **Is 3D space emergent, or is `3N`-space a device?** This is the root question — the ontological status of configuration space itself, a physical arena versus an abstract space of possible 3D configurations. Bradley Monton's "Against 3N-Dimensional Space" (in the Ney & Albert anthology) is a representative counter to the wavefunction-realist arena. The dispute is live and unresolved.
 
+A third realist answer drops the arena altogether. Hilbert-space realism, which Carroll and Singh call [Mad-Dog Everettianism](/topics/mad-dog-everettianism/), takes a single vector in Hilbert space, evolving under a Hamiltonian, as the whole of fundamental ontology, so that `3N`-space and 3D space are both emergent. Ney (2023) grants that it "is certainly even simpler" than wavefunction realism but doubts the recovery: "it is much less clear how to recover all that is emergent from a single vector in Hilbert space."
+
 **The macro-object / "marvelous point" problem.** This is the sharpest pressure on wavefunction realism: can a field on `3N`-dimensional space genuinely *yield* three-dimensional objects, or does it only *simulate* their behavior? The phrase "marvelous point" is Albert's own term of art (from his earlier Bohmian picture, in which the entire physical content of the universe rides on a single point moving through configuration space); it is used here as his terminology, not as a chapter heading. Critics press whether the functionalist recovery delivers real 3D entities or merely structures that behave as if there were some. This remains the central live objection.
 
 **Is the nomological view of `Ψ` coherent?** The program's positive proposal is that `Ψ` is like the Hamiltonian of classical mechanics — the generator of motion rather than a piece of the furniture — with the Hamilton–Jacobi *action*, which likewise depends on initial conditions and lives in configuration space, supplying a further classical precedent for a nomological object of that shape. Against it: a law is supposed to be static and universal, whereas `Ψ` evolves in time, varies from subsystem to subsystem, and can be prepared at will in a laboratory. The replies come apart. Contingency and controllability are met by distinguishing the *effective* wavefunction of a subsystem, which is indeed ours to manipulate, from the *universal* wavefunction, which is neither; the objection from time-evolution is met by the suggestion that in a quantum cosmology the universal `Ψ` would be static, as a Wheeler–DeWitt equation carrying no time parameter would have it. This is a recognized soft spot the program actively defends.
@@ -85,9 +87,11 @@ None of this favors dualism over physicalism; it only says that *should* the Map
 1. Allori, V., Goldstein, S., Tumulka, R. & Zanghì, N. (2008). "On the Common Structure of Bohmian Mechanics and the Ghirardi–Rimini–Weber Theory." *British Journal for the Philosophy of Science* 59: 353–389. https://philpapers.org/rec/ALLOTC
 1. Allori, V. (2015). "Primitive Ontology in a Nutshell." *International Journal of Quantum Foundations* 1(3): 107–122. https://ijqf.org/wp-content/uploads/2015/03/IJQF-PO-in-a-Nutshell1.pdf
 1. Bell, J. S. (1975). "The Theory of Local Beables." *Epistemological Letters* 9; repr. in *Speakable and Unspeakable in Quantum Mechanics*, 2nd ed., Cambridge University Press (2004), ch. 7, pp. 52–62. https://www.cambridge.org/core/books/speakable-and-unspeakable-in-quantum-mechanics/theory-of-local-beables/9C7DD4DB3DAFDF3ABACAA6DCD7830D09
+1. Carroll, S. M. & Singh, A. (2019). "Mad-Dog Everettianism: Quantum Mechanics at Its Most Minimal." In A. Aguirre, B. Foster & Z. Merali (eds.), *What is Fundamental?*, pp. 95–104. Springer. https://doi.org/10.1007/978-3-030-11301-8_10
 1. Brown, H. R. & Wallace, D. (2005). "Solving the Measurement Problem: De Broglie–Bohm Loses Out to Everett." *Foundations of Physics* 35(4): 517–540. DOI 10.1007/s10701-004-2009-3. https://doi.org/10.1007/s10701-004-2009-3
 1. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *Journal of Statistical Physics* 67: 843–907. DOI 10.1007/BF01049004. https://link.springer.com/article/10.1007/BF01049004
 1. Ney, A. (2021). *The World in the Wave Function: A Metaphysics for Quantum Physics*. Oxford University Press. ISBN 9780190097714. https://global.oup.com/academic/product/the-world-in-the-wave-function-9780190097714
+1. Ney, A. (2023). "Three Arguments for Wave Function Realism." *European Journal for Philosophy of Science* 13(4): 50. https://doi.org/10.1007/s13194-023-00554-5
 1. Ney, A. & Albert, D. Z. (eds.) (2013). *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*. Oxford University Press. https://academic.oup.com/book/32659
 1. Tumulka, R. (2006). "A Relativistic Version of the Ghirardi–Rimini–Weber Model." *Journal of Statistical Physics* 125: 821–840. DOI 10.1007/s10955-006-9227-3. https://arxiv.org/abs/quant-ph/0406094
 1. Southgate, A. & Oquatre-huit, C. (2026-03-15). The Born Rule and the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
