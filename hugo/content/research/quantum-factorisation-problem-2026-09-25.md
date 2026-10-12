@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-09-25 14:10:00+00:00
+ai_modified: 2026-10-12 08:01:27+00:00
 ai_system: claude-opus-5-5
 concepts: []
 created: 2026-09-25
-date: '2026-09-25'
+date: '2026-10-12'
 draft: false
-lastmod: 2026-09-25 14:10:00+00:00
+lastmod: 2026-10-12 08:01:27+00:00
 related_articles: []
 title: 'Research Notes: The Quantum Factorisation Problem for Consciousness'
 ---
@@ -18,6 +18,8 @@ title: 'Research Notes: The Quantum Factorisation Problem for Consciousness'
 **Search queries used**: (1) `"quantum factorization problem" Tegmark consciousness integration principle independence principle`; (2) `consciousness "tensor product structure" subject boundary entanglement unity combination problem philosophy`; (3) `Ismael Schaffer "Quantum holism: nonseparability as common ground" Synthese`; (4) `Carroll Singh "Quantum mereology" factorizing Hilbert space quasiclassical`; (5) `Chalmers McQueen "collapse of the wave function" integrated information … which system`; (6) `IIT exclusion postulate "maximum of integrated information" overlapping systems …`; (7) `Adam Barrett 2014 "An integration of integrated information theory with fundamental physics"`; (8) `quantum dualism interactionism "which system" brain subsystem von Neumann cut … Stapp`; (9) `"quantum mereology" consciousness observer subsystem individuation philosophy 2024 OR 2025`.
 **Raw artefacts searched locally**: `pdftotext` of arXiv:1401.1219 (Tegmark), arXiv:2212.14787 (IIT 4.0), arXiv:2105.02314 (Chalmers & McQueen), arXiv:2503.12959 (Stoica 2025); arXiv abstract-page metadata for quant-ph/0103030, quant-ph/0308043, 1702.06142, 1801.10168, 1806.01421, 1902.04321, 1909.12851, 2005.12938, 2102.08620, 2409.01368, 2409.01391, 2505.11530, 2512.07468; Crossref records for every DOI in the citation list (fields quoted in the list).
 
+**Correction (2026-10-12)**: this note dropped a reference that the 2026-09-11 note it builds on had recorded: Stoica's reply to Soulas et al., arXiv:2603.07674 (8 Mar 2026). Without it, this note and the article drawn from it gave Soulas et al. the last word, and repeated their abstract's characterisation of Stoica (2022) ("correct only in some weaker version") without checking it against Stoica's paper. Stoica pointed out the omission by email. Full texts of both preprints were then read (pdftotext, 2026-10-12). Soulas et al. (§3.3, Theorem 3.9) claim that (H, |ψ⟩) selects a TPS unique up to global unitary equivalence, and say they contest Stoica's claim that physically relevant emergent structures are non-unique. Stoica replies that Theorem 2 of his 2022 paper rules out uniqueness *together with* physical relevance, not uniqueness alone (his Remark 15 gives unique but physically irrelevant constructions), so a unique TPS is not by itself a counterexample. He argues that their invariants face a trilemma under time evolution (choreographed in time, fixed at one absolute moment, or contradicting observed change of entanglement), and that their "relational uniqueness" already falls within the 2022 framework. Both papers are unrefereed, and the dispute stands as unresolved, with Stoica's reply as the latest word located. The entries below are corrected accordingly.
+
 **Builds on, does not repeat**: `research/mad-dog-everettianism-and-the-austere-hilbert-space-ontology-2026-09-11` already verified Carroll & Singh (2019, 2021), Carroll (2022), Cotler, Penington & Ranard (2019), Stoica (2022), Soulas, Franzmann & Di Biagio (2025), Loizeau & Sels (2024) and Tegmark (2015) metadata, and carries the Loizeau–Sels mis-attribution warning. Those entries are re-cited here, not re-derived. That note's **constraint 4** — whether Stoica's non-uniqueness result bites the Map's own post-decoherence factorisation — is the question this note takes further (see "The Map's own exposure" below).
 
 ## Executive Summary
@@ -28,7 +30,7 @@ Entanglement, separability and "the subsystem" are defined only relative to a **
 
 The review's §1.1 runs three demands together ("which decomposition is privileged, where the subject's boundary lies, and why one subject rather than nested ones"). They have different literatures and different status, and the article should keep them apart:
 
-1. **Level 1 — fine-grained factorisation (the TPS).** Which tensor factorisation of the total Hilbert space counts as "the" subsystems at all? *Literature*: Zanardi 2001; Zanardi, Lidar & Lloyd 2004; Tegmark 2015; Cotler et al. 2019; Carroll & Singh 2021; Kabernik, Pollack & Singh 2020; Loizeau & Sels 2024; Zanardi et al. 2024; Stoica 2022; Soulas et al. 2025. *Status*: contested. The best positive results (Cotler et al.) give generic uniqueness of a *local* TPS **given that a local presentation exists**; Stoica argues that anything fixed by *H* and |ψ⟩ alone is either non-unique or physically idle; Soulas et al. claim to reconcile the two in favour of uniqueness.
+1. **Level 1 — fine-grained factorisation (the TPS).** Which tensor factorisation of the total Hilbert space counts as "the" subsystems at all? *Literature*: Zanardi 2001; Zanardi, Lidar & Lloyd 2004; Tegmark 2015; Cotler et al. 2019; Carroll & Singh 2021; Kabernik, Pollack & Singh 2020; Loizeau & Sels 2024; Zanardi et al. 2024; Stoica 2022; Soulas et al. 2025. *Status*: contested. The best positive results (Cotler et al.) give generic uniqueness of a *local* TPS **given that a local presentation exists**; Stoica argues that anything fixed by *H* and |ψ⟩ alone is either non-unique or physically idle; Soulas et al. claim to reconcile the two in favour of uniqueness; Stoica (2026) replies that their construction is not a counterexample.
 2. **Level 2 — the subject's boundary (the coarse cut).** Given the elementary factors, which *collection* of them is the one entangled whole that is a subject? Brain? A microtubule network? Brain plus the environment it is already decohering into? *Literature*: IIT's exclusion postulate (classical analogue); Gómez-Emilsson & Percy 2023 (boundary problem, already in corpus); Carroll & Singh 2021 handles only one **system/environment bipartition** chosen for quasi-classicality, which is the observer's *object*, not the observer. *Status*: no quantum-specific solution located.
 3. **Level 3 — exclusion / nesting (the combination face).** Entangled subsystems of an entangled whole are themselves candidate wholes, and so are supersystems. Why exactly *one* subject and not a nested hierarchy? *Literature*: IIT 4.0's exclusion via "maximal existence"; Chalmers's subject-combination problem; Gambini & Pullin 2025 (entanglement *as* the subject-summing solution, from panprotopsychism); Ismael & Schaffer 2020 (quantum holism pushed to its limit gives priority monism, the cosmopsychist drift). *Status*: open.
 
@@ -95,7 +97,8 @@ Why the split matters for the Map. Level 1 is a problem for *everyone* who uses 
 ### Stoica (2022) and Soulas, Franzmann & Di Biagio (2025): the uniqueness dispute
 - Stoica: doi:10.4310/ATMP.2022.v26.n10.a12, *ATMP* 26(10) 3895–3962 (verified 2026-09-11). Abstract (raw arXiv, verbatim): "whenever such a structure emerges from the Hamiltonian and the state vector alone, if it is physically relevant, it is not unique." It explicitly covers "various proposals based on decoherence".
 - Soulas et al.: arXiv:2512.07468, preprint; its abstract says Cotler et al. has "been widely misinterpreted", that Stoica is "correct only in some weaker version", and that "a Hamiltonian and a state are enough structure to uniquely select a preferred tensor product structure."
-- **Article guidance**: state Level 1 as **unresolved as of 2025–26**. Neither side addresses minds.
+- Stoica (2026): arXiv:2603.07674, preprint reply; abstract: "Soulas et al.'s construction of a unique TPS can't be both invariant and compatible with physical observations, so it can't be a counterexample" (added 2026-10-12; see Correction above).
+- **Article guidance**: state Level 1 as **unresolved as of 2025–26**, and cite Stoica's reply alongside Soulas et al. Neither side addresses minds.
 
 ### Stoica (2025), "What makes you an observer?"
 - **URL**: https://arxiv.org/abs/2503.12959 · doi:10.1088/1742-6596/3017/1/012038 (Crossref: *Journal of Physics: Conference Series* 3017(1), 012038, 2025-06-01; conference proceedings)
@@ -173,7 +176,7 @@ Why the split matters for the Map. Level 1 is a problem for *everyone* who uses 
 
 ### Can a Hamiltonian fix a unique TPS?
 - **Sides**: Cotler et al. and Soulas et al. (yes, generically / with state) vs. Stoica (not if physically relevant).
-- **Current state**: open. Soulas et al. (Dec 2025) is a preprint. No published Carroll reply to Stoica was located (per the 2026-09-11 note).
+- **Current state**: open. Soulas et al. (Dec 2025) is a preprint; Stoica replied (arXiv:2603.07674, Mar 2026, preprint) that it is not a counterexample. No published Carroll reply to Stoica was located (per the 2026-09-11 note).
 
 ### Does entanglement solve or worsen the combination problem?
 - **Sides**: Gambini & Pullin (solves subject-summing); Ismael & Schaffer's holism and the Map's own L98 (it drifts toward one cosmic whole); Georgiev (factorisation means split minds).
@@ -208,6 +211,7 @@ Why the split matters for the Map. Level 1 is a problem for *everyone* who uses 
 | 2025 | Stoica, "What makes you an observer?" (J. Phys. Conf. Ser. 3017) | Structural non-uniqueness implies observers need intrinsic natures |
 | 2025 | Gambini & Pullin (JCS 32) | Entanglement as the solution to subject-summing |
 | 2025 (Dec) | Soulas, Franzmann & Di Biagio (arXiv) | Claims to reconcile Cotler and Stoica in favour of uniqueness |
+| 2026 (Mar) | Stoica (arXiv:2603.07674) | Reply: the construction cannot be both invariant and physically relevant, so it is not a counterexample |
 
 ## Potential Article Angles
 
@@ -226,7 +230,7 @@ When writing, follow `obsidian/project/writing-style.md` (named-anchor forward r
 
 ## Gaps in Research
 
-- **Full texts not read**: Carroll & Singh 2021 (algorithm), Kabernik et al. 2020, Zanardi et al. 2024, Soulas et al. 2025, Gambini & Pullin 2025/2025b, Ismael & Schaffer 2020, Barrett 2014, Georgiev 2020/2021. Claims above about them rest on abstracts. Anything beyond the abstract content is a **lead**.
+- **Full texts not read**: Carroll & Singh 2021 (algorithm), Kabernik et al. 2020, Zanardi et al. 2024, Soulas et al. 2025 (read 2026-10-12; see Correction), Gambini & Pullin 2025/2025b, Ismael & Schaffer 2020, Barrett 2014, Georgiev 2020/2021. Claims above about them rest on abstracts. Anything beyond the abstract content is a **lead**.
 - **Unverified metadata**: Stapp's *Zygon* volume, year and pages (Crossref gives 41(3), 2006, no pages; the DOI stem says 2005). Barrett & Mediano 2019 pages are from arXiv jref only (no Crossref record found). The Gao editorship of the Chalmers & McQueen volume is from memory (Crossref editor field empty). Barrett 2014's article number 63 comes from the DOI/URL, not a Crossref field.
 - **Ismael & Schaffer "scattered reflections"** phrasing is from a search summary. Verify against the Schaffer PDF (jonathanschaffer.org/quantumholism.pdf) before quoting.
 - **No dualist-interactionist treatment of the TPS problem as such was located.** Stapp answers Level 2 by stipulation. Chalmers & McQueen (dualist-friendly) have zero `factori` hits. Stoica 2025 is intrinsic-natures, not dualist. That absence is itself a finding the article can report, as "no interactionist treatment located as of 2026-09-25". Do not write "none exists."
@@ -248,6 +252,7 @@ When writing, follow `obsidian/project/writing-style.md` (named-anchor forward r
 11. Stoica, O. C. (2022). 3D-space and the preferred basis cannot uniquely emerge from the quantum structure. *Advances in Theoretical and Mathematical Physics*, 26(10), 3895–3962. doi:10.4310/ATMP.2022.v26.n10.a12. **Verified 2026-09-11.**
 12. Stoica, O. C. (2025). What makes you an observer? *Journal of Physics: Conference Series*, 3017(1), 012038. doi:10.1088/1742-6596/3017/1/012038. arXiv:2503.12959. **Crossref-verified; conference proceedings.**
 13. Soulas, A., Franzmann, G., & Di Biagio, A. (2025). On the emergence of preferred structures in quantum theory. arXiv:2512.07468. **Preprint.**
+13a. Stoica, O. C. (2026). Comment on "On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio. arXiv:2603.07674. **Preprint; added 2026-10-12, full text read.**
 14. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. *PLOS Computational Biology*, 19(10), e1011465. doi:10.1371/journal.pcbi.1011465. **Crossref-verified; quotes grep-verified in arXiv:2212.14787.**
 15. Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17(7), 450–461. doi:10.1038/nrn.2016.44. **Crossref-verified.**
 16. Barrett, A. B. (2014). An integration of integrated information theory with fundamental physics. *Frontiers in Psychology*, 5, 63. doi:10.3389/fpsyg.2014.00063. **Crossref-verified (volume, year); article number from DOI.**

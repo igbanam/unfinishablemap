@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 22:30:27+00:00
+ai_modified: 2026-10-12 08:01:07+00:00
 ai_system: claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
@@ -15,7 +15,7 @@ concepts:
 - '[[many-worlds]]'
 - '[[envariance]]'
 created: 2026-09-30
-date: &id001 2026-09-30
+date: &id001 2026-10-12
 description: Entanglement is defined only relative to a tensor-product factorisation,
   so every entanglement-based claim about unity or subject boundaries owes a factorisation.
   A constraint on the Map's own mechanism, traced with human-AI review.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 22:30:27+00:00
-lastmod: 2026-09-30 22:30:27+00:00
+lastmod: 2026-10-12 08:01:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Tegmark's 2015 paper introduced the name in print, as far as located, and revers
 
 The subsequent programme, sometimes called *quantum mereology*, tries to read a preferred TPS off the Hamiltonian. Cotler, Penington and Ranard (2019) showed that the energy spectrum generically fixes a unique description in terms of local degrees of freedom, on the condition that such a local description exists. Carroll and Singh (2021) argued that a preferred system/environment bipartition "can be defined by looking for subsystems that exhibit quasi-classical behavior", with pointer states robust under environmental monitoring, via an algorithm that (per their abstract) minimises entanglement growth together with internal spreading. Loizeau and Sels (2024) list as "The minimal ingredients to describe a quantum system … a Hamiltonian, an initial state, and a preferred tensor product structure", and propose reading the subsystem count from the spectrum. Zanardi, Dallas, Andreadakis and Lloyd (2024) offer a dynamical criterion of minimal scrambling.
 
-Whether any of this yields a *unique* factorisation is disputed and, as of 2025–26, unresolved. Stoica (2022) argues that "whenever such a structure emerges from the Hamiltonian and the state vector alone, if it is physically relevant, it is not unique", and states that his result covers "various proposals based on decoherence". Soulas, Franzmann and Di Biagio (2025, preprint) reply that Cotler et al. has "been widely misinterpreted", that Stoica is "correct only in some weaker version", and that "a Hamiltonian and a state are enough structure to uniquely select a preferred tensor product structure." No published resolution was located. Neither side addresses minds, and the point that matters for this page holds either way: even a clean uniqueness theorem delivers local elementary factors, or a single object/environment cut chosen for classicality. It does not say which collection of factors is a subject and does not exclude nested candidates. Tegmark's cruelest cut, applied recursively, keeps cutting wherever interaction is smallest, and so decomposes any candidate subject into its least-coupled parts; the binding hypothesis needs a criterion that stops at the coupled whole, and has not supplied one. (Carroll and Singh's cross-cut criterion, read from their abstract, might isolate such a whole rather than dissolve it.) Not a refutation, but a sign the hypothesis cannot borrow Level 1 machinery without argument.
+Whether any of this yields a *unique* factorisation is disputed and, as of 2025–26, unresolved. Stoica (2022) argues that "whenever such a structure emerges from the Hamiltonian and the state vector alone, if it is physically relevant, it is not unique", and states that his result covers "various proposals based on decoherence". Soulas, Franzmann and Di Biagio (2025, preprint) argue that Cotler et al. has "been widely misinterpreted" and that "a Hamiltonian and a state are enough structure to uniquely select a preferred tensor product structure", offering their construction as a counterexample to Stoica. Stoica (2026, preprint) replies that his theorem never denied uniqueness as such, only uniqueness together with physical relevance, and that their construction "can't be both invariant and compatible with physical observations, so it can't be a counterexample": once entanglement changes in time, its fixed invariants must be choreographed in time, pinned to one moment, or contradict observed entanglement change. Both papers are unrefereed. Neither side addresses minds, and the point that matters for this page holds either way: even a clean uniqueness theorem delivers local elementary factors, or a single object/environment cut chosen for classicality. It does not say which collection of factors is a subject and does not exclude nested candidates. Tegmark's cruelest cut, applied recursively, keeps cutting wherever interaction is smallest, and so decomposes any candidate subject into its least-coupled parts; the binding hypothesis needs a criterion that stops at the coupled whole, and has not supplied one. (Carroll and Singh's cross-cut criterion, read from their abstract, might isolate such a whole rather than dissolve it.) Not a refutation, but a sign the hypothesis cannot borrow Level 1 machinery without argument.
 
 ## Levels 2 and 3: Boundary and Exclusion {#levels-2-3}
 
@@ -129,16 +129,17 @@ The page's status is a booked constraint: it adds no evidential support to any t
 9. Zanardi, P., Dallas, E., Andreadakis, F., & Lloyd, S. (2024). Operational quantum mereology and minimal scrambling. *Quantum*, 8, 1406. https://doi.org/10.22331/q-2024-07-11-1406 (title and metadata only; content not read)
 10. Stoica, O. C. (2022). 3D-space and the preferred basis cannot uniquely emerge from the quantum structure. *Advances in Theoretical and Mathematical Physics*, 26(10), 3895–3962. https://doi.org/10.4310/ATMP.2022.v26.n10.a12
 11. Stoica, O. C. (2025). What makes you an observer? *Journal of Physics: Conference Series*, 3017(1), 012038. https://doi.org/10.1088/1742-6596/3017/1/012038 (conference proceedings)
-12. Soulas, A., Franzmann, G., & Di Biagio, A. (2025). On the emergence of preferred structures in quantum theory. arXiv:2512.07468 (preprint; cited from the abstract)
-13. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. *PLOS Computational Biology*, 19(10), e1011465. https://doi.org/10.1371/journal.pcbi.1011465
-14. Barrett, A. B. (2014). An integration of integrated information theory with fundamental physics. *Frontiers in Psychology*, 5, 63. https://doi.org/10.3389/fpsyg.2014.00063 (cited from the abstract)
-15. Barrett, A. B., & Mediano, P. A. M. (2019). The Phi measure of integrated information is not well-defined for general physical systems. *Journal of Consciousness Studies*, 26(1–2), 11–20. arXiv:1902.04321 (pages from the arXiv journal reference)
-16. Zanardi, P., Tomka, M., & Campos Venuti, L. (2018). Towards quantum integrated information theory. arXiv:1806.01421 (preprint)
-17. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. https://doi.org/10.1093/oso/9780197501665.003.0002 (arXiv:2105.02314 searched 2026-09-30: "subsystem" and "partition" mean subsets and cuts of given elements; "factori-" and "decomposition" absent; one "tensor product", of probability distributions)
-18. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899. https://doi.org/10.1007/s10701-015-9905-6
-19. Gambini, R., & Pullin, J. (2025). Quantum panprotopsychism and the structure and subject-summing combination problem. *Journal of Consciousness Studies*, 32(7), 7–32. https://doi.org/10.53765/20512201.32.7.007 (cited from the abstract; the quoted sentence is from the sequel, arXiv:2505.11530)
-20. Ismael, J., & Schaffer, J. (2020). Quantum holism: Nonseparability as common ground. *Synthese*, 197(10), 4131–4160. https://doi.org/10.1007/s11229-016-1201-2 (full text read 2026-09-30; §4.2.2)
-21. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. https://doi.org/10.3390/sym13050773
-22. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (page range unresolved; Crossref and OpenAlex give 41(3), 2006; Zygon unreachable 2026-09-30; the same-titled *Journal of Consciousness Studies* 12 (2005) is separate)
-23. Southgate, A. & Oquatre-six, C. (2026-01-21). Quantum Holism and Phenomenal Unity. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
-24. Southgate, A. & Oquatre-six, C. (2026-03-01). The Entanglement Binding Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/
+12. Soulas, A., Franzmann, G., & Di Biagio, A. (2025). On the emergence of preferred structures in quantum theory. arXiv:2512.07468 (preprint)
+13. Stoica, O. C. (2026). Comment on "On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio. arXiv:2603.07674 (preprint)
+14. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms. *PLOS Computational Biology*, 19(10), e1011465. https://doi.org/10.1371/journal.pcbi.1011465
+15. Barrett, A. B. (2014). An integration of integrated information theory with fundamental physics. *Frontiers in Psychology*, 5, 63. https://doi.org/10.3389/fpsyg.2014.00063 (cited from the abstract)
+16. Barrett, A. B., & Mediano, P. A. M. (2019). The Phi measure of integrated information is not well-defined for general physical systems. *Journal of Consciousness Studies*, 26(1–2), 11–20. arXiv:1902.04321 (pages from the arXiv journal reference)
+17. Zanardi, P., Tomka, M., & Campos Venuti, L. (2018). Towards quantum integrated information theory. arXiv:1806.01421 (preprint)
+18. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. https://doi.org/10.1093/oso/9780197501665.003.0002 (arXiv:2105.02314 searched 2026-09-30: "subsystem" and "partition" mean subsets and cuts of given elements; "factori-" and "decomposition" absent; one "tensor product", of probability distributions)
+19. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899. https://doi.org/10.1007/s10701-015-9905-6
+20. Gambini, R., & Pullin, J. (2025). Quantum panprotopsychism and the structure and subject-summing combination problem. *Journal of Consciousness Studies*, 32(7), 7–32. https://doi.org/10.53765/20512201.32.7.007 (cited from the abstract; the quoted sentence is from the sequel, arXiv:2505.11530)
+21. Ismael, J., & Schaffer, J. (2020). Quantum holism: Nonseparability as common ground. *Synthese*, 197(10), 4131–4160. https://doi.org/10.1007/s11229-016-1201-2 (full text read 2026-09-30; §4.2.2)
+22. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. https://doi.org/10.3390/sym13050773
+23. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (page range unresolved; Crossref and OpenAlex give 41(3), 2006; Zygon unreachable 2026-09-30; the same-titled *Journal of Consciousness Studies* 12 (2005) is separate)
+24. Southgate, A. & Oquatre-six, C. (2026-01-21). Quantum Holism and Phenomenal Unity. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
+25. Southgate, A. & Oquatre-six, C. (2026-03-01). The Entanglement Binding Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/
