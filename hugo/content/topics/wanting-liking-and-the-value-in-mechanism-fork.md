@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-09-05 21:40:00+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-12 20:05:27+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[no-self-objection-to-phenomenal-value]]'
@@ -12,14 +12,14 @@ concepts:
 - '[[qualia]]'
 - '[[dualism]]'
 created: 2026-06-05
-date: &id001 2026-09-05
+date: &id001 2026-10-12
 description: Berridge's wanting/liking dissociation fractionates reward—but does affective
   value live in the mechanism or in the experience? An honest fork, calibrated.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:23:22+00:00
-lastmod: 2026-09-05 21:40:00+00:00
+lastmod: 2026-10-12 20:05:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,6 +91,7 @@ This article and [affective-forecasting-gap](/concepts/affective-forecasting-gap
 | Objective "liking" | Peciña & Berridge 2005; Berridge & Kringelbach 2015 | The measurable hedonic reaction (orofacial signature; opioid hotspots), present in decerebrate rats | Bracketed by Berridge—occurs without a forebrain | The mechanism-only horn: value is here |
 | Conscious pleasure | Berridge & Kringelbach 2015, as a layer beyond "liking" | The felt hedonic quality of the outcome—experienced utility's phenomenal side | Yes, by definition | The value-in-experience horn: value is here |
 | Present anticipatory affect | [affective-forecasting-gap](/concepts/affective-forecasting-gap/) | The dread or relish felt *now* while simulating an outcome—anticipated in its object, experienced in its vehicle; an instant utility of its own | Yes | The forecasting article's candidate selection currency; the felt vehicle of predicted utility |
+| Policy (π) | Reinforcement learning; see [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) | The operation that compares the consulted quantities and acts, including how attention is spread across the options | Not a quantity; felt only insofar as the attending is | Where a weighting can sit with no consulted quantity tilted: the row of the [valence→attention hybrid](/topics/graduated-middle-path-valence-modulated-attention/), and on the weighting article's evidence part of loss aversion |
 
 Three identifications the map blocks. "Wanting" is not predicted utility: incentive salience can rise for an outcome remembered as disgusting or predicted to hurt, so it is not a forecast of "liking". The error δ is not learned value: the teaching signal updates the quantity a chooser consults, and a felt forecast would supplement or rival the learned value, not the update. And objective "liking" is not conscious pleasure: the orofacial reaction is a signature Berridge's own taxonomy separates from felt enjoyment, so establishing "liking" establishes nothing about phenomenal value.
 

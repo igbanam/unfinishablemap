@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T19:55:19+00:00
+ai_modified: 2026-10-12T20:07:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:07 - refine-draft
+- **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 2 (a), (a′), (b), (c). The review's exact old→new strings were applied unchanged. Each old string was confirmed to occur exactly once before editing.
+- **Status**: Success
+- **File (primary)**: [[topics/graduated-middle-path-valence-modulated-attention]]. Length 2,586 → **2,786** (`analyze_length`, ok; hard 4,000; +200, as costed).
+  - **(a)** L46: V(Oᵢ) is redefined from "the predicted felt goodness or badness of actualising Oᵢ" to the goodness or badness "as felt now in anticipating it, the [[wanting-liking-and-the-value-in-mechanism-fork#shared-terminology|present anticipatory affect]] that carries its forecast". This aligns the modulator with the canonical map row and with P-VS1 (08-27, `aae02f38f3`).
+  - **(a′)** L46: adds the second flagged assumption, that the forecast is carried by felt anticipation. If it is computed unfelt, the modulator is predicted utility and the non-epiphenomenality audit concerns a forecast, not felt valence.
+  - **(b)** L50: replaces the felt-value/mechanism binary sentence. The weighting article's five candidate rows are named, with none fixed, and the middle path still inherits the question unresolved, but the evidence leans toward its coupling. Supporting evidence: Yechiam & Hochman 2013 (attention-allocation model, verbatim quote) and Yechiam & Zeif 2025 (λ ≈ 1.07 under symmetric, unordered amounts). Closes on the Hardline Empiricist qualifier: "no evidence that anything in it is felt, since attention can be allocated without feeling."
+  - **(b-ref)** References 7 (Yechiam & Hochman 2013) and 8 (Yechiam & Zeif 2025) were appended.
+  - Untouched, per the 07-18 stability notes: the clamp table, the weak/strong readings, the "Non-Epiphenomenality, Audited" section, and every conditionalisation. The page stays at "live hypothesis". (a′) and (b) add conditions and upgrade nothing.
+- **File (secondary)**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]. Length 3,023 → **3,088** (soft_warning; hard 4,000; +65, as costed).
+  - **(c)** The shared terminology map gains a "Policy (π)" row after "Present anticipatory affect". The table wikilink pipe is escaped as `\|`. One row is added and none is changed; the map stays descriptive (08-27 notes). The forecasting page links the map rather than copying it, so nothing needed propagating.
+- **Verification** (fresh this session, matched by script):
+  - **Yechiam & Hochman 2013**: OpenAlex abstract (inverted index rebuilt), where the quote "asymmetric effects of losses on behavior emerge where gains and losses are presented separately but not concurrently" matches verbatim. "Losses increase on-task attention" also appears there. Crossref: Psychological Bulletin 139(2) 497–518, doi 10.1037/a0029383.
+  - **Yechiam & Zeif 2025**: Crossref gives J. Econ. Psychol. 107, article number 102801, doi 10.1016/j.joep.2025.102801, PII S0167487025000133. RePEc abstract (`ideas.repec.org/a/eee/joepsy/v107y2025ics0167487025000133.html`): "symmetric gains and losses and no ordering of items, the loss aversion parameter was approximately 1.07 and not significantly above 1.0". Neither Crossref nor OpenAlex carries an abstract for this paper.
+- **Charpentier check** (driver note 5): no tension. The weighting page's own L63 reads Charpentier et al. 2016 (no tilt in expected or experienced feelings; losses weighed more only at choice, in mixed gambles) as pointing "to the selection policy … rather than the forecast". That is the row (b) says the evidence leans toward, so Charpentier strengthens (b)'s lean rather than cutting against it. The weighting page was not edited.
+- **Reasoning mode**: no named-opponent engagement was changed. Yechiam is evidence, not an opponent.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
 
 ## 19:55 - refine-draft
 - **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 1 (a)–(c). Applied with the driver's two cautions from research note `research/miswanting-and-forecast-driven-mischoice-2026-10-12`.
