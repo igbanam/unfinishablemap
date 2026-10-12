@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-11 07:58:23+00:00
+ai_modified: 2026-10-12 05:56:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-12 05:56:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Alfred Mele sharpened this into **present luck** (nothing about the agent explai
 
 ## Libertarian Replies Before the Map
 
-**Event-causal libertarianism** (Kane, Balaguer, Ekstrom) has mental events cause actions through nondeterministic processes. Kane locates indeterminacy in the *effort of will* during "self-forming actions", where the agent is torn between incompatible options and makes effort toward each. His condition of *plural voluntary control* requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally and intentionally; such actions form character, making agents ultimately responsible for later choices flowing from it. Kane's 2024 *Complex Tapestry of Free Will* incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control"—a convergence suggesting the event-causal/agent-causal divide is less fundamental than it looked. The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it. See [event-causal-libertarianism](/topics/event-causal-libertarianism/).
+**Event-causal libertarianism** (Kane, Balaguer, Ekstrom) has mental events cause actions through nondeterministic processes. Kane locates indeterminacy in the *effort of will* during "self-forming actions", where the agent is torn between incompatible options and makes effort toward each. His condition of *plural voluntary control* requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally and intentionally; such actions form character, making agents ultimately responsible for later choices flowing from it. Kane's 2024 *Complex Tapestry of Free Will* incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control"—a naturalistic hybrid, rivalling the Map's dualist account of agency. The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it. See [event-causal-libertarianism](/topics/event-causal-libertarianism/).
 
 **Agent-causal libertarianism** (the Map's wing, with Chisholm, O'Connor and Lowe) has the agent, as a persisting substance, directly cause actions. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event); Lowe argued all causation is fundamentally substance causation, with event causation a derivative shorthand. Critics find this unsatisfying, since "the agent caused it" appears to name the explanandum rather than supply an explanans. Agent-causalists answer that demanding further explanation already assumes event-causal reduction, and that if agent causation is sui generis the explanatory buck stops at the agent. The exchange can feel like an impasse—which is where the Map's framework tries to add content. See [agent-causation](/concepts/agent-causation/).
 

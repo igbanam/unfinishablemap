@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 05:28:58+00:00
+ai_modified: 2026-10-12 05:57:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 05:28:58+00:00
+lastmod: 2026-10-12 05:57:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:57 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/) (secondary: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/))
+- **Review files**: [outer-review-2026-10-12-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-12-chatgpt-5-6-sol-pro/), [outer-review-2026-10-12-gemini-2-5-pro](/reviews/outer-review-2026-10-12-gemini-2-5-pro/), [outer-review-synthesis-2026-10-12](/reviews/outer-review-synthesis-2026-10-12/)
+- **Original score**: 6/10 (attribution axis). Two misattributions (O'Connor, Jacobs & O'Connor), one stance error (Kane as convergence), one over-wide taxonomy (dualism-or-collapse) and one unsupported directedness clause.
+- **Word count**: agent-causation 3487 → 3483 (−4); quantum-indeterminacy-free-will 3493 → 3491 (−2). The shared agent-causation budget for the calibration P1 and the empirical-precision P2 is now 16 words (finish at or below 3,499; the gate is `>=`).
+- **Changes**:
+  1. L95 O'Connor: "developed substance causation where all causation is agents exercising powers" → "added emergent agent-causal power to a world of event causation". Verified in the J&O 2013 primary PDF (toconnor.org): "the causes of events that do not involve agents… are events", "the addition of a new kind of causation", and fn. 21 "ontologically emergent substances within an event-causal powers metaphysics". Bailey's review of *Persons and Causes* confirms the 2000 book's "'emergentist' metaphysics" with emergent properties of the agent.
+  2. L95 Jacobs & O'Connor: merged into the Lowe sentence ("a view Jacobs and O'Connor (2013) explore for agent causation without endorsing"). This fixes both the stance (§7 verbatim: "We have not here endorsed, let alone argued for, the substance causation metaphysics. Our aim was only to explore…") and the referent (old "this" pointed at Hasker's emergent dualism). Hasker now closes the paragraph.
+  3. L71 Kane: "Kane's 2024 work now incorporates agent-causal elements" → "Kane's agent-causal/event-causal view (2024) is a naturalistic rival". L183: "Kane's 2024 convergence" → "Kane's naturalistic hybrid". **Found during verification**: Crossref's chapter abstract for Kane 2024 ch. 5 (10.1093/oso/9780197751404.003.0005) says "One can and must affirm both; and neither is reducible to the other". It calls the view "an agent-causal/event-causal, or AC/EC, view" and the agent "an information-responsive complex dynamical system, exercising teleological guidance control". So "AC/EC" is Kane's own label (not "synthesis"); the article uses only the spelled-out form. The same abstract confirms that the secondary file's quote is verbatim for 2024. Ch. 8's abstract says Kane "looks for convergences" with agent-causal views, so "rival" is scoped to the naturalism-versus-dualism divide.
+  4. L174: "agent causation requires the agent to be ontologically distinct from physical events, or it collapses into event causation" → the Dualism tenet "is essential to the Map's agent causation, whose agent is irreducible to physical processes, though not to every agent-causal view". The general dualism-or-collapse taxonomy is removed.
+  5. Secondary L89: "a convergence suggesting the event-causal/agent-causal divide is less fundamental than it looked" → "a naturalistic hybrid, rivalling the Map's dualist account of agency".
+  6. L71: cut "a literal directedness event-causal accounts render metaphorical" (−7). A physically implemented goal representation, or Kane's teleological guidance control, claims that directedness for a naturalistic agent, and the paragraph gave no argument against it.
+- **Not installed (budget)**: Potter & Mitchell 2026 (*Synthese* 207(5):209) and D. Moore 2026 (*Phil. Studies* 183(8):2471–2493) were both re-verified at Crossref but left out. Each would cost about 13 words of reference apparatus on top of the body clause. L174 is scoped without naming rivals. The O'Connor (2000) line and the Kane line now carry the non-dualist agent-causal example inside the article. Full engagement with both papers belongs in [event-causal-libertarianism](/topics/event-causal-libertarianism/).
+- **Engagement classification (editor-internal)**: Kane, Mode Three. The disagreement is marked at the naturalism/dualism boundary, and no in-framework refutation is claimed. L174 dichotomy, Mode Three. It removes boundary-substitution, in which a tenet commitment had been presented as a taxonomic necessity for all agent causation. The L71 directedness clause was also boundary-substitution, an unargued claim against the rival; it was cut rather than upgraded, since no in-framework argument fits the budget. O'Connor and J&O: attribution repairs, not opponent engagement.
+- **Not touched**: the L71 Consequence Argument clause (per synthesis). L178's "the disappearing-agent objection that event causation cannot" is a possible residual of the same cluster (Kane's AC/EC claims to answer it), but it is outside this task's item list.
+- **Published**: yes
 
 ## 05:41 - deep-review
 - **Status**: Success
