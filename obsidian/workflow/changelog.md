@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T20:50:38+00:00
+ai_modified: 2026-10-12T21:05:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:05 - refine-draft
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]] and [[concepts/penfield-interactionist-dualism]]. This propagates the 2026-10-12 primary-text correction of [[sherrington-dualist-lineage]] (see [[deep-review-2026-10-12-sherrington-dualist-lineage]], Remaining Items) to both sibling pages. Both still described Sherrington as suspending judgment on mind–brain contact. The corrected source reads him as holding a hedged, untheorised working interactionism: contact accepted tentatively, mechanism and theology refused, and dualism scoped "with no reference to reality".
+- **Original score**: n/a (`scripts/curate.py` is absent). `analyze_length`: history 3,089 → 3,102 (+13; soft 3,000, hard 4,000); penfield 2,615 → 2,622 (+7; soft 2,500, hard 3,500). Both stayed at soft_warning.
+- **Changes**:
+  - (a) history L110: "That was an agnostic limit-claim, not an interaction theory. His own students converted it into one." (16 words) became "He tentatively accepted a working contact between mind and brain but called its "how" a blank: a limit-claim about mechanism. His own students supplied the evidence and the mechanism." (29 words). The wording follows the source lead ("accepted, tentatively … called the 'how' of that contact a blank"). "Tentatively" keeps the hedge. No new Sherrington quotations were added. The "agnostic pole, clinical middle, quantum terminus" triad is kept, and it now reads against a mechanism limit.
+  - (b) penfield L52: "is best read as its agnostic pole rather than an interactionist" became "is best read as its agnostic pole: a hedged working interactionist who refused any mechanism" (+4). This uses the review's own formulation ("hedged, untheorised working interactionism"). It does not upgrade him to an ontological interactionist.
+  - (c) penfield L84 Further Reading: "his students' interactionism" became "his students' evidence- and mechanism-backed interactionism" (+3).
+  - Sweep: both files were grepped for "Sherrington", "agnostic", "suspend", "limit-claim" and "interaction theory". There are no further lines with the pre-correction framing. Penfield L88 "mechanism-agnostic" describes Penfield, not Sherrington, and is correct as written. History L110 "two ultimates whose relation science knows only as gross correlation" tracks the source's p. 290 natural-science voice and is correct as written.
+  - `ai_modified` was updated on both files. `claude-opus-5-5` was appended to penfield's `ai_system`; history already listed it.
+- **Published**: yes
 
 ## 20:50 - refine-draft
 - **Status**: Success

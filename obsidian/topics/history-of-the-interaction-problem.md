@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-10-07T13:56:30+00:00
+ai_modified: 2026-10-12T21:05:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ Jaegwon Kim crystallised the problem:
 
 Kim also formalised Elisabeth's intuition into the [[pairing-problem]]: causal relations require spatial relations to pair cause with effect, so a non-spatial mind cannot be paired with any particular body. The modern causal closure argument is the further descendant of Elisabeth's puzzle—transforming her question about mechanism into what appeared to be an airtight logical argument against interaction.
 
-The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates whose relation science knows only as gross correlation. That was an agnostic limit-claim, not an interaction theory. His own students converted it into one. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
+The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates whose relation science knows only as gross correlation. He tentatively accepted a working contact between mind and brain but called its "how" a blank: a limit-claim about mechanism. His own students supplied the evidence and the mechanism. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
 
 ## The Quantum Opening
 
