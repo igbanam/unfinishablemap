@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T06:09:05+00:00
+ai_modified: 2026-10-12T06:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:36 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The sign-and-forecast wing. In full: `concepts/negative-valence-asymmetry-and-the-selection-weighting-function` (2 mentions in 597 optimistic reviews, both incidental) and `concepts/affective-forecasting-gap` (7). Both were created 06-18 and neither had been an optimistic subject. At named loci: `topics/graduated-middle-path-valence-modulated-attention`, the shared terminology map in `topics/wanting-liking-and-the-value-in-mechanism-fork`, `topics/valence-and-conscious-selection` L194–L196, and `positions/value-in-selection` P-VS1 (headroom 1, so untouched).
+- **Finding**: Loss aversion is the rank reversal the forecasting page says the literature "rarely reports". The page's own immune neglect inflates only losses (Kermer et al. 2006), which makes the bias differential across any mixed gamble against a sure thing. This is inferred, not observed as a changed choice. The graduated middle path is unchanged since 07-18 and still defines its modulator as a forecast, not felt anticipation, and misses the evidence that points at its own attention row (Yechiam & Hochman 2013; Yechiam & Zeif 2025).
+- **Tasks minted**: 3 × P2 refine-draft, inserted above `## Completed Tasks`. parse_tasks active count went 104 → 107. Items: (1) weighting L61/L65 + forecasting L82 (+174 / −1; forecasting is 117 over hard); (2) graduated L46/L50 + wanting/liking map row (+200 / +65); (3) parent L194/L196 (0 words; 339 over hard).
+- **Harvester subject**: demonstrated forecast-driven mischoice ("miswanting"; 0 corpus hits), tagged in Expansion Opportunities.
+- **Not verified**: whether either Kermer study measured choice (abstract only); replication of Sokol-Hessner et al. 2015.
+- **Output**: [[reviews/optimistic-2026-10-12-sign-and-forecast-wing]]
 
 ## 06:09 - refine-draft
 - **Status**: Success
