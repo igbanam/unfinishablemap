@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 10:50:42+00:00
+ai_modified: 2026-10-12 11:05:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 10:50:42+00:00
+lastmod: 2026-10-12 11:05:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:05 - refine-draft
+- **Status**: Success
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) (Goff refile, neighbours list, Kastrup unquote; also [dualism-cartography](/apex/dualism-cartography/))
+- **Review**: [optimistic-2026-10-11-quadrant-geometry-wing](/reviews/optimistic-2026-10-11-quadrant-geometry-wing/), Priority List item 2 (a)–(f). This is the sibling pass to the 10:50 articulability/taxonomy refine. The old and new strings were pulled from the review by script, and after the 07:19Z Saad reference fix landed each old string was re-confirmed to occur exactly once before replacement. Reference 8 (L184) was not touched.
+- **Original score**: 6/10 on this narrow axis. Both pages still filed Goff's priority cosmopsychism in Q4, against the 08-03 taxonomy refile (`681f58127e`; taxonomy L114, "a monist limit case toward which Q3 points"). Both neighbours lists put a mind-only Myers–James inflation under drift toward Q4, against mechanism-costs' own L97 and taxonomy L107/L113. Mechanism-costs said the Bidirectional Interaction tenet loses its grip on Q3 drift "in any case", which contradicts its own L105 (stable Q3-adjacent dualism held by a selection-only channel plus bidirectional symmetry).
+- **Changes** (words are body counts from `analyze_length`, gate `>=`):
+  - `mechanism-costs-dualism-thickness-quadrants`, 3,323 → 3,347 (+24; soft_warning, 652 words left under the 4,000 hard limit).
+    - (a) L97: "Goff's priority cosmopsychism, " added to the Q3 inhabitants list (+3). L109: the same phrase removed from the Q4 list (−3). The sentence after L97 ("Most pure Q3 positions are strictly monist") keeps Goff flagged as a monist.
+    - (b) L99: Kastrup's quoted "matter is the extrinsic appearance of mental processes" becomes the paraphrase "Kastrup's claim that matter is the extrinsic appearance of mental processes" (+2). The quoted wording has not been verified verbatim in any Kastrup text (review item 3e), and today's research note on idealist answers to the transparency problem found 0 hits in Kastrup 2017.
+    - (c) L130: drift toward Q4 now inflates the physical side (quiddities, Bohmian hidden variables), "usually with a thicker mind beside it (a Stappian thick observer)" (−1).
+    - (d) L131: drift toward Q3 now inflates "the mental side alone (Myers–James subliminal selves) while physics stays lean". Short of the limit it is "still dualism", with a [sliding-boundary](/topics/q3-q4-sliding-boundary-and-transparency-problem/) link. At the limit "the cost is the Dualism tenet, and Bidirectional Interaction with it, since causation becomes intra-mental" (+23). "In any case" was dropped.
+  - `dualism-cartography`, 5,185 → 5,182 (−3; still hard_warning, 182 over).
+    - (e) L70: Goff added to the Q3 bullet (+3). L71: Goff removed from the Q4 bullet (−3). L121: "hybrids between them" → "hybrids toward Q3" (0), matching taxonomy L151 as of 10:50.
+    - (f) L125: the two drift sentences were replaced with the review's version (−2). The Q4 drift now inflates the physics beside a thicker mind. The Q3 drift is "still dualism short of the limit".
+    - **Addition beyond the review text** (−1): L117 "Q4 inhabitants (Descartes, Stapp, Goff)" → "(Descartes, Stapp)". After (e), leaving Goff there would have made the page file him in both Q3 and Q4.
+- **Cautions honoured**: cartography nets −3 (≤0 required). L184 is untouched. Goff stays marked as a monist in context on both pages (mechanism-costs L97 "strictly monist"; cartography L70 "mostly monist limit cases"). Wording matches the 10:50 articulability/taxonomy pass (mind-side expansion = Q3; Q3 drift as a cost, not a refutation).
+- **Mode classification**: none. No named-opponent engagement was touched.
+- **Residual (not fixed, out of scope)**: [panpsychism](/concepts/panpsychism/) L182 still says "full Russellian panpsychism and Goff's priority cosmopsychism sit in Q4". It is the same stale filing in a third sibling, and no queued task covers it. [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) L38 still quotes the unverified Kastrup string; that is already covered by review item 3(e).
+- **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text. `ai_system` is unchanged on both files.
+- **Published**: yes
 
 ## 10:50 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-10-12T07:19:43+00:00
+ai_modified: 2026-10-12T11:05:29+00:00
 last_deep_review: 2026-08-13T17:57:17+00:00
 draft: false
 topics:
@@ -94,9 +94,9 @@ Q2 appears to be the dialectical default for non-reductive positions in contempo
 
 ## Q3: Max-Mind / Min-Physical — The Appearance Debt {#q3}
 
-Q3 inhabitants — Berkeley's idealism, Kastrup's analytic idealism, Myers–James subliminal-mind views paired with lean physics, certain Jungian frameworks — let the mind expand while the physical side stays as lean as is consistent with the position's commitments. Most pure Q3 positions are strictly monist; they appear here for their illumination of what an adjacent dualism would commit to.
+Q3 inhabitants — Berkeley's idealism, Kastrup's analytic idealism, Goff's priority cosmopsychism, Myers–James subliminal-mind views paired with lean physics, certain Jungian frameworks — let the mind expand while the physical side stays as lean as is consistent with the position's commitments. Most pure Q3 positions are strictly monist; they appear here for their illumination of what an adjacent dualism would commit to.
 
-**Causation account.** Q3 appears to dissolve the mental-causation question. If everything is mental at base, then mental–physical causation may not be a relation between two ontological kinds; it could be the intrinsic dynamics of the one kind, appearing as physical-on-physical causation when viewed extrinsically. The dualist's interaction problem evaporates on this reading; in its place sits what might be called the *transparency problem* — explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Kastrup's "matter is the extrinsic appearance of mental processes" is the canonical move (see [[analytic-idealism-and-mind-centric-metaphysics]] for the Map's framing).
+**Causation account.** Q3 appears to dissolve the mental-causation question. If everything is mental at base, then mental–physical causation may not be a relation between two ontological kinds; it could be the intrinsic dynamics of the one kind, appearing as physical-on-physical causation when viewed extrinsically. The dualist's interaction problem evaporates on this reading; in its place sits what might be called the *transparency problem* — explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Kastrup's claim that matter is the extrinsic appearance of mental processes is the canonical move (see [[analytic-idealism-and-mind-centric-metaphysics]] for the Map's framing).
 
 **Interface specification.** Q3 has no interface in the dualist sense — only the extrinsic/intrinsic distinction. The "where does mind contact matter" question is replaced by "why does the intrinsic side appear as matter at all?" That is a different question with a different shape and a different burden of proof, but it is not lighter.
 
@@ -106,7 +106,7 @@ A genuine Q3 dualism — mind thick, physics thin, but both ontologically real �
 
 ## Q4: Max-Mind / Max-Physical — The Full Bill {#q4}
 
-Q4 inhabitants — Cartesian substance dualism, Aristotelian–Thomistic hylomorphism, Henry Stapp's quantum interactive dualism, Goff's priority cosmopsychism, Russellian panpsychism paired with full scientific realism — accept thickness on both sides. Each pays for what the other cells avoid.
+Q4 inhabitants — Cartesian substance dualism, Aristotelian–Thomistic hylomorphism, Henry Stapp's quantum interactive dualism, Russellian panpsychism paired with full scientific realism — accept thickness on both sides. Each pays for what the other cells avoid.
 
 **Causation account.** Q4 appears to owe a *robust* mental-causation account because mind is doing thick causal work in a physical world that is itself ontologically rich. Cartesian energy-transfer is the classical formulation and the historical cost; Stapp's quantum-Zeno-effect account is a contemporary attempt to keep the channel narrow (the agent's "process-1 choice of a probing action") while letting both endpoints stay thick. On the Map's reading, Stapp's framework seems to place a thick observer — a full agent with selection power — and a thick quantum ontology — full state-vector realism with potentialities treated as real — on either side of a narrow selection channel; thickness on both ends, parsimony on the contact. Whether Stapp's account succeeds in keeping the interaction channel narrow despite the thick endpoints is itself contested; Tegmark's (2000) decoherence-timescale objection bears on this directly, and [[born-rule-and-the-consciousness-interface]] tracks the current state of the debate.
 
@@ -127,8 +127,8 @@ The Map's [[tenets|five tenets]] — Dualism, Bidirectional Interaction, Minimal
 The Map's *neighbouring* cells deserve explicit comparison:
 
 - **Drift toward Q2** would relinquish the Bidirectional Interaction tenet and resolve the interface problem trivially (no interface needed). The cost is accepting epiphenomenalism's evasion of mental work.
-- **Drift toward Q4** would inflate the mental side (Myers–James subliminal selves, Stappian thick observer) and / or the physical side (Russellian quiddities, Bohmian hidden variables). The cost is paying a heavier interface and conservation bill in exchange for explanatory resources the lean position lacks.
-- **Drift toward Q3** would let the mental side expand until the physical side becomes extrinsic appearance, putting the Map adjacent to Kastrupian analytic idealism. The cost is losing the Dualism tenet at the limit and the Bidirectional Interaction tenet's grip in any case.
+- **Drift toward Q4** would inflate the physical side (Russellian quiddities, Bohmian hidden variables), usually with a thicker mind beside it (a Stappian thick observer). The cost is paying a heavier interface and conservation bill in exchange for explanatory resources the lean position lacks.
+- **Drift toward Q3** would inflate the mental side alone (Myers–James subliminal selves) while physics stays lean. Short of the limit this is still dualism, and [[q3-q4-sliding-boundary-and-transparency-problem|the sliding-boundary analysis]] names what would hold it there. At the limit the physical side becomes extrinsic appearance, putting the Map adjacent to Kastrupian analytic idealism; the cost is the Dualism tenet, and Bidirectional Interaction with it, since causation becomes intra-mental.
 
 The Map is not committed to a single cell; it is committed to a *region* of the taxonomy — physical-thin, mind-flexible, bidirectional — that excludes Q2 strict and the idealist limit of Q3.
 
