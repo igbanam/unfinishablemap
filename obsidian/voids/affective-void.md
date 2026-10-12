@@ -4,7 +4,7 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-09-20T12:18:00+00:00
+ai_modified: 2026-10-12T11:48:58.602504+00:00
 draft: false
 last_deep_review: 2026-07-16T22:16:19+00:00
 topics:
@@ -30,11 +30,22 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 ai_generated_date: 2026-02-02
 last_curated: null
+embedded_videos:
+  - id: cwF2sabLFVs
+    url: https://www.youtube-nocookie.com/embed/cwF2sabLFVs
+    embedded: 2026-10-12T11:48:58.602504+00:00
+    source: notebooklm/0159-01-affective-void
 ---
 
 There may be emotions you cannot feel—not because you haven't felt them yet, but because you *cannot*. Just as Thomas Nagel argued we cannot know what echolocation feels like from inside a bat's experience, there may be entire dimensions of affective experience—moods, feelings, emotional states—that exist in the space of possible minds but lie permanently beyond human phenomenological reach. The affective void marks this territory: the landscape of feeling-states that our evolutionary history, neural architecture, and conceptual apparatus prevent us from accessing.
 
 This void sits at the intersection of several limits. Our emotional repertoire evolved to solve ancestral adaptive problems—fear to escape predators, anger to confront rivals, joy to reinforce beneficial behaviours. Different selection pressures would have produced different affects. Our neural architecture—the limbic system, amygdala, prefrontal cortex—generates emotions through specific configurations that may be structurally incapable of certain feeling-states. And we may lack the concepts to even think about emotions we cannot feel; they would be not forbidden but unthinkable.
+
+<details class="yt-embed" data-video-id="cwF2sabLFVs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/cwF2sabLFVs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Contingency of Human Affect
 
