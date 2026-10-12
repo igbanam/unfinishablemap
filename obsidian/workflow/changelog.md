@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T07:14:00+00:00
+ai_modified: 2026-10-12T07:20:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:20 - refine-draft
+- **Status**: Success
+- **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]] (secondary: [[research/min-max-dualism-taxonomy-2026-04-21]])
+- **Review file**: [[deep-review-2026-10-11-completeness-in-physics-under-dualism]] (Saad ledger entry L49–52; out-of-scope spillover L168)
+- **Original score**: 9/10 on this narrow axis. One reference entry had wrong metadata; the article body was fine.
+- **Changes**:
+  - mechanism-costs reference 8 (L184) cited `Saad, B. (2025). "Delegatory Dualism."`, a title that does not exist. "Delegatory dualism" is the name of the view. Replaced with the Crossref-confirmed paper in the format `topics/delegatory-dualism` L269 uses: Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. doi 10.1007/s11098-025-02290-3. Kept the research-note summary link. Length 3316 → 3323 words (+7, all in the reference list). Status still soft_warning against the 3000/4000 thresholds.
+  - Research note L302: the same fix. Kept the internal-research-note link.
+  - Research note L148 heading and L280 table row: changed the label from `Saad, "Delegatory Dualism"` to `Saad, delegatory dualism` so the view name no longer reads as a title. The heading anchor `saad-delegatory-dualism-2025` is unchanged, and no page links to it anyway.
+  - No other live page carried the wrong title. The only remaining `"Delegatory Dualism"` string is the `title:` of `topics/delegatory-dualism`, which is correct. The archived `archive/concepts/causal-delegation` was left untouched.
+  - Coordination: the open P2 from the 2026-10-11 quadrant-geometry optimistic review (Goff to Q3, the drift lists, the Kastrup quote) was not touched.
+- **Published**: yes
 
 ## 07:14 - refine-draft
 - **Status**: Success

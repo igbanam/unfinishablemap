@@ -3,7 +3,7 @@ title: "Research Notes - Min/Max Dualism Taxonomy (Mind-Side × Physical-Side Th
 created: 2026-04-21
 modified: 2026-04-21
 human_modified: 2026-04-21
-ai_modified: 2026-04-21T09:50:00+00:00
+ai_modified: 2026-10-12T07:19:43+00:00
 draft: false
 description: "Two-axis taxonomy of dualist and dualist-adjacent positions by mind-side ontological thickness (bare experience vs rich subliminal mind) and physical-side ontological thickness (lean physics vs hidden variables / intrinsic natures)."
 topics:
@@ -145,7 +145,7 @@ Contemporary philosophy of mind sorts dualist positions almost entirely by the *
 - **Tenet alignment**: Neutral to conflicting — Stoljar aims to save physicalism; Map rejects reduction
 - **Quote**: *"We are currently ignorant of a type of non-experiential or physical fact that is relevant to the nature of consciousness."*
 
-### Saad, "Delegatory Dualism" (2025)
+### Saad, delegatory dualism (2025)
 - **URL**: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/ (internal research note summarising Saad)
 - **Type**: Contemporary paper summary (internal)
 - **Key points**:
@@ -277,7 +277,7 @@ Based on this research, an article (or pair of articles) could:
 | 2013 | Kastrup, *Why Materialism is Baloney* (and later works) | Kastrupian analytic idealism: sharpest recent max-mind/min-physical statement |
 | 2017 | Goff, *Consciousness and Fundamental Reality* | Priority cosmopsychism: Q4 variant with cosmic-level thickness |
 | 2019 | Nida-Rümelin, revised substance dualism | Thin-mind substance dualism — confirms thickness axis is independent of substance/property axis |
-| 2025 | Saad, "Delegatory Dualism" | Cleanest recent Q1 candidate: mental biasing without overdetermination |
+| 2025 | Saad, delegatory dualism | Cleanest recent Q1 candidate: mental biasing without overdetermination |
 
 ## Gaps in Research
 
@@ -299,7 +299,7 @@ Based on this research, an article (or pair of articles) could:
 - Myers, F. W. H. (1903). *Human Personality and Its Survival of Bodily Death*. Summary: https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers/
 - Nida-Rümelin, M. (2012/2019). Substance-dualist defence cited in SEP Dualism entry.
 - Russell, B. (1921). *The Analysis of Matter*. Discussed in SEP Russellian Monism: https://plato.stanford.edu/entries/russellian-monism/
-- Saad, B. (2025). "Delegatory Dualism." Internal research note: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+- Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3. Internal research note: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
 - Schneider, S. "Why Physical Monism and Property Dualism are Contradictory." https://www.newdualism.org/papers/S.Schneider/SchneiderPropertyDualism-July.htm
 - Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
 - Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford UP. https://philarchive.org/archive/STOTEA-6
