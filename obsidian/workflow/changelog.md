@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T14:57:49+00:00
+ai_modified: 2026-10-12T15:21:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:21 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the non-Western traditions wing, which had no prior pessimistic review on any of its four articles: [[topics/chinese-philosophy-of-mind]], [[topics/japanese-philosophy-of-mind-kyoto-school]], [[topics/mesoamerican-nahua-philosophy-of-mind]] and [[concepts/islamic-sufi-philosophy-of-consciousness]]. The hub [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] was read for context.
+- **Output**: [[reviews/pessimistic-2026-10-12-non-western-traditions-wing]]
+- **Findings (priority list, 4 items / 8 edit loci)**:
+  - (1, High) al-Ghazālī's "so utterly different in their essences that one cannot affect the other" (islamic-sufi L49) is Wikipedia's §Dualism sentence about the *Cartesian* motive for occasionalism, not his argument. The L75 drunkenness/health passage is the *Munqidh*'s, not the *Iḥyā'*'s.
+  - (2, High) Kyoto L48's Davis quotation "explicitly rejected simple monism, prioritizing radical individuality within interconnectedness" is absent from all 7 retrievable SEP editions (0 hits for "monism"; control "highly contentious" 1 hit in each). Re-source to Maraldo's verbatim Nishida sentence.
+  - (3, Medium-High) The basin-edge articles concede, via the framework-dependence reading, that the shared mind-matter partition generates the gap, then call the core inference "untouched" and the dissociation a "partial discharge" (chinese L91/L95; same claim at nahua L75, kyoto L80, hub L135).
+  - (4, Medium) islamic-sufi L85 parallels fanā' "heightened awareness" with *nirodha-samāpatti*, which the Map's own [[concepts/cessation-versus-plenitude]] puts at the cessation pole. L87 turns "awareness without an experiencer" into an "irreducible subject".
+- **Verification**: the al-Ghazālī string was traced via `git log -S` to research note L99 and confirmed verbatim in Wikipedia "Occasionalism" §Dualism. The *Munqidh* passage was confirmed in Watt's translation (ghazali.org). SEP Kyoto School raw HTML was curled for sum2024, fall2025, win2025, spr2026, sum2026, fall2026 and live, with positive controls. The Maraldo sentence was grepped in the live SEP entry. Maffie's IEP quotes (5/5) are verbatim, so that ledger stands. Heliyon 2019 (PMC6667669) raw text was grepped for B3; the Preprints.org copy returned 403, so B3 is partially verified and not queued.
+- **Headroom**: islamic-sufi 2,469 → 2,538 with items 1 and 4 applied to a scratch copy (concepts hard 3,500; headroom 961). Kyoto 2,552 → 2,568 (headroom 1,431). Chinese 2,640 → 2,676 (headroom 1,323). **The hub is at 3,995/4,000 (headroom 4)**, so its L135 counterpart to item 3 must be length-neutral.
+- **Background, not queued**: B1 Kyoto L82 polarity; B2 hub L116 `Kyoto School | Yes` (reported 09-11, still unqueued); B3 Avicenna "holism" transposed from a Bohmian model; B4 Nahua tripartite discount mis-scoped and "soul" rendering; B5 Bisṭāmī clause unverified; B6 two research notes still carry the bad quotes.
+- **Tasks added**: none. The review only reports; the driver mints from the priority list. todo.md was not touched and nothing was committed.
 
 ## 14:57 - refine-draft
 - **Status**: Success. This was the Maier 2018 disambiguation sweep. The driver flagged 24 loci (lines with both "Maier" and "regist"). All 24 were classified one at a time, with no blanket edit. 12 content files were edited, and a dated note was added to the P-Q3 calibration history.
