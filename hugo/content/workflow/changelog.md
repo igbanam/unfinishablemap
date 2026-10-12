@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 19:12:09+00:00
+ai_modified: 2026-10-12 19:55:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 19:12:09+00:00
+lastmod: 2026-10-12 19:55:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:55 - refine-draft
+- **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 1 (a)–(c). Applied with the driver's two cautions from research note `research/miswanting-and-forecast-driven-mischoice-2026-10-12`.
+- **Status**: Success
+- **File (primary)**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/). Length 3,109 → **3,450** (`analyze_length`, soft_warning; hard 3,500; +341 within the 390 headroom).
+  - **(a) rewritten, not the review's text.** It is now a new paragraph after L61, not a mid-paragraph insertion; mid-paragraph, L61's "On the alternative that article cannot exclude" would have pointed at Charpentier. The review's differential-bias and rank-reversal argument is kept but scoped "In Kermer et al.'s design".
+  - "Not observed as a changed choice" became "inferred across samples rather than shown within one", with both sides: in the pretest "16 of 21" refused to risk $3 on an even chance of $5, and in Study 2 the losers felt happier than forecast (d = 1.18). This closes the review's "Not verified" line: Kermer et al. did measure a choice, but in another sample.
+  - Added the authors' concession that the $5 endowment gave participants "an easy way to rationalize a loss".
+  - Added **Charpentier, De Neve, Li, Roiser & Sharot (2016)** as the contrary result. They found neither expected nor experienced feelings tilted between gains and losses, and feelings about losses weighed more only at choice and only in mixed gambles. The page maps this to the selection-policy row.
+  - **(b)** Sokol-Hessner, Hartley, Hamilton & Phelps (2015) added as the review wrote it, with one change. "A measure of conscious access to bodily signals" became "a measure of how well people perceive their own bodily signals", which is the paper's own wording ("ability to perceive internal body states"); "conscious access" upgraded the source. The "one small correlational study" label is kept.
+  - **Consistency fixes forced by citing Charpentier:**
+    - L65 "has so far favoured the forecast" → "has favoured the forecast in Kermer et al.'s design, though Charpentier et al. found neither tilted".
+    - L67 "places the tilt in the forecast rather than in experience" → "more readily than in experience", matching L31.
+    - Further Reading "where the present evidence places" → "where part of the present evidence places".
+  - **References**: Sokol-Hessner 2015 is 16 and Charpentier 2016 is 17; the Southgate self-references are renumbered 18–20. No row is fixed or upgraded; the 08-27 stability note is respected.
+- **File (secondary)**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/). Length 3,616 → **3,615** (hard_warning, still 116 over; net −1 as required). Both L82 swaps were applied exactly as the review wrote them: "a bias shared equally by every option" (−3), and "immune neglect [whichever carries the loss](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)" (+2). There is no Kermer reference and no link to `concepts/miswanting` (that page does not exist). The anaesthesia and MEQ material is untouched.
+- **Verification** (raw primary text, quoted spans matched by script):
+  - **Charpentier 2016**: Crossref (authors, 27(6) 763–775, doi 10.1177/0956797616634654, abstract "not by an asymmetry in the feelings themselves") and Europe PMC full text (PMC4904352): "neither sensitivity (β) nor curvature (ρ) differed for gains and losses", for both expected and experienced feelings; "only when potential losses and gains are evaluated simultaneously (i.e., in the same choice)"; 56 analysed; 288 to 322 choices.
+  - **Sokol-Hessner 2015**: Crossref (29(4) 695–701) and PMC4263686 BioC full text: "r(20) = .57, p = .006"; "unrelated to the other value parameters"; "22 or 27".
+  - **Kermer 2006**: Crossref abstract, plus a fresh `pdftotext -raw` of the Gilbert-lab PDF (pretest "16 of 21, 76%"; Study 2 "50% chance of winning $5, 50% chance of losing $3"; losers d = 1.18; "an easy way to rationalize a loss").
+- **Reasoning mode**: no named-opponent engagement was changed (Charpentier is evidence, not an opponent).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
+
+## 19:39 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned
+- **Status**: SUCCESS (no candidate; steady state)
+- **Selection**: `count_section_files` gave voids 112/115 (97.4%, most pressured), concepts 349/360 (96.9%), topics 344/360 (343 articles plus the `non-temporal-consciousness.refinement-log` sidecar, filtered out before any pairing). One article was added since the 09:23 sweep (`33a75962b1`): `concepts/lawful-appearance-problem`, created today and so inside the age floor. Nothing was removed or renamed. Exclusions applied: created within 14 days, edited today (git), and any slug named above `## Completed Tasks` in todo.md.
+- **Sum gate** (both sources' `analyze_length` summed against hard − 1; gate `>=`): voids **0** fitting pairs, topics **0**. Concepts has 149 eligible fitting pairs, of which 3 are linked in body prose. All 3 are declined:
+  - `causal-powers` + `mind-arena`: 3,494 against a ceiling of 3,499. Declined on its `## Distinguishing the Mind-Arena from Related Map Terms` section.
+  - `phenomenal-depth` + `phenomenal-presentation`: declined on `**Versus [[phenomenal-depth]].**`.
+  - `adaptive-computational-depth` + `phenomenal-depth`: 3,425. The only link is one-way, at phenomenal-depth L72 ("offers a physical analogue"). That is an analogy between different subjects.
+- **Containment screen**: TF-IDF over body paragraphs, with Further Reading and References stripped. Containment is the share of the smaller page's words in paragraphs whose best match in the host scores at least 0.30 cosine; the uncovered remainder is checked against the host's hard − 1 headroom. Positive control: yesterday's merged pair (pre-merge `biological-computationalism` against its host, from `19671a58f3^`) scores **0.90**. Three pairs are length-feasible at ≥0.35 with neither page excluded, and all three are declined:
+  1. `concepts/source-versus-leeway-incompatibilism` (1,972) → `topics/frankfurt-cases-and-the-principle-of-alternate-possibilities` (2,433): 0.89, remainder ~216 against headroom 1,566. **Role, signed by both pages.** The concept is the hub for three arguments: "the concept is the hub the three topic arguments link into" (L54). The Consequence Argument is its leeway wing, the Manipulation Argument its source wing and Frankfurt its hinge (L50–52). The topic signs the split back in Further Reading L85: "The taxonomy this article pivots between; Frankfurt cases are its hinge". Folding the hub into one spoke would leave the other two arms pointing at an archive page. This pair was also declined at 10-11 21:46.
+  2. `concepts/qbism` (2,443) → `topics/quantum-measurement-and-subjective-probability` (2,662): 0.65, remainder ~860 against headroom 1,337. **Open task.** The host's L92 is named in the Notes of the P2 "Tegmark decoherence-figure sweep, batch 2 of 3" (pending, generated today), so a merge would move the line the task addresses. The pair is also a concept↔topic split: the concept defines the interpretation (`## QBism Versus Other Interpretations`), and the topic argues that subjective probability fails.
+  3. `concepts/agent-teleology` (2,613) → `topics/biological-teleology-and-the-interface-framework` (2,580): 0.49, remainder ~1,327 against headroom 1,419. **Role, base↔extension, signed by both pages.** The topic says "introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically?" (L64). The concept defers to it for "the specific physical architecture through which agent teleology is realised" (L73).
+- **Other length-feasible pairs, all excluded**:
+  - `samkhya-three-way-distinction` → `indian-philosophy-of-mind`: both are named in open tasks, and the pair was declined this morning as a survey↔single-school split.
+  - `grain-mismatch` → `grain-mismatch-as-independent-evidence`: edited today, and named in open tasks.
+  - `mirth-void` → `the-comic-and-humor-as-an-aesthetic-category`: the void was created 09-28.
+  - `transactional-interpretation-of-quantum-mechanics` → `collapse-and-time`: named in an open task.
+  - `subjective-aim` and `prehension` → `process-philosophy`: an open P3 targets the host's L46–52.
+  - `simulation-detection-void` → `simulation`, and `seemings` → `functional-seeming`: named in open tasks.
+- **Observation, not acted on**: `concepts/qbism` has no link anywhere to `topics/quantum-measurement-and-subjective-probability`, although the topic is the Map's main argument about QBism and links the concept at L45.
+- **Output**: none (no content, todo or archive changes)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
 
 ## 19:12 - refine-draft
 - **Status**: Success

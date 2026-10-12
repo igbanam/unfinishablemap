@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T19:39:27+00:00
+ai_modified: 2026-10-12T19:55:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:55 - refine-draft
+- **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 1 (a)–(c). Applied with the driver's two cautions from research note `research/miswanting-and-forecast-driven-mischoice-2026-10-12`.
+- **Status**: Success
+- **File (primary)**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]. Length 3,109 → **3,450** (`analyze_length`, soft_warning; hard 3,500; +341 within the 390 headroom).
+  - **(a) rewritten, not the review's text.** It is now a new paragraph after L61, not a mid-paragraph insertion; mid-paragraph, L61's "On the alternative that article cannot exclude" would have pointed at Charpentier. The review's differential-bias and rank-reversal argument is kept but scoped "In Kermer et al.'s design".
+  - "Not observed as a changed choice" became "inferred across samples rather than shown within one", with both sides: in the pretest "16 of 21" refused to risk $3 on an even chance of $5, and in Study 2 the losers felt happier than forecast (d = 1.18). This closes the review's "Not verified" line: Kermer et al. did measure a choice, but in another sample.
+  - Added the authors' concession that the $5 endowment gave participants "an easy way to rationalize a loss".
+  - Added **Charpentier, De Neve, Li, Roiser & Sharot (2016)** as the contrary result. They found neither expected nor experienced feelings tilted between gains and losses, and feelings about losses weighed more only at choice and only in mixed gambles. The page maps this to the selection-policy row.
+  - **(b)** Sokol-Hessner, Hartley, Hamilton & Phelps (2015) added as the review wrote it, with one change. "A measure of conscious access to bodily signals" became "a measure of how well people perceive their own bodily signals", which is the paper's own wording ("ability to perceive internal body states"); "conscious access" upgraded the source. The "one small correlational study" label is kept.
+  - **Consistency fixes forced by citing Charpentier:**
+    - L65 "has so far favoured the forecast" → "has favoured the forecast in Kermer et al.'s design, though Charpentier et al. found neither tilted".
+    - L67 "places the tilt in the forecast rather than in experience" → "more readily than in experience", matching L31.
+    - Further Reading "where the present evidence places" → "where part of the present evidence places".
+  - **References**: Sokol-Hessner 2015 is 16 and Charpentier 2016 is 17; the Southgate self-references are renumbered 18–20. No row is fixed or upgraded; the 08-27 stability note is respected.
+- **File (secondary)**: [[concepts/affective-forecasting-gap]]. Length 3,616 → **3,615** (hard_warning, still 116 over; net −1 as required). Both L82 swaps were applied exactly as the review wrote them: "a bias shared equally by every option" (−3), and "immune neglect [[negative-valence-asymmetry-and-the-selection-weighting-function|whichever carries the loss]]" (+2). There is no Kermer reference and no link to `concepts/miswanting` (that page does not exist). The anaesthesia and MEQ material is untouched.
+- **Verification** (raw primary text, quoted spans matched by script):
+  - **Charpentier 2016**: Crossref (authors, 27(6) 763–775, doi 10.1177/0956797616634654, abstract "not by an asymmetry in the feelings themselves") and Europe PMC full text (PMC4904352): "neither sensitivity (β) nor curvature (ρ) differed for gains and losses", for both expected and experienced feelings; "only when potential losses and gains are evaluated simultaneously (i.e., in the same choice)"; 56 analysed; 288 to 322 choices.
+  - **Sokol-Hessner 2015**: Crossref (29(4) 695–701) and PMC4263686 BioC full text: "r(20) = .57, p = .006"; "unrelated to the other value parameters"; "22 or 27".
+  - **Kermer 2006**: Crossref abstract, plus a fresh `pdftotext -raw` of the Gilbert-lab PDF (pretest "16 of 21, 76%"; Study 2 "50% chance of winning $5, 50% chance of losing $3"; losers d = 1.18; "an easy way to rationalize a loss").
+- **Reasoning mode**: no named-opponent engagement was changed (Charpentier is evidence, not an opponent).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
 
 ## 19:39 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned

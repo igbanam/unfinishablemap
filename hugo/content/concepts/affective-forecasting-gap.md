@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-29 14:08:20+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-12 19:54:43+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[valence]]'
 created: 2026-06-18
-date: &id001 2026-09-05
+date: &id001 2026-10-12
 description: 'One candidate resolution of the Map''s open anticipated-vs-experienced
   valence question: the felt quality of anticipating selects, and forecasts conditionally.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 01:34:00+00:00
-lastmod: 2026-09-29 14:08:20+00:00
+lastmod: 2026-10-12 19:54:43+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -83,7 +83,7 @@ This softens the dilemma without cancelling the cost, and must not trade on an a
 
 The second sense also assumes the standard stays put. In the bias literature it does; in Paul's transformative choices and Pettigrew's weighting of selves whose values differ ([transformative-experience-void](/voids/transformative-experience-void/)) it does not—the divergence is a change of evaluator, not a mis-forecast, and aligning the forecast to a later self the choice partly produced is not obviously correct. Which self's valence the currency is calibrated against, the Map marks open; the table below still discriminates wherever the standard is fixed, its rows testing which input selection tracks, not whose valence it should.
 
-The gap's cost depends on what selection needs from its currency: a correct *ranking* of the live options, not their magnitudes, so a shared exaggeration of every option's predicted unpleasantness leaves the ordering intact and the bias bites only where it reverses ranks. The evidence above is almost all absolute; Moeck et al.'s relative accuracy runs the other way, and intensity—the component people report ranking on—being the best forecast shrinks the reversal-prone subset further. A reversal needs a salient event, a differential rather than shared bias—focalism inflates the focal option specifically—and a margin smaller than the differential. What the argument needs, and the literature rarely reports, is a *demonstrated* reversal: a forecast error shown to change the option chosen; short of that, absolute inaccuracy is no exhibit against a currency that still ranks correctly.
+The gap's cost depends on what selection needs from its currency: a correct *ranking* of the live options, not their magnitudes, so a bias shared equally by every option leaves the ordering intact and bites only where it reverses ranks. The evidence above is almost all absolute; Moeck et al.'s relative accuracy runs the other way, and intensity—the component people report ranking on—being the best forecast shrinks the reversal-prone subset further. A reversal needs a salient event, a differential bias—focalism inflates the focal option, immune neglect [whichever carries the loss](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)—and a margin smaller than the differential. What the argument needs, and the literature rarely reports, is a *demonstrated* reversal: a forecast error shown to change the option chosen; short of that, absolute inaccuracy is no exhibit against a currency that still ranks correctly.
 
 The distinction remains testable, though not by correcting the forecast and watching whether selection changes: a mechanism-only model whose input *is* the forecast predicts changed choice too, and a randomised defocusing instruction (N = 670) "did not improve affective forecasting accuracy" (Sobel Misieczko & Barber 2026). What discriminates is dissociating the inputs, in [P-VS2](/positions/value-in-selection/#p-vs2)'s battery framing:
 
