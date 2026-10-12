@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 01:50 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Original score**: n/a (targeted single-sentence fix; `scripts/curate.py` absent)
+- **Review file**: reviews/apex-evolve-2026-10-11-cross-apex-audit.md
+- **Changes**: L82 Phenomenal Intentionality Theory sentence no longer says a nonconscious system "has semantically empty symbols regardless of causal connections", which contradicted `topics/whether-language-model-words-refer` (current LLM words refer derivatively). Now: "genuine aboutness derives from consciousness, so a nonconscious system has none of its own, whatever its causal connections—at most a book's [derived reference](/topics/whether-language-model-words-refer/)", a compressed mirror of the fixed `apex/machine-question` L100 wording. The reply to both the systems reply (a nonconscious system) and the robot reply (whatever its causal connections) is kept. Funded inside the same sentence: "offers a response to" → "counters", dropped "itself", "a system lacking phenomenal consciousness" → "a nonconscious system", and the apex tail shortened to "at most a book's derived reference" (L80 directly above already says the symbols are about things only because humans assigned meaning).
+- **Word count**: 3997 → 3997 (net zero; hard 4000, gate `>=`).
+- **Frontmatter**: ai_modified 2026-10-12T01:50:40+00:00; ai_system unchanged.
+- **Published**: yes
+
 ## 01:47 - deep-review
 - **Status**: Success
 - **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
