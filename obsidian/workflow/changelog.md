@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T11:05:53+00:00
+ai_modified: 2026-10-12T11:21:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:21 - refine-draft
+- **Status**: Success
+- **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]] (stabilisers' reach, title boundary, articulability link, three citation-precision fixes)
+- **Review**: [[reviews/optimistic-2026-10-11-quadrant-geometry-wing]], Priority List item 3 (a)–(e). This is the third pass on this review, after 10:50 (item 1) and 11:05 (item 2). The old and new strings were pulled from the review by script. Each fragment was confirmed verbatim in the review, and each old string was confirmed to occur exactly once in the article before replacement.
+- **Original score**: 6/10 on this narrow axis (`scripts/curate.py` is absent). L92 claimed the stabilisers explain the *mechanism* by which the tenets enforce the Dualism tenet's ruling against idealism. But analytic idealism credits the same lawful menu to the structure of universal consciousness (`analytic-idealism` L54), so the stabilisers do no discriminating work there. The page applied the taxonomy's richness-versus-work split without citing it, and never said which way its titular Q3–Q4 boundary falls. L38 put an unverified Kastrup wording inside quotation marks. The Yogācāra gloss and reference were imprecise.
+- **Changes** (body words from `analyze_length`, gate `>=`): 2,859 → 3,018 (+159, as predicted; soft_warning, 982 words left under the 4,000 hard limit).
+  - (a) L92 (+54): "explains the *mechanism* by which the other tenets enforce that ruling rather than leaving it as a bare stipulation" now reads "shows which of the other tenets would keep an expansion from drifting toward it. It does not turn the ruling into a result." It goes on to note that Kastrup can credit the menu to universal consciousness's lawful structure (linked to the analytic-idealism framing page). It also says the Map's menu-supplier differs by the Dualism tenet's distinctness claim, not by the work it does.
+  - (b) L74 (+49): the second stabiliser "leans on the first". On analytic idealism, influence in both directions is one portion of consciousness affecting another (`analytic-idealism` L108, confirmed), so two-way dependence keeps two poles only if physics has work of its own, which the selection-only channel supplies.
+  - (c) L76 (+63): a title-boundary passage. On the taxonomy's structural-richness measure, thin-but-indispensable physics stays in Q3, and Q4 needs a physics enriched in its own right. Calling the expansion a drift toward Q4 counts causal work as thickness, a measure [[four-quadrant-dualism-taxonomy#limits-thickness|the taxonomy sets aside]]. The anchor `{#limits-thickness}` is confirmed at taxonomy L77, and the taxonomy says it "does not track causal work or channel width separately". "Full state-vector ontology" matches taxonomy L125.
+  - (d) L78 (0): "Q1's articulability burden" is now piped to [[concepts/articulability-of-q1]].
+  - (e) L38 (0): the quotation marks around "matter is the extrinsic appearance of mental processes" were removed, so it now reads as a paraphrase. Today's research note (L110) found 0 hits in Kastrup 2017. L54 (0): "(the *alaya* read as an absence of subject–object division)" → "(the rejection of subject–object duality at the ultimate level)", per SEP Szanyi 2024. L115 (−7): the Wallace reference was replaced with Szanyi, S. (2024), "Yogācāra", *SEP*. No body text cited Wallace.
+- **Cautions honoured**: the stabilisation claims keep their hedged register ("perhaps", "would", "structural argument"). Only L92's discriminating-work claim changed. The title and slug are unchanged. L52 "mother-sea" is untouched. `ai_system` is unchanged.
+- **Mode classification**: engagement with Kastrup/analytic idealism at L92 is Mode Three. The separation from Kastrup's lawful-structure menu is placed at the Dualism tenet's distinctness claim, a framework boundary, rather than claimed as refutation inside analytic idealism. L74 is also Mode Three. It concedes that idealism re-describes two-way influence as intra-mental, so the bidirectional stabiliser discriminates only by way of the selection-only channel.
+- **Weight claim (report only, not edited)**: L38's "The transparency problem is not lighter than the interface problem" **still stands** after this pass. The only L38 edit was the unquote. Item (a) now concedes parity of *work* between the Map's and Kastrup's menu-suppliers, which leaves the weight verdict more exposed against the withdrawal in [[apex/dualism-cartography]] L87 ("withdrawn for want of a scale"). The research note also flags L86 ("do not pay a heavy recovery debt") as the same kind of verdict. The queued P2 expand-topic for `concepts/lawful-appearance-problem` forbids *repeating* the claim on the new page and adds an inbound link from this page. Its Notes do not schedule deleting "not lighter than the interface problem;" from L38 (research note L235 proposes that ~0-word deletion), so that fix currently has no owner.
+- **Residual (pre-existing, not edited)**: L64 "The slide is not a mistake the philosopher makes; it is the position telling the truth about itself" is the "not X; it is Y" cliché. L84's "load-bearing" is arguably in its structural sense (a distinction the argument depends on).
+- **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text.
+- **Published**: yes
 
 ## 11:05 - refine-draft
 - **Status**: Success
