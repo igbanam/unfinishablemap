@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-05 22:36:11+00:00
+ai_modified: 2026-10-12 23:13:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[decoherence]]'
 created: 2026-02-22
-date: &id001 2026-05-26
+date: &id001 2026-10-12
 description: 'How consciousness moves the body: converging neuroscience levels the
   Libet playing field and reveals where a non-physical mind could influence motor
   selection.'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 23:02:58+00:00
-lastmod: 2026-10-05 22:36:11+00:00
+lastmod: 2026-10-12 23:13:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ This remains a candidate mechanism, not an established one. The Map's core argum
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is identified, not illuminated.
 
-For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. Revised estimates (Hagan et al. 2002) extend coherence to 10⁻⁵ to 10⁻⁴ seconds in microtubules, but this still falls short of a 300-millisecond decision window by a factor of 3,000 to 30,000—and even those longer estimates are contested: Reimers et al. (2009) and McKemmish et al. (2009) argue Hagan's parameters rest on microtubule properties not empirically established. Citing Hagan as a settled rebuttal of Tegmark would be selective citation; the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. Stapp denies that his mechanism depends on that gap closing: his 2000 reply to Tegmark says the Zeno effect "is not destroyed by the fact that" the brain state "is a mixture: that makes no difference at all", so on his account the hold works on the decohered state and need not outpace decoherence (see the [Process 1 specification problem](/concepts/process-1-specification-problem/)). Georgiev (2015) replies that a mind projecting in the basis decoherence has already fixed is redundant with it. That exchange is the open crux, and it leaves timing in the picture: on the standard theory repeated observation adds something only while it arrives before the environment has resolved the same alternatives (Kiefer & Joos 1998), and no source the Map has found computes where a brain sits. If observation must instead outpace decoherence, the burden is sharper still: at Hagan's revised scale the intervals would be 10⁻⁴ seconds or shorter, so a single 300-millisecond decision window would demand at least 3,000 discrete observation events, and 30,000 at the 10⁻⁵-second end, a rate no concrete model accounts for. Either way, timing is the largest empirical obstacle to the quantum Zeno candidate's *working*. A separate obstacle bears on its doing the thing the argument needs even if it works: nothing in the mechanism fixes whether frequent observation stabilises the attended program or accelerates its decay, and on the general physics acceleration is the more common outcome. The stabilising direction assumed above has to be argued for. See [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/).
+For the quantum Zeno candidate specifically, the [decoherence](/concepts/decoherence/) objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [twelve-order-of-magnitude gap](/concepts/timing-gap-problem/) from the millisecond timescales of neural competition. Revised estimates (Hagan et al. 2002) extend coherence to 10⁻⁵ to 10⁻⁴ seconds in microtubules, but this still falls short of a 300-millisecond decision window by a factor of 3,000 to 30,000—and even those longer estimates are contested: Reimers et al. (2009) and McKemmish et al. (2009) argue Hagan's parameters rest on microtubule properties not empirically established. Citing Hagan as a settled rebuttal of Tegmark would be selective citation; the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. Stapp denies that his mechanism depends on that gap closing: his 2000 reply to Tegmark says the Zeno effect "is not destroyed by the fact that" the brain state "is a mixture: that makes no difference at all", so on his account the hold works on the decohered state and need not outpace decoherence (see the [Process 1 specification problem](/concepts/process-1-specification-problem/)). Georgiev (2015) replies that a mind projecting in the basis decoherence has already fixed is redundant with it. That exchange is the open crux, and it leaves timing in the picture: on the standard theory repeated observation [adds something only while it arrives before the environment has resolved the same alternatives](/concepts/zeno-dynamics-on-a-decohered-mixture/) (Kiefer & Joos 1998), and no source the Map has found computes where a brain sits. If observation must instead outpace decoherence, the burden is sharper still: at Hagan's revised scale the intervals would be 10⁻⁴ seconds or shorter, so a single 300-millisecond decision window would demand at least 3,000 discrete observation events, and 30,000 at the 10⁻⁵-second end, a rate no concrete model accounts for. Either way, timing is the largest empirical obstacle to the quantum Zeno candidate's *working*. A separate obstacle bears on its doing the thing the argument needs even if it works: nothing in the mechanism fixes whether frequent observation stabilises the attended program or accelerates its decay, and on the general physics acceleration is the more common outcome. The stabilising direction assumed above has to be argued for. See [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/).
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T22:21:37+00:00
+ai_modified: 2026-10-12T23:15:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:15 - expand-topic
+- **Status**: Success
+- **Topic**: Zeno dynamics on a decohered mixture: does Stapp-style Zeno confinement survive decoherence into a mixture? (the quadratic window)
+- **Output**: [[concepts/zeno-dynamics-on-a-decohered-mixture]]
+- **Word count**: 2,194 body words (before Further Reading), 2,565 total by `analyze_length` (concepts soft 2,500, hard 3,500; status soft_warning, driven by the reference list)
+- **Based on research**: yes, [[zeno-dynamics-on-a-decohered-mixture-2026-10-05]]
+- **Notes**:
+  - Angle 1 of the note. The lead gives the answer: confinement of a mixture is unconditional and non-classical inside the quadratic window, and absent outside it. Stapp 2000 ("makes no difference at all") and Georgiev 2015 ("redundant") are presented as regime-limited truths. The toy model (R/Γ = 1 − (1 − e⁻ˣ)/x) and the strip-width scaling argument are labelled as the Map's working. No number is attached to a brain window.
+  - Quotes: all 29 source quotations were checked. 26 were matched verbatim by script, and 3 differ only by a nested-quote mark, a dropped equation number or a PDF page-number artefact (each checked in context). Sources were fresh arXiv `pdftotext` downloads (quant-ph/0201115, 0903.3297, quant-ph/0101037, quant-ph/9803052, quant-ph/0411145, quant-ph/0010029, 1412.4741, 0911.5388), Stapp's LBL `Reply.doc` draft, and the OpenAlex abstracts for Joos 1984 and Stapp 2015. Georgiev's redundancy sentence was verified verbatim at 1412.4741. Crossref metadata was checked for every reference. Kiefer & Joos is Springer 1999 (eds. Blanchard & Jadczyk); its LNP volume number is unconfirmed and was omitted.
+  - The toy-model figures were re-derived independently with an RK4 master-equation integration plus periodic projections: 0.902/0.681/0.368/0.136/0.048 against the formula's 0.900/0.683/0.368/0.136/0.048.
+  - Decoherence figures: only Tegmark's ~10⁻²⁰ s (ion positions, eqs. 10 and 13; verified in quant-ph/9907009) appears, labelled as the macroscopically-distinct-states figure. Neither 10⁻¹³ s nor Hagan is used. Stapp 2000 reports Tegmark's result as "10−23 seconds", which matches no Tegmark figure, so it is not carried.
+  - Forward search (OpenAlex cited-by on Georgiev 2015 IJMPB, Georgiev 2015 NQ, and Stapp 2012) turned up no work that computes the window.
+  - Integration: [[quantum-zeno-effect]] L78 got a piped link on "survives when the brain state is a mixture" plus one regime sentence, +34 words (3,126 → 3,160). [[motor-control-quantum-zeno]] L115 got a piped link on existing words, +0 (3,486 → 3,486).
+  - Cross-review registered in `task_chains.pending_cross_reviews`. The `pending_articles` entry was removed.
+- **Published**: yes
 
 ## 22:21 - refine-draft
 - **Status**: Success

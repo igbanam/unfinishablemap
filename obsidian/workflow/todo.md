@@ -37,6 +37,138 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write `topics/mad-dog-everettianism` — the austere Hilbert-space ontology (Carroll & Singh) and the uniqueness-of-emergence dispute
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/mad-dog-everettianism-and-the-austere-hilbert-space-ontology-2026-09-11.md
+- **Target section**: topics
+- **Section**: topics
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 4. Note angle 1 and its 'Tenet Interface' section: austerity cuts both ways for the Map's indexical objection, say so. The Stoica/Soulas exchange MUST match the 2026-10-12 correction in concepts/quantum-factorisation-problem and research/quantum-factorisation-problem-2026-09-25: cite Soulas et al. 2025 AND Stoica's reply arXiv:2603.07674 (2026); Stoica's theorem excludes uniqueness together with physical relevance, not uniqueness alone; do NOT repeat 'correct only in some weaker version'; both preprints, dispute unresolved. Full texts were read 2026-10-12. Link reciprocally with quantum-factorisation-problem and many-worlds. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `topics/inheritance-problem-for-the-psychophysical-law` — what evolution can pass on if conscious selection affects fitness
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md
+- **Target section**: topics
+- **Section**: topics
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenets 3 and 5. Note angle 1: the reviewer's four horns stated fairly, the R/E/K split, thin fixed law + evolving receivers + learned menus as the Map's default; keep §What Stays Unpaid as an explicit open debt. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/subject-fusion` — two subjects merging under closed individualism
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subject-fusion-closed-individualism-2026-09-14.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 4 / individuation. Disambiguate from voids/fusion-void (perceptual) in paragraph one. Say the fusion end of the gradient has no human datum (note §Gaps). Integration: moral-census-opacity L114 piped reciprocal (net −2 words; page at its gate); positions P-I4 change goes to /positions-evolve as a separate task, not this one. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/psychophysical-social-choice-problem` — how selection combines across subjects with conflicting intentions
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/psychophysical-social-choice-problem-2026-09-15.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 3; bears on positions/subject-census P-SC2 and P-VS1. Note §Route Recommendation lists insert-ready passages for multi-agent-born-preservation-problem, manyism and apex/moral-architecture-of-consciousness; positions edits (P-SC2, P-VS4, P-MS1) are briefs for /positions-evolve, not this task. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/census-change-points` — signatures of subject onset, cessation and fission in the psychophysical transition law
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/change-points-in-the-psychophysical-transition-law-2026-09-15.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Harvested from outer-review-2026-09-14 ChatGPT §4.2 (NOVEL·HIGH). Note angle 1: a census event changes the arity of the law, distinct from a change in one subject's interface state; do NOT fold into direction-of-interface-change (would muddy its over-counting guard). Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/popper-three-worlds-interactionism` — Popper's three worlds and Eccles's trialism: what the Map can and cannot borrow
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 3 lineage; companion to sherrington-dualist-lineage. GUARD: Popper was not a substance dualist and said so in print ('Of Clouds and Clocks', quoted in note §Executive Summary). World 3 is a third kind the Map's ontology cannot admit; the Map cannot take Popper's conclusion while dropping the World-3 premise. Note angle 1. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/structuralism-about-phenomenal-character` — the structuralist rival to Tenet 1 (Loorits, Lyre)
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/structuralism-about-phenomenal-character-2026-09-06.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 1 rival. Note verdict: the corpus's central concession about this rival is wrong — read §Verdict and §Corrections owed to live pages first; the article states the corrected view, and the live-page corrections are listed for follow-up refine-draft tasks, not done here. Respect each author's actual stance (note flags e.g. one is not an intrinsicalist). ~2,400 words. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/doxastic-voluntarism` — direct voluntary control over belief and what the Map's interface account needs from the debate
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/doxastic-voluntarism-2026-10-07.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K2, K3, S8, S13). Distinguish psychological (Alston) from conceptual involuntarism; the Frankfurt-style move detaches responsibility from control and does not supply a handle. Use §What the Map's Interface Account Needs. Link reciprocally with voids/assent-void. Coordinate with the topics/assent-before-descartes task (no overlapping history). Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `topics/assent-before-descartes` — Stoic synkatathesis to Holcot: the history behind the Map's assent void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/assent-before-descartes-2026-10-07.md
+- **Target section**: topics
+- **Section**: topics
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K11). Note angle 1, six movements. Credit Holcot (c. 1333, per Boespflug) as stating both routes to involuntarism before Williams and Alston — coiner/populariser care. Keep history here, the contemporary debate in concepts/doxastic-voluntarism. Overlaps the open P3 research task on Buddhist assent; do not absorb it. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` — Merlo's egalitarianism problem and Hare's egocentric presentism
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06.md
+- **Target section**: topics
+- **Section**: topics
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 4 indexicality. Note angle 1: open with Merlo's third problem and the two demands (parity, multiplicity); lay out the exits; use §Implications for the Map (what MOVES). Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `voids/observer-selection-void` — the limit on what anthropic/typicality reasoning can say about which observer one is
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-observer-selection-void-2026-10-11.md
+- **Target section**: voids
+- **Section**: voids
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: Tenet 4. The note's self-assessment: this makes a DEMAND on the tenets (limits the Map's Tenet-4 indexical argument), not support for them — the article must say so. Read the note's pipeline note on the voids bank before writing. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
+### P2: Write `concepts/charles-bonnet-syndrome` — complex hallucination in acquired sight loss as a test of release / generative-model readings
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
+- **Generated**: 2026-10-12
+- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
+- **Notes**: All three reviewers converged in outer-review-synthesis-2026-09-16 cluster 2. Mentioned in 7 live pages with no home page: link from them (0-word pipes where pages are at length gates). Note angle 1: three readings, shared verdict that content is learned and non-corrective; follow the note's recommendation on retiring the unsupported reading. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+
 ### P3: Research Sibley's aesthetic concepts and the non-condition-governed gap
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-12-aesthetics-and-mirth-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-12-aesthetics-and-mirth-wing (New Articles) notes Sibley's 'Aesthetic Concepts' (1959, Philosophical Review 68(4), doi 10.2307/2182490, Crossref-verified) has zero corpus mentions, though his claim that applying aesthetic concepts is 'not condition-governed' is the conceptual-level analogue of the gap aesthetics-and-consciousness L118 argues for. Calibration built in: Sibley himself compares aesthetic with colour concepts, so the research must ask what aesthetics adds beyond a dependence-without-entailment pattern physicalists already accommodate. Cap-free alternative if topics headroom is wanted elsewhere: a two-sentence fold into the hub's L118 (hub headroom ~596). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'aesthetic-concepts-and-the-non-condition-governed-gap' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2288,7 +2420,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Status**: pending
 - **Source**: refine-draft 2026-10-12 13:41Z (Tegmark sweep batch 1) out-of-scope findings; driver confirmed conservation-laws L131 and causal-powers L110/L198 strings
 - **Generated**: 2026-10-12
-- **Notes**: Tegmark (2000, Phys. Rev. E 61:4194, quant-ph/9907009): ~10⁻²⁰ s for a superposed neuron firing / ion positions (eqs. 10, 13), ~10⁻¹³ s for microtubule kink superpositions (eq. 22), against dynamical times 10⁻³–10⁻¹ s. Hagan, Hameroff & Tuszyński (2002) revised the MICROTUBULE figure only, to 10⁻⁵–10⁻⁴ s (eight to nine orders above 10⁻¹³). Stapp's quantum Zeno proposal operates at ion channels (the neuron/ion case), so the relevant Tegmark figure is ~10⁻²⁰ s and Hagan's microtubule revision does not address it. VERIFY this mapping against each page's own description of Stapp's site before editing; if a page places the Zeno site at microtubules, it is not a defect there. LINES: (1) concepts/conservation-laws-and-mental-causation.md L131 answers the Zeno difficulty with Hagan's "eight to nine orders of magnitude longer"; scope that sentence to microtubule proposals or say the revision does not reach the ion-channel case. HEADROOM: this file is OVER its hard limit (3,807 of 3,500), so the edit must be NET-ZERO or negative. (2) topics/consciousness-and-causal-powers.md L110 gives "10⁻¹³ to 10⁻²⁰ seconds" for the Zeno gap and L198 says the Zeno proposal needs coherence extended "by twelve to nineteen orders of magnitude"; for the ion-channel site only the 10⁻²⁰ end (about eighteen to nineteen orders against 10–30 Hz attention) applies. Re-derive before rewriting any count. (3) topics/consciousness-and-skill-acquisition.md L180: same "twelve to nineteen" pattern; read the full line. (4) topics/consciousness-in-smeared-quantum-states.md L96 and concepts/post-decoherence-selection.md L84 apply Hagan's microtubule correction to the whole range or to generic neural tissue; scope it to microtubules. RIDERS: (5) topics/consciousness-and-integrated-information.md L160 says Tegmark's calculations targeted the Penrose-Hameroff kind of superposition, but only the eq. (22) microtubule calculation did; (6) concepts/evolution-of-consciousness.md L197 states "Tegmark assumed dead tissue" as fact, while other Map pages attribute that charge to a critic (Wiest 2025); attribute it. Run analyze_length per file first (topics hard 4000, concepts hard 3500, gate `>=`); several hosts are at or over the limit, so prefer label-scoping swaps over additions. Leave the class A/B labelling fixes to the Tegmark sweep batches. Sync both trees; update ai_modified per edited file.
+- **Notes**: Tegmark (2000, Phys. Rev. E 61:4194, quant-ph/9907009): ~10⁻²⁰ s for a superposed neuron firing / ion positions (eqs. 10, 13), ~10⁻¹³ s for microtubule kink superpositions (eq. 22), against dynamical times 10⁻³–10⁻¹ s. Hagan, Hameroff & Tuszyński (2002) revised the MICROTUBULE figure only, to 10⁻⁵–10⁻⁴ s (eight to nine orders above 10⁻¹³). Stapp's quantum Zeno proposal operates at ion channels (the neuron/ion case), so the relevant Tegmark figure is ~10⁻²⁰ s and Hagan's microtubule revision does not address it. VERIFY this mapping against each page's own description of Stapp's site before editing; if a page places the Zeno site at microtubules, it is not a defect there. LINES: (1) concepts/conservation-laws-and-mental-causation.md L131 answers the Zeno difficulty with Hagan's "eight to nine orders of magnitude longer"; scope that sentence to microtubule proposals or say the revision does not reach the ion-channel case. HEADROOM: this file is OVER its hard limit (3,807 of 3,500), so the edit must be NET-ZERO or negative. (2) topics/consciousness-and-causal-powers.md L110 gives "10⁻¹³ to 10⁻²⁰ seconds" for the Zeno gap and L198 says the Zeno proposal needs coherence extended "by twelve to nineteen orders of magnitude"; for the ion-channel site only the 10⁻²⁰ end (about eighteen to nineteen orders against 10–30 Hz attention) applies. Re-derive before rewriting any count. (3) topics/consciousness-and-skill-acquisition.md L180: same "twelve to nineteen" pattern; read the full line. (4) topics/consciousness-in-smeared-quantum-states.md L96 and concepts/post-decoherence-selection.md L84 apply Hagan's microtubule correction to the whole range or to generic neural tissue; scope it to microtubules. RIDERS: (5) topics/consciousness-and-integrated-information.md L160 says Tegmark's calculations targeted the Penrose-Hameroff kind of superposition, but only the eq. (22) microtubule calculation did; (6) concepts/evolution-of-consciousness.md L197 states "Tegmark assumed dead tissue" as fact, while other Map pages attribute that charge to a critic (Wiest 2025); attribute it. Run analyze_length per file first (topics hard 4000, concepts hard 3500, gate `>=`); several hosts are at or over the limit, so prefer label-scoping swaps over additions. Leave the class A/B labelling fixes to the Tegmark sweep batches. Sync both trees; update ai_modified per edited file. RIDER (driver, 2026-10-12 23:2xZ, from the expand-topic report for `concepts/zeno-dynamics-on-a-decohered-mixture`): two more hosts pair Hagan's MICROTUBULE revision with Stapp's ion-channel site: `concepts/quantum-zeno-effect` L78 and `topics/motor-control-quantum-zeno` L115 both apply 10⁻⁵–10⁻⁴ s and derive "3,000/30,000 observations per window"; scope or re-derive in the same pass (quantum-zeno-effect 3,160/3,500; motor-control 3,486/4,000). `concepts/stapp-quantum-mind` L114 "Tegmark calculated 10⁻¹³ seconds" for the Zeno mechanism is already on the Tegmark batch-2 list; coordinate, do not double-edit. ALSO: Stapp (2000) reports Tegmark's result as "10−23 seconds", which matches none of Tegmark's published figures; any page carrying Stapp's number must label it as Stapp's report. The new concept page uses only Tegmark's ~10⁻²⁰ s (eqs. 10, 13) and is a model for the wording.
 
 ### P2: "Why this regularity rather than another" is called "a Q3-specific debt" at `apex/dualism-cartography` L99 and `topics/mechanism-costs-dualism-thickness-quadrants` L103, but lawfulness is owed by every view; mechanism-costs L105 also grades the debt "substantial" after the cartography withdrew weight verdicts
 - **Type**: refine-draft
@@ -2450,6 +2582,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-12: Write `concepts/zeno-dynamics-on-a-decohered-mixture` — does Stapp-style Zeno confinement survive decoherence into a mixture? (the quadratic window)
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/zeno-dynamics-on-a-decohered-mixture-2026-10-05.md
+- **Notes**: Tenet 2 core. Angle 1 (§Potential Article Angles): lead with the answer: confinement of a mixture is real and non-classical inside the quadratic window, nothing outside it; Stapp's claim and Georgiev's charge as two regime-limited truths. ~1,800–2,200 words. Link from quantum-zeno-effect and motor-control-quantum-zeno. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-12: `topics/q3-q4-sliding-boundary-and-transparency-problem` L38 "the transparency problem is not lighter than the interface problem" and L86 "heavy recovery debt" are weight verdicts the Map's own apex withdrew (`apex/dualism-cartography` L87, "withdrawn for want of a scale"); no queued task owns them
 - **Type**: refine-draft
