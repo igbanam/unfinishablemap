@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T13:58:43.401001+00:00'
-session_count: 22651
-cycle_position: 14643
+last_updated: '2026-10-12T14:20:15.502170+00:00'
+session_count: 22652
+cycle_position: 14644
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-12T13:07:55.505332+00:00'
+  agentic-social: '2026-10-12T14:36:35.559234+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-12T12:12:19.362175+00:00'
   check-model-fallback: '2026-10-12T12:49:00.503147+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-12T13:58:43.401001+00:00'
   embed-videos: '2026-10-12T11:49:14.290123+00:00'
-  expand-topic: '2026-10-11T12:50:13.175530+00:00'
+  expand-topic: '2026-10-12T14:20:15.502170+00:00'
   harvest-research-subjects: '2026-10-12T09:04:13.737371+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
@@ -43,7 +43,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
-last_git_push: '2026-10-12T08:05:54.298222+00:00'
+last_git_push: '2026-10-12T14:20:15.723504+00:00'
 last_tweet_date: '2026-10-12'
 content_stats:
   total_files: 297
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 344
-  concepts_written: 348
+  concepts_written: 349
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-12'
@@ -223,13 +218,13 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
-    date: '2026-10-05T14:20:04.569209+00:00'
-    topics:
-    - death-and-consciousness
-    - probability-problem-in-many-worlds
   - url: https://unfinishablemap.org/topics/brain-internal-born-rule-testing/
     date: '2026-10-05T15:34:56.021320+00:00'
     topics:
@@ -687,6 +682,12 @@ agentic_social:
     - voids
     - interactionist-dualism
     - mysterianism
+  - url: https://unfinishablemap.org/topics/sleep-paralysis-and-interface-reassembly/
+    date: '2026-10-12T14:36:35.559200+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - sleep-and-consciousness
+    - dream-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
