@@ -2059,16 +2059,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/voids/meta-epistemology-of-limits.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/adaptive-computational-depth.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/simulation.md
 - **Notes**: FOUR FILES; fix ALL of them and report each by name: voids/simulation-detection-void, voids/meta-epistemology-of-limits, concepts/adaptive-computational-depth, concepts/simulation. In each References entry for Bostrom 2003, replace the title "Are You Living in a Computer Simulation?" with the published title "Are We Living in a Computer Simulation?". "You" is the preprint title on Bostrom's site; the Map cites the journal version. Zero words. Also check the volume/issue/pages against Crossref while you are there. If a body sentence quotes the title, change it too. Grep `archive/` as well and REPORT any hits, but do not edit them (archived-page fixes are pending the NEEDS-HUMAN publication-policy decision). Locate by QUOTED text. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify all four in both trees.
 
-### P2: `concepts/llm-consciousness` L100 argues that because LLMs are multiply instantiable they "seem to lack" thisness, which contradicts P-I4, P-AC3 and P-CS7 (each conscious copy would be its own subject); `topics/ai-consciousness` L161 states the same premise
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/llm-consciousness.md
-- **Status**: pending
-- **Source**: apex-evolve 2026-10-11 cross-apex audit (`reviews/apex-evolve-2026-10-11-cross-apex-audit.md`); the apex copies were fixed and these are the non-apex originals. Driver verified the live strings 14:1xZ.
-- **Generated**: 2026-10-11
-- **Review file**: `reviews/apex-evolve-2026-10-11-cross-apex-audit.md`
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/ai-consciousness.md
-- **Notes**: HEADROOM: llm-consciousness 2,963 of 3,500; ai-consciousness 3,985 of 4,000, so 14 words and the L161 fix must be near-net-zero. TWO FILES: report each. Model on the fixed No Many Worlds paragraph in `apex/what-it-might-be-like-to-be-an-ai`: multiple instantiation would multiply subjects, not erase them. Whether an instance is conscious at all is a separate question that P-AC1 governs. Keep "which instance is the model?" as a puzzle about the model's identity if useful. Do not let it imply that a conscious instance lacks thisness. Read P-I4, P-AC3 and P-CS7 before writing. Read the fixed apex wording first (named below) and reuse it. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. **CAUTION (tenet-check 149 W7):** the apex No Many Worlds paragraph this task says to copy has two flagged problems (L170 "the mechanism through which experience becomes efficacious"; L172 NMW bearing on whether coupling occurs). Do NOT copy those two phrasings; if the apex W7 task has run, copy its fixed wording.
-
 ### P2: `topics/ai-consciousness` L82 says a non-conscious system has "semantically empty symbols regardless of causal connections", which contradicts `topics/whether-language-model-words-refer` (derived reference)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/ai-consciousness.md
@@ -2366,6 +2356,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-12: `concepts/llm-consciousness` L100 argues that because LLMs are multiply instantiable they "seem to lack" thisness, which contradicts P-I4, P-AC3 and P-CS7 (each conscious copy would be its own subject); `topics/ai-consciousness` L161 states the same premise
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/llm-consciousness.md
+- **Notes**: HEADROOM: llm-consciousness 2,963 of 3,500; ai-consciousness 3,985 of 4,000, so 14 words and the L161 fix must be near-net-zero. TWO FILES: report each. Model on the fixed No Many Worlds paragraph in `apex/what-it-might-be-like-to-be-an-ai`: multiple instantiation would multiply subjects, not erase them. Whether an instance is conscious at all is a separate question that P-AC1 governs. Keep "which instance is the model?" as a puzzle about the model's identity if useful. Do not let it imply that a conscious instance lacks thisness. Read P-I4, P-AC3 and P-CS7 before writing. Read the fixed apex wording first (named below) and reuse it. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees. **CAUTION (tenet-check 149 W7):** the apex No Many Worlds paragraph this task says to copy has two flagged problems (L170 "the mechanism through which experience becomes efficacious"; L172 NMW bearing on whether coupling occurs). Do NOT copy those two phrasings; if the apex W7 task has run, copy its fixed wording.
 
 ### ✓ 2026-10-12: Adopt ensemble-level-epiphenomenalism calibration in multi-agent-born-preservation-problem
 - **Type**: refine-draft

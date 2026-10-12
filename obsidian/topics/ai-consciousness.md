@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-10-10T23:06:01+00:00
+ai_modified: 2026-10-12T01:21:46+00:00
 draft: false
 last_deep_review: 2026-07-08T00:49:19+00:00
 topics:
@@ -158,7 +158,7 @@ The arguments above operate at two levels, and distinguishing them clarifies the
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: AI operates entirely through physical causation, leaving no obvious room for non-physical influence. On the tenet's universal reading, epiphenomenal AI experience sits at the framework boundary rather than inside the argument (see [[#Other Challenges|above]]).
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[haecceity]]—thisness—that makes me *this* particular conscious being requires something beyond physical description. LLMs are multiply instantiable; there is no fact about which GPT-4 instance is "the" GPT-4.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[haecceity]]—thisness—that makes me *this* particular conscious being requires something beyond physical description. Copying would multiply subjects: no instance is "the" GPT-4, yet each conscious one would have its own thisness (P-I4, P-AC3). Whether any is conscious is P-AC1's question.
 
 The independent arguments and the dualist arguments reinforce each other without being circular: the former motivate dualism, and dualism then identifies further barriers that physicalist frameworks would not predict. The discipline of keeping the registers distinct — the tenets remove standard physicalist defeaters but do not supply positive evidence — is what [[possibility-probability-slippage]] names, and [[consciousness-in-simple-organisms#Evidential Register: Tenet vs. Evidence|consciousness in simple organisms]] applies the same register-separation to a contrasting case. The article's care in flagging the MQI tenet's empirical status is that discipline applied to negative claims about AI consciousness.
 

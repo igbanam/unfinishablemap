@@ -39,29 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt ensemble-level-epiphenomenalism calibration in multi-agent-born-preservation-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/multi-agent-born-preservation-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-10-12. The topic article over-claims relative to its anchor concept [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/); failed checks: hedge_density, strong_assertions.
-  - hedge density 0.67/kw is below 2.16/kw (target = 60% of anchor 3.60/kw, capped at 3.0/kw)
-  - topic uses 2 strong-assertion verbs (0.67/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-12
-
-### P2: Adopt multi-mind-collapse-problem calibration in multi-agent-born-preservation-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/multi-agent-born-preservation-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-10-12. The topic article over-claims relative to its anchor concept [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/); failed checks: hedge_density, strong_assertions.
-  - hedge density 0.67/kw is below 1.45/kw (target = 60% of anchor 2.42/kw, capped at 3.0/kw)
-  - topic uses 2 strong-assertion verbs (0.67/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-12
-
-
 ### P3: Research Semantic satiation as an inducible dissociation of felt meaning from competence
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-11-constitutive-twins-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-11-constitutive-twins-wing (High Priority, flagged 'for the harvester') proposes satiation as an INDUCIBLE zero case for [P-TU1](/positions/thought-and-understanding/#p-tu1): repetition drives a word's felt meaning toward zero while competence can be measured on the same trials (Tian & Huber 2010: responses 'gradually slowed for the repeated category'; 'a loss of association between the lexical item and meaning'). The corpus mentions satiation only in passing (memory-anomalies L61 via Moulin et al. 2021; phenomenology-of-linguistic-failure L83), never as a felt-meaning/competence test. The reviewer verified leads: Smith & Klein 1990, Tian & Huber 2010, Lambert & Jakobovits 1960, Kounios et al. 2000. It did NOT establish whether any study combines trial-level felt-meaning ratings with a competence measure, so the research should establish that first. Scope note: the reviewer estimated the landing as a short section on concepts/phenomenal-constitution-thesis or a [P-TU1](/positions/thought-and-understanding/#p-tu1) 'Would shift if' clause; the research note should recommend article versus section. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/semantic-satiation-and-felt-meaning-2026-10-11.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'semantic-satiation-and-felt-meaning' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2391,6 +2368,25 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-12: Adopt ensemble-level-epiphenomenalism calibration in multi-agent-born-preservation-problem
+- **Type**: refine-draft
+- **File**: obsidian/topics/multi-agent-born-preservation-problem.md
+- **Notes**: From topic-concept anchoring audit 2026-10-12. The topic article over-claims relative to its anchor concept [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/); failed checks: hedge_density, strong_assertions.
+  - hedge density 0.67/kw is below 2.16/kw (target = 60% of anchor 3.60/kw, capped at 3.0/kw)
+  - topic uses 2 strong-assertion verbs (0.67/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+
+### ✓ 2026-10-12: Adopt multi-mind-collapse-problem calibration in multi-agent-born-preservation-problem
+- **Type**: refine-draft
+- **Status**: completed
+- **File**: obsidian/topics/multi-agent-born-preservation-problem.md
+- **Notes**: From topic-concept anchoring audit 2026-10-12. The topic article over-claims relative to its anchor concept [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/); failed checks: hedge_density, strong_assertions. **CLOSED (driver, 2026-10-12 01:1xZ):** moot. The sibling ensemble-level-epiphenomenalism anchoring task (refine-draft 01:06Z) verified that both strong hits are false-highs and set `anchoring_audit_exempt: true`, which clears every anchor; `evaluate_anchoring` now returns []. No body edit.
+  - hedge density 0.67/kw is below 1.45/kw (target = 60% of anchor 2.42/kw, capped at 3.0/kw)
+  - topic uses 2 strong-assertion verbs (0.67/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-10-12
 
 ### ✓ 2026-10-12: `concepts/chinese-room-argument` cites Coelho Mollo & Millière as "(2023) … arXiv:2304.01481" (L133 reference, in-text L109); the published version is *Philosophy and the Mind Sciences* 7(1), 2026, which adds the Swamp LLM section
 - **Type**: refine-draft

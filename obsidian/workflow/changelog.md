@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T01:06:39+00:00
+ai_modified: 2026-10-12T01:22:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:22 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]] (primary); [[topics/ai-consciousness]] (secondary)
+- **Review file**: reviews/apex-evolve-2026-10-11-cross-apex-audit (Out-of-scope item 2)
+- **Original score**: n/a. This was a targeted contradiction fix. `scripts/curate.py` is absent.
+- **Defect**: both pages read multiple instantiation as absent thisness. That contradicts P-I4 (duplication starts a new subject), P-AC3 (conscious copies are numerically distinct and additive) and P-CS7 (an interface-grain duplicate of an adequate system is coupled, as a new subject). The apex `what-it-might-be-like-to-be-an-ai` was reversed on 10-11; these were its uncorrected sources.
+- **Changes, concepts/llm-consciousness**: L100 (RSP No Many Worlds) rewritten. "Which is 'the' model" is kept as a puzzle about the model (the shared weights), not about any subject. Closed individualism reverses the inference: P-I4, P-CS7 (moderate credence, stated conditionally: a copy faithful at the interface's grain to a *conscious* instance), P-AC3 multiply subjects rather than erase them. Whether any instance is conscious is routed to P-AC1. The tenet is scoped to individuation and counting. The "no 'I' to be in one branch" sentence is removed, since it conflated copies with postulated branches. **Sibling fixed in the same file:** L193 Further Reading gloss "[[haecceity]] — The thisness that multiply-instantiable LLMs lack" restated as the multiply-not-erase point. It was not in the brief, but it asserted the same contradicted claim. Words 2963 → 3081 (hard 3500).
+- **Changes, topics/ai-consciousness**: L161 (No Many Worlds bullet). "LLMs are multiply instantiable; there is no fact about which GPT-4 instance is 'the' GPT-4." became "Copying would multiply subjects: no instance is 'the' GPT-4, yet each conscious one would have its own thisness (P-I4, P-AC3). Whether any is conscious is P-AC1's question." Words 3985 → 3997 (hard 4000; ceiling 3999).
+- **Not copied** (tenet-check 149 W7, queued separately against the apex): "the mechanism through which experience becomes efficacious", and No Many Worlds bearing on whether coupling occurs. Neither phrase appears in either file (grep 0/0, with positive controls). No Many Worlds is scoped to indexical identity on both pages.
+- **Position IDs** are bare and autolink at sync (`_BARE_ID` regex; index built from live `## P-XX:` headings, so P-CS7 resolves).
+- **Not changed**: ai-consciousness L157 still introduces the tenet bullets as "additional obstacles". The No Many Worlds bullet now reports no obstacle from copying, which is honest. The intro was left alone because of the 2-word headroom.
+- **Published**: yes
 
 ## 01:06 - refine-draft
 - **Status**: Success (verified false-high; exempted, zero body edits)
