@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T13:43:49.083253+00:00'
-session_count: 22650
-cycle_position: 14642
+last_updated: '2026-10-12T13:58:43.401001+00:00'
+session_count: 22651
+cycle_position: 14643
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-12T04:22:32.919076+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-12T10:30:57.682438+00:00'
+  deep-review: '2026-10-12T13:58:43.401001+00:00'
   embed-videos: '2026-10-12T11:49:14.290123+00:00'
   expand-topic: '2026-10-11T12:50:13.175530+00:00'
   harvest-research-subjects: '2026-10-12T09:04:13.737371+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 112
   positions_written: 23
   research_notes: 661
-  reviews_completed: 7962
+  reviews_completed: 7963
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-12'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-12'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
@@ -759,8 +759,6 @@ task_chains:
     target_section: topics
   - research_file: obsidian/research/voids-observer-selection-void-2026-10-11.md
     target_section: voids
-  - research_file: obsidian/research/idealist-answers-to-the-transparency-problem-2026-10-11.md
-    target_section: concepts
   - research_file: obsidian/research/miswanting-and-forecast-driven-mischoice-2026-10-12.md
     target_section: concepts
   pending_cross_reviews:
@@ -787,6 +785,15 @@ task_chains:
     - concepts/content-externalism.md
     - concepts/swampman.md
     generated: '2026-10-11T12:47:12+00:00'
+  - new_article: concepts/lawful-appearance-problem.md
+    review_targets:
+    - topics/q3-q4-sliding-boundary-and-transparency-problem.md
+    - topics/analytic-idealism-and-mind-centric-metaphysics.md
+    - topics/mechanism-costs-dualism-thickness-quadrants.md
+    - topics/dualism-channel-width-axis.md
+    - concepts/idealism.md
+    - concepts/observational-closure.md
+    generated: '2026-10-12T14:16:56+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

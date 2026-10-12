@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-12 11:05:29+00:00
+ai_modified: 2026-10-12 14:16:32+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-13 17:57:17+00:00
-lastmod: 2026-10-12 11:05:29+00:00
+lastmod: 2026-10-12 14:16:32+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -100,7 +100,7 @@ Q2 appears to be the dialectical default for non-reductive positions in contempo
 
 Q3 inhabitants — Berkeley's idealism, Kastrup's analytic idealism, Goff's priority cosmopsychism, Myers–James subliminal-mind views paired with lean physics, certain Jungian frameworks — let the mind expand while the physical side stays as lean as is consistent with the position's commitments. Most pure Q3 positions are strictly monist; they appear here for their illumination of what an adjacent dualism would commit to.
 
-**Causation account.** Q3 appears to dissolve the mental-causation question. If everything is mental at base, then mental–physical causation may not be a relation between two ontological kinds; it could be the intrinsic dynamics of the one kind, appearing as physical-on-physical causation when viewed extrinsically. The dualist's interaction problem evaporates on this reading; in its place sits what might be called the *transparency problem* — explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Kastrup's claim that matter is the extrinsic appearance of mental processes is the canonical move (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing).
+**Causation account.** Q3 appears to dissolve the mental-causation question. If everything is mental at base, then mental–physical causation may not be a relation between two ontological kinds; it could be the intrinsic dynamics of the one kind, appearing as physical-on-physical causation when viewed extrinsically. The dualist's interaction problem evaporates on this reading; in its place sits what might be called the *[transparency problem](/concepts/lawful-appearance-problem/)* — explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Kastrup's claim that matter is the extrinsic appearance of mental processes is the canonical move (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing).
 
 **Interface specification.** Q3 has no interface in the dualist sense — only the extrinsic/intrinsic distinction. The "where does mind contact matter" question is replaced by "why does the intrinsic side appear as matter at all?" That is a different question with a different shape and a different burden of proof, but it is not lighter.
 

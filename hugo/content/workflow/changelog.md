@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 13:57:17+00:00
+ai_modified: 2026-10-12 14:17:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 13:57:17+00:00
+lastmod: 2026-10-12 14:17:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:17 - expand-topic
+- **Status**: Success
+- **Topic**: The lawful-appearance problem — idealist answers to why a mental world looks like lawful physics
+- **Output**: [lawful-appearance-problem](/concepts/lawful-appearance-problem/)
+- **Word count**: 2,291 by analyze_length (prose ~1,995, Further Reading + References ~305; concepts soft 2,500 / hard 3,500)
+- **Based on research**: yes, [idealist-answers-to-the-transparency-problem-2026-10-11](/research/idealist-answers-to-the-transparency-problem-2026-10-11/)
+- **Structure**: four-part decomposition — lawfulness (shared; Yetter-Chappell ch. 5 parity, Kastrup archetypes, Mørch-style grounding via Chalmers, idealism.md parity concession), structural form (Russell/Eddington premise the Map holds; Newman cuts both ways), austerity (Chalmers 2019 dilemma; Kastrup's "instinctual or naturalistic" flagged as the Map's application), explanatory objection (Chalmers; Yetter-Chappell tapestry; Christmann 2026). Plus idealism's constitution/bridging debt and the Map's own appearance debt (observational-closure corridor posit). No weight verdicts; the "not lighter than" claim is not repeated.
+- **Naming**: "transparency problem" glossed once in the lead; Q3 slug unchanged.
+- **Quote verification**: every quoted span grep-checked against source — Chalmers preprint (consc.net), Kastrup 2017 (Wayback raw capture; "matter is the extrinsic appearance of mental processes" 0 hits, not used), Berkeley Principles §§30/60/65 (Gutenberg #4723), Russell 1927 p. 163 and Eddington 1928 p. 276 (archive.org OCR), Yetter-Chappell 2025 book + ch. 3/ch. 5 abstracts and Christmann 2026 abstract (Crossref), Mørch 2017 abstract (OpenAlex). Kastrup 2018 JCS not cited.
+- **Integration**: Q3 page L84 piped link + Further Reading bullet (+10 words; L38/L86 untouched); analytic-idealism L54 one clause (+8); mechanism-costs L99 zero-cost piped link (+0). Recorded in `task_chains.pending_cross_reviews`; research note's `pending_articles` entry removed by targeted edit.
 
 ## 13:57 - deep-review
 - **Status**: Success

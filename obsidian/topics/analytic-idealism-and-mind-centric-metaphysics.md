@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-10-12T11:34:42+00:00
+ai_modified: 2026-10-12T14:16:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Individual minds are "dissociated alters" of universal consciousness, analogous 
 
 **What idealism gains:** The hard problem dissolves. If consciousness is all there is, there's no gap between physical and phenomenal because there's nothing non-mental to bridge from. Parsimony favours one ontological category over two.
 
-**What idealism loses:** Physical realism. If matter is appearance, what constrains experience? Why can't you walk through walls? Kastrup appeals to the intrinsic structure of universal consciousness, but this structure plays the functional role that physical law plays in dualism. The question becomes whether calling it "mental" rather than "physical" is a substantive claim or a relabelling. Asked in reverse, of a thick-mind dualism whose physical pole has thinned to the same role, it is the [[q3-q4-sliding-boundary-and-transparency-problem|sliding-boundary problem]]. (For detailed treatment, see [[idealism]].)
+**What idealism loses:** Physical realism. If matter is appearance, what constrains experience? Why can't you walk through walls? Kastrup appeals to the intrinsic structure of universal consciousness, but this structure plays the functional role that physical law plays in dualism. The question becomes whether calling it "mental" rather than "physical" is a substantive claim or a relabelling; [[lawful-appearance-problem|the lawful-appearance problem]] sets out the idealist replies. Asked in reverse, of a thick-mind dualism whose physical pole has thinned to the same role, it is the [[q3-q4-sliding-boundary-and-transparency-problem|sliding-boundary problem]]. (For detailed treatment, see [[idealism]].)
 
 ## Panpsychism: Mind Goes All the Way Down
 

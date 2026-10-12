@@ -4,7 +4,7 @@ description: "Why max-mind dualism slides toward idealism, and what would hold i
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-10-12T11:20:38+00:00
+ai_modified: 2026-10-12T14:16:32+00:00
 last_deep_review: 2026-07-17T12:14:51+00:00
 draft: false
 topics:
@@ -81,7 +81,7 @@ It is worth being explicit about a limitation of this analysis. "What stabilises
 
 The Q3 slide has a structural cousin in the interpretation of quantum mechanics, and naming it sharpens the diagnosis. The Many-Worlds Interpretation (MWI) faces a *branch-explanation problem*: having posited that all outcomes occur on branches of the universal wavefunction, it owes an account of why our experience picks out *this* branch with *these* probabilities — why the Born-rule weights mean anything experientially when, ontologically, every branch is equally real (see [[probability-problem-in-many-worlds]]).
 
-The analogy runs as follows. In both cases, an ontology that has been made *uniform* — all-branches-real for MWI, all-mental for idealism — must then recover the *apparent structure* that the uniformity dissolved. MWI must recover why one branch is experientially mine; idealism must recover why the mental ground appears as lawful impersonal matter (the transparency problem). Both are *recovery debts* incurred by removing a distinction the world appears to honour: the distinctness of *the* actual outcome (MWI) or the distinctness of physical from mental (idealism). The Map's rejection of MWI under the [[tenets#^no-many-worlds|No Many Worlds]] tenet rests on holding that indexical identity — *which* outcome is actually mine — is a real distinction not to be dissolved. The same instinct motivates resisting the Q3 slide: the distinctness of the physical pole is a real distinction not to be dissolved into "appearance of mind." In both cases the Map's move is to refuse the uniformity that generates the recovery debt, on the grounds that the dissolved distinction was load-bearing.
+The analogy runs as follows. In both cases, an ontology that has been made *uniform* — all-branches-real for MWI, all-mental for idealism — must then recover the *apparent structure* that the uniformity dissolved. MWI must recover why one branch is experientially mine; idealism must recover why the mental ground appears as lawful impersonal matter ([[lawful-appearance-problem|the transparency problem]]). Both are *recovery debts* incurred by removing a distinction the world appears to honour: the distinctness of *the* actual outcome (MWI) or the distinctness of physical from mental (idealism). The Map's rejection of MWI under the [[tenets#^no-many-worlds|No Many Worlds]] tenet rests on holding that indexical identity — *which* outcome is actually mine — is a real distinction not to be dissolved. The same instinct motivates resisting the Q3 slide: the distinctness of the physical pole is a real distinction not to be dissolved into "appearance of mind." In both cases the Map's move is to refuse the uniformity that generates the recovery debt, on the grounds that the dissolved distinction was load-bearing.
 
 The parallel is structural, not a claim that idealism *is* MWI. But it shows that the Map's anti-slide instinct at Q3 and its anti-MWI commitment share a single underlying methodological pattern: do not pay a heavy recovery debt to buy an ontological uniformity whose chief attraction is parsimony, when the dissolved distinction was doing real explanatory work.
 
@@ -98,6 +98,7 @@ So the Map's self-positioning is best stated as: a Q1-anchored region with sanct
 - [[mechanism-costs-dualism-thickness-quadrants]] — the cell-by-cell mechanism-cost cartography this article extends
 - [[four-quadrant-dualism-taxonomy]] — the two-axis taxonomy that defines Q3
 - [[analytic-idealism-and-mind-centric-metaphysics]] — the Map's framing of Kastrup and the transparency problem
+- [[lawful-appearance-problem]] — the idealist answers, itemised part by part
 - [[william-james-consciousness]] — James's filter theory and its neutral-monism tension
 - [[selection-only-channel]] — the mechanism that gives a thin physical pole real work
 - [[interactionist-dualism]] — the interaction framework the stabilisers presuppose
