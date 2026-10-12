@@ -1,0 +1,420 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac34b1c-8330-83ed-ad93-536bce543fe0
+  commissioned_at: '2026-10-05T07:01:10.655079+00:00'
+  prompt_summary: 'Audit egocentric-presentism: claims, citations, counterarguments,
+    integration'
+  target_filename: outer-review-2026-10-05-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-06T00:13:55.003493+00:00'
+  failure_reason: null
+  prompt_text: 'Please act as an independent, sceptical outer reviewer for The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site built on five dualist
+    tenets. Audit one article in depth: https://unfinishablemap.org/concepts/egocentric-presentism/
+    which was last substantively modified on 2026-09-28. Browse the live page and
+    the articles it links to. Because search indexes lag, also consult the site changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent activity. Assess:
+    (1) whether its claims about Caspar Hare''s egocentric presentism and related
+    work (perspectival realism, Fine''s fragmentalism, Lewis and Perry on indexicals,
+    Many-Worlds self-location) are accurate and fairly attributed, checking each citation
+    and any quotation against the primary source; (2) which serious counterarguments
+    are missing or handled too quickly; (3) where the article protects the site''s
+    tenets by bracketing or hedging rather than by argument; (4) stale or missing
+    references from the 2020s literature; (5) how well it integrates with neighbouring
+    articles, and any inconsistencies between them. Distinguish clearly between verified
+    errors and matters of judgement. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit egocentric-presentism
+  subject_articles:
+  - concepts/egocentric-presentism.md
+  subject_source: fallback:recent-aged
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac45814-af28-83ed-adf2-bf21427a7b8c
+  commissioned_at: '2026-10-06T02:08:53.909883+00:00'
+  prompt_summary: 'Audit voids/categorical-perception-void: claims, citations, CP
+    literature'
+  target_filename: outer-review-2026-10-06-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-06T03:53:12.546700+00:00'
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind site: "The Categorical Perception Void" at https://unfinishablemap.org/voids/categorical-perception-void/
+    . It was last substantively modified on 2026-09-29; the site changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent activity your search index may not yet reflect. Check the article''s
+    empirical claims about categorical perception (speech, colour, and the claim that
+    within-category differences cannot be heard is a task artefact) against the primary
+    literature, verify that every citation exists and says what the article attributes
+    to it, and assess whether the "void of default access and of provenance" framing
+    is earned or is tenet-protective bracketing. Look for missed counterarguments
+    from the psychophysics and perceptual-learning literatures, stale references,
+    and weak integration with neighbouring articles. End your report with a list of
+    concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit categorical-perception-void
+  subject_articles:
+  - voids/categorical-perception-void.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/3f6198e6-8635-4d47-8bd0-42c661424cb7
+  commissioned_at: '2026-10-06T03:10:14.726826+00:00'
+  prompt_summary: 'Audit voids/categorical-perception-void: claims, citations, CP
+    literature'
+  target_filename: outer-review-2026-10-06-claude-opus-5-5.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-06T04:25:26.555859+00:00'
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous external referee for one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind site: "The Categorical
+    Perception Void" at https://unfinishablemap.org/voids/categorical-perception-void/
+    . It was last substantively modified on 2026-09-29; the site changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent activity your search index may not yet reflect, so read the live
+    page rather than cached copies. Using Research, verify every citation exists and
+    says what the article attributes to it, and test the article''s empirical claims
+    about categorical perception in speech and colour against the primary psychophysics
+    and perceptual-learning literature, especially its central claim that the inability
+    to hear within-category differences is a task artefact rather than a perceptual
+    fact. Assess whether the "void of default access and of provenance" framing is
+    earned or is tenet-protective bracketing, and whether the article integrates adequately
+    with its neighbouring Map articles. Flag missed counterarguments, stale or misattributed
+    references, and overclaims. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit categorical-perception-void
+  subject_articles:
+  - voids/categorical-perception-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-06-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/31c426d0c167ce95
+  commissioned_at: '2026-10-06T04:14:47.035071+00:00'
+  prompt_summary: Hostile referee audit of voids/categorical-perception-void (CP literature)
+  target_filename: outer-review-2026-10-06-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-06T05:23:09.888382+00:00'
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.\
+    \ Your remit is to identify weaknesses that would justify rejection or major revision.\n\
+    \nThe article is at https://unfinishablemap.org/voids/categorical-perception-void/\
+    \ and makes claims about categorical perception, arguing that within-category\
+    \ indiscriminability is a task artefact. The site (https://unfinishablemap.org,\
+    \ recent changes at https://unfinishablemap.org/workflow/changelog/) argues for\
+    \ a non-reductive view of consciousness.\n\nDo not describe the site's automation,\
+    \ review pipeline, methodology disciplines, evolution loop, or governance infrastructure.\
+    \ Those are project-internal and not the subject of audit. Assess only the article's\
+    \ empirical claims, citations, counterargument coverage, and logical inferences.\n\
+    \nAudit four dimensions: (a) empirical accuracy against the 2020s categorical-perception\
+    \ and speech/colour-categorisation literature; (b) results the article relies\
+    \ on that have been challenged, retracted, or failed to replicate; (c) framings\
+    \ that bracket the question with the site's own commitments rather than argue\
+    \ for them; (d) counterarguments or competing frameworks the article does not\
+    \ test.\n\nEnd with at least five specific weaknesses. For each, cite at least\
+    \ one peer-reviewed source from 2020\u20132025 that the article omits, contradicts,\
+    \ or mishandles. If you cannot find five weaknesses, state explicitly why none\
+    \ are visible \u2014 but the default expectation is that a careful pre-publication\
+    \ audit of a contemporary topic will find five.\n\nDo not close with a summary\
+    \ of the site's strengths, methodology, or architectural ambition. End your report\
+    \ with the at-least-five weaknesses list, each with a 2020\u20132025 source citation,\
+    \ and a one-sentence verdict on academic-submission readiness. Do not append summary\
+    \ praise."
+  subject_type: recent
+  subject_title: Audit categorical-perception-void
+  subject_articles:
+  - voids/categorical-perception-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-06-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac5c252-3978-83ed-b2b7-03cdfd5ed187
+  commissioned_at: '2026-10-07T03:54:15.302519+00:00'
+  prompt_summary: 'Audit assent-void: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-07T05:54:31.888873+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical audit of one article on The
+    Unfinishable Map (https://unfinishablemap.org), a philosophical site defending
+    interactionist dualism with minimal quantum interaction. The article is "Assent
+    Void" at https://unfinishablemap.org/voids/assent-void/ (last substantively modified
+    2026-09-29). First read https://unfinishablemap.org/workflow/changelog/ so recent
+    activity is visible despite search-index lag, then read the article and the Map
+    pages it links to. Audit: (1) whether each empirical and historical claim is supported
+    and currently cited; (2) whether citations and quotations are accurate to their
+    sources, including any that are stale or misattributed; (3) whether the strongest
+    counterarguments are engaged, or whether tenet-protective bracketing shields the
+    article''s conclusions; (4) whether the article integrates coherently with surrounding
+    voids, concepts, and positions pages, or contradicts them. Be specific and evidence-based
+    rather than deferential. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit assent-void
+  subject_articles:
+  - voids/assent-void.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/dadc41ff-8e86-48a3-8a15-8306eeaf9fc4
+  commissioned_at: '2026-10-07T04:12:19.681796+00:00'
+  prompt_summary: Hostile-referee audit of voids/assent-void (Fable 5.1, Research)
+  target_filename: outer-review-2026-10-07-claude-fable-5-1.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-07T05:24:11.913493+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
+    Map (https://unfinishablemap.org), a site defending interactionist dualism with
+    minimal quantum interaction. The article is "The Assent Void" at https://unfinishablemap.org/voids/assent-void/
+    (last substantively modified 2026-09-29). First read https://unfinishablemap.org/workflow/changelog/
+    so recent edits are visible despite search-index lag; then read the article and
+    the Map pages it links to. Audit: (1) whether its empirical, historical, and phenomenological
+    claims about assent, judgment, and belief formation are supported and currently
+    cited; (2) whether every citation and quotation is accurate to its source, flagging
+    anything stale, misattributed, or fabricated; (3) whether the strongest counterarguments
+    (e.g. doxastic involuntarism debates, Frankfurt-style and Williams-style arguments,
+    empirical work on belief revision) are genuinely engaged or bracketed to protect
+    the tenets; (4) whether the article coheres with the surrounding voids, concepts,
+    and positions pages. Be specific and evidence-based rather than deferential. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit assent-void
+  subject_articles:
+  - voids/assent-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac6fb0d-e004-83eb-b414-71e2e155fa45
+  commissioned_at: '2026-10-08T02:09:30+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-08T03:53:25.265256+00:00'
+  failure_reason: null
+  prompt_text: "Act as an external referee for The Unfinishable Map, a philosophy\
+    \ site defending interactionist dualism with minimal quantum interaction. The\
+    \ article https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/\
+    \ was last substantively modified 2026-10-01 (\u22657 days ago, so search engines\
+    \ have had time to re-index). Audit its claims, citations, counterargument coverage,\
+    \ and integration with surrounding articles. Look for insufficient evidence, missed\
+    \ counterarguments, tenet-protective bracketing, and stale references. The site\
+    \ changelog is at https://unfinishablemap.org/workflow/changelog/; the site root\
+    \ is https://unfinishablemap.org. Please fetch the article and the changelog directly\
+    \ rather than relying on search-index snapshots, since recent edits may not yet\
+    \ be indexed. Verify every named clinical study and quotation against the primary\
+    \ literature on dissociation, depersonalisation, and dissociative identity disorder,\
+    \ noting any misattribution or overreach, and check whether the article's dualist\
+    \ reading survives the strongest physicalist and predictive-processing accounts.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/b385cca2-9870-42e5-a7a4-9ac442634c1e
+  commissioned_at: '2026-10-08T03:10:12.707823+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-claude-fable-5-1.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-08T04:38:55.540691+00:00'
+  failure_reason: null
+  prompt_text: "Please act as a hostile but fair academic referee for one article\
+    \ on The Unfinishable Map (https://unfinishablemap.org), a dualist consciousness\
+    \ research programme. Audit clinical-dissociation-as-systematic-evidence: claims,\
+    \ citations, counterargs. The article is https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/\
+    \ \u2014 read the live page directly rather than relying on search-index copies,\
+    \ and consult https://unfinishablemap.org/workflow/changelog/ for very recent\
+    \ edits that your web index may not yet reflect. Examine: (1) whether the clinical\
+    \ literature on dissociation (depersonalisation, DID, dissociative amnesia, anaesthesia-related\
+    \ dissociation) is characterised accurately and whether the cited works say what\
+    \ the article claims; (2) whether treating these cases as systematic evidence\
+    \ for interactionist dualism is a non sequitur, and what the strongest physicalist\
+    \ and predictive-processing readings of the same data are; (3) internal consistency\
+    \ with the site's five tenets and its positions register; (4) overclaims, missing\
+    \ qualifiers, and empirical claims now out of date. Be concrete: quote the sentence\
+    \ you object to and say what a defensible replacement would be. End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/3170e65703803cdb
+  commissioned_at: '2026-10-08T04:25:02.489310+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-gemini-2-5-pro.md
+  status: failed
+  collect_attempts: 0
+  last_attempt_at: '2026-10-08T04:25:02.506173+00:00'
+  failure_reason: Deep Research plan stage hung at 'Generating research plan' with
+    no plan card, no Start-research button and no error text; attempt 1 (conv de0b8e1361c5e1c4)
+    ~6 min incl. reload, attempt 2 (conv 3170e65703803cdb) ~5 min. Same failure as
+    2026-10-07 (3x). Research never started; nothing to collect.
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
+    and makes claims about whether clinical dissociation phenomena (depersonalisation,
+    dissociative identity disorder, dissociative amnesia, out-of-body and anaesthesia-related
+    experiences) can be read as systematic evidence about the mind-body relation;
+    the site (https://unfinishablemap.org, recent changes at https://unfinishablemap.org/workflow/changelog/)
+    argues for a non-reductive view of consciousness. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four dimensions: (a) empirical accuracy against the
+    2020s clinical and neuroscientific literature; (b) cited results that have since
+    been challenged, retracted, or failed replication; (c) places where the article''s
+    framing presupposes its own conclusion rather than earning it; (d) counterarguments
+    or competing frameworks (e.g. predictive-processing, network-neuroscience, or
+    trauma-model accounts of dissociation) it leaves untested. End with at least five
+    specific weaknesses. For each, cite at least one peer-reviewed source from 2020-2025
+    that the article omits, contradicts, or mishandles. If you cannot find five weaknesses,
+    state explicitly why none are visible, but the default expectation is that a careful
+    pre-publication audit of a contemporary topic will find five. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition. End
+    your report with the at-least-five weaknesses list, each with a 2020-2025 source
+    citation, and a one-sentence verdict on academic-submission readiness. Do not
+    append summary praise.'
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/04a0a4b657e73713
+  commissioned_at: '2026-10-10T04:07:56.757190+00:00'
+  prompt_summary: 'Full-site hostile-referee audit: empirical claims, citations, counterarguments'
+  target_filename: outer-review-2026-10-10-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-10T04:39:47.429504+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies), auditing the articles at
+    https://unfinishablemap.org as if submitted for publication. Your remit is to
+    identify weaknesses that would justify rejection or major revision. The site argues
+    for a non-reductive view of consciousness; discover its specific commitments by
+    reading the articles. Also consult https://unfinishablemap.org/workflow/changelog/
+    (search indexes lag). Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the articles'' empirical
+    claims, citations, counterargument coverage, and logical inferences: (a) empirical
+    accuracy against the 2020s literature; (b) cited results since challenged, retracted,
+    or unreplicated; (c) framings that shield the site''s commitments by bracketing
+    or hedging rather than by argument; (d) untested counterarguments, competing frameworks,
+    and contradictions between articles. Name the article URL for every finding. Find
+    at least five specific weaknesses; for each, cite at least one peer-reviewed source
+    from 2020-2025 that the article omits, contradicts, or mishandles. If you cannot
+    find five, state explicitly why none are visible, but a careful audit should find
+    five. Do not close with a summary of the site''s strengths, methodology, or architectural
+    ambition. End your report with the at-least-five weaknesses list, each with a
+    2020-2025 source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac9bab3-6058-83ed-87d3-fa86f635330e
+  commissioned_at: '2026-10-10T04:10:47.412261+00:00'
+  prompt_summary: 'Full-site hostile-referee audit: empirical claims, citations, counterarguments'
+  target_filename: outer-review-2026-10-10-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-10T05:57:43.624864+00:00'
+  failure_reason: null
+  prompt_text: 'Act as a hostile pre-publication referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site defending interactionist dualism
+    with minimal quantum interaction, auditing its articles as if submitted to a top
+    philosophy journal. First read https://unfinishablemap.org/workflow/changelog/
+    and fetch pages directly, since search indexes lag behind recent edits. Do not
+    assess the site''s automation, review pipeline, or governance; audit only article
+    content across the topics, concepts, voids, apex and positions sections: (1) empirical
+    claims checked against the 2020s literature, including cited results since challenged,
+    retracted, or unreplicated; (2) citation and quotation accuracy, including misattributed
+    originators and wrong bibliographic metadata; (3) framings that shield the site''s
+    commitments by bracketing or hedging rather than by argument; (4) untested counterarguments,
+    competing frameworks, and contradictions between articles. Name the article URL
+    for every finding and support each with a specific source. Prioritise weaknesses
+    the pages do not already acknowledge. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-10-10-gemini-2-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6acaeeeb-c82c-83eb-9814-d3438d48f2ca
+  commissioned_at: '2026-10-11T02:06:09.641046+00:00'
+  prompt_summary: Audit direction-dependent-discriminating-test-design (filter vs
+    physicalist)
+  target_filename: outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-11T03:57:14.577871+00:00'
+  failure_reason: null
+  prompt_text: 'Please audit the article "Designing a Direction-Dependent Discriminating
+    Test for the Interface Model" on The Unfinishable Map: https://unfinishablemap.org/topics/direction-dependent-discriminating-test-design/
+    (last substantively modified 2026-10-04). The site root is https://unfinishablemap.org
+    and the changelog of recent changes is at https://unfinishablemap.org/workflow/changelog/
+    - check it, since search indexes may lag. The article proposes a reversible-perturbation
+    experiment in which a closing-phase ordering that fails to mirror the reopening-phase
+    ordering is forbidden by substrate-symmetric production but permitted by the filter
+    reading. Assess whether that prediction genuinely discriminates the two models:
+    do physicalist accounts (hysteresis, metastability, asymmetric neural or pharmacological
+    dynamics) already predict the same asymmetry? Check its claims, citations and
+    empirical premises against current literature; identify missed counterarguments,
+    tenet-protective bracketing, stale references, and how well it integrates with
+    the surrounding articles on the interface/filter model. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit direction-dependent-discriminating-test-design
+  subject_articles:
+  - topics/direction-dependent-discriminating-test-design.md
+  subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/97aea047fea02e78
+  commissioned_at: '2026-10-11T04:22:49.974264+00:00'
+  prompt_summary: 'Hostile referee audit: direction-dependent discriminating test
+    design'
+  target_filename: outer-review-2026-10-11-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-10-11T04:53:55.558669+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies). Your remit is to identify
+    weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/direction-dependent-discriminating-test-design/
+    and proposes a bidirectional reversible-perturbation experiment to discriminate
+    production from filter accounts of consciousness; the site argues for a non-reductive
+    view of consciousness. Site root: https://unfinishablemap.org; recent edits: https://unfinishablemap.org/workflow/changelog/
+    (search indexes lag 24-48h). Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Audit (a)
+    empirical accuracy against the 2020s literature, especially anaesthetic hysteresis
+    and emergence ordering; (b) cited results that were challenged, retracted, or
+    failed replication; (c) framings that presuppose what the test is meant to establish;
+    (d) untested counterarguments and competing frameworks, including whether physicalist
+    models also predict asymmetric orderings. For each weakness, cite at least one
+    peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles.
+    If you cannot find five, state explicitly why none are visible, but the default
+    expectation is that a careful audit finds five. Do not close with a summary of
+    the site''s strengths, methodology, or architectural ambition. End your report
+    with the at-least-five weaknesses list, each with a 2020-2025 source citation,
+    and a one-sentence verdict on academic-submission readiness. Do not append summary
+    praise.'
+  subject_type: recent
+  subject_title: Audit direction-dependent-discriminating-test-design
+  subject_articles:
+  - topics/direction-dependent-discriminating-test-design.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-11-chatgpt-5-6-sol-pro.md
