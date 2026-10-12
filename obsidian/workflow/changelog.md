@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-11T23:38:40+00:00
+ai_modified: 2026-10-12T00:04:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:04 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Original score**: n/a. This was a targeted citation-currency pass on the drift flagged in [[research/whether-language-model-words-refer-2026-10-11]] (L120, L315). `scripts/curate.py` is absent.
+- **Crossref check**: doi:10.33735/phimisci.2026.12307 returns "The Vector Grounding Problem", *Philosophy and the Mind Sciences* 7(1), issued 2026-02-27, by Dimitri Coelho Mollo and Raphaël Millière. Crossref lists no page range or article number, so none is cited. The format follows [[topics/whether-language-model-words-refer]] ref 1.
+- **Method**: each target was found by its quoted text and confirmed to occur once. In L109, "Coelho Mollo and Millière (2023)" became (2026). In L133, ref 12 went from "(2023) … arXiv:2304.01481" to "(2026) … *Philosophy and the Mind Sciences* 7(1). https://doi.org/10.33735/phimisci.2026.12307". The arXiv identifier was dropped to fund the venue. The DOI is a URL, which `count_words` strips. Chalmers (2023) at L109 and L132 was not changed.
+- **Prose check**: the L109 gloss (learned representations "might acquire referential grounding through training rather than interpreter assignment") is consistent with the published version's teleosemantic account (training as selection, §6.2), so it was left as written.
+- **Length (analyze_length, gate >=)**: 3,494 → 3,499 (+5; hard 3,500).
+- **Other pages still on the 2023 arXiv version (reported, not edited)**: [[concepts/symbol-grounding-problem]] L49 ("their 2023 paper") and L166 ("Mollo, D. C., & Millière, R. (2023) … arXiv:2304.01481", which also cuts the surname Coelho Mollo down to an initial). The archive copy of topics/symbol-grounding-problem has the same at L92 and L143. [[research/symbol-grounding-problem-2026-01-30]] has it at L76–77 and L188. In that note's reference list, L230 credits "The Vector Grounding Problem" to Piantadosi & Hill (2023), and L228 credits Pavlick's 2023 *Phil. Trans. A* paper (doi 10.1098/rsta.2022.0041, Crossref author Ellie Pavlick) to Mollo & Millière. Neither misattribution appears on a live page.
+- **Attribution**: `ai_modified` refreshed. `ai_system` held.
+- **Published**: yes
 
 ## 23:51 - refine-draft
 - **Status**: Success
