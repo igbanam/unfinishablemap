@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 07:49 - deep-review
+- **Status**: Success
+- **File**: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/)
+- **Word count**: 3,101 → 3,382 (+281; soft_warning before and after, below hard 4,000; length-neutral mode, the growth being quoted primary text that replaces an unsupported characterisation)
+- **Critical issues addressed**: 5. (1) The article cast Sherrington as suspending judgment on interaction ("asserted a limit ... and stopped there", "did not assert that mind causally steers the brain", "silent on Tenets 2 and 3"). A raw-text grep of the 1940 first-edition OCR shows a hedged working interactionism: "contact utile" (pp. 232, 262, 354), the brain as "an organ of liaison" and "committed to dualism" (pp. 318-319), mind's role "would seem to be to influence acts" (p. 232), and an explicit blank on the "how". The agnostic-pole section was rewritten and the lead, gradient and RSP corrected. This also withdraws the 2026-09-02 "deflationary p. 201" certification and its Tenet 2-3 stability note. (2) The Smith 2001 gloss ("relocate", "transmitted intellectual culture") is not in the abstract and dropped the qualifier "at least in the form Eccles espoused"; re-tracked. (3) Arshavsky 2006 re-tracked to the abstract (covert dualism rooted in the network paradigm); the unverifiable religious-roots sentence was removed. (4) The Eccles 1989 "spiritual beings" locator p. 241 is p. 253 (Google Books search-within, live id 9GWIAgAAQBAJ with a control); the passage is now verified verbatim. (5) "Sherrington would have conceded the third and fourth critics' starting point" narrowed to Smith.
+- **Medium issues addressed**: 4 (unsupported "physicalists of equal eminence"; "two ultimates" grounded in p. 262 "seem the two ultimate constituents"; a "not X; Y" construction; the anti-authority point stated three times, now compressed with a named-anchor forward link)
+- **Enhancements made**: 4 (seven new primary-verified Sherrington passages; his own phrase "as though agnosticism should believe" names the stance; the Tenet 2 probability-system remark recorded at room-clearing strength; the insertion of an immortal soul as "trespass" (teacher) set against divine soul-creation (student) as the gradient's endpoints)
+- **Engagement modes**: Ritchie Mode Three; Pepperell Mode Three plus a Tenet-5 boundary; Smith Mixed (his scope qualifier now preserved); Arshavsky Mode Three. No label leakage.
+- **Follow-up queued**: P2 refine-draft for sibling propagation: history-of-the-interaction-problem L110 and penfield-interactionist-dualism L52/L84
+- **Output**: [deep-review-2026-10-12-sherrington-dualist-lineage](/reviews/deep-review-2026-10-12-sherrington-dualist-lineage/)
+
 ## 07:20 - refine-draft
 - **Status**: Success
 - **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) (secondary: [min-max-dualism-taxonomy-2026-04-21](/research/min-max-dualism-taxonomy-2026-04-21/))
