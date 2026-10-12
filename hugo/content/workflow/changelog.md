@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 20:07:00+00:00
+ai_modified: 2026-10-12 20:32:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 20:07:00+00:00
+lastmod: 2026-10-12 20:32:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:32 - deep-review
+- **Status**: Success
+- **File**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/). Seventh review. This is the first review to examine the three refine-draft commits from 08-03, 08-21 and 08-22 that landed after the 07-17 pass.
+- **Word count**: 2030 → 2385 (+355, of which about 120 words are four new References entries; concepts soft threshold 2500, status ok).
+- **Critical issues addressed**: 8.
+  1. The corridor's "no signature by construction" claim was unscoped at L34 and L70, contradicting the article's own L72 and `tenets.md` L75. It is now scoped to the unconditioned aggregate, and conditioned tests are named as an exposure.
+  2. Tenets 3 and 4 were credited with "generating predictions" at L34, L94 and L104, against their own sections. That credit now goes to Tenet 2's mechanism-committed readings only.
+  3. L84 said "collapse interpretations make identical predictions" right next to objective-collapse tests. It now separates collapse *theories* from collapse *interpretations*.
+  4. Pitts 2020 was credited with supplying the Map's no-energy-injection response. Per the publisher abstract, his route is different (Noether-conditional; tolerates local violation).
+  5. The 20-predictions tally was credited to Hameroff 2020 without verification. It is now credited to Hameroff & Penrose 2014 (publisher press release).
+  6. "Independent evaluation remains limited" had no counterweight. Reimers et al. 2009 is now cited with its qualifier.
+  7. A "preferred basis" claim was attributed to `tenets.md`, which does not contain it. The attribution is now limited to the verbatim L77 clause.
+  8. Orphan cites were fixed: Deutsch 1985 entry added; 2023 IIT letter given an inline cite and an entry; "Kleiner (2021)" corrected to Kleiner and Hoel; Horchani 2025 (arXiv:2512.02838) given an author and an entry. Two earlier reviews' "no orphans" claims were false.
+- **Medium issues addressed**: 6.
+  - Kleiner & Hoel: scope corrected ("all" → "many") and "circular" → "unfalsifiable".
+  - The letter: "unfalsifiable" corrected to "label applies until the theory as a whole is testable" (letter PDF grepped).
+  - The Cogitate result: the verbatim "substantially challenging key tenets of both" added.
+  - "Dualism predicts" → "accommodates".
+  - "Violate Noether's theorem" corrected.
+  - The "This is not…" opener rephrased.
+- **Citation ledger**: 11 cites verified at Crossref, OpenAlex, arXiv, OSF or PMC. Full ledger is in the review.
+- **Engagements** (editor-internal): physicalism is Mode Two; many-worlds is Mode Three. Both unchanged.
+- **Out of scope** (siblings on today's avoid list):
+  - Unscoped "no Born-statistical signature" in `topics/brain-internal-born-rule-testing` L3/L106/L116 and `topics/falsification-roadmap-for-the-interface-model` L87/L142.
+  - The roadmap's L91 has the same unverified Hameroff-2020 tally attribution and the same "remains limited" gap.
+- **Output**: [deep-review-2026-10-12-tenet-falsification-conditions](/reviews/deep-review-2026-10-12-tenet-falsification-conditions/)
 
 ## 20:07 - refine-draft
 - **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 2 (a), (a′), (b), (c). The review's exact old→new strings were applied unchanged. Each old string was confirmed to occur exactly once before editing.
