@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-10-12T06:08:33+00:00
+ai_modified: 2026-10-12T19:11:51+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -74,7 +74,7 @@ Event-causal libertarianism holds that free actions are caused by nondeterminist
 
 Agent causation rests on *substance causation*—the view that substances (persisting things with causal powers) are the fundamental causal agents, and events are what substances *do*, not independent causal relata. Developed most thoroughly by E.J. Lowe with roots in Aristotelian and Thomistic philosophy, substance causation reframes the mind-body problem. If all causation is fundamentally substance causation, then consciousness causing physical events is paradigmatic.
 
-The dominant contemporary view is *event causation*: events cause events according to laws. When you act, *you* cause the action—not your desire causing your body to move. Lowe argued event causation reduces to substance causation ("A caused B" means "some substance exercised powers that brought about B") while the reverse reduction fails, since analysing "substance S exercised power P" presupposes S itself.
+The dominant contemporary view is *event causation*: events cause events according to laws. Lowe argued event causation reduces to substance causation ("A caused B" means "some substance exercised powers that brought about B") while the reverse reduction fails, since analysing "substance S exercised power P" presupposes S itself.
 
 This matters for [[mental-causation-and-downward-causation|mental causation]]. If event causation is fundamental, Kim's exclusion argument has force. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
 
@@ -104,11 +104,11 @@ The [[authentic-vs-inauthentic-choice|authenticity dimension]] matters: agent ca
 
 ## The Map's Framework: Where Agent Causation Interfaces with Physics
 
-The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. Siting the interface answers *where* influence occurs, not *which* subject exerts it; the [[pairing-problem|pairing problem]] awaits the pairing law the Map owes (P-SC2).
+The Map proposes *where* agent causation meets physics: at quantum indeterminacies, where—on indeterministic, single-outcome readings—outcomes are undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. Siting the interface answers *where* influence occurs, not *which* subject exerts it; the [[pairing-problem|pairing problem]] awaits the pairing law the Map owes (P-SC2).
 
 The [[causal-interface|causal interface void]] explains why this interface cannot be observed: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *expected* under minimal quantum interaction.
 
-The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; avian magnetoreception supplies precedent for warm quantum effects, not licence for the neural case (P-Q8).
+Tegmark's (2000) [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; avian magnetoreception supplies precedent for warm quantum effects, not licence for the neural case (P-Q8).
 
 ## Sourcehood
 
@@ -122,19 +122,19 @@ If agents cause actions, why don't they control every detail of skilled performa
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued): endogenous attention takes ~300ms to deploy versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989), and willed attention shows greater frontal theta and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023). The [[structure-of-attention|underlying mechanisms]]—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
+[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case. Cued facilitation peaks at ~100–175ms for a peripheral (reflexive) cue but ~400–725ms for a central (voluntary) arrow (Müller & Rabbitt 1989)—yet both are instructed. "Willed" attention (internally chosen) differs from "instructed" attention (externally cued) by a frontal theta increase from ~500ms post-cue, greater frontoparietal theta coherence, bidirectional Granger causality, and *later* attentional deployment (Rajan et al. 2019; Nadra & Mangun 2023). The [[structure-of-attention|underlying mechanisms]]—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
 
 Pre-prompt neural activity predicts free choices, paralleling the [[libet-experiments|Libet experiments]]. The Map's resolution: prior activity establishes *options*; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience fits this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
 
 ## Motor Selection: The Second Domain
 
-[[motor-selection|Motor selection]] extends agent causation beyond attention: monkey reach commitment falls ~280ms before movement and willing feels effortful, but the theta and coherence contrasts are measured for attention only. The single-domain objection is narrowed, not answered.
+[[motor-selection|Motor selection]] extends agent causation beyond attention: monkey reach commitment falls ~280ms before movement (Thura & Cisek 2014) and willing feels effortful, but the theta and coherence contrasts are measured for attention only. The single-domain objection is narrowed, not answered.
 
-The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) reports willing survives SMA resection's initiation deficits; Desmurget dissociates intention (parietal) from execution (premotor). The [[phenomenology-of-choice-and-volition|phenomenology of volition]] identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [[volitional-control|Phenomenology of Volitional Control]] for the full case). This literature removes a defeater without supplying support: the timing data do not refute conscious causation (P-A3).
+The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as the averaged signature of stochastic fluctuations crossing a threshold; Sjöberg (2024) reports willing survives SMA resection's initiation deficits; Desmurget dissociates intention (parietal) from execution (premotor), though parietal stimulation itself induced felt intention—evidence against reading that feeling as the agent's contribution. The [[phenomenology-of-choice-and-volition|phenomenology of volition]] identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [[volitional-control|Phenomenology of Volitional Control]] for the full case). This literature removes a defeater without supplying support: the timing data do not refute conscious causation (P-A3).
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but [[creative-consciousness|recent work]] reveals agents also *generate* options through imaginative exploration. This strengthens the view against the critic: if agents generate the options through imagination, they explain the outcome because they constituted the very options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
+Agent causation traditionally focuses on selection, but in [[creative-consciousness|creative consciousness]] agents also *generate* options through imaginative exploration. This strengthens the view against the critic: if agents generate the options through imagination, they explain the outcome because they constituted the very options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
 
 ## The Verification Limit and the Convergent Case
 
@@ -179,34 +179,33 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 - [[consciousness-and-agency]], [[process-and-consciousness]] — Apex syntheses
 - [[quantum-indeterminacy-free-will]] — Systematic treatment, Kane's naturalistic hybrid, and the luck objection in full
-- [[event-causal-libertarianism]] — The libertarian taxonomy locating this wing against its event-causal and non-causal rivals, with Kane's self-forming actions in full
+- [[event-causal-libertarianism]] — The libertarian taxonomy: agent-causal, event-causal and non-causal wings, with Kane's self-forming actions in full
 - [[agency-void]] — The verification-circularity limit on first-person verification of causal efficacy
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's empirical "wild coincidences" objection to agent-causal libertarianism
 - [[motor-selection]], [[attention-as-interface]], [[phenomenology-of-choice-and-volition]] — Empirical and phenomenological grounding
 - [[skill-delegation]], [[trumping-preemption]], [[mental-causation-and-downward-causation]], [[causal-closure]], [[causal-interface]] — Metaphysics of the interface
-- [[four-category-ontology]] — Lowe's substance-ontological foundation for the substance-causation this article rests on, and the fact-causation vs minimal-quantum-interaction fork
+- [[four-category-ontology]] — Lowe's ontological foundation for substance causation, and the fact-causation vs minimal-quantum-interaction fork
 - [[interactionist-dualism]], [[quantum-consciousness]] — Mind-body mechanism
 - [[argument-from-reason]], [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Non-phenomenological and clinical routes to mental causation
 - [[authentic-vs-inauthentic-choice]], [[consciousness-value-connection]], [[moral-implications-of-genuine-agency]] — Ethical implications
-- [[compatibilist-symmetry-challenge]] — Anti-slippage discipline: agent causation's distinguishing work at the moral pillar is tenet-coherence, not unique moral explanatory power over sophisticated compatibilism
+- [[compatibilist-symmetry-challenge]] — Agent causation's moral distinctiveness is tenet-coherence, not greater explanatory power than sophisticated compatibilism
 - [[topics/free-will]] — The broader question and Map's position
 
 ## References
 
 1. Aristotle. *Metaphysics*.
 1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
-1. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
-1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Hausman, C.R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 1. Jacobs, J.D. & O'Connor, T. (2013). "Agent Causation in a Neo-Aristotelian Metaphysics." In S. Gibb, E.J. Lowe, & R.D. Ingthorsson (Eds.), *Mental Causation and Ontology*. Oxford University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-1. Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
+1. Mele, A.R. (2006). *Free Will and Luck*. Oxford University Press.
 1. Müller, H.J., & Rabbitt, P.M.A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
@@ -214,7 +213,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 1. Reid, T. (1788). *Essays on the Active Powers of Man*.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
-1. Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. van Inwagen, P. (1983). *An Essay on Free Will*. Clarendon Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation and Downward Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation-and-downward-causation/

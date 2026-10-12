@@ -1,14 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12 19:01:00+00:00
+ai_modified: 2026-10-12 19:12:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-12'
-lastmod: 2026-10-12 19:01:00+00:00
+lastmod: 2026-10-12 19:12:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:12 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Source**: outer-review-2026-10-12-chatgpt-5-6-sol-pro §2, §7–8, items 17–23, 26–27. This is the P2 empirical-precision and bibliography task. Both earlier P1 passes from today were left intact: Kane scoping at L71, and the calibration recasts at L61, L89, L101, L127, L145, L151, L168 and in the falsifier list.
+- **Original score**: n/a. `scripts/curate.py` is absent, so the review file and the driver brief served as the review.
+- **Word count**: 3,476 → 3,492 (+16). Concepts hard limit is 3,500, gate `>=`, ceiling 3,499, so 7 words of headroom remain.
+  - The four orphan entries freed 53 words.
+  - Three Further Reading glosses and one redundant sentence freed 29 more.
+- **Changes**:
+  - (1) **L125, Müller & Rabbitt and Rajan.**
+    - The Müller & Rabbitt latencies now describe reflexive versus cued orienting. Peripheral facilitation peaks at ~100–175ms and central-arrow facilitation at ~400–725ms. The text adds that "both are instructed".
+    - The earlier "~300ms" figure was M&R's intro summary of prior work ("requiring 300 ms to reach optimum"). Their own result is "(at 400- to 725-ms SOAs)", grepped in the primary PDF.
+    - The willed-versus-instructed contrast is now attributed to Rajan 2019: a frontal theta increase "starting at ~500 ms post cue", frontoparietal theta coherence, "bidirectional Granger causality", and *later* deployment (alpha lateralization onset "delayed"). Checked against the OpenAlex abstract.
+  - (2) **L131.** The ~280ms reach commitment is now attributed to Thura & Cisek 2014. The entry was copied from `concepts/motor-selection`. The metadata (Neuron 81(6):1401-1416, doi 10.1016/j.neuron.2014.01.031) matches Crossref, and "Approximately 280 ms before movement onset" and "two-choice" (monkeys) were grepped in the primary PDF.
+  - (3) **L133, Schurger.** "noise artifact" is replaced by "the averaged signature of stochastic fluctuations crossing a threshold". This was checked against the abstract ("appear in the average as a gradual exponential-looking increase").
+  - (4) **L133, Desmurget.** Added a clause: parietal stimulation itself induced felt intention, which is evidence against reading that feeling as the agent's contribution. The abstract says stimulation "triggered a strong intention and desire to move".
+  - (5) **References.**
+    - Removed the orphans Boden 1990, Clarke 2003, Marmodoro 2017 and Swinburne 1997. Each had 0 body hits by surname, by year and by title.
+    - Tegmark 2000 is kept and now named at L111 ("Tegmark's (2000) decoherence challenge"). L111 states no decoherence figure, so nothing there falls to the batch-2 Tegmark-label task.
+    - Added van Inwagen 1983, *An Essay on Free Will*. L71 invokes the Consequence Argument, and Open Library confirms Clarendon Press, 1983.
+    - Added Mele 2006, *Free Will and Luck*. L99's cross-world luck framing is from this book: the NDPR review describes "otherwise identical worlds", and Crossref gives doi 10.1093/0195305043.001.0001.
+    - Added Kim 1998, *Mind in a Physical World* (MIT Press), for the exclusion argument at L79/L89. Crossref gives doi 10.7551/mitpress/4629.001.0001.
+  - (6) **L137.** "[recent work](/concepts/creative-consciousness/) reveals" now reads "in [creative consciousness](/concepts/creative-consciousness/)", at net zero words. This drops the implied literature claim and the "reveals" overclaim.
+  - **Rider, L107.** "The Map specifies *where*… where physics leaves outcomes undetermined" now reads "proposes *where*… where—on indeterministic, single-outcome readings—outcomes are undetermined". This matches the L89 qualifier and the L61/L168 "proposes" wording, at net zero.
+  - **Funding trims.**
+    - Cut the L77 sentence "When you act, *you* cause the action—not your desire causing your body to move", which duplicated L69's hand-raising point.
+    - Tightened the Further Reading glosses for compatibilist-symmetry-challenge, event-causal-libertarianism and four-category-ontology. The first also loses editor vocabulary: "Anti-slippage discipline", "moral pillar".
+- **Not changed**:
+  - L65 "load-bearing" is kept because it marks a premise the agent-causal argument depends on, which the style guide's structural use permits.
+  - Not added for lack of budget: Tulving 1985 for L121 (needs 11 words against 7 of headroom), and Stapp and Penrose-Hameroff for L168. L168 still names them, through the [quantum-consciousness](/concepts/quantum-consciousness/) link, which carries their references.
+- **Engagement modes**: no named-opponent replies were changed. Schurger and Desmurget are empirical, not opponents.
+- **Out of scope (noted)**: per the attention sweep's item (5), `concepts/motor-selection` L92/L155, `concepts/decoherence` L113, `concepts/timing-gap-problem` L53, `topics/motor-control-quantum-zeno` L68 and `apex/attention-as-causal-bridge` L79 still credit Müller & Rabbitt with "~300ms". That figure is their summary of earlier work; their own central-cue peak is 400–725ms.
+- **Published**: yes
 
 ## 19:01 - deep-review
 - **Status**: Success
