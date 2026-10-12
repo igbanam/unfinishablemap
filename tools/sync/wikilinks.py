@@ -118,8 +118,8 @@ def convert_wikilinks(
                 block_id = heading[1:]  # Remove the ^ prefix
                 url = f"{url}#{block_id}"
             else:
-                # Regular headings: slugify
-                heading_slug = slugify(heading)
+                # Regular headings: match Hugo's heading IDs
+                heading_slug = heading_anchor_slug(heading)
                 url = f"{url}#{heading_slug}"
 
         return f"[{display_text}]({url})"
@@ -239,6 +239,20 @@ def slugify(text: str) -> str:
     slug = slug.strip("-")
 
     return slug
+
+
+def heading_anchor_slug(text: str) -> str:
+    """Convert heading text to the anchor ID Hugo generates for it.
+
+    Unlike ``slugify``, consecutive hyphens are kept: Hugo renders the heading
+    "Motor Descending — Alien Hand Syndrome" as ``#motor-descending--alien-hand-syndrome``
+    (each space becomes a hyphen and the dash is dropped), so collapsing them
+    produces anchors that point nowhere.
+    """
+    slug = text.lower()
+    slug = re.sub(r"[\s_]+", "-", slug)
+    slug = re.sub(r"[^a-z0-9\-]", "", slug)
+    return slug.strip("-")
 
 
 def check_slug_available(
