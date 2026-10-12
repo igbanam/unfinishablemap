@@ -107,7 +107,7 @@ Framing will as control clarifies several aspects of the Map's position that rem
 
 **Stability analysis.** Control theory asks: under what conditions does the system remain stable? Disorders of consciousness and attention—ADHD, OCD, psychosis—may be interpretable as control instabilities: oscillation (OCD's repetitive loops), insufficient gain (ADHD's failure to stabilise selected patterns), or runaway feedback (psychotic states where the controller loses contact with plant state).
 
-**Degradation modes.** When a controller fails partially, control theory predicts specific failure patterns depending on which component degrades. Loss of sensor feedback produces different failures than loss of actuator authority. The Map's existing discussion of [dopamine deficiency](/concepts/motor-selection/#the-can-move-wont-move-distinction)—preserved capacity, lost initiative—maps onto actuator degradation: the control signal can't reach the plant effectively.
+**Degradation modes.** When a controller fails partially, control theory predicts specific failure patterns depending on which component degrades. Loss of sensor feedback produces different failures than loss of actuator authority. The Map's existing discussion of [dopamine deficiency](/concepts/motor-selection/#the-can-move--wont-move-distinction)—preserved capacity, lost initiative—maps onto actuator degradation: the control signal can't reach the plant effectively.
 
 ## What Control-Theoretic Will Is Not
 

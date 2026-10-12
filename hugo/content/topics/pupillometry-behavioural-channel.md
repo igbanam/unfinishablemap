@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-07-07 14:59:08+00:00
+ai_modified: 2026-10-12 12:11:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 12:16:12+00:00
-lastmod: 2026-07-07 14:59:08+00:00
+lastmod: 2026-10-12 12:11:42+00:00
 modified: *id001
 related_articles:
 - '[[voids/confabulation-void]]'
@@ -103,7 +103,7 @@ The channel-level dissociation is consistent with both physicalist and dualist a
 
 **Bidirectional Interaction** receives a methodological supplement from the pupillometry literature. If consciousness does any of the small-quantum-amplification work the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) envisages, the [confabulation void](/voids/confabulation-void/) guarantees that the verbal channel will retroactively label every action as caused by reasons-the-introspector-now-supplies. The pupillary channel, being involuntary and timed against external events, provides a partial external verification that the verbal-channel report and the bodily-channel signature can be separately registered. The Map does not claim the pupillary signature *is* the consciousness-side influence; the claim is more modest. It is that a method that registers bodily evidence independently of verbal report is methodologically *required* for any future programme that hopes to constrain the consciousness-interface question empirically — and that pupillometry, alongside EEG and fMRI, is among the developed instruments such a programme would deploy.
 
-**Evidential-status discipline.** The pupillometry findings are *contested but real*: a robust pattern at the structural level, with effect sizes that have been revised and individual studies that have not all replicated. The Map registers the finding as a calibration anchor for the introspection-architecture sub-cluster rather than as a settled empirical result. The [detection face of the confabulation void](/voids/confabulation-void/#detection-the-felt-signal-operates-inversely) cites the Rebouillat et al. 2021 anti-correlation finding alongside the choice-blindness pupillometry results as the convergent empirical anchor for the structural claim.
+**Evidential-status discipline.** The pupillometry findings are *contested but real*: a robust pattern at the structural level, with effect sizes that have been revised and individual studies that have not all replicated. The Map registers the finding as a calibration anchor for the introspection-architecture sub-cluster rather than as a settled empirical result. The [detection face of the confabulation void](/voids/confabulation-void/#detection--the-felt-signal-operates-inversely) cites the Rebouillat et al. 2021 anti-correlation finding alongside the choice-blindness pupillometry results as the convergent empirical anchor for the structural claim.
 
 A final reflexive note. The article's case rests on the verbal-channel/bodily-channel dissociation being *demonstrable from a third-person register*. The introspector reading this article cannot, from the inside, verify the dissociation in their own case — the pupillary channel is not first-person-accessible. The case is therefore one where structural third-person evidence is doing methodological work that no first-person discipline can replicate. This is part of why the Map treats pupillometry as one of the load-bearing empirical anchors for the [confabulation void](/voids/confabulation-void/)'s detection face, while remaining cautious about what the finding *settles*.
 
