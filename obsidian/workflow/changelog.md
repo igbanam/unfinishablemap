@@ -5,6 +5,19 @@ ai_modified: 2026-10-12T05:28:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 05:41 - deep-review
+- **Status**: Success
+- **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
+- **Word count**: 2925 → 2975 (+50; `ok`, 24 below soft 3000)
+- **Critical issues addressed**: 3. (1) The 09-09 "closed by construction" repair left sibling loci live: "complete functional specification" (Dualism), "fully specified" (Occam), "builder understands" (lead). Calibrated to "build records this detailed", "largely specified" and "largely understands". (2) The Dualism paragraph attributed to designers a reason ("the kind of question … rather than modesty about a hard measurement") that the quoted rival Rouleau & Levin explicitly contradict (measurement). It also contradicted the Crux section's "without the builder noticing". Rewritten with the source and Map readings separated, plus a theory-gap functionalist concession. (3) Cited-author stance: "a 2006 design nobody proposes to treat as a subject" against co-builder Lipson's "A system that can simulate itself is to some degree self-aware", grep-verified in raw Quanta HTML. Corrected, and Pavlus 2019 added as ref 8 (refs renumbered).
+- **Medium issues addressed**: 3. "cognitive-grade" → "agency-grade" (metabolism and locomotion are not cognitive vocabulary). "none … looks like a phenomenal ingredient" gains "— though neither is a brain", which blocks an absence inference. Joy 2024 motive attribution softened ("because there is no measurement" → "and no available measurement could supply one").
+- **Enhancements made**: 2. Rouleau & Levin reply upgraded with their own verified concession, "the same functional outcomes can, in principle, be generated without sentience" (PMC10646883). Lead "closes scratches" → "induces repair of scratches" (source: "inducing rapid repair").
+- **Citation ledger**: 10 sources; all metadata from Crossref field-print; every quote grepped in Europe PMC full text, the PubMed abstract or raw page HTML. 9 real-correct, 1 added (Pavlus 2019). Result-direction leg confirmed for Kriegman 2020 debris aggregation and self-repair (PMC6994979).
+- **Engagement classification** (editor-internal): Rouleau & Levin are Mixed, with the internal step upgraded to Mode One on their own concession. Functionalism in the Dualism paragraph is Mode Three, now honest about the theory-gap reading. No label leakage.
+- **Untouched**: every `anchoring_audit_exempt` quoted phrase (verified present); `ai_system` (not a substantial rewrite).
+- **Sweep loci**: none of the queued corpus-wide sweeps (radical-pair, Tegmark, Maier, Bostrom, Saad, willed-attention) occur in this file.
+- **Output**: [[reviews/deep-review-2026-10-12-synthetic-minimal-agents-and-the-engineered-decoupling]]
+
 ## 05:28 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-12
