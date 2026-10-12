@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-10-12T05:56:43+00:00
+ai_modified: 2026-10-12T06:08:33+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -58,7 +58,7 @@ coalesced_from:
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
 
-The Unfinishable Map's agency cluster reads the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet agent-causally; the tenet itself commits only to outcome-selection ([[where-the-substance-commitment-enters]]). The Map specifies *how* selection occurs—at quantum indeterminacies—while agent-causal philosophy supplies *what* is happening: substances exercising irreducible causal powers.
+The Unfinishable Map's agency cluster reads the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet agent-causally; the tenet itself commits only to outcome-selection ([[where-the-substance-commitment-enters]]). The Map proposes *where* selection occurs—at quantum indeterminacies—while agent-causal philosophy supplies *what* is happening: substances exercising irreducible causal powers.
 
 ### Scope of the Substance-Leaning Commitment
 
@@ -86,7 +86,7 @@ Lowe's *Personal Agency* (2008) locates causation primarily at the substance lev
 
 The standard objection to [[interactionist-dualism|interactionist dualism]] is that consciousness causing physical events would be "metaphysically exceptional." Substance causation dissolves this: if *all* causation is substances exercising powers, consciousness causing events is the same *type* of causation as anything else—paradigmatic, not anomalous. This removes the objection that it *couldn't*, without proving that it does.
 
-Kim's exclusion argument depends on [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. Substance causation shifts the dialectic to whether physical *substances* are the only substances with causal powers. The Map's quantum framework strengthens this—at quantum indeterminacies, physics specifies probabilities but not outcomes, so there is no sufficient physical cause—while [[trumping-preemption]] supplies a complementary response: even granting physical sufficiency, the agent can be the *authoritative* cause of an action a sufficient physical process also produced, with no trajectory deviation required.
+Kim's exclusion argument depends on [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. Substance causation shifts the dialectic to whether physical *substances* are the only substances with causal powers. The Map's quantum framework strengthens this—at quantum indeterminacies, on single-outcome, indeterministic interpretations, physics specifies probabilities but not outcomes, so there is no sufficient physical cause—while [[trumping-preemption]] supplies a complementary response: even granting physical sufficiency, the agent can be the *authoritative* cause of an action a sufficient physical process also produced, with no trajectory deviation required.
 
 Challenges include the *laws problem* (Lowe: laws describe what substances tend to do), the *agent problem* (the [[quantum-indeterminacy-free-will|luck objection]], addressed below), and the [[pairing-problem|pairing problem]] (the interface supplies a location, not yet a pairing law).
 
@@ -98,7 +98,7 @@ Challenges include the *laws problem* (Lowe: laws describe what substances tend 
 
 The central challenge: if indeterminism leaves outcomes undetermined, nothing about the agent explains which choice occurs. Mele's version: in two identical worlds where the agent chooses differently, what explains the difference? Nothing—it's luck.
 
-Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [[quantum-indeterminacy-free-will|full response]] turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [[mental-effort]], [[phenomenology-of-choice-and-volition]]); (3) consciousness selects on reasons, making [[the-divided-will#luck-objection|non-akratic]] selection contrastively explicable; (4) if [[retrocausality|selection is atemporal]], the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
+Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [[quantum-indeterminacy-free-will|full response]] turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [[mental-effort]], [[phenomenology-of-choice-and-volition]]); (3) consciousness selects on reasons, making [[the-divided-will#luck-objection|non-akratic]] selection contrastively explicable; (4) if [[retrocausality|selection is atemporal]], the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. That terminus says *who* settles the outcome, not why it went one way.
 
 The [[authentic-vs-inauthentic-choice|authenticity dimension]] matters: agent causation is fully engaged in authentic choice and attenuated in scripted behavior—suggesting variable engagement rather than uniform operation.
 
@@ -124,7 +124,7 @@ If agents cause actions, why don't they control every detail of skilled performa
 
 [[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued): endogenous attention takes ~300ms to deploy versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989), and willed attention shows greater frontal theta and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023). The [[structure-of-attention|underlying mechanisms]]—frontal decision circuits, salience network switching, thalamic gating—identify specific sites where consciousness could bias undetermined outcomes without generating signals *de novo*.
 
-Pre-prompt neural activity predicts free choices, paralleling the [[libet-experiments|Libet experiments]]. The Map's resolution: prior activity establishes *options*; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience confirms this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
+Pre-prompt neural activity predicts free choices, paralleling the [[libet-experiments|Libet experiments]]. The Map's resolution: prior activity establishes *options*; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience fits this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
 
 ## Motor Selection: The Second Domain
 
@@ -142,24 +142,22 @@ Agent causation faces a structural limit any account of mental causation inherit
 
 The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
 
-- **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([[phenomenology-of-choice-and-volition]], [[mental-effort]]).
+- **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; epiphenomenalists (by psychophysical law) and illusionists accommodate this too ([[phenomenology-of-choice-and-volition]], [[mental-effort]]).
 - **Neural data on willed versus instructed attention.** Self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023)—a decision-load signature physicalism also predicts, untested for movement; SMA resection impairing initiation but not willing (Sjöberg 2024) is separate motor evidence.
 - **The [[argument-from-reason]].** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([[clinical-neuroplasticity-evidence-for-bidirectional-causation]]).
 - **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([[cross-cultural-convergence-on-mental-causation]]).
 
-Each anchor stands or falls on its own merits; the convergence is what carries the case. If the selector model is wrong about the quantum interface, the philosophical case survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The framework is robust because it concentrates no weight at any single point—least of all first-person introspection, where verification fails by structure.
+Each anchor stands or falls on its own merits. If the selector model is wrong about the quantum interface, the philosophical case survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The effort, attention and clinical anchors overlap, all tapping executive control, and mostly show compatibility rather than support; no weight rests on first-person introspection, where verification fails by structure.
 
 The agency void is therefore a feature of the territory rather than something the framework dissolves. Genuine authorship is consistent with the impossibility of certifying it from inside: what looks like a weakness when one expects introspective proof is the structurally appropriate epistemic situation for any account of mental causation.
 
 ## What Would Challenge This View?
 
-Agent causation is falsifiable. Key challenges:
+Agent causation is falsifiable in principle. Key challenges:
 
-- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap; current accuracy remains well below this.
+- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap.
 - **Elimination of neural quantum effects**: excluding quantum coherence in brain tissue would break only the coherence-dependent candidates; post-decoherence selection needs undetermined neural outcomes, not coherence.
-- **Dissociation of effort and outcome**: if effort didn't correlate with decision difficulty, phenomenological support collapses; it does correlate.
-- **No willed/instructed distinction**: identical neural signatures would weaken the claim that consciousness adds something; research robustly distinguishes them.
 - **Solving the hard problem materialistically**: a compelling materialist account of subjective experience would reduce the motivation for treating consciousness as a separate causal factor.
 - **[[concepts/many-worlds|Many-worlds]], if the global-exclusion posit fell**: The falsifier sits at that posit, not in the quantum-foundational register. An Everettian can reproduce agent causation's data branch-locally (a determinate past, an agent exercising causal power among options, a remembered history of choosing); what branching cannot supply is the *global exclusion* of unchosen alternatives the framework posits. Agent causation would therefore be challenged not by MWI passing an empirical test but by a demonstration that authorship can be grounded without a fact of the matter that the unchosen alternatives genuinely did not happen (see [[#relation-to-site-perspective|Relation to Site Perspective]] and the MWI checklist in [[project/evidential-status-discipline|the evidential-status discipline]]).
 
@@ -167,7 +165,7 @@ Agent causation is falsifiable. Key challenges:
 
 Agent causation is the tradition to which the Map's agency cluster belongs. It reads the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet agent-causally: the conscious subject, as substance, causes physical events. The tenet itself commits only to outcome-selection, and the tradition is a [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]], not a parochial Western thesis.
 
-What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides it—at quantum indeterminacies, where physics specifies probabilities but not outcomes—and [[quantum-consciousness|quantum consciousness mechanisms]] (Stapp, Penrose-Hameroff) describe how this might work.
+What the Map adds is a candidate interface location. Traditional agent causation lacked an account of *where* or *how* the agent meets the physical world; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes *where*—quantum indeterminacies—and the *how* remains the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]]: if selection shifts outcome frequencies, it predicts a Born-rule deviation not yet observed; if not, what selection adds is unexplained. [[quantum-consciousness|Stapp's and Penrose-Hameroff's models]] remain coherence-dependent candidates.
 
 The [[consciousness-value-connection]] deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation is the mechanism through which value is realised in the physical world—agents act *for the sake of* value because they are acquainted with it through experience.
 
@@ -175,7 +173,7 @@ The [[tenets#^dualism|Dualism]] tenet is essential to the Map's agent causation,
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet does exclusion work for agent causation, not merely quantum-interpretation work. A branching ontology can restate the deliberative data—a branch-local agent who exercises causal power and remembers choosing—while every rejected option is actualised by a counterpart elsewhere. The Map holds that this dissolves authorship into counterparts none of whom did anything the others failed to do; that judgment rests not on sourcehood alone but on a global-exclusion condition—a [[tenets/background-commitments|posit the Map adopts]], asserted rather than derived from the agency case. The rejection of MWI on agency grounds therefore rests on sourcehood plus this posit, not on the weaker claim that selection "requires real collapse." See [[topics/free-will]] and [[concepts/moral-responsibility]] for parallel statements, and the [[many-worlds-argument|cumulative case against MWI]] for the full treatment.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main objection—that agent causation is metaphysically extravagant. That tenet does not license the posit; it only refuses to let parsimony *veto* it. The posit earns its keep by answering the disappearing-agent objection that event causation cannot. Against [[concepts/epiphenomenalism]]: if consciousness is a genuine substance, it has causal powers by its nature—substances *act*; that's what makes them substances.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main objection—metaphysical extravagance. That tenet does not license the posit; it only refuses to let parsimony *veto* it. The posit earns its keep by answering the disappearing-agent objection that, on the Map's reading, event causation cannot. Against [[concepts/epiphenomenalism]]: if consciousness is a genuine substance, it has causal powers by its nature—substances *act*; that's what makes them substances.
 
 ## Further Reading
 

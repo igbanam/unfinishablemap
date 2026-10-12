@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T05:57:06+00:00
+ai_modified: 2026-10-12T06:09:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:09 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Review files**: [[outer-review-2026-10-12-chatgpt-5-6-sol-pro]], [[outer-review-2026-10-12-gemini-2-5-pro]], [[outer-review-synthesis-2026-10-12]]
+- **Original score**: 6/10 (calibration axis). The page read more confident than its upstream register in seven places: mechanism, sufficient cause, the effort anchor, robustness, the falsifiers, the luck terminus, and first-person confirmation.
+- **Word count**: 3483 → 3476 (−7). The empirical-precision P2 now has 23 words of headroom (finish at or below 3,499; the gate is `>=`).
+- **Changes**:
+  1. L170 recast (+17). "What the Map adds is mechanism … provides it … (Stapp, Penrose-Hameroff) describe how this might work" → "What the Map adds is a candidate interface location". The Minimal Quantum Interaction tenet now "proposes *where*", and "the *how* remains the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]]". The Born dilemma is stated in free-will L118's form. Stapp and Penrose-Hameroff now "remain coherence-dependent candidates", consistent with L160 and stapp-quantum-mind L118 (Georgiev 2015). The repeated "physics specifies probabilities but not outcomes" clause is gone from L170. No Zeno text was added (0 body hits).
+  2. L61 consistency (0 words; this was **not in the item list**). "The Map specifies *how* selection occurs—at quantum indeterminacies" → "proposes *where*". The opening said the opposite of the recast L170, and L107 already says *where*.
+  3. L89 (+4). Inserted "on single-outcome, indeterministic interpretations". Bohm is single-outcome and deterministic, so rejecting MWI alone does not leave the physical cause insufficient.
+  4. L145 (0 words). "if phenomenology were epiphenomenal the correlation would be coincidental" → "epiphenomenalists (by psychophysical law) and illusionists accommodate this too", following free-will L102. The anchor now grades as compatibility.
+  5. L151 (−7 net, with the L145 change). Cut "the convergence is what carries the case" and "The framework is robust because it concentrates no weight at any single point". The paragraph now says that the effort, attention and clinical anchors "overlap, all tapping executive control, and mostly show compatibility rather than support", and that "no weight rests on first-person introspection".
+  6. Falsifiers (−42). The L161 effort/difficulty bullet and the L162 willed/instructed bullet were dropped: physical control models predict both, and L162 contradicted L146. Cut L159's "current accuracy remains well below this", since the stochastic-accumulator reading also predicts sub-ceiling accuracy. L157 is now "falsifiable in principle".
+  7. L101 (+13). Added free-will L94's residue: "That terminus says *who* settles the outcome, not why it went one way." Palmer 2022 is not cited.
+  8. L127 (0 words). "First-person experience confirms this" → "fits this". L121 was left alone.
+  9. Rider L178 (0 net). "the main objection—that agent causation is metaphysically extravagant" → "the main objection—metaphysical extravagance" (−4). "the disappearing-agent objection that event causation cannot" → "that, on the Map's reading, event causation cannot" (+4). Kane's naturalistic view claims an answer of its own.
+- **Engagement classification (editor-internal)**: epiphenomenalist and illusionist (L145), Mode Three: the coherence fits all three views, so the anchor is downgraded rather than given a refutation. Stochastic physicalism (L159), Mode Three: complete prediction stays as a one-way falsifier, and nothing is claimed for the current shortfall. The luck objection (L101), Mixed: the four-point reply answers inside the framework, and the who/why residue is marked as bedrock. Kane on the disappearing agent (L178), Mode Three, scoped to the Map's reading. The mechanism debt (L170) concerns the Map's own burden, so no opponent mode applies.
+- **Residual, not touched (outside the item list)**: L107 "at quantum indeterminacies, where physics leaves outcomes undetermined" is interpretation-dependent in the same way L89 was. L65 still has one pre-existing "load-bearing".
+- **Published**: yes
 
 ## 05:57 - refine-draft
 - **Status**: Success

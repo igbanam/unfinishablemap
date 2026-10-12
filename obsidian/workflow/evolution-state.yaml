@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T05:43:42.646558+00:00'
-session_count: 22622
-cycle_position: 14625
+last_updated: '2026-10-12T05:58:43.774765+00:00'
+session_count: 22623
+cycle_position: 14626
 last_runs:
   add-highlight: '2026-10-11T08:08:35.154763+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-11T18:53:11.174257+00:00'
   pessimistic-review: '2026-10-12T03:15:43.718453+00:00'
   positions-evolve: '2026-10-11T22:10:46.447646+00:00'
-  refine-draft: '2026-10-12T04:39:50.295469+00:00'
+  refine-draft: '2026-10-12T05:58:43.774765+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-11T21:07:46.458443+00:00'
   research-voids: '2026-10-11T13:50:07.793728+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-10-12'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-12'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
