@@ -2151,16 +2151,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-11-constitutive-twins-wing.md`
 - **Notes**: HEADROOM: 3,402 of 4,000 after the 23:05Z edit. L192 reads "If cognitive phenomenology were confabulation, this coupling would be coincidence; PCT explains it: the phenomenology *is* the understanding." Two problems. (1) It sets up a false dichotomy: today's `concepts/cognitive-phenomenology` L127 replacement rejects confabulation-or-constitution, because a feeling can track success without constituting it. Reuse L127's wording ("tracking, not constitution"). (2) "*is*" reads as identity, but `concepts/phenomenal-constitution-thesis` says constitution without identity. A 0 to +15 word fix: frame PCT as one available explanation alongside tracking, and change "*is*" to "partly constitutes". Read PCT's current text (edited 22:20Z today) first. Locate by QUOTED text; confirm it occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
-### P2: Hoel said to "support" Tenet 5 in `concepts/continual-learning-argument` L166 and `topics/hoel-llm-consciousness-continual-learning` L100, against the concept page's own L158 ("does not favour dualism") (tenet-check 149 W3, carries 148 W5)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/continual-learning-argument.md
-- **Status**: pending
-- **Source**: tenet-check 2026-10-12 (check 149), driver-minted from its Priority List
-- **Generated**: 2026-10-12
-- **Review file**: `reviews/tenet-check-2026-10-12.md`
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/hoel-llm-consciousness-continual-learning.md
-- **Notes**: Warning 3, TWO FILES; report each. concept L166 is +15 against 49 of headroom; topic L100 is +14 against 877. Apply the review's EXACT replacement strings for this Warning (section "## Warnings"), pulling them by script. Locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; leave ai_system unchanged; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P2: `topics/deep-computational-markers-for-machine-consciousness` L80 and L90 credit the sufficiency ceiling to Tenet 1 and say it "*must* hold", while the page's own L96 routes it through Tenet 2 (tenet-check 149 W4)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/deep-computational-markers-for-machine-consciousness.md
@@ -2466,6 +2456,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-12: Hoel said to "support" Tenet 5 in `concepts/continual-learning-argument` L166 and `topics/hoel-llm-consciousness-continual-learning` L100, against the concept page's own L158 ("does not favour dualism") (tenet-check 149 W3, carries 148 W5)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/continual-learning-argument.md
+- **Notes**: Warning 3, TWO FILES; report each. concept L166 is +15 against 49 of headroom; topic L100 is +14 against 877. Apply the review's EXACT replacement strings for this Warning (section "## Warnings"), pulling them by script. Locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; leave ai_system unchanged; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-12: `topics/terminal-lucidity-and-filter-transmission-theory` L177 still calls the filter model "the more economical explanation", which the page's own 10-11 deep review deleted at L152 (tenet-check 149 W1)
 - **Type**: refine-draft

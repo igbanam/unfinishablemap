@@ -5,6 +5,30 @@ ai_modified: 2026-10-12T16:05:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 16:47 - deep-review
+- **Status**: Success
+- **File**: [[concepts/teaching-as-metarepresentation]]
+- **Selection**: the selector's #1 (lawful-appearance-problem) and #2 (q3-q4-sliding-boundary) were on the driver's edited-today list. This article carried the largest unreviewed change among the next candidates: +55/−115 lines, almost all from the 2026-09-05 refine-draft `3eab3f4d16`, which no deep review had read.
+- **Word count**: 3,301 → 3,332 (+31; concepts hard 3,500, gate `>=`, headroom 167). About 20 of the words are the new Apperly & Butterfill References entry.
+- **Critical issues addressed**: 6.
+  - (1) The description's "the Map reads that gap as evidence" contradicted the body's L61/L71, which say functional-teaching rarity does not evidence representational absence. Relabelled.
+  - (2) The Caro & Hauser 1992 definition had dropped "only", "or at least without … immediate benefit" and "more rapidly or efficiently" (verbatim from p.153 via Strauss et al.'s quotation). Restored.
+  - (3) Strauss, Ziv & Stein 2002 was misreported. "Spontaneously" (the children were invited to teach) became "unguided". "Error diagnosis" (unsupported) became "began checking understanding and correcting errors by restating rules". The unsupported "by five to seven" tail was cut. Checked against the author PDF.
+  - (4) Gruber et al. 2015 was an orphan reference, and the coinage it names (the Jourdain Hypothesis) was uncredited. Cited inline.
+  - (5) The two-systems account was uncredited. Apperly & Butterfill 2009 is now credited and the reference added.
+  - (6) The AI section's confident absence claim ("without representing anything about knowledge or its absence") contradicted the article's own falsifier 4 and `jourdain-hypothesis` L133. Rewritten agnostic.
+- **Medium issues addressed**: 4.
+  - L49 "the Map argues, requires phenomenal consciousness" became "on the Map's tenets".
+  - The Dualism section's "appears in humans alone" became "is so far attested only in humans".
+  - Morgan 2015's "improved sharply with gestural and verbal" became "with teaching, above all with language", matching the abstract.
+  - Read 2022's "great ape" became "chimpanzee", matching the abstract.
+- **Enhancements made**: 1. Added the Strauss knowledge-gap-before-false-belief result, which strengthens falsifier 2.
+- **Citation ledger**: 18/18 metadata real-correct from raw Crossref JSON. Results were checked in OpenAlex abstracts, nature.com full text (Musgrave 2016) and the author PDF (Strauss 2002). Kline's five type names are now verified via two Europe PMC full texts. Inline ↔ References is clean both ways.
+- **Engagement modes**: illusionism (Frankish), Mixed: Mode Two opens, Mode Three closes. Natural pedagogy: presupposition identification, with no refutation claimed. No label leakage.
+- **Queued-sweep loci**: none present (no Tegmark, Zeno or Maier lines).
+- **Out of scope (noted, not fixed)**: `concepts/metacognition.md` L128 uses ape teaching rarity as evidence against representing uncertainty, an inference this article disowns. `topics/consciousness-and-cognitive-distinctiveness.md` L88 says "cannot accumulate".
+- **Output**: [[reviews/deep-review-2026-10-12-teaching-as-metarepresentation]]
+
 ## 16:05 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/continual-learning-argument]] (primary) and [[topics/hoel-llm-consciousness-continual-learning]] (secondary)

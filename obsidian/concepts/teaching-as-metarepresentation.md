@@ -1,12 +1,12 @@
 ---
 title: "Teaching as Metarepresentational Achievement"
-description: "Teaching means knowing you know and that others don't. Apes rarely teach; the Map reads that gap as evidence metarepresentation may depend on consciousness."
+description: "Teaching means representing your knowledge as knowledge another lacks. The Map argues that this declarative step, which apes appear to lack, may depend on consciousness."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-09-05T18:12:59+00:00
+ai_modified: 2026-10-12T16:43:03+00:00
 draft: false
-last_deep_review: 2026-07-08T18:22:43+00:00
+last_deep_review: 2026-10-12T16:43:03+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-22
 last_curated: null
 ---
@@ -46,17 +46,17 @@ Teaching involves at least five nested representational operations:
 4. **Gap representation**: Representing the relation between your knowledge and their ignorance (understanding that what you know is what they need)
 5. **Pedagogical action**: Adjusting your behaviour specifically to transmit the knowledge (demonstrating slowly, highlighting key features, simplifying the task)
 
-Each level builds on the previous: without knowing that you know, you cannot recognise that another doesn't; without recognising the gap, you cannot act to bridge it. Teaching requires the full stack operating simultaneously—a feat that loads heavily on [[working-memory|working memory]] and, the Map argues, requires phenomenal consciousness.
+Each level builds on the previous: without knowing that you know, you cannot recognise that another doesn't; without recognising the gap, you cannot act to bridge it. Teaching requires the full stack operating simultaneously—a feat that loads heavily on [[working-memory|working memory]] and, on the Map's tenets, requires phenomenal consciousness.
 
 ### The Jourdain Parallel
 
-The [[jourdain-hypothesis|Jourdain Hypothesis]]—that apes have culture but may not know they have culture—applies with particular force to teaching. A chimpanzee mother may know how to fish for termites and tolerate her infant's proximity while fishing; the record does not show her representing her knowledge as knowledge the infant lacks, or adjusting her behaviour specifically to transmit it. Molière's Monsieur Jourdain spoke prose without knowing it was prose; chimpanzees *have* skills without knowing they have skills—without representing them as things that could be possessed or lacked, transmitted or withheld. Teaching requires Jourdain's transition from doing to knowing-that-you're-doing, plus knowing that another doesn't and acting on that double knowledge.
+The [[jourdain-hypothesis|Jourdain Hypothesis]] (Gruber et al., 2015)—that apes have culture but may not know they have culture—applies with particular force to teaching. A chimpanzee mother may know how to fish for termites and tolerate her infant's proximity while fishing; the record does not show her representing her knowledge as knowledge the infant lacks, or adjusting her behaviour specifically to transmit it. Molière's Monsieur Jourdain spoke prose without knowing it was prose; chimpanzees *have* skills without knowing they have skills—without representing them as things that could be possessed or lacked, transmitted or withheld. Teaching requires Jourdain's transition from doing to knowing-that-you're-doing, plus knowing that another doesn't and acting on that double knowledge.
 
 ## Evidence from Great Apes
 
 ### Functional Teaching and Representational Teaching
 
-Comparative biology identifies teaching functionally: on Caro and Hauser's (1992) criteria, an individual teaches when it modifies its behaviour in the presence of a naive observer, at some cost to itself, so that the observer acquires a skill sooner. The Map's thesis concerns something stronger—the knower *representing* the learner's ignorance as a state to be changed—and the two definitions come apart in both directions.
+Comparative biology identifies teaching functionally: on Caro and Hauser's (1992) criteria, an individual teaches when it modifies its behaviour only in the presence of a naive observer, at some cost (or at least no immediate benefit) to itself, so that the observer learns sooner or more efficiently. The Map's thesis concerns something stronger—the knower *representing* the learner's ignorance as a state to be changed—and the two definitions come apart in both directions.
 
 Functional teaching is documented far from the great apes. Tandem-running *Temnothorax* ants lead naive nest-mates to food with bidirectional feedback between leader and follower, and Franks and Richardson (2006) concluded that the value of information, rather than the constraint of brain size, has shaped teaching's evolution; meerkats provision pups with progressively disabled prey (reviewed in Thornton & Raihani, 2008). Kline (2015) sorts the record into five types—social tolerance, opportunity provisioning, stimulus or local enhancement, evaluative feedback, and direct active teaching—dissolving any binary of teaching versus its absence. Functional teaching tracks ecology rather than cognitive sophistication, so its rarity in apes no more evidences representational absence than its presence in ants evidences representational presence; what the ape record can show is whether any behaviour tests for the knower's representation of the learner's state.
 
@@ -66,7 +66,7 @@ Great apes' social learning—emulation, social facilitation, stimulus and local
 
 ### Where Ape Representation Is Tested
 
-The Goualougo transfers meet the functional criteria (Musgrave et al., 2016). The datum that bears on *representation* is the follow-up: transfers are more frequent, and more often active, in the population where the extraction task is more complex (Musgrave et al., 2020). A donor whose helping tracks the learner's need is at least a candidate for representing that need—though transfer rates could track the donor's own task difficulty or the learner's soliciting without any representation of ignorance, and the result rests on a single population pair. It raises the question without settling it.
+The Goualougo transfers meet the functional criteria (Musgrave et al., 2016). The datum that bears on *representation* is the follow-up: transfers are more frequent, and more often active, in the population where the extraction task is more complex (Musgrave et al., 2020). A donor whose helping tracks the learner's need is at least a candidate for representing that need—though transfer rates could track the donor's own task difficulty or the learner's soliciting without any representation of ignorance, and the result rests on a single population pair.
 
 Even granting every case, ape teaching remains rare and content-thin beside the ubiquitous pedagogy of every human culture—but that is a contrast in *functional* teaching; the Map's inference to representational absence rests instead on the procedural/declarative boundary argued in [[metacognition]] and the two-systems reading below.
 
@@ -76,11 +76,11 @@ Three considerations connect teaching to consciousness. Each establishes an *acc
 
 ### The Working Memory Demand
 
-Teaching requires holding your knowledge, the learner's state, the gap, and the bridging action simultaneously. Humans maintain roughly four items in [[working-memory|working memory]] (Cowan, 2001); great ape working memory has been estimated at roughly 2±1 items (Read, Manrique & Walker, 2022), an estimate the Map's [[working-memory]] article holds loosely—the qualitative point, not the slot arithmetic. If working memory manipulation depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, teaching inherits the dependence; chaining these representations into a new pedagogical sequence is the "novel combinations" function [[conscious-vs-unconscious-processing]] identifies as requiring consciousness.
+Teaching requires holding your knowledge, the learner's state, the gap, and the bridging action simultaneously. Humans maintain roughly four items in [[working-memory|working memory]] (Cowan, 2001); chimpanzee working memory has been estimated at roughly 2±1 items (Read, Manrique & Walker, 2022), an estimate the Map's [[working-memory]] article holds loosely—the qualitative point, not the slot arithmetic. If working memory manipulation depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, teaching inherits the dependence; chaining these representations into a new pedagogical sequence is the "novel combinations" function [[conscious-vs-unconscious-processing]] identifies as requiring consciousness.
 
 ### The Theory of Mind Requirement
 
-Teaching requires representing the learner's *ignorance* as a state to be changed (see [[topics/consciousness-and-social-understanding|consciousness and social cognition]]). Great apes pass Level 1 tests—tracking what others see, attend to, and pursue—and the Level 2 evidence has moved: Krupenye et al. (2016) found chimpanzees, bonobos, and orangutans anticipating agents who would act on false beliefs. The Map's [[theory-of-mind]] article, the source page for these levels, reads the data through a two-systems account—an efficient implicit system tracking belief-like states, plausibly shared with apes, and an explicit, flexible system for full belief reasoning—with unambiguous metarepresentation entering at Level 3. Teaching needs the explicit system: the learner's ignorance must be held as an object in the workspace and operated on—"I know X; they don't; their not-knowing is a state I can change." What apes appear to lack, on this reading, is not belief-tracking but its *declarative* use—the [[metacognition|procedural/declarative boundary]] again—a narrower claim than ape rarity is sometimes made to carry.
+Teaching requires representing the learner's *ignorance* as a state to be changed (see [[topics/consciousness-and-social-understanding|consciousness and social cognition]]). Great apes pass Level 1 tests—tracking what others see, attend to, and pursue—and the Level 2 evidence has moved: Krupenye et al. (2016) found chimpanzees, bonobos, and orangutans anticipating agents who would act on false beliefs. The Map's [[theory-of-mind]] article, the source page for these levels, reads the data through Apperly and Butterfill's (2009) two-systems account—an efficient implicit system tracking belief-like states, plausibly shared with apes, and an explicit, flexible system for full belief reasoning—with unambiguous metarepresentation entering at Level 3. Teaching needs the explicit system: the learner's ignorance must be held as an object in the workspace and operated on—"I know X; they don't; their not-knowing is a state I can change." What apes appear to lack, on this reading, is not belief-tracking but its *declarative* use—the [[metacognition|procedural/declarative boundary]] again—a narrower claim than ape rarity is sometimes made to carry.
 
 ### The Phenomenology of Teaching
 
@@ -88,7 +88,7 @@ There is something it is like to teach: recognising that a learner doesn't under
 
 ## The Cumulative Culture Connection
 
-Teaching raises the fidelity and robustness of cultural transmission and so strengthens the ratchet of [[cumulative-culture|cumulative culture]]; whether it is *necessary* for the ratchet is an empirical question the evidence answers against. Zwirner and Thornton (2015) ran transmission chains on a basket-building task: teaching chains produced more robust baskets, but emulation chains—learners examining earlier baskets with no demonstration—improved efficacy just as much despite low copying fidelity, so teaching proved useful but not essential. Morgan et al. (2015) found Oldowan-style stone-knapping transmitted poorly by observation alone and improved sharply with gestural and verbal teaching, and Dean et al. (2012) found that children, but not chimpanzees or capuchins, taught one another on a multi-stage puzzle box.
+Teaching raises the fidelity and robustness of cultural transmission and so strengthens the ratchet of [[cumulative-culture|cumulative culture]]; whether it is *necessary* for the ratchet is an empirical question the evidence answers against. Zwirner and Thornton (2015) ran transmission chains on a basket-building task: teaching chains produced more robust baskets, but emulation chains—learners examining earlier baskets with no demonstration—improved efficacy just as much despite low copying fidelity, so teaching proved useful but not essential. Morgan et al. (2015) found Oldowan-style stone-knapping transmitted poorly by observation alone and improved with teaching, above all with language, and Dean et al. (2012) found that children, but not chimpanzees or capuchins, taught one another on a multi-stage puzzle box.
 
 Teaching amplifies accumulation, above all where a skill is causally opaque and cannot be reverse-engineered from its products. What teaching adds is deliberate scaffolding, and scaffolding requires the expert to represent their knowledge as transmittable knowledge—the move the [[jourdain-hypothesis|Jourdain Hypothesis]] suggests apes do not make. Metarepresentation enables teaching; teaching amplifies cumulative culture; and if metarepresentation depends on consciousness, consciousness contributes to humanity's most distinctive achievement without being its sole condition.
 
@@ -104,11 +104,11 @@ Whether crossing that threshold requires phenomenal consciousness is where the d
 
 ## Developmental Evidence
 
-Human teaching emerges alongside metarepresentational abilities, though the synchrony is looser than a clean threshold. Before age 3, children point, show, and offer objects—precursors that may share attention without representing the other's knowledge state as modifiable. Strauss, Ziv, and Stein (2002) found three-year-olds—an age at which most children still fail explicit false-belief tests—already teaching a peer spontaneously by demonstration, while five-year-olds accompanied demonstration with verbal explanation, feedback, and error diagnosis; by five to seven, children scaffold, check comprehension, and adjust to the learner's level. The trajectory parallels the emergence of [[metacognition|metarepresentation]] and exemplifies the broader [[consciousness-interface-development|transformation of the consciousness-interface across childhood]]. Teaching's *sophistication*—contingent, explanatory, comprehension-checking—tracks metarepresentational capacity; its earliest form does not wait for it.
+Human teaching emerges alongside metarepresentational abilities, though the synchrony is looser than a clean threshold. Before age 3, children point, show, and offer objects—precursors that may share attention without representing the other's knowledge state as modifiable. Strauss, Ziv, and Stein (2002) found three-year-olds—who performed poorly on classic false-belief tasks yet understood that a teacher teaches whoever lacks the knowledge—already teaching a peer, unguided and mainly by demonstration, while five-year-olds relied more on verbal explanation and began checking understanding and correcting errors by restating rules. The trajectory parallels the emergence of [[metacognition|metarepresentation]] and exemplifies the broader [[consciousness-interface-development|transformation of the consciousness-interface across childhood]]. Teaching's *sophistication*—contingent, explanatory, comprehension-checking—tracks metarepresentational capacity; its earliest form does not wait for it.
 
 ## AI and Teaching
 
-Current AI tutors provide information, explain, and respond to queries, but they simulate the three operations—representing knowledge as knowledge, representing the learner's state, acting on the relation—through pattern matching, without representing anything about knowledge or its absence. The [[jourdain-hypothesis|Jourdain Hypothesis]] applies: LLMs may have teaching-relevant knowledge without *knowing* they have it, functioning pedagogically—like great apes with cultural practices—without metarepresenting that capacity. If teaching requires metarepresentation, and metarepresentation requires phenomenal consciousness, current systems—however useful as educational tools—produce teaching-shaped outputs without the operations that make human teaching the achievement it is.
+Current AI tutors provide information, explain, and respond to queries; current evidence cannot settle whether they perform the three operations—representing knowledge as knowledge, representing the learner's state, acting on the relation—or reproduce their outputs by pattern-completion. The [[jourdain-hypothesis|Jourdain Hypothesis]] frames the question: LLMs may have teaching-relevant knowledge without *knowing* they have it, functioning pedagogically—like great apes with cultural practices—without metarepresenting that capacity. If teaching requires metarepresentation, and metarepresentation requires phenomenal consciousness, whether current systems teach in the full sense depends on whether they are conscious, which the standing-agnostic symmetry (falsifier 4 below) leaves open.
 
 ## Process and Contemplative Perspectives
 
@@ -116,7 +116,7 @@ Process philosophy reads teaching as the transmission of experience across [[pre
 
 ## What Would Challenge This View?
 
-The argument has two premises: (P1) teaching in the full sense requires declarative metarepresentation; (P2) declarative metarepresentation requires phenomenal consciousness. The first four falsifiers bear on P1 or on the access-level dependence; only the fifth bears on P2, the premise the tenets depend on. Each is given with its current state.
+The argument has two premises: (P1) teaching in the full sense requires declarative metarepresentation; (P2) declarative metarepresentation requires phenomenal consciousness. The first four falsifiers bear on P1 or on the access-level dependence; only the fifth bears on P2, the premise the tenets depend on.
 
 1. **Great apes demonstrating elaborate teaching**—actively scaffolding on assessed learner ignorance—would shift the species boundary. State: evidence has come in and is too thin to decide; the Goualougo transfers (Musgrave et al., 2016, 2020) meet functional criteria and track task complexity but do not yet show representation of ignorance.
 
@@ -134,7 +134,7 @@ Calibrated to the weakest state present: the position is unrefuted on sophistica
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. Teaching bears on it through the procedural/declarative boundary: great apes possess sophisticated social-cognitive machinery, implicit belief-tracking included, yet the declarative use of it that teaching requires appears in humans alone. Since brain size does not predict functional teaching across taxa—ants and meerkats teach; most primates do not—the tenet-relevant contrast is the threshold between monitoring one's states and representing them, which the Map reads as where consciousness becomes indispensable; the comparative data are consistent with that reading rather than establishing it.
+The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to physical processes. Teaching bears on it through the procedural/declarative boundary: great apes possess sophisticated social-cognitive machinery, implicit belief-tracking included, yet the declarative use of it that teaching requires is so far attested only in humans. Since brain size does not predict functional teaching across taxa—ants and meerkats teach; most primates do not—the tenet-relevant contrast is the threshold between monitoring one's states and representing them, which the Map reads as where consciousness becomes indispensable; the comparative data are consistent with that reading rather than establishing it.
 
 ### Bidirectional Interaction
 
@@ -157,6 +157,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 ## References
 
+1. Apperly, I.A., & Butterfill, S.A. (2009). Do humans have two systems to track beliefs and belief-like states? *Psychological Review*, 116(4), 953-970.
 1. Boesch, C. (1991). Teaching among wild chimpanzees. *Animal Behaviour*, 41(3), 530-532.
 1. Caro, T.M., & Hauser, M.D. (1992). Is there teaching in nonhuman animals? *The Quarterly Review of Biology*, 67(2), 151-174.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
