@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it groun
 created: 2026-01-16
 modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-13T06:41:35+00:00
+ai_modified: 2026-10-13T07:47:40+00:00
 last_deep_review: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
-Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([[positions/moral-status#^p-ms1|P-MS1]]). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (2026) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [[consciousness-value-connection#Implications|the consciousness-value connection]] already does — the commitment covers valenced experience rather than experience as such — and [[sentientism|phenomenal sentientism]] carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
+Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([[positions/moral-status#^p-ms1|P-MS1]]). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (2026) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [[consciousness-value-connection#Implications|the consciousness-value connection]] already does — the commitment covers valenced experience rather than experience as such — and [[sentientism#^vulcans|phenomenal sentientism]] carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012; New York Declaration 2024, "strong scientific support").
 
@@ -189,7 +189,7 @@ This account faces six potential defeaters:
 3. **Demonstration that compatibilist agency suffices** would make the dualist account metaphysically unnecessary.
 4. **Evidence that felt valence is idle in choice** — subjects matched on every measured functional variable except report, yet reporting radically different valence — would undermine the interactionist account of suffering.
 5. **Intuitive moral weight for unconscious "suffering"** — genuine concern for suffering-simulators known to lack consciousness — would challenge the consciousness requirement.
-6. **Robust intuitions that an affectless conscious being can be wronged** — if Chalmers' verdict on Vulcans held up under scrutiny, felt valence would not be necessary for status and the criterion would widen to consciousness as such. The boundary would move within the consciousness-based family rather than out of it, but the necessity half of P-MS1 would fall with it ([[sentientism]]).
+6. **Robust intuitions that an affectless conscious being can be wronged** — if Chalmers' verdict on Vulcans held up under scrutiny, felt valence would not be necessary for status and the criterion would widen to consciousness as such. The boundary would move within the consciousness-based family rather than out of it, but the necessity half of P-MS1 would fall with it ([[sentientism#^vulcans|sentientism]]).
 
 Several are pressed in print but, on the Map's assessment, not met.
 

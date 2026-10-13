@@ -2,9 +2,9 @@
 title: "Sentientism"
 description: "Sentientism grounds moral status in valenced experience. Why the Map holds the phenomenal rather than the functional version, and how it meets biocentrism."
 created: 2026-08-01
-modified: 2026-10-06
+modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-06T01:44:15+00:00
+ai_modified: 2026-10-13T07:46:27+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[no-self-objection-to-phenomenal-value]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-08-01
 last_curated:
 last_deep_review: 2026-08-27T19:10:48+00:00
@@ -34,9 +34,9 @@ The Unfinishable Map holds sentientism in a specific and contestable form: **phe
 
 ## The Criterion and Its Two Directions of Attack
 
-**Anthropocentrism** restricts moral status to humans. Sentientism's reply is the argument from arbitrariness, which Singer named **speciesism**: privileging *Homo sapiens* as such is a preference for one's own group over relevantly similar outsiders, as racism and sexism do. Any cognitive threshold proposed for the human/non-human boundary — rationality, language, autobiographical memory — excludes some humans, infants and the severely cognitively impaired among them, whose protection almost nobody will withdraw; either the threshold is lowered until it admits many non-human animals, or some humans lose their standing, and species membership cannot save the boundary without conceding that a biological classification does moral work no argument supports. Perry presses the same case against the pluralist grounds now offered alongside sentience: an account resting on sentience alone avoids conceptual redundancy and explains more than its rivals. Infants and the cognitively impaired are sentient, however, so the argument transfers no pressure to a valence criterion; the one human population that criterion itself reaches, the permanently unconscious, is taken up under [[#Disputed Implications|disputed implications]].
+**Anthropocentrism** restricts moral status to humans. Sentientism's reply is the argument from arbitrariness against **speciesism**: privileging *Homo sapiens* as such is a preference for one's own group over relevantly similar outsiders, as racism and sexism do. Any cognitive threshold proposed for the human/non-human boundary — rationality, language, autobiographical memory — excludes some humans, infants and the severely cognitively impaired among them, whose protection almost nobody will withdraw; either the threshold is lowered until it admits many non-human animals, or some humans lose their standing, and species membership cannot save the boundary without conceding that a biological classification does moral work no argument supports. Perry presses the same case against pluralist grounds: sentience alone avoids conceptual redundancy and explains more than its rivals. Infants and the cognitively impaired are sentient, however, so the argument transfers no pressure to a valence criterion; the one human population that criterion itself reaches, the permanently unconscious, is taken up under [[#Disputed Implications|disputed implications]].
 
-**Biocentrism and ecocentrism** press the opposite complaint: sentience is an arbitrarily *narrow* threshold, excluding organisms with goods of their own but no nervous system. The Map's reply to Rolston's ecocentrism — "adaptive value" is either functional description, not yet normative, or a normative property needing the experiential grounding it lacks — is worked out in [[phenomenal-normativity-environmental-ethics#Against Ecocentrism|the treatment of environmental ethics]]. Both objections turn on whether the experience requirement is principled.
+**Biocentrism and ecocentrism** press the opposite complaint: sentience is an arbitrarily *narrow* threshold, excluding organisms with goods of their own but no nervous system. The Map's reply to Rolston's ecocentrism — "adaptive value" is either functional description, not yet normative, or a normative property needing the experiential grounding it lacks — is worked out in [[phenomenal-normativity-environmental-ethics#Against Ecocentrism|the treatment of environmental ethics]].
 
 ## Biocentrism: The Harder Opponent {#biocentrism}
 
@@ -62,17 +62,15 @@ The requirement must also say *which* experiencer ([[no-self-objection-to-phenom
 
 ## Phenomenal Sentientism, Not Functional Sentientism
 
-The distinction the wider literature leaves unmade is the one the Map's position turns on. The Stanford "Grounds of Moral Status" entry uses "consciousness" and "sentience" interchangeably, with no differentiation between phenomenal consciousness and access or functional consciousness; applied work inherits the elision, treating indicators as constitutive of the criterion rather than evidence for it. Two consequences follow if sentience is read functionally.
+The Stanford "Grounds of Moral Status" entry uses "consciousness" and "sentience" interchangeably, without distinguishing phenomenal from access or functional consciousness; applied work inherits the elision, treating indicators as constitutive of the criterion rather than evidence for it. Two consequences follow if sentience is read functionally.
 
 **First, the criterion inherits whatever indeterminacy the functional analysis has.** If sentience just is a certain organisation of nociception, aversive learning, motivational trade-off, and behavioural flexibility, then "sentient" is a cluster term whose borderline cases are settled by where the thresholds are set. The functionalist need concede only *semantic* indeterminacy. But a precisification is a decision, so "is this insect sentient?" becomes "have we counted enough indicators, on which sharpening?", and what moral status waits on is partly stipulated. The Map's [[consciousness-in-simple-organisms|case-by-case treatments]] read those cases as genuine uncertainty about a real boundary.
 
 **Second, functional sentientism survives illusionism but loses its rationale.** [[illusionism|Illusionists]] hold that phenomenal consciousness is an introspective misrepresentation of non-phenomenal properties. Grant illusionism, and the functionalist's criterion is left standing — the illusionist grants the aversive-motivational organisation it picks out. What is not left standing is the reason for caring about it: the case for the criterion has always run through felt badness, so once nothing feels like anything, why that organisation rather than any other generates obligations is reopened. Kammerer's "Ethics Without Sentience" (2022) concedes the loss: if materialism is true, phenomenal consciousness is probably not normatively significant and ethics should be rebuilt on non-phenomenal ground. Frankish's "The Ethical Implications of Illusionism" (2024) denies it: illusionism neither denies that consciousness exists nor entails that it fails to ground ethical value, but gives a different account of what consciousness is and why it grounds value. The Map sides with Kammerer's diagnosis for the reason it presses against ecocentrism above — a functional description is not yet a normative property — which is a commitment of the Map's framework rather than a defect in Frankish's account on its own terms; the register carries his paper as the live attempt, not a defeater landed.
 
-The Map's [[tenets#^dualism|Dualism]] tenet dissolves the first consequence and takes a side on the second. If phenomenal experience is irreducible, then valence is a real property of a real subject, and the criterion cannot be eliminated by a correct functional analysis because it was never a functional claim. The exposure runs the other way too: if no state ever actually feels bad, "capacity for valenced experience" names no property. No in-framework refutation of illusionism is on offer here — Dualism denies it, and the denial is a foundational commitment rather than a result — so phenomenal sentientism stands or falls with the tenet. What the metaphysics buys is a different account of hard-case uncertainty — ignorance about a real boundary rather than indecision about where to draw one — and so precaution rather than stipulation.
+The Map's [[tenets#^dualism|Dualism]] tenet dissolves the first consequence and takes a side on the second. If phenomenal experience is irreducible, then valence is a real property of a real subject, and the criterion cannot be eliminated by a correct functional analysis because it was never a functional claim. The exposure runs the other way too: if no state ever actually feels bad, "capacity for valenced experience" names no property. No in-framework refutation of illusionism is on offer here — Dualism denies it, and the denial is a foundational commitment rather than a result — so phenomenal sentientism stands or falls with the tenet.
 
 ## Disputed Implications
-
-Some consequences follow from the neutral criterion alone; others only from the Map's phenomenal reading.
 
 **From the criterion alone: overinclusiveness.** The standard objection in the encyclopedia literature is that lowering the standard to sentience puts most animals on a par with most humans, against common moral judgement.
 
@@ -80,11 +78,15 @@ Some consequences follow from the neutral criterion alone; others only from the 
 
 That grading collides with the argument from marginal cases used above. Infants and the severely cognitively impaired are sentient, so the ranking implies only that less is at stake on some dimensions of their lives; status is untouched, and so is equal consideration of *equal* interests. Rossi (2010) argues that equal consideration is incompatible with unequal status, and Wendler (2023) that no *status-enhancing* property exists; on their usage, the Map's, graded stakes are not degrees of status. [[moral-status-threshold-or-degrees|The threshold article]] places the separation in the field and concedes that any threshold on a *scalar* capacity is arbitrary. The [[moral-status-of-edge-cases|permanently unconscious human]] is the harder case, the one the valence criterion itself reaches. "Capacity" means the standing capacity: a dreamless sleeper or a patient in reversible coma keeps status ([[consciousness-value-connection#Objections and Responses|welfare subjects and standing capacity]]). Where the capacity is irreversibly gone, the criterion as stated entails that intrinsic status goes with it, and the Map says so: what remains owed — prior wishes, history, standing relationships — is owed derivatively, concerning that person, not to a patient who retains standing. That is the reading [[positions/moral-status|P-MS2]] adopts, a residue Singer and McMahan accept by other routes. Marginal cases show that species membership cannot ground the boundary, not that every human sits at the top of the ranking.
 
-The mirror-image case presses from the other side. Chalmers holds that consciousness of any kind suffices for status, and tests the valence criterion with philosophical Vulcans — conscious beings who perceive, think and act but feel nothing good or bad. The Map bites the bullet where [[consciousness-value-connection#Implications|the consciousness-value connection]] already does: a Vulcan clears the consciousness bar while having nothing that could go well or badly for it. Smithies (2026) defends that verdict against Chalmers directly, arguing that one cannot explain why consciousness is necessary for moral status without denying that it is sufficient. He is an ally on the necessity direction; the phenomenal reading of the hedonic capacity is the Map's further step.
+Chalmers's philosophical Vulcans press from the other side: conscious beings who perceive, think and act but feel nothing good or bad. The Map bites the bullet with [[consciousness-value-connection#Implications|the consciousness-value connection]], denying them status. ^vulcans
+
+Chalmers's continuity argument: humans with "a very narrow affective range" either matter about as much as anyone, raising "how can the tiny difference between zero-affect Vulcans and low-affect humans make such a huge moral difference?", or a fraction as much, which he is inclined to think "obviously false, and indeed monstrous". The Map takes the first horn with [[positions/moral-status#^p-ms2|P-MS2]], affective range grading stakes rather than status, and answers its question: a narrow range and none differ in [[moral-status-threshold-or-degrees#presence|kind, not amount]], in whether anything can go well or badly for the subject at all.
+
+The consciousness sentientism Chalmers favours draws its line at zombies, a step of the same kind, so parity leaves open which presence matters. Smithies (2026) argues that one cannot explain why consciousness is necessary for moral status without denying that it is sufficient, so zombies cannot be excluded without Vulcans; the phenomenal reading of his hedonic criterion is the Map's further step. Chalmers counts a Vulcan's non-affective desires as morally significant. On [[positions/value-in-selection#^p-vs3|P-VS3]] intrinsic value is felt evaluative character, so the Map's pluralism counts further ways of feeling good or bad; a Vulcan's understanding, agency and projects, felt as neither, bear none. Chalmers can fairly hear that as the criterion restated: the disagreement sits closer to bedrock than it looked.
 
 The same resource bears on the **disenhancement objection**. If suffering is the only bad, a hedonic sentientist appears committed to accepting the genetic removal of farmed animals' capacity to suffer. Against wholesale removal of valence, value pluralism replies directly: the capacity for valenced experience is also the capacity for positively valenced experience, so eliminating it destroys a bearer of value, not merely of disvalue. The proposal actually in the literature is narrower. Shriver's "Knocking Out Pain in Livestock" (2009) targets only the *affective* dimension of pain, leaving nociceptive detection intact. Positive valence is untouched, so pluralism counts *for* it. The line the Map thinks available is narrower still: what negative valence does that no other listed feature does is register damage *to the subject as its own*, and removing it removes the capacity to be harmed in the first person. Whether that outweighs the suffering prevented the Map leaves open.
 
-**From the criterion alone: the criterion does not supply a count.** Saying what has moral standing is not yet saying how many bearers of it a system contains. On the Map's commitments the count is a determinate fact that no inspection can be shown to settle, so applied arguments turning on numbers of patients inherit an assumption the framework cannot discharge ([[moral-census-opacity|moral census opacity]]).
+**From the criterion alone: the criterion does not supply a count.** On the Map's commitments the count is a determinate fact that no inspection can be shown to settle, so applied arguments turning on numbers of patients inherit an assumption the framework cannot discharge ([[moral-census-opacity|moral census opacity]]).
 
 **Under uncertainty: precaution.** [[birch-edge-of-sentience-and-the-five-tier-scale|Birch's *The Edge of Sentience*]] (2024) defines sentience as the capacity for valenced experience, argues that it suffices for moral consideration, and supplies an action layer where the metaphysics is unsettled — proportionate precaution triggered by credible possibility rather than proof. Birch assigns non-materialist views low credence; the Map adopts the action layer without claiming him as an ally on grounding.
 
@@ -101,10 +103,7 @@ The same resource bears on the **disenhancement objection**. If suffering is the
 ## Further Reading
 
 - [[valence]] — The phenomenal property the criterion turns on
-- [[consciousness-value-connection]] — Why value requires consciousness
-- [[topics/phenomenal-value-realism]] — The metaethical foundation and value pluralism
 - [[ethics-of-consciousness-invertebrate-question]] — Where the criterion is hardest to apply
-- [[illusionism]] — The position that would remove sentientism's ground
 
 ## References
 

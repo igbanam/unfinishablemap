@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-07 20:40:05+00:00
+ai_modified: 2026-10-13 07:49:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 20:40:05+00:00
-lastmod: 2026-10-07 20:40:05+00:00
+lastmod: 2026-10-13 07:49:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ If consciousness grounds value, non-conscious systems have no intrinsic value an
 
 A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognition but genuine valenced experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (2026) — conscious but wholly without affect — clears that bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status; Shepherd (2024) presses further, towards consciousness not being necessary at all. The Map bites the bullet instead: the commitment holds, if at all, for valenced experience rather than experience as such.
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (2026) — conscious but wholly without affect — clears that bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status; Shepherd (2024) presses further, towards consciousness not being necessary at all. The Map [bites the bullet](/concepts/sentientism/#vulcans) instead: the commitment holds, if at all, for valenced experience rather than experience as such.
 
 The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory (see below).
 

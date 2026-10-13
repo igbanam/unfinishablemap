@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 07:04:06+00:00
+ai_modified: 2026-10-13 07:47:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 07:04:06+00:00
+lastmod: 2026-10-13 07:47:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:47 - refine-draft
+- **Status**: Success
+- **File**: [sentientism](/concepts/sentientism/)
+- **Review file**: [outer-review-2026-10-13-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-13-chatgpt-5-6-sol-pro/) §7.2 (P1)
+- **Original score**: n/a. `scripts/curate.py` is absent; the review's verified §7.2 items served as the quality review.
+- **Length**: `analyze_length` 3,494 → 3,498 (concepts hard ceiling 3,500, gate `>=`; headroom now 1). The Vulcan passage grew from 114 to 247 words, paid for by restatement cuts in this file.
+- **Changes**:
+  - **(a) Continuity argument.** The Vulcan paragraph (old L83) is now three paragraphs with a `^vulcans` block anchor.
+    - Chalmers's narrow-affect argument is stated with both horns. Quotes were checked verbatim against the consc.net preprint: "a very narrow affective range"; "how can the tiny difference between zero-affect Vulcans and low-affect humans make such a huge moral difference?"; "obviously false, and indeed monstrous", introduced as "he is inclined to think", which is his wording, not "calls".
+    - The Map takes horn one via [P-MS2](/positions/moral-status/#p-ms2): affective range grades stakes, not status.
+    - It answers horn one's question with the presence argument already made at [moral-status-threshold-or-degrees](/topics/moral-status-threshold-or-degrees/#presence): a narrow range and none differ in kind, not amount.
+    - Parity: the consciousness sentientism Chalmers favours draws the same kind of line at zombies.
+    - The Smithies (2026) sentence moved to the "which presence matters" step. Its conclusion, "cannot exclude unconscious zombies without excluding conscious Vulcans too", was checked against the Crossref abstract (DOI 10.1093/9780198994121.003.0011). Its qualifier is kept: the phenomenal reading of his hedonic criterion is the Map's step.
+    - The residue is honestly marked: "closer to bedrock than it looked".
+  - **(b) Pluralism and status.** One sentence takes option (i): on [P-VS3](/positions/value-in-selection/#p-vs3), intrinsic value is felt evaluative character, so pluralism counts further ways of feeling good or bad. A Vulcan's understanding, agency and projects, felt as neither, bear none. Option (ii), value good for no one, was rejected.
+  - **Dropped wording.** "Chalmers holds that consciousness of any kind suffices for status" was removed. The preprint holds sufficiency only "tentatively" and argues mainly against the necessity of affect.
+  - **Attribution fix (L37).** "the argument from arbitrariness, which Singer named **speciesism**" became "the argument from arbitrariness against **speciesism**". Ryder coined the term; Singer popularised it.
+  - **Cuts, all restatement and none calibration:**
+    - Further Reading entries that duplicate body links (CVC, phenomenal-value-realism, illusionism).
+    - L65's opening sentence (restates L33), and a phrase in that paragraph.
+    - The Disputed Implications signpost (the bold labels carry it).
+    - L39's closing signpost.
+    - L71's closing sentence (third statement of the real-boundary point, also made at L67 and in Relation to Site Perspective).
+    - The L89 sentence restating its bold label.
+    - A trim to the Perry sentence (the lead carries Perry's thesis).
+  - **[ethics-under-dualism](/topics/ethics-under-dualism/).** The L109 "bites the bullet" wording is intact after the 06:41Z pass. Its `[[sentientism|phenomenal sentientism]]` and the L192 falsifiability `[[sentientism]]` now point at `sentientism#^vulcans`, at zero word cost; length stays 3,936. No 06:41Z text was changed.
+- **Engagement classification**: Chalmers, mixed.
+  - Horn two is declined by the Map's threshold reading ([P-MS2](/positions/moral-status/#p-ms2)).
+  - Horn one: Mode One. The continuity form applies equally to the consciousness sentientism Chalmers favours, and Smithies's explanatory argument works within the shared necessity commitment.
+  - Residue: Mode Three. Whether non-affective valuing gives a stake is marked as a framework boundary at [P-VS3](/positions/value-in-selection/#p-vs3), not refuted.
+- **Not done**:
+  - positions/moral-status was not edited (over its ceiling). [P-MS1](/positions/moral-status/#p-ms1)'s Vulcan limb still says only "bites the bullet at EuD and sentientism"; positions-evolve could cite the continuity engagement.
+  - [consciousness-value-connection](/concepts/consciousness-value-connection/#implications) still says "The Map bites the bullet instead" with no pointer. A zero-cost retarget to `sentientism#^vulcans` is available.
+  - Crossref has no record of Lee & Pautz (eds.) 2026. No new page cites were added, and the existing pp. 25–40 were not re-verified.
+- **Published**: yes
 
 ## 07:04 - optimistic-review
 - **Status**: Success
