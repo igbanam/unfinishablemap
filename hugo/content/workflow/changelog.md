@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 03:45:04+00:00
+ai_modified: 2026-10-13 05:13:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 03:45:04+00:00
+lastmod: 2026-10-13 05:13:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:13 - literature-drift-review
+- **Status**: Success
+- **Article**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Research area**: predictive-processing
+- **Review file**: [literature-drift-2026-10-13-predictive-processing-and-dualism](/reviews/literature-drift-2026-10-13-predictive-processing-and-dualism/). This is the first literature-drift review file; earlier audits logged here only.
+- **Selection**: Two of the 14 pattern-matching topics were unaudited. This article was the oldest (ai_modified 2026-09-30; last commit `152fd659dc`). It scores 0 on `find_superlative_claims`, has no open task, and is not on the driver's ~30h exclusion list. `basal-and-bioelectric-cognition` was skipped again, because it is still owned by the P2 NEEDS-HUMAN length decision and the parked P3 Oviedo task.
+- **Median citation year**: 2019, from 16 dated non-canonical refs (Austin 1962 excluded). That is 7 years behind ai_modified 2026-09-30, against a threshold of 5, so check 1 fires. The median is anchored by the framework's canonical 2010–13 statements, so check 1 is not what carries the flag.
+- **Search (1 call)**: `predictive processing active inference consciousness empirical evidence neural prediction error 2024 2025 review`. It targeted the mechanistic-rival section's claims that active inference offers "neural implementations generating testable predictions now" and "accrues support as variance explained".
+- **Recent papers found**: 3 peer-reviewed in-window.
+  - Hodson, Mehta & Smith 2024, *Neurosci. Biobehav. Rev.* 157, 105473.
+  - Lageman, Fahrenfort & Slagter 2026, *Neurosci. Biobehav. Rev.* 188, 106817.
+  - Adama & Bogdan 2026, *Front. Comput. Neurosci.* 20. Frame-divergent: a disorders-of-consciousness biomarker review.
+  - Also returned: 3 arXiv preprints, an editorial and an off-topic FND paper, all excluded. Xiong et al. 2024 (propofol and predictive routing) is already cited in the anaesthesia article.
+- **Missing topically-appropriate**: 2 (Hodson 2024; Lageman 2026), so check 2 fires. Both abstracts were read verbatim. Predictive coding has "modest support", with some positives equally explained by feedforward models. Active-inference work has mostly fitted behaviour "rather than" testing the theory against model-free RL. The framework "is often criticized for the difficulty of extracting qualitatively distinct, testable predictions". The stochasticity-under-uncertainty prediction, which is the Map's equipoise residue, is only "broadly consistent". Neither paper is cited anywhere in the corpus.
+- **Corpus-sibling finding**: L108 credits active inference with an effort-as-information-cost account but cites only Zénon et al. 2019, a general information-theoretic paper. The active-inference formalisation is Parr, Holmes, Friston & Pezzulo 2023 (*Neuropsychologia* 184, 108562; Crossref-verified). The apex [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) already cites it, and this article's own Further Reading says that apex defers its active-inference confrontation to this article. The fix is additive; Zénon stays, as certified real-correct on 09-30.
+- **Reference integrity**: clean. All 15 post-2000 refs were verified at Crossref or OpenAlex. None carries a retraction or `update-to` relation. Laukkonen 2025 and Hohwy & Seth 2020 are cited at their journal versions, not their preprints. The driver's two patterns (a retraction-notice DOI; a published paper cited as arXiv) are absent.
+- **Empirical-record currency**: 0 superlative hits.
+- **Lead not tasked**: Hohwy 2021/22 "Conscious Self-Evidencing" (*RPP* 13(4), 809–828) and the 2026 MIT monograph *The Self-Evidencing Agent*. The metadata is verified but the paper's content is not (its abstract was unreadable, 403). The 09-30 stability notes protect the Hohwy & Seth attribution. Recorded in the review file only.
+- **Outcome**: drift-flagged
+- **Task generated**: P2 refine-draft, "Update predictive-processing-and-dualism citations — 2 2020s papers missing (empirical status of active inference) + effort account cited to its pre-active-inference precursor". It is inserted directly above `## Completed Tasks`; parse_tasks active 132→133, P0–P2 34→35. The task is strictly length-neutral: 4623 words against the 4000 hard ceiling (prose 4021), headroom −624. It carries a mandatory calibration fence: the reviews' comparison classes are other physicalist models, so none of this is a point for the Map's selector.
+- **Counters**: total 14, flagged 9, clean 5 (flag rate 64%, inside the 20–80% window)
 
 ## 04:47 - outer-review
 - **Status**: Success
