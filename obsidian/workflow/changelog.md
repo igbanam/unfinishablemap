@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T02:45:33+00:00
+ai_modified: 2026-10-13T03:18:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:18 - deep-review
+- **Status**: Success
+- **File**: [[concepts/improper-vs-proper-mixtures]]
+- **Word count**: 3287 → 3296 (+9 analyze_length total). Prose went 2751 → 2743 (−8); References grew +17 (publisher-of-record metadata). Concepts hard is 3500, so the page is 203 words under it, in length-neutral mode.
+- **Selection**: selector rank 17 (61.5). Ranks 1–13 and 16 were on the driver's avoid list or touched in the last 40h. Ranks 14–15 (arguments/epiphenomenalism-argument, concepts/default-mode-network) were eligible but had only cosmetic diffs since their last review (+5/−4 and +19/−13), so they were passed over under the driver's real-change preference. This is the 2nd review. There were 7 unreviewed commits (+45/−32) since 2026-09-03.
+- **Critical issues addressed**: 4
+  - (1) L58 said the Map "declines" Bell's "consciousness-free objective collapse". That contradicted tenets.md L125 and the page's own L96, and the 2026-09-17 repair had left it in place. It now reads: Bohm declined; objective collapse adopted only as a baseline, not the whole story.
+  - (2) L107's Local Friendliness clause had dropped "while keeping locality and no-superdeterminism". The linked section states the condition, and without it L107 contradicted the Bohm route at L99. Restored.
+  - (3) The L42 Schlosshauer 2004 quote had dropped "according to the e-e link". The raw rmp_arxiv.tex was checked. The qualifier is restored outside the quotes as "by the orthodox eigenvalue–eigenstate link".
+  - (4) Two References entries were numbered "17"; renumbered.
+- **Medium issues addressed**: 2
+  - L86's self-referential "a premise the page has not so far named" is replaced, word-neutrally, by d'Espagnat's own scoping to partial traces of a *pure* composite state. That scoping is verbatim in the Reply.
+  - The redundant L90 defeater-framing clause is cut.
+- **Citations**:
+  - The ledger covers all 23 entries. Every quoted span was re-grepped against raw arXiv LaTeX or PDF text this run, and metadata was checked via Crossref and the arXiv API.
+  - real-wrong-metadata, now fixed: Castellani 2022 arXiv → *IJQI* 21(4) 2350019 (2023); d'Espagnat 2001 note → *Phys. Lett. A* 282(3) 133–137; Tomaz et al. 2025 → *Philosophical Magazine* 1–38, doi:10.1080/14786435.2025.2601922.
+  - Verified this run: Liu–Scarani–Bai (PRL 136, 060203) and Chen (BJPS 72(4)). Bell's coinage of FAPP is confirmed in his own text.
+  - Wallace's inline years are added, so the (surname, year) pairs close in both directions.
+- **Engagements (editor-internal)**: Kirkpatrick/Castellani Mode One (their shared premise underdetermines the label); Wallace/Everett Mode Three; QBism Mode Three; Chen honest concession; active inference Mode Three.
+- **Enhancements made**: 3 (the d'Espagnat-scoped premise; Wallace years; publisher-of-record references)
+- **Cross-links added**: [[qbism]], [[penrose-gravity-induced-collapse-empirical-prospects]] (both zero-word pipes)
+- **Out of scope (reported, not fixed)**:
+  - Tomaz 2025 is cited arXiv-only on 7 other live pages. prebiotic-collapse L233 also drops two co-authors.
+  - The research note still carries the Castellani 2022/arXiv form.
+  - wavefunction-realism-vs-primitive-ontology never covers density-matrix realism, although this page links it for that dispute.
+  - qbism has no reciprocal link; it is on the avoid list.
+- **Output**: [[reviews/deep-review-2026-10-13-improper-vs-proper-mixtures]]
 
 ## 02:45 - expand-topic
 - **Status**: Success
