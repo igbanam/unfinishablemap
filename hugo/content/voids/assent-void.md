@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-13 09:29:38+00:00
+ai_modified: 2026-10-13 10:19:31+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of the moment a proposition becomes held true
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-13 09:29:38+00:00
+lastmod: 2026-10-13 10:19:31+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -36,6 +36,7 @@ related_articles:
 - '[[apex/taxonomy-of-voids]]'
 - '[[apex/conjunction-coalesce]]'
 - '[[doxastic-voluntarism]]'
+- '[[assent-before-descartes]]'
 - '[[research/voids-assent-void-2026-09-28]]'
 title: The Assent Void
 topics:
@@ -69,7 +70,7 @@ The indirect routes everyone grants, Pascal's holy water or Kant's directing of 
 
 ### Timing (Occluded, Psychological)
 
-The second face concerns when assent happens relative to the felt act of judging. Gilbert (1991) contrasted two models. On the **Cartesian** model, named for the Fourth Meditation's picture of judgment as an act of the will, comprehension comes first and an effortful assessment then ends in acceptance or rejection. On the **Spinozan** model, "comprehension includes acceptance of that which is comprehended", and rejection is a later, effortful undoing.
+The second face concerns when assent happens relative to the felt act of judging. Gilbert (1991) contrasted two models. On the **Cartesian** model, named for the Fourth Meditation's picture of [judgment as an act of the will](/topics/assent-before-descartes/), comprehension comes first and an effortful assessment then ends in acceptance or rejection. On the **Spinozan** model, "comprehension includes acceptance of that which is comprehended", and rejection is a later, effortful undoing.
 
 The Spinozan evidence is a family of load paradigms. Gilbert, Tafarodi & Malone (1993) had participants read statements flagged as false; under cognitive load they later treated the flagged statements as true, and the effect reached consequential judgments. Mandelbaum (2014) gives the strongest philosophical defence: "Evidence is presented demonstrating that we cannot withhold assent from any proposition we happen to consider." If so, what feels like judging is the un-believing of something already assented to.
 

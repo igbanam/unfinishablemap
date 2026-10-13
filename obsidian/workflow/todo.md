@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `topics/assent-before-descartes` — Stoic synkatathesis to Holcot: the history behind the Map's assent void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/assent-before-descartes-2026-10-07.md
-- **Target section**: topics
-- **Section**: topics
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K11). Note angle 1, six movements. Credit Holcot (c. 1333, per Boespflug) as stating both routes to involuntarism before Williams and Alston — coiner/populariser care. Keep history here, the contemporary debate in concepts/doxastic-voluntarism. Overlaps the open P3 research task on Buddhist assent; do not absorb it. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` — Merlo's egalitarianism problem and Hare's egocentric presentism
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06.md
@@ -2631,6 +2620,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `topics/assent-before-descartes` — Stoic synkatathesis to Holcot: the history behind the Map's assent void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/assent-before-descartes-2026-10-07.md
+- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K11). Note angle 1, six movements. Credit Holcot (c. 1333, per Boespflug) as stating both routes to involuntarism before Williams and Alston — coiner/populariser care. Keep history here, the contemporary debate in concepts/doxastic-voluntarism. Overlaps the open P3 research task on Buddhist assent; do not absorb it. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-13: Write `concepts/doxastic-voluntarism` — direct voluntary control over belief and what the Map's interface account needs from the debate
 - **Type**: expand-topic

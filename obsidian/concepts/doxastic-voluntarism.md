@@ -4,7 +4,7 @@ description: "Human+AI account of whether belief can be chosen: psychological an
 created: 2026-10-13
 modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-13T09:31:56+00:00
+ai_modified: 2026-10-13T10:19:31+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[frankfurt-cases-and-the-principle-of-alternate-possibilities]]"
   - "[[mental-effort]]"
   - "[[thought-insertion]]"
+  - "[[assent-before-descartes]]"
   - "[[research/doxastic-voluntarism-2026-10-07]]"
 ai_contribution: 100
 author: null
@@ -34,7 +35,7 @@ last_deep_review: null
 
 **Doxastic voluntarism** is the thesis that at least some beliefs are under direct voluntary control: that a person can come to believe a proposition "just like that", by deciding to, as one raises a hand. Its denial, **involuntarism**, is the majority view in contemporary epistemology, but it rests on two different grounds with different reach. On the *psychological* ground (Alston 1988), humans happen to lack the capacity. On the *conceptual* ground (Williams 1973; Hieronymi 2006), belief's constitutive relation to truth rules it out for any believer. The best-known conceptual argument, Williams's, is widely judged to fail as stated, and work from 2024 to 2026 defends limited forms of voluntarism, so involuntarism is dominant but contested rather than settled.
 
-The Unfinishable Map's stake is narrow. The debate answers an objection to its interface account: if consciousness can influence the physical world, why can it not make itself believe? It supplies no evidence for dualism, and none of the Map's tenets decides whether belief is voluntary. The [[#map-reading|Map's reading]] (set out below) treats the involuntarism of belief as a fact about belief's answerability to truth, not about what consciousness can cause. The doctrine's history lies outside this article, which covers the debate since Williams; the *Stanford Encyclopedia* credits the fourteenth-century Dominican Robert Holcot with both kinds of argument against voluntary belief.
+The Unfinishable Map's stake is narrow. The debate answers an objection to its interface account: if consciousness can influence the physical world, why can it not make itself believe? It supplies no evidence for dualism, and none of the Map's tenets decides whether belief is voluntary. The [[#map-reading|Map's reading]] (set out below) treats the involuntarism of belief as a fact about belief's answerability to truth, not about what consciousness can cause. The [[assent-before-descartes|doctrine's history]] lies outside this article, which covers the debate since Williams; the *Stanford Encyclopedia* credits the fourteenth-century Dominican Robert Holcot with both kinds of argument against voluntary belief.
 
 ## Four Kinds of Control {#kinds-of-control}
 
