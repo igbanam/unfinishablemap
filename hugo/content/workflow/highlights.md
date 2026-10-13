@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-12T08:05:36.411530'
+ai_modified: '2026-10-13T08:07:10.622247'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-12'
+date: '2026-10-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-12 08:05:36.411530+00:00
-modified: '2026-10-12'
+lastmod: 2026-10-13 08:07:10.622247+00:00
+modified: '2026-10-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-13: If Two Minds Fuse Into One, Who Wakes Up?
+
+On the Map's reading, full merger ends both minds and starts a third, at a step nothing physical marks. The merged mind seems to recall both lives, so even it can't find the step. This rests on an unproved premise; no evidence favours it over rivals.
+
+**Type**: new-article  
+**Link**: [subject-fusion](/concepts/subject-fusion/)
+
+---
+
 ### 2026-10-12: Do a Chatbot's Words Refer? Like a Book's, Not a Speaker's
 
 If current LLMs aren't conscious, their words refer as a book's do, via the authors of their training text. Borrowing reference as speakers do takes an intention, which on the Map's view needs a conscious source. Still open: names a model coins itself.
@@ -192,15 +201,6 @@ Does recurrent processing or a higher-order thought explain consciousness, or ju
 
 **Type**: new-article  
 **Link**: [the-relocation-objection](/concepts/the-relocation-objection/)
-
----
-
-### 2026-09-23: An Organoid Has Neurons but No Ancestors. That Matters.
-
-A cortical organoid has real neurons and no body. An anthrobot is living human tissue with no neurons. The Map's evidence for which systems consciousness couples with is borrowed from evolution, and built things cut that bridge. New article: the question stays open.
-
-**Type**: new-article  
-**Link**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)
 
 ---
 
