@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-12T23:32:50+00:00
+ai_modified: 2026-10-13T00:02:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:02 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
+- **Word count**: 3,968 → 3,972 (+4; hard 4,000, length-neutral mode)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-10-13-clinical-evidence-quality-standards-consciousness-research]]
+- **Notes**:
+  - Selection: the selector's top picks were all touched on 2026-10-12. This article was the highest eligible one with never-reviewed substance: the 09-07 Unblinding subsection (refs 17–27), the 09-02 Nakatani narrowing and the 09-27 sham clause.
+  - Critical: (1) van Elk & Yaden 2022 misrepresented. "affirms genuine mechanisms" became "surveys candidate mechanisms". The "preference for pluralistic causation … each suffice" gloss contradicted the source, which says "we support efforts to discover a comprehensive theory" and defines pluralism as pathways being "necessary". It was replaced with two quotes verified verbatim in the CC-BY PDF. (2) Butler 2022: restored the dropped "likely". (3) L152 called avian magnetoreception "established", above P-Q8's "leading model unsettled in vivo"; recalibrated. (4) "The Map cites no retracted work" was contradicted by the article's own ref 27; deleted.
+  - Medium: de-superlatived L74 ("most extreme … documented", "the first systematic review"); fixed the expectancy/phenomenal-character slide and the "orthodox framing forecloses" strawman; Szigeti 2021 "holds" became "holds better"; van Elk & Fried "sort by" became "map onto".
+  - Ledger: all 27 references re-resolved, each with a named source (Crossref with every field printed, OpenAlex abstracts, Europe PMC for the Orsini pages). Nakatani's "lone out-of-group convergence" holds against Poli et al. 2022 (PMC9780289).
+  - Engagements: Muthukumaraswamy et al., Mode 1 (read against their own "over-estimated"); physicalist reply at Standard 3, Mode 3; van Elk & Yaden underdetermination conceded on its own terms.
+  - Out of scope: `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L78 ("A 2025 … meta-analysis") and L161 ("Siew & Yu (2025)" with doi 10.1038/s41598-025-11069-9) misdate the paper. It is Siew & Yu 2023, *Sci Rep* 13:18469, doi 10.1038/s41598-023-45765-1; the 2025 DOI is the retraction notice (2025-07-15).
 
 ## 23:32 - expand-topic
 - **Status**: Success

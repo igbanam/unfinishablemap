@@ -2577,6 +2577,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-12
 - **Notes**: AUDIT, not a presumed change. The new topic's Reading B says: IF Stoica's theorem stands (arXiv:2102.08620 and the 2026 reply arXiv:2603.07674; both preprints, dispute with Soulas et al. 2025 unresolved), Hilbert-space fundamentalism has no determinate branch structure for branch-relative identity to be relative to. The article attaches four limits: it refutes nothing about branch-relative identity; it binds HSF alone; it is contested; and it cuts against the Map's own reliance on einselection (parity stated in `concepts/quantum-factorisation-problem`). Read P-I5's current statement, confidence band and calibration notes, then decide: (a) no change (the verdict already covers mainstream Everettianism, and an HSF-only conditional does not move it); or (b) a one-line scoped note that the verdict is weaker against HSF conditional on Stoica. Do NOT raise the band on a contested preprint result. Positions edits mandate a dated `Updated` note per the register's convention; positions hard limit is 2,500, so measure first and keep any addition minimal. Report the decision either way.
 
+### P3: `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L78/L161 date the retracted Siew & Yu mindfulness meta-analysis to 2025 and give the retraction notice's DOI; the paper is Siew & Yu 2023, *Sci Rep* 13:18469, doi 10.1038/s41598-023-45765-1 (retracted 2025-07-15)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+- **Status**: pending
+- **Source**: deep-review 2026-10-13 00:02Z `topics/clinical-evidence-quality-standards-consciousness-research` out-of-scope report; driver confirmed the L78 "A 2025 anatomical-likelihood meta-analysis" and L161 "Siew & Yu (2025)" strings
+- **Generated**: 2026-10-13
+- **Review file**: `reviews/deep-review-2026-10-13-clinical-evidence-quality-standards-consciousness-research.md`
+- **Notes**: METADATA ONLY; the page already (correctly) reports the paper AS retracted and why, so keep that framing. HEADROOM: 3,620 of 4,000. Fix (1) L78 "A 2025 anatomical-likelihood meta-analysis" → "A 2023 …" (it was retracted in 2025; say so if the sentence needs it, length-neutral); (2) L161 reference: "Siew & Yu (2025)" → 2023, add *Scientific Reports* 13:18469 and doi 10.1038/s41598-023-45765-1 for the article, and if the retraction notice is cited keep its DOI (10.1038/s41598-025-11069-9) labelled as the retraction notice with its 2025-07-15 date. VERIFY both DOIs at Crossref before editing (article title, authors' full names, volume/article number; that the 2025 DOI is the retraction notice). Check that any in-text "(Siew & Yu, 2025)" citation elsewhere on the page or on `topics/clinical-evidence-quality-standards-consciousness-research` (its retracted ref 27) matches; grep both. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
 
