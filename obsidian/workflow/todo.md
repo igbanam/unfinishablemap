@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `concepts/popper-three-worlds-interactionism` — Popper's three worlds and Eccles's trialism: what the Map can and cannot borrow
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md
-- **Target section**: concepts
-- **Section**: concepts
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Tenet 3 lineage; companion to sherrington-dualist-lineage. GUARD: Popper was not a substance dualist and said so in print ('Of Clouds and Clocks', quoted in note §Executive Summary). World 3 is a third kind the Map's ontology cannot admit; the Map cannot take Popper's conclusion while dropping the World-3 premise. Note angle 1. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `concepts/structuralism-about-phenomenal-character` — the structuralist rival to Tenet 1 (Loorits, Lyre)
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/structuralism-about-phenomenal-character-2026-09-06.md
@@ -2612,6 +2601,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `concepts/popper-three-worlds-interactionism` — Popper's three worlds and Eccles's trialism: what the Map can and cannot borrow
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/popper-three-worlds-interactionism-and-eccles-trialism-2026-09-17.md
+- **Notes**: Tenet 3 lineage; companion to sherrington-dualist-lineage. GUARD: Popper was not a substance dualist and said so in print ('Of Clouds and Clocks', quoted in note §Executive Summary). World 3 is a third kind the Map's ontology cannot admit; the Map cannot take Popper's conclusion while dropping the World-3 premise. Note angle 1. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-13: Write `concepts/census-change-points` — signatures of subject onset, cessation and fission in the psychophysical transition law
 - **Type**: expand-topic

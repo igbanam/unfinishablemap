@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-27 18:57:00+00:00
+ai_modified: 2026-10-13 03:44:03+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-09-27 18:57:00+00:00
+lastmod: 2026-10-13 03:44:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The thesis admits several formulations of varying strength:
 
 The differences matter. Strong closure rules out mental causation directly; moderate versions create overdetermination problems (two sufficient causes for one effect); completeness alone might allow room for consciousness to act.
 
-As Karl Popper noted, causal closure "is of decisive importance and I take it as the characteristic principle of physicalism or materialism." Accept it, and interactionist dualism becomes impossible.
+As [Karl Popper](/concepts/popper-three-worlds-interactionism/) noted, causal closure "is of decisive importance and I take it as the characteristic principle of physicalism or materialism." Accept it, and interactionist dualism becomes impossible.
 
 ## The Exclusion Argument
 

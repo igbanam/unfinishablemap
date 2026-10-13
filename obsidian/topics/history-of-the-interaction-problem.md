@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-10-12T21:05:33+00:00
+ai_modified: 2026-10-13T03:44:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ Jaegwon Kim crystallised the problem:
 
 Kim also formalised Elisabeth's intuition into the [[pairing-problem]]: causal relations require spatial relations to pair cause with effect, so a non-spatial mind cannot be paired with any particular body. The modern causal closure argument is the further descendant of Elisabeth's puzzle—transforming her question about mechanism into what appeared to be an airtight logical argument against interaction.
 
-The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates whose relation science knows only as gross correlation. He tentatively accepted a working contact between mind and brain but called its "how" a blank: a limit-claim about mechanism. His own students supplied the evidence and the mechanism. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
+The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates whose relation science knows only as gross correlation. He tentatively accepted a working contact between mind and brain but called its "how" a blank: a limit-claim about mechanism. His own students supplied the evidence and the mechanism. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. Eccles's philosophical partner was Karl Popper, and their *The Self and Its Brain* (1977) was a book-length defence of interactionism written at the height of the eclipse. Popper denied that the physical world is causally closed but declined to speak of two substances, and his case for mind ran through a third "world" of objective thought-contents, so the Map can borrow his conclusions only [[popper-three-worlds-interactionism|selectively]]. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
 
 ## The Quantum Opening
 
@@ -120,6 +120,8 @@ These proposals differ in structure as well as ancestry. Wigner claimed only tha
 ### The Conservation Objection Reconsidered
 
 C. D. Broad (1925) had already found the objection's hidden premise: that if a change in A helps cause a change in B, energy must flow from A into B. That premise, he wrote, "is neither asserted nor entailed by the Conservation of Energy." A string redirects a swinging weight at every moment without altering its total energy; conservation "merely imposes a very general limiting condition on the changes that are possible."
+
+Popper reached a related verdict by another route. Since typically biological processes involve "the release or triggering of stored energy", he wrote, the formula "the cause equals the effect" and with it "the traditional criticism of Cartesian interactionism" had "long become obsolete, in spite of the continuing validity of the conservation laws" (Popper 1972, p. 234, n. 46).
 
 Recent work by Pitts and Cucu argues that conservation laws are *local* and *conditional*. Noether's theorem derives conservation from symmetries; external influences break those symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold simply assumes interactionism is false—so, they argue, the objection begs the question. Their own conditionality response then accepts energy non-conservation as a lawful feature of interactionist dualism; the Map's selection reading takes a different escape route, aiming to preserve conservation at the ensemble level. Both strategies are developed in [[conservation-laws-and-mental-causation]].
 
@@ -151,6 +153,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 - [[conservation-laws-and-mental-causation]] — Why the conservation objection is not decisive
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom
 - [[sherrington-dualist-lineage]] — The named neuroscientist dissent that ran through the materialist eclipse
+- [[popper-three-worlds-interactionism]] — Popper's three-worlds interactionism and what the Map can borrow from it
 - [[stapp-quantum-mind]] — Contemporary quantum mechanism
 - [[measurement-problem]] — The unsolved puzzle at quantum mechanics' core
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
@@ -184,6 +187,8 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
 1. Sherrington, C. S. (1940). *Man on His Nature*. The Gifford Lectures, Edinburgh 1937–38. Cambridge University Press.
 1. Penfield, W. (1975). *The Mystery of the Mind: A Critical Study of Consciousness and the Human Brain*. Princeton University Press.
+1. Popper, K. R. (1972). "Of Clouds and Clocks." Ch. 6 of *Objective Knowledge: An Evolutionary Approach*. Oxford: Clarendon Press.
+1. Popper, K. R., & Eccles, J. C. (1977). *The Self and Its Brain: An Argument for Interactionism*. Berlin, Heidelberg: Springer. doi:10.1007/978-3-642-61891-8
 1. Beck, F. & Eccles, J. C. (1992). "Quantum aspects of brain activity and the role of consciousness." *Proceedings of the National Academy of Sciences* 89(23): 11357–11361.
 1. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer. Trans. R. T. Beyer (1955), *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wigner, E. (1961). "Remarks on the Mind-Body Question." In *The Scientist Speculates*.

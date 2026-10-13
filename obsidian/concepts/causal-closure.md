@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-09-27T18:57:00+00:00
+ai_modified: 2026-10-13T03:44:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The thesis admits several formulations of varying strength:
 
 The differences matter. Strong closure rules out mental causation directly; moderate versions create overdetermination problems (two sufficient causes for one effect); completeness alone might allow room for consciousness to act.
 
-As Karl Popper noted, causal closure "is of decisive importance and I take it as the characteristic principle of physicalism or materialism." Accept it, and interactionist dualism becomes impossible.
+As [[popper-three-worlds-interactionism|Karl Popper]] noted, causal closure "is of decisive importance and I take it as the characteristic principle of physicalism or materialism." Accept it, and interactionist dualism becomes impossible.
 
 ## The Exclusion Argument
 
