@@ -60,3 +60,32 @@
   subject_articles:
   - concepts/agent-causation.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-12-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6acd91e7-ea8c-83ed-ad08-e8f917b08864
+  commissioned_at: '2026-10-13T02:06:55.446990+00:00'
+  prompt_summary: 'Audit ethics-under-dualism: claims, citations, moral patienthood'
+  target_filename: outer-review-2026-10-13-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please write an independent critical review of "Ethics Under Dualism"
+    on The Unfinishable Map (https://unfinishablemap.org/topics/ethics-under-dualism/),
+    last substantively revised 2026-10-06. The Map is a philosophy site committed
+    to interactionist dualism; its recent activity is logged at https://unfinishablemap.org/workflow/changelog/
+    (search indexes may lag by a day or two, so check it and the site root https://unfinishablemap.org
+    directly). The article argues that if consciousness is irreducible and causally
+    efficacious, it grounds moral status through felt valence rather than consciousness
+    as such, and that it unifies value, agency, normativity and moral perception,
+    which materialist ethics allegedly fragments. Audit its claims, citations and
+    quotations, and its treatment of illusionism, moral patienthood (animals, AI,
+    copies and uploads) and suffering. Look for insufficient evidence, missed counterarguments
+    (including materialist accounts that already ground moral status in sentience),
+    tenet-protective bracketing, stale references, and weak integration with related
+    Map articles. End your report with a list of concrete potential improvements to
+    specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit ethics-under-dualism
+  subject_articles:
+  - topics/ethics-under-dualism.md
+  subject_source: fallback:recent-aged
