@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T07:47:06+00:00
+ai_modified: 2026-10-13T08:32:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:32 - expand-topic
+- **Status**: Success
+- **Topic**: Structuralism about Phenomenal Character — the structuralist rival to Tenet 1 (Loorits, Lyre)
+- **Output**: [[concepts/structuralism-about-phenomenal-character]]
+- **Word count**: `analyze_length` 2,976 (`soft_warning`; concepts 2500 / 3500 / 5000; 523 under hard). Split: prose to Further Reading ~2,539, reference apparatus ~437.
+- **Based on research**: yes, [[research/structuralism-about-phenomenal-character-2026-09-06]]
+- **Cap and slug**: concepts 355/370 by `count_section_files` before writing; `scripts/check_slug.py` OK.
+- **Corrected view stated**: the article opens by naming the position from its proponents (FKL 2021 self-naming; Kleiner 2025 OPSR) and never repeats the constructed-composite concession, which stays on the OSR page where it is true. Lyre's "short answer is: no" is quoted with its continuation ("family resemblance", "denies phenomenal intrinsicality", the exclusion argument, reduction). Four-part concept format: neutral definition, Negro's three-way split, Map's interpretation (concede methodological, flag the EPSR asymmetry, refuse metaphysical), rival at full strength (Lyre's "excessive metaphysics" charge, Loorits's debunking, empirical programme), critics (Negro, Sebastián, Aldé, Mihálik & Marvan; none enlisted), Newman re-aimed at Kleiner's R-property repair and Lyre's spatio-temporal grounding (cuts both ways), inverted qualia (Lyre's concession with his reply).
+- **Verification**: all 53 quoted strings grep-verified against raw artefacts retrieved this run: Europe PMC XML (Lyre 2022, Loorits 2014); PhiMiSci galley PDFs (FKL 2021, Kleiner 2025, Fink & Lee 2025, Sebastián 2025, Mihálik & Marvan 2025, Lyre 2025); Negro 2025 OA copy; Crossref / OpenAlex abstracts (Loorits 2026, Aldé 2026, Nimmo 2026). Kleiner 2025 and the special issue re-verified at Crossref and the publisher's meta tags (`citation_date` 2025, vol. 6; Crossref online dates 2026-01-30 and 2026-02-09); each special-issue galley carries the "Special Issue: Structuralism in the Science of Consciousness" header.
+- **Forward search (OpenAlex cited-by)**: Loorits (2026), *Acta Analytica* 41(3) — a later paper defending "ineffable, structurally unanalyzable" qualia as explanatorily indispensable; the article attributes the metaphysics to Loorits 2014 only and says the abstract does not settle whether 2014 is revised. Nimmo (2026), *Philosophical Explorations* — a live countermodel to the Map's Tenet 4 indexical line; cited as such. Aldé (2026) abstract now verified.
+- **Integration (zero-cost piped links, +0 words each by `analyze_length`)**: `concepts/ontic-structural-realism` L97; `concepts/intrinsic-nature` L95; `concepts/galilean-exclusion` L72; `concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness` L68.
+- **Findings, not edits**: (1) the three live loci the research note lists as owing corrections were already corrected (OSR 2026-09-07; `primary-secondary-quality-boundary` and `interface-formalization-void` 2026-09-08). (2) The research note's Loorits quote at L225–226 ("...somehow different in two structurally identical cases") misses the raw text, which reads "...somehow different or even absent in an occasion where its structure is present"; the article uses the raw form. (3) `the-unfolding-argument...` L70 still quotes Lyre's disavowal without its continuation. (4) Citation defects in `research/voids-palette-void-2026-03-06.md` L178 (Loorits as "Taylor, J.H.") and `research/voids-contrast-dependence-void-2026-02-15.md` L76 (Prentner/Kob) are still live.
 
 ## 07:47 - refine-draft
 - **Status**: Success

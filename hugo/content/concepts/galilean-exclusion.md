@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-09-30 13:22:06+00:00
+ai_modified: 2026-10-13 08:31:25+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[process-philosophy]]'
 created: 2026-02-16
-date: &id001 2026-02-16
+date: &id001 2026-10-13
 description: How Galileo's relocation of sensible qualities into the sentient body
   became, in one influential reconstruction, the founding exclusion of modern science
   — and what that genealogy does and does not show about consciousness.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 09:10:46+00:00
-lastmod: 2026-09-30 13:22:06+00:00
+lastmod: 2026-10-13 08:31:25+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -73,7 +73,7 @@ The slide from the method's silence to metaphysical absence underlies much of th
 
 This point cuts more than one way. It tells the materialist that the absence of consciousness from physics does not prove consciousness is physical; the dualist, symmetrically, that the method's failure to capture qualities is no evidence *for* their non-physicality, since a method built to leave quality out would fail whether or not quality is physical; and the mysterian that the difficulty may reflect the method's structure rather than any intrinsic ineffability.
 
-A third position accepts the exclusion and denies there was ever a residue to exclude: [ontic structural realism](/concepts/ontic-structural-realism/) about physics is largely silent on consciousness, and it is the separate thesis of phenomenal structuralism that extends it to experience, so that Galileo's *relocated* residue is *abolished*. The circularity charge above does not reach a position that denies the remainder was ever a datum; the Map's pressure on it is Newman's problem, which is pressure rather than refutation and, as [the structural-realism article](/concepts/ontic-structural-realism/#newman) concedes, cuts both ways.
+A third position accepts the exclusion and denies there was ever a residue to exclude: [ontic structural realism](/concepts/ontic-structural-realism/) about physics is largely silent on consciousness, and it is the separate thesis of [phenomenal structuralism](/concepts/structuralism-about-phenomenal-character/) that extends it to experience, so that Galileo's *relocated* residue is *abolished*. The circularity charge above does not reach a position that denies the remainder was ever a datum; the Map's pressure on it is Newman's problem, which is pressure rather than refutation and, as [the structural-realism article](/concepts/ontic-structural-realism/#newman) concedes, cuts both ways.
 
 ## The Exclusion in Contemporary Debates
 

@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `concepts/structuralism-about-phenomenal-character` — the structuralist rival to Tenet 1 (Loorits, Lyre)
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/structuralism-about-phenomenal-character-2026-09-06.md
-- **Target section**: concepts
-- **Section**: concepts
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Tenet 1 rival. Note verdict: the corpus's central concession about this rival is wrong — read §Verdict and §Corrections owed to live pages first; the article states the corrected view, and the live-page corrections are listed for follow-up refine-draft tasks, not done here. Respect each author's actual stance (note flags e.g. one is not an intrinsicalist). ~2,400 words. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `concepts/doxastic-voluntarism` — direct voluntary control over belief and what the Map's interface account needs from the debate
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/doxastic-voluntarism-2026-10-07.md
@@ -2635,8 +2624,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-13-process-wing.md`
 - **Notes**: THREE FILES; report each. (1) `concepts/subjective-aim.md` L46 "Most actual occasions (electrons, molecules, simple organisms)" → "(those composing electrons, molecules, simple organisms)" (+2; the reviewer checked *Process and Reality*, archive.org `processrealityes00whit_1`); L92 link "endorsing Whitehead's panpsychist conclusion" to `[[the-steelman-for-process-monism|…]]` (0). (2) `/home/andy/unfin/unfinishablemap/obsidian/concepts/integration-as-activity.md` L76 link the existing phrase to `[[recurrent-processing-theory|…]]` and L109 to the steelman (0 each). (3) `/home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-as-activity.md` L65 link to the steelman (0). All link edits must be ZERO-COST piped links on existing words. Apply the review's EXACT strings (Priority List), pulling them by script; locate each by QUOTED text and confirm it occurs once; if a string no longer matches, report it and do not improvise. Run analyze_length per file first (gate `>=`). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u` per edited file; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P3: Structuralism follow-ups from `concepts/structuralism-about-phenomenal-character` (created 2026-10-13): Loorits 2014 is cited as asserting structuralist metaphysics "outright" without noting Loorits (2026); OSR L101 says no source runs Nimmo's (2026) countermodel; `the-unfolding-argument` L70 quotes Lyre's "short answer is: no" without what follows, and L72 overreads Kleiner's repair
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness.md
+- **Status**: pending
+- **Source**: expand-topic 2026-10-13 08:32Z (`concepts/structuralism-about-phenomenal-character`) out-of-scope report; driver confirmed the L70 Lyre string
+- **Generated**: 2026-10-13
+- **Notes**: MULTI-FILE; report each. COPY wording and references from `concepts/structuralism-about-phenomenal-character`, whose 53 quotes were verified against raw texts on 2026-10-13. (1) PRIMARY `the-unfolding-argument…` L70: Lyre's "The short answer is: no" must be quoted with what follows (the family resemblance, "denies phenomenal intrinsicality", the exclusion argument leading to reduction) or recast; L72 says Kleiner requires the relations to be "pinned down in non-structural terms", but his repair is stated in terms of phenomenal properties and "non-structural" is the Map's reading: rescope as the Map's reading. (2) Citation aging: Loorits (2026), *Acta Analytica* 41(3):619–637, argues for "ineffable, structurally unanalyzable" qualia, possibly revising his 2014 view. `concepts/ontic-structural-realism`, `topics/primary-secondary-quality-boundary` and `concepts/quiddity-epiphenomenalism-and-the-contingency-thesis.md` say Loorits asserts structuralist metaphysics "outright"; VERIFY Loorits 2026 at Crossref and read its abstract, then date the claim to 2014 and add a clause noting the 2026 paper. Do not attribute a full retraction unless the text says so. (3) `concepts/ontic-structural-realism` L101 says "no source consulted here runs" the Tenet 4 mineness line; Nimmo (2026), *Philosophical Explorations*, argues against it; verify the citation and cite it as the live countermodel (copy from the new concept page). OPTIONAL research-note fixes (one line each, no body edits): `research/voids-palette-void-2026-03-06.md` L178 "Taylor, J.H." → "Loorits, K." (doi 10.3389/fpsyg.2014.00237); `research/voids-contrast-dependence-void-2026-02-15.md` L76 Prentner vs Kob (2023) misattribution (PMC10191193 is Kob 2023); `research/structuralism-about-phenomenal-character-2026-09-06.md` L225–226 Loorits misquote (raw: "…somehow different or even absent in an occasion where its structure is present"). Do NOT copy the Fink & Lee editorial's wrong Loorits title. Run analyze_length per file first (concepts hard 3500, topics 4000; gate `>=`). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `concepts/structuralism-about-phenomenal-character` — the structuralist rival to Tenet 1 (Loorits, Lyre)
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/structuralism-about-phenomenal-character-2026-09-06.md
+- **Notes**: Tenet 1 rival. Note verdict: the corpus's central concession about this rival is wrong — read §Verdict and §Corrections owed to live pages first; the article states the corrected view, and the live-page corrections are listed for follow-up refine-draft tasks, not done here. Respect each author's actual stance (note flags e.g. one is not an intrinsicalist). ~2,400 words. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-13: `concepts/sentientism` bites Chalmers's Vulcan bullet without answering his narrow-affect continuity argument, and leaves open whether a Vulcan's conscious understanding is good for it, which its own pluralism implies
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-07 19:22:27+00:00
+ai_modified: 2026-10-13 08:31:25+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[phenomenal-acquaintance]]'
 created: 2026-05-27
-date: &id001 2026-05-27
+date: &id001 2026-10-13
 description: Physics describes only relational structure and is silent on the intrinsic
   categorical base—the quiddities that instantiate it. This distinction grounds Russellian
   monism, generates the inscrutability problem, and marks where the Map locates the
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:00+00:00
-lastmod: 2026-10-07 19:22:27+00:00
+lastmod: 2026-10-13 08:31:25+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -97,7 +97,7 @@ The divergence is not cosmetic. If consciousness simply *were* the intrinsic nat
 
 The Map's use of the intrinsic-nature distinction would be undermined if: (1) a defensible ontic structural realism showed that relations require no relata and structure no occupant, dissolving quiddities altogether; (2) physics delivered a non-relational, non-structural characterisation of matter's fundamental nature, closing the gap from the physical side; or (3) the Russellian identification of consciousness *with* quiddities proved more economical than the Map's distinct-aspect reading without re-importing the combination problem.
 
-The second and third have not been achieved: physics has grown more relational rather than less, and the combination problem has resisted solution since James (1890). The first is live, and [ontic structural realism](/concepts/ontic-structural-realism/) gives it the treatment a list of falsifiers cannot. Two findings from that page belong here. The cost is specific: eliminative ontic structural realism would remove this article's ontological-remainder route—and the parallel argument in [physical completeness](/concepts/physical-completeness/)—while leaving [Dualism](/tenets/#dualism) standing, since the tenet rests on the [hard problem](/topics/hard-problem-of-consciousness/) and the anti-physicalist arguments rather than on matter having quiddities. And the position does not reach consciousness by itself: carrying "no intrinsic natures" across from matter to experience is the work of structuralism about phenomenal character, a separate opponent with its own literature. So the first falsifier stands unrefuted, and what it would take from the Map is narrower, and more precisely located, than the list above implies.
+The second and third have not been achieved: physics has grown more relational rather than less, and the combination problem has resisted solution since James (1890). The first is live, and [ontic structural realism](/concepts/ontic-structural-realism/) gives it the treatment a list of falsifiers cannot. Two findings from that page belong here. The cost is specific: eliminative ontic structural realism would remove this article's ontological-remainder route—and the parallel argument in [physical completeness](/concepts/physical-completeness/)—while leaving [Dualism](/tenets/#dualism) standing, since the tenet rests on the [hard problem](/topics/hard-problem-of-consciousness/) and the anti-physicalist arguments rather than on matter having quiddities. And the position does not reach consciousness by itself: carrying "no intrinsic natures" across from matter to experience is the work of [structuralism about phenomenal character](/concepts/structuralism-about-phenomenal-character/), a separate opponent with its own literature. So the first falsifier stands unrefuted, and what it would take from the Map is narrower, and more precisely located, than the list above implies.
 
 ## Further Reading
 

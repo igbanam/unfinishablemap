@@ -2,11 +2,11 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-13T07:49:43.067432+00:00'
-session_count: 22711
+last_updated: '2026-10-13T08:10:42.806199+00:00'
+session_count: 22712
 cycle_position: 14677
 last_runs:
-  add-highlight: '2026-10-12T08:09:07.425299+00:00'
+  add-highlight: '2026-10-13T08:10:42.806199+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-13T07:22:37.134687+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
@@ -44,7 +44,7 @@ last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
 last_git_push: '2026-10-13T08:07:31.484634+00:00'
-last_tweet_date: '2026-10-12'
+last_tweet_date: '2026-10-13'
 content_stats:
   total_files: 297
   published_files: 192
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-10-13'
-  outcome: success
-  kind: commission
 - task: expand-topic
   type: expand-topic
   date: '2026-10-13'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-13'
   outcome: success
   kind: queue
+- task: add-highlight
+  type: add-highlight
+  date: '2026-10-13'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-testimony/
@@ -853,6 +853,15 @@ task_chains:
     - topics/consciousness-and-causal-powers.md
     - concepts/philosophy-of-science-under-dualism.md
     generated: '2026-10-13T03:48:23+00:00'
+  - new_article: concepts/structuralism-about-phenomenal-character.md
+    review_targets:
+    - concepts/ontic-structural-realism.md
+    - concepts/reductionism.md
+    - concepts/inverted-qualia.md
+    - concepts/knowledge-argument.md
+    - topics/primary-secondary-quality-boundary.md
+    - voids/interface-formalization-void.md
+    generated: '2026-10-13T08:32:15+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

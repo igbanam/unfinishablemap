@@ -2,9 +2,9 @@
 title: "Ontic Structural Realism"
 description: "Ontic structural realism holds relational structure is all there is. A human-AI study of where the Map assembles this rival, who holds it, and what it removes."
 created: 2026-09-04
-modified: 2026-10-12
+modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-12T23:32:25+00:00
+ai_modified: 2026-10-13T08:31:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ One calibration point governs these. David Chalmers, whose structure-and-dynamic
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** The composite is incompatible with the tenet if it generalises to the mental, and the Map notes that rather than refuting it — a framework-boundary disagreement. The narrower finding is more useful: eliminative OSR *by itself* does not generalise to the mental, and phenomenal structuralism — Loorits, Lyre, and the OPSR position Kleiner names — does the extending work, so that is where the Map's argument belongs.
+**[[tenets#^dualism|Dualism]].** The composite is incompatible with the tenet if it generalises to the mental, and the Map notes that rather than refuting it — a framework-boundary disagreement. The narrower finding is more useful: eliminative OSR *by itself* does not generalise to the mental, and [[structuralism-about-phenomenal-character|phenomenal structuralism]] — Loorits, Lyre, and the OPSR position Kleiner names — does the extending work, so that is where the Map's argument belongs.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** OSR is the more parsimonious ontology, and the Map's usual reply — that materialist simplicity is purchased by omitting the phenomenon — does not apply where the phenomenon is denied as a separate datum. The tenet's actual content still bites: simplicity is unreliable under incomplete knowledge, and Newman's problem is where the tidier ontology risks buying economy at the price of determinacy.
 

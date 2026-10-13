@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-10-12 23:32:25+00:00
+ai_modified: 2026-10-13 08:31:25+00:00
 ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[reductionism]]'
 created: 2026-09-04
-date: &id001 2026-10-12
+date: &id001 2026-10-13
 description: Ontic structural realism holds relational structure is all there is.
   A human-AI study of where the Map assembles this rival, who holds it, and what it
   removes.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:06+00:00
-lastmod: 2026-10-12 23:32:25+00:00
+lastmod: 2026-10-13 08:31:25+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -98,7 +98,7 @@ One calibration point governs these. David Chalmers, whose structure-and-dynamic
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** The composite is incompatible with the tenet if it generalises to the mental, and the Map notes that rather than refuting it — a framework-boundary disagreement. The narrower finding is more useful: eliminative OSR *by itself* does not generalise to the mental, and phenomenal structuralism — Loorits, Lyre, and the OPSR position Kleiner names — does the extending work, so that is where the Map's argument belongs.
+**[Dualism](/tenets/#dualism).** The composite is incompatible with the tenet if it generalises to the mental, and the Map notes that rather than refuting it — a framework-boundary disagreement. The narrower finding is more useful: eliminative OSR *by itself* does not generalise to the mental, and [phenomenal structuralism](/concepts/structuralism-about-phenomenal-character/) — Loorits, Lyre, and the OPSR position Kleiner names — does the extending work, so that is where the Map's argument belongs.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** OSR is the more parsimonious ontology, and the Map's usual reply — that materialist simplicity is purchased by omitting the phenomenon — does not apply where the phenomenon is denied as a separate datum. The tenet's actual content still bites: simplicity is unreliable under incomplete knowledge, and Newman's problem is where the tidier ontology risks buying economy at the price of determinacy.
 

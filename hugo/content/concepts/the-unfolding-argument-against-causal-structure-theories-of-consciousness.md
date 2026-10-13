@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-07 15:58:00+00:00
+ai_modified: 2026-10-13 08:31:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
 - '[[integrated-information-theory]]'
 created: 2026-07-10
-date: &id001 2026-07-10
+date: &id001 2026-10-13
 description: 'A human-AI examination of the unfolding argument: the disjunctive result
   that IIT-style causal-structure theories are either false or unfalsifiable, and
   what it does and does not show.'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 15:58:00+00:00
-lastmod: 2026-09-07 15:58:00+00:00
+lastmod: 2026-10-13 08:31:25+00:00
 modified: *id001
 related_articles:
 - '[[falsification-roadmap-for-the-interface-model]]'
@@ -69,7 +69,7 @@ The implication is precise: theories that build consciousness on fast plasticity
 
 ## Which structuralism the argument reaches {#which-structuralism}
 
-A neighbouring family of positions is easily mistaken for the argument's target and does not belong to it. **Structuralism about phenomenal character** holds that experiences are individuated by their place in a web of relations to other experiences rather than by intrinsic qualities. Johannes Kleiner — author of the premise-level rebuttal above — supplies the taxonomy: *epistemic* phenomenal structural realism holds that "all we can know about phenomenal character is its structure", while *ontic* phenomenal structural realism holds that "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" (Kleiner 2025).
+A neighbouring family of positions is easily mistaken for the argument's target and does not belong to it. **[Structuralism about phenomenal character](/concepts/structuralism-about-phenomenal-character/)** holds that experiences are individuated by their place in a web of relations to other experiences rather than by intrinsic qualities. Johannes Kleiner — author of the premise-level rebuttal above — supplies the taxonomy: *epistemic* phenomenal structural realism holds that "all we can know about phenomenal character is its structure", while *ontic* phenomenal structural realism holds that "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" (Kleiner 2025).
 
 The ontic version is structure all the way down about experience, so one might expect the unfolding construction to reach it. On its own it does not. The argument bites on theories that fix consciousness by *internal causal wiring* independent of function, whereas phenomenal structuralism is a claim about relations *among experiences* — it says nothing by itself about which physical organisation realises which phenomenal structure, so the unfolded twin has nothing to grip. A phenomenal structuralist enters the target class only by pairing the thesis with a psychophysical theory keyed to internal causal organisation, and IIT is exactly such a pairing. Holger Lyre, who has developed the programme for neuroscience, separately declines the association with structural realism in as many words: "One might be inclined to ask whether neurophenomenal structuralism is a version of structural realism. The short answer is: no" (Lyre 2022). The corresponding thesis in the philosophy of physics, [ontic structural realism](/concepts/ontic-structural-realism/), concerns the ontology of the physical world and is nearly silent on experience.
 
