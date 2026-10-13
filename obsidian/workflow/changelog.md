@@ -1,9 +1,64 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T05:13:32+00:00
+ai_modified: 2026-10-13T06:42:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:42 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Review file**: [[reviews/outer-review-2026-10-13-chatgpt-5-6-sol-pro]] (verdict "major revision")
+- **Original score**: n/a. `scripts/curate.py` is absent, so the outer review's verified items stood in for the quality review.
+- **Length**: `analyze_length` went from 3,807 to 3,936 (+129, against a +130 cap). The topics hard ceiling is 4,000, so headroom is now 63. Most changes replace existing text.
+- **Changes** (all 10 items DONE):
+  1. **AI agency.** "Either way AI can be a moral *agent* without being a moral *patient*" now reads: current AI is no moral agent (linked to [[ai-moral-agency-and-the-responsibility-gap-under-dualism]]), and the responsibility questions its design, deployment and social effects raise fall on its builders and deployers. This matches the agency article L68 and this file's "Moral agency requires causal efficacy". Net +3.
+  2. **Illusionism.** Two replies were replaced with the [[consciousness-value-connection]] formulation:
+     - The audience-regress reply only repeats that seeming must be felt.
+     - Avoidance shows practical mattering, which is conceded; intrinsic mattering is the disputed thesis.
+     - Response three (the normativity gap) is kept.
+     - Frankish (2024) is now cited with an abstract-faithful paraphrase: illusionism "revises what consciousness is without removing its value-grounding role". This was used instead of "functional analogues carry the moral work" because the abstract says it "merely offers a different account of what consciousness is and why it grounds ethical value".
+     - "Closes the gap rather than relocating it" now reads: the Map *claims* to close the gap, and from outside both frameworks the two accounts compete for the same data.
+     - Frankish 2024 was added to References.
+  3. **Apex calibration imported.**
+     - Lead: the criterion is shared by non-dualist sentientists (Perry 2024); dualism adds its *phenomenal reading*. "*unifies*" became "can *unify*", and the description got the same change.
+     - L89: "dissolves the gap" became "proposes a grounding rather than a bridge". New sentence: the grounding does not close Hume's gap; first-person reasons only; interpersonal obligation, aggregation, rights and distribution remain bridges still owed (linked to the apex).
+     - L97: unity is what the pillars *enable*, not a fifth independent line; a corpus pruned for consistency produces fit partly by construction.
+     - L103: "unifies" became "offers one ground for".
+     - L167: lead-in "more demanding than its materialist alternatives" became "If the framework holds, three things follow for moral agents".
+     - Perry 2024 was added to References.
+  4. **New York Declaration.**
+     - "Likely conscious" now lists only mammals and birds, with "strong scientific support".
+     - A new "Realistic possibility" line follows the Declaration: all other vertebrates and many invertebrates, including cephalopods, decapod crustaceans and insects.
+     - The table's Insects: Low row is kept and marked as the Map's own lower credence. Wording was re-checked on the live page.
+  5. **Table.**
+     - The column is renamed "Precautionary weight".
+     - L119 now weights *precaution* by confidence, "while status, given valence, is a threshold" (P-MS2).
+  6. **Valenced AI.** L145 now reads "conscious, valenced AI".
+  7. **Defeaters.**
+     - "falsifiable commitments" became "six potential defeaters", and L97 now refers to "the defeaters below".
+     - Falsifier 4 is restated. It now uses subjects matched on every measured functional variable except report, who report radically different valence. That would show felt valence is idle in choice and would undermine the interactionist account of suffering.
+     - The old version undermined itself and targeted phenomenal grounding, which causal idleness would not touch under phenomenal value realism.
+     - "currently unmet" became "Several are pressed in print but, on the Map's assessment, not met".
+  8. **Street.** At L93 the "one live option among several" clause was replaced with a link to [[meaning-of-life#against-evolutionary-debunking|the Map's reply to evolutionary debunking]], stating that it meets the tracking horn but leaves the adaptive-link horn open. Net +6. Street is reached through the link and is not named here, so no reference entry is needed.
+     - **Stability-note override, justified.** The 07-14, 08-02 and 10-06 "do not attempt the Street gap" note was a borrowed blocker from the `ethics-of-possible-ai-consciousness` NEEDS-HUMAN cluster, whose own text says "try the length-neutral link first".
+  9. **Asymbolia.** L161 now says "on its standard reading" and has a piped link to [[pain-asymbolia]].
+  10. **Scale and causal role.**
+     - L163: resources follow expected suffering (probability × number × intensity), not probability alone. This is consistent with the stakes grading in P-MS2 and P-VS4.
+     - L135: "strengthens this … so it matters *to the animal*" became "adds that" plus the causal claim alone, so badness is no longer derived from causal role (phenomenal value realism).
+- **Reasoning-mode classification** (editor-internal, not in the body):
+  - Illusionism: mixed.
+    - The audience-regress reply was boundary-substitution and is withdrawn.
+    - The practical/intrinsic split is Mode Three: it marks the disputed thesis.
+    - The normativity-gap reply is Mode Two: a functional representation helps itself to normative grip without specifying it.
+    - Frankish 2024 is Mode Three: his programme can accommodate the reply on its own terms, and this is noted, not refuted.
+  - Materialist fragmentation and unity (item 3): downgraded to Mode Three where the apex concedes. Unity is now an enabled organisational virtue, not independent evidence, and the is-ought bridge for interpersonal obligation is honestly marked as owed.
+- **Citations verified**:
+  - Frankish, K. (2024), *Neuroethics* 17(2), art. 28, doi:10.1007/s12152-024-09562-5. Checked at Crossref; the OpenAlex abstract was read in full.
+  - Perry, M. W. (2024), *J. Ethics* 28(4), 719–741, doi:10.1007/s10892-024-09487-4. Checked at Crossref.
+  - New York Declaration: the live page was fetched 2026-10-13 and its wording matches.
+- **Not done / respected**: the Insects-Low credence, the moral-realism presupposition and the illusionism bedrock were not re-litigated. Copy/upload and Parfit were not expanded. The Chalmers Vulcan continuity argument was left to the queued `concepts/sentientism` P1. The asymbolia "decisive" claim was left to the queued `pain-consciousness-and-causal-power` P2.
+- **Published**: yes
 
 ## 05:13 - literature-drift-review
 - **Status**: Success
