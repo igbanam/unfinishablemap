@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-01
-ai_modified: 2026-10-12 01:06:39+00:00
+ai_modified: 2026-10-13 02:29:59+00:00
 ai_system: claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 22:42:28+00:00
-lastmod: 2026-10-12 01:06:39+00:00
+lastmod: 2026-10-13 02:29:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,6 +79,8 @@ Four ways of meeting, or dissolving, the joint demands are visible from the curr
 **(c) Relational dissolution.** Deny that there is a single agent-independent joint distribution to preserve. [QBism](/concepts/qbism/) takes this route explicitly: on Schack's treatment of intersubjective agreement (2024), "there is never a necessity for two agents to agree on their respective measurement outcomes" — agreement is a goal an agent can create conditions for, not a formal consequence. [Relational quantum mechanics](/concepts/relational-quantum-mechanics/) relativises outcomes to observers; the many-minds interpretation of Albert and Loewer (1988) lets correlations between one observer's minds and another's arise only when the observers interact, at the price of a continuous infinity of minds per observer ([treated in full separately](/topics/many-minds-interpretation/)). These dissolutions genuinely remove demands 2 and 3. Their costs fall on the Map's own commitments: each gives up the observer-independent single outcome the Map posits, and many-minds also reopens the indexical question on which the No Many Worlds tenet rests. Many-minds is instructive precisely as the interpretation that took multi-agent correlation most seriously — and as a demonstration of how much machinery a real solution seems to demand.
 
 **(d) A single global experiencer.** If the "many agents" are facets of one experiencer that selects the joint outcome at once, correlations and no-signalling are trivially preserved. The Map's work on [phenomenal non-compositionality](/concepts/composition-and-consciousness/) and [quantum holism](/topics/quantum-holism-and-phenomenal-unity/) keeps this metaphysically adjacent rather than absurd. But the move dissolves the plurality that generated the problem, and it sits badly with the everyday datum of distinct conscious persons. The philosophically interesting question is whether genuine agent-plurality can be reconciled with joint Born preservation *without* collapsing into (d) — and that question is exactly what remains unanswered.
+
+Beneath all four options sits a second question: whose selection counts, and how much, when two corridors bear on one event and their subjects' states conflict. On the value-sensitive horn of [P-VS1](/positions/value-in-selection/#p-vs1) each subject's state enters through felt valence, and the composition rule becomes a map from a profile of valenced states to a distribution over the shared outcome, a stochastic social-choice function. Every candidate rule then carries a commitment social-choice theory has already priced. Equal weights make copies causally consequential, intensity weighting needs interpersonally comparable valence, and interface locality is a jurisdiction rule of the kind that conflicts with unanimity over an unrestricted domain. Born preservation itself favours rules with fixed weights ([psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/)).
 
 ## What the Aggregate Record Shows
 

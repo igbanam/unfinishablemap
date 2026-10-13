@@ -4,7 +4,7 @@ description: "Luke Roelofs' manyism holds that many overlapping conscious subjec
 created: 2026-06-17
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-10-07T07:25:20+00:00
+ai_modified: 2026-10-13T02:29:59+00:00
 last_deep_review: 2026-10-07T07:25:20+00:00
 draft: false
 topics:
@@ -56,6 +56,8 @@ Manyism is one branch of the constitutive-panpsychist response to subject-summin
 Manyism's most obvious cost is the multiplication of minds: if a single head contains trillions of overlapping subjects, has the view reduced itself to absurdity? Roelofs addresses this directly in "No Such Thing as Too Many Minds" (2024), surveying metaphysical, phenomenological, and moral arguments that such multiplication is *uniquely* intolerable for minds. His reply is that each argument fails, and that "many overlapping conscious minds is no more problematic than many overlapping physical objects"—the Problem of the Many already forces us to tolerate indefinitely many overlapping *physical* objects wherever we name one, so minds inherit a difficulty they do not uniquely create. Two features of the paper matter for how the Map reads it. First, Roelofs states his defence as conditional: "if two subjects can share experiences, then there is nothing implausible about manyism"—so experience-sharing carries the whole weight, by his own account. Second, the paper is written against a live dualist use of the problem: Roelofs lists Peter Unger, Dean Zimmerman, and Simon (2017) among those who treat the threat of multiplied minds as an argument for [[substance-property-dualism|substance dualism]]—one subject per person, so no cloud of overlapping candidates. The Map does not run that argument, for reasons given below.
 
 The position is not idle metaphysics. Roelofs and Sebo (2024) argue that near-future neurotechnology could let two subjects share a single token mental state—one feeling of pleasure—and show this generates a live problem for utilitarian aggregation: if subjects share few states, the value should be counted twice; if they share many, once. Whichever way one resolves it, experience-sharing has testable-ish ethical stakes, which is part of why the position is taken seriously even by readers who reject panpsychism—Eric Schwitzgebel's review of *Combining Minds* called it "a trove of intricate, careful, intellectually honest metaphysics" while declining to accept the framework.
+
+On views that allow experience-sharing, the counting problem has a selection-side twin. If felt valence steers conscious selection, a pleasure shared by two subjects would have to enter the composition rule for any event both are paired to, once or twice, and anatomy cannot decide because the substrates overlap. The Map, whose craniopagus reading does not need shared tokens, still faces the overlapping-substrate half of the problem ([[psychophysical-social-choice-problem]]).
 
 ## Relation to Site Perspective
 

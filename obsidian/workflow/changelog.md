@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T01:33:43+00:00
+ai_modified: 2026-10-13T02:30:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:30 - expand-topic
+- **Status**: Success
+- **Topic**: The psychophysical social-choice problem (how a selection law combines the states of several subjects that bear on one event)
+- **Output**: [[concepts/psychophysical-social-choice-problem]]
+- **Word count**: 2,937 (analyze_length total; prose ~2,560, Further Reading ~105, References ~275). Concepts soft 2,500 / hard 3,500.
+- **Based on research**: yes, [[research/psychophysical-social-choice-problem-2026-09-15]]
+- **Notes**:
+  - Structure: the four-part concept format. The neutral definition comes first (a profile-to-distribution rule with the shape of a Gibbard 1977 decision scheme), followed by three calibrations: it is a Map-internal synthesis; it has normative content only on P-VS1's low-credence value-sensitive horn, whose felt-anticipation input no study has measured; and collapse-selection carries the mechanism debt. Then a six-rule menu (equal weight, intensity, jurisdiction, lexical priority, random unilateral, no rule), the Map's reading, three rivals, and the disputed-implications split.
+  - New result (the Map's own, derived from the averaging identity): a fixed-weight mixture of Born-preserving single-subject rules is Born-preserving. Profile-dependent weights (intensity, lexical priority, accumulation) need the subject-sensitive balancing law that P-SC1 lists as unwritten. Both Born-preservation readings are named (per-context, as in selection-only-channel; pooled long-run, as in born-preserving-causal-efficacy), and neither is chosen.
+  - Departures from the research note: (1) the note's "P-VS4 pluralism blocks the intensity rule" is refined. P-VS1 puts the currency in a single felt anticipation at choice, separate from the plural experienced values. Pluralism therefore widens the gap between what the rule sums and what is good; it does not block the rule. The Arrovian problem re-enters within a subject only if the micro-valence shift-condition fires (Okasha 2011). (2) Chalmers & McQueen 2022 is cited as a collapse-trigger model, with outcomes "with probabilities given by the Born rule", in which the problem does not arise. The note had called it "single-subject". (3) Gibbard's Pareto clause is not invoked, because only the unilateral/duple characterisation is used.
+  - Verification: Crossref confirmed all 10 DOIs (Sen 1977, Gibbard 1977 and Okasha 2011 page ranges via RePEc/Crossref). Quotes were grepped against raw sources: Bostrom 2006 from the author's PDF; Chalmers & McQueen from the arXiv text; the SEP social-choice comparability sentence, Sen's theorem and the meddlesome-preferences escape from raw HTML; Okasha and Roelofs & Sebo from OpenAlex abstracts. The Gibbard 1977 abstract is used as the note's verified quote. Harsanyi, Sen 1977 and List & Pettit 2011 are paraphrased and not quoted.
+  - Integration: [[topics/multi-agent-born-preservation-problem]] gets a paragraph at the end of The Option Space (+114 words, 2,976 → 3,090 / 4,000). [[concepts/manyism]] gets a paragraph at the end of the Too Many Minds section (+68, 1,924 → 1,992 / 3,500). [[apex/moral-architecture-of-consciousness]] L154 has a clause added (+25, 4,427 → 4,452 / 5,000). Positions edits (P-SC2, P-VS4, P-MS1) are left for /positions-evolve.
 
 ## 01:33 - pessimistic-review
 - **Status**: Success

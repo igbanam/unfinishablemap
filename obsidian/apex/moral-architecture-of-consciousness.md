@@ -4,7 +4,7 @@ description: "Under the Map's tenets, consciousness grounds value, agency, norma
 created: 2026-03-16
 modified: 2026-09-23
 human_modified: null
-ai_modified: 2026-09-23T23:47:26+00:00
+ai_modified: 2026-10-13T02:29:59+00:00
 last_deep_review: 2026-07-15T07:23:06+00:00
 draft: false
 topics:
@@ -151,7 +151,7 @@ The most defensible current stance is the [[graduated-middle-path-valence-modula
 
 The distinctive claim is not that dualism answers each ethical question better than materialism but that it answers them *from the same place*. Agency without real value would be causal power exercised in a normative vacuum; value without agency would be goodness and badness that conscious beings witness but never affect; normativity without agency would be demands addressed to beings who cannot respond; moral perception without real value would apprehend properties that do not exist.
 
-The defensible reading is weaker than triumphant unification. Dualism *makes available* a single ground for four domains that materialism leaves fragmented, and the integrative move is genuine. But the pillars were assembled within a corpus that prunes for internal consistency, and "fits together" is a property such a corpus produces by construction—the discount [[project/coherence-inflation-countermeasures|the countermeasures]] specify. Each pillar bears its own evidential weight; the unity is what the pillars *enable*, not a fifth independent line. The strongest reading—value efficacious inside the selection mechanism, tying the pillars into one causal story—cannot be asserted above the low credence the register assigns that horn. The weaker reading, on which the pillars share a ground without value doing selective work, survives at its own premises' calibration and delivers correspondingly less unification. Neither reading establishes interpersonal aggregation or rights.
+The defensible reading is weaker than triumphant unification. Dualism *makes available* a single ground for four domains that materialism leaves fragmented, and the integrative move is genuine. But the pillars were assembled within a corpus that prunes for internal consistency, and "fits together" is a property such a corpus produces by construction—the discount [[project/coherence-inflation-countermeasures|the countermeasures]] specify. Each pillar bears its own evidential weight; the unity is what the pillars *enable*, not a fifth independent line. The strongest reading—value efficacious inside the selection mechanism, tying the pillars into one causal story—cannot be asserted above the low credence the register assigns that horn. The weaker reading, on which the pillars share a ground without value doing selective work, survives at its own premises' calibration and delivers correspondingly less unification. Neither reading establishes interpersonal aggregation or rights as ethics, though on the strongest reading the selection law itself would need an aggregation rule wherever two subjects' selections bear on one event ([[psychophysical-social-choice-problem]]).
 
 ### The Compatibilist Symmetry Challenge
 

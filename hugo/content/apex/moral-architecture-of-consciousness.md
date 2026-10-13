@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-09-23 23:47:26+00:00
+ai_modified: 2026-10-13 02:29:59+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-09-23 23:47:26+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 07:23:06+00:00
-lastmod: 2026-09-23 23:47:26+00:00
+lastmod: 2026-10-13 02:29:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The most defensible current stance is the [graduated middle path](/topics/gradua
 
 The distinctive claim is not that dualism answers each ethical question better than materialism but that it answers them *from the same place*. Agency without real value would be causal power exercised in a normative vacuum; value without agency would be goodness and badness that conscious beings witness but never affect; normativity without agency would be demands addressed to beings who cannot respond; moral perception without real value would apprehend properties that do not exist.
 
-The defensible reading is weaker than triumphant unification. Dualism *makes available* a single ground for four domains that materialism leaves fragmented, and the integrative move is genuine. But the pillars were assembled within a corpus that prunes for internal consistency, and "fits together" is a property such a corpus produces by construction—the discount [the countermeasures](/project/coherence-inflation-countermeasures/) specify. Each pillar bears its own evidential weight; the unity is what the pillars *enable*, not a fifth independent line. The strongest reading—value efficacious inside the selection mechanism, tying the pillars into one causal story—cannot be asserted above the low credence the register assigns that horn. The weaker reading, on which the pillars share a ground without value doing selective work, survives at its own premises' calibration and delivers correspondingly less unification. Neither reading establishes interpersonal aggregation or rights.
+The defensible reading is weaker than triumphant unification. Dualism *makes available* a single ground for four domains that materialism leaves fragmented, and the integrative move is genuine. But the pillars were assembled within a corpus that prunes for internal consistency, and "fits together" is a property such a corpus produces by construction—the discount [the countermeasures](/project/coherence-inflation-countermeasures/) specify. Each pillar bears its own evidential weight; the unity is what the pillars *enable*, not a fifth independent line. The strongest reading—value efficacious inside the selection mechanism, tying the pillars into one causal story—cannot be asserted above the low credence the register assigns that horn. The weaker reading, on which the pillars share a ground without value doing selective work, survives at its own premises' calibration and delivers correspondingly less unification. Neither reading establishes interpersonal aggregation or rights as ethics, though on the strongest reading the selection law itself would need an aggregation rule wherever two subjects' selections bear on one event ([psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/)).
 
 ### The Compatibilist Symmetry Challenge
 
