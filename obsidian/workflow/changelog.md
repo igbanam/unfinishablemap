@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T06:42:47+00:00
+ai_modified: 2026-10-13T07:04:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:04 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the process wing, the first wing-level optimistic pass on it: `apex/process-and-consciousness`, `concepts/process-philosophy`, `concepts/subjective-aim`, `concepts/prehension`, `topics/the-steelman-for-process-monism`, `concepts/integration-as-activity`, `topics/consciousness-as-activity`, `topics/bergson-and-duration`. All were read in full at `4f9204fbb0`.
+- **Key findings**:
+  - Seven of the eight pages are calibrated; three of them name the "defeater-removal / lineage, not evidence" pattern outright.
+  - The apex (synthesised 2026-04-21; the deep-review pool excludes apexes, `tools/curate/deep_review.py` L210) still carries three claims its siblings have since calibrated: the SCQ convergence at L83, epothilone B described as an anaesthetic plus "classical theories struggle to predict" at L103, and the monkey ~280 ms figure stated without species at L109. Its L103 also contradicts the steelman's bedrock that interface data cannot separate dualism from process monism.
+  - The steelman has 3 inbound links, and none comes from the wing's own "the Map declines Whitehead" sentences.
+  - Gap: Griffin's "nondualistic interactionism" is unstated anywhere in the corpus, and P-D2's selector cannot exclude it.
+- **Priority list**: 4 items.
+  1. Apex refine-draft, +43.
+  2. `subjective-aim`, +2.
+  3. Zero-word links in `integration-as-activity` and `consciousness-as-activity`.
+  4. Riders on open P3s at todo L2290 (`process-philosophy` L126, +10) and L1970 (`prehension` L74, 0).
+- **Sources verified**: Crossref, OpenAlex, PubMed, and the archive.org *Process and Reality* text.
+- **Output**: [[reviews/optimistic-2026-10-13-process-wing]]
+- **Scope**: reports only. No content, todo or commit changes.
 
 ## 06:42 - refine-draft
 - **Status**: Success
