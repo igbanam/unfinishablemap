@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T09:30:31+00:00
+ai_modified: 2026-10-13T09:53:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:53 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned
+- **Status**: SUCCESS (no candidate; steady state)
+- **Selection**: `count_section_files` gave concepts 357/370 (96.5%, most pressured), topics 346/370 (345 articles plus the `non-temporal-consciousness.refinement-log` sidecar, filtered out before pairing), voids 112/125 (89.6%). Caps were raised from 360/360/115 in `ffea5abe9f`, so voids is no longer the most pressured section. Since the 10-12 19:39 sweep, 10 articles were added and none removed or renamed. All 10 are inside the age floor. Exclusions: created on or after 09-29; edited in git since 10-12 03:50 (101 files); any slug named above `## Completed Tasks`, with each hit traced to its enclosing task header and Status.
+- **Screen**: the same TF-IDF paragraph-containment method as 10-12 (threshold 0.30; the uncovered remainder checked against the host's hard − 1 headroom from `analyze_length`, gate `>=`). There were 15 length-feasible directed pairs at ≥0.30, almost the same list as 10-12. The three pairs the 10-12 run declined were not reopened: none of their six files has changed since.
+- **New or re-opened pairs, read on content (all declined)**:
+  1. `concepts/samkhya-three-way-distinction` (1,946) → `topics/essential-vs-contingent-consciousness` (2,932): 0.56, remainder ~854 against headroom 1,067. **Role: question topic ↔ single-school concept.** The covered part is the topic's `## Samkhya: The Purusha Question` (L66–70), one of four answers it surveys (Advaita, Nyaya, Samkhya, Western). The topic defers full Samkhya treatment to `indian-philosophy-of-mind` (FR L122). This is the same survey↔single-school split as the 10-12 `samkhya`→`indian-philosophy-of-mind` decline. The only open-task mentions of the concept are two incidental NEEDS-HUMAN lists (L718 scanner flags, L888 transcript audit).
+  2. `concepts/transactional-interpretation-of-quantum-mechanics` (1,759) → `concepts/collapse-and-time` (2,474): 0.51, remainder ~862 against headroom 1,025. The 10-12 run excluded this pair only because of an open task. That task is NEEDS-HUMAN L480 (the `apex/born-preserving-causal-efficacy` length decision), which names the TI page as the one that already carries the apex's "Candidate Venue" content. Archiving TI would change the premise of a live operator decision. **Role: interpretation explainer ↔ thematic page.** collapse-and-time treats TI as one of its time-symmetric positions (L67), and TI L76 points to collapse-and-time as the place where the selection idea is explored.
+  3. `concepts/seemings` (2,488) → `concepts/functional-seeming` (1,941): 0.38, remainder ~1,543 against headroom 1,558 (a 15-word margin). **Role: general ↔ specific, signed both ways.** Seemings FR L107 glosses the other page as "Frankish's analysis and the Map's critique". Functional-seeming FR L109 glosses seemings as "The four analyses of a seeming". Functional-seeming is also the named extraction host in NEEDS-HUMAN L231 option (b) (`illusionism` hard gate), and a merge would use up that headroom.
+  - Also declined: `concepts/interface-heterogeneity` → `concepts/universal-coupling-response`: 0.32, remainder ~1,471 against headroom 1,642. The split is signed at universal-coupling-response L82: "Universal coupling describes the *scope* of consciousness; interface heterogeneity describes the *mechanism*."
+- **Still excluded**:
+  - `mirth-void` → `the-comic-and-humor-as-an-aesthetic-category` (0.63): the void was created 09-28, one day outside the floor, but it was refined 10-11. The pending P2 at todo L2424 targets both pages, adding links from the topic to the void as siblings.
+  - `grain-mismatch` pair: edited in the window and named in open tasks.
+  - `simulation-detection-void` → `simulation`: pending P3 (Bostrom title).
+  - `prehension` / `subjective-aim` → `process-philosophy`: declined 10-12, unchanged.
+- **Inside the floor, for later runs**: the highest-containment new pages do not make good pairs. `mad-dog-everettianism` is 0.57 contained in `quantum-factorisation-problem` (both new; host over hard). `covert-consciousness-and-cognitive-motor-dissociation` → `consciousness-disruption-and-the-mind-brain-interface` is 0.56 (headroom 80). `doxastic-voluntarism` ↔ `assent-void` has doc-sim 0.45 (both new, already cross-linked).
+- **Observation, not acted on**: the Map's dedicated Samkhya page `concepts/samkhya-three-way-distinction` has no inbound link from either topic that has a Samkhya section: `indian-philosophy-of-mind` §Samkhya L51 (0 hits; control: 3 links to essential-vs-contingent) and `essential-vs-contingent-consciousness` §Samkhya L66 (0 hits; control: 5 links to indian). Both are zero-cost piped-link opportunities.
+- **Output**: none (no content, todo or archive changes)
+- **Style**: no "This is not X. It is Y."; no "load-bearing".
 
 ## 09:30 - expand-topic
 - **Status**: Success
