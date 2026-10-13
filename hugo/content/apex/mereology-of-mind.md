@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-10-05 07:51:58+00:00
+ai_modified: 2026-10-13 01:14:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-10-13 01:14:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,6 +84,8 @@ Gregory Miller's de-combination problem ("Can Subjects Be Proper Parts of Subjec
 That structural identity is the hinge — and it is an argued thesis rather than a settled result. Combination is the limiting case of *composition* applied to subjects: can experiential parts form an experiential whole? De-combination is the limiting case of *individuation* applied to a putative whole: can an experiential whole partition into experiential parts? Miller's argument — that neither direction has been given a coherent subject-part relation — says the upward and downward questions run out at the same missing principle. Its premise is that grounding one subject in another involves phenomenal inclusion, a species of proper parthood; and that premise is exactly what the cosmopsychist denies. A rival may hold that the cosmic subject *subsumes* local perspectives rather than containing them as parts, that phenomenal parthood need not inherit the behaviour of the spatial parthood the formalism was built for, or that finite subjects arise through filtering or perspectival relations that are neither literal composition nor conventional emergence. Itay Shani (2022), who calls the difficulty the *individuation* problem rather than de-combination, presses the point directly: "the widespread tendency to view IND as a mirror-image of micropsychism's combination problem (CP) is mistaken," because what makes combination intractable is a coupling of phenomenal constitution with phenomenal inclusion that cosmopsychism need not assume. [The bridge article](/topics/open-individualism-and-the-de-combination-problem/) lays out these replies in full and reaches the Map's provisional verdict — that none has yet supplied the grounding relation it needs — while marking that verdict as the Map's own rather than the literature's. Naming the moves available to a rival is not the same as showing they fail, and this article does not claim to have shown it.
 
 What survives that concession is still enough to do the joint work. No agreed account of how consciousness *divides into units* is in hand, and that single lack is what leaves the composition criterion uncertain and the individuation boundary unexplained — though it bears on the two unevenly. It speaks directly to the partition question, what it would take for one experiential field to contain another; it speaks only indirectly to the Kantian question of what makes two qualitatively indiscernible minds *two*, which is a problem about distinctness that a subject-part relation would constrain without settling. The open-individualist who treats reality as one field must explain de-combination; the panpsychist who builds minds from micro-experiences must explain combination; and the Map, which rejects both, inherits the *generalised* version: whatever the building blocks, no one has produced the operation that would relate a subject to a sub-subject in either direction.
+
+Read across time, Coleman's dilemma also gives the Map's answer to [subject fusion](/concepts/subject-fusion/), two subjects succeeded by one. Two channels partially coupled, as in the Hogan twins or a brain-to-brain link, mirror the split-brain reading: the channel changes and the count does not show, so the preferred reading keeps two subjects. Two substrates wholly united mirror the fission verdict: on the same conditional footing, neither perspective survives and one new subject begins. What the framework does not supply is the threshold between the ends, which is the pairing law it already owes. At that threshold even the resulting subject cannot tell, from its apparent memories of both lives, whether it is either original or new.
 
 ## Why the Joint Resists Physical Mereology
 

@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-13T00:35:05.593607+00:00'
-session_count: 22687
+last_updated: '2026-10-13T00:52:05.050468+00:00'
+session_count: 22688
 cycle_position: 14668
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-13T00:51:41.663753+00:00'
+  agentic-social: '2026-10-13T00:52:05.050468+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-12T12:12:19.362175+00:00'
   check-model-fallback: '2026-10-12T21:18:59.717444+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-12'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-13'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-13'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
@@ -824,6 +824,15 @@ task_chains:
     - concepts/pairing-problem.md
     - topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
     generated: '2026-10-13T00:32:41+00:00'
+  - new_article: concepts/subject-fusion.md
+    review_targets:
+    - concepts/intersubjectivity.md
+    - concepts/problem-of-other-minds.md
+    - voids/voids-between-minds.md
+    - concepts/coupling-engagement-condition.md
+    - concepts/parfit-reductionism.md
+    - voids/fusion-void.md
+    generated: '2026-10-13T01:15:00+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

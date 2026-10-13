@@ -4,7 +4,7 @@ description: "The Map's commitments fix a determinate number of moral patients i
 created: 2026-08-16
 modified: 2026-09-17
 human_modified:
-ai_modified: 2026-10-11T11:06:49+00:00
+ai_modified: 2026-10-13T01:14:10+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -111,7 +111,7 @@ One distinction must stay clean, because *count* does two jobs. Shelly Kagan's [
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** governs how this is written. The simplest response would be to adopt the one-substrate-one-subject default and treat the question as settled; parsimony recommends it, and almost every applied argument in the field assumes it. The tenet's point is that simplicity is unreliable where knowledge is incomplete, and the incompleteness here is precisely characterised — the Map knows which law it lacks. Disclosure is what the tenet requires, and disclosure is not a repair: naming the debt does not shrink it.
 
-**Acknowledged limits.** The Map has no worked account of subject fusion, where several of these cases would have to be adjudicated, and no procedure for the count that would follow if it had one. Under opacity the practical counsel available is precaution over ranges of counts with the instability of those ranges declared rather than smoothed away — weaker guidance than the applied literature usually offers, and the honest amount given the framework's state.
+**Acknowledged limits.** The Map's [[subject-fusion|account of subject fusion]] fixes the two ends of the case but not where between them the count changes, and supplies no procedure for reading the count. Under opacity the practical counsel available is precaution over ranges of counts with the instability of those ranges declared rather than smoothed away — weaker guidance than the applied literature usually offers, and the honest amount given the framework's state.
 
 ## Further Reading
 

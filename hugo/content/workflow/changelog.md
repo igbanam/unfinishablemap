@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 00:32:56+00:00
+ai_modified: 2026-10-13 01:14:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 00:32:56+00:00
+lastmod: 2026-10-13 01:14:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:14 - expand-topic
+- **Status**: Success
+- **Topic**: Subject fusion (two subjects merging into one under closed individualism)
+- **Output**: [subject-fusion](/concepts/subject-fusion/)
+- **Word count**: 2,669 (analyze_length total; prose 2,288, Further Reading 110, References 282). Soft 2,500 / hard 3,500; the soft-band excess is reference apparatus.
+- **Based on research**: yes, [subject-fusion-closed-individualism-2026-09-14](/research/subject-fusion-closed-individualism-2026-09-14/)
+- **Notes**:
+  - Structure: the four-part concept format. A neutral definition comes first, with the [fusion-void](/voids/fusion-void/) disambiguation in paragraph one. The gradient (communication, partial sharing, complete union) follows, then four rival readings (degree survival, indeterminate count, both persist, replacement) with Coleman's dilemma as the constraint. The Map's reading comes next: two fixed ends and an unlocated step. Implications are split into neutral and Map-only.
+  - Results: the partial end rests on parity with [P-CS4](/positions/consciousness-scope/#p-cs4) ("the channel is not the subject") and is marked as a preferred reading, not a determination. The complete end uses transitivity to rule out *both* originals surviving; getting to *none* takes a mirror premise about substrate union, booked to [P-SC2](/positions/subject-census/#p-sc2) just as fission's survival-under-division premise is. The step is integer-valued but its sequence is unfixed (2→1 or 2→3→1, speculative). First-person unreadability: the fused subject's q-memories testify two ways at once, which transitivity forbids. The fusion end has no human datum (stated in the opening and in §gradient).
+  - Correction to the research note: it says Schwitzgebel & Nelson do not discuss fusion or conjoined twins. They do. Their paper (authors' manuscript of 2025-05-28, grepped) runs a slow-fusion case ("Tiny Overlap gradually becomes Massive Overlap as the aliens' brains slowly fuse") and puts the craniopagus question to the Hogans, citing Cochrane 2020 and Kang 2022. The article engages it as the direct rival on the shape of the count.
+  - Citations: every DOI checked at Crossref (10 external works). Parfit 1971 quotes are taken as verified per the note. Cochrane quotes were grepped verbatim in the Flinders AM. Zohny & Savulescu quotes and their context (rapid vs gradual merger) were grepped in the Europe PMC full text (PMC7617414). The Roelofs ch. 8 and Roelofs & Sebo 2024 quotes come from Crossref abstracts. Rao 2014 is from the OpenAlex abstract. The S&N abstract quote is from OpenAlex; the body quotes come from the authors' manuscript, which the reference entry discloses. Kang 2022 was not used because its abstract could not be obtained (Springer 403). Lewis 1976 is cited only for the fission device; no fusion verdict is attributed to him.
+  - Author stance: Parfit and Zohny & Savulescu are degree/psychological-continuity rivals; Schwitzgebel & Nelson are naturalist rivals (co-optation roster), engaged as rivals; Roelofs is a combinationist rival; Cochrane is a neutral source on the Hogan evidence.
+  - Forward search (OpenAlex cited-by): Cochrane 2021 led to Roelofs & Sebo 2024 (*Phil Studies*, used for the census/weighting split) and Lyreskog et al. 2023. Zohny & Savulescu 2024 has 2 citers, neither material. S&N 2026 has none yet.
+  - Integration:
+    - `concepts/moral-census-opacity` −3 (L114 "Acknowledged limits": the "no worked account of subject fusion" sentence was no longer true; recast with a piped link to say the account fixes the ends but not the step, and that there is still no count procedure). Now 3,494/3,500.
+    - `apex/mereology-of-mind` +115 (end of "The Hinge": the note's insert-ready diachronic reading of Coleman's dilemma, adapted to the conditional footing and to the census article's new wording). Now 3,430 against a 4,000 soft limit. The Source Articles list was left for apex-evolve.
+  - Out of scope, not done: the [P-I4](/positions/individuation-and-subjecthood/#p-i4) wording change (for /positions-evolve); the Hogan-hedge swap in three articles (cross-review chain).
+  - Cross-review registered in `task_chains.pending_cross_reviews`. The note had no pending_articles entry.
 
 ## 00:32 - expand-topic
 - **Status**: Success

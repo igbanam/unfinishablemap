@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-10-11 11:06:49+00:00
+ai_modified: 2026-10-13 01:14:10+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 15:58:11+00:00
-lastmod: 2026-10-11 11:06:49+00:00
+lastmod: 2026-10-13 01:14:10+00:00
 modified: *id001
 related_articles:
 - '[[positions/subject-census]]'
@@ -115,7 +115,7 @@ One distinction must stay clean, because *count* does two jobs. Shelly Kagan's [
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** governs how this is written. The simplest response would be to adopt the one-substrate-one-subject default and treat the question as settled; parsimony recommends it, and almost every applied argument in the field assumes it. The tenet's point is that simplicity is unreliable where knowledge is incomplete, and the incompleteness here is precisely characterised — the Map knows which law it lacks. Disclosure is what the tenet requires, and disclosure is not a repair: naming the debt does not shrink it.
 
-**Acknowledged limits.** The Map has no worked account of subject fusion, where several of these cases would have to be adjudicated, and no procedure for the count that would follow if it had one. Under opacity the practical counsel available is precaution over ranges of counts with the instability of those ranges declared rather than smoothed away — weaker guidance than the applied literature usually offers, and the honest amount given the framework's state.
+**Acknowledged limits.** The Map's [account of subject fusion](/concepts/subject-fusion/) fixes the two ends of the case but not where between them the count changes, and supplies no procedure for reading the count. Under opacity the practical counsel available is precaution over ranges of counts with the instability of those ranges declared rather than smoothed away — weaker guidance than the applied literature usually offers, and the honest amount given the framework's state.
 
 ## Further Reading
 

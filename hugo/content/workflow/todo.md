@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `topics/inheritance-problem-for-the-psychophysical-law` — what evolution can pass on if conscious selection affects fitness
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md
-- **Target section**: topics
-- **Section**: topics
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Tenets 3 and 5. Note angle 1: the reviewer's four horns stated fairly, the R/E/K split, thin fixed law + evolving receivers + learned menus as the Map's default; keep §What Stays Unpaid as an explicit open debt. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `concepts/subject-fusion` — two subjects merging under closed individualism
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subject-fusion-closed-individualism-2026-09-14.md
@@ -2588,8 +2577,29 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-13-clinical-evidence-quality-standards-consciousness-research.md`
 - **Notes**: METADATA ONLY; the page already (correctly) reports the paper AS retracted and why, so keep that framing. HEADROOM: 3,620 of 4,000. Fix (1) L78 "A 2025 anatomical-likelihood meta-analysis" → "A 2023 …" (it was retracted in 2025; say so if the sentence needs it, length-neutral); (2) L161 reference: "Siew & Yu (2025)" → 2023, add *Scientific Reports* 13:18469 and doi 10.1038/s41598-023-45765-1 for the article, and if the retraction notice is cited keep its DOI (10.1038/s41598-025-11069-9) labelled as the retraction notice with its 2025-07-15 date. VERIFY both DOIs at Crossref before editing (article title, authors' full names, volume/article number; that the 2025 DOI is the retraction notice). Check that any in-text "(Siew & Yu, 2025)" citation elsewhere on the page or on `topics/clinical-evidence-quality-standards-consciousness-research` (its retracted ref 27) matches; grep both. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P2: Two Map pages state different Born-preservation readings, and the new selectability constraint separates them: `apex/born-preserving-causal-efficacy` (long-run marginal per measurement type; per-subject conditionals free) vs `concepts/selection-only-channel` (preservation in every publicly conditionable context); the quantum-interface register should say which is [P-Q2](/positions/quantum-interface/#p-q2)/[P-Q3](/positions/quantum-interface/#p-q3)'s reading
+- **Type**: positions-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/quantum-interface.md
+- **Status**: pending
+- **Source**: expand-topic 2026-10-13 00:32Z (`topics/inheritance-problem-for-the-psychophysical-law`) out-of-scope report; the research note asked for the result to reach the register either way
+- **Generated**: 2026-10-13
+- **Notes**: AUDIT FIRST, then a minimal register edit. THE RESULT: the new topic's §"The selectability constraint" argues fitness is a statistic over physical outcomes in physical situations, so on the per-public-context Born reading of `concepts/selection-only-channel` the selector is invisible to evolution even if efficacious trial by trial; the Map cannot hold all three of (i) Born preservation in every publicly conditionable context, (ii) outcome-selection as the selector's only channel, (iii) an evolutionary case for mental causation running through the selector. Exits map onto the three routes of `apex/born-preserving-causal-efficacy`. THE TENSION: that apex says the register default preserves only the long-run marginal per measurement type, leaving per-subject conditionals free; selection-only-channel says every publicly conditionable context. READ both pages and [P-Q2](/positions/quantum-interface/#p-q2)/[P-Q3](/positions/quantum-interface/#p-q3) (and its calibration history) first; decide which reading the register holds; record it with a dated `Updated` note per the domain convention, and report which of the two pages then needs a wording fix (mint nothing, just report). HEADROOM: positions/quantum-interface is 5,964 vs a 2,500 hard limit (far over, condensing is out of scope), so any entry edit must be NET-ZERO or negative and the dated record goes into `positions/quantum-interface-calibration-history` as briefly as its convention allows. Do NOT change any confidence band on this argument alone; it is the Map's own unrefereed derivation.
+
+### P3: `concepts/pairing-problem` says "developmental co-construction" answers the pairing problem, while `positions/subject-census` [P-SC2](/positions/subject-census/#p-sc2)/[P-SC3](/positions/subject-census/#p-sc3) hold there is no pairing law and onset is undated; `topics/evolution-under-dualism` L109 says "Consciousness contributes to fitness on all three accounts" unconditionally, though the new selectability caveat (L137) applies
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/pairing-problem.md
+- **Status**: pending
+- **Source**: expand-topic 2026-10-13 00:32Z (`topics/inheritance-problem-for-the-psychophysical-law`) out-of-scope report; driver confirmed both strings
+- **Generated**: 2026-10-13
+- **Notes**: TWO FILES; report each. (1) `concepts/pairing-problem.md` (2,528 of 3,500): find where "developmental co-construction" is offered as answering the pairing problem (L33 area and the numbered list near L144); calibrate it to `positions/subject-census` [P-SC2](/positions/subject-census/#p-sc2) (no pairing law) and [P-SC3](/positions/subject-census/#p-sc3) (onset undated): a candidate account, not an answer. Read the census entries first; do not edit the positions register. (2) SECONDARY `/home/andy/unfin/unfinishablemap/obsidian/topics/evolution-under-dualism.md` (3,699 of 4,000; 300 left) L109 "Consciousness contributes to fitness on all three accounts" in "What the Models Share": add the conditional the 00:32Z edit installed at L137 (the selectability condition, linked to `inheritance-problem-for-the-psychophysical-law#the-selectability-constraint`), in a clause. Do NOT undo the L93/L137 edits made at 00:32Z. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `topics/inheritance-problem-for-the-psychophysical-law` — what evolution can pass on if conscious selection affects fitness
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/inheritance-problem-for-the-psychophysical-law-2026-09-24.md
+- **Notes**: Tenets 3 and 5. Note angle 1: the reviewer's four horns stated fairly, the R/E/K split, thin fixed law + evolving receivers + learned menus as the Map's default; keep §What Stays Unpaid as an explicit open debt. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-12: Write `topics/mad-dog-everettianism` — the austere Hilbert-space ontology (Carroll & Singh) and the uniqueness-of-emergence dispute
 - **Type**: expand-topic
