@@ -4,7 +4,7 @@ description: "A human+AI concept page naming the evidence type in which the dire
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-10-11T17:05:53+00:00
+ai_modified: 2026-10-13T02:44:57+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -54,7 +54,7 @@ The family has four members, each documented across the disruption cluster (anae
 
 ## What Unifies the Family
 
-None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [[memory-channel-interface-evidence|memory-system vulnerability hierarchy]] reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening.
+None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [[memory-channel-interface-evidence|memory-system vulnerability hierarchy]] reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening. Every member concerns one interface with the subject count held fixed; a change in the count itself (onset, cessation, fission) is a different axis, treated in [[census-change-points]], and no signature here counts toward it.
 
 The family is a member of a broader genus, [[cross-mechanism-convergence|cross-mechanism convergence]]: anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature. The direction-of-change family is the narrower, orthogonal axis within that genus — cross-mechanism convergence concerns mechanism-distinct perturbations producing a shared downstream ordering, while this family concerns the *temporal asymmetry* of that ordering. The two are related but not co-extensive: a convergence finding need not be direction-dependent, and a direction-dependent signature in a single mechanism need not converge across mechanisms. [[self-concealing-interface|The self-concealing-interface synthesis]] catalogues direction-of-interface-change as one of its seam classes — a place where, if the Map's tenets hold, the interface's only legible marks appear.
 

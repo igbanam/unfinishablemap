@@ -4,7 +4,7 @@ description: "If conscious selection affects fitness, what does evolution pass o
 created: 2026-10-13
 modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-13T00:29:18+00:00
+ai_modified: 2026-10-13T02:44:57+00:00
 draft: false
 topics:
   - "[[evolution-under-dualism]]"
@@ -124,7 +124,7 @@ The proposal leaves four debts open:
 
 - **Harmony on the inbound side.** Phenomenal powers removes, at most, the arbitrariness of the outbound law. The inbound law, which says why these physical states present these experiences, keeps its contingency, and Cutter and Crummett's challenge applies to it in full. The Map has not answered Saad's conclusion that harmony favours panpsychism over biological views.
 - **A conditional dissolution.** The codebook dissolves only on the value-sensitive reading of selection, held at low credence against an undefeated rival.
-- **Unspecified eligibility.** E-evolution makes sense only relative to a condition nobody has written down, and onset is undated.
+- **Unspecified eligibility.** E-evolution makes sense only relative to a condition nobody has written down, and [[census-change-points|onset is undated]].
 - **The unresolved selectability constraint.** Until the Map says which of the three commitments gives, its evolutionary case for mental causation depends on a choice it has not made. The evolutionary argument therefore inherits the [[positions/quantum-interface#^mechanism-debt|mechanism debt]] rather than discharging it.
 
 ## Relation to Site Perspective

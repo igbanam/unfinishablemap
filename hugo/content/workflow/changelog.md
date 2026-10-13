@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 02:30:27+00:00
+ai_modified: 2026-10-13 02:45:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 02:30:27+00:00
+lastmod: 2026-10-13 02:45:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:45 - expand-topic
+- **Status**: Success
+- **Topic**: Census change-points (signatures of subject onset, cessation, fission and fusion in the psychophysical transition law, where a census event changes the law's arity rather than one subject's interface state)
+- **Output**: [census-change-points](/concepts/census-change-points/)
+- **Word count**: 2,640 (analyze_length total; prose 2,203, Further Reading + References 450). Concepts soft 2,500 / hard 3,500. The prose is under soft; the total crosses soft only through the reference apparatus. A first draft at 3,088 (prose 2,568) was cut by about 450 words, dropping Hamilton 1989 and Proekt & Hudson 2018.
+- **Based on research**: yes, [change-points-in-the-psychophysical-transition-law-2026-09-15](/research/change-points-in-the-psychophysical-transition-law-2026-09-15/)
+- **Notes**:
+  - Structure: the four-part concept format, following the note's angle 1. The neutral definition comes first: arity vs state, with Green 1995's trans-dimensional framing. Next, a pruning table: on [P-SC3](/positions/subject-census/#p-sc3)/[P-CS4](/positions/consciousness-scope/#p-cs4) the state transitions become controls, and DoC is marked as an extension, since [P-CS4](/positions/consciousness-scope/#p-cs4) names anaesthesia, sleep and split-brain only. Then: the per-context vs pooled Born readings, both named and neither settled; the trilemma mapped onto Markov, minimality and faithfulness; the steps-or-drift rivals (Bostrom; Schwitzgebel & Nelson via subject-fusion); fission and fusion event structure; implications; RSP covering all five tenets.
+  - Central derivation (the Map's own, flagged in prose): horn (b) plus causal minimality removes the census from the causal model, so [P-SC1](/positions/subject-census/#p-sc1) ("not fixed until the count and the pairing are") and horn (b) cannot be held together. The note listed this as needing a source-check. It is now sourced to Zhang & Spirtes 2011 (Synthese 182(3)), not to the note's Zhang & Spirtes 2008. The definition was grepped verbatim from the authors' PDF, along with the abstract claim that minimality is no "add-on methodological assumption of simplicity" given strict positivity. That claim closes the Tenet 5 escape route.
+  - Departures from the research note: (1) The fission readings do NOT predict "different numbers of change-points" with Parfit at zero. Every reading agrees the count goes 1→2. The Map's verdict (1 cessation + 2 onsets) and the at-most-one narrowing (1 onset) differ in event structure only, and Parfit has no further fact about which events occurred. New derivation: event structure reaches the law only if subjects carry individual parameters across time; otherwise a memoryless, subject-symmetric law cannot tell the verdicts apart. (2) The note's "exact transformation ⇔ horn (b)" is weakened to a flagged conjecture. Rubenstein et al.'s own abstract covers marginalising out unobservable variables, so an exact transformation alone does not imply idleness; the conjecture requires exactness under count-changing interventions. (3) Death is marked "open", not a census event, per [P-SC3](/positions/subject-census/#p-sc3). (4) The fusion event order is left unfixed (2→1 or 2→3→1), per subject-fusion. (5) [P-SC2](/positions/subject-census/#p-sc2) now books five gaps, not the note's four.
+  - Verification: Crossref resolved all 11 external DOIs; Rubenstein et al. (no DOI) was checked at the arXiv API. Quotes were checked raw: Green, Andersen and Beckers & Halpern abstracts via OpenAlex; Bostrom's three phrases grepped in the author's PDF; Zhang & Spirtes in the CMU author PDF. Bayne et al., Pinto et al. and Xu et al. are quoted as marked raw-verified in the note. No decoherence timescales are used.
+  - Integration: [direction-of-interface-change](/concepts/direction-of-interface-change/) L57 gets one sentence at the end of the first "What Unifies the Family" paragraph (+34 words, 2,730 → 2,764 / 3,500). It says every member concerns one interface with the count fixed, a count change is a different axis, and no signature counts toward it, which reinforces the over-counting guard. [subject-fusion](/concepts/subject-fusion/) L93 gets a zero-word piped link on "the subject index in the selection law changes value". [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/) L127 gets a zero-word piped link on "onset is undated". positions/subject-census was not touched (2,499 / 2,500).
 
 ## 02:30 - expand-topic
 - **Status**: Success

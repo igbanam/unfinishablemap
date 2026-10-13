@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-13T02:07:17.199067+00:00'
-session_count: 22692
-cycle_position: 14670
+last_updated: '2026-10-13T02:34:09.031135+00:00'
+session_count: 22693
+cycle_position: 14671
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-13T00:06:43.059103+00:00'
   embed-videos: '2026-10-12T22:35:27.990118+00:00'
-  expand-topic: '2026-10-13T01:17:50.505705+00:00'
+  expand-topic: '2026-10-13T02:34:09.031135+00:00'
   harvest-research-subjects: '2026-10-12T22:04:14.779756+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
@@ -43,7 +43,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
-last_git_push: '2026-10-12T20:33:49.000535+00:00'
+last_git_push: '2026-10-13T02:34:09.304814+00:00'
 last_tweet_date: '2026-10-12'
 content_stats:
   total_files: 297
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 346
-  concepts_written: 352
+  concepts_written: 353
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-13'
   outcome: success
   kind: commission
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-13'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
@@ -842,6 +842,15 @@ task_chains:
     - topics/ethics-of-possible-ai-consciousness.md
     - topics/graduated-middle-path-valence-modulated-attention.md
     generated: '2026-10-13T02:30:41+00:00'
+  - new_article: concepts/census-change-points.md
+    review_targets:
+    - topics/split-brain-consciousness.md
+    - topics/death-and-consciousness.md
+    - topics/personal-identity.md
+    - concepts/moral-census-opacity.md
+    - topics/brain-organoids-and-the-organoid-intelligence-question.md
+    - concepts/parfit-reductionism.md
+    generated: '2026-10-13T02:45:33+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

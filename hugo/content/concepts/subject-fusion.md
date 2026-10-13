@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-13 01:14:36+00:00
+ai_modified: 2026-10-13 02:44:57+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'When two subjects merge into one: closed individualism fixes both 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-13 01:14:36+00:00
+lastmod: 2026-10-13 02:44:57+00:00
 modified: *id001
 related_articles:
 - '[[fusion-void]]'
@@ -94,7 +94,7 @@ Other conclusions follow only on the Map's reading. Complete fusion is two endin
 
 **[Dualism](/tenets/#dualism).** Consciousness is not built from parts, so C cannot be composed of A and B. Coleman's dilemma states the reason, and it is why fusion at the level of persons is replacement rather than combination.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Once conscious states condition physical outcomes, the subject count is part of the state description ([P-SC1](/positions/subject-census/#p-sc1)). At the step, the subject index in the selection law changes value at a point the law cannot locate.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Once conscious states condition physical outcomes, the subject count is part of the state description ([P-SC1](/positions/subject-census/#p-sc1)). At the step, [the subject index in the selection law changes value](/concepts/census-change-points/) at a point the law cannot locate.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The graded picture is simpler, since it needs no jump and no unmarked threshold. The Map declines it because knowledge here is incomplete, and it books the cost: a sharp boundary that nothing reads.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-11 17:05:53+00:00
+ai_modified: 2026-10-13 02:44:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 12:26:56+00:00
-lastmod: 2026-10-11 17:05:53+00:00
+lastmod: 2026-10-13 02:44:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The family has four members, each documented across the disruption cluster (anae
 
 ## What Unifies the Family
 
-None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [memory-system vulnerability hierarchy](/topics/memory-channel-interface-evidence/) reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening.
+None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [memory-system vulnerability hierarchy](/topics/memory-channel-interface-evidence/) reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening. Every member concerns one interface with the subject count held fixed; a change in the count itself (onset, cessation, fission) is a different axis, treated in [census-change-points](/concepts/census-change-points/), and no signature here counts toward it.
 
 The family is a member of a broader genus, [cross-mechanism convergence](/concepts/cross-mechanism-convergence/): anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature. The direction-of-change family is the narrower, orthogonal axis within that genus — cross-mechanism convergence concerns mechanism-distinct perturbations producing a shared downstream ordering, while this family concerns the *temporal asymmetry* of that ordering. The two are related but not co-extensive: a convergence finding need not be direction-dependent, and a direction-dependent signature in a single mechanism need not converge across mechanisms. [The self-concealing-interface synthesis](/apex/self-concealing-interface/) catalogues direction-of-interface-change as one of its seam classes — a place where, if the Map's tenets hold, the interface's only legible marks appear.
 
