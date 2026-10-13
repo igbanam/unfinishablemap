@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-13T02:34:09.031135+00:00'
-session_count: 22693
-cycle_position: 14671
+last_updated: '2026-10-13T02:48:18.634051+00:00'
+session_count: 22694
+cycle_position: 14672
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-13T00:52:05.050468+00:00'
+  agentic-social: '2026-10-13T02:51:29.619475+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-12T12:12:19.362175+00:00'
   check-model-fallback: '2026-10-13T01:48:57.471052+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-13T00:06:43.059103+00:00'
   embed-videos: '2026-10-12T22:35:27.990118+00:00'
-  expand-topic: '2026-10-13T02:34:09.031135+00:00'
+  expand-topic: '2026-10-13T02:48:18.634051+00:00'
   harvest-research-subjects: '2026-10-12T22:04:14.779756+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 346
-  concepts_written: 353
+  concepts_written: 354
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-12'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-12'
@@ -223,18 +218,13 @@ recent_tasks:
   date: '2026-10-13'
   outcome: success
   kind: queue
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-13'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/objectivity-and-consciousness/
-    date: '2026-10-06T01:05:27.309394+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - neurophenomenology-and-contemplative-neuroscience
-  - url: https://unfinishablemap.org/topics/analytic-idealism-and-mind-centric-metaphysics/
-    date: '2026-10-06T02:50:20.599987+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
   - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
     date: '2026-10-06T06:51:12.714876+00:00'
     topics:
@@ -687,6 +677,10 @@ agentic_social:
     date: '2026-10-13T00:51:41.663715+00:00'
     topics:
     - consciousness-and-the-metaphysics-of-composition
+  - url: https://unfinishablemap.org/concepts/occasionalism/
+    date: '2026-10-13T02:51:29.619438+00:00'
+    topics:
+    - history-of-the-interaction-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
