@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T08:32:09+00:00
+ai_modified: 2026-10-13T09:03:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:03 - deep-review
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Selection**: the selector's top 11 were all on the 30h avoid list. This article had the largest unreviewed fold among eligible candidates: 8 refine commits from 2026-08-22 to 2026-09-25, about 140 lines and 9 new citations, none of them deep-reviewed. The 07-25 "no re-verify before 2027" stability note had expired because the References block grew from 8 to 17 entries.
+- **Word count**: 3902 → 3964 (+62; topics hard 4000, gate `>=`, 35 left)
+- **Critical issues addressed**: 5. (1) L84 claimed the Hori 1994 chapter "measured no cognitive variable". The claim was unsourced (the 08-22 refine could not open the chapter) and is false: Noreika et al. 2015 report that RT and reports of being asleep rise across Hori stages, and Hayashi, Katoh & Hori 1998 confirm the RT measure. (2) Datta 2022 studied novices after two weeks of training, but the article set it against advanced practitioners. Scoped at L140 and falsifier 4. (3) The Relation to Site Perspective section asserted "Full waking involves robust bidirectional coupling" against `tenets#^tenet-3-standing` (available, not actual). Recalibrated. (4) The Minimal Quantum Interaction paragraph treated micro-awakenings as a finding, but the body calls them a gloss. Fixed. (5) "newest rival" was wrong: Aru Dec 2020 is older than Andrillon and Sandved-Smith 2021.
+- **Medium issues addressed**: 8. Added the Lacaux null (reported hypnagogia, task-related included, did not predict insight; χ² P = 0.71 and 0.83) against Haar Horowitz's positive incorporation result. Dormio prompts are delivered "at sleep onset", not during N1. The graded-precision rival is marked as a reconstruction. Andrillon "before" → "alongside". Cut the anaesthesia-simultaneity contrast. "input" → "experienced content". L58 "Haar Horowitz, Lacaux" → "Lacaux, Decat" (closes the low item carried since 06-05). Decat "scored" → "clustered self-rated".
+- **Citations**: all 15 external references verified at Crossref, with quotes and numbers grepped in Europe PMC raw text. Per-cite ledger is in the review file. No orphans, no arXiv-only cites, no retractions.
+- **Engagements**: disinhibition, graded precision, local sleep and GNW are Mode 3; apical drive is mixed (an in-framework "does not derive the order" point, then the boundary).
+- **Enhancements made**: 1 (Lacaux/Haar Horowitz content divergence)
+- **Output**: [[reviews/deep-review-2026-10-13-hypnagogic-phenomenology-and-interface-modulation]]
 
 ## 08:32 - expand-topic
 - **Status**: Success
