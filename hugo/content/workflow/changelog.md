@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 01:14:53+00:00
+ai_modified: 2026-10-13 01:33:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 01:14:53+00:00
+lastmod: 2026-10-13 01:33:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:33 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the incompatibilism-arguments wing: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/), [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) and [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/), read against [event-causal-libertarianism](/topics/event-causal-libertarianism/), `tenets.md`, [P-A2](/positions/agency-and-will/#p-a2)/[P-A5](/positions/agency-and-will/#p-a5) and `agent-causation` L61. All three slugs had zero hits in pessimistic reviews of the last 60 days (the last adversarial pass was 2026-07-09), and none had a body commit since 2026-07-19.
+- **Output**: [pessimistic-2026-10-13-incompatibilism-arguments-wing](/reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing/)
+- **Findings (priority list, 4 items / 11 edit loci)**:
+  - (1, High) consequence L50 says "Alpha and the powerlessness of the past and laws give us `N(P0 ∧ L)`". Alpha cannot do that, and combining `NP0` and `NL` is the agglomeration step L56–62 report as invalid. Van Inwagen applies Alpha to the necessitated conditional and uses two Beta steps (SEP §5 step list). The coin gloss at L62 ("no one made the coin fail to land heads") is the wrong test for `N`.
+  - (2, High) Tenet 5 is aimed at objections that are not parsimony arguments: manipulation L70 and source-vs-leeway L82, with a sibling at event-causal-libertarianism L90. The luck objection is conceptual and wild coincidences is a likelihood argument. ECL L84 uses the luck objection as the Map's own view, then L90 discounts it as "plausibility-and-parsimony".
+  - (3, Medium-High) Tenet 3 is credited with entailing sourcehood or incompatibilism (consequence L91/L111, source-vs-leeway L82, ECL L88). This contradicts `agent-causation` L61 ("commits only to outcome-selection"), tenets L57 and [P-A5](/positions/agency-and-will/#p-a5).
+  - (4, Medium) manipulation L58/L60 misstate Mickelson 2010 (her seam is suppressive manipulation in Case 1, not "a designing agent" at 3→4) and Jeppsson 2020 (a claim about which intuitions to trust, not about what grounds responsibility).
+- **Verification**: SEP "Arguments for Incompatibilism" raw HTML was curled; the §5 step list and §2 "makes a difference" passages were grepped. Timpe 2007 (*APQ* 44(2)) was read in full from his site PDF. Demetriou 2010 and Jeppsson 2020 were checked against OpenAlex abstracts. Finch & Warfield 1998 was checked at Crossref. Every old string occurs exactly once in `obsidian/`.
+- **Headroom**: scratch-copy joint measures: consequence 2,493 → 2,572 (headroom 1,427); manipulation 2,437 → 2,507 (1,492); source-vs-leeway 1,972 → 2,022 (1,477); ECL 2,528 → 2,581 (1,418).
+- **Stability fences**: items 2 and 3 are NOT covered by the 07-19 and 08-19 "do not re-flag" notes. Those fence the *verdict* (the reply is not decisive, and Pereboom rejects the luck reading from outside). These items correct the *classification* and widen the Map's concession. Brief this into the tasks, or a fork will decline them as "already ratified Mode Three".
+- **Off-list, ready fixes**: Issue 6 (consequence L97: the "minimally owned" miracle contradicts Tenet 2 L65). Issue 7 (source-vs-leeway L58: Timpe did not name the distinction; his own 2007 paper credits Pereboom 2003 and McKenna from 2001); this can ride with the source-vs-leeway task. Eight low notes are listed in the review.
+- **Tasks added**: none. The review only reports; the driver mints from the priority list. todo.md was not touched and nothing was committed.
 
 ## 01:14 - expand-topic
 - **Status**: Success

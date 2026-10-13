@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `concepts/subject-fusion` — two subjects merging under closed individualism
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subject-fusion-closed-individualism-2026-09-14.md
-- **Target section**: concepts
-- **Section**: concepts
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Tenet 4 / individuation. Disambiguate from voids/fusion-void (perceptual) in paragraph one. Say the fusion end of the gradient has no human datum (note §Gaps). Integration: moral-census-opacity L114 piped reciprocal (net −2 words; page at its gate); positions [P-I4](/positions/individuation-and-subjecthood/#p-i4) change goes to /positions-evolve as a separate task, not this one. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `concepts/psychophysical-social-choice-problem` — how selection combines across subjects with conflicting intentions
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/psychophysical-social-choice-problem-2026-09-15.md
@@ -2593,8 +2582,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-13
 - **Notes**: TWO FILES; report each. (1) `concepts/pairing-problem.md` (2,528 of 3,500): find where "developmental co-construction" is offered as answering the pairing problem (L33 area and the numbered list near L144); calibrate it to `positions/subject-census` [P-SC2](/positions/subject-census/#p-sc2) (no pairing law) and [P-SC3](/positions/subject-census/#p-sc3) (onset undated): a candidate account, not an answer. Read the census entries first; do not edit the positions register. (2) SECONDARY `/home/andy/unfin/unfinishablemap/obsidian/topics/evolution-under-dualism.md` (3,699 of 4,000; 300 left) L109 "Consciousness contributes to fitness on all three accounts" in "What the Models Share": add the conditional the 00:32Z edit installed at L137 (the selectability condition, linked to `inheritance-problem-for-the-psychophysical-law#the-selectability-constraint`), in a clause. Do NOT undo the L93/L137 edits made at 00:32Z. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
+### P2: [P-I4](/positions/individuation-and-subjecthood/#p-i4) (`positions/individuation-and-subjecthood` L90) says "two channels merging yields two ended entries and one new" unscoped, so it reads as covering partial coupling, contradicting `concepts/subject-fusion` (created 2026-10-13), whose partial-end reading keeps the count at two
+- **Type**: positions-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/individuation-and-subjecthood.md
+- **Status**: pending
+- **Source**: expand-topic 2026-10-13 01:15Z (`concepts/subject-fusion`) [P-I4](/positions/individuation-and-subjecthood/#p-i4) recommendation; the expand task itself routed this to positions-evolve; driver confirmed the L90 string
+- **Generated**: 2026-10-13
+- **Notes**: NO CALIBRATION BAND MOVES: [P-I4](/positions/individuation-and-subjecthood/#p-i4) stays credence moderate, Grade D, framework-internal; its 2026-09-16 update already moved fusion off "live hole". EDITS (wording/scope only): (1) scope "merging" in L90 to COMPLETE union of the two substrates; (2) add one clause: partial coupling leaves the count unchanged, by parity with [P-CS4](/positions/consciousness-scope/#p-cs4) — a preferred reading, made unreadable by [P-I3](/positions/individuation-and-subjecthood/#p-i3); (3) state the fusion conditional the way fission's is stated: transitivity rules out BOTH originals surviving; NONE surviving needs a premise about substrate union, charged to [P-SC2](/positions/subject-census/#p-sc2); (4) mirror the third *Would shift if* clause: a pairing law under which one original's pairing extends to the united substrate would narrow the verdict to at most one; (5) add `[[concepts/subject-fusion]]` to *Argued in*. Read `concepts/subject-fusion` §§"Case and Its Gradient" and the complete-union section first and copy its terms. HEADROOM: the register file is far over the positions hard limit (2,500), so keep entry edits NET-ZERO or negative and put the dated `Updated` note in the domain's calibration-history sidecar per convention (check whether `positions/individuation-and-subjecthood` has one; if not, follow the quantum-interface precedent and report). Do not touch [P-I5](/positions/individuation-and-subjecthood/#p-i5) here (a separate P3 audit task covers the mad-dog Everettianism question). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `concepts/subject-fusion` — two subjects merging under closed individualism
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subject-fusion-closed-individualism-2026-09-14.md
+- **Notes**: Tenet 4 / individuation. Disambiguate from voids/fusion-void (perceptual) in paragraph one. Say the fusion end of the gradient has no human datum (note §Gaps). Integration: moral-census-opacity L114 piped reciprocal (net −2 words; page at its gate); positions [P-I4](/positions/individuation-and-subjecthood/#p-i4) change goes to /positions-evolve as a separate task, not this one. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-13: Write `topics/inheritance-problem-for-the-psychophysical-law` — what evolution can pass on if conscious selection affects fitness
 - **Type**: expand-topic
