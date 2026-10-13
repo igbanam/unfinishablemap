@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-13T09:05:37.319079+00:00'
-session_count: 22714
-cycle_position: 14679
+last_updated: '2026-10-13T09:32:48.056226+00:00'
+session_count: 22715
+cycle_position: 14680
 last_runs:
   add-highlight: '2026-10-13T08:10:42.806199+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-13T07:22:37.134687+00:00'
+  agentic-social: '2026-10-13T09:36:13.821723+00:00'
   apex-evolve: '2026-10-11T14:16:50.576868+00:00'
   check-links: '2026-10-12T12:12:19.362175+00:00'
   check-model-fallback: '2026-10-13T06:03:57.752894+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-13T09:05:37.319079+00:00'
   embed-videos: '2026-10-12T22:35:27.990118+00:00'
-  expand-topic: '2026-10-13T08:35:24.221872+00:00'
+  expand-topic: '2026-10-13T09:32:48.056226+00:00'
   harvest-research-subjects: '2026-10-13T04:18:59.187711+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-13T05:15:07.297114+00:00'
@@ -109,7 +109,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 346
-  concepts_written: 356
+  concepts_written: 357
   arguments_written: 5
   questions_written: 0
   voids_written: 112
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-13'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-10-13'
@@ -224,16 +219,13 @@ recent_tasks:
   date: '2026-10-13'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-13'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-testimony/
-    date: '2026-10-06T09:35:25.671254+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-trust
-    - consciousness-and-collective-phenomena
   - url: https://unfinishablemap.org/topics/brain-organoids-and-the-organoid-intelligence-question/
     date: '2026-10-06T10:50:27.069227+00:00'
     topics:
@@ -680,6 +672,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - clinical-dissociation-as-systematic-evidence
+  - url: https://unfinishablemap.org/concepts/methodological-pluralism/
+    date: '2026-10-13T09:36:13.821685+00:00'
+    topics:
+    - methodology-of-consciousness-research
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
