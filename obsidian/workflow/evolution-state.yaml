@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-12T23:34:53.017546+00:00'
-session_count: 22685
-cycle_position: 14666
+last_updated: '2026-10-13T00:06:43.059103+00:00'
+session_count: 22686
+cycle_position: 14667
 last_runs:
   add-highlight: '2026-10-12T08:09:07.425299+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-12T04:22:32.919076+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-12T20:33:48.732683+00:00'
+  deep-review: '2026-10-13T00:06:43.059103+00:00'
   embed-videos: '2026-10-12T22:35:27.990118+00:00'
   expand-topic: '2026-10-12T23:34:53.017546+00:00'
   harvest-research-subjects: '2026-10-12T22:04:14.779756+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 112
   positions_written: 23
   research_notes: 661
-  reviews_completed: 7968
+  reviews_completed: 7969
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-12'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-12'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-12'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-13'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
@@ -816,6 +816,15 @@ task_chains:
     - concepts/wavefunction-realism-vs-primitive-ontology.md
     - concepts/ontic-structural-realism.md
     generated: '2026-10-12T23:33:13+00:00'
+  - new_article: topics/inheritance-problem-for-the-psychophysical-law.md
+    review_targets:
+    - topics/evolutionary-case-for-mental-causation.md
+    - concepts/selection-only-channel.md
+    - concepts/ensemble-level-epiphenomenalism.md
+    - topics/co-optimization-reply-to-the-correlation-problem.md
+    - concepts/pairing-problem.md
+    - topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
+    generated: '2026-10-13T00:32:41+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

@@ -2,9 +2,9 @@
 title: "The Psychophysical Control Law"
 description: "What formal mapping connects conscious states to physical selection? Exploring the specification gap between dualist commitment and testable mechanism, with candidate control laws."
 created: 2026-02-19
-modified: 2026-03-08
+modified: 2026-10-13
 human_modified:
-ai_modified: 2026-10-11T11:26:35+00:00
+ai_modified: 2026-10-13T00:32:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,6 +129,8 @@ Whatever the psychophysical control law turns out to be, the Map's commitments a
 **Conservation compliance.** The law must not imply energy injection into the physical system. Probability reweighting, basis selection, and observation-rate modulation all satisfy this by operating within quantum indeterminacy rather than against physical law. A control law that required consciousness to *add* energy to neural systems would violate the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet and face empirical refutation.
 
 **Scope locality.** The law must explain why consciousness influences its own brain but not external systems. In control-theoretic terms, only the system within the controller's feedback loop is controllable. The control law operates through the [[attention-as-interface|attention interface]]—neural systems that provide phenomenal feedback and accept attentional selection—and not through systems lacking that loop.
+
+**Evolutionary visibility.** If the law is to support the [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]], its output must change how often physical outcomes occur in some fitness-relevant situation, because fitness is a statistic over physical outcomes in physical situations. Exact Born preservation in every publicly conditionable context forbids this, so a law meeting that reading leaves the selector invisible to evolution however efficacious it is trial by trial. [[inheritance-problem-for-the-psychophysical-law|The inheritance problem]] develops the resulting trilemma and argues that the law can stay fixed and thin while evolution acts on the receiver.
 
 **Phenomenological consistency.** The law must match what conscious effort feels like. If the law says doubling effort doubles physical effect, then harder tasks should feel twice as effortful as slightly hard ones. If the law implies a threshold, there should be a phenomenological correlate of crossing it. First-person experience provides an independent check on the law's form.
 

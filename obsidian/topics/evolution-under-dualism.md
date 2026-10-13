@@ -2,9 +2,9 @@
 title: "Evolution Under Dualism"
 description: "Natural selection works the same whether physicalism or dualism is true—but dualism changes what evolution means. Three models of what 'evolves' yield different predictions about animal minds and human uniqueness."
 created: 2026-02-12
-modified: 2026-09-28
+modified: 2026-10-13
 human_modified:
-ai_modified: 2026-09-28T08:50:13+00:00
+ai_modified: 2026-10-13T00:32:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ This model takes the Map's Bidirectional Interaction tenet seriously as a diachr
 
 Co-evolution predicts that consciousness in different species is not merely "more" or "less" of the same thing but *qualitatively different*—shaped by distinct evolutionary histories of interface-consciousness interaction. An octopus's consciousness, arising from a decentralised nervous system that evolved independently of vertebrate brains, would differ in kind from mammalian consciousness. The [[comparative-consciousness-and-interface-differences|interface differences]] across species would reflect genuinely different conscious histories.
 
-The difficulty is serious: co-evolution requires specifying how non-physical consciousness can change over time. If consciousness exists outside spacetime, "change" may not apply—and the concept of it "responding to" physical systems may be incoherent rather than merely difficult. This model may require abandoning the non-temporal characterisation of consciousness, which would carry its own ontological costs. A dualist pursuing co-evolution must explain what temporal structure applies to the non-physical domain without collapsing it into the physical.
+The difficulty is serious: co-evolution requires specifying how non-physical consciousness can change over time. If consciousness exists outside spacetime, "change" may not apply—and the concept of it "responding to" physical systems may be incoherent rather than merely difficult. This model may require abandoning the non-temporal characterisation of consciousness, which would carry its own ontological costs. A dualist pursuing co-evolution must explain what temporal structure applies to the non-physical domain without collapsing it into the physical. The model also needs an inheritance channel. Subjects do not reproduce, so a change in the mapping that outlasts a generation must be stored in a domain-level law with memory, or the model falls back on receiver evolution; [[inheritance-problem-for-the-psychophysical-law|the inheritance problem]] develops this cost against the fixed-law alternative.
 
 ### Unfolding
 
@@ -134,7 +134,7 @@ What would selection for interface quality look like? Several features of brain 
 
 **[[working-memory|Working memory]] and conscious access**: If working memory depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, then any lineage-specific change in working-memory organisation would be a change in interface capacity on the dualist reading. A clean human-versus-ape capacity ranking is not available to anchor this: rapid-recall paradigms have at times shown chimpanzees *matching or outperforming* human adults, and apparent species gaps proved sensitive to training history, so the cross-species ordering is contested. The honest claim is narrower: working memory is a plausible *locus* where interface capacity and conscious access meet, not a domain where a demonstrated human advantage can be read off as interface expansion.
 
-These suggestions are speculative, and the interface selection argument depends on mental causation being established on independent grounds—without that foundation, the distinctive selection pressure the argument describes does not arise. The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
+These suggestions are speculative, and the interface selection argument depends on mental causation being established on independent grounds—without that foundation, the distinctive selection pressure the argument describes does not arise. A further condition applies. Evolution can favour an interface because of what the selector does only if the selector shifts how often outcomes occur in some fitness-relevant situation, which the strictest reading of the Map's Born-preservation commitment forbids ([[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|the selectability constraint]]). The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
 
 ## Convergent Evolution and Consciousness
 

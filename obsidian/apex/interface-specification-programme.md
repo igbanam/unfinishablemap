@@ -1,9 +1,9 @@
 ---
 title: "The Interface Specification Programme"
 created: 2026-03-15
-modified: 2026-07-15
+modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-06T15:35:36+00:00
+ai_modified: 2026-10-13T00:32:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,7 +148,7 @@ Beyond the control law's form, the programme's own logic implies a set of furthe
 - **Timing and preferred-basis eligibility.** The programme does not fix *when* in the decohere-then-select sequence selection acts, nor *which* basis is interface-eligible. [[apex/born-preserving-causal-efficacy]] and [[positions/quantum-interface]] frame the constraint; a worked answer is still owed.
 - **Multi-agent coordination.** Billions of subjects act on a partly-entangled world at once. Exact Born-preservation *and* no-signalling holding simultaneously across all of them requires a global consistency or factorization law that the single-subject causal-consistency result (Torres Alegre 2025) does not yet establish in its many-subject form.
 - **Developmental onset.** When, and through what physical change, the interface first engages ontogenetically is unaddressed — a gap into which the pairing and threshold questions both feed.
-- **Evolutionary interface signatures.** If selection improves fitness, evolution should optimise interface reliability and bandwidth, predicting comparative differences across species, development, lesions, sleep, and anaesthesia — for instance, interface-dependent capacities should degrade under increasing anaesthetic depth in step with the collapse of selection-grade coupling rather than with gross cortical activity alone (see [[topics/anaesthesia-and-the-consciousness-interface]]). If instead there is *no* fitness consequence, the grounding of agency in the interface is left unclear. This gap, unlike the others, already yields testable predictions.
+- **[[inheritance-problem-for-the-psychophysical-law|Evolutionary interface signatures]].** If selection improves fitness, evolution should optimise interface reliability and bandwidth, predicting comparative differences across species, development, lesions, sleep, and anaesthesia — for instance, interface-dependent capacities should degrade under increasing anaesthetic depth in step with the collapse of selection-grade coupling rather than with gross cortical activity alone (see [[topics/anaesthesia-and-the-consciousness-interface]]). If instead there is *no* fitness consequence, the grounding of agency in the interface is left unclear. This gap, unlike the others, already yields testable predictions.
 
 The programme has also begun to generate forward predictions specific to its own mechanism rather than borrowing risk from rivals. If consciousness biases which option crosses threshold within a salience-weighted competition, phenomenal effort should scale with the *entropy of the option set* at threshold crossing — the closer the competing alternatives are in pre-selection weight, the more effort the choice should feel. Operationally: vary the prior weighting of two response options in a forced-choice task while holding stimulus discriminability constant. The interface model predicts subjective effort tracks competition entropy independently of discriminability; standard cognitive neuroscience predicts the contrary. If competition entropy adds no variance once discriminability is controlled, the mechanism is constrained at exactly the point where it claims to operate. This is one prediction, not a battery — most of the programme's falsification risk still rides on conditions under which *rival* theories' vindication would close the space the interface hypothesis occupies. Generating more model-specific forward predictions is the next methodological obligation.
 

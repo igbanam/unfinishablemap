@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 00:02:15+00:00
+ai_modified: 2026-10-13 00:32:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 00:02:15+00:00
+lastmod: 2026-10-13 00:32:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:32 - expand-topic
+- **Status**: Success
+- **Topic**: The Inheritance Problem for the Psychophysical Law (what evolution can pass on if conscious selection affects fitness)
+- **Output**: [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/)
+- **Word count**: 3,381 (analyze_length total; prose 2,981, Further Reading 82, References 332). Soft 3,000 / hard 4,000; the soft-band excess is reference apparatus.
+- **Based on research**: yes, [inheritance-problem-for-the-psychophysical-law-2026-09-24](/research/inheritance-problem-for-the-psychophysical-law-2026-09-24/) (angle 1)
+- **Notes**:
+  - Structure: the review's four horns stated fairly; the R/E/K split (credited to the 2026-09-24 ChatGPT review, which proposed the three-way distinction); thin fixed law + evolving receivers + learned menus as the default; What Stays Unpaid kept as an explicit open-debt section.
+  - New result: the selectability constraint. Fitness is a physical-trajectory statistic, so on the per-public-context Born reading in `concepts/selection-only-channel` the selector is invisible to evolution even if efficacious trial by trial. The Map cannot hold all three of per-context Born preservation, outcome-selection as the only channel, and an evolutionary case for mental causation through the selector. Escapes are mapped onto the three routes of `apex/born-preserving-causal-efficacy`.
+  - Calibration: codebook dissolution stated as conditional on [P-VS1](/positions/value-in-selection/#p-vs1) (low credence; value-blind rival undefeated; felt anticipation at choice never measured). Onset kept undated per [P-SC3](/positions/subject-census/#p-sc3). Developmental timelines are read as dating correlates, not pairings.
+  - Citations: 17 external references checked at Crossref or OpenAlex. Saad 2022 quote grepped verbatim in the Europe PMC full text. Mørch 2017 and Cutter & Crummett 2025 quotes taken from abstracts (OpenAlex). Sadtler 2014 and Lagercrantz & Changeux 2009 phrases taken from Europe PMC abstracts. Chalmers p. 276 quote was previously verified against the archive.org full text (deep-review 2026-07-18). Baldwin pages corrected from the note's 441–457/536–554 to Crossref's 441–451/536–553. The 24-week fetal figure and the Eccles/Swinburne/Goff material in the note were dropped as unverified.
+  - Author stance: Mørch is a critic of the standard argument for interactionism and a panpsychist, so the Map's use is marked as its construction. Saad is a panpsychist whose argument bears against the Map. Cutter & Crummett are theists. Lagercrantz & Changeux are framed as neural-maturation theorists.
+  - Forward search (OpenAlex cited-by) added Wright 2023 (*Disputatio*: phenomenal powers needs powers of the self) and Zietsch 2024 (*PCS*: phenomenal powers fails; non-adaptive associative-learning rival). Schmid 2026 (*PPR*, psychonomic harmony) was noted but not used.
+  - Integration:
+    - `topics/evolution-under-dualism` +89 (L93 co-evolution inheritance channel; L137 selectability condition).
+    - `topics/the-psychophysical-control-law` +90 (L133 new "Evolutionary visibility" constraint).
+    - `concepts/psychophysical-laws` +0 (L135 piped link).
+    - `apex/interface-specification-programme` +0 (L151 piped link on the "Evolutionary interface signatures" label).
+  - Cross-review registered in `task_chains.pending_cross_reviews`. The note had no pending_articles entry.
 
 ## 00:02 - deep-review
 - **Status**: Success

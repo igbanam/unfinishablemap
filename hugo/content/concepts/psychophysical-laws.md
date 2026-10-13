@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-12 14:56:43+00:00
+ai_modified: 2026-10-13 00:32:19+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[delegatory-causation]]'
 created: 2026-01-16
-date: &id001 2026-03-27
+date: &id001 2026-10-13
 description: Fundamental principles connecting conscious experience to physical processes.
   Chalmers' framework, the coupling that bridges mind and matter, constraints on any
   adequate coupling, and candidate mechanisms.
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 12:34:29+00:00
-lastmod: 2026-10-12 14:56:43+00:00
+lastmod: 2026-10-13 00:32:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ A psychophysical coupling law would specify:
 
 The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains selection laws: empirically, the *meaning* of a conscious state determines which physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades.
 
-The "t-shirt problem" Schaffer presses against naturalistic dualism—the lack of a compact systematization of psychophysical correlations, so named because the fundamental laws could not be written legibly on a t-shirt—remains unsolved. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
+The "t-shirt problem" Schaffer presses against naturalistic dualism—the lack of [a compact systematization of psychophysical correlations](/topics/inheritance-problem-for-the-psychophysical-law/), so named because the fundamental laws could not be written legibly on a t-shirt—remains unsolved. The [interface specification problem](/topics/the-interface-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
 
 ### Constraints on Coupling
 

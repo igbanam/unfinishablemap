@@ -2,9 +2,9 @@
 title: "Psychophysical Laws and Coupling"
 description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework, the coupling that bridges mind and matter, constraints on any adequate coupling, and candidate mechanisms."
 created: 2026-01-16
-modified: 2026-03-27
+modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-12T14:56:43+00:00
+ai_modified: 2026-10-13T00:32:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,7 +132,7 @@ A psychophysical coupling law would specify:
 
 The [[content-specificity-of-mental-causation|content-specificity]] evidence constrains selection laws: empirically, the *meaning* of a conscious state determines which physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades.
 
-The "t-shirt problem" Schaffer presses against naturalistic dualism—the lack of a compact systematization of psychophysical correlations, so named because the fundamental laws could not be written legibly on a t-shirt—remains unsolved. The [[the-interface-problem|interface specification problem]] develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [[consciousness-physics-interface-formalism]] defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
+The "t-shirt problem" Schaffer presses against naturalistic dualism—the lack of [[inheritance-problem-for-the-psychophysical-law|a compact systematization of psychophysical correlations]], so named because the fundamental laws could not be written legibly on a t-shirt—remains unsolved. The [[the-interface-problem|interface specification problem]] develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail. The [[consciousness-physics-interface-formalism]] defines what any such mapping requires formally: an experiential state space E, a physical state space P, and a coupling map C: E × P → P satisfying five non-negotiable constraints from quantum foundations.
 
 ### Constraints on Coupling
 
