@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Griffin's nondualistic interactionism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-13-process-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-13-process-wing (New Articles): David Ray Griffin's 1998 thesis (Unsnarling the World-Knot) that the mind is 'numerically distinct ... but not ontologically different' from the brain and interacts with it has zero corpus hits though four process-wing pages cite Griffin; it is the one rival P-D2's selection rule cannot exclude because it is not an inert-consciousness view. Research should verify the quotes against the book text, place 'compound individual' and 'dominant occasion' inside the page, and note that any positions follow-up hits positions/arguments-for-dualism at 2497/2500 words (needs a human decision). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/nondualistic-interactionism-2026-10-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'nondualistic-interactionism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-13
+
 ### P2: Write `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` — Merlo's egalitarianism problem and Hare's egocentric presentism
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06.md
