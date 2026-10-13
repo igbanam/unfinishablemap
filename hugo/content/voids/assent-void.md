@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-07 14:19:30+00:00
+ai_modified: 2026-10-13 09:29:38+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[philosophy-of-mind]]'
 - '[[mental-effort]]'
 created: 2026-09-29
-date: &id001 2026-10-07
+date: &id001 2026-10-13
 description: 'Human+AI exploration of the moment a proposition becomes held true:
   it cannot be commanded, it is over before judging seems to begin, and looking at
   it turns the eye to the world.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-07 14:19:30+00:00
+lastmod: 2026-10-13 09:29:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[apex/taxonomy-of-voids]]'
 - '[[apex/conjunction-coalesce]]'
+- '[[doxastic-voluntarism]]'
 - '[[research/voids-assent-void-2026-09-28]]'
 title: The Assent Void
 topics:
@@ -60,7 +61,7 @@ The void borrows the [three-face layout](/apex/conjunction-coalesce/) of the sus
 
 ### Control (Unexplorable if Conceptual Involuntarism Holds; Occluded if Only Psychological)
 
-One cannot believe at will. Alston (1988), the best-known defender of the *psychological* reading, makes the point with a test anyone can run: try to believe, now, that the United States is still a British colony. The *Stanford Encyclopedia* entry on doxastic voluntarism (Boespflug & Jackson 2024) separates **psychological involuntarism**, on which we happen to lack the capacity, from **conceptual involuntarism**, on which belief's nature excludes it: because belief has a constitutive aim or norm of truth, a state adopted for reasons unconnected to truth would not be a belief at all.
+One cannot [believe at will](/concepts/doxastic-voluntarism/). Alston (1988), the best-known defender of the *psychological* reading, makes the point with a test anyone can run: try to believe, now, that the United States is still a British colony. The *Stanford Encyclopedia* entry on doxastic voluntarism (Boespflug & Jackson 2024) separates **psychological involuntarism**, on which we happen to lack the capacity, from **conceptual involuntarism**, on which belief's nature excludes it: because belief has a constitutive aim or norm of truth, a state adopted for reasons unconnected to truth would not be a belief at all.
 
 Williams (1973) gave the best-known argument for the conceptual reading. In the SEP's rendering, "to believe *p* is to take *p* to be true"; if one could believe at will, one would know one had that power, and could then find oneself holding, as a belief, something one regarded as false. The same entry reports that the argument "is widely held to be unsuccessful—at least without modifications" (Winters 1979), and Booth (2017) argues that belief is only contingently involuntary. Hieronymi (2006) concedes Bennett's imagined voluntary believers as "a successful counter to Williams' argument, as given" and rests the impossibility on the constitutive relation between committing to *p* as true and believing it: "although belief is subject to two quite robust forms of agency, 'believing at will' is impossible; one cannot believe in the way one ordinarily acts."
 

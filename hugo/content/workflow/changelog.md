@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13 09:03:40+00:00
+ai_modified: 2026-10-13 09:30:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-13'
-lastmod: 2026-10-13 09:03:40+00:00
+lastmod: 2026-10-13 09:30:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:30 - expand-topic
+- **Status**: Success
+- **Topic**: Doxastic voluntarism: direct voluntary control over belief, and what the Map's interface account needs from the debate
+- **Output**: [doxastic-voluntarism](/concepts/doxastic-voluntarism/)
+- **Word count**: `analyze_length` 2,960 (`soft_warning`; concepts 2500 / 3500 / 5000; 539 under hard). Split: prose to Further Reading ~2,503, reference apparatus ~485.
+- **Based on research**: yes, [doxastic-voluntarism-2026-10-07](/research/doxastic-voluntarism-2026-10-07/) (angle 1, the recommended concept page). The note has no literal insert-ready passages; its §What the Map's Interface Account Needs drove the Map's-reading section.
+- **Cap and slug**: concepts 356/370 by `count_section_files` before writing; `scripts/check_slug.py` OK; no archive collision.
+- **Structure**: four-part concept format. Neutral definition and Alston's four kinds of control first, plus Hieronymi's evaluative/managerial and Soter's front-end/back-end splits. Psychological vs conceptual involuntarism, with the Williams > Winters > Bennett > Hieronymi repair chain and Booth's contingency route. Rivals: permissivist (Ginet, Crowe 2026), doxastic compatibilism (Steup, Ryan), activity (Boyle, Singh 2026), back-end (Soter), ballistic (Strawson). Then the Frankfurt-style move, the Map's reading (marked as the Map's), and a section on what follows only conditionally.
+- **Frankfurt-style move**: stated as detaching responsibility from the ability to believe otherwise (Frankfurt 1969; Fischer & Ravizza 1998; Steup 2023), with no handle supplied. The guidance-control/evaluative-control identification is labelled as the Map's reading. Not framed as a parsimony point, and Tenet 3 is stated as committing only to outcome-selection.
+- **History overlap**: one plain-text sentence (SEP credits Holcot with both kinds of argument). No link to the unwritten `topics/assent-before-descartes`.
+- **Verification**: all 26 external references checked at Crossref. Every double-quoted string in the body was machine-checked against raw artefacts retrieved this run: the SEP HTML; the Hieronymi 2006 eScholarship postprint (16,524 words, re-fetched); OpenAlex abstracts for Hieronymi 2009, Shah & Velleman, Steup 2023, Strawson, Singh, Crowe, Soter, Booth, Boyle, Peels 2014, Odoj, Cusimano & Goodwin 2020. Shah & Velleman's judgement-as-act claim is paraphrased only, resting on the 10-07 synthesis's raw-PDF grep (PhilArchive returned 403 this run).
+- **Forward search (OpenAlex, 2025+)**: Soter, Steup 2023, Peels 2014, Cusimano & Goodwin 2020, Hieronymi 2009. Nothing found that revises the article's use.
+- **Integration (zero-cost piped links, +0 words each by `analyze_length`)**: `voids/assent-void` L60 "One cannot [believe at will](/concepts/doxastic-voluntarism/)" (2959 > 2959); `topics/phenomenology-of-resistance-across-domains` L63 "[doxastic involuntarism](/concepts/doxastic-voluntarism/)" (3202 > 3202). Both also gained a `related_articles` entry. `ai_system` left unchanged on both.
+- **Findings, not edits**: (1) The research note mis-cites in three places. It sources Peels's "influence, not control" point to Peels 2017 via the SEP's "(2017: 693–4)", but those pages are in Peels 2014 (PPR 89(3): 679–702), whose abstract states the point. It files Odoj 2025 under Frankfurt-style detachment, but her abstract defends doxastic freedom "consistent with the principle of alternative possibilities". Its citation 9 gives Cusimano & Goodwin 2019 (JEP:G) for the self/other asymmetry, which is in their 2020 JPSP paper. (2) `voids/assent-void` L64 describes Ginet's juror as deciding to believe a witness while voting to acquit (pp. 64–65); the SEP renders the case as "a juror who decides to believe a defendant is guilty" (2001: 64). Unresolved without the chapter. (3) `concepts/compatibilism` L101 has Tenet 3's quantum interface making the ability to do otherwise "categorical". This is a string-sibling of the open P2 Tenet 3 tasks on the consequence argument and source-vs-leeway pages. (4) The research note's quotation of decision-void L84 ("Hieronymi's parity ... voluntariness") is no longer live; L84 now ranks assent "by phenomenological fit".
 
 ## 09:03 - deep-review
 - **Status**: Success

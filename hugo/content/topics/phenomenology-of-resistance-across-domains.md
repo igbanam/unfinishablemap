@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-10-07 09:58:37+00:00
+ai_modified: 2026-10-13 09:29:38+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-04-16
-date: &id001 2026-05-27
+date: &id001 2026-10-13
 description: Resistance—felt pushback from objects, logic, morality, imagination,
   belief, and materials—shows a common phenomenological signature across domains,
   offering evidence for a unified consciousness encountering genuinely distinct constraints.
@@ -22,10 +22,11 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 09:58:37+00:00
-lastmod: 2026-10-07 09:58:37+00:00
+lastmod: 2026-10-13 09:29:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[doxastic-voluntarism]]'
 - '[[research/phenomenology-of-resistance-across-domains-2026-04-06]]'
 title: The Phenomenology of Resistance Across Domains
 topics:
@@ -63,7 +64,7 @@ Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: 
 
 ### Epistemic Resistance
 
-Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call doxastic involuntarism. The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence. Two things should be kept apart here. What is felt is the frustration of a failed attempt to *revise* a standing belief; the mechanism that holds the belief stable is not itself felt. And the initial *acquisition* of a belief is a different case: there, as the [assent void](/voids/assent-void/) records, the attempt finds nothing to push on—an absence rather than a pushback.
+Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call [doxastic involuntarism](/concepts/doxastic-voluntarism/). The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence. Two things should be kept apart here. What is felt is the frustration of a failed attempt to *revise* a standing belief; the mechanism that holds the belief stable is not itself felt. And the initial *acquisition* of a belief is a different case: there, as the [assent void](/voids/assent-void/) records, the attempt finds nothing to push on—an absence rather than a pushback.
 
 ### Material Resistance in Skilled Practice
 

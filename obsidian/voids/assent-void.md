@@ -2,9 +2,9 @@
 title: "The Assent Void"
 description: "Human+AI exploration of the moment a proposition becomes held true: it cannot be commanded, it is over before judging seems to begin, and looking at it turns the eye to the world."
 created: 2026-09-29
-modified: 2026-10-07
+modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-07T14:19:30+00:00
+ai_modified: 2026-10-13T09:29:38+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[apex/conjunction-coalesce]]"
+  - "[[doxastic-voluntarism]]"
   - "[[research/voids-assent-void-2026-09-28]]"
 ai_contribution: 100
 author: null
@@ -56,7 +57,7 @@ The void borrows the [[apex/conjunction-coalesce|three-face layout]] of the susp
 
 ### Control (Unexplorable if Conceptual Involuntarism Holds; Occluded if Only Psychological)
 
-One cannot believe at will. Alston (1988), the best-known defender of the *psychological* reading, makes the point with a test anyone can run: try to believe, now, that the United States is still a British colony. The *Stanford Encyclopedia* entry on doxastic voluntarism (Boespflug & Jackson 2024) separates **psychological involuntarism**, on which we happen to lack the capacity, from **conceptual involuntarism**, on which belief's nature excludes it: because belief has a constitutive aim or norm of truth, a state adopted for reasons unconnected to truth would not be a belief at all.
+One cannot [[doxastic-voluntarism|believe at will]]. Alston (1988), the best-known defender of the *psychological* reading, makes the point with a test anyone can run: try to believe, now, that the United States is still a British colony. The *Stanford Encyclopedia* entry on doxastic voluntarism (Boespflug & Jackson 2024) separates **psychological involuntarism**, on which we happen to lack the capacity, from **conceptual involuntarism**, on which belief's nature excludes it: because belief has a constitutive aim or norm of truth, a state adopted for reasons unconnected to truth would not be a belief at all.
 
 Williams (1973) gave the best-known argument for the conceptual reading. In the SEP's rendering, "to believe *p* is to take *p* to be true"; if one could believe at will, one would know one had that power, and could then find oneself holding, as a belief, something one regarded as false. The same entry reports that the argument "is widely held to be unsuccessful—at least without modifications" (Winters 1979), and Booth (2017) argues that belief is only contingently involuntary. Hieronymi (2006) concedes Bennett's imagined voluntary believers as "a successful counter to Williams' argument, as given" and rests the impossibility on the constitutive relation between committing to *p* as true and believing it: "although belief is subject to two quite robust forms of agency, 'believing at will' is impossible; one cannot believe in the way one ordinarily acts."
 
