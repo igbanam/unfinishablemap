@@ -5,6 +5,17 @@ ai_modified: 2026-10-13T03:45:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 04:47 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro. The regenerate menu reads "Try again • 5.6 Pro", and the turn label reads "Worked for 17m 25s", which is in the Pro range. This is the recent-aged fallback audit of `topics/ethics-under-dualism`, collected by `collect-chatgpt-review` from the 02:06Z commission. Verdict: "major revision".
+- **File**: [[reviews/outer-review-2026-10-13-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom. The source was the single `[data-markdown-text-style]` root inside `[data-turn-key]`, with turn state `complete`. The body went page → clipboard → disk. Its 58,305 units matched FNV-1a `419b07a5` on both sides, and its 45,275 letters match the rendered text. Afterwards, 28 Map chips were converted to wikilinks.
+- **Claims verified**: 17 checked. External: 7 confirmed (the New York Declaration page, Frankish 2024 *Neuroethics* abstract, Chalmers's narrow-affect argument in the preprint, Bodien 2024 abstract, Perry 2024, Street 2006, the asymbolia literature). On disk: 6 confirmed. Partly right: 3 (the "stale" asymbolia literature and the "only Frankish 2016" charge are true of the focal page but false of the corpus; Street is engaged in meaning-of-life and evaluative-phenomenal-character but not linked). Unverified: 2 (Birch "type-B", Butlin and Long).
+- **High-value findings**: 4. (1) The focal page contradicts four pages it links: ai-moral-agency L68, CVC L104/L108, and the apex's L106/L154/L158 concessions. (2) The apex's 2026-09-23 New York Declaration wording was never carried over. (3) Chalmers's continuity argument is unanswered anywhere in the corpus, and the pluralism/status seam is open. (4) The pain article says "decisive" and "clean", against its own concept page. **Found in processing**: the Street gap's "human-deferred" label is a blocker borrowed from the NEEDS-HUMAN cluster for `ethics-of-possible-ai-consciousness`.
+- **Tasks generated**: 3 (P1: 2, P2: 1). They are refine-drafts on `topics/ethics-under-dualism` (10 ordered items, headroom 192), `concepts/sentientism` (length-neutral, headroom 5) and `topics/pain-consciousness-and-causal-power` (headroom 148). All were inserted above `## Completed Tasks`, and parse_tasks reads them as pending with File and Review file set.
+- **Not tasked**: the symmetric-package table (length), copy/upload and Parfit (bedrock), and the AI reassessment tests (lower value). Methodology improvements #30–36 are left for combine-outer-reviews, with evidence: five propagation failures in one review, and the soft-threshold deferral mechanism.
+- **Synthesis**: not written. The Gemini review of the same subject (commissioned 04:07Z) is still pending.
+
 ## 03:44 - expand-topic
 - **Status**: Success
 - **Topic**: Popper's three-worlds interactionism and Eccles's trialism, and what the Map can and cannot borrow from them (Tenet 3 lineage; companion to the Sherrington lineage)
