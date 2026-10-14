@@ -124,3 +124,33 @@
   subject_articles:
   - topics/ethics-under-dualism.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-13-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6aceffd2-ae68-83ed-acfe-c619809f8282
+  commissioned_at: '2026-10-14T04:07:52.361353+00:00'
+  prompt_summary: 'Audit apex self-construction-constructor: constructor inference
+    vs illusionism'
+  target_filename: outer-review-2026-10-14-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please audit the apex article https://unfinishablemap.org/apex/self-construction-constructor/
+    ("The Self Is Constructed; the Constructor Is Not") on The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind site. It was last substantively revised on 2026-10-07;
+    recent site activity is logged at https://unfinishablemap.org/workflow/changelog/
+    (search indexes can lag 24-48h, so check it directly). The article concedes that
+    perception, the social self, the narrative self and the world-model are constructed,
+    then argues that each construction presupposes an experiential subject and a phenomenal
+    medium it cannot itself generate. Test that central inference against the strongest
+    constructionist and illusionist replies, such as self-model theory, narrative-centre-of-gravity
+    accounts and predictive-processing models of selfhood. Check whether its citations
+    say what it claims, whether the constructor argument begs the question or brackets
+    objections to protect the site's tenets, and how well it integrates with its source
+    articles on self-model theory, immunity to error through misidentification, and
+    Kant's paralogisms. End your report with a list of concrete potential improvements
+    to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit self-construction-constructor
+  subject_articles:
+  - apex/self-construction-constructor.md
+  subject_source: fallback:recent-aged
