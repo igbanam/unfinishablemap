@@ -4,7 +4,7 @@ description: "Perception, the social self, the narrative self, and the world-mod
 created: 2026-05-27
 modified: 2026-10-14
 human_modified:
-ai_modified: 2026-10-14T07:23:30+00:00
+ai_modified: 2026-10-14T09:12:04+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -143,7 +143,7 @@ The argument rests on the regress—construction is an operation requiring an op
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** The construction/constructor distinction is dualism's most general exhibit. Each register shows a structural feature—the percept, the social identity, the narrative, the world-model—that can be fully described in brain-side and culture-side terms, and a phenomenal feature—that there is something it is like to undergo each—that the description leaves untouched. The constructor is the irreducible remainder: the subject no functional decomposition captures because decomposition produces content and the subject is what content is *for*. The recurrence of the same remainder across four domains, one premise applied four times, is the pattern dualism predicts and reductive functionalism must repeatedly absorb by sub-dividing roles.
+**[[tenets#^dualism|Dualism]].** The construction/constructor distinction is dualism's most general exhibit. Each register shows a structural feature—percept, social identity, narrative, world-model—describable in brain-side and culture-side terms, and a phenomenal feature—something it is like to undergo each—that the description leaves untouched. The constructor is the irreducible remainder: the subject no functional decomposition captures because decomposition produces content and the subject is what content is *for*. The recurrence of the same remainder across four domains, one premise applied four times, is the pattern dualism expects; reductive functionalism absorbs it by sub-dividing roles, and on the shared data the two readings do not separate (above).
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** The constructor is not a passive screen. The theory-of-mind threshold shows it doing work no sub-personal process replicates; perceptual learning shows it constructing its own future perceptual conditions through sustained attentional engagement; deliberate constancy-breaking and contemplative opacity show it acting on its own representational apparatus. The Map reads these as the constructor's causal efficacy—consciousness contributing rather than merely registering. Each such reading is the Map's interpretation of phenomena fully describable in brain-side terms, not a measurement that compels downward causation; the vividness is what the cases supply, while whether it is *consciousness* doing the work remains tenet-dependent rather than empirically forced.
 

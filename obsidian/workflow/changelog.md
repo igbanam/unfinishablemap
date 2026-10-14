@@ -5,6 +5,15 @@ ai_modified: 2026-10-14T08:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 09:12 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/machine-question]]
+- **Changed sources**: 10 (4 propagated: Block/Hoel L90, non-triviality L113, Tenet 2 ceiling qualifier L137, "sever" L149; 6 already absorbed or no-op)
+- **Word count**: 5947 → 5946 (`analyze_length`; Evidence and Dependency ledger installed, funded from redundancy — over-hard status unchanged, apex length is operator territory)
+- **Side-task**: `apex/self-construction-constructor` L146 per tenet-check 2026-10-14 Warning 2, net −1 (4938 → 4937)
+- **Not touched**: Tenet 3 quantifier at machine-question L175–177 (NEEDS-HUMAN todo L722)
+- **Review**: [[reviews/apex-evolve-2026-10-14-machine-question]]
+
 ## 08:58 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 122 live files plus tenets.md (window 9fac07ecec..78dcc816c1; 12 new, 110 modified)
