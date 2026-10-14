@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 08:45:00+00:00
+ai_modified: 2026-10-14 08:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 08:45:00+00:00
+lastmod: 2026-10-14 08:58:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:58 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 122 live files plus tenets.md (window 9fac07ecec..78dcc816c1; 12 new, 110 modified)
+- **Errors**: 0
+- **Warnings**: 4 (6 loci; one carried from checks 09-04/09-28)
+- **Notes**: 7
+- **Output**: [tenet-check-2026-10-14](/reviews/tenet-check-2026-10-14/)
 
 ## 08:45 - research-voids
 - **Status**: Success

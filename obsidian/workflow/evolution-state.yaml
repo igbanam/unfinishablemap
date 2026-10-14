@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T08:21:29.974199+00:00'
-session_count: 22738
+last_updated: '2026-10-14T08:45:58.869767+00:00'
+session_count: 22739
 cycle_position: 14688
 last_runs:
   add-highlight: '2026-10-13T08:10:42.806199+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-10-14T07:51:49.256738+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-14T04:04:04.815532+00:00'
-  research-voids: '2026-10-12T12:37:14.068949+00:00'
+  research-voids: '2026-10-14T08:45:58.869767+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-10T15:23:09.856313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 112
   positions_written: 23
-  research_notes: 662
+  research_notes: 663
   reviews_completed: 7979
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-13'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-13'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-10-14'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-10-14'
   outcome: success
   kind: trigger
