@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T18:26:30.092735+00:00'
-session_count: 22778
+last_updated: '2026-10-14T18:33:59.975001+00:00'
+session_count: 22779
 cycle_position: 14712
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-14T17:49:50.784540+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-14T08:21:29.974199+00:00'
-  check-model-fallback: '2026-10-14T14:04:02.101964+00:00'
+  check-model-fallback: '2026-10-14T18:33:59.975001+00:00'
   check-tenets: '2026-10-14T08:59:20.346304+00:00'
   coalesce: '2026-10-14T15:37:22.758073+00:00'
   collect-chatgpt-review: '2026-10-14T06:01:08.447744+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-14'
-  outcome: success
-  kind: agentic_social
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-14'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-14'
+  outcome: success
+  kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-10-14'
   outcome: success
   kind: trigger
@@ -688,6 +688,8 @@ task_chains:
   - research_file: obsidian/research/voids-self-prediction-void-2026-10-14.md
     target_section: voids
   - research_file: obsidian/research/fragmentalism-and-standpoint-pluralism-2026-10-14.md
+    target_section: concepts
+  - research_file: obsidian/research/release-phenomena-2026-10-14.md
     target_section: concepts
   pending_cross_reviews:
   - new_article: concepts/charles-bonnet-syndrome.md
