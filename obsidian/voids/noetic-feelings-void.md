@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-10-07T09:10:15+00:00
+ai_modified: 2026-10-14T08:04:00.602691+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -67,11 +67,22 @@ coalesced_from:
   - "/voids/understanding-void/"
   - "/voids/obviousness-void/"
   - "/voids/explanatory-void/"
+embedded_videos:
+  - id: bpedMgSG-aQ
+    url: https://www.youtube-nocookie.com/embed/bpedMgSG-aQ
+    embedded: 2026-10-14T08:04:00.602691+00:00
+    source: notebooklm/0160-01-noetic-feelings-void
 ---
 
 Consciousness does not terminate inquiry by argument. It terminates inquiry by feeling. The sense that a recalled answer is right, that a face is familiar, that an explanation is sufficient, that something is *obvious*—these *noetic feelings* decide, from inside, when to trust, when to search further, when to stop. The Unfinishable Map names the noetic feelings void for the structural limit this creates: the signals that gate cognition are produced by heuristic machinery consciousness cannot inspect, and any attempt to audit those signals must deploy more signals of the same kind. The void's category-mix is **Occluded + Unexplorable**—occluded at its surface and unexplorable at its core, a recursive opacity at the centre of cognitive self-governance. It is the gating-signal face of the introspection-architecture sub-cluster, alongside [[narrative-void]], [[source-attribution-void]], [[confabulation-void]], and the methodological [[self-opacity]]; [[topics/introspection-architecture-independence-scoring|the independence-scoring exhibit]] scores the four-void cluster jointly against the [[apophatic-cartography-four-criteria|catalogue's four criteria]].
 
 The feelings are transparent in a treacherous sense: they do not present themselves as feelings, they present their objects. A feeling of knowing presents as *awareness that one knows*; understanding as *direct apprehension of how things fit together*; obviousness as the absence of anything needing investigation. This mode of presentation hides the affective-heuristic character cognitive science has established. Consciousness receives a verdict with no visible derivation—and uses the verdict to decide whether the verdict needs checking.
+
+<details class="yt-embed" data-video-id="bpedMgSG-aQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/bpedMgSG-aQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Family of Noetic Feelings
 

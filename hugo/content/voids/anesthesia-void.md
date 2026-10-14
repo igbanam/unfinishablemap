@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-08-17 16:02:00+00:00
+ai_modified: 2026-10-14 08:04:00.602691+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -16,10 +16,15 @@ date: &id001 2026-04-17
 description: 'Human+AI exploration of the pharmacologically imposed gap in consciousness:
   an interval the first person cannot enter, yet the third person can partially probe.'
 draft: false
+embedded_videos:
+- embedded: 2026-10-14 08:04:00.602691+00:00
+  id: rJK0zfvIy9Y
+  source: notebooklm/0162-01-anesthesia-void
+  url: https://www.youtube-nocookie.com/embed/rJK0zfvIy9Y
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:08:00+00:00
-lastmod: 2026-08-17 16:02:00+00:00
+lastmod: 2026-10-14 08:04:00.602691+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,6 +51,12 @@ topics:
 General anesthesia produces a phenomenological discontinuity unlike any other. The subject enters, and hours of clock-time later emerges — with induction and emergence abutted directly, no intervening experience to narrate. Unlike [dreamless sleep](/voids/sleep-consciousness-void/), the gap is pharmacologically imposed and leaves no duration-residue; unlike the [death-void](/voids/death-void/), return is expected; unlike the [transit-void](/voids/transit-void/), it is the interval itself, not the crossing, that is inaccessible. The anesthesia void names this specific shape: an interior that the first person cannot enter and cannot retrieve, while the third person can partially characterise it from outside.
 
 This void is primarily **[unexplorable](/voids/three-kinds-of-void/)** — the interior is definitionally closed from inside. But it is also **occluded**, because anesthetic amnesia actively deletes what mental content did occur. And it is **unexplored**, because the mechanism by which agents disconnect consciousness from environment, memory, and motor output remains an open scientific problem. These aspects compound into a void that functions as both limit and probe: an epistemic situation where third-person methods can characterise what first-person methods cannot touch.
+
+<details class="yt-embed" data-video-id="rJK0zfvIy9Y">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/rJK0zfvIy9Y">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Shape of the Void
 
