@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-13T10:20:49+00:00
+ai_modified: 2026-10-14T05:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:45 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research), collected via collect-claude-review
+- **File**: [[reviews/outer-review-2026-10-14-claude-fable-5-1]]
+- **Subject**: apex/self-construction-constructor (recent; reused from the ChatGPT 04:07Z commission, whose review is still pending; no combine run)
+- **Extraction**: js-dom artifact walk. Page SHA-256 `637809844df2ed37c06b556e4a992e427b6094c26d6f2cde7875b4da1f5e1863` matches the Blob on disk (46,834 bytes). The prompt matches the pending entry by SHA-256.
+- **Claims verified**: 15 (9 on disk, 6 at Crossref or in corpus reference entries). Partly right: 5. Rejected: 6 (changelog-lag, a stale fetch since the live page reads 2026-10-13; Wiseman, already on the IEM page; Kant A/B pagination, already present; delete gamma paragraph; retitle; edits to self-and-self-consciousness, which has 2 words of headroom).
+- **High-value findings**: 5. (1) The apex's premise "content requires a subject" (L99/L130/L138) contradicts its own L107/L111 concessions that construction can run without consciousness. (2) The apex's "cannot escape" regress and its "no one who is fooled" dilemma outrank the SMT concept page's "located disagreement, not a refutation". (3) The apex has no Dennett, beautiful-loop or Frankish engagement. (4) The apex upgrades Rochat from the source's "self-specification" to "phenomenal selfhood". (5) The three-layer topic's L129 observability asymmetry fails against SMT transparency.
+- **Tasks generated**: 5 (P1: 2, P2: 3). Inserted above `## Completed Tasks`; `parse_tasks` active count went from 133 to 138.
+- **Methodology**: the status-propagation gate (an apex may not claim a higher tier than its sources) is new and recorded for the operator, not minted. Confession-to-label is a further recurrence of a completed convergent entry.
 
 ## 10:20 - expand-topic
 - **Status**: Success

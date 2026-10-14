@@ -160,9 +160,9 @@
   prompt_summary: 'Audit apex self-construction-constructor: constructor inference
     vs illusionism'
   target_filename: outer-review-2026-10-14-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-14T05:36:07.049454+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous, hostile-referee audit of the apex article
     https://unfinishablemap.org/apex/self-construction-constructor/ ("The Self Is
