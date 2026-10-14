@@ -4,7 +4,7 @@ description: "Nahua thought made mind and matter guises of one power-in-motion, 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-09-11T11:22:51+00:00
+ai_modified: 2026-10-14T14:23:57+00:00
 last_deep_review: 2026-09-11T11:22:51+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-07-10
 last_curated:
 ---
@@ -72,7 +72,7 @@ This section is the Map's own interpretation and should not be read back into th
 
 **Teotl-monism is a rival to [[tenets#^dualism|Tenet 1 (Dualism)]], not an ally.** A framework in which consciousness is one guise of a single self-moving power directly contradicts the claim that consciousness is an irreducible non-physical principle. The Map does not soften this: on its own terms Nahua metaphysics dissolves the very mind-matter distinction the tenet asserts. What the Map declines to do is *adjudicate* the contest. Whether teotl-monism avoids a pseudo-problem or dissolves a real one prematurely is precisely what is unsettled—the **framework-dependence** and **depth-of-inquiry** readings are held as genuine rivals, exactly as in the Chinese case, and this article does not decide between them.
 
-**The Nahua case tests the convergence argument rather than confirming it.** The [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]] draws its weight from the *number* of independently deep traditions that converge on irreducibility and the *diversity of premises* from which they arrive—not from any entailment from depth to dualism. A second deep tradition that shares the human introspective architecture but starts from an organicist framework and reaches a process-monism is exactly what one would expect if the finding of irreducibility is conditioned on framework rather than forced by raw phenomenology. So the Nahua basin edge *lowers* the argument's claim to universality while leaving its core inference—from broad, premise-diverse convergence among the traditions that *do* pose the problem—untouched. Several basin edges—Chinese, [[japanese-philosophy-of-mind-kyoto-school|Kyoto School]], Nahua, and the [[kabbalah-tzimtzum-consciousness-matter|Lurianic Kabbalah]] case—are more informative than one: they begin to mark the boundary of the basin rather than a single anomalous point on it.
+**The Nahua case tests the convergence argument rather than confirming it.** The [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]] draws its weight from the *number* of independently deep traditions that converge on irreducibility and the *diversity of premises* from which they arrive—not from any entailment from depth to dualism. A second deep tradition that shares the human introspective architecture but starts from an organicist framework and reaches a process-monism is exactly what one would expect if the finding of irreducibility is conditioned on framework rather than forced by raw phenomenology. So the Nahua basin edge *lowers* the argument's claim to universality and qualifies its core inference as well: the traditions that *do* pose the problem differ on substance, self and causation, yet all start from the mind-matter partition—the one premise the framework-dependence reading says creates the gap. Several basin edges—Chinese, [[japanese-philosophy-of-mind-kyoto-school|Kyoto School]], Nahua, and the [[kabbalah-tzimtzum-consciousness-matter|Lurianic Kabbalah]] case—are more informative than one: they begin to mark the boundary of the basin rather than a single anomalous point on it.
 
 **It bears on the [[common-cause-null|common-cause null]], with a caveat.** If cross-traditional convergence were merely an artefact of shared human cognitive architecture, then traditions sharing that architecture should converge regardless of framework. The Nahua tradition shares the architecture and does not converge—a second dissociation, after the Chinese, that is evidence the convergence found elsewhere is conceptually conditional rather than architecturally forced. The caveat runs the other way too: because Nahua epistemology is itself broadly experiential and introspective, its agreement with other experiential traditions, where it exists, would *strengthen rather than confirm*—shared method is a possible common cause. The case therefore cuts cleanly only as a dissociating basin edge, not as independent corroboration.
 

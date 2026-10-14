@@ -4,7 +4,7 @@ description: "A human-AI reading of Nishida's pure experience and absolute nothi
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-10-14T13:20:01+00:00
+ai_modified: 2026-10-14T14:23:57+00:00
 last_deep_review: 2026-09-11T13:08:16+00:00
 draft: false
 topics:
@@ -77,7 +77,7 @@ A note on politics, kept brief because it is real. Elements of the school's wart
 
 This section is the Map's own interpretation and must not be read back into the Japanese sources above. Nishida, Nishitani, Tanabe, and Watsuji are not dualists, and nothing in this section makes them so.
 
-The Kyoto School is the second non-substantialist **basin-edge test** of [[tenets#^dualism|Tenet 1 (Dualism)]], alongside the [[chinese-philosophy-of-mind|Chinese case]], the first on that same count. The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality without touching the core inference, which never rested on universality in the first place.
+The Kyoto School is the second non-substantialist **basin-edge test** of [[tenets#^dualism|Tenet 1 (Dualism)]], alongside the [[chinese-philosophy-of-mind|Chinese case]], the first on that same count. The convergence argument treats the broad, premise-diverse agreement of deep traditions that consciousness resists physical capture as evidence for irreducibility. A basin edge is a tradition that shares the human introspective starting point and pursues it deeply, yet does *not* land on the Map's reading of the result. The Kyoto School qualifies: it is unmistakably deep and reflective about experience, and it arrives not at an irreducible mind set against matter but at a non-dual field prior to both. That it exists lowers any claim to universality, which the core inference never rested on, and it qualifies that inference as well: the traditions that do converge differ on substance, self and causation, yet all start from the mind-matter partition—the one premise the framework-dependence reading below says creates the gap.
 
 Crucially, the Kyoto case only **strengthens rather than confirms** the [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]], and the reason is a [[common-cause-null|common-cause]] caveat that must be stated plainly. The Kyoto School reaches its conclusions by the same broadly introspective and contemplative method—rooted in Zen practice and phenomenological reflection—that the other convergent traditions share. Convergence produced by a shared method is weaker evidence than convergence from genuinely independent routes, because a common method could be a common source of a common artefact. So the Kyoto data point adds weight to the pattern without closing the question of whether the pattern tracks reality or tracks a feature of disciplined human introspection.
 

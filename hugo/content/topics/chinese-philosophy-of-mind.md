@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-07-27 16:06:55+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-14 14:23:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[dualism]]'
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 16:06:55+00:00
-lastmod: 2026-07-27 16:06:55+00:00
+lastmod: 2026-10-14 14:23:57+00:00
 modified: *id001
 related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
@@ -91,11 +91,11 @@ This section is the Map's own interpretation and should not be read back into th
 
 The Chinese tradition is the strongest single challenge the Map's [convergence argument for dualism](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) faces, and the Map does not treat it as either a defeat or a vindication.
 
-**It is not a defeat for [Tenet 1 (Dualism)](/tenets/#dualism).** The convergence argument never claimed universality. Its evidential weight rests on the *number* of independently deep traditions that converge on irreducibility and the *diversity of premises* from which they arrive, not on an entailment from depth to the conclusion. A tradition that shares the human introspective architecture but starts from a different conceptual framework and reaches a different result is exactly what one would expect if the finding of irreducibility is conditioned on framework rather than forced by the raw phenomenology alone. That the Chinese case exists therefore lowers the argument's claim to universality without touching the core inference from broad, premise-diverse convergence among the traditions that *do* pose the problem.
+**It is not a defeat for [Tenet 1 (Dualism)](/tenets/#dualism).** The convergence argument never claimed universality. Its evidential weight rests on the *number* of independently deep traditions that converge on irreducibility and the *diversity of premises* from which they arrive, not on an entailment from depth to the conclusion. A tradition that shares the human introspective architecture but starts from a different conceptual framework and reaches a different result is exactly what one would expect if the finding of irreducibility is conditioned on framework rather than forced by the raw phenomenology alone. That the Chinese case exists therefore lowers the argument's claim to universality, and it qualifies the core inference as well: the traditions that *do* pose the problem differ on substance, self and causation, yet all start from the mind-matter partition—the one premise the framework-dependence reading says creates the gap.
 
 **It is not a vindication of organicism over dualism either.** Whether the Chinese tradition avoided a pseudo-problem or dissolved a real one prematurely is precisely what is unsettled. The **framework-dependence** reading and the **depth-of-inquiry** reading are held here as competing interpretations, neither established, exactly as the anchor convergence article maintains. Honouring [evidential-status discipline](/project/evidential-status-discipline/), the Map does not upgrade "the Chinese case is consistent with framework-dependence" into "the hard problem is shown to be an artefact," nor does it downgrade a sophisticated living tradition into "mere assertion." Both readings remain live hypotheses.
 
-The Chinese case also does real work against the [common-cause null](/project/common-cause-null/)—the worry that cross-traditional convergence merely reflects a shared feature of human cognitive architecture rather than a tracked feature of reality. If convergence were an artefact of shared architecture, traditions sharing that architecture should converge regardless of framework. The Chinese tradition shares the architecture and does not converge. That dissociation is evidence that the convergence found elsewhere is conceptually conditional rather than architecturally forced—which, on the framework-dependence reading, partly discharges the common-cause objection while on the depth-of-inquiry reading leaves it more open.
+The Chinese case also does real work against the [common-cause null](/project/common-cause-null/)—the worry that cross-traditional convergence merely reflects a shared feature of human cognitive architecture rather than a tracked feature of reality. If convergence were an artefact of shared architecture, traditions sharing that architecture should converge regardless of framework. The Chinese tradition shares the architecture and does not converge. That dissociation is evidence that the convergence found elsewhere is conceptually conditional rather than architecturally forced. On the framework-dependence reading, though, it relocates the common cause rather than discharging it—from shared cognitive architecture to the shared mind-matter partition—so the dissociation counts in the convergence's favour only on the depth-of-inquiry reading.
 
 Finally, the Chinese case is a standing caution demanded by [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). A tradition can be internally coherent, elegant, and economical—organicism is all three—while remaining one framework among several rather than the demonstrably correct one. The simplicity of dissolving the mind-matter distinction is not, by itself, evidence that the distinction is unreal. Tenet 5 blocks that inference in both directions: the Map may not treat organicist parsimony as truth-tracking, and it may not treat its own dualist commitments as forced by simplicity. Framework-dependence is a reason for calibrated humility about which starting point tracks reality, not a licence to declare the question closed.
 
