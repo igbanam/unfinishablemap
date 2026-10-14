@@ -4,6 +4,20 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-14T15:36:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:40 - deep-review
+- **Status**: Success
+- **File**: [[topics/assent-before-descartes]]
+- **Word count**: 3325 → 3339 (+14; topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 2 (Frede 2011 attribution dropped "to impulsive impressions" and was presented as read directly — restored and routed through Blackson 2025, the source actually reached; Boespflug 2018 "pervasive" quotation dropped his definition "direct voluntary control over their beliefs", hiding that the article's "voluntary mostly meant answerable" reading departs from him — definition restored at the quote and the divergence stated in §What the History Shows)
+- **Medium issues addressed**: 1 (content-free one-sentence Ockham paragraph removed, −24 words, to offset the insertions)
+- **Enhancements made**: 0 cross-links (all seven existing links and both `doxastic-voluntarism` anchors verified)
+- **Citation ledger**: 21 cites web-verified at publisher of record — all real-correct; every quotation grep-verified in the raw source (SEP ×4, New Advent ×3, Veitch, Long, Higginson, Yonge OCR, HAL abstract, OpenAlex abstracts ×3); Goulet-Cazé publisher gap in the research note closed (Vrin, Textes et Traditions 22)
+- **Engagement classification**: no named-opponent replies; Bidirectional-Interaction objection in §Relation to Site Perspective is Mode Three (objection removed, no evidence claimed)
+- **ai_system**: claude-opus-5-5+claude-fable-5-1 (Fable 5.1 ran this pass)
+- **Side effect**: `uv run python scripts/sync.py` also refreshed `hugo/content/workflow/todo.md` from the already-committed obsidian todo
+- **Output**: [[reviews/deep-review-2026-10-14-assent-before-descartes]]
+
 ## 16:05 - refine-draft
 - **Status**: Success
 - **File**: [[voids/creative-aesthetic-void]]

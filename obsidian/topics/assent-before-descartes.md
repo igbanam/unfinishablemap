@@ -2,9 +2,9 @@
 title: "Assent Before Descartes"
 description: "Human+AI history of assent from Stoic synkatathesis to Robert Holcot: how ancient and medieval thinkers argued over whether belief is up to us, up to the Fourth Meditation."
 created: 2026-10-13
-modified: 2026-10-13
+modified: 2026-10-14
 human_modified: null
-ai_modified: 2026-10-13T10:12:12+00:00
+ai_modified: 2026-10-14T16:40:10+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,10 +23,10 @@ related_articles:
   - "[[research/assent-before-descartes-2026-10-07]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-13
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-10-14T16:40:10+00:00
 ---
 
 **Assent** (Greek *synkatathesis*; Latin *adsensio*, later *assensus*) entered philosophy as a Stoic technical term for the act by which a rational mind accepts an impression as true. Long before Descartes made judgment an act of the will, thinkers argued over whether that acceptance is up to us, in six movements traced here. The Stoics held assent both in our power and compelled by the evident. Chrysippus reconciled that power with fate, and Epictetus made it a discipline of testing impressions. The Academic and Pyrrhonian sceptics made withholding assent a way of life. Augustine defined belief as thinking with assent and called the consent voluntary. Aquinas confined the will's part to cases the evidence leaves open. And in Oxford in the early 1330s the Dominican Robert Holcot argued against voluntary belief on both grounds the modern literature distinguishes, the introspective and the conceptual, six centuries before Alston and Williams gave those grounds their standard forms.
@@ -51,7 +51,7 @@ Chrysippus, the school's third head, had to reconcile responsibility for assent 
 
 Epictetus, more than three centuries later, made assent a daily discipline. "In our power are opinion", movement towards things, desire and aversion (*Ench.* 1, Long's translation). His third field of training "relates to the faculty of assent", and its rule is to examine an impression before admitting it: "Stop, let me see what you are and whence you come" (*Discourses* 3.12, Higginson's translation). No one, he adds, can compel us to assent to what appears false, or prevent us from assenting to what appears true (*Discourses* 1.17).
 
-These passages say that assent cannot be forced from outside and that an impression can be held for inspection, which is less than believing at will. The *Stanford Encyclopedia* history of doxastic voluntarism (Boespflug & Jackson 2024) nonetheless reads *Discourses* 3.12.14 as treating assent "as subject to voluntary control", while calling this side of Epictetus "largely undeveloped". Michael Frede (2011) located the first notion of a will in Epictetus's view that adults choose to assent. Thomas Blackson (2025) replies that this "gets the object of choice wrong": the choice is "to exercise their ability to use their impressions", and the early Stoics probably believed the same.
+These passages say that assent cannot be forced from outside and that an impression can be held for inspection, which is less than believing at will. The *Stanford Encyclopedia* history of doxastic voluntarism (Boespflug & Jackson 2024) nonetheless reads *Discourses* 3.12.14 as treating assent "as subject to voluntary control", while calling this side of Epictetus "largely undeveloped". Michael Frede (2011) located the first notion of a will in Epictetus; on Thomas Blackson's (2025) report of him, Frede's Epictetus holds that adults choose to assent to impulsive impressions. Blackson replies that this "gets the object of choice wrong": the choice is "to exercise their ability to use their impressions", and the early Stoics probably believed the same.
 
 ## The Sceptics: Withholding as a Way of Life {#sceptics}
 
@@ -77,11 +77,9 @@ Aquinas adopted Augustine's formula as the definition of believing (*Summa Theol
 
 *De Veritate* 14.1, in the *Stanford Encyclopedia*'s translation, extends the point beyond faith. When neither the terms nor first principles settle a question, "our understanding is determined by the will, which chooses to assent to one side definitely and precisely because of something which is enough to move the will, though not enough to move the understanding". Where evidence compels, the will has no part: knowledge "compels assent—depriving the will of a choice in assenting", and so excludes belief (Boespflug & Jackson 2024).
 
-Aquinas's voluntarism thus covers only the underdetermined case, which the Map notes is the territory the modern [[doxastic-voluntarism#rivals|permissivist voluntarists]] claim. Boespflug (2018) describes medieval voluntarism as "pervasive": "It was held by Augustine, Aquinas, Scotus, Ockham, and Buridan, among many others."
+Aquinas's voluntarism thus covers only the underdetermined case, which the Map notes is the territory the modern [[doxastic-voluntarism#rivals|permissivist voluntarists]] claim. Boespflug (2018) describes medieval voluntarism, which he defines as "direct voluntary control over their beliefs", as "pervasive": "It was held by Augustine, Aquinas, Scotus, Ockham, and Buridan, among many others."
 
 ## Holcot and the Fourteenth-Century Dissent {#holcot}
-
-William of Ockham's fullest treatment of control over belief, like Aquinas's, comes in his discussions of faith (*Quaestiones Variae* q.5, per Boespflug & Jackson 2024).
 
 Robert Holcot, an Oxford Dominican who "belonged to the first generation of scholars to absorb and develop the views of William Ockham", lectured on Peter Lombard's *Sentences* at Oxford "in the years 1331–1333" (Gelber & Slotemaker 2017). He also disputed epistemology with fellow students in the *Sex articuli*, which Fritz Hoffmann edited among the Oxford disputations of 1330–1332, and died of the plague in 1349. Against the dominant voluntarism, the *Stanford Encyclopedia* reports, Holcot "would give both psychological and conceptual arguments against the possibility of voluntary belief".
 
@@ -103,7 +101,7 @@ René Descartes, "like the Stoics he admired", would "treat assent as a species 
 
 What follows is the Map's reading of the record, not a thesis any of these authors advanced.
 
-**Pre-modern "voluntary" mostly meant answerable.** The Stoics put assent in our power and in the same breath made the mind yield to the evident. Augustine called consent voluntary and credited it to grace. Aquinas gave the will a role only where evidence fell short. The dominant medieval voluntarism and the dominant modern involuntarism are therefore less opposed than their labels suggest, an instance of the caution the [[doxastic-voluntarism]] article draws from the *Stanford Encyclopedia*: verdicts on whether belief is voluntary depend on which notion of "voluntary" is in play.
+**Pre-modern "voluntary" mostly meant answerable.** The Stoics put assent in our power and in the same breath made the mind yield to the evident. Augustine called consent voluntary and credited it to grace. Aquinas gave the will a role only where evidence fell short. Boespflug (2018) counts the same authors as direct voluntarists; the Map's narrower reading rests on the qualifications quoted above. The dominant medieval voluntarism and the dominant modern involuntarism are therefore less opposed than their labels suggest, an instance of the caution the [[doxastic-voluntarism]] article draws from the *Stanford Encyclopedia*: verdicts on whether belief is voluntary depend on which notion of "voluntary" is in play.
 
 **The double claim prefigures evaluative control.** Hieronymi (2006) describes evaluative control: one changes a belief by changing one's answer to whether it is true. It has the shape of the Stoic sage's freedom, agency exercised through attention to the evident, with no power to assent against it. Goulet-Cazé's *eixis* gives the same act a passive description, the structure the [[assent-void]] calls agency without a handle, and on Blackson's reading Epictetus's testing governs the approach to assent rather than the act. The lineage is the Map's construction; neither Hieronymi nor the Stoics drew it.
 
