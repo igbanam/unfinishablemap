@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-12 14:56:43+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-10-14 17:07:11+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[selection-only-channel]]'
@@ -17,9 +17,9 @@ concepts:
 - '[[quantum-probability-consciousness]]'
 created: 2026-05-14
 date: &id001 2026-05-15
-description: 'The corridor reading of Tenet 2 predicts no Born-statistical signature
-  by construction. What would make it empirically superfluous: a coordinated programme
-  of brain-internal observables, mechanism-specific signatures, and theoretical work
+description: 'The corridor reading of Tenet 2 predicts no unconditioned Born-statistical
+  signature by construction. What would make it empirically superfluous: coordinated
+  brain-internal observables, mechanism-specific signatures, and theoretical work
   on the definite-outcome problem.'
 draft: false
 embedded_videos:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:03:20+00:00
-lastmod: 2026-10-12 14:56:43+00:00
+lastmod: 2026-10-14 17:07:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ Orch-OR is *explicitly* not standard quantum mechanics. The objective reduction 
 
 ### Selection-Only Channel (The Strict Corridor Reading)
 
-Selection-only is the strict corridor reading. By construction, it produces no Born-statistical signature. Its empirical signature, if any, must come from elsewhere: from amplification effects (the [post-decoherence-selection programme](/apex/post-decoherence-selection-programme/) articulates the search-space for such signatures); from structured-randomness deviations in decision outcomes that classical mixtures cannot account for; from cross-channel evidence that *something* is being selected at the post-decoherence stage. The corridor is the hardest reading to directly test because it makes the weakest commitment about ensemble statistics. Honest assessment: the corridor cannot be directly falsified by Born-rule tests alone. It can be made *superfluous* by independent advances — most notably, a complete decoherence-only account of the definite-outcome problem (a hypothetical resolution of Schlosshauer's "problem of outcomes") would remove the selection space the corridor needs to operate in.
+Selection-only is the strict corridor reading. By construction, it produces no unconditioned Born-statistical signature. Its empirical signature, if any, must come from elsewhere: from amplification effects (the [post-decoherence-selection programme](/apex/post-decoherence-selection-programme/) articulates the search-space for such signatures); from structured-randomness deviations in decision outcomes that classical mixtures cannot account for; from cross-channel evidence that *something* is being selected at the post-decoherence stage. The corridor is the hardest reading to test directly: it makes the weakest commitment about ensemble statistics. Honest assessment: the corridor cannot be falsified by unconditioned Born-rule tests alone. It can be made *superfluous* by independent advances — most notably, a complete decoherence-only account of the definite-outcome problem (a hypothetical resolution of Schlosshauer's "problem of outcomes") would remove the selection space the corridor needs to operate in.
 
 ### Trumping-Preemption (Delegatory-Causation Reading)
 
@@ -119,7 +119,7 @@ The trumping reading shares with epiphenomenalism the prediction of no statistic
 
 ## What Would Make the Corridor Empirically Superfluous
 
-The strict corridor reading by construction predicts no Born-statistical signature, so no single Born-rule experiment can directly refute it. What the experimental and theoretical programme can deliver is convergent pressure of three distinct kinds — and the kinds do different epistemic work. Conflating them as "foreclosure" would obscure what the programme actually delivers, so the section labels them honestly: *refutation of related mechanisms*, *consistency criterion*, and *theoretical supersession*.
+The strict corridor reading by construction predicts no unconditioned Born-statistical signature, so no single unconditioned Born-rule experiment can refute it. What the experimental and theoretical programme can deliver is convergent pressure of three distinct kinds — and the kinds do different epistemic work. Conflating them as "foreclosure" would obscure what the programme delivers, so the section labels them honestly: *refutation of related mechanisms*, *consistency criterion*, and *theoretical supersession*.
 
 **Refutation of related mechanisms — rules out empirically committed corridor realisations.** A null on brain-internal coherence at consciously-relevant timescales would refute Orch-OR, the Penrose-Hameroff microtubule family, and Keppler's (2025) zero-point-field cortical-microcolumn coupling proposal. Kerskens-López Pérez-style entanglement-witness signals would have to be cleanly classically explained or fail to replicate at higher precision; the Wiest-surveyed microtubule coherence claims would have to be ruled out at the relevant mass-time scale (MAQRO-class precision in the appropriate regime). This criterion would refute the *mechanisms* articulated for instantiating a corridor selection; the strict corridor itself could in principle survive at sub-Tegmark-decoherence scales using a mechanism not yet articulated. The criterion rules out the empirically committed readings of the corridor, not the limit-case strict reading.
 
@@ -150,11 +150,11 @@ The corridor reading is therefore neither foreclosed nor confirmed. It survives 
 
 ## Relation to Site Perspective
 
-The corridor reading is the Map's most conservative realisation of Tenet 2 (Minimal Quantum Interaction). Its commitment is austere: a brain-prepared candidate set, a physics-set distribution, a mind that selects without redistributing mass. The Map adopts the corridor as the working hypothesis because it satisfies the [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/) cleanly, is consistent with every tested Born-rule regime, and carries the smallest empirical risk among readings of Tenet 2 that preserve [bidirectional interaction](/tenets/#bidirectional-interaction). The price is that the corridor predicts no Born-statistical signature by construction. The Map holds the corridor as the working hypothesis, *not* as a confirmed one, and admits the probability-bias reading (Class 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/)) and the trumping-preemption reading as live alternatives.
+The corridor reading is the Map's most conservative realisation of Tenet 2 (Minimal Quantum Interaction). Its commitment is austere: a brain-prepared candidate set, a physics-set distribution, a mind that selects without redistributing mass. The Map adopts the corridor as the working hypothesis because it satisfies the [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/) cleanly, is consistent with every tested Born-rule regime, and carries the smallest empirical risk among readings of Tenet 2 that preserve [bidirectional interaction](/tenets/#bidirectional-interaction). The price is that the corridor predicts no unconditioned Born-statistical signature by construction. The Map holds the corridor as the working hypothesis, *not* a confirmed one, and admits the probability-bias reading (Class 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/)) and the trumping-preemption reading as live alternatives.
 
 Three tenets bear especially on the present article:
 
-**Tenet 3 (Bidirectional Interaction)** is the load-bearing commitment the experimental programme catalogued above tests. Without a programme of this kind, Tenet 3 would be a metaphysical commitment immune to empirical challenge. The Map elsewhere registers that bidirectional interaction is a *commitment supported by self-stultification and indirect evidence* rather than a directly tested datum (see [the tenet body](/tenets/) and [the agency void](/voids/agency-void/) on first-person verification of causal power). The present article's experimental design space is the path by which the commitment could be directly tested. The Map should not pretend the path is shorter than it is — first-generation instruments, contested observables, and no settled brain-internal Born-rule observable in the published literature.
+**Tenet 3 (Bidirectional Interaction)** is the commitment the experimental programme catalogued above tests. Without a programme of this kind, Tenet 3 would be a metaphysical commitment immune to empirical challenge. The Map elsewhere registers that bidirectional interaction is a *commitment supported by self-stultification and indirect evidence* rather than a directly tested datum (see [the tenet body](/tenets/) and [the agency void](/voids/agency-void/) on first-person verification of causal power). The present article's experimental design space is the path by which the commitment could be directly tested. The Map should not pretend the path is shorter than it is — first-generation instruments, contested observables, and no settled brain-internal Born-rule observable in the published literature.
 
 **Tenet 4 (No Many Worlds)** is the framework presupposition that makes the article's question coherent. The corridor speaks throughout of "selection between alternatives" and "which definite outcome emerges" — phrasings that presuppose single-outcome ontology. On a Many-Worlds reading, every Born-distributed outcome occurs in some branch, the corridor's "selection event" has no referent, and the entire experimental programme catalogued above frames a question MWI dissolves rather than answers. The disagreement here is foundational rather than empirical. The article's analysis is therefore in-Map work conditional on Tenet 4, openly disclosed as such rather than dressed as framework-neutral analysis. An MWI reader will reject the article's framing at the start, and the article's reply is the [tenet body](/tenets/)'s indexical objection to branching (not a parsimony case: [Tenet 5](/tenets/#occams-limits)) — not a within-MWI refutation, which is not available because the framework boundary is exactly where the disagreement lives.
 
