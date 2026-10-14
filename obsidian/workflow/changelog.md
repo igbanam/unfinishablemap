@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T13:55:00+00:00
+ai_modified: 2026-10-14T15:20:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:20 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-comic-and-humor-as-an-aesthetic-category]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Review**: `reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing.md` Priority List item 1 (Calibration Concern 1: the premise-sharing discount is P-D1, not P-D2; `mirth-void` had no reciprocal link)
+- **Word count**: 2691 → 2716 (+25) against the topics hard limit of 4000 (gate `>=`; headroom now 1283)
+- **Changes**: (a) L83 register cite `|P-D2]]` → `|P-D1]]` (P-D1 = "The anti-physicalist arguments are premise-sharing, not evidentially independent", anchor `^p-d1` confirmed in `positions/arguments-for-dualism.md` L45; matches the `aesthetic-testimony` sibling's cite for the same point; prose and the 2026-09-01 deep review's "deliberately partial" corroboration note untouched); (b) L63 piped link `[[mirth-void#The Dissection Gap|explaining the joke]]` on the existing quoted words (0 words; heading at `voids/mirth-void.md` L54); (c) Further Reading gains `[[mirth-void]]` as the access sibling. Each OLD string matched exactly once. `voids/mirth-void` not edited (headroom 14)
+- **ai_system**: claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1
+- **Published**: yes
 
 ## 14:55 - deep-review
 - **Status**: Success

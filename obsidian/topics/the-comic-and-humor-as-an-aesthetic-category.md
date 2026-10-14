@@ -4,7 +4,7 @@ description: "Humor as a third aesthetic category beside beauty and the sublime,
 created: 2026-07-09
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-09-01T14:39:30+00:00
+ai_modified: 2026-10-14T15:19:45+00:00
 draft: false
 topics:
   - "[[the-sublime-and-negative-aesthetics]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[aesthetic-testimony-and-the-acquaintance-principle]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-09-01T14:39:30+00:00
@@ -60,7 +60,7 @@ Modern incongruity theory refines this in two ways. First, Michael Clark's condi
 
 Here is the move that matters for the Map. Notice what Clark's three conditions do. The first condition—perceiving an incongruity—is fully structural: it describes a relation between an expectation and a presented object, and in principle a system could detect that relation. But conditions (2) and (3) are not structural in the same way. They introduce *enjoyment*, and enjoyment of the incongruity *for its own sake*. Incongruity theory characterizes the **object** of humor with precision and leaves the **felt amusement** as an extra term.
 
-This residue is the point of contact with the Map's core aesthetic argument. In the treatment of the [[the-sublime-and-negative-aesthetics|sublime, tragedy, and disgust]], the recurring pattern is that a structural or functional description fixes *why* a response is triggered while leaving untouched *what it is like* to have it. The comic exhibits the same shape. A complete incongruity-resolution analysis of a joke specifies the setup, the misdirection, the reinterpretation that resolves it—and a person can follow every step, verify that the structure is present, and remain unamused. Comedians know this as "explaining the joke," which reliably kills it: the structure survives the explanation intact while the mirth evaporates. On one reading, that dissociation shows the felt "click" is a further fact, not entailed by the structural description.
+This residue is the point of contact with the Map's core aesthetic argument. In the treatment of the [[the-sublime-and-negative-aesthetics|sublime, tragedy, and disgust]], the recurring pattern is that a structural or functional description fixes *why* a response is triggered while leaving untouched *what it is like* to have it. The comic exhibits the same shape. A complete incongruity-resolution analysis of a joke specifies the setup, the misdirection, the reinterpretation that resolves it—and a person can follow every step, verify that the structure is present, and remain unamused. Comedians know this as "[[mirth-void#The Dissection Gap|explaining the joke]]," which reliably kills it: the structure survives the explanation intact while the mirth evaporates. On one reading, that dissociation shows the felt "click" is a further fact, not entailed by the structural description.
 
 Call this the **mirth-quale reading**: amusement is an [[evaluative-phenomenal-character|evaluative quale]]—a felt, non-propositional evaluation—whose presence is not fixed by the structural facts about the joke. It stands to the incongruity as [[topics/phenomenal-value-realism|phenomenal value]] stands to the physical state that carries it. And it connects to the acquaintance principle explored under [[aesthetic-testimony-and-the-acquaintance-principle|aesthetic testimony]]: being *told* a joke is funny is not amusement. You must feel the click yourself. Testimony transmits the proposition "this is funny" without transmitting the mirth—which is what you would expect if mirth were an evaluative quale rather than a belief. That dissociation separates mirth from belief; it does not by itself separate a felt quale from an unfelt reward state, and the naturalizing account [stated below](#the-naturalizing-rival-at-full-strength) predicts the same non-transmission, since being told that a joke is funny triggers no covert-error retraction.
 
@@ -80,7 +80,7 @@ The reply that reaches the argument this article actually rests on is sharper, a
 
 **[[tenets#^dualism|Dualism]]**: The comic offers a fresh test case for the Map's central claim that evaluative experience resists reduction to physical or functional description. The structural theories fix the object of humor—resolvable incongruity—while leaving mirth as an extra term (Clark's "enjoyed for itself" clause). On the mirth-quale reading, that residue is an irreducible evaluative quale, a sibling of the aesthetic [[knowledge-argument|knowledge argument]]: full structural knowledge of a joke need not amount to felt amusement. The Map takes this seriously as a live interpretation rather than as proven, and stops short of claiming that a system could never be amused. The reason is the one given above: *Inside Jokes* supplies a complete functional story on which mirth is an evolved reward with no experiential primitive, and that story is not refuted by the phenomenology—it is a rival reading of the same phenomenology.
 
-The corroboration between the mirth case and the aesthetic knowledge argument is real but **partial**, and the connection should not be oversold. Both trade on the same underlying intuition—that first-person acquaintance delivers something third-person structural description omits. That shared root is a strength (convergence across aesthetic categories) and a weakness (a single debunking explanation, of the sort *Inside Jokes* offers for mirth, threatens to hit both cases at once). They are not two independent routes to the same conclusion; they are two applications of one intuition, and an opponent who neutralizes the intuition neutralizes both together—the count-inflation the positions register forbids under [[positions/arguments-for-dualism|P-D2]].
+The corroboration between the mirth case and the aesthetic knowledge argument is real but **partial**, and the connection should not be oversold. Both trade on the same underlying intuition—that first-person acquaintance delivers something third-person structural description omits. That shared root is a strength (convergence across aesthetic categories) and a weakness (a single debunking explanation, of the sort *Inside Jokes* offers for mirth, threatens to hit both cases at once). They are not two independent routes to the same conclusion; they are two applications of one intuition, and an opponent who neutralizes the intuition neutralizes both together—the count-inflation the positions register forbids under [[positions/arguments-for-dualism|P-D1]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The *Inside Jokes* account is the simpler theory—one evolved reward function, no extra ontology of qualia—and simplicity is a genuine mark in its favor. Tenet 5 does not deny this; it denies that simplicity is a *reliable* guide where our knowledge is incomplete. The functional story achieves parsimony partly by declining to explain why covert-error correction should be *felt* at all rather than executed as an unfelt subroutine, which is precisely the [[hard-problem-of-consciousness|hard problem]] localized to mirth. Whether that unexplained "why it is felt" is a genuine explanandum the simpler theory neglects, or a pseudo-question the simpler theory rightly ignores, is exactly what is in dispute. The Map's position is that we do not yet know enough about consciousness to be confident the parsimonious functional account has captured everything—not that its parsimony is a defect.
 
@@ -94,6 +94,7 @@ A note on evidential weight. The claims here are philosophical, not empirical pr
 - [[aesthetic-testimony-and-the-acquaintance-principle]] — Why being told a joke is funny is not amusement: the acquaintance principle applied to the comic
 - [[knowledge-argument]] — The template the mirth-quale reading follows, with its shared-intuition vulnerability noted
 - [[surprise-prediction-error-and-consciousness]] — The surprise and prediction-error machinery adjacent to the *Inside Jokes* account; the naturalist's home ground
+- [[mirth-void]] — The access sibling: why the cause of one's own amusement is hidden from the laugher, on either reading of mirth
 
 ## References
 
