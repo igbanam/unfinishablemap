@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-29
-ai_modified: 2026-10-12 14:56:43+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-10-14 17:25:02+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
@@ -13,7 +13,7 @@ description: 'Relocated calibration audit trail for the quantum-interface positi
 draft: false
 human_modified: 2026-07-29
 last_curated: null
-lastmod: 2026-10-12 14:56:43+00:00
+lastmod: 2026-10-14 17:25:02+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -48,6 +48,7 @@ The default reading of MQI preserves Born statistics exactly.
 
 - **Updated 2026-07-16**: calibration migration (outer-review conflation finding, ChatGPT + Claude). The old single "high" band decomposes to *high structural centrality* (the corridor reading is load-bearing for [P-Q3](/positions/quantum-interface/#p-q3)/[P-Q7](/positions/quantum-interface/#p-q7)/[P-Q9](/positions/quantum-interface/#p-q9)) but *Grade-D external evidence* and *framework-internal: yes* — the Asserts already stated this is "structural to the default reading, not an empirical claim about neural systems," which the single band obscured. No change to the claim; the "high" was never high external likelihood.
 - **Updated 2026-07-25**: surfaced the not-yet-refereed status of the Torres Alegre 2025 no-signalling citation in Depends-on (pessimistic-2026-07-25, Issue 2), matching the caveat the source articles already carry ([causal-consistency-constraint](/concepts/causal-consistency-constraint/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) and flagging it as a compatibility result rather than positive support. No change to the claim.
+- **Updated 2026-10-14**: the Asserts now names the grain of preservation — outcome frequencies Born-exact in every publicly conditionable context, only conditionals on the conscious state itself free — the reading [selection-only-channel](/concepts/selection-only-channel/) and [agency-budget](/concepts/agency-budget/) state and the one [P-Q7](/positions/quantum-interface/#p-q7)'s by-construction single-system no-signalling safety requires, since pooled-histogram preservation licenses signalling ([deep-review-2026-09-11-selection-only-channel](/reviews/deep-review-2026-09-11-selection-only-channel/), cases 1–3); on it a deviation conditioned on a public label (task, subject, recorded intention) is the minimum-outside-the-corridor fallback this entry's shift condition names, not a corridor prediction. Prompted by the selectability trilemma of [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/); [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) attributes the pooled long-run-marginal reading to the register instead and owes a wording fix. No confidence change.
 
 ## [P-Q3](/positions/quantum-interface/#p-q3)
 

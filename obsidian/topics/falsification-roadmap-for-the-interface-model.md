@@ -40,7 +40,7 @@ related_articles:
   - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-04-09
 last_curated:
 last_deep_review: 2026-07-19T11:58:00+00:00

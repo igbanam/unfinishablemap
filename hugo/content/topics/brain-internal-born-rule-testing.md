@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-05-14
 ai_modified: 2026-10-14 17:07:11+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[selection-only-channel]]'

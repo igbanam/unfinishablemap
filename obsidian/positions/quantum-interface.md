@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-10-12T14:56:43+00:00
+ai_modified: 2026-10-14T17:25:02+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -27,7 +27,7 @@ related_articles:
 
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-06-04
 last_curated: 2026-06-04
 ---
@@ -65,12 +65,12 @@ These positions cover what the Map currently holds about the mechanism by which 
 
 - **Status**: live ^p-q2
 - **Calibration**: credence high · external-evidence grade D · structural centrality high · model maturity developed · empirical discriminability none-by-construction · framework-internal only: yes
-- **Asserts**: In the Map's default reading of Minimal Quantum Interaction, conscious selection acts within a corridor whose outputs are per-trial indistinguishable from unbiased Born statistics. The interaction biases *which* outcome becomes actual within a given trial, but the aggregate distribution over many trials matches what standard quantum mechanics predicts. This is structural to the default reading, not an empirical claim about neural systems.
-- **Depends on**: Tenet 2; [[concepts/causal-consistency-constraint]]; the no-signalling argument (Torres Alegre 2025, arXiv:2512.12636 — an arXiv preprint, not yet peer-reviewed; a compatibility result, not positive support)
+- **Asserts**: In the Map's default reading of Minimal Quantum Interaction, conscious selection acts within a corridor whose outputs are per-trial indistinguishable from unbiased Born statistics. The interaction biases *which* outcome becomes actual, but outcome frequencies stay Born-exact in every publicly conditionable context; only conditionals on the conscious state itself are free. This is structural to the default reading, not an empirical claim about neural systems.
+- **Depends on**: Tenet 2; [[concepts/causal-consistency-constraint]]; the no-signalling argument (Torres Alegre 2025, arXiv:2512.12636, unrefereed; a compatibility result, not positive support)
 - **Argued in**: [[topics/born-rule-and-the-consciousness-interface]], [[concepts/causal-consistency-constraint]], [[apex/phenomenology-mechanism-bridge]]
 - **Would shift if**: an alternative MQI reading is shown to be both physically permissible and required for genuine agency (the "minimum-outside-the-corridor" branch the Map currently leaves open as a fall-back); or the corridor reading is shown to be incompatible with the kind of *selection* the Bidirectional Interaction tenet requires.
-- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q2|notes of 2026-07-16 and 2026-07-25]] — the multi-axis migration and the surfacing of Torres Alegre 2025 as an unrefereed compatibility result. Neither changed the claim.
-- **Last reviewed**: 2026-07-25
+- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q2|notes of 2026-07-16, 2026-07-25 and 2026-10-14]] — the multi-axis migration, Torres Alegre 2025 surfaced as an unrefereed compatibility result, and the preservation grain made explicit. None moved a band.
+- **Last reviewed**: 2026-10-14
 
 ## P-Q3: The bias-without-deviation dilemma is the strongest live challenge to the default mechanism
 

@@ -40,7 +40,7 @@ related_articles:
   - "[[sorkin-delta-brain-internal-analogues]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-05-14
 last_curated:
 last_deep_review: 2026-07-25T15:03:20+00:00
