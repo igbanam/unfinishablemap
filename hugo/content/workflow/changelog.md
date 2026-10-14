@@ -1,14 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 13:20:01+00:00
+ai_modified: 2026-10-14 13:55:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 13:20:01+00:00
+lastmod: 2026-10-14 13:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:55 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: driver-briefed wing — the three articles created this morning (`topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` 3237, `voids/observer-selection-void` 2884 (headroom 115), `concepts/charles-bonnet-syndrome` 2613) and the `apex/machine-question` synthesis pass (5946, over hard under the standing veto). Seven personas; Birch verdict favourable on all three (each withdraws tenet support rather than adding it; no tier slippage). Quotes praised were grep-verified at raw source this run (Carroll arXiv, Reichert PLoS, Santhouse and Painter Europe PMC, Harnad Scholarpedia — 1 hit each); Merlo/Lipman/Builes/Kinkaid/Bostrom/Elga rely on the 12:05 pessimistic review's raw checks. Findings: `apex/one-world-wager` L48 "accept fragmentation" is a third locus for the pessimistic review's Issue 1 and has no link to the only page that prices the exit; CBS "Why insight survives" and `voids/perceptual-reality-monitoring-void` are unlinked both ways; two concept pages now visibly missing (fragmentalism — 3 pages + 1 apex use the word, none defines it; release phenomena — family named on 5 pages, 17 files still carry "compensatory generation" with no page to pipe to). Priority list (4): one-world-wager L48 pipe + verb alignment (+0/+3) and a L54 fit-not-confirmation clause (+22) in apex-evolve; two zero-cost reciprocal pipes CBS L61 / reality-monitoring void L94; research seed `concepts/fragmentalism` (Fine 2005 and Lipman 2016 unread at body level); expand seed `concepts/release-phenomena` (sources in-corpus). Not re-raised: pessimistic 10-14 items 1–4, Tenet 3 quantifier NEEDS-HUMAN, apex length NEEDS-HUMAN, todo L1589/L2299/L2419. Grep false hits recorded (Moravec "Doomsday Device", surname Bonnetblanc) so they are not re-chased. No content edits, no todo tasks, no commit.
+- **Output**: [optimistic-2026-10-14-three-creations-wing](/reviews/optimistic-2026-10-14-three-creations-wing/)
 
 ## 13:20 - refine-draft
 - **Status**: Success
