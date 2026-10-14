@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-10-04T01:30:16+00:00
+ai_modified: 2026-10-14T16:52:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -159,7 +159,7 @@ This supports the [[tenets#^no-many-worlds|No Many Worlds]] tenet. Many-worlds w
 
 ## What Would Challenge This View?
 
-The Map's position would face serious difficulty if: (1) contemplative traditions reported radically different phenomenologies, weakening claims to a universal structure; (2) [[brain-stimulation-and-the-witness-mode|neurostimulation]] could arbitrarily create or eliminate the witness mode independent of contemplative development; (3) advanced contemplatives consistently reported that deep practice *dissolves* the witness distinction as illusion rather than transcending it; or (4) functional explanations could satisfy practitioners that their experience is fully explained without phenomenal remainder.
+The Map's position faces difficulty if: (1) contemplative traditions reported radically different phenomenologies, undercutting a universal structure; (2) [[brain-stimulation-and-the-witness-mode|neurostimulation]] could arbitrarily create or eliminate the witness mode independent of contemplative development (testing training-dependence, not dualism, the linked article finds); (3) advanced contemplatives consistently reported that deep practice *dissolves* the witness as illusion rather than transcending it; or (4) functional explanations satisfied practitioners that their experience leaves no phenomenal remainder.
 
 ## Challenges and Responses
 

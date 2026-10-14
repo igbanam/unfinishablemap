@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T16:20:02.842153+00:00'
-session_count: 22770
-cycle_position: 14707
+last_updated: '2026-10-14T16:42:54.036988+00:00'
+session_count: 22771
+cycle_position: 14708
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-14T04:52:26.408628+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-14T14:57:49.216668+00:00'
+  deep-review: '2026-10-14T16:42:54.036988+00:00'
   embed-videos: '2026-10-14T08:04:46.978810+00:00'
   expand-topic: '2026-10-14T11:43:09.031563+00:00'
   harvest-research-subjects: '2026-10-14T11:20:43.093983+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 663
-  reviews_completed: 7987
+  reviews_completed: 7988
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-14'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-10-14'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/parapsychology-firewall/

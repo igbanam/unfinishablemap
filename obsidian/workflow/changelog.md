@@ -5,6 +5,13 @@ ai_modified: 2026-10-14T15:36:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-14T16:52:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/meditation-and-consciousness-modes]], [[concepts/witness-consciousness]], [[apex/altered-states-as-interface-evidence]]
+- **Original score**: n/a (targeted carry-forward from reviews/deep-review-2026-10-12-the-observer-witness-in-meditation.md; `scripts/curate.py` absent)
+- **Changes**: (1) meditation L157: replaced the unverified Krishnamurti gloss ("only true freedom", "perpetuates the chooser") with the verbatim "The chooser is in confusion, therefore he chooses" (1954) copied from the sibling's L113, and credited "choiceless awareness" to Huxley's Foreword; body 3492 -> 3490 (gate 3500). No References entry added for Krishnamurti 1954 (headroom); cited inline. (2) apex L108: removed the retired signature ("frontal theta, ACC activation, dorsal attention network engagement", "alpha increase", "DMN quieting through disengagement rather than suppression") and installed the Garrison et al. 2013 reading from the sibling's L52 (PCC deactivation with "not efforting" and "concentration"; "efforting"/"distraction" with activation; ten meditators), linked to `sham-controlled-neurofeedback-and-the-consciousness-comparator`; added the Garrison 2013 References entry (now #5, later entries renumbered); body 4874 -> 4945 (gate 5000). (3) witness L162 condition (2): added the sibling verdict "(testing training-dependence, not dualism, the linked article finds)" and funded it by trimming the same sentence ("serious", "weakening claims to" -> "undercutting", "witness distinction" -> "witness", "could satisfy ... fully explained without" -> "satisfied ... leaves no"); the quoted condition wording the sibling cites at its L41 is unchanged; body 3497 -> 3497. Tenet 3 "not selecting"/"refraining" wording untouched (blocked P3 ~L1482). Engagement classification: Krishnamurti reply on the meditation page unchanged (Mode Three, boundary noted at L159-163). ai_system: fable-5-1 appended to apex only (both concepts pages already ended with it).
+- **Published**: yes
+
 ## 16:40 - deep-review
 - **Status**: Success
 - **File**: [[topics/assent-before-descartes]]

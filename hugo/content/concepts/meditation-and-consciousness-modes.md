@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-07 20:20:46+00:00
+ai_modified: 2026-10-14 16:52:33+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 19:35:30+00:00
-lastmod: 2026-10-07 20:20:46+00:00
+lastmod: 2026-10-14 16:52:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The zombie reformulation locates the disagreement rather than settling it. A zom
 
 ## The Krishnamurti Challenge
 
-Jiddu Krishnamurti posed the sharpest version of the challenge: "choiceless awareness" is the only true freedom, and any technique—meditation methods included—perpetuates the chooser and thus bondage. If choicelessness is fundamental, doesn't the Map's emphasis on selection miss something?
+Jiddu Krishnamurti posed the sharpest challenge: "The chooser is in confusion, therefore he chooses" (1954); the alternative, in Huxley's Foreword phrase, is "choiceless awareness". If choicelessness is fundamental, doesn't the Map's emphasis on selection miss something?
 
 Two responses:
 

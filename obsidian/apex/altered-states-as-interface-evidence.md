@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-10-11T03:39:43+00:00
+ai_modified: 2026-10-14T16:52:33+00:00
 draft: false
 description: "From psychedelics to terminal lucidity, six altered states dissociate consciousness into separable components—one pattern that constrains the structure of consciousness-brain coupling without deciding between filter and production readings."
 topics:
@@ -41,7 +41,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-16
 last_curated: null
 last_deep_review: 2026-07-19T10:52:48+00:00
@@ -105,7 +105,7 @@ Lacaux et al. (2021) found participants who accumulated at least fifteen seconds
 
 ### Meditation: Voluntary Interface Modulation
 
-Where other altered states impose interface changes from outside—pharmacology, sleep pressure, brain injury—[[meditation-and-consciousness-modes|meditation]] demonstrates that consciousness can reconfigure its own interface from within. Focused attention meditation (FA) strengthens the selection mechanism through sustained attentional control—frontal theta, ACC activation, dorsal attention network engagement. Open monitoring meditation (OM) cultivates the opposite: passive witnessing, with PCC deactivation, alpha increase, and DMN quieting through disengagement rather than suppression. That consciousness can operate in both answers the Advaita challenge of how a selector can also be a non-interfering witness: these are *modes* of interfacing rather than a single fixed relationship to neural activity.
+Where other altered states impose interface changes from outside—pharmacology, sleep pressure, brain injury—[[meditation-and-consciousness-modes|meditation]] demonstrates that consciousness can reconfigure its own interface from within. Focused attention meditation (FA) strengthens the selection mechanism through sustained attentional control; open monitoring meditation (OM) cultivates the opposite, passive witnessing. The neural evidence is thinner than a two-signature story would suggest. In Garrison et al.'s (2013) [[sham-controlled-neurofeedback-and-the-consciousness-comparator|neurofeedback study]] of ten experienced meditators, posterior cingulate cortex (PCC) deactivation accompanied reports of "not efforting" and also of "concentration", while "efforting" and "distraction" accompanied PCC activation: the measure tracks effort and distraction, and in these adepts focused concentration fell on the effortless side. That consciousness can operate in both modes answers the Advaita challenge of how a selector can also be a non-interfering witness: these are *modes* of interfacing rather than a single fixed relationship to neural activity.
 
 The voluntariness is the critical datum. If the brain produced consciousness, consciousness reconfiguring its own neural substrate looks circular—the output altering the machinery that generates it. Under filter theory no circularity arises: consciousness operates the interface from its own side, adjusting which channels are engaged and how tightly. Advanced meditators describing "effortless awareness" have trained the interface to a configuration requiring minimal intervention—[[meditation-and-consciousness-modes#Effortless Awareness After Effortful Training|effort first, then a trained brain needing less correction]]—and the resulting [[witness-consciousness]] observes mental contents without identifying with them. Kral et al. (2022) found no structural brain change in a well-controlled 218-participant study, though the functional signatures of different attention modes survive scrutiny: the reconfiguration is functional, not anatomical.
 
@@ -216,21 +216,22 @@ This synthesis draws on:
 2. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 3. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 4. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
-5. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
-6. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
-7. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
-8. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
-9. Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews*, 128, 199-217. https://doi.org/10.1016/j.neubiorev.2021.06.021
-10. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87.
-11. Löwe, A. T., Petzka, M., Tzegka, M. M., & Schuck, N. W. (2025). N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task. *PLOS Biology*, 23(6), e3003185. https://doi.org/10.1371/journal.pbio.3003185
-12. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
-13. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
-14. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
-15. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
-16. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
-17. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-809.
-18. Siegel, J. S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632(8023), 131-138.
-19. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
-20. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
-21. Tollock, M., Leontovich, N., Gonzalez, A., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Supplement_2), igaf122.2914. https://doi.org/10.1093/geroni/igaf122.2914
-22. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
+5. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440.
+6. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
+7. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
+8. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
+9. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
+10. Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews*, 128, 199-217. https://doi.org/10.1016/j.neubiorev.2021.06.021
+11. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61-87.
+12. Löwe, A. T., Petzka, M., Tzegka, M. M., & Schuck, N. W. (2025). N2 sleep promotes the occurrence of 'aha' moments in a perceptual insight task. *PLOS Biology*, 23(6), e3003185. https://doi.org/10.1371/journal.pbio.3003185
+13. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
+14. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
+15. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
+16. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
+17. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
+18. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-809.
+19. Siegel, J. S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632(8023), 131-138.
+20. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
+21. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
+22. Tollock, M., Leontovich, N., Gonzalez, A., & Parnia, S. (2025). A multi-site prospective study of paradoxical lucidity in moderate to severe dementia. *Innovation in Aging*, 9(Supplement_2), igaf122.2914. https://doi.org/10.1093/geroni/igaf122.2914
+23. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.

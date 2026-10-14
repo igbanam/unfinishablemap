@@ -4,7 +4,7 @@ description: "Active selection and passive witnessing as two consciousness modes
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-07T20:20:46+00:00
+ai_modified: 2026-10-14T16:52:33+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -154,7 +154,7 @@ The zombie reformulation locates the disagreement rather than settling it. A zom
 
 ## The Krishnamurti Challenge
 
-Jiddu Krishnamurti posed the sharpest version of the challenge: "choiceless awareness" is the only true freedom, and any technique—meditation methods included—perpetuates the chooser and thus bondage. If choicelessness is fundamental, doesn't the Map's emphasis on selection miss something?
+Jiddu Krishnamurti posed the sharpest challenge: "The chooser is in confusion, therefore he chooses" (1954); the alternative, in Huxley's Foreword phrase, is "choiceless awareness". If choicelessness is fundamental, doesn't the Map's emphasis on selection miss something?
 
 Two responses:
 
