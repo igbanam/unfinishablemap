@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T19:50:27+00:00
+ai_modified: 2026-10-14T20:05:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-14T20:05:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
+- **Task**: P2 todo line 2385; review file `reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing.md`, Priority items 2 (Issue 3, this article's L70 locus only) and 4 (Issue 5, L58/L60). Sibling loci in `concepts/source-versus-leeway-incompatibilism` and `topics/event-causal-libertarianism` not touched (not in this task).
+- **Original score**: n/a (`scripts/curate.py` absent; review-driven targeted fixes)
+- **Abstract check**: both re-fetched from OpenAlex by DOI before editing. Mickelson (Demetriou) 2010 (10.1080/00048400903382691): resilience is "the ill-gotten gain from an ambiguity in the description of the causal relations found in the argument's foundational case"; "every metaphysically coherent interpretation invites either a hard- or soft-line reply"; all viable interpretations involve "a type of manipulation which undermines the victim's agency"; "the suppressive variety of manipulation" offers no threat to compatibilism. Nothing about a designing agent or a 3→4 seam. Jeppsson (10.1007/s11098-019-01292-2; OpenAlex year 2019 = online-first, issue 177(7) is 2020 as the References state): "fully fleshed-out manipulated characters in fiction can seem morally responsible"; "we identify with such characters, and therefore focus on their options and the reasons for which they act rather than the manipulation"; "we ought to focus this way when interacting with other agents"; "no reason to trust the incompatibilist intuitions that arise when we regard manipulated agents from a much more detached perspective". An epistemic claim about which intuitions to trust, not a grounding thesis.
+- **Changes** (each old string matched exactly once; review's replacement texts used verbatim):
+  - L70 (item 2): Pereboom's two strands split. The "no positive scientific reason" strand is the parsimony judgement Tenet 5 governs (declined as decisive, with the symmetric no-support concession kept); the wild-coincidences strand is marked as a likelihood argument Tenet 5 does not touch, with the Map's Born-preserving design on that horn and the L68 cost staying undischarged. Silent widening of Tenet 5 to "antecedent plausibility" removed. Closing verdict sentences ("The honest position…", "The Map places its bet…") unchanged.
+  - L58 (item 4): Mickelson now locates the defect in an ambiguity in Case 1 whose every coherent resolution involves suppressive, agency-undermining manipulation; the "designing agent / bypassing development" gloss and the "usually at the 3→4 transition" claim are gone, and a closing sentence notes her diagnosis targets the foundational case for every viable version, so Pereboom's tune-the-cases rejoinder no longer reads as answering her.
+  - L60 (item 4): Jeppsson's reply recast as a claim about which intuitions to trust (engaged identification with fleshed-out fictional manipulated agents versus the detached stance that yields the incompatibilist intuition), not about what grounds responsibility.
+- **Reasoning mode** (editor-internal): engagement with Pereboom on agent causation now Mixed — Mode Three on the parsimony strand (Tenet 5 boundary-marking, verdict unchanged), Mode Three with an explicit open cost on the coincidences strand (no in-framework answer claimed). Previously the L70 passage re-described the coincidences strand as parsimony so that a Map commitment appeared to apply. The 07-09/07-19 deep-review fences (reply not decisive; Pereboom rejects the luck reading from outside) kept.
+- **Tenet 3**: no sentence touched implies Tenet 3 entails sourcehood; L64/L66 wording left as is (outcome-selection only, consistent with `concepts/agent-causation` L61, `tenets.md` L57, and the sibling consequence article fixed 19:50 today).
+- **Word count**: `analyze_length` 2,437 → 2,507 (+70; topics hard 4,000, gate `>=`, headroom 1,492). Matches the review's joint estimate exactly.
+- **Frontmatter**: `ai_modified` 2026-10-14T20:05:02+00:00; `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1.
+- **Housekeeping**: no "This is not X. It is Y."; no "load-bearing"; "parsimony-and-plausibility", "the involvement of a designing agent", "usually at the 3→4 transition", "seam at 3→4" all at zero.
+- **Published**: yes
 
 ## 2026-10-14T19:50:27+00:00 - refine-draft
 - **Status**: Success
