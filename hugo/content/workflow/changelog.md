@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 07:49:30+00:00
+ai_modified: 2026-10-14 08:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 07:49:30+00:00
+lastmod: 2026-10-14 08:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:45 - research-voids
+- **Status**: Success
+- **Topic**: The Self-Prediction Void — a mind cannot forecast its own forthcoming decision without the forecast entering the decision
+- **Category**: Mixed (formal face Unexplorable; deliberative face Occluded; empirical face Unexplored)
+- **Output**: [voids-self-prediction-void-2026-10-14](/research/voids-self-prediction-void-2026-10-14/)
+- **Key finding**: The paradox-of-predictability literature (Scriven 1965, MacKay 1960, Lewis & Richardson 1966, Rummens & Cuypers 2010, Ismael 2016, Lloyd 2012, Wolpert 2008, Gijsbers 2021, Rummens 2022) is absent from the voids wing; every result in it is explicitly determinism-compatible, so the void sits at the tenets' decision site yet lends Minimal Quantum Interaction nothing — the article must lead with that.
+- **Capacity**: `voids/` 112/125 via `count_section_files`; two voids notes (grammar, observer-selection) already queued ahead in `pending_articles`. Entry appended.
+- **Selection**: 25 candidate territories grep-tested against `voids/` and 216 banked `research/voids-*` notes; self-deception (7 voids articles), mind-blanking (`mutation-void`), hindsight/curse-of-knowledge (`conceptual-metabolism-void`) and imaginative resistance (`topics/`) rejected as covered. "logical indeterminacy" corpus hits were substring matches on "ontological indeterminacy"; Wolpert hits in voids are Daniel (motor control), not David.
+- **Sources read in full**: Gijsbers 2021 (OA PDF), Lewis & Richardson 1966 (PDF), Ismael TLS essay (PDF), Lloyd abstract, Hoefer's NDPR review; Crossref-verified metadata for 9 further items. Primary texts of Scriven, MacKay, Rummens & Cuypers, Levi, Velleman, Wolpert NOT read (403s) — note flags every reported quote as such.
 
 ## 07:49 - refine-draft
 - **Status**: Success
