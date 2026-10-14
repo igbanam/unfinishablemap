@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T20:30:00+00:00
+ai_modified: 2026-10-14T20:38:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:38 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/source-versus-leeway-incompatibilism]]; secondary [[topics/event-causal-libertarianism]]; rider [[concepts/compatibilism]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven fix)
+- **Review**: `reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing.md`, Priority items 2 and 3 plus off-list Issue 7
+- **Changes**: (1) source-vs-leeway L82 and ECL L88: Tenet 3 now *motivates* sourcehood / the agent-causal wing without entailing it — the tenet commits only to outcome-selection, which a conscious contribution fixed by prior mental states would also satisfy; origination is the Map's further agent-causal step (`where-the-substance-commitment-enters`), wording aligned with the 19:50 fix to `the-consequence-argument-for-incompatibilism` L91. (2) source-vs-leeway L82 and ECL L90: Pereboom's objections re-classified — the luck objection is conceptual and aimed at event-causal sourcehood (the Map presses it itself at ECL L84), the "no positive reason to posit agent causation" strand is the parsimony judgement Tenet 5 governs, and the wild-coincidences argument is a likelihood argument Tenet 5 does not answer; the verdict (the Map's reply is not decisive, symmetric no-support concession) is kept. (3) source-vs-leeway L58: Timpe no longer credited with naming the source/leeway distinction. Verified at raw in Timpe 2007 (*APQ* 44(2): 143–155, PDF on Timpe's site, 13 pp.): "the widely accepted taxonomy"; Pereboom block-quoted for the leeway/source labels with note 3 = "Pereboom 2003: p. 186"; "Through a series of papers beginning in 2001, Michael McKenna has cemented the term 'Source Incompatibilism' into the current taxonomy of positions". Added references Timpe 2007 and Pereboom 2003 (chapter in Widerker & McKenna eds., Ashgate; page range omitted because Timpe's bibliography says 184–199, the Routledge reissue's Crossref record 185–199, and the review's SEP reading 185–200). (4) `concepts/compatibilism` L101 rider: "is what makes the ability-to-do-otherwise *categorical* rather than conditional" → "is what could make … *categorical*, not conditional" (net-zero). Removed "plausibility-and-parsimony" and "non-negotiable" from both hosts.
+- **Reasoning-mode (editor-internal)**: engagement with Pereboom: Mixed — luck objection pressed in-framework against event-causal libertarianism (Mode One); parsimony strand marked as framework-boundary via Tenet 5 (Mode Three); wild-coincidences strand left open and conceded, no refutation claimed.
+- **Length**: source-vs-leeway 1,972 → 2,096 (concepts hard 3,500); ECL 2,528 → 2,581 (topics hard 4,000); compatibilism 2,499 → 2,499 (concepts hard 3,500).
+- **Report-only, not edited**: `voids/assent-void` L65 describes Ginet's juror as "in deciding to vote for acquittal, decides to believe a witness"; SEP "Doxastic Voluntarism" reports "a juror who decides to believe a defendant is guilty, a poker player who decides to believe her opponent is bluffing, and a person 50 miles into their road trip who decides to believe they locked the front door (2001: 64)". Ginet's chapter not in hand; left for the condense-first human decision.
+- **Published**: yes
 
 ## 20:30 - pessimistic-review
 - **Status**: Success

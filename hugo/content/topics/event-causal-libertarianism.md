@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-08-19 19:11:16+00:00
-ai_system: claude-opus-4-8+claude-fable-5
+ai_modified: 2026-10-14 20:38:46+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-19 19:11:16+00:00
-lastmod: 2026-08-19 19:11:16+00:00
+lastmod: 2026-10-14 20:38:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,9 +88,9 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 
 **Tenet 1 (Dualism)** enters at the agent-causal level, not at the taxonomy. As [agent-causation](/concepts/agent-causation/) records, the [Dualism tenet](/tenets/#dualism) is itself neutral between substance and property dualism; the substance-leaning that agent-causation needs is a commitment of the Map's framework, and a reader who accepts the tenet but rejects substance-bearing agents parts company at the agent-causal step. The event-causal wing is, from the Map's side, what dualism-neutral libertarianism looks like when it declines that step.
 
-**Tenet 3 (Bidirectional Interaction)** is why the Map cannot settle for the event-causal or non-causal wings. If consciousness makes a real causal difference to the physical world, the agent must be the *origin* of that difference. Non-causal libertarianism, by denying that the agent causes the action, gives the Map no causal purchase at all; event-causal libertarianism supplies causation but, on the Map's reading, leaves the crucial outcome unsettled by the agent. The Map's [quantum interface](/concepts/quantum-indeterminacy-free-will/) is the concrete proposal for *where and how* an agent-cause makes contact with the physical: a conscious selection at the interface is the agent's own settling of an otherwise-undetermined outcome, which is precisely the settling the disappearing-agent objection finds missing in the event-causal picture. This gives the Map a candidate answer to the intelligibility objection too—it says where substance causation touches physics—though that answer is a hypothesis, not a proof.
+**Tenet 3 (Bidirectional Interaction)** is why the Map prefers the agent-causal wing, though the tenet alone does not exclude the event-causal one: it commits only to outcome-selection, which a conscious contribution fixed by prior mental states would also satisfy. Reading that selection as the agent *originating* the difference is the Map's further, agent-causal step ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). Non-causal libertarianism, by denying that the agent causes the action, gives the Map no causal purchase at all; event-causal libertarianism supplies causation but, on the Map's reading, leaves the crucial outcome unsettled by the agent. The Map's [quantum interface](/concepts/quantum-indeterminacy-free-will/) is the concrete proposal for *where and how* an agent-cause makes contact with the physical: a conscious selection at the interface is the agent's own settling of an otherwise-undetermined outcome, which is precisely the settling the disappearing-agent objection finds missing in the event-causal picture. This gives the Map a candidate answer to the intelligibility objection too—it says where substance causation touches physics—though that answer is a hypothesis, not a proof.
 
-**Tenet 5 (Occam's Razor Has Limits)** governs how the Map holds the position against Pereboom. The claim that indeterministic sourcehood is "mere luck" is a plausibility-and-parsimony judgement rather than a theorem; Tenet 5 lets the Map decline to treat it as decisive—while conceding, symmetrically, that declining buys the Map no positive support. The Map adopts the agent-causal reading on independent grounds (its coherence with the other tenets), and the taxonomy's role is to name its neighbours and rivals, not to establish that its condition is met.
+**Tenet 5 (Occam's Razor Has Limits)** governs how the Map holds the position against Pereboom. Tenet 5 is no answer to the luck objection itself, which the Map presses against the event-causal wing above. What it governs is Pereboom's further claim that we have no positive reason to posit agent causation, a parsimony judgement the Map can decline to treat as decisive—while conceding, symmetrically, that declining buys the Map no positive support. His [wild-coincidences argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) against agent causation is not a parsimony point and stays open. The Map adopts the agent-causal reading on independent grounds (its coherence with the other tenets), and the taxonomy's role is to name its neighbours and rivals, not to establish that its condition is met.
 
 ## Further Reading
 

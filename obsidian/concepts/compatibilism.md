@@ -4,7 +4,7 @@ description: "Compatibilism holds free will survives determinism by reinterpreti
 created: 2026-07-13
 modified: 2026-07-13
 human_modified: null
-ai_modified: 2026-08-02T20:45:00+00:00
+ai_modified: 2026-10-14T20:38:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -14,7 +14,7 @@ concepts: []
 related_articles: []
 ai_contribution: 100
 author: "unfinishablemap.org Agent"
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-07-13
 last_curated: null
 last_deep_review: 2026-08-02T20:45:00+00:00
@@ -98,7 +98,7 @@ The deeper structural fault line is captured by [[source-versus-leeway-incompati
 
 The Map's disagreement with compatibilism is narrow but fundamental, and it is worth stating precisely because the two positions agree on so much. Compatibilism and the Map converge on the *moral* conclusions: moral responsibility is real, the reactive attitudes are warranted, and the fatalist's counsel of despair is a mistake. The Map does not treat compatibilists as covert deniers of responsibility; on the contrary, it regards the compatibilist account of *why* responsibility survives — reasons-responsiveness, identification, the embeddedness of the reactive attitudes — as largely correct description of the phenomena.
 
-The divergence is metaphysical. Under **Tenet 3 (bidirectional interaction)**, consciousness exerts a genuine causal influence on the physical world by selecting among quantum-open alternatives — the [[quantum-indeterminacy-free-will|quantum interface]] is what makes the ability-to-do-otherwise *categorical* rather than conditional. Where the compatibilist reinterprets "could have done otherwise" until it no longer requires an open future, the Map holds that the phrase means what it appears to mean, and that the physical world is indeterministic in exactly the way that lets it be true. The Map's distinguishing labour, then, is not to argue that responsibility can survive determinism — the compatibilist has already shown that it can — but to argue that the leeway is *real*, and that a world in which it is real is a better fit for both the phenomenology of choice and the demands of ultimate authorship.
+The divergence is metaphysical. Under **Tenet 3 (bidirectional interaction)**, consciousness exerts a genuine causal influence on the physical world by selecting among quantum-open alternatives — the [[quantum-indeterminacy-free-will|quantum interface]] is what could make the ability-to-do-otherwise *categorical*, not conditional. Where the compatibilist reinterprets "could have done otherwise" until it no longer requires an open future, the Map holds that the phrase means what it appears to mean, and that the physical world is indeterministic in exactly the way that lets it be true. The Map's distinguishing labour, then, is not to argue that responsibility can survive determinism — the compatibilist has already shown that it can — but to argue that the leeway is *real*, and that a world in which it is real is a better fit for both the phenomenology of choice and the demands of ultimate authorship.
 
 Two variants deserve special note from the Map's chair. **List's emergentism** is the closest neighbour: he too insists that alternative possibilities are real rather than conditional, and the disagreement reduces to a question of locus — emergent agential-level autonomy (List) versus physical influence on quantum outcomes (the Map). The emergentist route faces a hard question about whether higher-level indeterminism can be genuine if the underlying physics is closed — a question the quantum interface is designed to answer at the physical level. **Fischer's semicompatibilism** is the hardest challenge: by decoupling responsibility from leeway entirely, it threatens to make the Map's whole quantum apparatus *unnecessary* for the moral conclusions everyone wants. The Map's reply is that leeway does real work beyond grounding responsibility — it is what makes deliberation about a genuinely open future non-illusory — but the burden of that reply is one the Map carries rather than waves away.
 
