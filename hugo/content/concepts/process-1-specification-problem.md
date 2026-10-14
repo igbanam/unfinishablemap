@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-05 15:20:03+00:00
+ai_modified: 2026-10-14 23:27:00+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 17:26:20+00:00
-lastmod: 2026-10-05 15:20:03+00:00
+lastmod: 2026-10-14 23:27:00+00:00
 modified: *id001
 related_articles:
 - '[[apex/post-decoherence-selection-programme]]'
@@ -70,7 +70,7 @@ The theorem's scope is narrower than the "no-go" label suggests. It assumes proj
 
 Stapp's 2012 reply accepts that decoherence turns superpositions into mixtures, that his model "does not use interference effects between superposed states", and that the brain density matrix is "reduced to near-diagonal form in the coordinate-space basis". Then he concedes the basis: "Yes, the decoherence basis is the coordinate basis, and the projection operator P might be a projection onto a certain particular interval in coordinate space. But this does not make the latter redundant with the former … The action of the environment reduces the nonzero part of the brain density matrix essentially to the long strip along the diagonal, whereas the action of the mind picks out some particular tiny portion of that strip." On this account the mind does not slow decoherence but "rolls back the brain-based process of evolution", the Schrödinger spreading away from the interval the last Process 1 choice picked out. Georgiev's claim that Zeno cannot slow decoherence "is certainly correct, but in no way contradicts my model". (Quoted from the pre-publication draft on Stapp's Berkeley site; body wording not checked against print.)
 
-The concession puts Stapp on the same-basis horn, where Georgiev's simulated breakdown (run with an energy pointer basis) does not apply and his own text grants that the Zeno effect could persist; the charge there is redundancy, and the dispute moves to the grain. What the reply does not say is how the "tiny portion" is specified, which is Donald's representation question asked about an interval rather than a basis. Nor does it address whether projecting onto a sub-interval of a density matrix already near-diagonal in that basis changes the *unconditional* statistics. Georgiev's later proof settles the exactly diagonal case, where the matrix "will remain unchanged by the action of the projectors"; the near-diagonal case is the open one. Stapp's 2015 rejoinder promises "a simple proof that environmental decoherence does not nullify the quantum Zeno effect"; only its abstract could be located. No worked model on either side compares the interval grain with the decoherence strip width. That comparison is the quantitative crux, and this page states it rather than settling it.
+The concession puts Stapp on the same-basis horn, where Georgiev's simulated breakdown (run with an energy pointer basis) does not apply and his own text grants that the Zeno effect could persist; the charge there is redundancy, and [the dispute moves to the grain](/concepts/zeno-dynamics-on-a-decohered-mixture/). What the reply does not say is how the "tiny portion" is specified, which is Donald's representation question asked about an interval rather than a basis. Nor does it address whether projecting onto a sub-interval of a density matrix already near-diagonal in that basis changes the *unconditional* statistics. Georgiev's later proof settles the exactly diagonal case, where the matrix "will remain unchanged by the action of the projectors"; the near-diagonal case is the open one. Stapp's 2015 rejoinder promises "a simple proof that environmental decoherence does not nullify the quantum Zeno effect"; only its abstract could be located. No worked model on either side compares the interval grain with the decoherence strip width. That comparison is the quantitative crux, and this page states it rather than settling it.
 
 ## de Barros: Circularity and the Laskey Narrowing
 

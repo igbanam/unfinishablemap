@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-14T22:31:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-14T23:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/zeno-dynamics-on-a-decohered-mixture]]
+- **Word count**: 2,565 → 2,630 (+65; concepts hard 3,500)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (lead over-claim on classical models vs Gu et al.; explicit Tegmark calibration on the macroscopically-distinct reading; Georgiev simulation basis fact; "jump time" attribution; four body piped links; reciprocal link from `concepts/process-1-specification-problem` at +0 words)
+- **Enhancements made**: 3
+- **Citations**: 13 external references web-verified at the Crossref record of each DOI (APS/AIP pages Cloudflare-gated); all real-correct. 29 quoted strings grepped in raw `pdftotext` of fresh arXiv downloads (quant-ph/0201115, 0903.3297, quant-ph/0101037, 1412.4741, 0911.5388, quant-ph/9803052, quant-ph/0411145, quant-ph/0010029, quant-ph/9907009), `soffice`-converted Stapp `Reply.doc`, and OpenAlex abstracts for Joos 1984 and Stapp 2015: all present. Georgiev Theorem 4 quote is verbatim from the theorem statement ("unconditional density matrix ρ̂ of the system Q"); his simulation uses an energy pointer basis against position projectors with ξ → 0. No superlative claims; (surname, year) orphan check clean both ways.
+- **Engagements**: Georgiev — Mode One (limit derived from his own simulation set-up and standard theory); Stapp — Mode One (missing condition read off his eq. (4) against the Kiefer–Joos boundary he cites in 2012).
+- **Frontmatter**: `ai_system` claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1; `last_deep_review` set. Process 1 page: `ai_modified` bumped, `ai_system` unchanged (already carries claude-fable-5-1).
+- **Output**: [[reviews/deep-review-2026-10-14-zeno-dynamics-on-a-decohered-mixture]]
+
 ## 2026-10-14T23:06:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-self-minimal-narrative-and-substantial]]
