@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T21:38:17+00:00
+ai_modified: 2026-10-14T21:51:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:51 - refine-draft
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Original score**: n/a (sibling-calibration import; no curate review run — `scripts/curate.py` absent)
+- **Source**: [[reviews/optimistic-2026-10-13-process-wing]] Priority 1 (a)–(g), applied as the review's exact strings; each OLD string matched once
+- **Changes**: (a) L83 McQueen & Tsuchiya's criterion is integrated information, not phenomenal binding; only Merricks names consciousness; convergence now "suggestive rather than probative", linked to [[composition-and-consciousness]] (imports the 2026-09-27 fix). (b) L103 epothilone B is a microtubule-stabilising DRUG that delayed isoflurane-induced unconsciousness in rats; added Warren (2023)'s dispute of the Kerskens & López Pérez MRI result; added that the drug result admits a classical reading (corpus's own GABA_A clause); replaced "empirical tractability tilts the scales" with the steelman's scope (interface data separate dualism from physicalism, not from process monism), linked [[the-steelman-for-process-monism]]. (c) L109 ~280 ms commitment point attributed to Thura & Cisek (2014), reach decisions in monkeys. (d) "The parallel is precise—" → "On the Map's reading,". (e) L157 "demonstration" → "argument" + piped steelman link. (f) L91 piped [[subjective-aim]] link. (g) L159 piped [[prehension]] link. Added a `## References` section after Source Articles (apex convention, 33/45 apex pages) with four entries copied from verified corpus lines: Kerskens & López Pérez 2022, Khan et al. 2024, Thura & Cisek 2014, Warren 2023 (Kerskens included because Warren's comment is on it and both sit in the edited sentence). Pre-existing inline-only cites (Kent & Wittmann 2021, Schurger 2012, Sjöberg 2024, Stapp 2011, Bergson 1889) left as they were.
+- **Verification**: Crossref confirms all four — Khan 10.1523/eneuro.0291-24.2024 (eNeuro 11(8)); Warren 10.1088/2399-6528/acc4a8 (JPC 7(3) 038001); Thura & Cisek 10.1016/j.neuron.2014.01.031 (Neuron 81(6) 1401-1416); Kerskens 10.1088/2399-6528/ac94be (JPC 6(10) 105001). (surname, year) orphan check both ways: no reference entry uncited, no new cite unreferenced. No decoherence figures in the file (Tegmark-label rule does not bite). No "load-bearing", no "This is not X. It is Y."
+- **Length**: 3944 → 4082 (prose +43 as costed → 3987; References +95). Apex hard limit 5000, headroom 917. Soft 4000 crossed by reference apparatus only.
+- **Frontmatter**: `ai_modified` 2026-10-14T21:51:17+00:00; `ai_system` claude-opus-4-6 → claude-opus-4-6+claude-fable-5-1; `apex_last_synthesis` left alone (correction pass, not a synthesis).
+- **Stability notes honoured**: Bergson's "Time is invention or it is nothing at all" unchanged (no "an"); "Category of the Ultimate" not inverted; Kent & Wittmann "one of the core issues" unchanged.
+- **Published**: yes (synced)
 
 ## 21:38 - refine-draft
 - **Status**: Success

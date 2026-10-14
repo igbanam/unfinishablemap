@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-10 15:52:07+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-14 21:51:17+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
 - concepts/process-philosophy
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:18:53+00:00
-lastmod: 2026-10-10 15:52:07+00:00
+lastmod: 2026-10-14 21:51:17+00:00
 modified: *id001
 related_articles:
 - '[[prehension]]'
@@ -83,7 +83,7 @@ Both frameworks agree on an essential point: consciousness cannot emerge from wh
 
 The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the [combination problem](/concepts/combination-problem/) (how do micro-experiences combine into unified consciousness?). The difficulty is sharper than it first appears. [Phenomenal unity](/concepts/unity-of-consciousness/) requires *conjoint phenomenology*—a unified "what it is like" that subsumes its parts rather than merely aggregating them. Micro-experiences would need to fuse into a whole whose character is not derivable from theirs individually. As William James observed, separate feelings cannot simply be added together to produce a unified experience; the whole has properties that no part possesses. Both the combination problem and the hard problem may be instances of a general difficulty at level transitions—what emerges at the macro level resists derivation from the micro level regardless of one's starting ontology.
 
-The difficulty may be structural rather than merely unsolved. Three independent responses to the Special Composition Question—van Inwagen's life criterion, Merricks's eliminativism, and McQueen and Tsuchiya's phenomenal-binding criterion—converge on treating consciousness as the mark of genuine composition. If consciousness is what makes a composite real, then asking how non-conscious (or merely micro-conscious) parts compose a conscious whole inverts the explanatory order. Phenomenal non-compositionality may be categorical, not contingent.
+The difficulty may be structural rather than merely unsolved. Three independent responses to the Special Composition Question—van Inwagen's life criterion, Merricks's eliminativism, and McQueen and Tsuchiya's integrated-information criterion—land near consciousness, though only Merricks names it; the step to consciousness is the Map's own, so the [convergence](/concepts/composition-and-consciousness/) is suggestive rather than probative. If consciousness is what makes a composite real, then asking how non-conscious (or merely micro-conscious) parts compose a conscious whole inverts the explanatory order. Phenomenal non-compositionality may be categorical, not contingent.
 
 Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
 
@@ -91,7 +91,7 @@ Interactionist dualism avoids the combination difficulty entirely—there is no 
 
 The Map's second tenet commits to minimal quantum interaction: if consciousness influences the physical world, it does so by biasing otherwise indeterminate quantum outcomes, without injecting energy or violating conservation laws.
 
-Process philosophy provides conceptual support for this picture, though it doesn't specify the mechanism. Whitehead's concrescence—how each actual occasion grows together from potentiality to actuality—resembles quantum collapse. The occasion inherits data from predecessors, synthesizes them through "subjective aim," and achieves definite form. Then it perishes, becoming datum for successor occasions.
+Process philosophy provides conceptual support for this picture, though it doesn't specify the mechanism. Whitehead's concrescence—how each actual occasion grows together from potentiality to actuality—resembles quantum collapse. The occasion inherits data from predecessors, synthesizes them through "[subjective aim](/concepts/subjective-aim/)," and achieves definite form. Then it perishes, becoming datum for successor occasions.
 
 This rhythm of becoming-perishing-becoming parallels the transition from superposition to definite outcome in quantum measurement. Before concrescence completes, the occasion is open—multiple possibilities for how it might resolve. After concrescence, definiteness has been achieved, and the occasion becomes part of the settled past. The parallel is structural, not mechanistic: process philosophy describes metaphysics, not physics. But the resonance suggests that what physics describes mathematically (collapse of the wave function) and what process philosophy describes metaphysically (concrescence of actual occasions) may be two perspectives on the same underlying reality.
 
@@ -103,13 +103,13 @@ The Map's commitment to *minimal* interaction finds resonance in Whitehead's acc
 
 Minimal interaction also bears on [phenomenal unity](/concepts/unity-of-consciousness/). Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
 
-Recent empirical work sharpens the picture. Kerskens and López Pérez (2022) report MRI signatures suggestive of brain-based entanglement correlating with conscious states; microtubule-stabilising anaesthetics delay loss of consciousness (Khan et al. 2024) in ways that purely classical neural theories struggle to predict. These results don't confirm the entanglement-binding hypothesis, but they make it empirically distinguishable. Interactionism generates testable quantum predictions; the combination problem, by contrast, remains primarily conceptual. Where competing frameworks look philosophically balanced, empirical tractability tilts the scales.
+Recent empirical work sharpens the picture. Kerskens and López Pérez (2022) report MRI signatures suggestive of brain-based entanglement correlating with conscious states, though Warren (2023) disputes that the signal shows entanglement; a microtubule-stabilising drug delays anaesthetic-induced loss of consciousness in rats (Khan et al. 2024), a result that also admits a classical reading. Neither has been independently replicated, and neither confirms the entanglement-binding hypothesis, but together they make it empirically distinguishable. Interactionism generates testable quantum predictions; the combination problem remains primarily conceptual. Such data could separate dualism from physicalism, not from [process monism](/topics/the-steelman-for-process-monism/), which can re-describe any interface datum in process terms.
 
 Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence.
 
 Temporal thickness clarifies the link: [authentic choice](/topics/authentic-vs-inauthentic-choice/) unfolds in durée, the decision emerging from one's whole history as creative expression, while inauthentic choice lacks temporal depth—reactive compression where horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
-Temporal consciousness research localises the specious present at roughly 100–750 ms, and the ~280 ms commitment point for voluntary motor action falls squarely inside that window. Kent and Wittmann (2021) identify this temporal-extension gap as "one of the core issues" in consciousness theories: functional models capture the 100–300 ms window but not the unified present that agency inhabits. What feels phenomenologically like a single moment of decision is, at the neural level, the window within which commitment becomes irreversible. The parallel is precise—the specious present is the phenomenological face of concrescence, its interior.
+Temporal consciousness research localises the specious present at roughly 100–750 ms, and the ~280 ms commitment point Thura and Cisek (2014) found for reach decisions in monkeys falls inside that window. Kent and Wittmann (2021) identify this temporal-extension gap as "one of the core issues" in consciousness theories: functional models capture the 100–300 ms window but not the unified present that agency inhabits. What feels phenomenologically like a single moment of decision is, at the neural level, the window within which commitment becomes irreversible. On the Map's reading, the specious present is the phenomenological face of concrescence, its interior.
 
 ## Bidirectional Causation and Subjective Aim
 
@@ -157,9 +157,9 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [temporal-consciousness](/concepts/temporal-consciousness/) presents Bergson's durée alongside the neuroscience of temporal binding and the specious present; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
-Process philosophy offers the Map conceptual resources without ontological commitment. One can draw on Whitehead's account of how experience relates to time, creativity, and causation without accepting panpsychism, and on Bergson's demonstration that lived duration cannot be reduced to sequences of static states without accepting process monism.
+Process philosophy offers the Map conceptual resources without ontological commitment. One can draw on Whitehead's account of how experience relates to time, creativity, and causation without accepting panpsychism, and on Bergson's argument that lived duration cannot be reduced to sequences of static states without accepting [process monism](/topics/the-steelman-for-process-monism/).
 
-The resources run deeper than individual arguments. Process philosophy explains why physical description leaves out what it leaves out: physics describes relations while consciousness involves intrinsic character. The explanatory gap is not a temporary limitation but reflects the difference between structural and non-structural modes of being. Temporal consciousness research confirms and extends this insight—the specious present, with its nested timescales of perceptual moment, specious present proper, and extended present, manifests processual reality at scales that neuroscience can study but not fully explain. What Bergson called *durée* and what Whitehead modelled as prehensive inheritance, temporal consciousness research identifies as the micro-, meso-, and macro-integration levels of experienced time.
+The resources run deeper than individual arguments. Process philosophy explains why physical description leaves out what it leaves out: physics describes relations while consciousness involves intrinsic character. The explanatory gap is not a temporary limitation but reflects the difference between structural and non-structural modes of being. Temporal consciousness research confirms and extends this insight—the specious present, with its nested timescales of perceptual moment, specious present proper, and extended present, manifests processual reality at scales that neuroscience can study but not fully explain. What Bergson called *durée* and what Whitehead modelled as [prehensive inheritance](/concepts/prehension/), temporal consciousness research identifies as the micro-, meso-, and macro-integration levels of experienced time.
 
 This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities.
 
@@ -190,3 +190,10 @@ This apex article synthesizes:
 - [The Combination Problem](/concepts/combination-problem/) — How micro-experiences might combine into unified consciousness
 - [Phenomenal Unity](/concepts/unity-of-consciousness/) — Subsumptive unity, conjoint phenomenology, and the argument for irreducibility
 - [Free Will](/topics/free-will/) — How process thought illuminates libertarian agency
+
+## References
+
+- Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+- Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+- Warren, W. S. (2023). Comment on: 'Experimental indications of non-classical brain function' (2022 *Journal of Physics Communications* 6 105001). *Journal of Physics Communications*, 7(3), 038001. doi:10.1088/2399-6528/acc4a8
