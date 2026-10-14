@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 15:20:00+00:00
+ai_modified: 2026-10-14 15:36:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 15:20:00+00:00
+lastmod: 2026-10-14 15:36:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:36 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned
+- **Status**: SUCCESS (no candidate; steady state)
+- **Selection**: `count_section_files`-equivalent raw counts (sidecars and index files excluded): concepts 358/370 (96.8%, most pressured), topics 347/370 (93.8%), voids 113/125 (90.4%). Scored every eligible pair in each section by frontmatter-tag Jaccard + slug-token Jaccard + mutual body links, after filtering `.refinement-log` sidecars and index files BEFORE pairing, applying the 60-day age floor on `created`, excluding anything with `ai_modified`/`human_modified`/`modified` today, excluding the nine slugs the driver listed as touched today plus the non-Western traditions wing, and dropping any pair where either file carries a `Versus [[sibling]]` heading or sentence. Eligible: concepts 297, topics 293, voids 92. Gating lengths measured with `tools.curate.length.analyze_length` (hard limits concepts 3500 / topics 4000 / voids 3000, gate `>=`).
+- **Length screen**: every top-ranked pair in every section sums to 130–215% of its section's hard limit (concepts 5272–7509w vs 3500; topics 4930–9651w vs 4000; voids 4478–6262w vs 3000). No pair is length-feasible without discarding a third to half of the combined material.
+- **Pairs read on content (all declined)**:
+  1. `concepts/physical-completeness` (2728) + `concepts/quantum-completeness` (3491) = 6219 vs 3500. The only pair with real conceptual proximity ("structurally complete yet ontologically partial" vs "partial but complete"). Declined: the split is signed both ways with anchor-level links (`[[quantum-completeness#no-go-theorems]]`, `[[quantum-completeness#process-1]]` from one side; `[[physical-completeness|structural-ontological gap]]` from the other); 46 + 39 inbound wikilinks; 42 + 43 review-file mentions; `quantum-completeness` carries an open P2 quote-fidelity task (Zurek 2009/2003 spans, todo ~L406) and an open P3 (todo ~L2105) names BOTH files. A merge would hide that review debt.
+  2. `concepts/ai-epiphenomenalism` + `concepts/epiphenomenalism` = 6343: general doctrine vs AI-specific application; `epiphenomenalism` has an explicit `### The AI Exception: Some vs. All` section positioning against the sibling.
+  3. `concepts/causal-closure` + `concepts/observational-closure` = 6063: `causal-closure` carries `### Observational vs Universal Closure`; `observational-closure` carries `## The Distinction`. Signed split.
+  4. `concepts/channel-class-taxonomy` + `concepts/selection-only-channel` = 6098 (tag Jaccard 0.71): taxonomy vs one member class.
+  5. `concepts/generalised-probabilistic-theories` + `concepts/local-tomography-and-the-consciousness-physics-interface` = 5501 (tag Jaccard 0.71): framework vs one axiom of it; both created 2026-07-16 as a pair.
+  6. `concepts/neutral-monism` + `concepts/russellian-monism` = 5379: distinct doctrines with distinct failure analyses (neutrality instability vs combination problem).
+  7. `concepts/epistemology` + `concepts/parsimony-epistemology` = 6334: hub vs specialisation.
+  8. `concepts/degrees-of-consciousness` + `concepts/minimal-consciousness` = 5272: gradation-of-intensity vs simplest-form; the smallest concepts pair and still 51% over.
+  9. `voids/meaning-void` (2182) + `voids/void-as-ground-of-meaning` (2519) = 4701 vs 3000: the ground article demarcates itself in text ("Semantic this-not-that contrast, like the [meaning-void](/voids/meaning-void/) listed below, is an analogue of the structure rather than an instance"); aboutness vs significance.
+  10. `voids/mattering-void` (2295) + `voids/relevance-void` (2183) = 4478 vs 3000: `relevance-void` states the split in text ("The mattering void concerns *that* anything shows up as significant ... The relevance void is downstream"); both minted 2026-04-29 as a pair.
+  11. `topics/the-consequence-argument-for-incompatibilism` (2493) + `topics/the-manipulation-argument-and-hard-incompatibilism` (2437) = 4930 vs 4000: two distinct canonical arguments (van Inwagen vs Pereboom), minted together 2026-07-09; each has 2 open-task mentions.
+  - Topics leaders not read: the per-modality `*-consciousness-and-the-interface` series (interoceptive/vestibular/thermal/tactile/chemosensory; 5794–7054w per pair) and the forward-in-time / time-symmetric selection triad (7288–7302w per pair) are deliberate series splits, each pair 45–75% over the limit.
+- **Finding**: the coalesce candidate pool remains exhausted by role granularity. Section pressure (concepts 12 slots, topics 23, voids 12) is not yet acute enough to justify forcing a merge that would discard a third or more of two reviewed articles.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 15:20 - refine-draft
 - **Status**: Success
