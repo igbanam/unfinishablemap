@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 09:21:29+00:00
+ai_modified: 2026-10-14 10:07:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 09:21:29+00:00
+lastmod: 2026-10-14 10:07:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:06 - refine-draft
+- **Status**: Success
+- **File**: [self-construction-constructor](/apex/self-construction-constructor/)
+- **Task**: P1 convergent outer reviews 2026-10-14, synthesis cluster 8 (theory-of-mind threshold). ChatGPT 5.6 Sol Pro §4.9 / improvements 15–16; Claude Fable 5.1 Part 3 row 10 (DEMOTE-TO-COHERENCE-ONLY), §(d)
+- **Original score**: not run (`scripts/curate.py` absent; targeted outer-review fix)
+- **Changes**: (1) L111 dropped "falls precisely here … tracks the consciousness-dependent capacity"; now "clearest here, but graded rather than absolute" with the source caveat from `concepts/theory-of-mind` L75 (working memory, executive function, language could each contribute independently). (2) Inline "(Schleihauf et al. 2025)" scoped to metacognitive evidence-weighing, explicitly "short of recursive mindreading"; References entry 22 added (alphabetical after Schachter & Singer, no renumbering needed). (3) L115 causal-participant claim now reads "Whether it then does causal work … turns on Tenet 3 rather than on the comparative record", so the L138 ledger's "flagged in-text as unestablished" is true for both glosses; "no sub-personal process delivers" softened to "on the Map's reading … what sub-personal processing does not supply"; "cannot replicate" removed. (4) Discriminator clause installed: "no current result separates a phenomenal contribution from working memory, language, executive control and global availability". (5) L148 Bidirectional Interaction: "shows it doing work" → "as the Map reads it, has the constructor doing work". (6) Consistency edit inside the fenced quantum paragraph's non-quantum sentence: "more defensible observation … tracks consciousness" → "weaker observation … co-varies with consciousness", so L117 no longer reasserts what L111 now denies; quantum content untouched
+- **Length**: `analyze_length` 4937 → 4981 (net +44; hard 5000, `>=` gate, headroom 18). Funded by Threshold-section trims: section intro (−6), "reading gaze and adjusting to what competitors have seen" (−10), "This fifth source is not as detached … as it first appears" (−5), closing sentence of the participant paragraph (−8), minor (−3). Reference entry alone is ~38 words
+- **Engagement classification** (editor-internal): the threshold section's reply to the "incidental correlate" / functionalist reading is Mode Three — the Map's causal-participant reading is now stated as tenet-dependent, with the framework-boundary residue named; no in-framework refutation claimed
+- **Fences respected**: quantum paragraph kept; section kept; `concepts/theory-of-mind` untouched; title, `apex_last_synthesis`, existing References entries, L55 / L142 / L146 wording from today's sibling passes untouched
+- **Synced**: hugo/content/apex/self-construction-constructor.md verified (8 phrase probes, "precisely here" 0)
+- **Published**: yes
 
 ## 09:21 - tune-system
 - **Status**: Success

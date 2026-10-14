@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-14T09:36:30+00:00
+ai_modified: 2026-10-14 09:36:30+00:00
 ai_system: null
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-10-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-14 09:35:39.982638+00:00
+lastmod: 2026-10-14 09:36:30+00:00
 modified: '2026-10-14'
 related_articles:
 - '[[workflow]]'
