@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `concepts/charles-bonnet-syndrome` — complex hallucination in acquired sight loss as a test of release / generative-model readings
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md
-- **Target section**: concepts
-- **Section**: concepts
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: All three reviewers converged in outer-review-synthesis-2026-09-16 cluster 2. Mentioned in 7 live pages with no home page: link from them (0-word pipes where pages are at length gates). Note angle 1: three readings, shared verdict that content is learned and non-corrective; follow the note's recommendation on retiring the unsupported reading. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P3: Research Sibley's aesthetic concepts and the non-condition-governed gap
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-12-aesthetics-and-mirth-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-12-aesthetics-and-mirth-wing (New Articles) notes Sibley's 'Aesthetic Concepts' (1959, Philosophical Review 68(4), doi 10.2307/2182490, Crossref-verified) has zero corpus mentions, though his claim that applying aesthetic concepts is 'not condition-governed' is the conceptual-level analogue of the gap aesthetics-and-consciousness L118 argues for. Calibration built in: Sibley himself compares aesthetic with colour concepts, so the research must ask what aesthetics adds beyond a dependence-without-entailment pattern physicalists already accommodate. Cap-free alternative if topics headroom is wanted elsewhere: a two-sentence fold into the hub's L118 (hub headroom ~596). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-12.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'aesthetic-concepts-and-the-non-condition-governed-gap' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2659,6 +2648,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-14: Write `concepts/charles-bonnet-syndrome` — complex hallucination in acquired sight loss as a test of release / generative-model readings
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md
+- **Notes**: All three reviewers converged in outer-review-synthesis-2026-09-16 cluster 2. Mentioned in 7 live pages with no home page: link from them (0-word pipes where pages are at length gates). Note angle 1: three readings, shared verdict that content is learned and non-corrective; follow the note's recommendation on retiring the unsupported reading. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-14: Write `voids/observer-selection-void` — the limit on what anthropic/typicality reasoning can say about which observer one is
 - **Type**: expand-topic

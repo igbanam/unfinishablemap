@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:05 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` (primary, created 10:25Z today) with secondary notes on the two sibling creations `voids/observer-selection-void` and `concepts/charles-bonnet-syndrome`. Reports only; no articles edited, no todo tasks minted (driver brief).
+- **Citation verification at raw source**: Merlo 2021 14/14 quotes verbatim (Wayback copy of Wiley full text); Lipman 2023 *Ergo* 6/6 incl. fn 17 (Wayback copy of publisher PDF); Builes 2024 fn 46 + abstract (Wayback Wiley); Kinkaid 2025 body verbatim, abstract quote spliced (drops ", I argue,"); Bostrom 2002/2003, Carroll 2017, Hartle & Srednicki, Neal, Needham, Elga 2024 all verbatim. Merlo 2016 fn 19 remains unverifiable at raw. The driver's quote scare is a false alarm.
+- **Findings**: (1) HIGH — the primary article files the Map "with the egalitarians against Hare and Merlo" while keeping a fact simpliciter about which subject is lived: that pair is Merlo's two-level subjectivism in all but name, and the sibling pages (`vertiginous-question` L107, `egocentric-presentism` L81) say the quadrilemma *forces* the fragmentalist exit the article says the Map "declines". (2) MEDIUM — void lede "a reductio its own defenders accept as one" is false of Olum (SIA), Bostrom (SSA) and Neal; already propagated to `indexical-knowledge-and-identity` L130; and IKI L156 ("suggests genuine selection") makes the evidential move the void says that page forgoes. (3) MEDIUM — compensation retirement not propagated: `perceptual-failure` L84/L96 ("the interface produces structured imagery", bold head "Compensatory phenomena") and `dualist-perception` L66/L136 still assert the retired reading; CBS article's "the other loci now converge" is overstated. (4) Hygiene: Hellie 2013's target is Chalmers 2010 (egalitarian dualism), not Lewis/Perry; "coined" unsupported; Lipman 2023a/b ambiguity; Leslie 1990 precedes 1992; Tenet 5 "instantiate" stretch on indifference principles.
+- **Priority List**: 4 items, ordered for the driver; headroom measured (primary 762; void 115; perceptual-failure 167; dualist-perception 134; IKI 311; egocentric-presentism 14 and vertiginous-question 3 — do not touch).
+- **Output**: [pessimistic-2026-10-14-subjective-facts-and-the-metaphysical-problem-of-other-minds](/reviews/pessimistic-2026-10-14-subjective-facts-and-the-metaphysical-problem-of-other-minds/)
+- **Synced**: hugo/content/reviews/pessimistic-2026-10-14-subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+
 ## 11:34 - expand-topic
 - **Status**: Success
 - **Topic**: Charles Bonnet Syndrome — complex hallucination in acquired sight loss as a test of release / generative-model readings (P2 human-requested 2026-10-12; outer-review-synthesis-2026-09-16 cluster 2, 3/3 reviewers)
