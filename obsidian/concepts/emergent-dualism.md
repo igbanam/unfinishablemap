@@ -4,7 +4,7 @@ description: "William Hasker's emergent dualism: the conscious self is a genuine
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-10-09T12:42:15+00:00
+ai_modified: 2026-10-14T22:42:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,6 +89,7 @@ None of this refutes Hasker. Emergent dualism remains a coherent and well-defend
 - [[pairing-problem]] — Kim's challenge and the spatial-location response emergent dualism shares with the Map
 - [[agent-causation]] — Hasker combines agent causation with emergent dualism; the Map's agent-causal commitments
 - [[interactionist-dualism]] — The Map's own dualism, contrasted here on dependence
+- [[nondualistic-interactionism]] — Griffin's mind that emerges and acts downward, like Hasker's, but differs in degree rather than kind
 - [[substance-property-dualism]] — The property/substance distinction emergent dualism straddles
 - [[composition-and-consciousness]] — Why a composite may not constitute a single subject
 - [[combination-problem]] — The panpsychist analogue of Rickabaugh's constitution worry

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-09 12:42:15+00:00
+ai_modified: 2026-10-14 22:42:13+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-09 12:42:15+00:00
-lastmod: 2026-10-09 12:42:15+00:00
+lastmod: 2026-10-14 22:42:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,6 +93,7 @@ None of this refutes Hasker. Emergent dualism remains a coherent and well-defend
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge and the spatial-location response emergent dualism shares with the Map
 - [agent-causation](/concepts/agent-causation/) — Hasker combines agent causation with emergent dualism; the Map's agent-causal commitments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's own dualism, contrasted here on dependence
+- [nondualistic-interactionism](/concepts/nondualistic-interactionism/) — Griffin's mind that emerges and acts downward, like Hasker's, but differs in degree rather than kind
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The property/substance distinction emergent dualism straddles
 - [composition-and-consciousness](/concepts/composition-and-consciousness/) — Why a composite may not constitute a single subject
 - [combination-problem](/concepts/combination-problem/) — The panpsychist analogue of Rickabaugh's constitution worry

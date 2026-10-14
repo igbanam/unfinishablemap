@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-10 15:53:25+00:00
+ai_modified: 2026-10-14 22:42:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 09:32:48+00:00
-lastmod: 2026-10-10 15:53:25+00:00
+lastmod: 2026-10-14 22:42:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Process philosophers offer several responses:
 
 **[Phenomenal unity](/concepts/unity-of-consciousness/) as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
-**Societies and emergence**: Complex organisms are hierarchically organised societies where "dominant occasions" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
+**Societies and emergence**: Complex organisms are hierarchically organised societies where "[dominant occasions](/concepts/nondualistic-interactionism/)" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
 
 Whether these responses succeed is debated. The combination problem remains process philosophy's central challenge.
 

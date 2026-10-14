@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-10-03 23:54:54+00:00
+ai_modified: 2026-10-14 22:42:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 18:24:00+00:00
-lastmod: 2026-10-03 23:54:54+00:00
+lastmod: 2026-10-14 22:42:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,6 +150,7 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — Related development: the "selection not injection" structure of the Type-2 and Type-4 families appears concretely in perceptual constancy's selecting of distal over proximal
 - [dualist-perception](/topics/dualist-perception/) — Related development: the binocular-rivalry locus that Type-4 names as a candidate site for quantum selection is developed there as bistable perception
+- [nondualistic-interactionism](/concepts/nondualistic-interactionism/) — Griffin's process variant that keeps mind and brain numerically distinct and interacting rather than dissolving the distinction
 - [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) — A neo-Aristotelian dissolution distinct from the Type-3 process route: mind and body as form and matter of one substance, not grades of one process — a rival the Map answers by locating an interface rather than dissolving the gap
 
 ## References

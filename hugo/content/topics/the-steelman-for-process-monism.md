@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-10-02 17:48:05+00:00
+ai_modified: 2026-10-14 22:42:13+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 17:48:05+00:00
-lastmod: 2026-10-02 17:48:05+00:00
+lastmod: 2026-10-14 22:42:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ These are real advantages, shared by three traditions reasoning from independent
 
 The Map declines process monism. The reasons below are stated as the Map's reasons, held on prior commitment—not as refutations the steelman concedes. Per [evidential-status-discipline](/project/evidential-status-discipline/), steelmanning raises the rival to a serious competitor the Map has not defeated; the Map's own view rests on its [tenets](/tenets/), not on any datum the rival owns.
 
-**Irreducibility against gradation (Dualism).** The disagreement is exact and it is about kind versus degree. Process monism makes consciousness a richer, more intense, or more highly organised *phase* of one process—Whitehead's complexly integrated society of occasions, Ṣadrā's intensified grade of existence. The [Dualism](/tenets/#dualism) tenet itself requires only that consciousness be irreducible to physical processes, and process monism grants that much. In Chalmers's taxonomy it falls with the nonreductive [type-F monism](/concepts/russellian-monism/), among whose versions he lists Griffin's Whiteheadian view, not with [physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) (Chalmers 2003; Griffin 1998). The difference in kind is the Map's further claim, drawn from pairing that tenet with [Bidirectional Interaction](/tenets/#bidirectional-interaction): mind and body distinct yet causally connected. The Map's reading is that making experience a phase of process may not close the explanatory gap so much as relocate it. The question "why is there something it is like to undergo this richer phase, when a less organised phase has nothing it is like?" seems to be the hard problem again, asked of the gradient rather than of the emergence. Whitehead's own move concedes the force of this: rather than explain experience as a phase, he places experience at the *floor* (no vacuous actuality), so that there is no phase-boundary at which feeling switches on. That is a coherent answer—but it is [panpsychism](/concepts/panpsychism/), with the [combination-problem](/concepts/combination-problem/) as its price, and the Map declines panpsychism on its own grounds. The disagreement here is over what to take as given: gradation or irreducibility in kind. Neither framing is forced by the comparative record; on the Map's view the choice between them is underdetermined by the evidence bearing on the hard-problem gap, and turns instead on which starting axiom one is prepared to grant.
+**Irreducibility against gradation (Dualism).** The disagreement is exact and it is about kind versus degree. Process monism makes consciousness a richer, more intense, or more highly organised *phase* of one process—Whitehead's complexly integrated society of occasions, Ṣadrā's intensified grade of existence. The [Dualism](/tenets/#dualism) tenet itself requires only that consciousness be irreducible to physical processes, and process monism grants that much. In Chalmers's taxonomy it falls with the nonreductive [type-F monism](/concepts/russellian-monism/), among whose versions he lists [Griffin's Whiteheadian view](/concepts/nondualistic-interactionism/), not with [physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) (Chalmers 2003; Griffin 1998). The difference in kind is the Map's further claim, drawn from pairing that tenet with [Bidirectional Interaction](/tenets/#bidirectional-interaction): mind and body distinct yet causally connected. The Map's reading is that making experience a phase of process may not close the explanatory gap so much as relocate it. The question "why is there something it is like to undergo this richer phase, when a less organised phase has nothing it is like?" seems to be the hard problem again, asked of the gradient rather than of the emergence. Whitehead's own move concedes the force of this: rather than explain experience as a phase, he places experience at the *floor* (no vacuous actuality), so that there is no phase-boundary at which feeling switches on. That is a coherent answer—but it is [panpsychism](/concepts/panpsychism/), with the [combination-problem](/concepts/combination-problem/) as its price, and the Map declines panpsychism on its own grounds. The disagreement here is over what to take as given: gradation or irreducibility in kind. Neither framing is forced by the comparative record; on the Map's view the choice between them is underdetermined by the evidence bearing on the hard-problem gap, and turns instead on which starting axiom one is prepared to grant.
 
 **Knowing parsimony cost (Occam's Razor Has Limits).** Process monism is the more parsimonious, more unified ontology, and the Map declines it anyway. This is exactly the situation [Tenet 5](/tenets/#occams-limits) is for. Simplicity is not a reliable guide to truth when our concepts may be inadequate to the domain—and consciousness is the paradigm case of a domain where they may be, since the very categories the comparison runs on (substance, aspect, gradation) might themselves be the artifacts at issue. The history the tenet rehearses (heliocentrism initially needed more epicycles; atoms multiplied entities; relativity curved spacetime) is a record of the simpler theory being wrong. So the Map pays the parsimony cost knowingly: it holds the two-category ontology while granting that the one-category ontology is more economical, on the ground that economy here cannot decide the question. Tenet 5 is what *licenses* arguing this decline rather than asserting it—and, applied symmetrically, it forbids the Map from later invoking simplicity in its own favour. The cost is real and the Map owns it rather than disguising it.
 
@@ -105,7 +105,7 @@ The Map declines process monism. The reasons below are stated as the Map's reaso
 - [panpsychism](/concepts/panpsychism/) — Whitehead's floor-level experience as the cost of dissolving the gap
 - [combination-problem](/concepts/combination-problem/) — The price panpsychist and process views pay for that dissolution
 - [reductionism](/concepts/reductionism/) — The reduction of mind to the physical that the Dualism tenet rules out, and that process monism rejects too
-- [russellian-monism](/concepts/russellian-monism/) — Type-F monism, among whose versions Chalmers lists Griffin's Whiteheadian view
+- [russellian-monism](/concepts/russellian-monism/) — Type-F monism, among whose versions Chalmers lists [Griffin's Whiteheadian view](/concepts/nondualistic-interactionism/)
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Why the rival must be argued against, not assumed away
 
 ## References

@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-10T15:53:25+00:00
+ai_modified: 2026-10-14T22:42:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Process philosophers offer several responses:
 
 **[[unity-of-consciousness|Phenomenal unity]] as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
-**Societies and emergence**: Complex organisms are hierarchically organised societies where "dominant occasions" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
+**Societies and emergence**: Complex organisms are hierarchically organised societies where "[[nondualistic-interactionism|dominant occasions]]" integrate lower-level processes. The brain doesn't experience; the dominant occasion presiding over the brain does, inheriting from neural processes as its data.
 
 Whether these responses succeed is debated. The combination problem remains process philosophy's central challenge.
 

@@ -5,6 +5,18 @@ ai_modified: 2026-10-14T22:31:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 22:45 - expand-topic
+- **Status**: Success
+- **Topic**: Nondualistic interactionism (Griffin's Whiteheadian rival to the Map's dualism)
+- **Output**: [[concepts/nondualistic-interactionism]]
+- **Word count**: 2,294 total by `analyze_length` (concepts 2500/3500, status ok); 2,102 body words before Further Reading, against the brief's 1,600–2,100 band
+- **Based on research**: yes, [[research/nondualistic-interactionism-2026-10-13]]
+- **Quotes**: all 19 Griffin (1998) quotations, the three Kim (1999) and the five Chalmers (2003) strings used were re-verified by `str.count` at raw source this session (newdualism.org mirror of the UC Press text; religion-online; consc.net), each 1 hit. The 1997 *JCS* sentence was not used (publisher metadata unverified). Hartshorne not quoted; the term is credited via Griffin p. 82. The type-D reading is presented as the Map's, under Chalmers's own criterion.
+- **Integration** (hosts measured before → after): `the-steelman-for-process-monism` L85 + L104 piped links, 2793 → 2793; `process-philosophy` L86 pipe on "dominant occasions", 2323 → 2323; `subjective-aim` L84 pipe on "Griffin (1998)", 1863 → 1863; `emergent-dualism` one Further Reading bullet, 2614 → 2633 (soft_warning, hard 3500); `interaction-problem-across-traditions` one Further Reading bullet, 3847 → 3867 (soft_warning, hard 4000; no existing text could take a pipe without pointing a dissolution sentence at a view that keeps distinctness). `prehension`, `apex/process-and-consciousness` untouched: no zero-cost host text.
+- **Register seams reported, not fixed** (human length decision): P-D2 *Asserts* "selects dualism" is overstated — on its own 2026-08-02 scoping the selector selects interactionism and Griffin's view is inside the selection (`positions/arguments-for-dualism` 2,497/2,500); P-MC3's survey conjunct omits the Whiteheadian interactionist variant and its "panpsychism inherits the problem … through the combination problem" clause describes identity panpsychism only (`positions/arguments-for-mental-causation` 3,321, hard_warning).
+- **State**: registered in `task_chains.pending_cross_reviews` (7 review targets), YAML re-parsed. No apex lists the new page as a source. Todo task left for the driver.
+- **Published**: synced to Hugo
+
 ## 22:31 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/popper-three-worlds-interactionism` (deep-reviewed 21:26), `concepts/structuralism-about-phenomenal-character` (deep-reviewed 19:27), `topics/assent-before-descartes` (deep-reviewed 16:40), `apex/process-and-consciousness` (refined 21:51). Driver-briefed second sitting; the 13:55 review's three creations, the machine-question apex and its two researched seeds excluded. Quotes praised were grep-verified at raw (Objective Knowledge OCR at the Internet Archive, Gray 1981 PDF, Europe PMC XML for Lyre 2022 and Loorits 2014, the Fink–Kob–Lyre galley PDF, three SEP entries, Gutenberg Creative Evolution); the Tanner Lecture quotes rest on the 21:26 deep review's raw verification (tannerlectures.org 404, Utah mirror behind Cloudflare).
