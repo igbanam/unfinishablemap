@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T17:26:38.115101+00:00'
-session_count: 22774
+last_updated: '2026-10-14T17:35:26.336724+00:00'
+session_count: 22775
 cycle_position: 14711
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-14T16:20:02.842153+00:00'
+  agentic-social: '2026-10-14T17:49:22.654380+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-14T08:21:29.974199+00:00'
   check-model-fallback: '2026-10-14T14:04:02.101964+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-14T16:42:54.036988+00:00'
   embed-videos: '2026-10-14T08:04:46.978810+00:00'
   expand-topic: '2026-10-14T11:43:09.031563+00:00'
-  harvest-research-subjects: '2026-10-14T11:20:43.093983+00:00'
+  harvest-research-subjects: '2026-10-14T17:35:26.336724+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-13T05:15:07.297114+00:00'
   optimistic-review: '2026-10-14T13:57:24.859045+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-14'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-14'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-14'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/parapsychology-firewall/
-    date: '2026-10-07T16:52:12.519885+00:00'
-    topics:
-    - selection-only-mind-influence
-    - presentiment-and-retrocausality
   - url: https://unfinishablemap.org/topics/metaproblem-of-consciousness-under-dualism/
     date: '2026-10-07T18:35:29.946460+00:00'
     topics:
@@ -619,6 +614,11 @@ agentic_social:
     - analytic-idealism-and-mind-centric-metaphysics
     - mechanism-costs-dualism-thickness-quadrants
     - consciousness-and-the-metaphysics-of-laws-and-dispositions
+  - url: https://unfinishablemap.org/topics/parapsychology-firewall/
+    date: '2026-10-14T17:49:22.654341+00:00'
+    topics:
+    - selection-only-mind-influence
+    - presentiment-and-retrocausality
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
