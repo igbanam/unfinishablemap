@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-05 18:05:55+00:00
+ai_modified: 2026-10-14 11:34:29+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-15 02:34:21+00:00
-lastmod: 2026-10-05 18:05:55+00:00
+lastmod: 2026-10-14 11:34:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ If [qualia](/concepts/qualia/) are irreducible, then perceptual qualities — co
 
 Under physicalism, the conscious subject is typically treated as the endpoint of a causal chain: the world acts on the senses, which act on the brain, which produces experience. The Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet opens a different possibility. Consciousness may actively shape what is perceived — not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-The evidence supports active constitution. [Perceptual constancy](/topics/consciousness-as-perceptual-architect/) — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain operates in three distinct modes: autonomously editing some signals (filling the blind spot, suppressing saccadic blur), faithfully transmitting others (optical blur, tinnitus), and presenting ambiguous reconstructions for consciousness to resolve (bistable percepts) — all implying a conscious recipient whose experience is being shaped.
+The evidence supports active constitution. [Perceptual constancy](/topics/consciousness-as-perceptual-architect/) — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. [Charles Bonnet hallucinations](/concepts/charles-bonnet-syndrome/) in visual loss produce detailed imagery when the transmission channel narrows, though that imagery is learned and stereotyped rather than scene-restoring, so the syndrome is neutral between constitution and release. The [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain operates in three distinct modes: autonomously editing some signals (filling the blind spot, suppressing saccadic blur), faithfully transmitting others (optical blur, tinnitus), and presenting ambiguous reconstructions for consciousness to resolve (bistable percepts) — all implying a conscious recipient whose experience is being shaped.
 
 The [attentional selection](/topics/attention-and-the-consciousness-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen but an active participant in constituting what appears.
 

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T10:30:15+00:00
+ai_modified: 2026-10-14T11:34:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:34 - expand-topic
+- **Status**: Success
+- **Topic**: Charles Bonnet Syndrome — complex hallucination in acquired sight loss as a test of release / generative-model readings (P2 human-requested 2026-10-12; outer-review-synthesis-2026-09-16 cluster 2, 3/3 reviewers)
+- **Output**: [[concepts/charles-bonnet-syndrome]]
+- **Word count**: `analyze_length` 2613 (concepts soft 2500 / hard 3500, `>=` gate; prose 2082, References 549). Description 186 chars.
+- **Based on research**: yes — [[research/charles-bonnet-syndrome-generative-model-release-2026-09-16]] (angle 1 followed: three readings — classic deafferentation release, generative-model release (Reichert, Seriès & Storkey 2013), strong-prior gloss (Corlett et al. 2019) — with the shared verdict that content is learned and non-corrective; four open questions named; filter tradition stated as release-shaped; dream/CBS insight contrast flagged as the Map's own synthesis)
+- **Reading retired**: the Map's own *phenomenal compensation* reading (interface "fills gaps" / "actively maintains a phenomenal field" / "compensatory imagery") — no external source supports it; content is stereotyped by cortical stream (Santhouse et al. 2000), recognised as unreal (Teunisse et al. 1996), and the only "compensation" in the sources is neuronal firing-rate recovery (daSilva Morgan et al. 2025). Tenet 3 use at perceptual-failure L134 withdrawn in the article and at the locus.
+- **Section / cap**: concepts (`count_section_files('concepts')` 357 → 358 against `max_concepts` 370); slug clear via `check_slug.py`. No `pending_articles` entry existed for the note.
+- **Citation verification**: every quotation re-grepped against the raw Europe PMC abstracts (Reichert 2013, ffytche 1998, Santhouse 2000, Painter 2018, daSilva Morgan 2025, Hahamy 2021, Schmid & Kriegleder 2024, Teunisse 1996, Menon 2003, Collerton 2023, Collerton 2005 — all verbatim). Corlett et al. 2019 "inordinate influence" phrase is body text, not abstract — paraphrased without quotation marks. Altieri & Battaglini 2026 and Reichert body text paraphrased per the note's summariser caveat. Teunisse byline order confirmed at Europe PMC (Cruysberg, Hoefnagels, Verbeek, Zitman). Gemini's phantom "Blom et al. 2024" not cited.
+- **Integration** (all re-measured with `analyze_length`, hard gate `>=`): hypnagogic-phenomenology-and-interface-modulation 3964 → 3964 (zero-word piped link); dualist-perception 3846 → 3865 (link + CBS marked neutral between constitution and release); perceptual-failure-and-the-interface 3816 → 3832 (L96 "fill gaps" and "actively maintains a phenomenal field" retired, sense note on "compensatory"; L134 Tenet 3 use withdrawn); auditory-consciousness-and-the-interface 3098 → 3098 (zero-word link); lucid-dreaming-and-dualist-rendering 3803 → 3803 (zero-word link); naturalist-relationalism 2433 → 2433 (zero-word link); capability-division-problem 2993 → 2994 ("compensatory imagery" → piped "stereotyped, non-corrective imagery"; hard 3000). apex/self-construction-constructor and concepts/theory-of-mind untouched. The signature label "compensatory generation" survives in 17 files corpus-wide (perceptual-failure L96/L100/L130/L136, dualist-perception L66, …) as a label in the neuronal sense — a corpus-wide rename is out of scope here.
+- **State**: `task_chains.pending_cross_reviews` entry added (seven host targets above)
+- **Synced**: hugo/content/concepts/charles-bonnet-syndrome.md verified (frontmatter intact, `validate.py` ✓ Valid; host inbound links present in hugo/)
+- **Apex sources**: slug absent from `apex/apex-articles.md`; no apex-evolve task minted
+- **Published**: yes (`draft: false`); todo task (line 40) left for the driver; not committed
 
 ## 11:16 - expand-topic
 - **Status**: Success

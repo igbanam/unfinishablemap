@@ -4,7 +4,7 @@ description: "Lucid dreaming poses a rendering dilemma: capability signatures, v
 created: 2026-03-09
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-09-16T07:03:44+00:00
+ai_modified: 2026-10-14T11:34:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The strongest production-side account of these last two signatures is Laukkonen,
 
 The most philosophically pointed version of the rendering dilemma concerns degradation. If the brain can generate vivid visual scenes during sleep, why does waking perception degrade so directly with sensory organ deterioration?
 
-Cataracts, cochlear damage and retinal degeneration each degrade experience in step with the organ; the brain transmits the degraded input rather than compensating with its demonstrated rendering capability. Charles Bonnet syndrome — vivid visual hallucinations in people with significant vision loss (Ffytche et al., 1998) — shows the brain *can* generate detailed imagery without input, but only sporadically, involuntarily, and non-correctively.
+Cataracts, cochlear damage and retinal degeneration each degrade experience in step with the organ; the brain transmits the degraded input rather than compensating with its demonstrated rendering capability. [[charles-bonnet-syndrome|Charles Bonnet syndrome]] — vivid visual hallucinations in people with significant vision loss (Ffytche et al., 1998) — shows the brain *can* generate detailed imagery without input, but only sporadically, involuntarily, and non-correctively.
 
 The production theorist's best reply is precision weighting, supplied by the article's own source: the [[predictive-processing|generative model]] "is continually updated and entrained by sensory prediction errors in wakefulness to ensure veridical perception, but not in dreaming" (Hobson, Hong, & Friston, 2014). Degraded waking input still carries the highest precision available, so it clamps the model to a blurry percept; REM gating drives sensory precision toward zero and lets the model run free. Charles Bonnet syndrome is then generative-model *release*: Reichert, Seriès and Storkey (2013) model deafferented cortex as homeostatically over-compensating for lost input and emitting learned, non-veridical content — bizarre rather than compensatory.
 

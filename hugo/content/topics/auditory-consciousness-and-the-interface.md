@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-09-19 02:58:19+00:00
+ai_modified: 2026-10-14 11:34:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 02:58:19+00:00
-lastmod: 2026-09-19 02:58:19+00:00
+lastmod: 2026-10-14 11:34:29+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -66,7 +66,7 @@ The physicalist treats all of this as more perceptual computation: periodicity e
 
 Audition has an unusually rich dissociation literature, and three cases bear directly on the claims made above. Each is given in the same register as the rest of this article.
 
-**Tinnitus — a percept with no stimulus.** Tinnitus is "an auditory phantom sensation (ringing of the ears) experienced when no external sound is present" (Eggermont & Roberts, 2004). Most cases, though not all, are associated with hearing loss from noise exposure or ageing, and the mechanism the literature converges on is *release*: damage to the cochlea or to auditory projection pathways downregulates intracortical inhibition, and the resulting rise in spontaneous firing and neural synchrony through the central auditory pathway is taken to generate the phantom—though the reviews put the last step no more strongly than "possibly" (Eggermont & Roberts, 2004; Shore, Roberts & Langguth, 2016). It belongs to a family with phantom limb pain and the visual hallucinations of Charles Bonnet syndrome, all read as maladaptive plasticity following damage to the peripheral nervous system (Painter et al., 2018). The framing is easy to get wrong and worth getting right. What the deafferented system does is emit content once the input that constrained it is gone. The phantom reconstructs nothing the lost input would have carried, and no hearing is recovered by it—which is why *release* is the right word for the mechanism and repair is the wrong one.
+**Tinnitus — a percept with no stimulus.** Tinnitus is "an auditory phantom sensation (ringing of the ears) experienced when no external sound is present" (Eggermont & Roberts, 2004). Most cases, though not all, are associated with hearing loss from noise exposure or ageing, and the mechanism the literature converges on is *release*: damage to the cochlea or to auditory projection pathways downregulates intracortical inhibition, and the resulting rise in spontaneous firing and neural synchrony through the central auditory pathway is taken to generate the phantom—though the reviews put the last step no more strongly than "possibly" (Eggermont & Roberts, 2004; Shore, Roberts & Langguth, 2016). It belongs to a family with phantom limb pain and the visual hallucinations of [Charles Bonnet syndrome](/concepts/charles-bonnet-syndrome/), all read as maladaptive plasticity following damage to the peripheral nervous system (Painter et al., 2018). The framing is easy to get wrong and worth getting right. What the deafferented system does is emit content once the input that constrained it is gone. The phantom reconstructs nothing the lost input would have carried, and no hearing is recovered by it—which is why *release* is the right word for the mechanism and repair is the wrong one.
 
 Maladaptive central plasticity is a *physicalist mechanism*, adopted here without reservation—the same concession the [chemosensory](/topics/chemosensory-consciousness-and-the-interface/) and [tactile](/topics/tactile-consciousness-and-the-interface/) companions make about the limbic bypass and the C-tactile system. What tinnitus adds is a limiting case of this article's central claim: the section above argued that pitch is computed rather than read off the signal, and tinnitus is the endpoint of that line—a determinate auditory quality, often with a pitch the patient can match on a tone generator, and no stimulus whatever.
 

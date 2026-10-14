@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-10-13 09:02:36+00:00
+ai_modified: 2026-10-14 11:34:29+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-13 09:02:36+00:00
-lastmod: 2026-10-13 09:02:36+00:00
+lastmod: 2026-10-14 11:34:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ The ordering therefore fails to discriminate. Staggered timelines are the defaul
 
 The filter model predicts that loosening constraint should reshape experience rather than uniformly diminish it, and hypnagogia fits: as attentional constraint withdraws, imagery becomes more vivid, emotional tone intensifies, and associative connections that executive control normally suppresses become available. Specific channels close while others open wider, consistent with a filter selectively transmitting aspects of a richer underlying consciousness.
 
-Production models offer a competing explanation. As prefrontal executive networks disengage at sleep onset, they release inhibitory control over imagery-generating circuits, and spontaneous vivid imagery follows from removed suppression rather than a widened filter. Cortical disinhibition is a well-established mechanism with analogous effects elsewhere—Charles Bonnet syndrome, hallucinatory activity during sensory deprivation.
+Production models offer a competing explanation. As prefrontal executive networks disengage at sleep onset, they release inhibitory control over imagery-generating circuits, and spontaneous vivid imagery follows from removed suppression rather than a widened filter. Cortical disinhibition is a well-established mechanism with analogous effects elsewhere—[Charles Bonnet syndrome](/concepts/charles-bonnet-syndrome/), hallucinatory activity during sensory deprivation.
 
 The filter model and the disinhibition account make overlapping predictions here, so the phenomenological data cannot adjudicate between them; they diverge in background metaphysics, over whether the vividness marks consciousness less constrained or circuits less suppressed. The Map favours the filter interpretation for its coherence with the broader case for consciousness as ontologically distinct from neural processing, not because the imagery evidence selects it.
 

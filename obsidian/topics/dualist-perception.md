@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-05T18:05:55+00:00
+ai_modified: 2026-10-14T11:34:29+00:00
 last_deep_review: 2026-09-15T02:34:21+00:00
 draft: false
 topics:
@@ -133,7 +133,7 @@ If [[qualia]] are irreducible, then perceptual qualities — colours, sounds, ta
 
 Under physicalism, the conscious subject is typically treated as the endpoint of a causal chain: the world acts on the senses, which act on the brain, which produces experience. The Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet opens a different possibility. Consciousness may actively shape what is perceived — not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-The evidence supports active constitution. [[consciousness-as-perceptual-architect|Perceptual constancy]] — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] reveals that the brain operates in three distinct modes: autonomously editing some signals (filling the blind spot, suppressing saccadic blur), faithfully transmitting others (optical blur, tinnitus), and presenting ambiguous reconstructions for consciousness to resolve (bistable percepts) — all implying a conscious recipient whose experience is being shaped.
+The evidence supports active constitution. [[consciousness-as-perceptual-architect|Perceptual constancy]] — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. [[charles-bonnet-syndrome|Charles Bonnet hallucinations]] in visual loss produce detailed imagery when the transmission channel narrows, though that imagery is learned and stereotyped rather than scene-restoring, so the syndrome is neutral between constitution and release. The [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] reveals that the brain operates in three distinct modes: autonomously editing some signals (filling the blind spot, suppressing saccadic blur), faithfully transmitting others (optical blur, tinnitus), and presenting ambiguous reconstructions for consciousness to resolve (bistable percepts) — all implying a conscious recipient whose experience is being shaped.
 
 The [[attention-and-the-consciousness-interface|attentional selection]] framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen but an active participant in constituting what appears.
 
