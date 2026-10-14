@@ -5,6 +5,18 @@ ai_modified: 2026-10-14T13:55:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:55 - deep-review
+- **Status**: Success
+- **File**: [[concepts/lawful-appearance-problem]]
+- **Word count**: 2291 → 2335 (+44) against the concepts hard limit of 3500 (gate `>=`; headroom 1164)
+- **Critical issues addressed**: 0 (none found; all 8 external citations web-verified at the publisher of record — Berkeley §§30/60/65 at Gutenberg, Chalmers 2019 preprint pdftotext, Christmann 2026 at Cambridge Core, Eddington p. 276 at Gutenberg, Kastrup 2017 via Wayback capture of MDPI after Cloudflare blocked MDPI/PhilArchive/PhilPapers, Mørch 2017 via Crossref + abstract, Russell 1927 p. 163 via archive.org OCR, Yetter-Chappell 2025 book/ch. 3/ch. 5 abstracts at OUP; a search hit for the ch. 5 line that came from the Map's own research note was discarded as self-contamination; per-cite ledger in the review file)
+- **Medium issues addressed**: 2 (structural-realist premise over-claimed — it fixes the mathematical form of physics, not the impersonality of the structure found, which is the austerity residue; lead "impersonal" → "mathematical" and two clarifying sentences in §Structural Form; two missing cross-links)
+- **Enhancements made**: 2 cross-links ([[concepts/phenomenal-transparency-opacity-spectrum]], [[topics/born-rule-and-the-consciousness-interface]])
+- **Engagement modes** (editor-internal): Kastrup prediction-vs-debt — Mode Three, left open with the Map's application marked as its own; Chalmers and Christmann — reported, not opposed; no label leakage
+- **ai_system**: claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-10-14-lawful-appearance-problem]]
+- **Published**: yes
+
 ## 14:34 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]

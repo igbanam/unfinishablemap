@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-12 14:13:15+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-14 14:55:05+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[idealism]]'
@@ -20,7 +20,8 @@ description: Why does a wholly mental world look like lawful, impersonal physics
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-12 14:13:15+00:00
+last_deep_review: 2026-10-14 14:55:05+00:00
+lastmod: 2026-10-14 14:55:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +29,8 @@ related_articles:
 - '[[dualism-channel-width-axis]]'
 - '[[open-individualism-and-the-de-combination-problem]]'
 - '[[idealist-answers-to-the-transparency-problem-2026-10-11]]'
+- '[[born-rule-and-the-consciousness-interface]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 title: The Lawful-Appearance Problem
 topics:
 - '[[q3-q4-sliding-boundary-and-transparency-problem]]'
@@ -36,9 +39,9 @@ topics:
 - '[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]'
 ---
 
-The **lawful-appearance problem** is the question every idealism owes an answer to: if reality is wholly mental, why does it present itself, to perception and to physics, as an impersonal, lawful, mathematically structured world that looks nothing like a mind? Earlier articles on The Unfinishable Map, including [the Q3 sliding-boundary article](/topics/q3-q4-sliding-boundary-and-transparency-problem/), call it the transparency problem; the new name avoids a clash with the transparency of experience, a separate topic in philosophy of mind and on the Map.
+The **lawful-appearance problem** is the question every idealism owes an answer to: if reality is wholly mental, why does it present itself, to perception and to physics, as an impersonal, lawful, mathematically structured world that looks nothing like a mind? Earlier articles on The Unfinishable Map, including [the Q3 sliding-boundary article](/topics/q3-q4-sliding-boundary-and-transparency-problem/), call it the transparency problem; the new name avoids a clash with the [transparency of experience](/concepts/phenomenal-transparency-opacity-spectrum/), a separate topic in philosophy of mind and on the Map.
 
-Broken into its parts, the charge loses much of its idealist specificity. [Lawfulness](#lawfulness) (explained below) is owed by every metaphysics, dualism included. The impersonal [structural form](#structural-form) of physics is what any structural description shows, on a premise the Map itself holds. What belongs to idealism alone is narrower: Chalmers's [austerity problem](#austerity), the [explanatory objection](#explanatory-objection) against phenomenalist idealism, and a [constitution or bridging debt](#constitution) that idealism takes on in place of the mind–matter interface. The Map carries an [appearance debt of the same shape](#the-maps-own-appearance-debt), narrower in scope. The decomposition yields a list of who owes what. It does not show whose debt is lighter, and nothing in it is an argument for dualism.
+Broken into its parts, the charge loses much of its idealist specificity. [Lawfulness](#lawfulness) (explained below) is owed by every metaphysics, dualism included. The mathematical [structural form](#structural-form) of physics is what any structural description shows, on a premise the Map itself holds. What belongs to idealism alone is narrower: Chalmers's [austerity problem](#austerity), the [explanatory objection](#explanatory-objection) against phenomenalist idealism, and a [constitution or bridging debt](#constitution) that idealism takes on in place of the mind–matter interface. The Map carries an [appearance debt of the same shape](#the-maps-own-appearance-debt), narrower in scope. The decomposition yields a list of who owes what. It does not show whose debt is lighter, and nothing in it is an argument for dualism.
 
 ## Berkeley's Version {#berkeley}
 
@@ -58,7 +61,7 @@ A further option may make idealist laws *less* brute than physicalist ones. Mør
 
 Why does the world look impersonal and mathematical, so unlike a mind? The answer open to realist idealists rests on a premise older than contemporary idealism. Russell, a neutral monist rather than an idealist, held that "Physics is mathematical, not because we know so much about the physical world, but because we know so little" (1927, p. 163). Physics records structure, so whatever fills the structure, its description will look like equations. Eddington, from the same premise, put his conclusion "crudely": "the stuff of the world is mind-stuff" (1928, p. 276). Chalmers observes that realist idealism is "highly congenial to epistemological structural realism, which says roughly that science reveals the structure of the physical world but not its intrinsic nature" (2019).
 
-The Map holds the same premise. Its [intrinsic-nature](/concepts/intrinsic-nature/) article states that "Structural description is the method of physics, and structure all it can express." A metaphysics that accepts this cannot treat the impersonal look of physics as evidence against a mental base, since the look is fixed by the method of description rather than by what is described. What remains is Newman's objection that structure alone is too thin to pick out any relations, and the Map's [treatment of Newman](/concepts/ontic-structural-realism/#newman) concedes that the objection "cuts both ways": it bears on the Map's epistemic structural realism as much as on the idealist's.
+The Map holds the same premise. Its [intrinsic-nature](/concepts/intrinsic-nature/) article states that "Structural description is the method of physics, and structure all it can express." A metaphysics that accepts this cannot treat the mathematical look of physics as evidence against a mental base, since that look is fixed by the method of description rather than by what is described. The premise neutralises the form of the description only. Whether the structure the method finds is rational or teleological in content is a fact about what is described, and that residue is the austerity item below. What remains on the structural side is Newman's objection that structure alone is too thin to pick out any relations, and the Map's [treatment of Newman](/concepts/ontic-structural-realism/#newman) concedes that the objection "cuts both ways": it bears on the Map's epistemic structural realism as much as on the idealist's.
 
 ### Austerity {#austerity}
 
@@ -84,7 +87,7 @@ The slide from dualism to idealism is therefore best described as a conversion: 
 
 The Map cannot press the lawful-appearance problem without naming its own version. On the corridor reading that its [observational-closure](/concepts/observational-closure/) article uses to explain why mental causation is invisible in experiments, consciousness selects among Born-weighted outcomes, and "the selections are posited to average to exactly the Born distribution across the ensemble". That is a mental process required to look, in aggregate, exactly like physics.
 
-The shape matches the charge against idealism: something non-physical must present as lawful physical statistics. The scope is narrower, confined to selection events at quantum indeterminacies rather than the whole of physics. And the match is posited rather than explained: the Map adopts it to respect the empirical record, and nothing in its account of conscious selection derives it. The "bending" alternative, which the Map holds open, drops the posit and accepts deviations that sufficiently precise aggregate tests could detect.
+The shape matches the charge against idealism: something non-physical must present as lawful physical statistics. The scope is narrower, confined to selection events at quantum indeterminacies rather than the whole of physics. And the match is posited rather than explained: the Map adopts it to respect the empirical record, and nothing in its account of conscious selection derives it. The "bending" alternative, which the Map holds open (see [the corridor-versus-bending taxonomy](/topics/born-rule-and-the-consciousness-interface/)), drops the posit and accepts deviations that sufficiently precise aggregate tests could detect.
 
 ## Rival Readings of the Decomposition {#rival-readings}
 
