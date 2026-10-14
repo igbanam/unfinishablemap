@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-09-24 19:31:09+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-14 10:38:50+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 20:15:52+00:00
-lastmod: 2026-09-24 19:31:09+00:00
+lastmod: 2026-10-14 10:38:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The conclusion follows: consciousness has fitness effects. And if it has fitness
 
 Thomas Huxley offered the classic analogy: consciousness is like the steam whistle on a locomotive—produced by the engine's operation but not contributing to its movement. The train runs because of the engine; the whistle just signals that the engine is running.
 
-Sophisticated epiphenomenalists respond to the evolutionary argument by noting that selection acts on genes, not experiences. What evolves is the neural machinery that produces consciousness; whether consciousness itself does anything is beside the point. If neural complexity produces both adaptive behaviour and conscious experience, both will appear to have evolved together—even if experience is causally inert.
+Sophisticated epiphenomenalists respond to the evolutionary argument by noting that [selection acts on genes, not experiences](/topics/inheritance-problem-for-the-psychophysical-law/). What evolves is the neural machinery that produces consciousness; whether consciousness itself does anything is beside the point. If neural complexity produces both adaptive behaviour and conscious experience, both will appear to have evolved together—even if experience is causally inert.
 
 ## Why the Response Fails
 

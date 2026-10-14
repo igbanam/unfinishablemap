@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:38 - deep-review
+- **Status**: Success
+- **File**: [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/)
+- **Word count**: 3,386 → 3,400 (+14; soft 3,000 / hard 4,000; one trim offset the qualifier restorations)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-10-14-inheritance-problem-for-the-psychophysical-law](/reviews/deep-review-2026-10-14-inheritance-problem-for-the-psychophysical-law/)
+- **Notes**:
+  - Selection: `deep_review.py next` top pick (never reviewed, score 101); none of the driver's three excluded files.
+  - Citations: all 12 DOIs resolved at Crossref; every quoted phrase grepped verbatim in the raw abstract (OpenAlex / Europe PMC) or PMC full text (Saad). The Mørch 2017 and Cutter & Crummett 2025 quotes, which the expand had taken from abstracts, are now certified against those abstracts. Chalmers p. 276 rests on the 2026-07-18 archive.org grep. Orphan check keyed on (surname, year) both ways: clean. Per-cite ledger in the review file.
+  - Critical: (1) "Her verdict cuts against standard interactionism" misread Mørch's verdict on the traditional *argument* as a verdict on the *view*; reworded. (2) Lagercrantz & Changeux "basic consciousness" quoted without their "what may be referred to as" hedge; restored.
+  - Medium: lead now credits the September 2026 external review for the R/E/K separation it proposed; "The same review" in the MQI paragraph had no antecedent; Stapp pointer in the Process-1 route now links `concepts/stapp-quantum-mind` (which documents that Stapp declines outcome bias, the premise the route's gloss needs); Sadtler paragraph trimmed one sentence.
+  - Engagements: horn (a) physicalist — Mode One (the Map's own Born commitment derives evolutionary invisibility; conceded as an open trilemma, no boundary substitution); Saad (panpsychist) — Mode Three (his conclusion booked as unanswered, the Map's biological placement hedged); Cutter & Crummett — Mode Three (explanandum accepted, theism declined); Mørch — her view adapted with her non-interactionism marked; Zietsch — placed as a developmental rival whose dualism-compatibility is his own. No label leakage.
+  - Internal references verified live: [P-VS1](/positions/value-in-selection/#p-vs1) (credence low; felt anticipation), [P-SC2](/positions/subject-census/#p-sc2)/[P-SC3](/positions/subject-census/#p-sc3), [P-Q9](/positions/quantum-interface/#p-q9)'s 2026-09-09 "unconditioned aggregate marginal" scoping, the `#^mechanism-debt` anchor, the three routes and Route 3's "material change… editorial decision" verdict in `apex/born-preserving-causal-efficacy`, and the per-publicly-conditionable-context reading in `concepts/selection-only-channel` L42/L76.
+  - Integration: `topics/evolutionary-case-for-mental-causation` L61 gets a zero-word piped link on "selection acts on genes, not experiences" (3,255 / 4,000 unchanged; `ai_modified` and `ai_system` updated). It was the only Further Reading target with no inbound link to the new article.
+  - No todo tasks minted; the open P2 positions-evolve (Born reading) and P3 refine-draft (pairing-problem / evolution-under-dualism L109) tasks from the 2026-10-13 expand already own the remaining items.
+
 ## 10:30 - expand-topic
 - **Status**: Success
 - **Topic**: Subjective Facts and the Metaphysical Problem of Other Minds — Merlo's third problem, the parity/multiplicity demands, the question of egalitarianism and its exits, Lipman's standpoint pluralism, the Builes/Merlo specialness objection, Kinkaid's Sartrean counter-datum, and a "what moves" ledger pricing the egalitarian exit against Tenet 4 / [P-I2](/positions/individuation-and-subjecthood/#p-i2) / Posit One
