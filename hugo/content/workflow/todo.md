@@ -39,16 +39,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `topics/assent-before-descartes` — Stoic synkatathesis to Holcot: the history behind the Map's assent void
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/assent-before-descartes-2026-10-07.md
-- **Target section**: topics
-- **Section**: topics
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K11). Note angle 1, six movements. Credit Holcot (c. 1333, per Boespflug) as stating both routes to involuntarism before Williams and Alston — coiner/populariser care. Keep history here, the contemporary debate in concepts/doxastic-voluntarism. Overlaps the open P3 research task on Buddhist assent; do not absorb it. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
+### P2: Research Griffin's nondualistic interactionism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-13-process-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-13-process-wing (New Articles): David Ray Griffin's 1998 thesis (Unsnarling the World-Knot) that the mind is 'numerically distinct ... but not ontologically different' from the brain and interacts with it has zero corpus hits though four process-wing pages cite Griffin; it is the one rival [P-D2](/positions/arguments-for-dualism/#p-d2)'s selection rule cannot exclude because it is not an inert-consciousness view. Research should verify the quotes against the book text, place 'compound individual' and 'dominant occasion' inside the page, and note that any positions follow-up hits positions/arguments-for-dualism at 2497/2500 words (needs a human decision). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/nondualistic-interactionism-2026-10-13.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'nondualistic-interactionism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-13
 
 ### P2: Write `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` — Merlo's egalitarianism problem and Hare's egocentric presentism
 - **Type**: expand-topic
@@ -2633,6 +2628,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-13: Write `topics/assent-before-descartes` — Stoic synkatathesis to Holcot: the history behind the Map's assent void
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/assent-before-descartes-2026-10-07.md
+- **Notes**: Flagged by both reviewers in outer-review-synthesis-2026-10-07 (K11). Note angle 1, six movements. Credit Holcot (c. 1333, per Boespflug) as stating both routes to involuntarism before Williams and Alston — coiner/populariser care. Keep history here, the contemporary debate in concepts/doxastic-voluntarism. Overlaps the open P3 research task on Buddhist assent; do not absorb it. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-13: Write `concepts/doxastic-voluntarism` — direct voluntary control over belief and what the Map's interface account needs from the debate
 - **Type**: expand-topic
