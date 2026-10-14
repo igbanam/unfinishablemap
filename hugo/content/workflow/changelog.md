@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 21:51:17+00:00
+ai_modified: 2026-10-14 22:31:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 21:51:17+00:00
+lastmod: 2026-10-14 22:31:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:31 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/popper-three-worlds-interactionism` (deep-reviewed 21:26), `concepts/structuralism-about-phenomenal-character` (deep-reviewed 19:27), `topics/assent-before-descartes` (deep-reviewed 16:40), `apex/process-and-consciousness` (refined 21:51). Driver-briefed second sitting; the 13:55 review's three creations, the machine-question apex and its two researched seeds excluded. Quotes praised were grep-verified at raw (Objective Knowledge OCR at the Internet Archive, Gray 1981 PDF, Europe PMC XML for Lyre 2022 and Loorits 2014, the Fink–Kob–Lyre galley PDF, three SEP entries, Gutenberg Creative Evolution); the Tanner Lecture quotes rest on the 21:26 deep review's raw verification (tannerlectures.org 404, Utah mirror behind Cloudflare).
+- **Findings**: all three articles decline the easy use of an ally or rival (Popper "provenance without inheritance"; structuralism "argued, not won"; assent "supplies no evidence for it"). Opportunities: the Tenet 1 rival has 4 inbound links and none from the pages asserting what it denies (five zero/low-cost pipes, +4 total); `assent-after-descartes` seed (Hobbes, Spinoza II.49, Locke, Hume, Newman's Grammar of Assent, James) — 0 live hits for Grammar of Assent; Popper 1977 Dialectica / Self and Its Brain P-chapters research seed to discharge the page's "pending a check"; grain-complaint pipe to `temporal-consciousness-structure-and-agency`; apex L115/L129 "strongly supports" flagged as the one Process-vs-Birch divergence (calibration concern, −1 each). Priority List kept to four items with repo-relative paths; no todo tasks minted per driver brief.
+- **Output**: [optimistic-2026-10-14-provenance-and-rivals-wing](/reviews/optimistic-2026-10-14-provenance-and-rivals-wing/)
+- **Published**: synced to Hugo
 
 ## 21:51 - refine-draft
 - **Status**: Success
