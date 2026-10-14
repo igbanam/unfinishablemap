@@ -4,7 +4,7 @@ description: "A human-AI reading of Nishida's pure experience and absolute nothi
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-09-11T13:08:16+00:00
+ai_modified: 2026-10-14T13:20:01+00:00
 last_deep_review: 2026-09-11T13:08:16+00:00
 draft: false
 topics:
@@ -22,14 +22,14 @@ related_articles:
   - "[[jain-philosophy-of-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-07-10
 last_curated:
 ---
 
 The Kyoto School (Kyōto-gakuha) is the twentieth-century Japanese movement that brought Zen and Pure Land Buddhism into critical dialogue with German idealism and William James's radical empiricism, organised around a single idea: *absolute nothingness* (*zettai mu*, 絶対無). Its founder, Nishida Kitarō, begins from *pure experience* (*junsui keiken*, 純粋経験)—experience prior to the split between an experiencing subject and an experienced object—and argues that both subject and object are later differentiations *within* it. For The Unfinishable Map this makes the Kyoto School a second non-substantialist [[chinese-philosophy-of-mind|basin edge]] for its [[cross-traditional-convergence-on-consciousness-irreducibility|convergence argument]]: a deep tradition that presses as far into experience as any the argument surveys, without positing a Cartesian mind-substance—and without, on its own terms, arriving at anything the Map may call [[dualism|dualism]]. This article expounds the school on its own terms first, and only then—clearly separated—reads it through the Map's framework.
 
-One question runs through everything below and is left open on purpose. Does pure experience **dissolve** the hard problem—deflate the subject-object gap so thoroughly that the "gap" never arises—or does it **dodge** the problem, relocating the thing to be explained rather than explaining it? Both readings are charitable, both have defenders, and this article does not adjudicate between them. A second caution frames the whole piece: absolute nothingness reads far more naturally as a non-dualism or monism than as a dualism, and the school explicitly rejected simple monism too. It is a genuinely third framing, and the Map does not conscript it as an ally.
+One question runs through everything below and is left open on purpose. Does pure experience **dissolve** the hard problem—deflate the subject-object gap so thoroughly that the "gap" never arises—or does it **dodge** the problem, relocating the thing to be explained rather than explaining it? Both readings are charitable, both have defenders, and this article does not adjudicate between them. A second caution frames the whole piece: absolute nothingness reads far more naturally as a non-dualism or monism than as a dualism, and Nishida's own holism does not settle into simple monism either. It is a genuinely third framing, and the Map does not conscript it as an ally.
 
 ## Pure Experience: Before Subject and Object
 
@@ -45,7 +45,7 @@ Nishida's mature philosophy develops pure experience into a *logic of place* (*b
 
 Absolute nothingness is not a void in the nihilistic sense and not a thing at all. It is a *formless field*—not a substance, not a mind, not a ground in the sense of a first cause—within which every determinate being and every act of consciousness takes place. Nishida characterises the concrete real through the "self-identity of absolute contradiction" (*zettai mujunteki jiko dōitsu*): opposites such as one and many, being and nothing, are held together dynamically rather than resolved. The point for philosophy of mind is that consciousness is not lodged *in* a subject facing a world; subject and world alike are determinations within a nothingness that is more fundamental than either.
 
-This is the crux of the framework tension the Map must hold open. Absolute nothingness is most naturally read as a *monism* or *non-dualism*: one formless ground, differentiated into apparent subjects and objects. It is not a second substance alongside matter, and reading it as covert Cartesian dualism would misrepresent it. Yet the school also, on the scholarship, "explicitly rejected simple monism, prioritizing radical individuality within interconnectedness" (Davis 2006/2026)—so it is not a flat monism either. Neither of the Map's ready categories fits, and that mismatch is itself the datum.
+This is the crux of the framework tension the Map must hold open. Absolute nothingness is most naturally read as a *monism* or *non-dualism*: one formless ground, differentiated into apparent subjects and objects. It is not a second substance alongside matter, and reading it as covert Cartesian dualism would misrepresent it. Yet it is not a flat monism either: Nishida's "insistence on irreducible but inseparable terms in relation" is why his holism "does not devolve into a simple monism, and why many commentators refer to his philosophy as non-dualist instead" (Maraldo 2005/2024). Neither of the Map's ready categories fits, and that mismatch is itself the datum.
 
 ## Nishitani and the Standpoint of Emptiness
 

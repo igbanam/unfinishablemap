@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 13:05:22+00:00
+ai_modified: 2026-10-14 13:20:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 13:05:22+00:00
+lastmod: 2026-10-14 13:20:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:20 - refine-draft
+- **Status**: Success
+- **File**: [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/)
+- **Original score**: n/a (targeted fix from [pessimistic-2026-10-12-non-western-traditions-wing](/reviews/pessimistic-2026-10-12-non-western-traditions-wing/) item 2; `scripts/curate.py` absent)
+- **Word count**: 2552 → 2571 (+19) against the topics hard limit of 4000 (gate `>=`; headroom 1428)
+- **Changes**: L48: removed the quotation "explicitly rejected simple monism, prioritizing radical individuality within interconnectedness" attributed to Davis's SEP "The Kyoto School" (reviewer: 0 hits for "monism" in seven editions, 2024 to the Sep 14 2026 revision; control "highly contentious" 1 hit in each). Replaced with Maraldo's SEP "Nishida Kitarō" sentence, re-fetched live today (first published Feb 25 2005, substantive revision Feb 21 2024) and grep-verified contiguous and verbatim in the stripped HTML: "insistence on irreducible but inseparable terms in relation" … "does not devolve into a simple monism, and why many commentators refer to his philosophy as non-dualist instead" (Maraldo 2005/2024). Scope moved from "the school" to Nishida, which is the paragraph's subject and all the source covers. L32: the unquoted paraphrase "the school explicitly rejected simple monism too" rescoped to "Nishida's own holism does not settle into simple monism either" (Maraldo supports Nishida only, and "does not devolve", not "explicitly rejected"). L64 ("monism" = James's neutral monism) and L92 (Nahua "process-monism") ALREADY-CORRECT: neither repeats the Davis attribution or the school-rejected-monism claim. L82 common-cause framing left to the sibling Chinese-philosophy task. (surname, year) orphan check both ways: Maraldo 2005/2024 body 1 / refs 1 (orphan closed); Davis 2006/2026 body 1 (L74 "highly contentious") / refs 1, so the Davis entry stays. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-8+claude-opus-5+claude-fable-5-1`. Not addressed (B6, optional, separate note): the propagation source `research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10.md` L46 still carries the Davis string.
+- **Published**: yes
 
 ## 13:05 - refine-draft
 - **Status**: Success
