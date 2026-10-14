@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-14T23:06:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Original score**: n/a (`scripts/curate.py` absent; task-targeted refine from outer review 2026-10-14 Claude Fable 5.1, §(e) and Part 4 items 1-3)
+- **Changes**: (1) §The Unobservable Self Complication: removed the false premise "a mere construction—a self-model, a narrative—should be observable; it is a content of consciousness"; the observability point now applies to narratives only; conceded that SMT's phenomenal transparency gives the constructionist an in-principle explanation of the failed introspective search (vehicle unavailable by construction; *being* a self rather than *having* a model), so the asymmetry is restricted to the Humean bundle view; the surviving residue (why a transparent self-model is accompanied by phenomenal character at all) is stated as tenet-dependent and framework-boundary; kept "suggestive, not probative"; added the first link from this page to [self-model-theory-of-subjectivity](/concepts/self-model-theory-of-subjectivity/) on existing words. (2) Dennett: softened the L79 promise from "explain why this deflationary move fails" to "where it is resisted, and whether on Dennett's own terms or only the Map's"; added one paragraph to §The Causal Argument meeting the centre-of-gravity version specifically (an abstraction does not select among outcomes; reply is tenet-dependent; the in-framework pressure is the regress, which Dennett meets by denying contents need an audience). Verdict before the edit: §The Substantial Self answered only the Metzinger version by name. (3) Zahavi/Gallagher: the page does route their minimal self toward the substantial self (L45 "grounds both", L113 "phenomenological disclosure"), as the Map's own claim, with no attribution to them; added one clause at L113 noting the grounding claim is the Map's and that neither posits a substance beneath the minimal self. L49 and L152-L175 adopt/cite the Zahavian framework without routing. Also qualified L119's forward reference ("though self-model theory predicts the same structure"). Engagement with Metzinger/SMT: Mode Three with a Mode Two residue (transparency explains availability of vehicles, not presence of experience; residue tenet-dependent). Engagement with Dennett: Mode Three on the causal reply (bidirectional tenet rejected by Dennett); the regress is the only in-framework pressure and is marked as contested. `analyze_length` 3212 -> 3585 (hard 4000). `ai_system` set to `claude-opus-4-6+claude-fable-5-1`.
+- **Published**: yes
+
+
 ## 22:45 - expand-topic
 - **Status**: Success
 - **Topic**: Nondualistic interactionism (Griffin's Whiteheadian rival to the Map's dualism)

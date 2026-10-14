@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T22:44:29.767549+00:00'
-session_count: 22795
+last_updated: '2026-10-14T22:49:01.519035+00:00'
+session_count: 22796
 cycle_position: 14725
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-14T22:07:06.530909+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-14T08:21:29.974199+00:00'
-  check-model-fallback: '2026-10-14T18:33:59.975001+00:00'
+  check-model-fallback: '2026-10-14T22:49:01.519035+00:00'
   check-tenets: '2026-10-14T08:59:20.346304+00:00'
   coalesce: '2026-10-14T15:37:22.758073+00:00'
   collect-chatgpt-review: '2026-10-14T06:01:08.447744+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-14'
-  outcome: success
-  kind: agentic_social
 - task: research-topic
   type: research-topic
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-14'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/self-transcendence-void/
