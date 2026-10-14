@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T12:36:01+00:00
+ai_modified: 2026-10-14T13:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:02 - deep-review
+- **Status**: Success
+- **File**: [[topics/mad-dog-everettianism]]
+- **Word count**: 2993 → 2999 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate References number 10 → renumbered 10–14 with Saunders DOI added; Soulas et al. "counterexample" framing re-attributed — the word is Stoica's, their own phrase is that the result "contradict[s] one of Stoica's strongest claims"; Wallace 2003 pattern quote re-attributed to his "Dennett's criterion")
+- **Enhancements made**: 2 (Stoica 2026 §6.5 "covered by" wording; Carroll-reply currency line re-dated after a fresh search found none)
+- **Citation ledger**: 12/12 real-correct at Crossref; 42 quotations grep-verified against pdftotext of arXiv:1801.08132, 2103.09780, 2102.08620, 2512.07468, 2603.07674, quant-ph/0107144 and the live Springer page for Ney 2023; superlative sweep empty; orphan check (surname, year) clean both directions
+- **Engagement modes**: Carroll/HSF Reading A — Mode Three (boundary honestly marked); Reading B — conditional Mode One (uses only what HSF grants; declared contested and HSF-bound); Saunders/Wallace indexicality reply — Mode Three via P-I5; no label leakage
+- **Output**: [[reviews/deep-review-2026-10-14-mad-dog-everettianism]]
 
 ## 12:36 - refine-draft
 - **Status**: Success
