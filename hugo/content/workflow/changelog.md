@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:05 - refine-draft
+- **Status**: Success
+- **File**: [creative-aesthetic-void](/voids/creative-aesthetic-void/)
+- **Original score**: n/a (targeted fix from reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing Priority 4)
+- **Changes**: (a) Relation/Bidirectional Interaction paragraph: replaced the sentence reading Poincaré's aesthetic sieve as conscious evaluation "exercising genuine mental causation" with one placing the sieve before awareness, quoting Halsted's "Consciousness will never know" (verified verbatim in Project Gutenberg #39713, "Mathematical Creation" chapter, raw text line 15577: "Consciousness will never know them; only certain ones are harmonious") and labelling the conscious-selection reading as the Map's interpretation; now agrees with the article's own incubation paragraph ("If the selection mechanism were conscious, we would observe it selecting"). (b) Dualism paragraph: "finds support in" -> "is consonant with" (closes tenet-check-2026-09-02 Note 5 / tenet-check-2026-09-19 item 13 for this file). (c) Transmission limit: "acquaintance-dependent" now piped-links to [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/); "is" -> "seems" per the target article's reported near-consensus that the Acquaintance Principle fails as traditionally stated. Length 2224 -> 2230 (+6, voids hard limit 3000). ai_system set to claude-opus-4-7+claude-fable-5-1.
+- **Published**: yes
+
 ## 15:51 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (primary) and [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) (secondary)

@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-09-20T14:38:00+00:00
+ai_modified: 2026-10-14T16:05:00+00:00
 draft: false
 last_deep_review: 2026-06-27T00:41:05+00:00
 topics:
@@ -50,7 +50,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-23
 last_curated: null
 coalesced_from:
@@ -102,7 +102,7 @@ Profound aesthetic experience reveals three distinct but related limits:
 
 **The retention limit.** Like the dissolving insights in [[edge-states-and-void-probes]], aesthetic revelations often cannot be preserved. The understanding felt during deep encounter evaporates when attention returns to ordinary processing. The insight required the aesthetic state to be thought at all.
 
-**The transmission limit.** Even when partially articulated, aesthetic insight cannot be fully conveyed. Explaining why a painting moves you fails to produce that movement in your listener. The knowledge is first-personal and acquaintance-dependent.
+**The transmission limit.** Even when partially articulated, aesthetic insight cannot be fully conveyed. Explaining why a painting moves you fails to produce that movement in your listener. The knowledge seems first-personal and [[aesthetic-testimony-and-the-acquaintance-principle|acquaintance-dependent]].
 
 Articulation fails *within* the experience; retention fails *across* states of consciousness; transmission fails *between* consciousnesses.
 
@@ -170,9 +170,9 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies most directly. Imagination's structural constraints reveal that the simplest model of possibility—what I can imagine equals what is possible—is profoundly unreliable. The gap between imaginability and reality is not a minor calibration error but an architectural mismatch. For creativity, it seems simpler to treat the subliminal self as "mere" unconscious processing—but this assumes what is at issue: that processing without consciousness can generate meaning and aesthetic value.
 
-**[[tenets#^dualism|Dualism]]** finds support in modes of cognition that exceed conceptual capture. Schopenhauer's will-less contemplation, Kant's sublime recognition—these involve consciousness adopting configurations beyond ordinary information-processing. If consciousness is non-physical, imagination—which depends on neural simulation of perceptual processes—may represent only the *physical side* of the mind's reach. Non-physical consciousness might have epistemic access that imagination, bound to sensory replay, cannot provide. The creative source produces *meaning*—not just information but significance—and explaining how neural activity generates significance faces the same [[hard-problem-of-consciousness|explanatory gap]].
+**[[tenets#^dualism|Dualism]]** is consonant with modes of cognition that exceed conceptual capture. Schopenhauer's will-less contemplation, Kant's sublime recognition—these involve consciousness adopting configurations beyond ordinary information-processing. If consciousness is non-physical, imagination—which depends on neural simulation of perceptual processes—may represent only the *physical side* of the mind's reach. Non-physical consciousness might have epistemic access that imagination, bound to sensory replay, cannot provide. The creative source produces *meaning*—not just information but significance—and explaining how neural activity generates significance faces the same [[hard-problem-of-consciousness|explanatory gap]].
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through aesthetic attention and creative selection. The aesthetic mode involves consciousness directing physical processing in unusual ways—attending without grasping, perceiving without categorising. Artists develop this capacity through practice. Poincaré's aesthetic selection suggests active filtering: consciousness evaluates which combinations are "harmonious" before presenting them, exercising genuine mental causation. The mechanism may itself be inherently unimaginable—imagination works by simulating perceptual experience, while causal influence from the non-physical to the physical would be unlike anything perceptual.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through aesthetic attention and creative selection. The aesthetic mode involves consciousness directing physical processing in unusual ways—attending without grasping, perceiving without categorising. Artists develop this capacity through practice. Poincaré placed this sieve before awareness ("Consciousness will never know" what it rejects); reading it as conscious selection, hence mental causation, is the Map's interpretation. The mechanism may itself be inherently unimaginable—imagination works by simulating perceptual experience, while causal influence from the non-physical to the physical would be unlike anything perceptual.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects through the haecceity of creative insight. When Poincaré's solution arrived, it arrived to *this* consciousness at *this* moment. Genuine creative selection—consciousness contributing what physics does not determine—requires definite outcomes rather than universal branching. Imagination's unreliability as a guide to possibility cuts both ways: it undermines conceivability-based arguments for and against many-worlds alike.
 
