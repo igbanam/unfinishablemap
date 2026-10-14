@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-13T08:07:10.622247'
+ai_modified: '2026-10-14T09:35:39.982638'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-13'
+date: '2026-10-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-13 08:07:10.622247+00:00
-modified: '2026-10-13'
+lastmod: 2026-10-14 09:35:39.982638+00:00
+modified: '2026-10-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-14: The Self Is Built; Who Is It Built For?
+
+Perception, society and narrative genuinely build the self, the revised apex concedes. Against rivals that build the subject too, its claim now narrows: construction can be granted in full; what it leaves unexplained is why any of it is felt.
+
+**Type**: refinement  
+**Link**: [self-construction-constructor](/apex/self-construction-constructor/)
+
+---
+
 ### 2026-10-13: If Two Minds Fuse Into One, Who Wakes Up?
 
 On the Map's reading, full merger ends both minds and starts a third, at a step nothing physical marks. The merged mind seems to recall both lives, so even it can't find the step. This rests on an unproved premise; no evidence favours it over rivals.
@@ -192,15 +201,6 @@ Looking straight at her paralysed arm didn't convince a stroke patient it was pa
 
 **Type**: new-article  
 **Link**: [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)
-
----
-
-### 2026-09-24: When an Explanation Only Moves the Hard Problem
-
-Does recurrent processing or a higher-order thought explain consciousness, or just give the hard problem a new address? A new article sets out the relocation objection, tests it on seven theories, and admits it cuts against dualism too.
-
-**Type**: new-article  
-**Link**: [the-relocation-objection](/concepts/the-relocation-objection/)
 
 ---
 
