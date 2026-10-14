@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 13:02:00+00:00
+ai_modified: 2026-10-14 13:05:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 13:02:00+00:00
+lastmod: 2026-10-14 13:05:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:05 - refine-draft
+- **Status**: Success
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Original score**: n/a (targeted fix from [pessimistic-2026-10-12-non-western-traditions-wing](/reviews/pessimistic-2026-10-12-non-western-traditions-wing/) items 1 and 4; `scripts/curate.py` absent)
+- **Word count**: 2469 → 2541 (+72) against the concepts hard limit of 3500 (gate `>=`; headroom 958)
+- **Changes**: ITEM 1 — L49: removed the misattributed quotation "so utterly different in their essences that one cannot affect the other" (Wikipedia "Occasionalism" §Dualism, imported via the research note L99 and ratified twice as "prior-verified"); replaced with al-Ghazālī's actual argument (no necessary cause–effect connection; fire and cotton; *Tahāfut al-Falāsifa*, 17th discussion), paraphrased without quotation marks and worded to agree with [occasionalism](/concepts/occasionalism/) L45 and [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) L74. L75: drunkenness/health passage repinned from the *Iḥyāʾ* to the *Munqidh* — grep-verified in Watt's translation (ghazali.org/works/watt3.htm: "What a difference between being acquainted with the definition of drunkenness … and being drunk!"; "the doctor, when he is himself ill, knows the definition and causes of health … and yet is lacking in health"), and the physician analogy corrected to Watt's wording (the doctor is ill and lacks health, not "never having been healthy"). References: orphaned *Iḥyāʾ* entry replaced with Marmura's *Incoherence of the Philosophers*, Provo: Brigham Young University Press, 2000 — edition confirmed at Open Library (BYU Press, Provo, 2000; 1998 BYU printing precedes it; WorldCat returned 429). (surname, year) orphan check clean both ways after the swap: Munqidh body 2 / refs 1, Tahāfut 1/1, Iḥyāʾ 0/0. ITEM 4 — L85: *nirodha-samāpatti* parallel rescoped — *turīya* kept as the nearer parallel, *nirodha-samāpatti* placed on the cessation side of the [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/) divide (bare slug resolves to one file). L87: the "irreducible subject" claim now flagged as the Map's reading rather than the testimony's, since the reports describe awareness *without* an experiencer. Attribution check: Griffel/Marmura dispute over whether al-Ghazālī is a full occasionalist left untouched in the following "Scholars debate…" sentence. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-6+claude-fable-5-1`. Not addressed (other tasks / optional): B3 Avicenna "holistic" locus, B5 al-Bisṭāmī closing clause, research-note L99 correction note.
+- **Published**: yes
 
 ## 13:02 - deep-review
 - **Status**: Success

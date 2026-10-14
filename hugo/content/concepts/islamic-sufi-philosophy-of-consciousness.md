@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-09-21 09:23:39+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-14 13:05:22+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 20:44:00+00:00
-lastmod: 2026-09-21 09:23:39+00:00
+lastmod: 2026-10-14 13:05:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ Islamic philosophy of mind (*'ilm al-nafs*) developed within a broadly Aristotel
 
 Avicenna's crucial insight, developed further in his *al-Shifā'*, is that mental causation operates holistically rather than at discrete spatial points. The soul governs the body not by pushing matter at a specific location but by organizing bodily processes through continuous guidance. Modern interpreters have noted the resonance between this holistic picture and quantum approaches where mental influence shapes probability distributions across neural systems rather than acting at isolated points.
 
-**Al-Ghazālī (1058–1111 CE)** made two contributions that mark turning points. First, his [occasionalist](/concepts/occasionalism/) critique: mind and matter are "so utterly different in their essences that one cannot affect the other," with God as the sole true cause maintaining their apparent connection. Scholars debate whether this is full occasionalism or merely a denial of *necessary* causal connections—the weaker reading anticipates Hume by six centuries. Second, and more consequentially for the Map, al-Ghazālī argued that rational philosophy (*falsafa*) alone cannot access the deepest truths about consciousness. In his autobiographical *al-Munqidh min al-Dalāl* (Deliverance from Error), he records his own crisis of certainty and concludes that contemplative practice—Sufi *dhikr* and *murāqaba*—provides epistemic access that pure reason cannot.
+**Al-Ghazālī (1058–1111 CE)** made two contributions that mark turning points. First, his [occasionalist](/concepts/occasionalism/) critique in the *Tahāfut al-Falāsifa* (*The Incoherence of the Philosophers*): the connection between what is habitually taken for a cause and its effect is not necessary—when fire touches cotton, the burning is God's act, not the fire's. The argument is general rather than a claim about mind and matter specifically, so it denies independent causal power to body and soul alike. Scholars debate whether this is full occasionalism or merely a denial of *necessary* causal connections—the weaker reading anticipates Hume by six centuries. Second, and more consequentially for the Map, al-Ghazālī argued that rational philosophy (*falsafa*) alone cannot access the deepest truths about consciousness. In his autobiographical *al-Munqidh min al-Dalāl* (Deliverance from Error), he records his own crisis of certainty and concludes that contemplative practice—Sufi *dhikr* and *murāqaba*—provides epistemic access that pure reason cannot.
 
 **Mulla Sadra (c. 1572–1640 CE)** proposed the most radical solution to the mind-body problem within Islam. His doctrine of substantial motion (*al-ḥarakat al-jawhariyyah*) holds that everything undergoes continuous transformation at the level of substance. The soul originates as a bodily reality and progressively transforms into an immaterial one—"corporeal in its origination and spiritual in its subsistence" (*jismānī al-ḥudūth, rūḥānī al-baqā'*). This dissolves the interaction problem by treating soul and body as grades on a continuum of existence rather than alien substances requiring a bridge—an approach with deep affinities to [process-philosophy](/concepts/process-philosophy/).
 
@@ -76,7 +76,7 @@ The most distinctive contribution of the Sufi tradition to philosophy of conscio
 
 **Dhikr** (remembrance/invocation) is the primary contemplative method: sustained repetition of divine names or Qur'anic phrases, combined with controlled breathing and posture, induces progressive transformations of awareness. Practitioners report a characteristic sequence: initial effortful concentration gives way to automatic repetition, then to the dissolution of the distinction between the invoker and the invocation, and finally to [altered states](/concepts/altered-states-of-consciousness/) described as the complete cessation of ordinary self-referential consciousness.
 
-Al-Ghazālī's defence of this method is philosophically significant. In the *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences), he argues that knowing what intoxication is differs fundamentally from being intoxicated—a distinction that parallels the [knowledge-argument](/concepts/knowledge-argument/) (Mary's Room) by nearly nine centuries. The philosopher who analyses consciousness through rational categories alone is like someone who knows the medical definition of health without ever having been healthy. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
+Al-Ghazālī's defence of this method is philosophically significant. In the *Munqidh*'s account of the Sufi way, he observes that knowing the definition of drunkenness differs fundamentally from being drunk—a distinction that parallels the [knowledge-argument](/concepts/knowledge-argument/) (Mary's Room) by nearly nine centuries. The philosopher who analyses consciousness through rational categories alone is like al-Ghazālī's physician who, while himself ill, knows the definition and causes of health yet lacks it. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
 
 **Murāqaba** (watchful awareness) is a practice of sustained [self-observation](/concepts/introspection/): monitoring one's own mental states without intervention, attending to the arising and passing of thoughts, emotions, and perceptions. The structural parallel to Buddhist *vipassanā* and to Western phenomenological bracketing (*epochē*) is striking and has been noted by scholars of comparative contemplative traditions. What emerges is the recognition of a witnessing dimension of consciousness that is not itself any particular mental content—a discovery convergent with the [witness-consciousness](/concepts/witness-consciousness/) traditions across Hindu, Buddhist, and Christian contemplative lineages.
 
@@ -86,9 +86,9 @@ The Sufi concepts of **fanā'** (annihilation/dissolution of the ego-self) and *
 
 Fanā' is not the destruction of consciousness but the dissolution of its ordinary self-referential structure. The 9th-century Sufi Abū Yazīd al-Bisṭāmī (d. c. 874 CE) described experiences in which the distinction between subject and object collapsed entirely: "I sloughed off my self as a snake sloughs off its skin, and then I looked and saw that I and He were one." Al-Junayd of Baghdad (d. 910 CE), often considered the founder of "sober" Sufism, offered a more measured account: fanā' is the passing away of one's awareness of one's own attributes—not the cessation of awareness itself, but the cessation of self-referential awareness.
 
-This distinction matters philosophically. If fanā' eliminated consciousness altogether, it would be phenomenologically indistinguishable from dreamless sleep or anaesthesia. But practitioners consistently report it as a state of *heightened* awareness—awareness without an experiencer, cognition without a cogniser. The parallel to Buddhist descriptions of *nirodha-samāpatti* (cessation attainment) and to the Advaitic experience of *turīya* (the fourth state beyond waking, dreaming, and deep sleep) is notable.
+This distinction matters philosophically. If fanā' eliminated consciousness altogether, it would be phenomenologically indistinguishable from dreamless sleep or anaesthesia. But practitioners consistently report it as a state of *heightened* awareness—awareness without an experiencer, cognition without a cogniser. The nearer parallel is the Advaitic *turīya* (the fourth state beyond waking, dreaming, and deep sleep); Theravāda *nirodha-samāpatti*, reported as the stopping of perception and feeling altogether, sits on the other side of the [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/) divide.
 
-Baqā'—the state that follows fanā'—is described as consciousness continuing to function but without the ordinary sense of a separate self as its centre. The practitioner acts, perceives, and reasons, but without the habitual identification of awareness with a bounded ego. This raises the question the Map must take seriously: if the self-referential structure of consciousness can be dissolved while awareness persists, is the "self" that the Map's dualism posits identical with awareness itself, or is it a contingent structure within awareness? The Map's framework suggests the latter—the [witness](/concepts/witness-consciousness/) that persists through fanā' is the irreducible subject, while the ego-self that dissolves is a contingent construction. This aligns with Avicenna's Flying Man: what remains when all contingent content is stripped away is not nothing but self-aware existence.
+Baqā'—the state that follows fanā'—is described as consciousness continuing to function but without the ordinary sense of a separate self as its centre. The practitioner acts, perceives, and reasons, but without the habitual identification of awareness with a bounded ego. This raises the question the Map must take seriously: if the self-referential structure of consciousness can be dissolved while awareness persists, is the "self" that the Map's dualism posits identical with awareness itself, or is it a contingent structure within awareness? The Map's framework suggests the latter—the [witness](/concepts/witness-consciousness/) that persists through fanā' is the irreducible subject, while the ego-self that dissolves is a contingent construction—though the reports describe awareness *without* an experiencer, so calling what persists a subject is the Map's reading rather than the testimony's. This aligns with Avicenna's Flying Man: what remains when all contingent content is stripped away is not nothing but self-aware existence.
 
 ## Ibn 'Arabī: The Unity of Being
 
@@ -130,7 +130,7 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 
 1. Ibn Sīnā. *al-Shifā'* (The Healing), *Kitāb al-Nafs* (Book of the Soul). Various translations.
 1. Al-Ghazālī. *al-Munqidh min al-Dalāl* (Deliverance from Error). Trans. R. J. McCarthy. Twayne, 1980.
-1. Al-Ghazālī. *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences). Various translations.
+1. Al-Ghazālī. *The Incoherence of the Philosophers* (*Tahāfut al-Falāsifa*). Trans. Michael E. Marmura. Provo: Brigham Young University Press, 2000.
 1. Mulla Ṣadrā. *al-Asfār al-Arba'a* (The Four Journeys). See SEP, "Mulla Sadra": https://plato.stanford.edu/entries/mulla-sadra/
 1. Ibn 'Arabī. *al-Futūḥāt al-Makkiyya* (The Meccan Revelations). Partial trans. W. Chittick.
 1. Chittick, W. C. (1989). *The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination*. SUNY Press.
