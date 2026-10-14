@@ -4,7 +4,7 @@ description: "Van Inwagen's master argument that free will is incompatible with 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-19T09:08:14+00:00
+ai_modified: 2026-10-14T19:50:27+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-19T09:08:14+00:00
@@ -47,7 +47,7 @@ Two inference rules drive the formal argument (notation shown in code to keep th
 - **Rule Alpha**: from `□p`, infer `Np`. If `p` is necessarily true, then no one has any choice about whether `p`. (Here `□` is broad logical necessity.)
 - **Rule Beta**: from `Np` and `N(p → q)`, infer `Nq`. This is a "transfer of powerlessness" principle: if no one has a choice about `p`, and no one has a choice about the fact that `p` leads to `q`, then no one has a choice about `q`.
 
-The formal argument then chains Beta down from a proposition about the remote past and the laws to a proposition about my present act. Let `P0` describe the state of the world in the remote past, `L` the conjunction of the laws, and `A` my present act. Determinism gives us that `(P0 ∧ L)` entails `A`. Alpha and the powerlessness of the past and laws give us `N(P0 ∧ L)`; repeated application of Beta yields `NA`—no one has any choice about `A`.
+The formal argument then chains Beta down from a proposition about the remote past and the laws to a proposition about my present act. Let `P0` describe the state of the world in the remote past, `L` the conjunction of the laws, and `A` my present act. Determinism gives us that `(P0 ∧ L)` entails `A`. Alpha, applied to that necessitated entailment (rewritten as `□(P0 → (L → A))`), gives `N(P0 → (L → A))`. The powerlessness of the past and of the laws enters as two separate premises, `NP0` and `NL`. One application of Beta yields `N(L → A)`; a second yields `NA`—no one has any choice about `A`. The argument never combines `NP0` and `NL` into `N(P0 ∧ L)`: that step would itself be the agglomeration principle discussed below.
 
 Van Inwagen himself identified **Beta as the argument's weakest link**. Alpha is nearly unassailable; the entailment from determinism is definitional; the powerlessness of the past and laws is intuitive. If the argument fails, it fails at the transfer principle. Much of the subsequent literature is a sustained interrogation of Beta.
 
@@ -59,7 +59,7 @@ The most influential technical attack is due to Thomas McKay and David Johnson (
 
 Agglomeration says that if no one has a choice about `p` and no one has a choice about `q`, then no one has a choice about their conjunction. This looks harmless, but it is demonstrably invalid—and McKay and Johnson gave a counterexample that presupposes neither determinism nor compatibilism, so it cannot be dismissed as question-begging.
 
-Consider a fair coin that, as it happens, no one ever tosses. Let `p` = "the coin does not land heads" and `q` = "the coin does not land tails." Both are true (the untossed coin lands neither way), and no one has any choice about either: no one made the coin fail to land heads, and no one made it fail to land tails. So `Np` and `Nq` both hold. But their conjunction, `p ∧ q` = "the coin lands neither heads nor tails," is something a person *could* have falsified—by picking up the coin and tossing it, thereby making it land one way or the other. So `N(p ∧ q)` is false while `Np` and `Nq` are true. Agglomeration fails; and since Beta entails agglomeration, Beta fails.
+Consider a fair coin that, as it happens, no one ever tosses. Let `p` = "the coin does not land heads" and `q` = "the coin does not land tails." Both are true (the untossed coin lands neither way), and no one has any choice about either: no one could have ensured that the coin landed heads, since a toss might have come up tails, and likewise for tails. So `Np` and `Nq` both hold. But their conjunction, `p ∧ q` = "the coin lands neither heads nor tails," is something a person *could* have falsified—by picking up the coin and tossing it, thereby making it land one way or the other. So `N(p ∧ q)` is false while `Np` and `Nq` are true. Agglomeration fails; and since Beta entails agglomeration, Beta fails.
 
 This result does not refute incompatibilism. It refutes *this formulation* of the argument. Van Inwagen and others responded with revised operators and strengthened readings of "no choice"—a Beta-2, unavoidability-based versions, and reinterpretations of `N` in his later work (2008, 2015). Pedro Merlussi (2022) has argued that the McKay–Johnson counterexample succeeds only if one denies conditional excluded middle, and that on Stalnaker's semantics for counterfactuals a version of Beta can be defended. The dialectic remains open into the 2020s; no formulation has won consensus, and none has been shown to be beyond repair. The current state of play does not decide between a repairable transfer principle and an irreparable one: a defensible version of Beta may yet be recoverable, or it might not, and until the matter is fixed the formal argument's central inference stays under live challenge.
 
@@ -88,13 +88,13 @@ It would *not* show: that we have free will; that determinism is false; that lib
 
 ## Relation to Site Perspective
 
-The Consequence Argument matters to the Map because the Map is committed to incompatibilism. The [[tenets#^dualism|Dualism]], [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets together require that consciousness make a genuine, non-physically-determined difference to what happens. If compatibilism were correct—if free will were consistent with every act being fixed by the past and the laws—the Map's whole apparatus of an agent-causal interface would be unmotivated. The Consequence Argument is the canonical statement of *why* determinism would abolish free will, and so it is the argument the Map's free-will cluster depends on for clearing the field.
+The Consequence Argument matters to the Map because the Map is committed to incompatibilism. The [[tenets#^dualism|Dualism]], [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets together require that consciousness make a genuine, non-physically-determined difference to what happens. If compatibilism were correct—if free will were consistent with every act being fixed by the past and the laws—the Map's *agent-causal* reading of its interface would lose its free-will motivation. The interface itself would not: Tenet 3 rests on mental causation, not free will, and commits only to outcome-selection, which a dualist who held conscious contributions to be fixed by prior mental states could also accept. The Consequence Argument is the canonical statement of *why* determinism would abolish free will, and so it is the argument the Map's free-will cluster depends on for clearing the field.
 
 But the Map must be scrupulous about the division of labor. The argument delivers only the conditional: *if* determinism holds, no free will. To reach the Map's libertarian conclusion, a second premise is needed—that determinism is false, and that the indeterminism which obtains is *agent-harnessable* rather than mere randomness. That second premise is where the Map's distinctive machinery lives: the [[quantum-indeterminacy-free-will|quantum interface]] at which consciousness makes a minimal, non-physical contribution to otherwise-undetermined outcomes, and the [[agent-causation|agent-causal]] metaphysics that lets a selection be the agent's rather than a chance fluctuation. The Consequence Argument clears the ground; the indeterminist premise and the agent-causal account do the positive building. Presenting the argument as though it *proved* the Map's dualism would be exactly the over-reading to avoid.
 
 Two further connections are worth drawing. First, the [[quantum-indeterminacy-free-will|luck objection]] is downstream, not upstream, of the Consequence Argument. The Consequence Argument motivates the *need* for indeterminism; the luck objection then presses on whether indeterminism, once admitted, can amount to control rather than chance. They are distinct problems, and the Map answers them at different points—though the luck objection may be the harder of the two, and clearing the compatibilist field does nothing to answer it. Winning against the compatibilist here buys the Map only the *conditional*; whether its libertarian discharge of that conditional survives the luck objection has to be argued on its own, not assumed as a spoil of this argument's success.
 
-Second, Lewis's local miracle reads suggestively through the Map's lens rather than as a mere adversary. Lewis needs a small, localized divergence from the actual physical laws to make "I could have done otherwise" true; he treats it as a counterfactual device with no law-breaking agent behind it. The Map's [[causal-closure|interactionist picture]] arguably makes that divergence literal and gives it an author: consciousness's minimal, non-physical influence at the quantum interface is precisely a lawful-looking but not physically-determined departure from what the prior physical state alone would fix. Where Lewis posits an unowned miracle to save compatibilism, the Map posits a minimally owned one to ground libertarian selection. The compatibilist device and the interactionist feature are closer than they first appear—which is a reason to engage Lewis's argument seriously rather than dismiss it.
+Second, Lewis's local miracle reads suggestively through the Map's lens rather than as a mere adversary. Lewis needs a small, localized divergence from the actual physical laws to make "I could have done otherwise" true; he treats it as a counterfactual device with no law-breaking agent behind it. The Map's [[causal-closure|interactionist picture]] arguably makes that divergence literal and gives it an author: consciousness's minimal, non-physical influence at the quantum interface is precisely a lawful-looking but not physically-determined departure from what the prior physical state alone would fix. Lewis needs an unowned violation of deterministic law to make the counterfactual true; on the Map's indeterministic picture no violation is needed, and the role his miracle plays is filled by a lawful selection among outcomes physics leaves open. The compatibilist device and the interactionist feature are closer than they first appear—which is a reason to engage Lewis's argument seriously rather than dismiss it.
 
 Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Map reads the indeterminist premise. The indeterminism the Map needs must involve genuine collapse to a single actual outcome, not Everettian branching in which every alternative is realized. Branching would restore a kind of determinism at the level of the universal wavefunction and dissolve the very alternative-possibility structure the Consequence Argument makes salient.
 
@@ -108,7 +108,7 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 - [[source-versus-leeway-incompatibilism]] — Why this counts as a leeway argument, and how it contrasts with source arguments
 - [[causal-closure]] — Where the Map locates the failure of physical closure
 - [[moral-implications-of-genuine-agency]] — What is at stake practically if incompatibilism holds
-- [[tenets]] — The foundational commitments that make incompatibilism load-bearing for the Map
+- [[tenets]] — The foundational commitments the Map's agent-causal reading of free will builds on
 
 ## References
 

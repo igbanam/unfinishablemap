@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 19:27:02+00:00
+ai_modified: 2026-10-14 19:50:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 19:27:02+00:00
+lastmod: 2026-10-14 19:50:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-14T19:50:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-consequence-argument-for-incompatibilism](/topics/the-consequence-argument-for-incompatibilism/)
+- **Task**: P2 todo line 2385; review file `reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing.md`, Priority item 1 (Issues 1–2), item 3's consequence loci (Issue 4), plus off-list Issue 6.
+- **Original score**: n/a (`scripts/curate.py` absent; review-driven targeted fixes)
+- **SEP check**: re-read "Arguments for Incompatibilism" step list before installing: (3) `N(H ⊃ (L ⊃ P))` by Alpha, (4) `NH` fixity of past, (5) `N(L ⊃ P)` by Beta, (6) `NL` fixity of laws, (7) `NP` by Beta; Finch & Warfield 1998 credited for the Beta-2 repair taking `N(L ∧ H)` as one premise. Matches the review's reconstruction.
+- **Changes** (each old string matched exactly once):
+  - L50: formal sketch no longer derives `N(P0 ∧ L)` by Alpha (which would be the agglomeration step L56–62 then refute); now Alpha on `□(P0 → (L → A))`, separate `NP0` and `NL`, two Beta steps, with an explicit note that combining them would be agglomeration. Review's text, with "enter" → "enters" to agree with the singular subject. Finch & Warfield reference not added (optional item, not measured).
+  - L62: `Np` now holds because no one could have *ensured* heads (a toss might come up tails), the ability-to-falsify reading `N` was defined with at L43, instead of "no one made the coin fail to land heads", under which `N(p ∧ q)` would also come out true.
+  - L91: Tenet 3 now motivates, not entails: compatibilism would cost the *agent-causal reading* its free-will motivation, while the interface itself rests on mental causation and commits only to outcome-selection (aligned to `concepts/agent-causation` L61, `tenets.md` L57, [P-A5](/positions/agency-and-will/#p-a5)). Neither of those files edited.
+  - L111: "make incompatibilism load-bearing" → "the Map's agent-causal reading of free will builds on". File now has zero "load-bearing".
+  - L97 (off-list Issue 6): "minimally owned miracle" replaced with the review's inversion wording — Lewis needs a violation of deterministic law, the Map's indeterministic picture needs none, the miracle's role is filled by a lawful selection among outcomes physics leaves open. Removes the clash with Tenet 2's no-violation commitment. +16 words, applied on headroom.
+- **Reasoning mode** (editor-internal): engagement with Lewis unchanged — Mode Three bridge-marking, now without the equivocation on "miracle". Verdict fences from the 07-09/07-19 deep reviews (Beta dialectic open, decisiveness verdict) untouched.
+- **Word count**: `analyze_length` 2,493 → 2,591 (+98; topics hard 4,000, gate `>=`, headroom 1,408). Review's joint estimate for the list items was +79; the off-list item and the formal-sketch expansion account for the remainder.
+- **Frontmatter**: `ai_modified` 2026-10-14T19:50:27+00:00; `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1.
+- **Housekeeping**: no "This is not X. It is Y." present; "load-bearing", "would be unmotivated", "made the coin fail" gone.
+- **Published**: yes
 
 ## 2026-10-14T19:27:02+00:00 - deep-review
 - **Status**: Success
