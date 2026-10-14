@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T21:07:00+00:00
+ai_modified: 2026-10-14T21:26:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:26 - deep-review
+- **Status**: Success
+- **File**: [[concepts/popper-three-worlds-interactionism]]
+- **Word count**: 2721 → 2823 (+102; concepts soft 2500 / hard 3500, soft_warning both sides, 644 under the gate)
+- **Critical issues addressed**: 1 — §The Penny-Toss Objection claimed the Map "differs from Compton's amplifier in positing a selector" and that "Popper did not consider this proposal". The raw "Of Clouds and Clocks" scan says the model Popper rejects already has minds working "by influencing or selecting some quantum jumps" (Objective Knowledge p. 233), and he files the "just within the Heisenberg uncertainties" refinement as a "tiny baby theory" — "perhaps a slight advance here … But I still do not love the baby" (p. 233) — leaving Schlick's objection (p. 232) and the snap-decision grain complaint (p. 233). Paragraph rewritten around the three verified quotations; lead and Minimal Quantum Interaction tenet line updated to match; References entry extended to pp. 232–233.
+- **Medium issues addressed**: 2 — follow-on paragraph's duplicated "constraint of grain" folded into the two named complaints; two redundant sentences trimmed to offset (L57 restatement of Gray's conclusion; L47 "not merely dualists" quote already covered by the lead).
+- **Enhancements made**: 1 — piped cross-link [[concepts/ensemble-level-epiphenomenalism]] from "observer-indistinguishable" (zero word cost).
+- **Citation ledger**: all 9 external references real-correct. Raw-source grep (NFKC-normalised, no summariser) of the Tanner Lecture PDF, the Clouds and Clocks scan (pages pinned by running heads in both layout and raw extractions; raw drops heads 208/234/242/249) and Gray's Reason Papers PDF confirmed every quotation at its stated page; Crossref confirmed Beck & Eccles 1992, Feyerabend 1974, Popper 1977 Dialectica and Popper & Eccles 1977 Springer. Eccles 1973 p. 189 rests on the 2026-09-17 Google Books verification (commit 2aff9ecfbe). (Surname, year) orphan check both directions: clean. Superlative sweep: empty.
+- **Reasoning-mode (editor-internal)**: engagement with Gray: Mode One absorbed — his internal argument against Popper is accepted and its general form applied to the Map's own reasoning, no refutation claimed; engagement with Popper (penny toss): Mixed — in-framework candidacy claim for the intermediate category, now stated as something to be earned against both surviving complaints, followed by the honest bias-without-deviation and grain residue; Feyerabend: relay via Gray only.
+- **Frontmatter**: ai_modified and last_deep_review set to 2026-10-14T21:26:18+00:00; ai_system claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1.
+- **Synced**: hugo/content/concepts/popper-three-worlds-interactionism.md verified (new quotations present, trimmed sentences absent, piped link resolves to /concepts/ensemble-level-epiphenomenalism/).
+- **Output**: [[reviews/deep-review-2026-10-14-popper-three-worlds-interactionism]]
 
 ## 21:07 - refine-draft
 - **Status**: Success
