@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-13 08:34:14+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-14 19:27:02+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[ontic-structural-realism]]'
@@ -12,14 +12,15 @@ concepts:
 - '[[reductionism]]'
 - '[[galilean-exclusion]]'
 created: 2026-10-13
-date: &id001 2026-10-13
+date: &id001 2026-10-14
 description: Structuralism says an experience is its place among other experiences,
   with no intrinsic quality left over. A human-AI study of the Map's most direct rival
   to dualism, its holders and its critics.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-13 08:34:14+00:00
+last_deep_review: 2026-10-14 19:27:02+00:00
+lastmod: 2026-10-14 19:27:02+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-acquaintance]]'
@@ -76,7 +77,7 @@ The rival's strongest charge is that the Map's alternative explains nothing. Lyr
 
 Loorits adds a debunking explanation of why the alternative seems compelling: introspection misreads complex structure as a simple quality, so that on his account the felt simplicity behind the [hard problem](/topics/hard-problem-of-consciousness/) is an artefact of introspective coarseness.
 
-The position also has an empirical programme — similarity ratings, and cross-subject alignment of similarity structures (Kawakita et al. 2025) — and so makes testable claims, which most rivals the Map engages do not. The [inverted-qualia](/concepts/inverted-qualia/) article records that recent colour science arguably favours it.
+The position also has an empirical programme — similarity ratings, and cross-subject alignment of similarity structures (Kawakita et al. 2025) — and so makes testable claims. The [inverted-qualia](/concepts/inverted-qualia/) article records that recent colour science arguably favours it.
 
 ## The Critical Literature {#critiques}
 
@@ -84,13 +85,13 @@ The metaphysical version already has critics, and none is a dualist ally: each a
 
 **Negro (2025)** offers three arguments. *Relational Mary* knows every relation orange bears to the other colours but has never seen orange; if she learns something on seeing it, character outruns relations. It is a [knowledge-argument](/concepts/knowledge-argument/) variant, which Negro links to Newman's problem. The *novel experience* argument holds that if the whole structure fixes character, "any novel experience should change previously instantiated experiences", which Negro finds in conflict with most phenomenological observation. The *lonely experience* argument holds that a single-experience subject is conceivable, though the metaphysical view needs at least two related experiences. Negro concludes that the methodological and epistemological versions "can contribute to consciousness science without heavy and counterintuitive metaphysical commitments": he wants structuralism kept, minus the metaphysics.
 
-The proponents' reply to the lonely case is telling. Fink, Kob and Lyre write that "even if (metaphysically) all one could ever experience were a single color, one could not know which color it was—or that it was a color at all." That answers an epistemic question while granting the metaphysical possibility, which a methodological structuralist may do and a metaphysical one may not.
+The proponents had met the single-experience case four years before Negro named it, and their treatment is telling. Fink, Kob and Lyre write that "even if (metaphysically) all one could ever experience were a single color, one could not know which color it was—or that it was a color at all." That answers an epistemic question while granting the metaphysical possibility, which a methodological structuralist may do and a metaphysical one may not.
 
 **Sebastián (2025)** argues that holism means "even minor differences in experiential capacities lead to fundamentally different Q-structures, rendering qualities incommensurable across different systems or even across different states within the same system", a difficulty "especially pressing in the case of pain"; and that "different sets of qualities can indeed yield the same discriminations within a single modality". His remedy is representationalism, understanding qualities "without invoking intrinsic properties in mental states" — the opposite of the Map's conclusion.
 
 **Aldé (2026; abstract only here)** plays "the structuralist game through and through", arguing from accepted claims about the unique hues and colour composition that "the structure of color experience is incompatible with structuralism".
 
-**Mihálik and Marvan (2025)** press a "more of the same" challenge against extending the view from *which* experience a subject has to *whether* there is experience: if structurally individuated contents can occur unconsciously, why should adding further structure make them conscious? They present it as one dimension of the hard problem, aimed at two-factor versions.
+**Mihálik and Marvan (2025)** press a "more of the same" challenge against extending the view from *which* experience a subject has to *whether* there is experience: if structurally individuated contents can occur unconsciously, why should adding further structure make them conscious? They aim it at two-factor versions only and keep it narrower than the hard problem, which they say bites any materialist view: their target is whether there is experience at all, and they stay agnostic on whether the view can fix its character.
 
 ## Newman's Problem, Re-aimed {#newman}
 

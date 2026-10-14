@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T19:04:40+00:00
+ai_modified: 2026-10-14T19:27:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-14T19:27:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/structuralism-about-phenomenal-character]]
+- **Selection**: `deep_review.py next` top pick (never reviewed, score 101); `ai_modified` 2026-10-13, so outside every driver exclusion.
+- **Word count**: `analyze_length` 2,976 → 3,006 (+30; concepts soft 2,500 / hard 3,500, gate `>=`, 494 left). Length-neutral in spirit: two re-scopings funded by one cut clause.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3. (1) L89 said Mihálik & Marvan "present it as one dimension of the hard problem"; the galley contrasts the more-of-the-same challenge with the hard problem ("a problem for any materialist approach" vs "specifically two-factor NPS+") and declares agnosticism on character. Re-scoped. (2) L83 "The proponents' reply to the lonely case" made FKL 2021 answer Negro 2025; reworded as a prior treatment. (3) L75 "which most rivals the Map engages do not" cut as an unargued sweep.
+- **Citations**: all 17 external references verified at the publisher (Crossref for every 2025/2026 item; phimisci galleys, Europe PMC XML, Springer cookie-free HTML for full texts). Every quoted string grepped in raw text, including the FKL single-colour sentence whose summariser rendering had the direction inverted (the galley's preceding sentence states the qualia view; the article quotes the structuralist conclusion, correctly), Kleiner's (SP) definition behind the R-property gloss, and Negro's three arguments. Year note: Kleiner and Fink & Lee carry publisher `citation_date` 2025 / vol. 6 against Crossref online dates in 2026 — 2025 stands. Nimmo 2026 (not in the research note; from the creation run's OpenAlex forward search) confirmed at Crossref and OpenAlex. (surname, year) orphan check clean both ways. No superlatives.
+- **Engagements**: Lyre — Mixed (exclusion-step conditional on reduction, then boundary marked); Loorits — Mode Three (unrefuted countermodel); Kleiner — Map-owned dilemma against a repair he proposes without endorsing OPSR; Nimmo — Mode Three ("owes an argument"). No label leakage.
+- **Enhancements made**: 2
+- **Frontmatter**: `last_deep_review` added; `ai_system` → `claude-opus-5-5+claude-fable-5-1`.
+- **Output**: [[reviews/deep-review-2026-10-14-structuralism-about-phenomenal-character]]
 
 ## 2026-10-14T19:04:40+00:00 - positions-evolve
 - **Status**: Success
