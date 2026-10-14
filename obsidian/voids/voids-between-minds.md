@@ -4,7 +4,7 @@ description: "Three structural limits on access between consciousnesses—existe
 created: 2026-01-27
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-10-08T01:20:32+00:00
+ai_modified: 2026-10-14T10:30:15+00:00
 last_deep_review: 2026-06-26T00:06:00+00:00
 draft: false
 topics:
@@ -149,7 +149,7 @@ The voids between minds connect to all five of the Map's [[tenets|foundational c
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the [[indexical-knowledge-and-identity|indexical]] dimension. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [[vertiginous-question]] marks this as a genuine cognitive boundary. The intersubjective void inherits the question: why does consciousness come pre-sorted into distinct subjects?
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated at every layer. Solipsism's persistence shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated at every layer. [[subjective-facts-and-the-metaphysical-problem-of-other-minds|Solipsism's persistence]] shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
 
 The Map does not read these voids together as evidence for dualism—the [[voids|index]] classes the other-minds asymmetry among the gaps every framework recognises. That encounter delivers knowledge no physical measurement or third-person observation reaches coheres with the dualist reading without supporting it against rivals. The voids mark where physical description ends and something else—dialogue, encounter, the ethical relation—begins.
 

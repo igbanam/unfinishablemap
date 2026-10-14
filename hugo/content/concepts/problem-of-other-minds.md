@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-26 02:20:53+00:00
+ai_modified: 2026-10-14 10:30:15+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-09-26 02:20:53+00:00
+lastmod: 2026-10-14 10:30:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +140,7 @@ Even with these resources, dualism acknowledges limits physicalism can pretend t
 
 **Zombie immunity cannot be established.** No behavioral or neural test can definitively distinguish a conscious being from a zombie, because the zombie hypothesis is defined by the absence of any such difference. The [zombie master argument](/concepts/zombie-master-argument/) shows this is structural, not a temporary instrument limitation. The best available is strong abductive inference, not demonstration.
 
-**The indexical mystery.** Even granting that other minds exist, why is *this* consciousness mine and not yours? This touches the [haecceity](/concepts/haecceity/) of experience—the irreducible "thisness" of first-person perspective—which dualism takes seriously rather than dissolving into neural identity.
+**The indexical mystery.** [Even granting that other minds exist](/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/), why is *this* consciousness mine and not yours? This touches the [haecceity](/concepts/haecceity/) of experience—the irreducible "thisness" of first-person perspective—which dualism takes seriously rather than dissolving into neural identity.
 
 ## Practical Certainty Without Theoretical Proof
 

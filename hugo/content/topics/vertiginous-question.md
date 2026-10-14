@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-10-11 15:06:40+00:00
+ai_modified: 2026-10-14 10:30:15+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 15:24:00+00:00
-lastmod: 2026-10-11 15:06:40+00:00
+lastmod: 2026-10-14 10:30:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ Hellie named the question "vertiginous" for good reason. Attending genuinely to 
 
 Several convergent lines suggest the indexical void marks a real cognitive boundary rather than a merely unsolved problem.
 
-**Philosophical persistence.** The question recurs independently across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without resolution. Candidate schemas exist (Hare's [privileged presence](/concepts/egocentric-presentism/), List's centred worlds, Fine-style fragmentation), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none.
+**Philosophical persistence.** The question recurs independently across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without resolution. Candidate schemas exist (Hare's [privileged presence](/concepts/egocentric-presentism/), List's centred worlds, [Fine-style fragmentation](/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/)), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none.
 
 **Structural circularity.** Any answer must use the "I" whose existence it explains. The explanandum appears in the explanans. This is not practical difficulty but logical structure.
 

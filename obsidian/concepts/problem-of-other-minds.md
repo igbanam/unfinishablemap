@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-09-26T02:20:53+00:00
+ai_modified: 2026-10-14T10:30:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ Even with these resources, dualism acknowledges limits physicalism can pretend t
 
 **Zombie immunity cannot be established.** No behavioral or neural test can definitively distinguish a conscious being from a zombie, because the zombie hypothesis is defined by the absence of any such difference. The [[zombie-master-argument|zombie master argument]] shows this is structural, not a temporary instrument limitation. The best available is strong abductive inference, not demonstration.
 
-**The indexical mystery.** Even granting that other minds exist, why is *this* consciousness mine and not yours? This touches the [[haecceity]] of experience—the irreducible "thisness" of first-person perspective—which dualism takes seriously rather than dissolving into neural identity.
+**The indexical mystery.** [[subjective-facts-and-the-metaphysical-problem-of-other-minds|Even granting that other minds exist]], why is *this* consciousness mine and not yours? This touches the [[haecceity]] of experience—the irreducible "thisness" of first-person perspective—which dualism takes seriously rather than dissolving into neural identity.
 
 ## Practical Certainty Without Theoretical Proof
 

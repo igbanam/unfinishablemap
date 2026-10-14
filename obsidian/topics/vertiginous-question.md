@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-10-11T15:06:40+00:00
+ai_modified: 2026-10-14T10:30:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Hellie named the question "vertiginous" for good reason. Attending genuinely to 
 
 Several convergent lines suggest the indexical void marks a real cognitive boundary rather than a merely unsolved problem.
 
-**Philosophical persistence.** The question recurs independently across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without resolution. Candidate schemas exist (Hare's [[egocentric-presentism|privileged presence]], List's centred worlds, Fine-style fragmentation), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none.
+**Philosophical persistence.** The question recurs independently across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without resolution. Candidate schemas exist (Hare's [[egocentric-presentism|privileged presence]], List's centred worlds, [[subjective-facts-and-the-metaphysical-problem-of-other-minds|Fine-style fragmentation]]), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none.
 
 **Structural circularity.** Any answer must use the "I" whose existence it explains. The explanandum appears in the explanans. This is not practical difficulty but logical structure.
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 10:07:03+00:00
+ai_modified: 2026-10-14 10:30:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 10:07:03+00:00
+lastmod: 2026-10-14 10:30:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:30 - expand-topic
+- **Status**: Success
+- **Topic**: Subjective Facts and the Metaphysical Problem of Other Minds — Merlo's third problem, the parity/multiplicity demands, the question of egalitarianism and its exits, Lipman's standpoint pluralism, the Builes/Merlo specialness objection, Kinkaid's Sartrean counter-datum, and a "what moves" ledger pricing the egalitarian exit against Tenet 4 / [P-I2](/positions/individuation-and-subjecthood/#p-i2) / Posit One
+- **Output**: [subjective-facts-and-the-metaphysical-problem-of-other-minds](/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/)
+- **Word count**: `analyze_length` 3237 (topics soft 3000 / hard 4000, `>=` gate; prose ≈2850, References + Further Reading ≈390). Trimmed from a 3828 first draft; the residual excess is reference apparatus
+- **Based on research**: yes — [subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06](/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06/) (angle 1 followed; its five "what moves" items carried; its Fine 2005 merged-halves guard respected — Fine not quoted)
+- **Section / cap**: topics (`count_section_files('topics')` 347 → 348 against `max_topics` 370); slug checked clear with `check_slug.py`
+- **Citation verification**: Crossref metadata verified for all 15 external entries (Lipman 2016 AJP 94(1) 42–57 doi 10.1080/00048402.2015.1020503 added after lookup). Verbatim at source today: Kinkaid 2025 body + abstract (Cambridge HTML); Builes 2024, Hellie 2013, Merlo 2013, Lipman 2026 book and ch. 12 abstracts (OpenAlex inverted index). NOT re-verifiable today (Wiley/Ergo/PhilPapers/Wayback/Leiden/Stirling all 403 or bot-walled): Merlo 2021 full-text quotes (question of egalitarianism passage, parity, spotlight, fine line, fact definitions), Lipman 2023 Ergo quotes (@s(p), "the world itself differs between subjects", "metaphysically centered", fn 17), Merlo 2016 fn 19, Builes fn 46 — all taken from the research note's "read in full" sources, verbatim as the note records them. Author-stance: Merlo = inegalitarian subjectivist (defender of metaphysical solipsism at the subjective level); Lipman = egalitarian fragmentalist, neutral on physicalism; Builes = surveyor, sympathetic to privileged-subject realism; Kinkaid = egalitarian via Sartre, critic of Merlo; Hellie = critic of deflationary egalitarianism
+- **Integration**: four inbound piped wikilinks, all length-neutral (whitespace-token-preserving): `concepts/egocentric-presentism` L81 "Lipman builds a pluralism" (3485 → 3485, hard 3500); `topics/vertiginous-question` L125 "Fine-style fragmentation" (3996 → 3996, hard 4000); `concepts/problem-of-other-minds` L140 "Even granting that other minds exist" (3444 → 3444, hard 3500); `voids/voids-between-minds` L152 "Solipsism's persistence" (2987 → 2987, hard 3000). `ai_modified` stamped on all four. `concepts/theory-of-mind` and `apex/self-construction-constructor` untouched per brief. `positions/individuation-and-subjecthood` (3997, hard_warning) NOT edited — the note's Tenet 4 cost belongs there but the register mandates a dated Updated note; left for `/positions-evolve`
+- **State**: `task_chains.pending_cross_reviews` entry added (targets egocentric-presentism, vertiginous-question, problem-of-other-minds, individuation-and-subjecthood; generated 2026-10-14T10:25:24+00:00); the consumed `pending_articles` entry for the research note removed (13 → 12). Targeted Edits, no redump
+- **Synced**: hugo/content/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md verified (frontmatter intact, `validate.py` ✓ Valid; all four host inbound links present in hugo/)
+- **Apex sources**: slug absent from `apex/apex-articles.md`; no apex-evolve task minted
+- **Published**: yes (`draft: false`); todo task left for the driver
 
 ## 10:06 - refine-draft
 - **Status**: Success

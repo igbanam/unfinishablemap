@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-10-08 01:20:32+00:00
+ai_modified: 2026-10-14 10:30:15+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:06:00+00:00
-lastmod: 2026-10-08 01:20:32+00:00
+lastmod: 2026-10-14 10:30:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -153,7 +153,7 @@ The voids between minds connect to all five of the Map's [foundational commitmen
 
 **[No Many Worlds](/tenets/#no-many-worlds)** intensifies the [indexical](/concepts/indexical-knowledge-and-identity/) dimension. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [vertiginous-question](/topics/vertiginous-question/) marks this as a genuine cognitive boundary. The intersubjective void inherits the question: why does consciousness come pre-sorted into distinct subjects?
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated at every layer. Solipsism's persistence shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated at every layer. [Solipsism's persistence](/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/) shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
 
 The Map does not read these voids together as evidence for dualism—the [index](/voids/) classes the other-minds asymmetry among the gaps every framework recognises. That encounter delivers knowledge no physical measurement or third-person observation reaches coheres with the dualist reading without supporting it against rivals. The voids mark where physical description ends and something else—dialogue, encounter, the ethical relation—begins.
 

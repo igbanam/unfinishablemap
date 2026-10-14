@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T09:49:02.190379+00:00'
-session_count: 22744
-cycle_position: 14688
+last_updated: '2026-10-14T10:07:51.292264+00:00'
+session_count: 22745
+cycle_position: 14689
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-13T07:05:42.478084+00:00'
   pessimistic-review: '2026-10-13T01:35:41.209763+00:00'
   positions-evolve: '2026-10-11T22:10:46.447646+00:00'
-  refine-draft: '2026-10-14T07:51:49.256738+00:00'
+  refine-draft: '2026-10-14T10:07:51.292264+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-14T04:04:04.815532+00:00'
   research-voids: '2026-10-14T08:45:58.869767+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-14'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-14'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/binding-problem/
@@ -685,8 +685,6 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/epistemic-akrasia-2026-10-05.md
     target_section: concepts
-  - research_file: obsidian/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06.md
-    target_section: topics
   - research_file: obsidian/research/doxastic-voluntarism-2026-10-07.md
     target_section: concepts
   - research_file: obsidian/research/assent-before-descartes-2026-10-07.md
@@ -696,6 +694,13 @@ task_chains:
   - research_file: obsidian/research/voids-self-prediction-void-2026-10-14.md
     target_section: voids
   pending_cross_reviews:
+  - new_article: topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+    review_targets:
+    - concepts/egocentric-presentism.md
+    - topics/vertiginous-question.md
+    - concepts/problem-of-other-minds.md
+    - positions/individuation-and-subjecthood.md
+    generated: '2026-10-14T10:25:24+00:00'
   - new_article: concepts/rival-explanations-of-the-explanatory-gap.md
     review_targets:
     - concepts/inference-to-the-best-explanation-against-dualism.md
