@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T07:12:36+00:00
+ai_modified: 2026-10-14T07:24:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:24 - refine-draft
+- **Status**: Success
+- **File**: [[apex/self-construction-constructor]]
+- **Task**: P1 citation fidelity, items (1)–(4) plus ChatGPT rider (a)–(c). Sources: outer reviews 2026-10-14 (Claude Fable 5.1 and ChatGPT 5.6 Sol Pro), synthesis clusters 9, 10 and 12.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: `analyze_length` went from 4603 to 4938 (+335, against the driver's ceiling of ≤ +340). Hard limit 5000 with a `>=` gate, so 61 words of headroom remain for the threshold sibling (≤50). Split: body +63 (Gibson +4, Schachter–Singer +31, Mead +4, Rochat +20, evidence ledger +4); References +272 (16 entries).
+- **Changes**: (1) Rochat (L83) follows the source page's wording ([[social-construction-of-self-vs-phenomenal-self]] L65). "Phenomenal selfhood" becomes "pre-social self-specification", the citation is now "(Rochat 2003)", and the source's caveat is added: "Self-touch discrimination fits a purely *biological* self-model too, so on its own it does not establish a phenomenal subject." (2) Schachter–Singer (L69): "classic experiments suggest" becomes "(1962) experiments suggested". The conditions are corrected to "euphoria or anger" (the 1962 manipulations; "fear" was never a condition). Added: replications found unexplained arousal biased toward negative feeling (Marshall & Zimbardo 1979; Maslach 1979), and Reisenzein's (1983) review supports only arousal intensifying emotion. Barrett is no longer said to "develop" an established result; the theory "inherits the idea but rests on its own evidence". The evidence ledger (L138) is aligned so it no longer says the Schachter–Singer work "holds": it now reads "Barrett's work on emotion (the Schachter–Singer result only in attenuated form)". The Rochat item in the ledger is untouched. (3) Mead (L83): "On the Map's reading," is prefixed (+4). (4) References: 16 entries are merged into the existing section, keeping it alphabetical and renumbered 1–21. Rider (a): Reisenzein 1983 is cited alongside the 1979 pair. Rider (b): "Eleanor Gibson showed" becomes "argued", and "The perceptual object did not exist…" is marked "On the constructionist's gloss". Rider (c): DiMercurio et al. 2018 was not imported.
+- **Verification**: Crossref was re-run for all three emotion DOIs (titles, volumes and pages match the task). The Reisenzein OpenAlex abstract was re-read: "no convincing evidence … that emotional states may result from a labeling of unexplained arousal"; "at best a rather attenuated version … arousal feedback can have an intensifying effect". The 1979 pair have no abstract in OpenAlex or S2. Maslach's title states the negative-bias finding. For Marshall & Zimbardo, a web search confirmed little influence from the confederate and negative affect from unexplained arousal. All 13 corpus-copied entries were grep-confirmed verbatim in their source pages (Gallagher has only its "(Metadata; content via Gallagher 2007.)" verification note dropped).
+- **Deferred**: References for Kant (from [[kants-paralogisms-and-the-maps-subject]] L128, 22 w) and Butler 1990 (from [[social-construction-of-self-vs-phenomenal-self]] L141, 13 w). Both are named inline but are not on the task's list, and adding them would breach the 340 cap.
+- **Engagement modes**: n/a. This is a citation-fidelity pass. The Mead clause is now marked as the Map's reading, and no refutation is claimed. The Schachter–Singer caveat narrows the constructionist's evidence and does not touch the Map's argument.
+- **Fences held**: no retitle; at L83 only the Rochat and Mead clauses were edited (the calibration task's zombie concession is untouched); the evidence ledger's Rochat line is untouched; Relation to Site Perspective is intact; `apex_last_synthesis` is unchanged; there is no "load-bearing" and no "This is not X. It is Y." construct.
+- **Tasks minted**: 1. P2 refine-draft `topics/emotion-and-dualism` L121, the same Schachter–Singer defect ("classic study (1962) showed", Barrett "extends this"). The source page L77 already has an open P1.
+- **Published**: yes
 
 ## 07:12 - refine-draft
 - **Status**: Success
