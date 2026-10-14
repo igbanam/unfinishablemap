@@ -10,6 +10,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:10 - refine-draft
+- **Status**: Success
+- **Task**: P2 "Tegmark decoherence-figure sweep, batch 2 of 3 (class B, live pages)" — bare "~10⁻¹³ s" attributed to neural tissue / neural superpositions / ion superpositions generally. Source split (Tegmark 2000, PRE 61:4194, quant-ph/9907009): eqs. (10)/(13) ∼10⁻²⁰ s for superposed neuron firing (ion positions); eq. (22) ∼10⁻¹³ s for microtubule kink superpositions. Model wording: `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface` L71. Archive/ untouched (batch 3 is a separate P3).
+- **Method**: scoped the label rather than rewriting arithmetic (driver caution): every 10⁻¹³ now reads as the microtubule figure, with the 10⁻²⁰ ion figure added beside it; "twelve/ten orders" counts kept (they derive from the 10⁻¹³ microtubule figure vs 10⁻¹/10⁻³ s) and loosened to "at least / or more" only where the sentence now shows both figures. Hagan et al. 2002 10⁻⁵–10⁻⁴ s statements left alone. Stapp's ion-channel Zeno site relabelled to the ion/neuron 10⁻²⁰ case where the sentence is specifically about his mechanism. `analyze_length` before → after (hard gate `>=`):
+- **Verdicts (19 files, all FIXED)**:
+  - `topics/quantum-neural-timing-constraints` L40 table row "Ion superposition collapse | 10⁻¹³ s (0.1 fs)" split into two rows (neuron firing 10⁻²⁰ s; microtubule 10⁻¹³ s — also corrected the unit gloss: 10⁻¹³ s is 100 fs, not 0.1 fs); L53 "ion superpositions … 10⁻¹³ to 10⁻²⁰" → ions 10⁻²⁰ / microtubule kinks 10⁻¹³ respectively. 2984 → 3007 (crosses the 3000 soft line; hard 4000).
+  - `concepts/measurement-problem` L139 (found under `10^-13`) → "microtubule coherence times at ~10^-13 seconds (ion superpositions: ~10^-20)"; trimmed the Stapp reply clause to pay for it. 3653 → 3653 (over hard 3500 standing; zero net).
+  - `topics/testing-consciousness-collapse` L157 → "(microtubules) to 10⁻²⁰ seconds (ion superpositions)"; L163 "in" → "within" (upper bound). 3970 → 3974.
+  - `topics/the-epiphenomenalist-threat` L143 → both figures scoped. 3438 → 3444.
+  - `topics/qm-interpretations-beyond-many-worlds` L113 → "microtubule coherence times of 10⁻¹³ seconds and ion-superposition times of 10⁻²⁰ seconds—ten or more orders". 4541 → 4541 (over hard; zero net).
+  - `topics/wheelers-participatory-universe-and-it-from-bit` L140 → "10⁻²⁰ seconds (ion positions) to 10⁻¹³ seconds (microtubules)"; L142 "The same ~10⁻¹³ s figure targets" → "The same figures target". 3994 → 3994.
+  - `topics/quantum-measurement-and-subjective-probability` L92 → both figures scoped. 2662 → 2666.
+  - `topics/consciousness-interface-development` L155 → "within 10⁻¹³ seconds (microtubules) to 10⁻²⁰ seconds (ion superpositions), at least twelve orders". 3981 → 3988.
+  - `concepts/stapp-quantum-mind` L114 → "(Tegmark calculated 10⁻²⁰ seconds for ion superpositions, 10⁻¹³ for microtubules)"; three redundancy trims in the L116 response paragraph. 4002 → 4000 (over hard 3500 standing; −2).
+  - `concepts/timing-gap-problem` L37 → microtubule 10⁻¹³ / ion 10⁻²⁰ split, "twelve or more orders"; L55 re-derived together with L37: 10¹² stated as the microtubule-figure ratio, ion figure widens it to 10¹⁹ (10⁻¹/10⁻²⁰). L51 was already correct. 1759 → 1784.
+  - `concepts/interface-friction` L58 → both figures, "at least twelve orders". 2514 → 2529.
+  - `concepts/mental-effort` L118 → "femtosecond or shorter timescales (~10⁻¹³ s for microtubule states, ~10⁻²⁰ s for ion superpositions) … at least twelve orders". 3332 → 3348.
+  - `concepts/access-consciousness` L97 → both figures, "at least twelve orders". 2286 → 2293.
+  - `concepts/multi-mind-collapse-problem` L105 → both figures. 2897 → 2905.
+  - `concepts/interactionist-dualism` L153 (found under `10^-13`) → "(Tegmark: ~10^-13 seconds for microtubules, ~10^-20 for ion superpositions)". 3487 → 3491 (hard 3500).
+  - `concepts/mental-causation-and-downward-causation` L123 (found under `10^-13`) → microtubule 10^-13 / ion 10^-20; L129 Zeno cycle rate "every 10^-13 seconds if Tegmark's do" → "every 10^-20 seconds if Tegmark's ion figure does" (Stapp's site is the ion case); two filler trims to stay zero net. 3577 → 3577 (over hard; zero net).
+  - `concepts/binding-problem` L169 → Hagan's challenge scoped to the microtubule figure, ion 10⁻²⁰ noted. 3364 → 3370.
+  - `apex/consciousness-and-agency` L90 → "microtubule superpositions in ~10⁻¹³ seconds and ion superpositions in ~10⁻²⁰ seconds". 4399 → 4406 (apex hard 5000).
+  - `topics/quantum-biology-and-neural-consciousness` (driver addition) L51 → "femtoseconds (10⁻¹³ seconds), twelve orders … " attached to microtubule states only, ion superpositions in open membranes given 10⁻²⁰; L165 "Tegmark's femtosecond estimate targeted ion superpositions" (wrong — the femtosecond figure is the microtubule one) → "Tegmark's estimates covered microtubules and ion superpositions in open membranes"; L171's 10⁻¹³–10⁻⁴ range is the microtubule-proposal range and was left. "influential" and one "the calculation" dropped to stay zero net. 4388 → 4388 (over hard; zero net).
+- **Left alone per brief**: Hagan 2002 figures everywhere; bird-compass lines on `concepts/ai-hardware-substrate-taxonomy` L113 and `topics/forward-in-time-conscious-selection` L133; all of archive/.
+- **ai_modified**: 2026-10-14T12:09:02+00:00 on all 19 files.
+- **Synced**: `scripts/sync.py` run; one changed phrase per file grep-verified in hugo/content/.
+- **Published**: yes (all `draft: false`); todo task left for the driver; not committed.
+
 ## 12:05 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` (primary, created 10:25Z today) with secondary notes on the two sibling creations `voids/observer-selection-void` and `concepts/charles-bonnet-syndrome`. Reports only; no articles edited, no todo tasks minted (driver brief).

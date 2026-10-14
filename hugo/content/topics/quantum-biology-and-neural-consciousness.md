@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-11 19:37:22+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:22:00+00:00
-lastmod: 2026-10-11 19:37:22+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ The evidence surveyed below is not a uniform support pillar for the Map's [Minim
 
 ## The Warm-Biology Objection
 
-Max Tegmark's influential 2000 calculation estimated that [decoherence](/concepts/decoherence/) would destroy the neural superpositions orchestrated-objective-reduction (Orch OR) requires (microtubule conformational states, ion superpositions in open neural membranes) in femtoseconds (10⁻¹³ seconds), twelve orders of magnitude faster than the millisecond timescales of neural processing. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable. As the [decoherence section below](#the-decoherence-debate-today) clarifies, the calculation does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different objections.
+Max Tegmark's 2000 calculation estimated that [decoherence](/concepts/decoherence/) would destroy the neural superpositions orchestrated-objective-reduction (Orch OR) requires—microtubule conformational states in femtoseconds (10⁻¹³ seconds), twelve orders of magnitude faster than the millisecond timescales of neural processing, and ion superpositions in open neural membranes in 10⁻²⁰ seconds. The [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable. As the [decoherence section below](#the-decoherence-debate-today) clarifies, it does not address discrete-event mechanisms (ion-channel tunnelling, synaptic SNARE tunnelling, Posner-molecule nuclear spins, Stapp-style quantum Zeno events), which face different objections.
 
 Warm biology has since offered candidate counterexamples, fewer than once claimed:
 
@@ -165,7 +165,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 
 ## The Decoherence Debate Today
 
-Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield very different results, and the literature has not converged:
+Tegmark's estimates covered microtubules and ion superpositions in open membranes—the least protected environment. Subsequent calculations yield very different results; the literature has not converged:
 
 - Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors, obtaining corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. But this is one counter-calculation by Hameroff collaborators, unreplicated and still contested—an unresolved dispute, not a settled rebuttal.
 - Radical pairs: [compass models](/concepts/radical-pair-magnetoreception/) require microsecond-scale coherence—in cryptochrome's specific molecular architecture, not neural tissue.

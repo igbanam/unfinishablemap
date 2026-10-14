@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-11 03:39:43+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 01:42:55+00:00
-lastmod: 2026-10-11 03:39:43+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[biological-cognitive-closure]]'
@@ -155,7 +155,7 @@ The Map's reply grants that causal continuity and narrative integration are real
 
 **[Bidirectional interaction](/tenets/#bidirectional-interaction)** shifts character across development. In early stages the brain's developmental programme dominates — the interface is built on a largely genetic blueprint, and consciousness has minimal capacity to direct the process. In mature adulthood, consciousness-directed attention increasingly shapes the interface through deliberate practice; teaching, a consciousness-enabled capacity, literally reshapes other brains. The trajectory is bidirectional interaction progressively coming into balance.
 
-**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is *consistent with* interface change, not predicted by it. If consciousness influences neural outcomes through quantum selection at specific sites, developmental restructuring would alter which sites are available and critical-period closure would reshape the set of interaction points. But this article does not discharge the quantitative burden. The Tegmark (2000) decoherence calculation — coherence in neural environments collapsing in roughly 10⁻¹³ seconds, twelve orders of magnitude faster than cognition's timescales — is the standing objection to any neural quantum mechanism, and the magnitudes and candidate protection mechanisms are treated in [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [decoherence](/concepts/decoherence/), whose conclusions this article assumes rather than restates. Read this section as describing how the developmental data would fit the tenet *if* a viable quantum-selection mechanism exists, not as evidence that one does.
+**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is *consistent with* interface change, not predicted by it. If consciousness influences neural outcomes through quantum selection at specific sites, developmental restructuring would alter which sites are available and critical-period closure would reshape the set of interaction points. But this article does not discharge the quantitative burden. The Tegmark (2000) decoherence calculation — coherence in neural environments collapsing within 10⁻¹³ seconds (microtubules) to 10⁻²⁰ seconds (ion superpositions), at least twelve orders of magnitude faster than cognition's timescales — is the standing objection to any neural quantum mechanism, and the magnitudes and candidate protection mechanisms are treated in [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [decoherence](/concepts/decoherence/), whose conclusions this article assumes rather than restates. Read this section as describing how the developmental data would fit the tenet *if* a viable quantum-selection mechanism exists, not as evidence that one does.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects to developmental irreversibility. On the Map's collapse-realist framework, when a critical period closes the sensitivities it supported are genuinely lost — one definite outcome is selected. An MWI proponent can grant that closure is experientially real within any branch; the Map's objection is that the ethical weight of interface-shaping decisions in childhood — a window either receives enrichment or does not, permanently — requires that the unchosen outcomes genuinely did not happen, not that they occur in parallel branches.
 

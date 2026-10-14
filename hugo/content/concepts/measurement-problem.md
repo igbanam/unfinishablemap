@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-30 12:13:01+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-09-30 12:13:01+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,7 +139,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 [Mental effort](/concepts/mental-effort/) protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. The framework has an implicitly [retrocausal](/concepts/retrocausality/) dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [atemporal selection](/concepts/retrocausality/#the-atemporal-selection-model).
 
-**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [ten-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
+**Decoherence challenge**: Tegmark (2000) calculated microtubule coherence times at ~10^-13 seconds (ion superpositions: ~10^-20)—far shorter than neural timescales (~10^-3 seconds), a [ten-order-of-magnitude timing gap](/concepts/timing-gap-problem/). Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but what generates such observations in a warm brain remains unspecified.
 
 **The Map's position**: The Map's claim here is *structural*, not mechanistic: the measurement problem creates conceptual space for consciousness-selection where deterministic physics offers none—defending the *coherence* of the proposal, not establishing its truth, since no Zeno mechanism in a warm brain has been specified. This mechanistic modesty is distinct from the interpretive claim the disclosure reading advances later (that the gap is a boundary in reality); the two are not competing ceilings on one claim but different claims at different grades of support.
 

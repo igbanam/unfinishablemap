@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-12 14:56:43+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
-lastmod: 2026-10-12 14:56:43+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,13 +159,13 @@ Stapp's quantum Zeno approach proposes that conscious attention holds neural ass
 
 ### The Decoherence Timescale Objection
 
-Tegmark (2000) calculates that quantum coherence in neural tissue decoheres within roughly 10⁻¹³ seconds — far too fast for any neural process to exploit. This is the most cited physics objection to consciousness-collapse models, and any Tier 2 framework must address it.
+Tegmark (2000) calculates that neural quantum coherence decoheres within roughly 10⁻¹³ seconds (microtubules) to 10⁻²⁰ seconds (ion superpositions) — far too fast for any neural process to exploit. This is the most cited physics objection to consciousness-collapse models, and any Tier 2 framework must address it.
 
 The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. Hagan, Hameroff, and Tuszyński (2002) contest Tegmark's estimate for that specific case, calculating microtubule decoherence times of 10⁻⁵ to 10⁻⁴ seconds once the superposition separation distance, charge distribution, and dielectric assumptions are corrected — eight to nine orders of magnitude above Tegmark's figure, though still far short of perceptual timescales. But the Map's framework operates through [post-decoherence-selection](/concepts/post-decoherence-selection/), which sidesteps the timescale problem entirely. Consciousness does not need to maintain or exploit quantum coherence; it acts *after* decoherence has already produced the classical-looking mixture, selecting which outcome becomes actual from the improper mixture that decoherence leaves behind. Tegmark's calculation constrains when coherence vanishes — it says nothing about what happens to the resulting mixture.
 
 The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
 
-What Tegmark's result *does* constrain is the timing window. If coherence vanishes in 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
+What Tegmark's result *does* constrain is the timing window. If coherence vanishes within 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
 
 ### Why Tier 2 Is Harder Than Tier 1
 

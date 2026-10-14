@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-02 14:29:15+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-02 14:29:15+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
@@ -141,9 +141,9 @@ However, QBism is deliberately agnostic about collapse ontology, neither affirmi
 
 Henry Stapp offers a more explicit connection between the participatory universe and consciousness. Drawing on von Neumann, he argues that quantum mechanics contains an irreducible role for mind: the "process 1" choice of which measurement to perform is not determined by the Schrödinger equation and has a natural home in conscious intention. His proposed mechanism is the quantum Zeno effect, where mental attention acts like repeated observation, holding desired neural patterns in place. "The very structure of quantum mechanics implies a central and irreducible role for mind: an experiential aspect of nature distinct from that of the physical matter and energy."
 
-This is the participatory universe made concrete. Where Wheeler spoke of abstract "observer-participancy," Stapp locates the participation in identifiable neural processes. However, Stapp's mechanism faces the [decoherence](/concepts/decoherence/) objection: Tegmark's calculations (2000) showed that quantum superpositions in neural tissue decohere in roughly 10⁻¹³ seconds — far too fast for the Zeno effect to operate at decision-relevant timescales. The physics community has largely not accepted Stapp's specific proposal. The Map treats it as suggestive rather than established — illustrating *how* consciousness-physics interaction could work in principle while the specific neural implementation remains open.
+This is the participatory universe made concrete. Where Wheeler spoke of abstract "observer-participancy," Stapp locates the participation in identifiable neural processes. However, Stapp's mechanism faces the [decoherence](/concepts/decoherence/) objection: Tegmark (2000) calculated that neural superpositions decohere in roughly 10⁻²⁰ seconds (ion positions) to 10⁻¹³ seconds (microtubules) — far too fast for the Zeno effect to operate at decision-relevant timescales. The physics community has largely not accepted Stapp's specific proposal. The Map treats it as suggestive rather than established — illustrating *how* consciousness-physics interaction could work in principle while the specific neural implementation remains open.
 
-It would be dishonest to wield Tegmark's result against Stapp alone. The same ~10⁻¹³ s figure targets neural quantum superposition *generally*, and the Map's own thesis — that consciousness modulates collapse locally in neural systems — requires *some* neural quantum process to modulate. The obstacle is not selective to Stapp's Zeno mechanism; it presses on any framework, the Map's included, that locates the mind-matter interface in brain-scale quantum events. The Map does not claim immunity. Its working responses parallel those set out in [time-collapse-and-agency](/topics/time-collapse-and-agency/): decoherence selects preferred bases but leaves the measurement problem (which definite outcome registers) open, so the modulation may act *at* collapse rather than needing sustained pre-collapse coherence; and which specific neural quantum process supplies the interface is held open rather than answered (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) and [decoherence](/concepts/decoherence/)). The honest statement is that the decoherence timescale is a live difficulty for the Map's local-modulation thesis, not merely a club against a rival.
+It would be dishonest to wield Tegmark's result against Stapp alone. The same figures target neural quantum superposition *generally*, and the Map's own thesis — that consciousness modulates collapse locally in neural systems — requires *some* neural quantum process to modulate. The obstacle is not selective to Stapp's Zeno mechanism; it presses on any framework, the Map's included, that locates the mind-matter interface in brain-scale quantum events. The Map does not claim immunity. Its working responses parallel those set out in [time-collapse-and-agency](/topics/time-collapse-and-agency/): decoherence selects preferred bases but leaves the measurement problem (which definite outcome registers) open, so the modulation may act *at* collapse rather than needing sustained pre-collapse coherence; and which specific neural quantum process supplies the interface is held open rather than answered (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) and [decoherence](/concepts/decoherence/)). The honest statement is that the decoherence timescale is a live difficulty for the Map's local-modulation thesis, not merely a club against a rival.
 
 ## The Unresolved Debate
 

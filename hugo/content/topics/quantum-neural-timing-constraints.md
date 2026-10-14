@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-10 20:52:14+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:02:31+00:00
-lastmod: 2026-10-10 20:52:14+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,8 @@ Understanding the debate requires distinguishing timescales that differ by many 
 
 | Level | Timescale | Process | Source |
 |-------|-----------|---------|--------|
-| Tegmark decoherence | 10⁻¹³ s (0.1 fs) | Ion superposition collapse | Tegmark 2000 |
+| Tegmark decoherence (neuron firing) | 10⁻²⁰ s | Ion-position superposition collapse | Tegmark 2000 |
+| Tegmark decoherence (microtubule) | 10⁻¹³ s (100 fs) | Microtubule kink superposition collapse | Tegmark 2000 |
 | Revised microtubule | 10⁻⁵–10⁻⁴ s (10–100 μs) | Coherence in microtubule interior | Hameroff 2014 |
 | Mesoscopic coherent domains | 10⁻³–10⁻² s (1–10 ms) | Network effects (predicted) | Perry 2025 |
 | Gamma cycle | ~25 ms (40 Hz) | Neural binding oscillation | Crick & Koch 1990 |
@@ -53,7 +54,7 @@ The bottom four entries—from 200ms to 550ms—represent empirically establishe
 
 ## Tegmark's Original Critique
 
-Tegmark (2000) modelled ion superpositions in neural membranes and calculated decoherence timescales of 10⁻¹³ to 10⁻²⁰ seconds. His conclusion was blunt: quantum effects are "not likely to play a major role in brain function" because superpositions collapse before neurons can respond.
+Tegmark (2000) modelled ion superpositions in firing neurons and kink excitations in microtubules, calculating decoherence timescales of 10⁻²⁰ and 10⁻¹³ seconds respectively. His conclusion was blunt: quantum effects are "not likely to play a major role in brain function" because superpositions collapse before neurons can respond.
 
 The calculation assumed standard ion channel superpositions in a thermal environment at body temperature. Given the gap between femtoseconds and milliseconds, Tegmark concluded that invoking quantum mechanics for consciousness was "not just highly speculative but actually inconsistent with well-established physics."
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-04 17:06:47+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-05 15:25:04+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-10-04 17:06:47+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The Map's libertarianism has a specific mechanism: consciousness selects among q
 
 Consciousness, on the Map's framework, is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs—and consciousness arbitrates among the alternatives rather than constructing them, on the [control-theoretic reading](/concepts/control-theoretic-will/) by biasing which trajectory the neural machinery settles into. Two tenets converge here. [Minimal quantum interaction](/tenets/#minimal-quantum-interaction) bounds consciousness's influence to what the empirical record permits; [bidirectional interaction](/tenets/#bidirectional-interaction) requires that it genuinely affect outcomes. Selection among options physics has already prepared satisfies both.
 
-A genuine difficulty follows. Selecting among neural firing patterns means influencing *macroscopic* brain states, not single quantum events. The proposed answer is amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection ([mental causation](/concepts/mental-causation-and-downward-causation/) discusses coupling)—and whether it is physically realistic remains open. The objection that warm neural tissue decoheres superpositions in ~10⁻¹³ seconds (Tegmark 2000) is contested but unresolved: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats, but these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
+A genuine difficulty follows. Selecting among neural firing patterns means influencing *macroscopic* brain states, not single quantum events. The proposed answer is amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection ([mental causation](/concepts/mental-causation-and-downward-causation/) discusses coupling)—and whether it is physically realistic remains open. The objection that warm neural tissue decoheres microtubule superpositions in ~10⁻¹³ seconds and ion superpositions in ~10⁻²⁰ seconds (Tegmark 2000) is contested but unresolved: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats, but these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
 
 Most cognition is therefore *nonconscious scaffolding*, and the channel through which consciousness acts has limited bandwidth. [Attentional economics](/concepts/attentional-economics/) reads agency as the allocation of a finite attentional resource, so that freedom scales with attentional skill; [skill delegation](/concepts/skill-delegation/) shows the selector engaging during learning, withdrawing from routine execution, and re-engaging for novel decisions—a pattern "choking under pressure" illustrates, though the [friction reading](/concepts/interface-friction/) concedes that standard motor-control models predict the degradation.
 

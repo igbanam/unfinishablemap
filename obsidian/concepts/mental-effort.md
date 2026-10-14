@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-04T17:00:37+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -115,7 +115,7 @@ A materialist explains all this via Hebbian learning. The converging datum remai
 
 If mental effort reflects consciousness influencing the brain, how might this work physically? Several proposals exist, none established.
 
-Henry Stapp's quantum Zeno hypothesis proposes that rapid acts of attention hold desired neural patterns stable through repeated quantum observation, with felt effort corresponding to observation rapidity. The proposal satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (observation shapes outcomes without adding energy), and Schwartz collaborated with Stapp on the OCD interpretation. See [[stapp-quantum-mind|Stapp's Quantum Mind Model]] for full treatment. The mechanism faces a serious objection: neural quantum states [[decoherence|decohere]] on femtosecond timescales (~10⁻¹³ s) while conscious processes operate on hundreds of milliseconds (~10⁻¹ s) — a twelve-order-of-magnitude gap. Tegmark (2000) made the calculation explicit; Stapp's reply restates the desideratum rather than answering it. The Map's better-developed alternative is post-decoherence selection ([[topics/forward-in-time-conscious-selection]], [[topics/selection-only-mind-influence]]), which sidesteps the [[timing-gap-problem|timing gap]] by operating on already-decohered improper mixtures.
+Henry Stapp's quantum Zeno hypothesis proposes that rapid acts of attention hold desired neural patterns stable through repeated quantum observation, with felt effort corresponding to observation rapidity. The proposal satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (observation shapes outcomes without adding energy), and Schwartz collaborated with Stapp on the OCD interpretation. See [[stapp-quantum-mind|Stapp's Quantum Mind Model]] for full treatment. The mechanism faces a serious objection: neural quantum states [[decoherence|decohere]] on femtosecond or shorter timescales (~10⁻¹³ s for microtubule states, ~10⁻²⁰ s for ion superpositions) while conscious processes operate on hundreds of milliseconds (~10⁻¹ s) — a gap of at least twelve orders of magnitude. Tegmark (2000) made the calculation explicit; Stapp's reply restates the desideratum rather than answering it. The Map's better-developed alternative is post-decoherence selection ([[topics/forward-in-time-conscious-selection]], [[topics/selection-only-mind-influence]]), which sidesteps the [[timing-gap-problem|timing gap]] by operating on already-decohered improper mixtures.
 
 Other candidates include top-down causation through emergent properties and psychophysical law without micro-level commitments — see [[quantum-consciousness]] and [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]. The Map does not commit to any particular mechanism; the phenomenological and neuroplasticity evidence stands regardless of *how* the interaction is physically mediated.
 

@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-10-12T13:40:45+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ embedded_videos:
     source: notebooklm/0015-01-timing-gap-problem
 ---
 
-The timing gap problem is the mismatch between quantum decoherence timescales and neural decision timescales. Tegmark (2000) calculated that quantum superpositions in neural systems collapse in approximately 10⁻¹³ seconds (femtoseconds), while conscious neural decisions operate at 200-550 milliseconds. This twelve-order-of-magnitude gap poses a direct challenge to any theory proposing that consciousness interacts with the brain through quantum mechanics: if superpositions vanish trillions of times faster than neurons decide, quantum effects cannot meaningfully influence neural outcomes.
+The timing gap problem is the mismatch between quantum decoherence timescales and neural decision timescales. Tegmark (2000) calculated that microtubule superpositions collapse in approximately 10⁻¹³ seconds (femtoseconds) and ion superpositions in firing neurons in 10⁻²⁰ seconds, while conscious neural decisions operate at 200-550 milliseconds. This gap of twelve or more orders of magnitude poses a direct challenge to any theory proposing that consciousness interacts with the brain through quantum mechanics: if superpositions vanish trillions of times faster than neurons decide, quantum effects cannot meaningfully influence neural outcomes.
 
 The timing gap is The Unfinishable Map's most important empirical challenge. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness biases quantum indeterminacies in the brain. If the relevant quantum states collapse before neural processes can register them, this tenet faces a serious difficulty. For comprehensive treatment of the timing hierarchy and mechanism-specific responses, see [[quantum-neural-timing-constraints]].
 
@@ -52,7 +52,7 @@ Two timescales must connect for quantum consciousness theories to work:
 
 **Neural side.** Conscious decisions involve empirically established timing windows, though the figures below come from different species and are anchored to different events. Thura and Cisek (2014) found motor commitment signatures approximately 280 milliseconds before movement in monkeys choosing reaches. Voluntary attention takes approximately 300 milliseconds to deploy after a cue in humans (Müller & Rabbitt 1989), and the frontal theta signature of willed attention, also measured in humans, begins approximately 500 milliseconds post-cue (Rajan et al. 2019). The Libet readiness potential begins approximately 550 milliseconds before action. Any quantum mechanism that influences conscious decisions must remain operative long enough to interact with these neural windows.
 
-The gap is not a matter of degree. Femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹². No known physical process bridges such a disparity through simple scaling.
+The gap is not a matter of degree. Even on Tegmark's longer microtubule figure, femtoseconds and hundreds of milliseconds differ by a factor of roughly 10¹²; the ion figure widens this to 10¹⁹. No known physical process bridges such a disparity through simple scaling.
 
 ## Responses to the Gap
 

@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-10-01T08:05:32+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ The escape generates a subtler internal worry that does not appear in the classi
 
 ## The Decoherence Challenge
 
-The quantum escape faces a serious empirical objection. [[decoherence|Decoherence]] occurs rapidly in warm biological systems—Tegmark (2000) estimated neural decoherence times at ~10⁻¹³ seconds, while neural decision-making operates on millisecond timescales. The [[decoherence|decoherence article]] disaggregates this fully; three points matter here.
+The quantum escape faces a serious empirical objection. [[decoherence|Decoherence]] occurs rapidly in warm biological systems—Tegmark (2000) estimated neural decoherence times at ~10⁻¹³ seconds (microtubules) to ~10⁻²⁰ seconds (ion superpositions), while neural decision-making operates on millisecond timescales. The [[decoherence|decoherence article]] disaggregates this fully; three points matter here.
 
 First, decoherence does not solve the [[measurement-problem|measurement problem]]. Quantum mechanics does not explain why any *particular* outcome occurs. Decoherence selects preferred bases but does not select outcomes within them. The logical opening for consciousness at outcome selection persists regardless of decoherence timescales—provided one rejects Many-Worlds. The *philosophical* gap survives even if the *engineering* gap is unfavourable.
 

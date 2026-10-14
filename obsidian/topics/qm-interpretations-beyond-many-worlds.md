@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-08-20T10:41:00+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 last_deep_review: 2026-07-26T04:51:22+00:00
 draft: false
 topics:
@@ -110,7 +110,7 @@ The Map's position is compatible with either "consciousness causes collapse" or 
 
 ## The Decoherence Challenge
 
-Any interpretation that assigns consciousness a role in quantum mechanics must address [[decoherence]]. Tegmark (2000) calculated that quantum coherence times in neural tissue are on the order of 10⁻¹³ seconds—ten orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
+Any interpretation that assigns consciousness a role in quantum mechanics must address [[decoherence]]. Tegmark (2000) calculated microtubule coherence times of 10⁻¹³ seconds and ion-superposition times of 10⁻²⁰ seconds—ten or more orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
 
 This challenge cuts across interpretations—von Neumann-Wigner consciousness-causes-collapse, Stapp's quantum Zeno approach, and consciousness-modulated CSL alike. The Map does not dismiss it. Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilone B study by Khan et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness. That result indicates at most an indirect, contested relevance of microtubules to anaesthesia; it does not establish biologically useful quantum coherence. A purely classical reading is available—microtubules are transport highways for the receptor trafficking anaesthetics act on, so stabilising them can delay onset with no quantum effect required—and the data fits both readings. The decoherence objection remains serious but not decisive.
 

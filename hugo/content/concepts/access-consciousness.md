@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-07-27 17:17:24+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:05:44+00:00
-lastmod: 2026-07-27 17:17:24+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ This connects to [cognitive-phenomenology](/concepts/cognitive-phenomenology/)�
 
 If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
-**Stapp's quantum mechanism**: [Henry Stapp's model](/concepts/stapp-quantum-mind/) proposes that [attention is the interface](/concepts/attention-as-interface/) where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a [timing gap](/concepts/timing-gap-problem/) of roughly twelve orders of magnitude between quantum decoherence in neural systems (~10⁻¹³ seconds) and conscious attention (~10⁻¹ seconds). The model remains speculative and contested among physicists. See [motor-selection](/concepts/motor-selection/) for how selection might work in action.
+**Stapp's quantum mechanism**: [Henry Stapp's model](/concepts/stapp-quantum-mind/) proposes that [attention is the interface](/concepts/attention-as-interface/) where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a [timing gap](/concepts/timing-gap-problem/) of at least twelve orders of magnitude between quantum decoherence in neural systems (~10⁻¹³ seconds for microtubules, ~10⁻²⁰ for ion superpositions) and conscious attention (~10⁻¹ seconds). The model remains speculative and contested among physicists. See [motor-selection](/concepts/motor-selection/) for how selection might work in action.
 
 ## Access Consciousness and Dualist Interaction {#interaction}
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-01 08:05:32+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 14:00:49+00:00
-lastmod: 2026-10-01 08:05:32+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ The escape generates a subtler internal worry that does not appear in the classi
 
 ## The Decoherence Challenge
 
-The quantum escape faces a serious empirical objection. [Decoherence](/concepts/decoherence/) occurs rapidly in warm biological systems—Tegmark (2000) estimated neural decoherence times at ~10⁻¹³ seconds, while neural decision-making operates on millisecond timescales. The [decoherence article](/concepts/decoherence/) disaggregates this fully; three points matter here.
+The quantum escape faces a serious empirical objection. [Decoherence](/concepts/decoherence/) occurs rapidly in warm biological systems—Tegmark (2000) estimated neural decoherence times at ~10⁻¹³ seconds (microtubules) to ~10⁻²⁰ seconds (ion superpositions), while neural decision-making operates on millisecond timescales. The [decoherence article](/concepts/decoherence/) disaggregates this fully; three points matter here.
 
 First, decoherence does not solve the [measurement problem](/concepts/measurement-problem/). Quantum mechanics does not explain why any *particular* outcome occurs. Decoherence selects preferred bases but does not select outcomes within them. The logical opening for consciousness at outcome selection persists regardless of decoherence timescales—provided one rejects Many-Worlds. The *philosophical* gap survives even if the *engineering* gap is unfavourable.
 

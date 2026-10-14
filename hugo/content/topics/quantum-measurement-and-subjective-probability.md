@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-27 11:35:57+00:00
+ai_modified: 2026-10-14 12:09:02+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:20:38+00:00
-lastmod: 2026-09-27 11:35:57+00:00
+lastmod: 2026-10-14 12:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Von Neumann (1932) and Wigner (1961) proposed that consciousness does cause coll
 
 Where QBism makes consciousness structurally necessary but only epistemically active, consciousness-collapse makes it causally active as well. This avoids the structural-dependence problem: if consciousness causes collapse, the theory at least acknowledges consciousness as a real causal factor rather than silently relying on it.
 
-But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [developments in quantum biology](/topics/quantum-biology-and-neural-consciousness/) have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a modelled biological precedent: Denton et al. (2024) showed computationally, in a spin-dynamics model, that it can enable magnetosensitivity in tightly bound cryptochrome radical pairs. The precedent is for the *mechanism category* in a specialised photoactivated sensor, not for any neural deployment of it. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
+But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed neural decoherence at ~10⁻¹³ seconds (microtubules) to ~10⁻²⁰ seconds (ion superpositions)—far too fast for consciousness to intervene through ordinary neural processes. However, [developments in quantum biology](/topics/quantum-biology-and-neural-consciousness/) have weakened the categorical version of this objection. The quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has a modelled biological precedent: Denton et al. (2024) showed computationally, in a spin-dynamics model, that it can enable magnetosensitivity in tightly bound cryptochrome radical pairs. The precedent is for the *mechanism category* in a specialised photoactivated sensor, not for any neural deployment of it. Theoretical proposals (e.g. microtubule interiors modelled as quantum-electrodynamic cavities sustaining coherence of order a microsecond) remain unconfirmed, but the blanket "warm, wet brains forbid all quantum function" objection no longer holds. A timing gap between any such coherence and millisecond neural decisions still persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
 
 The deeper problem is the [indexical gap](/topics/indexical-identity-quantum-measurement/)—consciousness-collapse explains *how* collapse happens but not why *this* consciousness exists to trigger it. That argument is developed fully in the companion article.
 

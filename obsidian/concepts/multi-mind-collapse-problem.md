@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-27T12:50:30+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ Each consciousness is an island, causally isolated from other consciousnesses at
 
 ## The Decoherence Challenge
 
-Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. Hagan, Hameroff, and Tuszyński (2002) replied that with corrected parameters—counterion screening and ordered water shielding the microtubule interior—coherence times might reach 10⁻⁵ to 10⁻⁴ seconds. That rebuttal is contested rather than settled: its assumptions (ordered water, actin gelation, topological protection) are themselves unconfirmed. Proposed mechanisms such as the quantum Zeno effect work with brief, repeated interactions rather than sustained coherence. And quantum biology precedents (avian magnetoreception, computationally supported by Luo et al.'s 2025 Princeton cryptochrome study) suggest evolution may exploit quantum effects in warm tissue.
+Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds for microtubules and ~10⁻²⁰ seconds for ion superpositions—seemingly too fast for any selection process. Hagan, Hameroff, and Tuszyński (2002) replied that with corrected parameters—counterion screening and ordered water shielding the microtubule interior—coherence times might reach 10⁻⁵ to 10⁻⁴ seconds. That rebuttal is contested rather than settled: its assumptions (ordered water, actin gelation, topological protection) are themselves unconfirmed. Proposed mechanisms such as the quantum Zeno effect work with brief, repeated interactions rather than sustained coherence. And quantum biology precedents (avian magnetoreception, computationally supported by Luo et al.'s 2025 Princeton cryptochrome study) suggest evolution may exploit quantum effects in warm tissue.
 
 The [[decoherence]] challenge constrains but doesn't eliminate [[brain-interface-boundary|interface locality]]. Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
 

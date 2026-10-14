@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-18T16:23:41+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 draft: false
 last_deep_review: 2026-07-17T23:05:21+00:00
 topics:
@@ -55,7 +55,7 @@ The bandwidth limitation means consciousness operates at the policy level, not t
 
 ### Decoherence Pressure
 
-If consciousness acts at quantum indeterminacies—as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes—then [[decoherence]] is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—while neural decision windows span hundreds of milliseconds (~10⁻¹ s). This twelve-order-of-magnitude gap is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
+If consciousness acts at quantum indeterminacies—as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes—then [[decoherence]] is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—for microtubule states and 10⁻²⁰ seconds for ion superpositions, while neural decision windows span hundreds of milliseconds (~10⁻¹ s). This gap of at least twelve orders of magnitude is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
 
 The gap is severe but not necessarily fatal. Hagan et al. (2002) challenged Tegmark's model assumptions, extending estimated coherence times by eight or more orders of magnitude. Discrete observation mechanisms like the quantum Zeno effect require only that individual events outpace decoherence, not that coherence span the full decision window. And quantum biology demonstrates that warm biological systems can exploit quantum effects despite hostile thermal conditions (see [[decoherence|the full decoherence analysis]]). The interface must operate within whatever coherence windows the brain's architecture provides—whether microsecond-scale windows in microtubules, briefer openings at ion channels and synaptic vesicles, or mechanisms not yet identified.
 

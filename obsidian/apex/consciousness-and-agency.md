@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-10-04T17:06:47+00:00
+ai_modified: 2026-10-14T12:09:02+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -87,7 +87,7 @@ The Map's libertarianism has a specific mechanism: consciousness selects among q
 
 Consciousness, on the Map's framework, is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs—and consciousness arbitrates among the alternatives rather than constructing them, on the [[control-theoretic-will|control-theoretic reading]] by biasing which trajectory the neural machinery settles into. Two tenets converge here. [[tenets#^minimal-quantum-interaction|Minimal quantum interaction]] bounds consciousness's influence to what the empirical record permits; [[tenets#^bidirectional-interaction|bidirectional interaction]] requires that it genuinely affect outcomes. Selection among options physics has already prepared satisfies both.
 
-A genuine difficulty follows. Selecting among neural firing patterns means influencing *macroscopic* brain states, not single quantum events. The proposed answer is amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection ([[mental-causation-and-downward-causation|mental causation]] discusses coupling)—and whether it is physically realistic remains open. The objection that warm neural tissue decoheres superpositions in ~10⁻¹³ seconds (Tegmark 2000) is contested but unresolved: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats, but these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
+A genuine difficulty follows. Selecting among neural firing patterns means influencing *macroscopic* brain states, not single quantum events. The proposed answer is amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection ([[mental-causation-and-downward-causation|mental causation]] discusses coupling)—and whether it is physically realistic remains open. The objection that warm neural tissue decoheres microtubule superpositions in ~10⁻¹³ seconds and ion superpositions in ~10⁻²⁰ seconds (Tegmark 2000) is contested but unresolved: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats, but these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
 
 Most cognition is therefore *nonconscious scaffolding*, and the channel through which consciousness acts has limited bandwidth. [[attentional-economics|Attentional economics]] reads agency as the allocation of a finite attentional resource, so that freedom scales with attentional skill; [[skill-delegation|skill delegation]] shows the selector engaging during learning, withdrawing from routine execution, and re-engaging for novel decisions—a pattern "choking under pressure" illustrates, though the [[interface-friction|friction reading]] concedes that standard motor-control models predict the degradation.
 
