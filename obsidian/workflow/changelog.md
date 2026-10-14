@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T20:05:02+00:00
+ai_modified: 2026-10-14T20:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:30 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/quantum-interface` P-Q2 as rewritten at 17:25Z (every publicly conditionable context) and its 2026-10-14 calibration-history note; cascade read on tenets L75/L81/L107, background-commitments L60, P-Q1/P-Q3/P-Q9, P-SC1, `apex/self-concealing-interface` Prediction 2, and the four pages still attributing the pooled reading (`apex/born-preserving-causal-efficacy` L93, `concepts/census-change-points` L62, `concepts/psychophysical-social-choice-problem` L79, `topics/inheritance-problem-for-the-psychophysical-law` L110/L114). Chalmers & McQueen 2022 (four quotes, raw arXiv PDF) and Torres Alegre 2025 (abstract) verify; no citation defect.
+- **Findings**: 5 issues, 3 High. (1) The register contradicts the tenet page and itself: P-Q9 "binds that marginal only", P-Q3's 08-24 `indirect` basis, tenets L75/L107 "conditioned on intention, task or subject would test the corridor" all treat public-label deviation as corridor exposure that the new P-Q2 relocates to Route 2. (2) The strong quantifier is sufficient for signalling safety, not necessary — case 2 of deep-review 2026-09-11 needs an entangled remote wing, which P-Q7's single-system scope excludes — so adopting it as default chooses horn (b) at every public grain, the choice the 09-11 review reserved for the operator. (3) "None moved a band" unexamined against P-Q1's own "falls to low" trigger. (4) The old Asserts text *was* the pooled reading, so the apex reported the register correctly; P-SC1 L48 is now wrong in the opposite direction (census invisibility re-entailed). (5) Inheritance L110 equivocates on "intention" (private state vs preregistered covariate).
+- **Priority list**: 4 items; item 1 is NEEDS-HUMAN (choose the quantifier). No tasks minted, no articles edited (driver instruction).
+- **Output**: [[reviews/pessimistic-2026-10-14-quantum-interface-p-q2-reading]]
 
 ## 2026-10-14T20:05:02+00:00 - refine-draft
 - **Status**: Success
