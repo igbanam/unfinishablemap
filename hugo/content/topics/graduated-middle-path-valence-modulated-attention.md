@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-10-12 20:05:27+00:00
+ai_modified: 2026-10-14 06:38:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -13,7 +13,7 @@ concepts:
 - '[[evidential-status-discipline]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-07-07
-date: &id001 2026-10-12
+date: &id001 2026-10-14
 description: 'Built through human-AI refinement: the fork''s most defensible current
   stance worked as its own position—valence sets attentional gain, attention drives
   selection—plus the discriminating test that decides whether this earns non-epiphenomenality
@@ -21,8 +21,8 @@ description: 'Built through human-AI refinement: the fork''s most defensible cur
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 15:22:00+00:00
-lastmod: 2026-10-12 20:05:27+00:00
+last_deep_review: 2026-10-14 06:38:49+00:00
+lastmod: 2026-10-14 06:38:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The parent fork article ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/)) names a graduated middle path as "the most defensible current stance": **valence shapes where attention goes and how intensely it is sustained, and attention in turn drives selection.** It then leaves that stance a two-paragraph sketch. This article works the coupling as its own position, and reaches a deflationary verdict up front, before any detail: the middle path buys the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) a cheaper route to value-relevance—no second mental-to-physical coupling—but on its own discriminating signature it earns only the *weaker* reading of value's causal standing. It secures that valence is **causally relevant via attention** (not epiphenomenal), and it does not earn the parent's stronger "doubly non-epiphenomenal—real as experienced *and* efficacious as selector" language. The stronger reading belongs to the value-sensitive horn, which the middle path is not. The whole point of specifying the coupling is that the same experiment which would confirm the middle path is the experiment that demotes it.
+The parent fork article ([valence-and-conscious-selection](/topics/valence-and-conscious-selection/)) names a graduated middle path as "the most defensible current stance": **valence shapes where attention goes and how intensely it is sustained, and attention in turn drives selection.** It then leaves that stance a brief sketch. This article works the coupling as its own position, and reaches a deflationary verdict up front, before any detail: the middle path buys the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) a cheaper route to value-relevance—no second mental-to-physical coupling—but on its own discriminating signature it earns only the *weaker* reading of value's causal standing. It secures that valence is **causally relevant via attention** (not epiphenomenal), and it does not earn the parent's stronger "doubly non-epiphenomenal—real as experienced *and* efficacious as selector" language. The stronger reading belongs to the value-sensitive horn, which the middle path is not. The whole point of specifying the coupling is that the same experiment which would confirm the middle path is the experiment that demotes it.
 
 Two disciplines hold throughout. Per [evidential-status-discipline](/project/evidential-status-discipline/), the coupling is a *live hypothesis*, not an established result: the Map leans this way on prior commitments, and the leading physicalist rival models the identical causal structure without any non-physical term. Per [possibility-to-probability discipline](/concepts/possibility-probability-slippage/), "the tenets permit valence-modulated attention" never becomes "valence-modulated attention is what happens." What follows is a specification and a test, not a finding.
 
@@ -52,7 +52,7 @@ The specification: for a set of physically underdetermined neural outcomes {O₁
 
 This matters for [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The value-sensitive horn needs a *second* coupling—a psychophysical law by which felt valence enters the collapse dynamics directly—which the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot specify. The middle path needs no such law. Valence enters where attention is already granted entry, as a setting on a channel that already has a candidate physical implementation—contested, per the decoherence liability flagged above, but no more contested for the modulator than for the channel it rides. On the Map's own parsimony standard, that is the more-minimal route to making value causally relevant, and it is the reason the stance is "most defensible" rather than most ambitious.
 
-The coupling may carry a sign asymmetry: negative valence is often reported to recruit and hold attention more forcibly than positive valence of equal magnitude—the negativity-bias and threat-capture regularity—though the middle path neither establishes that regularity nor rests on it, and takes it here only as a hypothesis to be inherited, not an empirical premise. Where the asymmetry sits, if it is real, is the same value-in-mechanism question one register down. [The weighting article](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) splits that question into five candidate rows and fixes none, so the middle path inherits it unresolved, but the evidence there leans toward this page's coupling. Yechiam and Hochman (2013) model losses as increasing on-task attention rather than carrying more weight, and find that "asymmetric effects of losses on behavior emerge where gains and losses are presented separately but not concurrently"; in a re-meta-analysis the coefficient falls to about 1.07 under symmetric, unordered amounts (Yechiam and Zeif 2025), which that article reads as placing part of it in how options are compared rather than in any value consulted. That is congenial to the middle path and no evidence that anything in it is felt, since attention can be allocated without feeling.
+The coupling may carry a sign asymmetry: negative valence is often reported to recruit and hold attention more forcibly than positive valence of equal magnitude—the negativity-bias and threat-capture regularity—though the middle path neither establishes that regularity nor rests on it, and takes it here only as a hypothesis to be inherited, not an empirical premise. Where the asymmetry sits, if it is real, is the same value-in-mechanism question one register down. [The weighting article](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) splits that question into five candidate rows and fixes none, so the middle path inherits it unresolved, but part of the evidence there points to the row this page's coupling occupies. Yechiam and Hochman (2013) model losses as increasing on-task attention rather than carrying more weight, and find that "asymmetric effects of losses on behavior emerge where gains and losses are presented separately but not concurrently"; in a re-meta-analysis the coefficient falls to about 1.07 under symmetric, unordered amounts (Yechiam and Zeif 2025), which that article reads as placing part of it in how options are compared rather than in any value consulted. That is congenial to the middle path without favouring it over value-blind selection, which the weighting article grants can carry the same tilt by attention allocation alone, and it is no evidence that anything in it is felt, since attention can be allocated without feeling.
 
 ## Non-Epiphenomenality, Audited
 
@@ -60,7 +60,7 @@ Does "value causes selection *via* a value-neutral mechanism" deliver genuine no
 
 **The strong reading** is the value-sensitive horn's: valence is "doubly non-epiphenomenal—real as experienced *and* efficacious as selector." Here valence is *the currency of selection itself*; the selection law is denominated in felt value.
 
-**The weak reading** is the middle path's actual content: valence is efficacious as an *input to* the selector, not as the selector. It shapes attention; attention selects. On this reading the fundamental selection law remains value-blind, and valence is what the parent article calls "upstream infrastructure." The teleological character—outcomes selected because of how they would feel—emerges from the *combination* of value-sensitive attention and value-blind selection, rather than from the physics of selection carrying a value term.
+**The weak reading** is the middle path's actual content: valence is efficacious as an *input to* the selector, not as the selector. It shapes attention; attention selects. On this reading the fundamental selection law remains value-blind, and value is, in the parent article's words, "a cause of selection via attention rather than a bystander." The teleological character—outcomes selected because of how anticipating them feels—emerges from the *combination* of value-sensitive attention and value-blind selection, rather than from the physics of selection carrying a value term.
 
 The middle path delivers the weak reading, and only the weak reading. This is enough to defeat epiphenomenalism about valence in the narrow sense: *on the interface reading*, a variable that shapes which neural pattern gets stabilised is doing causal work, not riding along inert. The qualifier does real work and belongs here rather than only in §4: the correlational mediation the design can measure (valence→attention→selection) is on its own the *epistemic* claim; the *metaphysical* claim that valence exerts downward work on which pattern actualises stands only if the interface premise §4 makes explicit is granted, and the physicalist who owns the same mediation without an interface reads the identical evidence as no downward work at all. The [value-blind steelman](/topics/the-steelman-for-value-blind-selection/)'s parsimony case does not touch this—it grants that valence can inform a steering channel. But "informs the steering" is precisely *not* "is the steering." The evaluative dimension of consciousness, on the middle path, never enters the law that decides outcomes; it enters the parameter that aims the mechanism that enters the law. That is one remove short of what [phenomenal-value-realism](/topics/phenomenal-value-realism/) wants when it argues that value must be efficacious *as value*. Reading the middle path as vindicating the strong claim would be exactly the possibility-to-probability slippage the cluster guards against: coherence with the value-sensitive aspiration is not attainment of it.
 
@@ -70,7 +70,7 @@ So the honest placement is conservative. The middle path escapes epiphenomenalis
 
 A specification earns its keep only if it predicts something the alternatives do not. The middle path does—against the two *pure* horns—and the prediction is sharper than the parent article's testability hooks record.
 
-The parent lists, for the value-sensitive horn, that "valenced options should be selected more readily than neutral options **of equal attentional salience**." Read carefully, an equal-salience design is the discriminating instrument, because it clamps the very channel the middle path routes value through. Consider a task requiring conscious selection between two competing neural patterns, run in two conditions: one where attention is free to vary, and one where attentional salience is experimentally equalised across the options (matched bottom-up salience, matched cued attention, matched precision). Ask whether a valence *selection advantage*—valenced options winning selection more often, or with stronger conscious-selection neural signatures—survives the clamp.
+The parent lists, for the value-sensitive horn, that "valenced options should be selected more readily than equally salient neutral options," and notes that every mechanism-sufficient rival predicts that too, so only an operationalised form discriminates. Equal salience is still the instrument that separates the horns within the fork, because it clamps the very channel the middle path routes value through. Consider a task requiring conscious selection between two competing neural patterns, run in two conditions: one where attention is free to vary, and one where attentional salience is experimentally equalised across the options (matched bottom-up salience, matched cued attention, matched precision). Ask whether a valence *selection advantage*—valenced options winning selection more often, or with stronger conscious-selection neural signatures—survives the clamp. Since the specification above takes valence to be felt anticipation, an advantage counts only if it tracks present affect with the unfelt forecast and learned value measured and held, the input dissociation [the forecasting article](/concepts/affective-forecasting-gap/) sets out. Without that control an unfelt value signal can produce the middle path's row or the value-sensitive horn's, and the battery cannot tell value-blind selection from felt anticipation.
 
 | Position | Free attention | Salience clamped |
 |----------|----------------|------------------|
@@ -103,7 +103,7 @@ Two consequences follow, both deflationary and both required. First, the test is
 
 ## Further Reading
 
-- [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The parent fork; this article develops its two-paragraph middle-path sketch
+- [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The parent fork; this article develops its brief middle-path sketch
 - [attention-as-interface](/concepts/attention-as-interface/) — The single coupling the middle path modulates rather than duplicates
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The external case that mechanism suffices and valence only informs the channel
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — The value-in-mechanism question one register down

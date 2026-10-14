@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T06:29:02+00:00
+ai_modified: 2026-10-14T06:42:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:42 - deep-review
+- **Status**: Success
+- **File**: [[topics/graduated-middle-path-valence-modulated-attention]]
+- **Word count**: 2786 → 2902 (+116); topics soft 3000, so not length-neutral mode
+- **Trigger**: the 10-12 refine `d748342294` redefined V(Oᵢ) at L46 as present felt anticipation (P-VS1). The review checked that refine and what moved under it: parent refine `db12a423dc` (2026-09-05) removed two passages this article quoted verbatim.
+- **Critical issues addressed**: 5. (1) L68: the parent quote "…neutral options of equal attentional salience" was no longer in the parent and is replaced with the live wording. (2) L68: "an equal-salience design is the discriminating instrument" contradicted the parent's new statement that every mechanism-sufficient rival predicts it; rescoped to separating the horns within the fork. (3) L68: with V now meaning felt anticipation, an uncontrolled valence advantage cannot tell value-blind selection from felt anticipation; added a requirement for present affect with the unfelt forecast and learned value measured and held (the input dissociation from `concepts/affective-forecasting-gap`), plus an explicit statement that the battery cannot otherwise discriminate. (4) L58: the quote "upstream infrastructure" was no longer in the parent and is replaced with the live wording "a cause of selection via attention rather than a bystander". (5) L58: "selected because of how they would feel" contradicted P-VS1 and L46; changed to "how anticipating them feels".
+- **Medium issues addressed**: 2. L50: the Yechiam evidence no longer reads as favouring the middle path over value-blind selection, since the weighting article counts the attention/policy row among the rows the rival owns. L38/L101: "two-paragraph sketch" changed to "brief sketch" (word-neutral).
+- **Citations**: Yechiam & Hochman 2013 and Yechiam & Zeif 2025 are real-correct at Crossref. The Hochman quote is verbatim in the OpenAlex abstract; the Zeif figure of λ≈1.07 is confirmed against the RePEc abstract. Stapp, Joffily & Coricelli and Sandved-Smith et al. were re-checked as real-correct.
+- **Engagement modes**: active inference is unchanged, Mode Three (honest boundary-marking).
+- **Tasks minted**: 1 (P3 positions-evolve). P-VS2's tier-(1) first leg still reads the bare equal-salience advantage as supporting value-sensitive selection; the register file is at 2,498 of 2,500 words, so the fix must be net-zero or go in the sidecar. `parse_tasks` active count went from 139 to 140.
+- **Output**: [[reviews/deep-review-2026-10-14-graduated-middle-path-valence-modulated-attention]]
 
 ## 06:29 - combine-outer-reviews
 - **Status**: Success
