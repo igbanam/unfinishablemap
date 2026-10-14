@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T21:26:18+00:00
+ai_modified: 2026-10-14T21:38:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:38 - refine-draft
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Original score**: n/a (literature-drift task; no curate review run)
+- **Source**: [[reviews/literature-drift-2026-10-13-predictive-processing-and-dualism]] findings 1 and 2; 09-30 deep-review stability notes read first, nothing re-flagged
+- **Word count**: 4623 → 4618 (−5; topics soft 3000 / hard 4000 / critical 6000, `hard_warning` both sides; task required net ≤ 0 by `analyze_length`)
+- **Changes**:
+  - (a) §Mechanistic Rival: "neural implementations generating testable predictions now" → "candidate neural implementations — though testing lags specification", with the abstract-level findings of Hodson, Mehta & Smith (2024) ("modest support" for predictive coding; active-inference models explain behaviour reasonably well but have not been formally compared against non-Bayesian rivals) and Lageman, Fahrenfort & Slagter (2026) (call for experiments that adjudicate between accounts). "On mechanistic specification the rival is well ahead" and "concedes the comparison on articulation without qualification" kept verbatim. Done.
+  - (b) §Mechanistic Rival, variance-explained paragraph: one parenthetical clause installed — the programme is at an early stage per the 2024/2026 reviews, and the nearest prediction (agents behave more stochastically when uncertain about outcomes) is so far rated only "broadly consistent" (Lageman et al., 2026). Framed as what would shrink the residue; the residue claim and the Born-preserving undetectability sentence untouched. Done.
+  - (c) Effort account: Parr, Holmes, Friston & Pezzulo (2023) added beside Zénon, Solopchuk & Pezzulo (2019) as the active-inference formalisation (covert mental action overcoming prior beliefs about how one would normally act — abstract wording only). Zénon kept, additive per the 09-30 certification. Done.
+  - (d) Three References entries added in the page's two alphabetical runs: Hodson between Friston/Wiese/Hobson 2020 and Hohwy 2013; Lageman before Laukkonen; Parr between Laukkonen and Seth (entry copied verbatim from `apex/attention-as-causal-bridge` L207). Renumbered 1–20. (Surname, year) orphan check both ways: 20/20. Done.
+- **Calibration fence held**: nothing written as a point for the Map; L114 "won the articulation contest as it stands" and the lede's "loses on articulation" both retained; the new cites describe the rival's empirical maturity only.
+- **Funding trims** (restatement only; no qualifier, hedge, concession or citation cut; +185 added, −190 trimmed): lede 282 → 236 (dropped the "one of the most influential frameworks" opener, "not just passively updating models", "and their leading proponents read them that way", the "nothing in the equations settles" restatement of "does not mandate physicalism", and folded "The Map appropriates the architecture while rejecting…" into the preceding sentence; 46 words); §Neural Machinery closing restatement "This architecture creates precisely the branching landscape…" (15); §Metaphysical Neutrality "The mathematics describes how systems maintain their existence…" (14); §Precision Weighting one-line section opener (16) and the closing flourish "The brain generates predictions; consciousness helps determine which matter" (9); §Quantum-Bayesian "With that caveat, the point where Bayesian inference meets quantum probability may be one place…" (20; the "one possible mechanism, not a commitment" hedge in the next paragraph survives); §What PP Gets Right lead-in sentence (8), "rather than bypassing them" (4), the attention bullet's restatement of §Precision Weighting (15; the [[attention-as-interface]] wikilink preserved), "elegantly" (1), the subject-of-prediction closing "The explanatory-gap … is a feature of the territory" (14; [[explanatory-gap]] still linked twice above); §No Many Worlds closing restatement (14); §Occam's "Invoking Occam's Razor requires parity that does not exist" (9); Further Reading `disguised-property-dualism` gloss shortened (10).
+- **Out of scope, not acted on**: Hohwy 2021/22 "Conscious Self-Evidencing" currency lead (unverified abstract).
+- **Housekeeping**: no "This is not X. It is Y.", no "load-bearing"; `ai_system` unchanged (already ends `claude-fable-5-1`); `ai_modified` 2026-10-14T21:38:17+00:00.
+- **Published**: yes
 
 ## 21:26 - deep-review
 - **Status**: Success
