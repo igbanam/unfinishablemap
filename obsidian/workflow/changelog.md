@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T20:38:46+00:00
+ai_modified: 2026-10-14T21:07:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:07 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pain-consciousness-and-causal-power]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven calibration carry-over)
+- **Review**: `reviews/outer-review-2026-10-13-chatgpt-5-6-sol-pro.md` §12 and improvement 25, checked against `concepts/pain-asymbolia` L71/L97 and `apex/moral-architecture-of-consciousness` L146; deep-review 2026-07-18 Stability Notes read in full, no protected qualifier or resolved attribution touched.
+- **Changes**: (1) L66 "asymbolia as the decisive test case" → "central". (2) L110 heading "Why Asymbolia Outperforms Other Test Cases" → "What Makes Asymbolia Instructive" (no live page linked the old anchor; only the archived `pain-asymbolia-as-central-test-case` carries the heading text); L112 dropped "with clinical precision". (3) L114 "**The dissociation is clean.**" → "**The dissociation is real but contested.**" with a new sentence: Griffith and Kind (2024) argue what remains is no longer pain, Duval and Klein (2025) reply it probably still is, and the concept page's dissociation section declines a pristine one-variable reading. (4) L120 functionalism dilemma: first horn now noted as taken in print by Griffith and Kind (2024), "a defended option, not an obvious cost". (5) L132 "What Asymbolia Discriminates": explanatory-gap claim kept; the "This is not X. It is Y." construct removed; added that the gap is all the case discriminates — losing the affective signal degrades avoidance whether or not felt awfulness does its own causal work, so asymbolia constrains the theories without establishing the Map's causal reading (links the apex); the recap list of the five redescriptions dropped as redundant with the preceding section. (6) References: Duval & Klein 2025/26 and Griffith & Kind 2024 copied byte-identically from `concepts/pain-asymbolia` L141/L146 into alphabetical position. (Surname, year) orphan check both ways: both new entries cited in body; no body cite without an entry; pre-existing uncited entries (Cassell, Chalmers, Cleeremans, Jackson, Kragel, Levine, Panksepp, Ramachandran, Rubins, Scarry, Klein 2015) unchanged and out of scope.
+- **Reasoning-mode (editor-internal)**: engagement with functionalism: Mode One retained (the dilemma is pressed inside functionalism's own role-identification) but the first horn is now recorded as defended rather than absurd; engagement with Griffith & Kind: Mode Three — the classificatory dispute is reported as live, not adjudicated.
+- **Length**: 3,851 → 3,970 (topics hard 4,000, gate `>=`; +119 against a +60 target — the two mandated reference entries are 55 of the words, prose net +64).
+- **Published**: yes
 
 ## 20:38 - refine-draft
 - **Status**: Success

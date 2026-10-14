@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-09-24 21:31:07+00:00
+ai_modified: 2026-10-14 21:04:47+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:10:09+00:00
-lastmod: 2026-09-24 21:31:07+00:00
+lastmod: 2026-10-14 21:04:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ topics:
 
 Pain is the hard problem made personal. Abstract debates about [qualia](/concepts/qualia/) and the [explanatory-gap](/concepts/explanatory-gap/) can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [mental causation](/concepts/mental-causation-and-downward-causation/) stops being abstract. The felt awfulness of pain is not a side effect of its motivational force — it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [pain-asymbolia](/concepts/pain-asymbolia/) — where patients detect nociceptive stimuli but lack the felt awfulness — provides the single most discriminating empirical test case in philosophy of mind, forcing every major theory to reveal its commitments and its gaps.
 
-Three threads converge below: pain's resistance to reduction, the pain-suffering distinction's challenge to physicalism, and asymbolia as the decisive test case.
+Three threads converge below: pain's resistance to reduction, the pain-suffering distinction's challenge to physicalism, and asymbolia as the central test case.
 
 ## Pain's Resistance to Reduction
 
@@ -112,17 +112,17 @@ This temporal architecture cannot be explained by nociceptive mechanisms. The ca
 
 Where thought experiments like [philosophical-zombies](/concepts/philosophical-zombies/) remain debatable in their conceivability, asymbolia is actual. Where [blindsight](/concepts/blindsight/) dissociates visual awareness from visual processing, asymbolia dissociates something far harder to dismiss: the felt hurtfulness of pain from the sensory detection of tissue damage. Every major theory of consciousness must give an account of what asymbolia patients are missing — and those accounts reveal the theories' deepest commitments with unusual clarity.
 
-### Why Asymbolia Outperforms Other Test Cases
+### What Makes Asymbolia Instructive
 
-**It targets the hardest feature of consciousness.** The "hard" in the [hard problem](/topics/hard-problem-of-consciousness/) is phenomenal character — why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving informational content intact, isolating the hard problem's target with clinical precision.
+**It targets the hardest feature of consciousness.** The "hard" in the [hard problem](/topics/hard-problem-of-consciousness/) is phenomenal character — why there is something it is like to be in a given mental state. Asymbolia removes the most salient aspect of phenomenal character (the awfulness) while leaving informational content intact, isolating the hard problem's target.
 
-**The dissociation is clean.** Patients report nociceptive stimuli accurately — localisation, modality, intensity in sensory terms. What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. The deficit can extend to threat evaluation more broadly — Berthier et al. (1988) report reduced reactivity to threatening gestures — but the core pattern remains a selective loss of affective-bodily concern while sensory cognition continues.
+**The dissociation is real but contested.** Patients report nociceptive stimuli accurately — localisation, modality, intensity in sensory terms. What vanishes is the affective-motivational dimension: the awfulness, the urgency, the compulsion to withdraw. Griffith and Kind (2024) argue that what remains is no longer pain; Duval and Klein (2025) reply that it probably still is; the [concept page](/concepts/pain-asymbolia/#what-asymbolia-dissociates) therefore declines any pristine one-variable reading. The deficit can extend to threat evaluation more broadly — Berthier et al. (1988) report reduced reactivity to threatening gestures — but the core pattern remains a selective loss of affective-bodily concern while sensory cognition continues.
 
 **The behavioural consequences are dramatic.** Asymbolia patients fail to guard injuries, seek treatment, or develop avoidance patterns. As Nikola Grahek frames it, the distinction is between *feeling pain* (sensory detection, preserved) and *being in pain* (the full affective state that commands attention and drives behaviour, abolished).
 
 ### Theory by Theory
 
-**[Functionalism](/concepts/functionalism/)** identifies mental states with functional roles: pain is whatever occupies the detect-damage-and-motivate-avoidance role. Asymbolia forces a dilemma. Deny that patients are in pain (but they accurately report painful sensations). Or concede that "pain" decomposes into functionally separable components, with the component that vanishes — affective suffering — being precisely the one carrying [phenomenal character](/concepts/phenomenal-consciousness/). Either way, functionalism must acknowledge that informational content does not, by itself, produce the felt quality of suffering.
+**[Functionalism](/concepts/functionalism/)** identifies mental states with functional roles: pain is whatever occupies the detect-damage-and-motivate-avoidance role. Asymbolia forces a dilemma. Deny that patients are in pain (but they accurately report painful sensations). Griffith and Kind (2024) take this first horn in print; it is a defended option, not an obvious cost. Or concede that "pain" decomposes into functionally separable components, with the component that vanishes — affective suffering — being precisely the one carrying [phenomenal character](/concepts/phenomenal-consciousness/). Either way, functionalism must acknowledge that informational content does not, by itself, produce the felt quality of suffering.
 
 **[Higher-order theories](/concepts/higher-order-theories/)** hold that a mental state is conscious when it is the object of a suitable higher-order representation. Asymbolia patients are clearly *conscious of* their nociceptive sensations — they report them accurately. What is missing is the higher-order representation of the affective quality specifically. The theory must posit two separate monitoring streams for pain: one for sensory content (intact) and one for affective quality (disrupted). This becomes a redescription of the clinical finding rather than an explanation.
 
@@ -134,7 +134,7 @@ Where thought experiments like [philosophical-zombies](/concepts/philosophical-z
 
 ### What Asymbolia Discriminates
 
-The pattern across these theories is revealing. Each can redescribe asymbolia within its framework — as partial functional disruption, missing higher-order states, reduced global broadcast, diminished integration, or absent representational content. None explains the core phenomenon: why the presence or absence of a particular neural connection determines whether nociceptive processing *hurts*. This is not a failure of scientific detail. It is the [explanatory-gap](/concepts/explanatory-gap/) in clinical focus.
+Each theory can redescribe asymbolia within its framework. None explains the core phenomenon: why the presence or absence of a particular neural connection determines whether nociceptive processing *hurts*. That shortfall is the [explanatory-gap](/concepts/explanatory-gap/) in clinical focus, not missing scientific detail — and it is all the case discriminates. Losing the affective signal degrades avoidance whether or not felt awfulness does causal work of its own, so asymbolia constrains these theories without establishing the Map's causal reading ([moral architecture](/apex/moral-architecture-of-consciousness/)).
 
 ## The Inseparability of Character and Causal Power
 
@@ -212,9 +212,11 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 1. Cassell, E. J. (2004). *The Nature of Suffering and the Goals of Medicine*. 2nd ed. Oxford University Press.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Cleeremans, A. & Tallon-Baudry, C. (2022). "Consciousness Matters: Phenomenal Experience Has Functional Value." *Neuroscience of Consciousness*, 2022(1), niac007.
+1. Duval, A. & Klein, C. (2025 online first; 2026 issue). "Pain Asymbolia Is Probably Still Pain." *Philosophy of Science*, 93(1), 221–229 (discussion note). Published online 4 July 2025; the volume, issue and pagination are those of the January 2026 issue. https://doi.org/10.1017/psa.2025.10098
 1. Gard, T., Hölzel, B. K., Sack, A. T., et al. (2012). "Pain Attenuation Through Mindfulness Is Associated with Decreased Cognitive Control and Increased Sensory Processing in the Brain." *Cerebral Cortex*, 22(11), 2692–2702.
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Grant, J. A., & Rainville, P. (2009). "Pain Sensitivity and Analgesic Effects of Mindful States in Zen Meditators." *Psychosomatic Medicine*, 71(1), 106–114.
+1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Klein, C. (2015). *What the Body Commands: The Imperative Theory of Pain*. MIT Press.
