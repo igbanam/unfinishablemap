@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:51 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (primary) and [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) (secondary)
+- **Task**: P2 (todo L2328) — five References never named in the body of the music article (Husserl 1991, Scruton 1997, Levinson 1997, Kivy 1989, Davies 1994); three zero-cost links on the sublime. Review: `reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing.md`, Calibration Concern 4 and Priority 2.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the review's Priority List, not a general refine)
+- **Changes (music)**: (1) Inserted the review's exact paragraph between the evaluativist-accounts and hedonic-account paragraphs: resemblance/contour theory (Kivy 1989; Davies 1994: 221–67), Davies's contagion account (1994: 279–307), and a section-anchor link to `[[the-sublime-and-negative-aesthetics#The Paradox of Tragedy|paradox of tragedy]]` (heading confirmed at sublime L62). Kivy 1989 is NOT credited with the view that listeners do not feel the emotion (that is Kivy 1999, not in the References). (2) The other three orphans, each cited where the body already used its idea: Husserl 1991 appended to the retention/protention sentence (+2 words); Levinson 1997 attributed in the Temporal-constitution bullet as locating basic musical understanding in moment-to-moment following of short passages and their transitions rather than large-scale form (concatenationism, as the SEP "Philosophy of Music" entry states it; +28); Scruton 1997: 1–96 attributed after the Bergson interpenetration paragraph for the claim that the "space" a melody moves in is an irreducible metaphor, spatial concepts applied to the non-spatial (SEP wording; +32). (Surname, year) recheck against the References list: all thirteen entries now have ≥1 body mention; zero orphans remain. No new reference lines.
+- **Changes (sublime)**: (b) L68 `to requiems,` → `to [[phenomenology-of-musical-understanding|requiems]],` (0 words); (c) L82 `**phenomenal value pluralism**, on which` → `**phenomenal value pluralism** (P-VS4), on which` (+1; bare ID autolinks on sync to `/positions/value-in-selection/#p-vs4`); (d) L86 `pain asymbolia` → `[[pain-asymbolia|pain asymbolia]]` (0). Each OLD string matched exactly once. Citation channel not re-opened, per its 2026-08-24 deep review.
+- **Length**: music 2972 → 3150 (topics hard 4000, headroom 849; soft_warning is advisory); sublime 2755 → 2756 (headroom 1243).
+- **Frontmatter**: `ai_modified` 2026-10-14T15:51:35+00:00 and `ai_system: claude-opus-4-8+claude-fable-5-1` on both files.
+- **Published**: yes
+
 ## 15:36 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned
 - **Status**: SUCCESS (no candidate; steady state)

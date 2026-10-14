@@ -4,7 +4,7 @@ description: "Musical understanding is, on the Map's reading, irreducibly tempor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-08-21T15:28:00+00:00
+ai_modified: 2026-10-14T15:51:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-07-25T12:32:09+00:00
@@ -56,7 +56,7 @@ Musical understanding is not knowledge *about* music. A music theorist who ident
 
 This understanding has several distinctive features:
 
-**Temporal constitution.** Musical meaning unfolds across time and cannot be compressed into an instant. A chord's emotional weight depends entirely on what preceded it. The resolution of a suspension depends on hearing the dissonance *as* dissonance—which requires having heard the preceding consonance. [[temporal-consciousness|Bergson's durée]] captures this precisely: musical experience is a qualitative multiplicity where each moment interpenetrates with every other, each note heard in light of what came before and in anticipation of what follows.
+**Temporal constitution.** Musical meaning unfolds across time and cannot be compressed into an instant. A chord's emotional weight depends entirely on what preceded it. The resolution of a suspension depends on hearing the dissonance *as* dissonance—which requires having heard the preceding consonance. Levinson (1997) locates basic musical understanding in exactly this moment-to-moment following of short passages and the transitions between them, rather than in any grasp of large-scale form. [[temporal-consciousness|Bergson's durée]] captures this precisely: musical experience is a qualitative multiplicity where each moment interpenetrates with every other, each note heard in light of what came before and in anticipation of what follows.
 
 **Non-propositional content.** Music means something, but what it means cannot be fully captured in words. A funeral march communicates grief, but not the proposition "someone has died." A triumphant fanfare communicates exultation without asserting anything. The result reads as vagueness only to an account that expects all meaning to be representational; what music actually trades in is a different *kind* of meaning, one that operates through felt quality rather than propositional content.
 
@@ -66,11 +66,11 @@ This understanding has several distinctive features:
 
 Music exploits the structure of the [[temporal-consciousness|specious present]] distinctively among the arts. A melody is a temporal gestalt held together within experiential duration, not a sequence of individual tones experienced one at a time and then summed. William James's insight applies directly: the experience of a melody is a single experience of succession, not a succession of experiences.
 
-The specious present's ~100ms to 3-second window provides the phenomenological horizon within which musical phrases cohere. Within this window, retention holds the just-past notes present while protention anticipates what should follow. Rhythm depends on this structure entirely—a beat is experienced as *on the beat* only relative to the retained pattern of preceding beats and the protended continuation. A system that processed each beat independently, with no retention, could never experience rhythm.
+The specious present's ~100ms to 3-second window provides the phenomenological horizon within which musical phrases cohere. Within this window, retention holds the just-past notes present while protention anticipates what should follow (Husserl 1991). Rhythm depends on this structure entirely—a beat is experienced as *on the beat* only relative to the retained pattern of preceding beats and the protended continuation. A system that processed each beat independently, with no retention, could never experience rhythm.
 
 This temporal binding creates the phenomenon of harmonic tension and resolution. When a dominant seventh chord sounds, listeners with even minimal exposure to tonal music experience a pull toward the tonic. That pull arrives as a felt quality of the experience itself—a protentional structure that anticipates one continuation over others—long before any thought or judgment about it could form. When the resolution arrives, something closes. When it doesn't—when the harmony moves elsewhere—the surprise is phenomenal, not cognitive.
 
-Bergson's concept of qualitative multiplicity finds its clearest illustration in music. The notes of a phrase do not sit beside each other like objects in space. They interpenetrate: C heard after G in the context of a C major phrase is qualitatively different from C heard after F in the context of an F major phrase. The "same" note is a different experience depending on its musical context, because the preceding notes colour the present tone through retention. This interpenetration is what makes music a temporal art rather than a spatial one.
+Bergson's concept of qualitative multiplicity finds its clearest illustration in music. The notes of a phrase do not sit beside each other like objects in space. They interpenetrate: C heard after G in the context of a C major phrase is qualitatively different from C heard after F in the context of an F major phrase. The "same" note is a different experience depending on its musical context, because the preceding notes colour the present tone through retention. This interpenetration is what makes music a temporal art rather than a spatial one; the "space" in which a melody is heard to rise, fall and come to rest is, as Scruton (1997: 1–96) argues, an irreducible metaphor, spatial concepts applied to what is not literally spatial.
 
 ## Musical Qualia and the Hard Problem
 
@@ -99,6 +99,8 @@ Music's capacity to generate powerful [[emotion-and-dualism|emotional responses]
 When a cello plays a slow, descending phrase in a low register, most listeners experience something that resembles grief. But grief *about what*? There is no propositional object—no loss, no absent person, no remembered tragedy. The emotional quality is intrinsic to the musical experience itself, not directed at any external state of affairs.
 
 This poses a problem for evaluativist accounts of emotion that define emotional experience as nonconceptual representation of value. If musical sadness represents something as bad, what is the "something"? The tones themselves? Their physical properties? The representationalist must either identify an implausible representational object or concede that some emotional experience has no representational content—it simply *feels* a particular way.
+
+The philosophy of music offers a naturalistic answer. On the resemblance or contour theory (Kivy 1989; Davies 1994: 221–67), the music's sadness is a heard likeness between its dynamic shape and the voice, gait and bearing of sad people; the listener's own sadness, where it occurs, is caught by contagion, the way a mood spreads through a room, and moods take no object (Davies 1994: 279–307). That ends the search for a representational object without positing one, but leaves open why the caught mood feels as it does: the gap stated above, relocated rather than closed. Why listeners seek such music out at all is the musical variant of the [[the-sublime-and-negative-aesthetics#The Paradox of Tragedy|paradox of tragedy]].
 
 The hedonic account handles this naturally: musical emotion has intrinsic valence and qualitative character that is not *about* anything external. The sadness of a minor passage is a phenomenal property of the experience itself, as immediate and non-representational as the painfulness of pain.
 

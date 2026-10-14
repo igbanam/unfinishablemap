@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-19
-ai_modified: 2026-08-24 23:07:21+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-14 15:51:35+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-24 23:07:21+00:00
-lastmod: 2026-08-24 23:07:21+00:00
+lastmod: 2026-10-14 15:51:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ If the sublime shows aesthetic value coinciding with awe and terror, tragedy sho
 
 Hume's own resolution was a *conversion* account. The melancholy passions roused by the tragic narrative are, he argued, overpowered and transformed by the pleasure taken in the eloquence, imitation, and artistry of the representation—"converted into pleasure" rather than merely outweighed by it. The emotional distance between audience and represented event lets the painful passions be appropriated and redirected. Contemporary treatments multiply the options. Some hold that the negative emotions are genuinely felt but compensated by other pleasures (control, understanding, social connection); some that the emotions are not really negative in the aesthetic context; some, following a stronger line, that the painful emotions are themselves part of what is valued, not a price paid for it. The current debate is surveyed under the heading of the *paradox of tragedy* (Gilmore 2025) and remains open—no single resolution commands consensus.
 
-For the Map's purposes the unresolved status is itself informative. The persistence of the paradox across two and a half centuries marks a structural fact: hedonic accounting strains against the data. The cleanest reading of why people return to *King Lear*, to requiems, to films that wreck them, is that the engagement carries aesthetic and eudaimonic value *as* a confrontation with grief and loss, not merely despite it. On this reading the felt sorrow is not converted into pleasure or offset by it; it is a constituent of an experience whose value is not hedonic. That reading is not forced—the conversion and compensation accounts remain live, and an honest treatment grants them—but it is the one that takes the phenomenology at face value rather than reinterpreting it to fit a hedonic ledger.
+For the Map's purposes the unresolved status is itself informative. The persistence of the paradox across two and a half centuries marks a structural fact: hedonic accounting strains against the data. The cleanest reading of why people return to *King Lear*, to [requiems](/topics/phenomenology-of-musical-understanding/), to films that wreck them, is that the engagement carries aesthetic and eudaimonic value *as* a confrontation with grief and loss, not merely despite it. On this reading the felt sorrow is not converted into pleasure or offset by it; it is a constituent of an experience whose value is not hedonic. That reading is not forced—the conversion and compensation accounts remain live, and an honest treatment grants them—but it is the one that takes the phenomenology at face value rather than reinterpreting it to fit a hedonic ledger.
 
 ## Ugliness and Disgust as Aesthetic Categories
 
@@ -83,11 +83,11 @@ These cases also resist the most natural reductive move, evolutionary aesthetics
 
 ## Why This Strengthens Phenomenal Value Pluralism
 
-[Phenomenal value realism](/topics/phenomenal-value-realism/) holds that intrinsic value is a feature of conscious experience itself—the felt badness of suffering *is* badness, the felt goodness of joy *is* goodness. Sharon Hewitt Rawlette's *The Feeling of Value* (2016) defends the hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends the position to **phenomenal value pluralism**, on which several dimensions of experience carry distinct intrinsic value—hedonic, aesthetic, eudaimonic, autonomous, epistemic, relational—each constituted by its own evaluative phenomenal character rather than reducible to a common hedonic currency.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) holds that intrinsic value is a feature of conscious experience itself—the felt badness of suffering *is* badness, the felt goodness of joy *is* goodness. Sharon Hewitt Rawlette's *The Feeling of Value* (2016) defends the hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends the position to **phenomenal value pluralism** ([P-VS4](/positions/value-in-selection/#p-vs4)), on which several dimensions of experience carry distinct intrinsic value—hedonic, aesthetic, eudaimonic, autonomous, epistemic, relational—each constituted by its own evaluative phenomenal character rather than reducible to a common hedonic currency.
 
 The negative aesthetic categories are the pluralist's strongest evidence, because they are where the hedonic and aesthetic dimensions come apart most visibly. An experience can be pleasant without being beautiful—a warm bath—and the gap can be widened until the aesthetic value coincides with displeasure: the sublime is awe-inspiring without being agreeable, tragedy is valued through sorrow, disgust apprehends through aversion. If aesthetic value were a species of pleasure, these experiences should either lack aesthetic value (they do not) or secretly contain net pleasure that does the valuing (the conversion and compensation accounts attempt this, and the persistence of the paradox of tragedy suggests it does not fully succeed). The pluralist explanation is direct: aesthetic value is its own dimension of evaluative phenomenal character, and it can be present at full strength while hedonic valence is negative.
 
-This is why the sublime is the cluster's sharpest test rather than just another example. Beauty-as-pleasure is a tempting reduction because beautiful things are *usually* pleasant; the correlation does the persuasive work. The sublime, tragedy, and disgust break the correlation while preserving the aesthetic value, isolating the aesthetic dimension from the hedonic one the way pain asymbolia isolates the sensory component of pain from its affective component. Where the two dimensions dissociate, the identity claim "aesthetic value just is pleasure" fails, and pluralism—several evaluative qualia, not one—is what remains standing.
+This is why the sublime is the cluster's sharpest test rather than just another example. Beauty-as-pleasure is a tempting reduction because beautiful things are *usually* pleasant; the correlation does the persuasive work. The sublime, tragedy, and disgust break the correlation while preserving the aesthetic value, isolating the aesthetic dimension from the hedonic one the way [pain asymbolia](/concepts/pain-asymbolia/) isolates the sensory component of pain from its affective component. Where the two dimensions dissociate, the identity claim "aesthetic value just is pleasure" fails, and pluralism—several evaluative qualia, not one—is what remains standing.
 
 A hedonist retains one reply: redescribe the negative cases as containing a higher-order or aesthetic pleasure of their own, so that the "pleasure" is preserved by being made more abstract. The Map's response is that this concedes the point. Once "aesthetic pleasure" is stretched to cover the felt experience of terror, grief, and revulsion, it no longer names hedonic valence at all; it has become a placeholder for whatever evaluative character the aesthetic dimension carries—which is exactly the pluralist's distinct dimension under a hedonic-sounding name. The dispute then is verbal where it is not lost.
 
