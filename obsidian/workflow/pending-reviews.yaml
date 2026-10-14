@@ -130,9 +130,9 @@
   prompt_summary: 'Audit apex self-construction-constructor: constructor inference
     vs illusionism'
   target_filename: outer-review-2026-10-14-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-14T05:51:18.512768+00:00'
   failure_reason: null
   prompt_text: Please audit the apex article https://unfinishablemap.org/apex/self-construction-constructor/
     ("The Self Is Constructed; the Constructor Is Not") on The Unfinishable Map (https://unfinishablemap.org),

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T05:45:00+00:00
+ai_modified: 2026-10-14T06:00:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (the regenerate menu reads "Try again • 5.6 Pro"; worked for 11m 30s), collected via collect-chatgpt-review
+- **File**: [[reviews/outer-review-2026-10-14-chatgpt-5-6-sol-pro]]
+- **Subject**: apex/self-construction-constructor (recent; the same subject as the Claude review processed at 05:45; no combine run)
+- **Extraction**: js-dom walk of the reply's MarkdownRoot, saved to disk as a Blob. The page SHA-256 `565259ab29f0a49f4ff3f2fb42cd2fc5aea09063d51a92edaec4deb1e028b99b` matches the file on disk (39,670 bytes). The prompt matches the pending entry by SHA-256 once two NBSPs are read as spaces.
+- **Claims verified**: 14 (9 on disk, 5 at Crossref/OpenAlex or in the corpus). Partly right: 4 (four-infant study "cited"; DMN meditation; Billon residual; inverted qualia). Not tasked: retitle, which is operator territory; improvements 11, 12 and 14–18, which are already covered or blocked by length; methodology items 19–25.
+- **High-value findings**: 5. (1) The apex says the human–ape gap "falls precisely" at metarepresentation. That drops [[theory-of-mind]] L75's caveat and contradicts the tenets' "graded rather than absolute" (Schleihauf 2025). The L134 ledger also claims an in-text flag that does not exist. (2) "Strictly one way" (L81) drops the social-construction source's L91 zombie concession. (3) Same-order self-representation (Kriegel) answers the regress, and the apex never names it, although [[self-representational-theory-of-consciousness]] L79 already concedes the point. (4) Neither Dennett source page appears among the apex sources. (5) The apex calls the subject the "constructor", yet its own L128 says the brain builds and consciousness undergoes.
+- **Tasks generated**: 1 new (P2 §The Threshold, which converges with Claude row 10, not minted) and 4 convergence riders on today's Claude tasks (2 P1, 2 P2), so no duplicates were created. Inserted above `## Completed Tasks`; the `parse_tasks` active count went from 138 to 139.
+- **Methodology**: ChatGPT's "no apex amplification" (21), independence audit (24) and claim-level apex citations (20) converge with Claude Part 5 items 1, 5 and 6. Recorded for combine, not minted. The status-propagation gate now has five verified instances in this one apex.
 
 ## 05:45 - outer-review
 - **Status**: Success
