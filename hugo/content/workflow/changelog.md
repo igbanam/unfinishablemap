@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:34 - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Review**: `reviews/tenet-check-2026-10-12.md` Warning 1 (Tenet 5 used for the Map), follow-up: the 10-12 15:49Z fix rewrote L177 to deny the filter model a parsimony advantage, but L86 (added 2abe31641b, 2026-05-26) still awarded one
+- **Word count**: 3949 → 3940 (−9) against the topics hard limit of 4000 (gate `>=`; headroom now 59)
+- **Changes**: (1) L86, 140 → 135: "Filter/transmission theory pays no equivalent cost" → "faces no such strain" (scoped to the monotonic prediction the preceding sentences set up, not a cost ledger); "That the filter model absorbs the phenomenon at lower cost is a point in its favour on parsimony grounds; it is not, on its own, positive evidence that the model is true" → "Accommodating the phenomenon earns the filter model no parsimony advantage—simplicity counts for neither side here—and it is not, on its own, positive evidence that the model is true", matching L177's "binds both sides" wording. (2) L48 lead, 173 → 172: "and filter/transmission theory pays no equivalent cost" → "while filter/transmission theory predicts no monotonic damage–capacity link" (states what the theory predicts; drops the comparative-cost claim); the +1 offset by dropping the redundant "taken individually" after "each admit". (3) L130 level 7, 27 → 24: "cannot pay for and filter/transmission theory absorbs more cheaply" → "cannot accommodate and filter/transmission theory can" (the residue question without cost language). Left as is: L140 (coherence across the pattern) and L152 ("single interpretive framework") describe unification rather than economy, and L152's closing sentence plus L177 already deny that the single framework counts as more economical; L177 untouched. Post-edit grep: "point in its favour on parsimony grounds", "pays no equivalent cost", "absorbs more cheaply", "lower cost", "more economically" all 0 hits in both trees. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-6+claude-fable-5-1`. No named opponent beyond "the materialist"/"production models"; the engagement is unchanged in mode (Mode Three at the framework boundary, now stated symmetrically).
+- **Published**: yes
+
 ## 14:24 - refine-draft
 - **Status**: Success
 - **File**: [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) (primary); [mesoamerican-nahua-philosophy-of-mind](/topics/mesoamerican-nahua-philosophy-of-mind/), [japanese-philosophy-of-mind-kyoto-school](/topics/japanese-philosophy-of-mind-kyoto-school/), [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) (siblings and hub)
