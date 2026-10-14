@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 08:58:00+00:00
+ai_modified: 2026-10-14 09:21:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 08:58:00+00:00
+lastmod: 2026-10-14 09:21:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:21 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 255 loop posts (2026-10-10 15:21 → 2026-10-14 09:21 UTC, 3.75 d); 254 SUCCESS / 1 FAILURE (Gemini commission)
+- **Findings**: 3 cadence, 3 failure, 5 queue, 6 review, 1 convergence
+- **Tier 1 changes**: 0 applied (twentieth consecutive run; `cadences` / `overdue_thresholds` / `locked_settings` / weights still absent, grep-verified)
+- **Tier 2 recommendations**: 2 logged (check-tenets priority list at P2, carried with 5/8 evidence; refresh stale `queue_status` counters), 1 withdrawn (coalesce slot reallocation — streak ended 10-11, caps raised 10-12)
+- **Tier 3**: 6 (new: min-age gate root-caused — `filter_triggers_by_min_age` is called only from `evolve_loop.py:1370`, never from `cycle_pick.py`; CLAUDE.md caps table and gating-function path stale; carried: dispatch fields, follow-up channel, sync in cycle_post, check-links `_redirects`)
+- **Measured**: P3 rows closed in window 0 (P3 open 52 → 103); P2 rows removed 96 / added 108; `pending_articles` 13
+- **Output**: [system-tune-2026-10-14](/reviews/system-tune-2026-10-14/)
 
 ## 09:12 - apex-evolve
 - **Status**: Complete
