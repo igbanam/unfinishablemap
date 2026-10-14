@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14T07:24:29+00:00
+ai_modified: 2026-10-14T07:49:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:49 - refine-draft
+- **Status**: Success
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Task**: P1 Schachter–Singer replication caveat at source, so the apex inherits it. Sources: outer reviews 2026-10-14 (Claude Fable 5.1 Part 4; ChatGPT 5.6 Sol Pro improvement 13), synthesis cluster 9. Scope held to the Schachter–Singer item only: the L65 Rochat paragraph was already hedged and the Mead marker is apex-only, so neither was touched. The apex and `topics/emotion-and-dualism` were not edited.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: `analyze_length` went from 3059 to 3179 (+120; topics soft 3000 / hard 4000, `>=` gate; 820 words of headroom remain). Split: body +65 at L77; References +55 (three entries).
+- **Changes**: (1) L77: "As Schachter and Singer's classic emotion experiments suggested … can be experienced as anger, excitement, or fear" becomes "Schachter and Singer's (1962) experiments suggested … could be experienced as euphoria or anger" (the 1962 manipulations were euphoria and anger; fear and excitement were never conditions). Added one sentence: Marshall and Zimbardo (1979) and Maslach (1979) failed to replicate it, finding unexplained arousal biased toward negative feeling whatever the context, and Reisenzein's (1983) review found "no convincing evidence" that emotions arise from labelling unexplained arousal, supporting at best an "attenuated" version in which arousal intensifies an emotion already under way. Barrett no longer "develops this further" but "inherits the idea but rests on its own evidence", matching the apex L69 wording (commit 54b40990) so the two pages agree. "The labelling is social; the arousal is not." is kept. (2) References: Marshall & Zimbardo 1979, Maslach 1979 and Reisenzein 1983 added alphabetically, copied verbatim from the apex's References #14, #15 and #19.
+- **Verification**: Reisenzein's OpenAlex abstract was re-read and both quoted phrases are verbatim there ("no convincing evidence … emotional states may result from a labeling of unexplained arousal"; "at best a rather attenuated version"). Maslach has no abstract in OpenAlex or Crossref, so the task's candidate phrase "found negative emotion in all of her groups" was NOT used; the neutral "failed to replicate" plus the title-verified "negative biasing" wording stands. The Schachter & Singer 1962 DOI resolves to the correct title in OpenAlex.
+- **Engagement modes**: n/a. Citation-fidelity pass; the caveat narrows the constructionist's evidence and the Map's one-way-dependence argument is unchanged.
+- **Fences held**: no retitle; only L77 and the References list were edited; Relation to Site Perspective intact; no "load-bearing"; no "This is not X. It is Y." construct; no HTML-comment log in the article.
+- **Sync**: Hugo synced; all new phrases and the three references confirmed present in `hugo/content/topics/social-construction-of-self-vs-phenomenal-self.md`.
+- **Published**: yes
 
 ## 07:24 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-07-06 15:12:44+00:00
+ai_modified: 2026-10-14 07:49:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 15:12:44+00:00
-lastmod: 2026-07-06 15:12:44+00:00
+lastmod: 2026-10-14 07:49:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ This evidence should be read for what it can and cannot show. The exile, the pri
 
 The two accounts genuinely overlap in the domain of self-understanding. How you comprehend your own experience, what categories you use to interpret your phenomenal states, which aspects of experience you attend to—all of this is shaped by social and linguistic context. Russian speakers, who have separate basic colour terms for light blue (*goluboy*) and dark blue (*siniy*), discriminate between these shades faster than English speakers—a demonstration that linguistic categories shape perceptual experience (Winawer et al. 2007). A culture that pathologises certain emotional states shapes how those states are experienced.
 
-This is the constructionist's strongest point: phenomenal experience is not raw but interpreted, and interpretation is social. As Schachter and Singer's classic emotion experiments suggested, the "same" physiological arousal—elevated heart rate, flushed face, focused attention—can be experienced as anger, excitement, or fear depending on social context and learned categories. Barrett's constructionist theory of emotion develops this further: emotion categories are not natural kinds but culturally learned concepts that shape how interoceptive signals are experienced (Barrett 2017). The labelling is social; the arousal is not.
+This is the constructionist's strongest point: phenomenal experience is not raw but interpreted, and interpretation is social. Schachter and Singer's (1962) experiments suggested that the "same" physiological arousal—elevated heart rate, flushed face, focused attention—could be experienced as euphoria or anger depending on social context and learned categories. The result has not held up well: Marshall and Zimbardo (1979) and Maslach (1979) failed to replicate it, finding unexplained arousal biased toward negative feeling whatever the context, and Reisenzein's (1983) review found "no convincing evidence" that emotions arise from labelling unexplained arousal, supporting at best an "attenuated" version in which arousal intensifies an emotion already under way. Barrett's constructionist theory of emotion inherits the idea but rests on its own evidence: emotion categories are not natural kinds but culturally learned concepts that shape how interoceptive signals are experienced (Barrett 2017). The labelling is social; the arousal is not.
 
 But the overlap may have a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It seems unable to generate the *structure*—that there is a subject having the experience. The Map's [analysis of consciousness and intersubjectivity](/topics/consciousness-and-intersubjectivity/) develops this further: consciousness is ontologically individual but phenomenologically enriched through intersubjective encounter. Intersubjective engagement activates dimensions of experience—self-other distinction, the moral horizon of another's vulnerability, the categories of being understood and misunderstood—that a solitary consciousness would lack. This enrichment is real and transformative, but it presupposes the phenomenal subject it transforms. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
 
@@ -145,8 +145,11 @@ This analysis connects to the Map's foundational commitments at multiple points.
 1. Butler, J. (1990). *Gender Trouble: Feminism and the Subversion of Identity*. Routledge.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Gergen, K.J. (2009). *Relational Being: Beyond Self and Community*. Oxford University Press.
+1. Marshall, G. D. & Zimbardo, P. G. (1979). Affective consequences of inadequately explained physiological arousal. *Journal of Personality and Social Psychology*, 37(6), 970–988. https://doi.org/10.1037/0022-3514.37.6.970
+1. Maslach, C. (1979). Negative emotional biasing of unexplained arousal. *Journal of Personality and Social Psychology*, 37(6), 953–969. https://doi.org/10.1037/0022-3514.37.6.953
 1. Mead, G.H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Reisenzein, R. (1983). The Schachter theory of emotion: Two decades later. *Psychological Bulletin*, 94(2), 239–264. https://doi.org/10.1037/0033-2909.94.2.239
 1. Rochat, P. (2003). "Five Levels of Self-Awareness as They Unfold Early in Life." *Consciousness and Cognition*, 12(4), 717-731.
 1. Schachter, S. & Singer, J.E. (1962). "Cognitive, Social, and Physiological Determinants of Emotional State." *Psychological Review*, 69(5), 379-399.
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
