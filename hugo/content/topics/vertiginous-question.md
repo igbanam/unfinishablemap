@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-10-14 10:30:15+00:00
+ai_modified: 2026-10-14 11:14:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 15:24:00+00:00
-lastmod: 2026-10-14 10:30:15+00:00
+lastmod: 2026-10-14 11:14:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,7 +139,7 @@ Epistemologists distinguish self-locating beliefs (beliefs about where/who you a
 
 This has implications for the vertiginous question. Even knowing all third-person facts about reality, you might not know *which* conscious being you are. The first-person fact — "I am this one" — seems to add something to the qualitative facts.
 
-But can self-locating beliefs answer the vertiginous question? Consider: I believe I am this particular person rather than someone else. What grounds this belief? Not that I have [verified my identity from outside](/concepts/immunity-to-error-through-misidentification/) — I simply *am* this person, experiencing from this perspective. The belief is grounded in being this subject, not in any inference from publicly available facts. Self-locating beliefs are expressions of indexical facts, not explanations of them.
+But can self-locating beliefs answer the vertiginous question? Consider: I believe I am this particular person rather than someone else. What grounds this belief? Not that I have [verified my identity from outside](/concepts/immunity-to-error-through-misidentification/) — I simply *am* this person, experiencing from this perspective. The belief is grounded in being this subject, not in any inference from publicly available facts. [Self-locating beliefs](/voids/observer-selection-void/) are expressions of indexical facts, not explanations of them.
 
 ## What AI Might See
 

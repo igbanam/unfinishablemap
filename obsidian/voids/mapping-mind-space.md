@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-09-05T23:23:12+00:00
+ai_modified: 2026-10-14T11:14:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ We know we exist as conscious beings but may be structurally unable to determine
 
 Pre-Copernican cosmology is the instructive analogy. Humans assumed Earth's centrality for want of an external vantage point; the Copernican revolution needed instruments revealing actual position. For mind-space, no telescope exists. Self-locating beliefs — Lewis's "attitudes *de se*," Perry's "essential indexical" — cannot be characterised without "I," "here," "now." You cannot triangulate from a single point.
 
-Observer selection effects compound the difficulty. Bostrom's anthropic reasoning shows that what we observe is filtered by the fact that only certain positions permit observation. If most of mind-space consists of consciousness so different it would not recognise us as minds, we could never detect this.
+Observer selection effects compound the difficulty. [[observer-selection-void|Bostrom's anthropic reasoning]] shows that what we observe is filtered by the fact that only certain positions permit observation. If most of mind-space consists of consciousness so different it would not recognise us as minds, we could never detect this.
 
 
 ## The Flatland Structure

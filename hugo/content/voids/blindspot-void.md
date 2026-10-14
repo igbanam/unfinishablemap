@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-09-29 14:22:29+00:00
+ai_modified: 2026-10-14 11:14:37+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of truths about oneself that are open to ever
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-29 14:22:29+00:00
+lastmod: 2026-10-14 11:14:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -114,6 +114,7 @@ For [Dualism](/tenets/#dualism), the Map's reading is that the phenomenal asymme
 - [decision-void](/voids/decision-void/) — the pre-decisional case
 - [dream-consciousness](/topics/dream-consciousness/) and [sleep-consciousness-void](/voids/sleep-consciousness-void/) — the dreaming and dreamless test cases
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — the family of proved limits
+- [observer-selection-void](/voids/observer-selection-void/) — whole theories, not propositions, that cannot be both true and justifiably believed
 - [what-voids-reveal](/voids/what-voids-reveal/) — what a void's shape tells us about the mind that has it
 
 ## References

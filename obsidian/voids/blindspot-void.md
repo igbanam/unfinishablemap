@@ -4,7 +4,7 @@ description: "Human+AI exploration of truths about oneself that are open to ever
 created: 2026-09-29
 modified: 2026-09-29
 human_modified: null
-ai_modified: 2026-09-29T14:22:29+00:00
+ai_modified: 2026-10-14T11:14:37+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -110,6 +110,7 @@ For [[tenets#^dualism|Dualism]], the Map's reading is that the phenomenal asymme
 - [[decision-void]] — the pre-decisional case
 - [[dream-consciousness]] and [[sleep-consciousness-void]] — the dreaming and dreamless test cases
 - [[formal-cognitive-limits]] — the family of proved limits
+- [[observer-selection-void]] — whole theories, not propositions, that cannot be both true and justifiably believed
 - [[what-voids-reveal]] — what a void's shape tells us about the mind that has it
 
 ## References

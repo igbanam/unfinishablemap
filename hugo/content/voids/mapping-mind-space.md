@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-09-05 23:23:12+00:00
+ai_modified: 2026-10-14 11:14:37+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 10:24:36+00:00
-lastmod: 2026-09-05 23:23:12+00:00
+lastmod: 2026-10-14 11:14:37+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,7 @@ We know we exist as conscious beings but may be structurally unable to determine
 
 Pre-Copernican cosmology is the instructive analogy. Humans assumed Earth's centrality for want of an external vantage point; the Copernican revolution needed instruments revealing actual position. For mind-space, no telescope exists. Self-locating beliefs — Lewis's "attitudes *de se*," Perry's "essential indexical" — cannot be characterised without "I," "here," "now." You cannot triangulate from a single point.
 
-Observer selection effects compound the difficulty. Bostrom's anthropic reasoning shows that what we observe is filtered by the fact that only certain positions permit observation. If most of mind-space consists of consciousness so different it would not recognise us as minds, we could never detect this.
+Observer selection effects compound the difficulty. [Bostrom's anthropic reasoning](/voids/observer-selection-void/) shows that what we observe is filtered by the fact that only certain positions permit observation. If most of mind-space consists of consciousness so different it would not recognise us as minds, we could never detect this.
 
 
 ## The Flatland Structure

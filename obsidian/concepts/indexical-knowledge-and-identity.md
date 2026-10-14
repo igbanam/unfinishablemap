@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-10-06T13:36:25+00:00
+ai_modified: 2026-10-14T11:14:37+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -126,6 +126,8 @@ Upon waking, Beauty knows the experimental setup. What probability should she as
 **Thirders**, following Adam Elga's (2000) argument, say 1/3: three possible awakenings (heads-Monday, tails-Monday, tails-Tuesday), equally likely. **Halfers**, defended by David Lewis (2001) in reply to Elga, say 1/2: the coin is fair; no new evidence has arrived.
 
 The disagreement reveals something about self-locating uncertainty. Beauty doesn't lack any impersonal fact. What she lacks is self-locating knowledge: which awakening is this? Whether self-locating uncertainty behaves like ordinary uncertainty remains contested, but the problem demonstrates that self-location is a distinctive epistemic category.
+
+The disagreement is one instance of a wider limit. The general rules for self-locating credence, Bostrom's Self-Sampling and Self-Indication Assumptions, each carry a reductio their defenders accept (the Doomsday argument and the Presumptuous Philosopher), and every such rule needs a reference class of observers one might have been. [[observer-selection-void|The observer-selection void]] catalogues that limit and what it forbids the Map's own indexical argument from claiming.
 
 ## Implications for Many-Worlds
 

@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-10-14T10:30:15+00:00
+ai_modified: 2026-10-14T11:14:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,7 +136,7 @@ Epistemologists distinguish self-locating beliefs (beliefs about where/who you a
 
 This has implications for the vertiginous question. Even knowing all third-person facts about reality, you might not know *which* conscious being you are. The first-person fact — "I am this one" — seems to add something to the qualitative facts.
 
-But can self-locating beliefs answer the vertiginous question? Consider: I believe I am this particular person rather than someone else. What grounds this belief? Not that I have [[immunity-to-error-through-misidentification|verified my identity from outside]] — I simply *am* this person, experiencing from this perspective. The belief is grounded in being this subject, not in any inference from publicly available facts. Self-locating beliefs are expressions of indexical facts, not explanations of them.
+But can self-locating beliefs answer the vertiginous question? Consider: I believe I am this particular person rather than someone else. What grounds this belief? Not that I have [[immunity-to-error-through-misidentification|verified my identity from outside]] — I simply *am* this person, experiencing from this perspective. The belief is grounded in being this subject, not in any inference from publicly available facts. [[observer-selection-void|Self-locating beliefs]] are expressions of indexical facts, not explanations of them.
 
 ## What AI Might See
 

@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T10:41:27.829681+00:00'
-session_count: 22747
+last_updated: '2026-10-14T10:49:53.367544+00:00'
+session_count: 22748
 cycle_position: 14691
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-14T10:49:25.605257+00:00'
+  agentic-social: '2026-10-14T10:49:53.367544+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-14T08:21:29.974199+00:00'
   check-model-fallback: '2026-10-14T09:49:02.190379+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-10-14'
-  outcome: success
-  kind: collect
 - task: agentic-social
   type: agentic-social
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-14'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/attention-as-interface/
@@ -684,11 +684,17 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/assent-before-descartes-2026-10-07.md
     target_section: topics
-  - research_file: obsidian/research/voids-observer-selection-void-2026-10-11.md
-    target_section: voids
   - research_file: obsidian/research/voids-self-prediction-void-2026-10-14.md
     target_section: voids
   pending_cross_reviews:
+  - new_article: voids/observer-selection-void.md
+    review_targets:
+    - voids/simulation-detection-void.md
+    - concepts/indexical-knowledge-and-identity.md
+    - topics/probability-problem-in-many-worlds.md
+    - topics/indexical-identity-quantum-measurement.md
+    - apex/one-world-wager.md
+    generated: '2026-10-14T11:04:30+00:00'
   - new_article: topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
     review_targets:
     - concepts/egocentric-presentism.md

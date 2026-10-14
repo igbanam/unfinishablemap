@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `voids/observer-selection-void` — the limit on what anthropic/typicality reasoning can say about which observer one is
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-observer-selection-void-2026-10-11.md
-- **Target section**: voids
-- **Section**: voids
-- **Status**: pending
-- **Source**: human-requested 2026-10-12 (caps raised +10; gap analysis of unconsumed research notes)
-- **Generated**: 2026-10-12
-- **Headroom**: caps topics 370 / concepts 370 / voids 125 (counts 2026-10-12: 344 / 350 / 112). Re-measure before writing.
-- **Notes**: Tenet 4. The note's self-assessment: this makes a DEMAND on the tenets (limits the Map's Tenet-4 indexical argument), not support for them — the article must say so. Read the note's pipeline note on the voids bank before writing. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
-
 ### P2: Write `concepts/charles-bonnet-syndrome` — complex hallucination in acquired sight loss as a test of release / generative-model readings
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/charles-bonnet-syndrome-generative-model-release-2026-09-16.md
@@ -2668,6 +2657,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-14: Write `voids/observer-selection-void` — the limit on what anthropic/typicality reasoning can say about which observer one is
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-observer-selection-void-2026-10-11.md
+- **Notes**: Tenet 4. The note's self-assessment: this makes a DEMAND on the tenets (limits the Map's Tenet-4 indexical argument), not support for them — the article must say so. Read the note's pipeline note on the voids bank before writing. Follow the note's recommended angle and its guards; quote only material the note marks verified (grep the raw source for anything else); apply the note's insert-ready integration passages where they are length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Re-measure the section with count_section_files before writing and stop at the cap. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### ✓ 2026-10-14: Write `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` — Merlo's egalitarianism problem and Hare's egocentric presentism
 - **Type**: expand-topic

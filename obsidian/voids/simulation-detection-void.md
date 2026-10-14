@@ -4,7 +4,7 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-09-07T09:34:09+00:00
+ai_modified: 2026-10-14T11:14:37+00:00
 draft: false
 last_deep_review: 2026-06-25T02:59:53+00:00
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-25
 last_curated:
 ---
@@ -40,6 +40,8 @@ An observer embedded in a simulation cannot determine whether their reality is s
 The structural core of this void is simple: verifying your substrate requires a vantage point outside it. An observer within a simulation accesses only what the simulation presents—appearances, never the underlying architecture. This parallels Kant's phenomena/noumena distinction: we perceive what the system allows, never the thing-in-itself producing those perceptions.
 
 Nick Bostrom's simulation argument (2003) established the framework. If a civilisation becomes capable of creating conscious simulations, it could generate so many simulated beings that a randomly chosen conscious entity would almost certainly be simulated. The argument is logically valid. The problem is epistemic: from inside, we cannot determine which horn of Bostrom's trilemma obtains.
+
+Two of its premises belong to a wider limit. Simulated minds enter the reference class only if substrate independence holds, and the near-unity credence follows only through Bostrom's bland indifference principle; both steps are charted at [[observer-selection-void|the observer-selection void]], which sits upstream of this one.
 
 This differs from ordinary ignorance. Ordinary ignorance yields to investigation—we didn't know what lay beyond the mountains, so we crossed them. The simulation detection void resists investigation structurally. Every observation occurs within the potentially simulated substrate. Every instrument is made of potentially simulated matter. Every thought arises in a potentially simulated mind. The evidence and the thing the evidence is supposed to test are the same system.
 
@@ -122,6 +124,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [[predictive-construction-void|The Predictive Construction Void]] — A related inside-observer problem: consciousness cannot distinguish what it constructs from what it receives
 - [[compound-failure-signatures]] — Using the shape of failure as data
 - [[apophatic-cartography]] — Knowing through negation
+- [[observer-selection-void]] — The upstream limit on what self-location is evidence of
 
 ## References
 
