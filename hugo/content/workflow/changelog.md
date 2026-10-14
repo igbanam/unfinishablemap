@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 06:00:07+00:00
+ai_modified: 2026-10-14 06:29:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 06:00:07+00:00
+lastmod: 2026-10-14 06:29:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:29 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-14
+- **Coverage**: 2/3 reviewers processed (sources: claude-fable-5-1, chatgpt-5-6-sol-pro). Both audited `apex/self-construction-constructor` (`fallback:recent-aged`; Claude reused ChatGPT's subject). Gemini is absent for the second day running: the 10-13 entry was abandoned, and today's 04:52Z commission failed before the research-plan stage with a soft refusal, so there is no pending entry. It is not counted as a third reviewer.
+- **Clusters**: 14 convergent, 0 rejected outright, 4 divergent. Every cluster was adjudicated against the live apex (unchanged since `6e640ad89e`) before clustering; two clusters carry a disputed half that was excluded. The dominant finding is that the argument holds as a Tenet-1 conditional while the title, opening, Synthesis and tenet sections assert it unconditionally.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): the §Threshold task, apex citation fidelity, and `social-construction-of-self-vs-phenomenal-self` L77 (Schachter–Singer at source). The two existing P1s (constructor calibration; rival engagement) were rewritten but not escalated to P0, because these are calibration edits to one apex and P0 would preempt the queue. A shared-budget note was added to all four apex tasks: 853 words of headroom against stated ceilings of about 820–970.
+- **Tasks deduplicated**: 0. ChatGPT minted one new task and carried its other points as riders on Claude's tasks; no content was deleted.
+- **NEEDS-HUMAN**: one new entry, which has no P tier and is invisible to the picker. (A) Retitle: both reviewers asked. (B) Status-propagation gate: Claude Part 5 item 1 matches ChatGPT item 21, and the apex has five verified instances. `git log -S` splits them into write-side cases (2: social zombie, transparency) and change-side cases (3: SMT, Rochat, theory of mind).
+- **Pointer check**: `parse_tasks` returns 139 active tasks before and after (delta 0). P1 went from 2 to 5, P2 from 36 to 33, and P3 stayed at 101. All five rewritten tasks keep a non-`None` review pointer under the plural field.
+- **Output**: [outer-review-synthesis-2026-10-14](/reviews/outer-review-synthesis-2026-10-14/)
 
 ## 06:00 - outer-review
 - **Status**: Success
