@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-12 14:16:32+00:00
+ai_modified: 2026-10-14 12:36:01+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-13 17:57:17+00:00
-lastmod: 2026-10-12 14:16:32+00:00
+lastmod: 2026-10-14 12:36:01+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -102,11 +102,11 @@ Q3 inhabitants — Berkeley's idealism, Kastrup's analytic idealism, Goff's prio
 
 **Causation account.** Q3 appears to dissolve the mental-causation question. If everything is mental at base, then mental–physical causation may not be a relation between two ontological kinds; it could be the intrinsic dynamics of the one kind, appearing as physical-on-physical causation when viewed extrinsically. The dualist's interaction problem evaporates on this reading; in its place sits what might be called the *[transparency problem](/concepts/lawful-appearance-problem/)* — explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Kastrup's claim that matter is the extrinsic appearance of mental processes is the canonical move (see [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for the Map's framing).
 
-**Interface specification.** Q3 has no interface in the dualist sense — only the extrinsic/intrinsic distinction. The "where does mind contact matter" question is replaced by "why does the intrinsic side appear as matter at all?" That is a different question with a different shape and a different burden of proof, but it is not lighter.
+**Interface specification.** Q3 has no interface in the dualist sense — only the extrinsic/intrinsic distinction. The "where does mind contact matter" question is replaced by "why does the intrinsic side appear as matter at all?" That is a different question with a different shape and a different burden of proof; the inventory records the substitution without ranking the two.
 
-**Conservation engagement.** Conservation laws become *descriptions of mental regularities*. Energy is conserved because the underlying mental dynamics happens to display a regularity that, when viewed extrinsically, looks like energy conservation. Why this regularity rather than another is a Q3-specific debt — a question Q1 and Q4 do not face in the same form. Q3 substitutes a metaphysical question (why does the mental ground produce this appearance?) for the dualist's physical-engagement question (how does the mental affect the physical?).
+**Conservation engagement.** Conservation laws become *descriptions of mental regularities*. Energy is conserved because the underlying mental dynamics happens to display a regularity that, when viewed extrinsically, looks like energy conservation. Why there is regularity at all, and why this regularity rather than another, is a debt every cell owes: each view takes some laws as basic, and the dualist cells add psychophysical laws to the physical ones ([lawfulness is a shared item](/concepts/lawful-appearance-problem/#lawfulness), as the Map's [idealism](/concepts/idealism/) article already concedes). What Q3 owes on its own account is narrower: why a mind's dynamics would be as austere as physics records, and, for anti-realist versions, what grounds the order among possible experiences. Q3 substitutes a metaphysical question (why does the mental ground produce this appearance?) for the dualist's physical-engagement question (how does the mental affect the physical?).
 
-A genuine Q3 dualism — mind thick, physics thin, but both ontologically real — appears rare in the literature precisely because, once the mind does this much work, the physical side tends to lose explanatory weight and the position seems to slide toward Q3-monism. [The Q3–Q4 sliding boundary and the transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) gives this observation its standalone treatment: the historical record of who slid where, the structural forces driving the slide, and the conditions (a selection-only channel doing real physical work, plus bidirectional symmetry) that would hold a thick-mind position stably at Q3-as-dualism rather than letting it shed the physical pole. Where the position holds as dualism, the mechanism cost may be asymmetric: minimal interface debt, substantial appearance debt.
+A genuine Q3 dualism — mind thick, physics thin, but both ontologically real — appears rare in the literature precisely because, once the mind does this much work, the physical side tends to lose explanatory weight and the position seems to slide toward Q3-monism. [The Q3–Q4 sliding boundary and the transparency problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) gives this observation its standalone treatment: the historical record of who slid where, the structural forces driving the slide, and the conditions (a selection-only channel doing real physical work, plus bidirectional symmetry) that would hold a thick-mind position stably at Q3-as-dualism rather than letting it shed the physical pole. Where the position holds as dualism, the debt differs in kind rather than amount: an appearance item (why the mental presents as austere, lawful physics) replaces the interface item (where mind touches matter), and the inventory has no scale on which to call either heavier.
 
 ## Q4: Max-Mind / Max-Physical — The Full Bill {#q4}
 

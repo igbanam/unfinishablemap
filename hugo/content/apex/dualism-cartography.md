@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-12 11:05:29+00:00
+ai_modified: 2026-10-14 12:36:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-10-12 11:05:29+00:00
+lastmod: 2026-10-14 12:36:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ The two cannot be fused into a single architecture: at a physically undetermined
 
 **Q2 owes the exclusion debt.** Under the strict reading—phenomenal properties supervene on a physically complete base—the mind owes no causation account because it does no causal work, and has no interface because supervenience replaces interaction: the cell pays nothing on mechanism precisely because the mind has been deflated to the point of doing nothing. Outside the Map's tenets, Kim's exclusion argument presses the cost from within physicalism: if the physical base is sufficient, mental properties either overdetermine effects or do nothing. Any Q2 reading that wants to keep mental causation drifts toward Q1 (by adding indeterminacy) or Q4 (by enriching the mind). The Map's [Bidirectional Interaction](/concepts/bidirectional-interaction/) tenet rules pure Q2 out directly; a reader who does not share the tenet is free to read Q2's escape from the mechanism question as a virtue rather than an evasion.
 
-**Q3 owes the appearance debt.** If everything is mental at base, mind–physical causation becomes the intrinsic dynamics of a single kind, appearing from outside as physical-on-physical causation. The interaction problem evaporates—and is replaced by the *transparency problem*: explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Conservation laws become descriptions of mental regularities, and "why this regularity rather than another" is a Q3-specific debt the other cells do not face in that form. A genuine Q3 *dualism* (mind thick, physics thin, both real) is rare, because once the mind does this much work the physical pole tends to lose explanatory weight and the position slides toward idealism.
+**Q3 owes the appearance debt.** If everything is mental at base, mind–physical causation becomes the intrinsic dynamics of a single kind, appearing from outside as physical-on-physical causation. The interaction problem evaporates—and is replaced by the *[transparency problem](/concepts/lawful-appearance-problem/)*: explaining why the intrinsic mental reality looks, from the outside, exactly like impersonal lawful physical structure. Conservation laws become descriptions of mental regularities; lawfulness is owed by every cell, and what Q3 alone owes is why a mind's dynamics would be this austere. A genuine Q3 *dualism* (mind thick, physics thin, both real) is rare, because once the mind does this much work the physical pole tends to lose explanatory weight and the position slides toward idealism.
 
 **Q4 is charged on all three questions.** With both sides thick, the mind does robust causal work in an ontologically rich physical world, so none of the three is answered by deflation. Cartesian energy-transfer is the classical cost; Stapp's quantum-Zeno account is the contemporary attempt to keep the channel narrow while letting both endpoints stay thick. Specifying non-arbitrarily where two rich realms touch is Q4's signature burden—Princess Elisabeth's challenge to Descartes in its sharpest form. On conservation, Q4 pays either by accepting that conservation is *local and symmetry-conditional* (so interactionist intervention breaks a symmetry at the interface) or by routing influence through a probabilistic channel that is structurally Q1-like even inside a Q4 ontology.
 

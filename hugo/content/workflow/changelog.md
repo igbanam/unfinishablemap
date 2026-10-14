@@ -1,15 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 11:34:29+00:00
+ai_modified: 2026-10-14 12:36:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 11:34:29+00:00
+lastmod: 2026-10-14 12:36:01+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 12:36 - refine-draft
+- **Status**: Success
+- **Task**: P2 "'Why this regularity rather than another' is called 'a Q3-specific debt' at `apex/dualism-cartography` L99 and `topics/mechanism-costs-dualism-thickness-quadrants` L103" (todo line 2285). Two files, both done.
+- **File**: [dualism-cartography](/apex/dualism-cartography/) — L99: rescoped the Q3-specific claim from lawfulness to austerity. "Conservation laws become descriptions of mental regularities, and 'why this regularity rather than another' is a Q3-specific debt the other cells do not face in that form" → "...mental regularities; lawfulness is owed by every cell, and what Q3 alone owes is why a mind's dynamics would be this austere" (the research note's suggested swap; Chalmers 2019's austerity problem per `concepts/lawful-appearance-problem` §Austerity). Piped `[[lawful-appearance-problem|transparency problem]]` onto the existing italic phrase in the same paragraph at zero word cost (the apex had no link to that concept before). `analyze_length` 5182 → 5182 (net zero; still over the 5000 apex hard limit, as briefed).
+- **File**: [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — L103: same rescope, with headroom used to state the parity: lawfulness "is a debt every cell owes: each view takes some laws as basic, and the dualist cells add psychophysical laws to the physical ones", linked to `[[lawful-appearance-problem#lawfulness|...]]` and `[[idealism]]` (which concedes the parity result at its L119) instead of adding Yetter-Chappell 2025 / Chalmers 2019 to this file's reference list, where neither is present. What Q3 owes on its own account is now "why a mind's dynamics would be as austere as physics records, and, for anti-realist versions, what grounds the order among possible experiences" (austerity + explanatory objection, the two parts the concept article treats as Q3-specific). L105: "minimal interface debt, substantial appearance debt" → a difference in kind: "an appearance item (why the mental presents as austere, lawful physics) replaces the interface item (where mind touches matter), and the inventory has no scale on which to call either heavier". ALSO L101 (beyond the two named lines, same defect class): "but it is not lighter" was the exact weight verdict the apex withdrew at its L87; replaced with "the inventory records the substitution without ranking the two". The L84/L99 piped links from 2026-10-12 14:17Z untouched. `analyze_length` 3347 → 3435 (565 left under the 4000 hard limit).
+- **Verified**: `grep -F "Q3-specific"` now 0 hits in obsidian/ live content (reviews/, workflow/, research/ excluded). No new citations added; no "This is not X. It is Y."; no "load-bearing".
+- **Published**: yes
 ## 12:10 - refine-draft
 - **Status**: Success
 - **Task**: P2 "Tegmark decoherence-figure sweep, batch 2 of 3 (class B, live pages)" — bare "~10⁻¹³ s" attributed to neural tissue / neural superpositions / ion superpositions generally. Source split (Tegmark 2000, PRE 61:4194, quant-ph/9907009): eqs. (10)/(13) ∼10⁻²⁰ s for superposed neuron firing (ion positions); eq. (22) ∼10⁻¹³ s for microtubule kink superpositions. Model wording: `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface` L71. Archive/ untouched (batch 3 is a separate P3).
