@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 15:36:18+00:00
+ai_modified: 2026-10-14 19:04:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-14'
-lastmod: 2026-10-14 15:36:18+00:00
+lastmod: 2026-10-14 19:04:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-14T19:04:40+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-I4](/positions/individuation-and-subjecthood/#p-i4) (todo L2385, P2) — fusion verdict scoped to complete union; no calibration band moved
+- **Output**: [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) ([P-I4](/positions/individuation-and-subjecthood/#p-i4) Calibration, Asserts, Depends on, Argued in, Would shift if, Last reviewed); new sidecar [individuation-and-subjecthood-calibration-history](/positions/individuation-and-subjecthood-calibration-history/) carrying the dated 2026-10-14 note (this domain's first; existing in-entry Updated notes left in place); [positions](/positions/) companion-files line extended so the sidecar has an inbound link
+- **Edits**: (1) "two channels merging" → "Complete fusion — two substrates fully united — runs the mirror"; (2) partial coupling leaves the count at two by parity with [P-CS4](/positions/consciousness-scope/#p-cs4), a preferred reading [P-I3](/positions/individuation-and-subjecthood/#p-i3) makes unreadable; (3) fusion conditional stated like fission's: transitivity rules out both originals surviving, the step to none charged to [P-SC2](/positions/subject-census/#p-sc2); (4) third shift condition mirrored for fusion (pairing extends to the united substrate → at-most-one); (5) `[[concepts/subject-fusion]]` added to Argued in; (6) rider from [census-change-points](/concepts/census-change-points/): the fission verdicts agree on the count (one to two), differ only in events, and the difference reaches the law only if subjects carry something individual across time, Parfit granting the count; `[[concepts/census-change-points]]` added to Argued in
+- **Length**: register 3997 → 3997 words by `analyze_length` (critical 4000, gate `>=`); [P-I4](/positions/individuation-and-subjecthood/#p-i4) entry 670 → 670. Funded by trimming inside the entry: grade-D rationale restatement (−7), duplicated pairing-law clause and "booked rather than hidden" gloss, [P-I3](/positions/individuation-and-subjecthood/#p-i3) dependency gloss (−16), asymmetry shift condition's redundant second half (−7)
+- **Cascade**: none — no band moved, no dependency added or dropped; [P-AC3](/positions/ai-consciousness-scope/#p-ac3) (descends from [P-I4](/positions/individuation-and-subjecthood/#p-i4)) unaffected. [P-I5](/positions/individuation-and-subjecthood/#p-i5) untouched (separate P3 audit)
+- **Housekeeping**: register `ai_system` collapsed to unique components `claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1`. Todo task not marked; no commit (driver does both)
 
 ## 2026-10-14T18:52:07+00:00 - research-topic
 - **Status**: Success
