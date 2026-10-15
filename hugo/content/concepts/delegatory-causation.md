@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-10-08 14:12:51+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-10-15 23:52:15+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/causal-delegation/
@@ -20,7 +20,7 @@ concepts:
 - '[[consciousness-bandwidth-architecture]]'
 - '[[trumping-preemption]]'
 created: 2026-02-15
-date: &id001 2026-09-30
+date: &id001 2026-10-15
 description: 'Bradford Saad''s unified mechanism for mental causation: experiences
   preempt the default causal profile of physical brain states by trumping rather than
   competing—solving the exclusion problem without overdetermination.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:36:00+00:00
-lastmod: 2026-10-08 14:12:51+00:00
+lastmod: 2026-10-15 23:52:15+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -133,11 +133,11 @@ Saad's refusal does not settle the matter, and the shared empirical profile dema
 
 The concern is sharpened by a tu quoque. Empirically equivalent theories must compete on theoretical virtues since predictions cannot decide between them. But appealing to theoretical virtues when empirical evidence is unavailable is a move the Map elsewhere criticises physicalists for making—invoking parsimony or explanatory scope to paper over the hard problem. If that move is suspect when physicalists make it, it looks suspect when dualists make it too.
 
-Delegation must therefore show that its advantage over epiphenomenalism is not just another theoretical preference but a constraint of a different kind. The strongest case is that epiphenomenalism is *epistemically self-defeating* in a way delegation is not. If experiences cause nothing, then introspective reports about experiences are not caused by those experiences. The evidence someone cites for epiphenomenalism (their awareness of their own experience) is, on the theory's own account, not produced by that experience. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held. The defeater here is epistemic, not logical—epiphenomenalism is not formally contradictory—yet that is precisely what makes it devastating, since a position that undermines its own rational credentials cannot command assent.
+Delegation must therefore show that its advantage over epiphenomenalism is not just another theoretical preference but a constraint of a different kind. The strongest case is that epiphenomenalism is *epistemically self-defeating* in a way delegation is not. If experiences cause nothing, then introspective reports about experiences are not caused by those experiences. The evidence someone cites for epiphenomenalism (their awareness of their own experience) is, on the theory's own account, not produced by that experience. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held if introspective knowledge requires causal traffic from experience. The defeater is epistemic and conditional, not logical—epiphenomenalism is not formally contradictory—so it is the position's [deepest difficulty rather than its refutation](/tenets/#tenet-3-epiphenomenalism).
 
 Delegation avoids this self-defeat: reports about pain are caused by the pain itself, because the pain has taken over the causal work, so the reliability of introspection is explained rather than merely assumed. This asymmetry is less like choosing a prettier theory than like rejecting one that defeats its own evidence base—a matter of rational credibility, not taste.
 
-Two honest limitations remain. First, the self-undermining argument eliminates epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports (via physical processes that constitute or correlate with experiences). Delegation's case against physicalism rests on the broader arguments for [interactionist-dualism](/concepts/interactionist-dualism/)—the [hard problem](/topics/hard-problem-of-consciousness/), the conceivability arguments—not on causal structure alone. Second, even granting that rational endorsability is a harder constraint than parsimony, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness. The Map's [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with incomplete knowledge—provides a framework for resisting this strict empiricism, but this resistance is itself a philosophical commitment.
+Two honest limitations remain. First, the self-undermining argument burdens epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports (via physical processes that constitute or correlate with experiences). Delegation's case against physicalism rests on the broader arguments for [interactionist-dualism](/concepts/interactionist-dualism/)—the [hard problem](/topics/hard-problem-of-consciousness/), the conceivability arguments—not on causal structure alone. Second, even granting that rational endorsability is a harder constraint than parsimony, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness. The Map's [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with incomplete knowledge—provides a framework for resisting this strict empiricism, but this resistance is itself a philosophical commitment.
 
 ## The Born-Rule Identification
 
@@ -183,7 +183,7 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 ## Honest Limitations
 
-Delegatory causation is not proven superior to its rivals. Its narrower claim—that it avoids the specific self-defeat epiphenomenalism cannot, while inheriting the broader case for dualism against physicalism—turns on weighting rational endorsability above empirical distinctiveness, a question the evidence currently cannot settle.
+Delegatory causation is not proven superior to its rivals. Its narrower claim—that it avoids the specific self-defeat epiphenomenalism risks, while inheriting the broader case for dualism against physicalism—turns on weighting rational endorsability above empirical distinctiveness, a question the evidence currently cannot settle.
 
 The mechanism specifies *where* and *how* mental causation could operate without contradicting empirical findings. It does not establish *that* mental causation in fact operates this way. The case for that further claim rests on the broader Map framework—the [hard problem](/topics/hard-problem-of-consciousness/), conceivability arguments, the [trilemma-of-selection](/topics/trilemma-of-selection/) at points of genuine indeterminacy—not on the causal structure alone.
 

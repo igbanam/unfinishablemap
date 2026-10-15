@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-09-08 16:50:16+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-15 23:52:15+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[causal-closure]]'
@@ -15,7 +15,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[mysterianism]]'
 created: 2026-03-13
-date: &id001 2026-03-13
+date: &id001 2026-10-15
 description: Observational closure distinguishes empirical from metaphysical causal
   completeness. Physics appears complete in laboratories—but this doesn't prove no
   mental causes exist.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 04:20:24+00:00
-lastmod: 2026-09-08 16:50:16+00:00
+lastmod: 2026-10-15 23:52:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The general claim that *some* mental causation exists somewhere is indeed unfals
 
 That answers the metaphysical charge but not the epistemic one, and the Map's considered position concedes more than the metaphysical answer suggests. Saad grants the shared empirical profile in his own voice. Conceding that delegatory dualism yields no testable predictions differing from subset dualism's, he places it "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism — while denying that this sinks it, since "the predictive equivalence of these theories is not a basis for sinking the boat or casting any of its passengers overboard." The concession is still enough for the objection to get a grip. If no experiment can distinguish a world with delegation from one without it, a critic can reasonably ask whether delegation is explanatorily idle in the same way epiphenomenalism is — positing invisible causal handoffs that make no observable difference. A tu quoque sharpens it. Empirically equivalent theories must compete on theoretical virtues, since predictions cannot decide between them; but appealing to theoretical virtues when empirical evidence is unavailable is a move the Map elsewhere criticises physicalists for making. If it is suspect when physicalists make it, it looks suspect when dualists make it too.
 
-What separates the two positions is a defect in one of them rather than a preference between them. Epiphenomenalism is epistemically self-defeating in a way delegation is not: if experiences cause nothing, introspective reports about experiences are not caused by those experiences, so the evidence someone cites for the theory is, on the theory's own account, not produced by what the evidence is about. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held. The defeater here is epistemic, not logical — epiphenomenalism is not formally contradictory. Delegation escapes the self-defeat because reports about pain are caused by the pain itself, the pain having taken over the causal work.
+What separates the two positions is a difficulty peculiar to one of them rather than a preference between them. Epiphenomenalism is epistemically self-defeating in a way delegation is not: if experiences cause nothing, introspective reports about experiences are not caused by those experiences, so the evidence someone cites for the theory is, on the theory's own account, not produced by what the evidence is about. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held, provided introspective knowledge requires causal traffic from experience — [the conditional the Map accepts](/tenets/#tenet-3-epiphenomenalism). The defeater here is epistemic and conditional, not logical — epiphenomenalism is not formally contradictory — so it counts as evidence against the position: its deepest difficulty rather than its refutation. Delegation escapes the self-defeat because reports about pain are caused by the pain itself, the pain having taken over the causal work.
 
 Two honest limitations remain. First, the self-undermining argument tells against epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports, via physical processes that constitute or correlate with experiences; delegation's case against physicalism rests on the broader arguments for [interactionist-dualism](/concepts/interactionist-dualism/) — the [hard problem](/topics/hard-problem-of-consciousness/), the conceivability arguments — rather than on causal structure alone. Second, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness, and resisting that empiricism is itself a philosophical commitment rather than a finding.
 
@@ -122,7 +122,7 @@ The distinction also bears on testability. Observational closure sets a floor, n
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The corridor-vs-bending taxonomy deciding which quantum mechanisms preserve the Born rule and which deform it
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory developing observational closure as a design constraint
 - [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — The sharpest residual worry about efficacy that is invisible in aggregate
-- [self-stultification](/concepts/self-stultification/) — Why epiphenomenalism cannot be rationally held even if it could be true
+- [self-stultification](/concepts/self-stultification/) — Why epiphenomenalism cannot be rationally held if introspective knowledge requires causal traffic from experience
 - [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/) — How much of the delegation theory rests on the default causal profile as a postulate
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem observational closure helps resolve
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno framework satisfying observational closure via statistical invisibility

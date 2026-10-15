@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-10-14 16:52:33+00:00
+ai_modified: 2026-10-15 23:52:15+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-10-02 16:44:22+00:00
 apex_sources:
@@ -38,7 +38,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-03-16
-date: &id001 2026-03-23
+date: &id001 2026-10-15
 description: From psychedelics to terminal lucidity, six altered states dissociate
   consciousness into separable components—one pattern that constrains the structure
   of consciousness-brain coupling without deciding between filter and production readings.
@@ -51,7 +51,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:52:48+00:00
-lastmod: 2026-10-14 16:52:33+00:00
+lastmod: 2026-10-15 23:52:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ That reading faces a meditation-specific rival, the contemplative sibling of REB
 
 Montupil and colleagues (2023) distinguish three states under nominally "stable" anaesthesia: unconsciousness, disconnected consciousness (content without environmental coupling or accessible memory), and connected consciousness (intraoperative awareness, in paralysed patients sometimes including pain). What first-person report registers as "the gap" is a compound signature whose interior is heterogeneous and partly hidden from the subject; the [anaesthesia void](/voids/anesthesia-void/) develops that epistemology.
 
-These dissociations reveal at least four separable components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Specific molecular targets have replaced the Meyer-Overton single-mechanism picture, consistent with a structured interface and equally with a modular production account: receptor specificity shows that the substrate is structured, which every physicalist already asserts, not what the structure connects to. The ketamine case carries epistemological weight of its own: patients who later report vivid experiences show memory encoding surviving the severance of behavioural output, and if the experience were epiphenomenal during that state the reliability of those reports would be self-defeating—the Map's [self-stultification argument](/topics/self-stultification-as-master-argument/).
+These dissociations reveal at least four separable components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Specific molecular targets have replaced the Meyer-Overton single-mechanism picture, consistent with a structured interface and equally with a modular production account: receptor specificity shows that the substrate is structured, which every physicalist already asserts, not what the structure connects to. The ketamine case carries epistemological weight of its own: patients who later report vivid experiences show memory encoding surviving the severance of behavioural output, and if the experience were epiphenomenal during that state, relying on those reports would be self-defeating—provided knowing an experience requires causal traffic from it. Being conditional, the Map's [self-stultification argument](/topics/self-stultification-as-master-argument/) counts as evidence against epiphenomenalism—the position's [deepest difficulty, though not its refutation](/tenets/#tenet-3-epiphenomenalism).
 
 Three further phenomena bear on the interface, each with its interpretation held apart from its finding. First, stochastic emergence: genetically identical mice under identical conditions show emergence times spanning two orders of magnitude, deterministic pharmacokinetic models fail, and a stochastic neuronal-dynamics model fits (Stone et al., 2025). Nothing in that data separates classical noise from genuine indeterminacy at the interface; the Map's quantum-selection gloss is its live hypothesis, not the study's finding. Second, the **active reboot**: recovery is not induction in reverse (Mashour, 2024). Hu et al. (2023) found, in mice, that emergence routes through ubiquitin-driven degradation of the KCC2 cotransporter in the ventral posteromedial thalamus across all four agents tested—propofol, pentobarbital, isoflurane, and ketamine, two receptor classes on the authors' partition and three on the Map's—so the reopening pathway is shared even where the closing pathways differ. "Active reboot" is the Map's label for that class, and the pathway is physical causation throughout, measuring no mental-to-physical traffic. Executive function also returns before simpler sensorimotor tasks (Mashour et al., 2021). The asymmetry is robust across species. It is compatible with the brain re-establishing an interface, but production accounts accommodate it equally: any complex dynamical system needs an active return path to a high-complexity attractor. Third, neural inertia: the concentration required to induce unconsciousness exceeds that at which consciousness returns, a conserved hysteresis (Sepúlveda et al., 2019) sustained by mutually inhibitory anaesthesia-active and wake-active populations. Those populations are the physical account; the interface reading adds that the unconscious state is an actively maintained configuration with its own resistance to reconfiguration—fit, again, rather than force.
 
