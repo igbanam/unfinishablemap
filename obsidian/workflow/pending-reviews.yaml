@@ -185,3 +185,30 @@
   subject_articles:
   - apex/self-construction-constructor.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-14-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ad03521-66dc-83ed-beac-7ce54009bde8
+  commissioned_at: '2026-10-15T02:07:11.156797+00:00'
+  prompt_summary: Audit positions/ai-consciousness-scope (post-2026-10-08 claims)
+  target_filename: outer-review-2026-10-15-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site: the positions-register entry at https://unfinishablemap.org/positions/ai-consciousness-scope/
+    . It was last substantively modified on 2026-10-08. Assess whether its post-modification
+    claims hold up: is the stated confidence justified by the evidence cited, and
+    are the citations accurate and current? Which serious counterarguments (from functionalism,
+    illusionism, integrated information theory, global workspace theory, and the empirical
+    AI-consciousness literature such as Butlin et al. 2023) are missed, understated,
+    or handled with tenet-protective bracketing? Is the position well integrated with
+    the surrounding topics, concepts, and voids articles it depends on, and is it
+    consistent with the site''s five tenets? Consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent activity, since search indexes may lag the site. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit ai-consciousness-scope
+  subject_articles:
+  - positions/ai-consciousness-scope.md
+  subject_source: fallback:recent-aged
