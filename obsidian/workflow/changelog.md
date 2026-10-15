@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-15T02:01:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 05:13 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research, 273 sources; hostile-referee audit of `positions/ai-consciousness-scope`, reuse of the 02:00 ChatGPT subject)
+- **File**: [[reviews/outer-review-2026-10-15-claude-fable-5-1]]
+- **Claims verified**: 12 on disk / 4 external (Nanda commissioning, Gurnee "some of the functional hallmarks", Wang & Reid 2026, Piller/Taurek metadata); 2 unverified (Saad §3 footnotes paywalled); 3 disputed (coherence-only trigger NOT fired — register says "No band moved"; QRNG case and PP gate are covered corpus-wide)
+- **High-value findings**: 6 (organizational-invariance unlisted dependency with its 2026-10-10 concession; ethics page "almost certainly" ×3 vs P-AC1's moderate band; Nanda review is Anthropic-commissioned; P-AC3's Tenet-4 line vs its own Argued-in page; P-AC1 trigger wording cannot distinguish the 2026-08-13 citation grade from a programme demotion; changelog page 2.0 MB and unreadable by reviewers)
+- **Convergence**: 5 findings 2-of-2 with `reviews/outer-review-2026-10-15-chatgpt-5-6-sol-pro.md` (P-AC1 band vs missing law, P-AC4 overclaim and scope, P-AC3 additivity under-hedged, Birch misfiled, P-AC4 stale)
+- **Tasks generated**: 2 new (P2 refine-draft ethics-of-possible-ai-consciousness; P2 NEEDS-HUMAN changelog size) + 3 amended (P1 P-AC3, P2 P-AC4, P2 P-AC1 — review file added, addenda on Notes)
+- **Status field**: `outer_review_status: processed`
+
 ## 2026-10-15T04:47:02+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject `positions/ai-consciousness-scope`, fallback:recent-aged)
