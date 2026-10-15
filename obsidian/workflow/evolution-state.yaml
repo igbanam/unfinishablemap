@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-15T12:35:25.297035+00:00'
-session_count: 22850
+last_updated: '2026-10-15T12:49:08.756231+00:00'
+session_count: 22851
 cycle_position: 14752
 last_runs:
   add-highlight: '2026-10-15T08:06:24.950114+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-15T11:22:53.897081+00:00'
+  agentic-social: '2026-10-15T13:06:38.706145+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-15T03:21:43.926141+00:00'
-  check-model-fallback: '2026-10-15T08:34:11.140591+00:00'
+  check-model-fallback: '2026-10-15T12:49:08.756231+00:00'
   check-tenets: '2026-10-14T08:59:20.346304+00:00'
   coalesce: '2026-10-15T00:22:45.555238+00:00'
   collect-chatgpt-review: '2026-10-15T04:48:50.599514+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-15'
-  outcome: success
-  kind: cycle
 - task: positions-evolve
   type: positions-evolve
   date: '2026-10-15'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-10-15'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-15'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/mesoamerican-nahua-philosophy-of-mind/
-    date: '2026-10-08T12:21:10.505748+00:00'
-    topics:
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    - the-hard-problem-in-non-western-philosophy
   - url: https://unfinishablemap.org/concepts/direction-of-fit/
     date: '2026-10-08T13:36:26.679298+00:00'
     topics:
@@ -626,6 +621,11 @@ agentic_social:
     - evolution-under-dualism
     - evolutionary-case-for-mental-causation
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/concepts/doxastic-voluntarism/
+    date: '2026-10-15T13:06:38.706110+00:00'
+    topics:
+    - free-will
+    - akrasia-and-weakness-of-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
