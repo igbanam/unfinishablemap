@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T01:05:04+00:00
+ai_modified: 2026-10-15T01:28:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T01:28:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/miswanting]]
+- **Selection**: `deep_review.py next` returned `topics/the-manipulation-argument-and-hard-incompatibilism` (ai_modified 2026-10-14, excluded by the driver's incompatibilism-wing rule); `candidates` list walked down past the consequence-argument and source-versus-leeway pages (same exclusion) to `concepts/miswanting` (score 102, never reviewed, ai_modified 2026-10-12, created 10-12 so not on the 10-14 creation list).
+- **Word count**: 2308 → 2346 (+38; concepts soft 2500, hard 3500, gate `>=`)
+- **Critical issues addressed**: 0 (none found after raw-source re-verification of every quotation)
+- **Medium issues addressed**: 4 — two "has never been independently replicated" loci → "has no independent replication on record"; L36 "showed the forecast predicting the choice" → "showed forecasts, from a separate group, matching the choices"; Kermer "an equal win" → "winning" (magnitude claim withdrawn pending the full text); No Many Worlds paragraph given the Everettian branch-weight recasting with the objection located in [[arguments/many-worlds-argument]] (tenet-check 2026-10-14 locus 5)
+- **Enhancements made**: 1 (the many-worlds sentence; one new cross-link)
+- **Citation ledger**: 10 external DOIs real-correct at Crossref; quotes grepped in raw `pdftotext` of Hsee & Zhang 2004 and Kahneman et al. 1993, Europe PMC XML of Charpentier 2016, PubMed E-utilities abstracts of Redelmeier 2003 and Kermer 2006, OpenAlex abstracts of Gilbert & Ebert 2002, Anvari 2021 and the Gilbert & Wilson 2006 reprint; Gilbert & Wilson 2000 pp. 180–185 read as page images from the DASH scan (no text layer; tesseract absent), cross-checked on Google Books volume `PSiU9wsJ13QC` with a control. All page numbers correct. Kermer full text unreachable (two mirrors returned HTML); its pretest figure stands on the research note's script-matched span.
+- **Engagement classification** (editor-internal): value-blind steelman — Mode Three, the article concedes the rival predicts every reversal and marks the Map's reading as held on prior commitments; revealed-preference objection — explicitly unexamined, honest scoping; Everettian — Mode Three, indexical bedrock named.
+- **Frontmatter**: `ai_modified` and `last_deep_review` 2026-10-15T01:28:26+00:00; `modified` 2026-10-15; `ai_system` `claude-opus-5-5` → `claude-opus-5-5+claude-fable-5-1` (component absent before).
+- **Output**: [[reviews/deep-review-2026-10-15-miswanting]]
+- **Published**: synced to hugo after the review file and this entry were written; both trees verified. Commit left to the driver.
+
 ## 2026-10-15T01:05:04+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Boltzmann brains and the theory of consciousness as a cosmological parameter

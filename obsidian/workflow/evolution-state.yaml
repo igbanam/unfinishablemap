@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-15T01:06:07.074757+00:00'
-session_count: 22804
+last_updated: '2026-10-15T01:10:14.160060+00:00'
+session_count: 22805
 cycle_position: 14731
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-15T01:09:35.353345+00:00'
+  agentic-social: '2026-10-15T01:10:14.160060+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-14T08:21:29.974199+00:00'
   check-model-fallback: '2026-10-14T22:49:01.519035+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-14'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-15'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-15'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/

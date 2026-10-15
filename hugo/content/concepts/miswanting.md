@@ -1,22 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-12 21:45:41+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-15 01:28:26+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[affective-forecasting-gap]]'
 - '[[negative-valence-asymmetry-and-the-selection-weighting-function]]'
 - '[[valence]]'
 created: 2026-10-12
-date: &id001 2026-10-12
+date: &id001 2026-10-15
 description: 'Gilbert and Wilson''s miswanting on the Map''s utility rows: forecast-driven
   mischoice rests on one unreplicated study, and no design measured felt anticipation
   at choice.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-12 21:45:41+00:00
+last_deep_review: 2026-10-15 01:28:26+00:00
+lastmod: 2026-10-15 01:28:26+00:00
 modified: *id001
 related_articles:
 - '[[preference-void]]'
@@ -31,13 +32,13 @@ topics:
 
 **Miswanting** is Daniel Gilbert and Timothy Wilson's (2000) name for wanting what one will not, in the event, like. Their terms run against the vocabulary the Unfinishable Map uses elsewhere. For them "wanting is, simply enough, a prediction of liking", which puts their wanting on the *predicted utility* row of the Map's [shared terminology map](/topics/wanting-liking-and-the-value-in-mechanism-fork/#shared-terminology), the reverse of Berridge's incentive-salience "wanting", which can decouple from predictions of outcome value altogether. Their "liking" is consciously felt experienced utility, not Berridge's objective "liking" reaction. In the Map's vocabulary, then, miswanting is predicted utility ranking the options differently from the experienced utility they go on to deliver. The question this article asks is when that misranking has been shown to change the option chosen, and not only the prediction.
 
-The answer is rarely, and mostly not through forecasting. The strongest demonstrated reversals run through *memory* of past experience. The only reversal shown to be carried by a forecast, Hsee and Zhang's (2004) Study 3, has never been independently replicated, and immune neglect has been shown only across samples, one group choosing and another experiencing. No study found for this article measured the felt anticipation present at choice, the input the Map's position [P-VS1](/positions/value-in-selection/#p-vs1) names as its candidate selection currency, and every route documented would mislead a value-blind selector equally. The evidence makes miswanting's cost concrete without discriminating between the Map's value-sensitive reading and its rival ([explained below](#limits)).
+The answer is rarely, and mostly not through forecasting. The strongest demonstrated reversals run through *memory* of past experience. The only reversal shown to be carried by a forecast, Hsee and Zhang's (2004) Study 3, has no independent replication on record, and immune neglect has been shown only across samples, one group choosing and another experiencing. No study found for this article measured the felt anticipation present at choice, the input the Map's position [P-VS1](/positions/value-in-selection/#p-vs1) names as its candidate selection currency, and every route documented would mislead a value-blind selector equally. The evidence makes miswanting's cost concrete without discriminating between the Map's value-sensitive reading and its rival ([explained below](#limits)).
 
 ## What a Demonstrated Mischoice Requires {#demonstrated-mischoice}
 
 Showing that a forecast error *changed a choice* is harder than showing that a forecast was wrong. A single choice has no within-person counterfactual, so every design approximates one. Hsee and Zhang separate a preference reversal between presentation formats, which shows only that preferences are labile, from the case where people choose badly: "Substantive inconsistencies refer to findings that people fail to choose what is best for them". The [preference-void](/voids/preference-void/) holds the first kind; this article concerns the second.
 
-The designs form a rough ladder: experience both options and then choose one to repeat, which locates the error in memory; randomise what is remembered and observe a real later choice; choose, experience, and compare choosers who selected themselves into each option; or record choice in one sample and experience in another. Only Hsee and Zhang measured forecasts, choices and experiences together and showed the forecast predicting the choice. No study manipulated a forecast while holding the other inputs fixed, the dissociation the test battery in [affective-forecasting-gap](/concepts/affective-forecasting-gap/) needs, so the forecast's causal role is everywhere inferred.
+The designs form a rough ladder: experience both options and then choose one to repeat, which locates the error in memory; randomise what is remembered and observe a real later choice; choose, experience, and compare choosers who selected themselves into each option; or record choice in one sample and experience in another. Only Hsee and Zhang measured forecasts, choices and experiences together and showed forecasts, from a separate group, matching the choices. No study manipulated a forecast while holding the other inputs fixed, the dissociation the test battery in [affective-forecasting-gap](/concepts/affective-forecasting-gap/) needs, so the forecast's causal role is everywhere inferred.
 
 ## Three Routes to a Changed Choice {#three-routes}
 
@@ -51,11 +52,11 @@ Both errors sit in *remembered* utility, the first arrow of the pipeline (experi
 
 Distinction bias (Hsee & Zhang 2004) arises because choices and predictions are usually made in *joint evaluation*, options side by side, while experience comes in *single evaluation*, where quantitative differences that look large side by side are barely felt. In Study 3, 243 students at a Chinese university chose between recalling a failure while eating a 15 g chocolate and recalling a success while eating a 5 g one. Sixty-five per cent chose the large chocolate, whether choosing for themselves or for others. Yet randomly assigned experiencers were happier with the success-and-small-chocolate option (mean ratings 2.41 versus −0.71), and so were the self-choosers (2.61 versus 0.09). A separate group asked only to predict which option would make others happier favoured the large chocolate (66%), so the authors conclude that the inconsistency "is chiefly a result of JE/SE misprediction", not of choice departing from forecast.
 
-The self-chooser comparison is, in the authors' words, "a less direct test", since those groups selected themselves and had seen both chocolates. And the choice study has never been independently replicated: the one replication on record (Anvari et al. 2021) re-ran only the two misprediction studies, reproduced one and not the other, and reported "mixed support for distinction bias".
+The self-chooser comparison is, in the authors' words, "a less direct test", since those groups selected themselves and had seen both chocolates. And the choice study has no independent replication on record: the one replication published (Anvari et al. 2021) re-ran only the two misprediction studies, reproduced one and not the other, and reported "mixed support for distinction bias".
 
 ### Immune Neglect: Between Samples Only
 
-Immune neglect is forecasters' failure to anticipate the reframing and rationalisation that soften bad outcomes. Gilbert and Ebert (2002) found that photography students who could exchange their chosen print came to like it less than those whose choice was final, though forecasters predicted no difference. In a separate study most participants wanted the changeable option anyway. Kermer et al. (2006) found people forecasting that losing a gamble would hurt more than an equal win would please, while those who actually gambled found that losses "did not have as much of an emotional impact as they predicted". In a separate pretest, 16 of 21 participants declined to risk $3 on an even chance of winning $5. In both studies the choice and the feelings that contradict it come from different people.
+Immune neglect is forecasters' failure to anticipate the reframing and rationalisation that soften bad outcomes. Gilbert and Ebert (2002) found that photography students who could exchange their chosen print came to like it less than those whose choice was final, though forecasters predicted no difference. In a separate study most participants wanted the changeable option anyway. Kermer et al. (2006) found people forecasting that losing a gamble would hurt more than winning would please, while those who actually gambled found that losses "did not have as much of an emotional impact as they predicted". In a separate pretest, 16 of 21 participants declined to risk $3 on an even chance of winning $5. In both studies the choice and the feelings that contradict it come from different people.
 
 ## Loss Aversion: Forecast or Weighting? {#loss-aversion}
 
@@ -85,7 +86,7 @@ The Map reads misattribution as the risk specific to a felt currency: a selector
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The value-blind rival explains every reversal here without an experiential term, a genuine parsimony advantage. The tenet permits declining it only by argument, and the argument the Map has is its prior commitment to [phenomenal value realism](/topics/phenomenal-value-realism/), not a datum from this literature. What would move the question is the measurement no study here made: felt anticipation at choice, dissociated from forecast content and learned value, set against later experience.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Miswanting presupposes a forgone option. As with the [affective-forecasting-gap](/concepts/affective-forecasting-gap/), asking which valence selects has a referent only if one outcome is really selected; under many-worlds every outcome of a quantum-level selection occurs, and the forgone option disappears with the question.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Miswanting presupposes a forgone option. As with the [affective-forecasting-gap](/concepts/affective-forecasting-gap/), asking which valence selects has a referent only if one outcome is really selected; under many-worlds every outcome of a quantum-level selection occurs, and the forgone option disappears with the question. An Everettian keeps the question by relativising it to branches, with Born weights standing in for selection; the Map's objection to that recasting is the indexical one set out in [many-worlds-argument](/arguments/many-worlds-argument/), not anything this literature supplies.
 
 ## Further Reading
 
