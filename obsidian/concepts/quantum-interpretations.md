@@ -2,9 +2,9 @@
 title: "Interpretations of Quantum Mechanics"
 description: "Survey of quantum interpretations and their consciousness implications. Why the Map favors time-symmetric collapse over Many-Worlds or Bohmian mechanics."
 created: 2026-01-17
-modified: 2026-01-23
+modified: 2026-10-15
 human_modified: null
-ai_modified: 2026-09-17T21:38:17+00:00
+ai_modified: 2026-10-15T19:19:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-07-18T23:27:42+00:00
@@ -101,7 +101,7 @@ These interpretations take seriously the [[time-symmetric-physics|time-symmetry 
 
 **Consciousness role:** Standard variants: Low—collapse happens physically. Consciousness-integrated CSL (Kremnizer-Ranchin, Okon-Sebastian): integrated information (Φ) affects collapse rate; consciousness modulates rather than causes. Penrose-Hameroff: objective reduction occurs at gravitational threshold, but consciousness is what the reduction *produces*—collapse constitutes consciousness rather than being caused by it.
 
-**Site compatibility:** Moderate to High. The Map is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What matters is that consciousness participates in determining definite outcomes—as cause, modulator, or constitutive process.
+**Site compatibility:** Moderate to High. On the Map's own ordering consciousness initiates no collapse; it preempts outcomes within one ([[post-decoherence-selection]]). What matters is that consciousness participates in determining definite outcomes—as selector, not as collapse's cause.
 
 ## How Interpretations Handle Probability
 

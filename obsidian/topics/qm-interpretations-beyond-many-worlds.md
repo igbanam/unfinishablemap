@@ -2,9 +2,9 @@
 title: "Quantum Interpretations Beyond Many-Worlds"
 description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational, transactional, and objective collapse—evaluating which leave room for consciousness as causal participant."
 created: 2026-01-23
-modified: 2026-05-25
+modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-15T19:21:20+00:00
 last_deep_review: 2026-07-26T04:51:22+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ related_articles:
   - "[[quantum-darwinism-and-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 coalesced_from:
@@ -106,7 +106,7 @@ Standard GRW and CSL leave no direct role for consciousness. Collapse happens ac
 
 Penrose's objective reduction takes a different path. Collapse occurs when gravitational self-energy reaches a threshold, and consciousness is what the collapse *produces*—its consequence rather than its cause. This inverts the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires consciousness to causally influence the physical world rather than merely arise from it.
 
-The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What it cannot accept is an entirely epiphenomenal consciousness with no causal role. The [[philosophical-stakes-of-spontaneous-collapse|philosophical stakes of choosing among these options]] are considerable.
+On the Map's ordering consciousness initiates no collapse; it preempts outcomes within one ([[post-decoherence-selection]]). The Map cannot accept an entirely epiphenomenal consciousness with no causal role. The [[philosophical-stakes-of-spontaneous-collapse|philosophical stakes of choosing among these options]] are considerable.
 
 ## The Decoherence Challenge
 

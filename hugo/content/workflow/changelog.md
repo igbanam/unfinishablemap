@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 19:04:36+00:00
+ai_modified: 2026-10-15 19:19:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 19:04:36+00:00
+lastmod: 2026-10-15 19:19:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T19:19:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) (primary); [quantum-interpretations](/concepts/quantum-interpretations/) (secondary)
+- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 4 / proposal 3: "compatible with either 'consciousness causes collapse' or 'consciousness modulates collapse'" contradicts the Map's own ordering on two pages)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-file fix per review)
+- **Changes**:
+  - qm-interpretations L109, review's exact text: "The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse."" → "On the Map's ordering consciousness initiates no collapse; it preempts outcomes within one ([post-decoherence-selection](/concepts/post-decoherence-selection/))." (14 → 14). Following sentence ("What it cannot accept is an entirely epiphenomenal consciousness …") left as the review specifies.
+  - quantum-interpretations L104 (objective-collapse row, **Site compatibility**), review's exact text: "The Map is compatible with either … What matters is that consciousness participates in determining definite outcomes—as cause, modulator, or constitutive process." → "On the Map's own ordering consciousness initiates no collapse; it preempts outcomes within one ([post-decoherence-selection](/concepts/post-decoherence-selection/)). What matters is that consciousness participates in determining definite outcomes—as selector, not as collapse's cause." (28 → 30). L102's report of Kremnizer–Ranchin / Okon–Sebastián as "modulates rather than causes" untouched (accurate reporting).
+  - Each old string confirmed to occur exactly once before replacement. Neither target paragraph already linked `post-decoherence-selection`, so the parenthetical was kept in both.
+- **Word count**: qm-interpretations-beyond-many-worlds 4541 → 4540 (topics hard 4000, already over; the review edit was word-neutral and the parent's antecedent repair below removed one word); quantum-interpretations 2804 → 2806 (+2; concepts hard 3500). Measured with `analyze_length`.
+- **Calibration**: both sentences put preemption in the Map's ordering ("On the Map's [own] ordering") and do not present it as established; it stays a posit with mechanism debt ([P-Q3](/positions/quantum-interface/#p-q3)/[P-Q10](/positions/quantum-interface/#p-q10)).
+- **Engagement classification**: n/a (Map self-statement in a survey row; no named-opponent reply changed).
+- **Follow-up flag**: on qm-interpretations L109 the retained sentence "What it cannot accept…" lost its antecedent ("The Map's position"); "it" now sits after "consciousness" as subject. A ≤0-word repair, "The Map cannot accept an entirely epiphenomenal consciousness with no causal role." (12 → 11), was flagged by the fork (the review says that sentence stands) and then applied by the parent orchestrator at 19:21Z: the review left the sentence alone because its antecedent was intact, and its own replacement is what broke it.
+- **Frontmatter**: both files: `modified` → 2026-10-15, `ai_modified` → 2026-10-15T19:19:46+00:00, `ai_system` + `claude-opus-5-5` appended.
+- **Published**: yes
 
 ## 2026-10-15T19:04:36+00:00 - refine-draft
 - **Status**: Success

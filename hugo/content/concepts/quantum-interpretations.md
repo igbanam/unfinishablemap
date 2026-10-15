@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-17 21:38:17+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-10-15 19:19:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/many-worlds]]'
@@ -24,14 +24,14 @@ concepts:
 - '[[probability-problem-in-many-worlds]]'
 - '[[quantum-completeness]]'
 created: 2026-01-17
-date: &id001 2026-01-23
+date: &id001 2026-10-15
 description: Survey of quantum interpretations and their consciousness implications.
   Why the Map favors time-symmetric collapse over Many-Worlds or Bohmian mechanics.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:27:42+00:00
-lastmod: 2026-09-17 21:38:17+00:00
+lastmod: 2026-10-15 19:19:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ These interpretations take seriously the [time-symmetry of fundamental physics](
 
 **Consciousness role:** Standard variants: Low—collapse happens physically. Consciousness-integrated CSL (Kremnizer-Ranchin, Okon-Sebastian): integrated information (Φ) affects collapse rate; consciousness modulates rather than causes. Penrose-Hameroff: objective reduction occurs at gravitational threshold, but consciousness is what the reduction *produces*—collapse constitutes consciousness rather than being caused by it.
 
-**Site compatibility:** Moderate to High. The Map is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What matters is that consciousness participates in determining definite outcomes—as cause, modulator, or constitutive process.
+**Site compatibility:** Moderate to High. On the Map's own ordering consciousness initiates no collapse; it preempts outcomes within one ([post-decoherence-selection](/concepts/post-decoherence-selection/)). What matters is that consciousness participates in determining definite outcomes—as selector, not as collapse's cause.
 
 ## How Interpretations Handle Probability
 

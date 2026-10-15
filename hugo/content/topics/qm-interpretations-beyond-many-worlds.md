@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-14 12:09:02+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-10-15 19:21:20+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/quantum-measurement-interpretations-beyond-mwi/
@@ -21,7 +21,7 @@ concepts:
 - '[[atemporal-causation]]'
 - '[[process-philosophy]]'
 created: 2026-01-23
-date: &id001 2026-05-25
+date: &id001 2026-10-15
 description: A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational,
   transactional, and objective collapse—evaluating which leave room for consciousness
   as causal participant.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 04:51:22+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-15 19:21:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ Standard GRW and CSL leave no direct role for consciousness. Collapse happens ac
 
 Penrose's objective reduction takes a different path. Collapse occurs when gravitational self-energy reaches a threshold, and consciousness is what the collapse *produces*—its consequence rather than its cause. This inverts the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, which requires consciousness to causally influence the physical world rather than merely arise from it.
 
-The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What it cannot accept is an entirely epiphenomenal consciousness with no causal role. The [philosophical stakes of choosing among these options](/topics/philosophical-stakes-of-spontaneous-collapse/) are considerable.
+On the Map's ordering consciousness initiates no collapse; it preempts outcomes within one ([post-decoherence-selection](/concepts/post-decoherence-selection/)). The Map cannot accept an entirely epiphenomenal consciousness with no causal role. The [philosophical stakes of choosing among these options](/topics/philosophical-stakes-of-spontaneous-collapse/) are considerable.
 
 ## The Decoherence Challenge
 
