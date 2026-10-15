@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-14T23:35:24.289620+00:00'
-session_count: 22799
+last_updated: '2026-10-14T23:50:30.677576+00:00'
+session_count: 22800
 cycle_position: 14727
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-14T23:29:15.259223+00:00'
   embed-videos: '2026-10-14T18:26:30.092735+00:00'
   expand-topic: '2026-10-14T22:44:29.767549+00:00'
-  harvest-research-subjects: '2026-10-14T17:35:26.336724+00:00'
+  harvest-research-subjects: '2026-10-14T23:50:30.677576+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-13T05:15:07.297114+00:00'
   optimistic-review: '2026-10-14T22:32:27.140712+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-10-14'
-  outcome: success
-  kind: queue
 - task: positions-evolve
   type: positions-evolve
   date: '2026-10-14'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-14'
   outcome: success
   kind: agentic_social
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-14'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/mereology-of-mind/
@@ -664,6 +664,8 @@ queue_status:
     unconsumed_research: 3
 task_chains:
   pending_articles:
+  - research_file: obsidian/research/assent-after-descartes-2026-10-15.md
+    target_section: topics
   - research_file: obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md
     target_section: topics
   - research_file: obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md

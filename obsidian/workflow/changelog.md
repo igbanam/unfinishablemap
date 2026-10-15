@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-14T22:31:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T00:17:15+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Assent after Descartes: Hobbes and Spinoza to Newman, James and Williams (P2 research-topic, harvested 2026-10-14 from optimistic-2026-10-14-provenance-and-rivals-wing)
+- **Output**: [[research/assent-after-descartes-2026-10-15]]
+- **Sources consulted**: 26 cited; 11 primary texts read at raw and grep-verified (Hobbes Objection XIII and Descartes's Answer in Molyneux 1680, Descartes *Principles* I.34/I.39, Pascal §233, Spinoza IIP48–49, Calvin *Inst.* III.ii, Locke *Essay* IV.xiii/xvi/xx, Hume *Treatise* I.iii.7 + Appendix and *Enquiry* V.ii, Newman ch. IX, James 1896), plus Gilbert, Krull & Malone 1990 at raw PDF; Williams 1973, Ginet 2001, Reid, Kant SEP-mediated; 9 metadata records at Crossref
+- **Stations that earn a place**: Hobbes/Descartes reply, Pascal (with James's verdict), Spinoza (Gilbert's label adjudicated: accurate to IIP49 scholium, stylised), Locke, Hume (+Reid, Kant), Newman, Clifford/James, Williams endpoint; Calvin as one prelude sentence only
+- **What moves**: doxastic-voluntarism gains Hobbes (introspection), Locke/Pascal (indirect control dated), James's self-verifying case (touches Williams's premise); assent-void: cite IIP49 *scholium*, Gilbert 1991 phrase still unverified at raw, Ginet juror discrepancy confirmed on the SEP side and left flagged
+- **Registered**: `task_chains.pending_articles` → target_section topics (348/370 by `count_section_files`); recommended slug `topics/assent-after-descartes`
+
 ## 2026-10-14T23:27:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/zeno-dynamics-on-a-decohered-mixture]]
