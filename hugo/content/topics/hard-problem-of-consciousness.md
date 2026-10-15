@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-10-07 18:05:00+00:00
+ai_modified: 2026-10-15 02:49:38+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-07 18:05:00+00:00
+lastmod: 2026-10-15 02:49:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,7 +154,7 @@ The explanatory gap extends well beyond simple sensory experience into every dim
 
 Chalmers' philosophical zombie—a being physically identical to you but lacking all experience—tests whether consciousness is entailed by physics. If such a being is conceivable, and conceivability entails metaphysical possibility, then physical facts alone don't determine experiential facts.
 
-Physicalists object that zombies only *seem* conceivable—hidden contradictions lurk in the scenario. But there's an asymmetry with other a posteriori identities: when water's contingent separability from H₂O dissolves on learning the microstructure, the appearance of contingency reflected ignorance. With consciousness, we have direct acquaintance with what's conceived as absent. The conceivability isn't filling an epistemic gap—it's positively envisioning all physical structure present and experience absent. If the zombie scenario is coherent, consciousness is not entailed by the physical facts.
+Physicalists object that zombies only *seem* conceivable—hidden contradictions lurk in the scenario. But there's an asymmetry with other a posteriori identities: when water's contingent separability from H₂O dissolves on learning the microstructure, the appearance of contingency reflected ignorance. With consciousness, we have direct acquaintance with what's conceived as absent. The conceivability isn't filling an epistemic gap—it's positively envisioning all physical structure present and experience absent (all *known* structure, the [ignorance hypothesis](/concepts/ignorance-hypothesis/) replies). If the zombie scenario is coherent, consciousness is not entailed by the physical facts.
 
 ## What Mary Learned
 
@@ -249,7 +249,7 @@ The hard problem is the foundation of the Map's [Dualism tenet](/tenets/). The e
 
 The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) bears on the Map's position defensively. Under interactionism, problem intuitions are causally informed by consciousness itself, which removes the debunking defeater epiphenomenalism cannot escape—restoring the dualist's prior warrant rather than supplying fresh positive evidence. Chalmers's reformulated coincidence argument—which turns on what could have obtained, not on what did—survives that causal contribution and remains open.
 
-If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight.
+If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight—a humility the [ignorance hypothesis](/concepts/ignorance-hypothesis/) turns on dualism's own arguments.
 
 ## Further Reading
 

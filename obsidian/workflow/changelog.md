@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-15T02:01:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T02:49:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Source**: reviews/optimistic-2026-10-07-ignorance-hypothesis-wing item 1 (P3 queue task)
+- **Original score**: n/a (targeted two-sentence refine; `scripts/curate.py` absent)
+- **Changes**: (a) L154 zombie-conceivability sentence scoped to "all *known* structure, the [[ignorance-hypothesis|ignorance hypothesis]] replies" — the string-sibling of the `concepts/philosophical-zombies` L67 scoping installed 2026-10-07; acquaintance clause left untouched. (b) L249 Occam's-Razor humility clause made two-way: "—a humility the ignorance hypothesis turns on dualism's own arguments"; modal "may" kept, no grant that we are ignorant. Both old strings matched exactly once. Page previously had no link to `ignorance-hypothesis`; now two, 95 lines apart. Tier against IH stays *compatible* (defeater-removing, not lifted). L233/L237 untouched; `ai_system` unchanged (already carries claude-fable-5-1).
+- **Length**: `analyze_length` 3712 → 3728 (+16 by the counter, review estimated +17; topics soft 3000 / hard 4000, headroom 271)
+- **Published**: yes (synced to Hugo)
+
 ## 2026-10-15T02:31:30+00:00 - research-topic
 - **Status**: Success (verdict FOLD-IN into topics/assent-before-descartes, text supplied; no pending article registered)
 - **Topic**: Assent and ascertainment in Buddhist epistemology
