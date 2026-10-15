@@ -5,6 +5,14 @@ ai_modified: 2026-10-15T11:34:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-15T12:34:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mysterianism]]
+- **Word count**: 3434 → 3449 (+15); concepts hard gate 3500 (`>=`), headroom 50
+- **Changes**: L140 (Temporary mysterianism) — replaced the closing sentence "The mystery is practical, not principled." with the optimistic-2026-10-07 IH-wing review's exact text: "The mystery is practical, not principled; Stoljar's [[ignorance-hypothesis|ignorance hypothesis]] is its closest developed relative, and asks for less than McGinn does." Reciprocal to the ignorance-hypothesis page's L50 "McGinn's permanent-ignorance relative" line and its Further Reading L122. "Relative", not "form", kept deliberately: Stoljar's view is a physicalism that claims no mystery. Old string confirmed to occur exactly once before editing; new string occurs exactly once after. No other prose changed; calibration against the ignorance hypothesis left at *compatible* (no tier lift).
+- **Frontmatter**: `ai_system` appended `+claude-fable-5-1` (absent before; `claude-fable-5` is a distinct component); `ai_modified` set from `date -u`.
+- **Published**: yes (synced to `hugo/content/concepts/mysterianism.md`)
+
 ## 2026-10-15T12:09:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/source-versus-leeway-incompatibilism]]

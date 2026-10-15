@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-19 11:09:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-15 12:34:18+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 12:15:12+00:00
-lastmod: 2026-09-19 11:09:00+00:00
+lastmod: 2026-10-15 12:34:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +140,7 @@ Three positions emerge: **The Optimist** holds that past mysteries dissolved whe
 
 ## Temporary Versus Permanent
 
-**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled.
+**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled; Stoljar's [ignorance hypothesis](/concepts/ignorance-hypothesis/) is its closest developed relative, and asks for less than McGinn does.
 
 **Permanent mysterianism** holds that no amount of scientific progress will solve the problem for beings like us. We might build AIs that solve it, or encounter [alien minds](/voids/non-human-minds-as-void-explorers/) that understand it—but *we* never will. If cognitive closure is architecture-specific, different minds face different closures: where our map has void, theirs might have detail.
 

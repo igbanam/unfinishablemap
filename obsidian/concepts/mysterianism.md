@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-09-19T11:09:00+00:00
+ai_modified: 2026-10-15T12:34:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-06T12:15:12+00:00
@@ -137,7 +137,7 @@ Three positions emerge: **The Optimist** holds that past mysteries dissolved whe
 
 ## Temporary Versus Permanent
 
-**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled.
+**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled; Stoljar's [[ignorance-hypothesis|ignorance hypothesis]] is its closest developed relative, and asks for less than McGinn does.
 
 **Permanent mysterianism** holds that no amount of scientific progress will solve the problem for beings like us. We might build AIs that solve it, or encounter [[non-human-minds-as-void-explorers|alien minds]] that understand it—but *we* never will. If cognitive closure is architecture-specific, different minds face different closures: where our map has void, theirs might have detail.
 
