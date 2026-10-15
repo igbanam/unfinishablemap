@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-15T02:01:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T02:31:30+00:00 - research-topic
+- **Status**: Success (verdict FOLD-IN into topics/assent-before-descartes, text supplied; no pending article registered)
+- **Topic**: Assent and ascertainment in Buddhist epistemology
+- **Output**: [[research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-15]]
+- **Sources consulted**: 22 (Dhammasaṅgaṇī §1, MN 111 Pali and Sujato, Expositor vol. I, Nārada's Abhidhammattha-saṅgaha chs. II and IV, Stcherbatsky's Nyāyabindu/ṭīkā, Miyo 2020, Nakasuka 2020, SEP Dharmakīrti and perception-india, van Gorkom at raw; Dunne 2004, Dreyfus 1997, Bodhi 1993, Ganeri 2017, Coseru 2012, Arnold 2012 as Google Books snippets with zero-hit control; Visuddhimagga XIV 151 mediated; Kellner 2004/2010 metadata)
+- **Answers**: niścaya is a caused conceptual determination after perception, not an endorsement; adhimokkha is a co-arising factor absent in bare sense-consciousness and in doubt, not an act; the Abhidhamma analyses the formation event into stages (determining, adhimokkha, javana) but supplies no first-person report of a felt grasping. Tenet-neutral.
+
 ## 2026-10-15T02:01:21+00:00 - research-topic
 - **Status**: Success (verdict FOLD-IN; no pending article registered)
 - **Topic**: Semantic satiation as an inducible dissociation of felt meaning from competence
