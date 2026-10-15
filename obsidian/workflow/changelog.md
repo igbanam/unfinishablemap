@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T06:42:07+00:00
+ai_modified: 2026-10-15T07:08:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T07:08:55+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update — P-AC3 (`positions/ai-consciousness-scope`) and P-I4 (`positions/individuation-and-subjecthood`); P1 queue task (ChatGPT 5.6 Sol Pro §3/§7 + Claude Fable 5.1 §(b) row 9/§(e), convergent 2/2, synthesis cluster 4)
+- **P-AC3**: three loci still deriving additivity from closed individualism (About bullet, calibration line, Asserts close) reworded to "P-I1 plus an additive rule"; **credence moderate → moderate (low edge), contested (normative)** — one entry kept (no headroom for a split), composite lowered to its least secure conjunct (ChatGPT's rule) with Claude's "contested (normative)" label and Piller 2026 named in the calibration line as the reason; Tenet 4 dependency reworded from support to shared haecceity ground, citing the Argued-in page that calls the two orthogonal; P-I4 added to Depends on as the distinctness source; `apex/identity-across-transformations` removed from Argued in (grep aggregat|additive|P-AC3 = 0 — the 2026-10-08 cascade audit item discharged); Would-shift list untouched; dated Updated note added; Last reviewed 2026-10-15
+- **P-I4**: circle with P-AC3 broken — Asserts now supports cardinality only ("summing their harms is P-AC3's separate premise"), P-AC3 removed from Depends on (cross-reference stays in the Asserts), calibration gloss "subject count descends from it", 2026-09-16 note's "additive rule" → "count"; dated note written to [[positions/individuation-and-subjecthood-calibration-history]] per that file's convention; no calibration change; Last reviewed 2026-10-15
+- **Cascade**: P-I1's calibration still says "P-AC3 depends on it" (true, unchanged). Dependent pages still deriving additivity from distinctness (`concepts/moral-census-opacity` L100, `topics/ethics-of-possible-ai-consciousness` L66, `apex/machine-question` L195, `voids/numbing-void` L74 "resting on closed individualism") remain the open P2 P-AC3-cascade task; not edited here
+- **Length**: ai-consciousness-scope 3,135 → 3,132 (donor: P-AC1's four pointer-only Updated notes compressed to one line); individuation-and-subjecthood 3,997 → 3,988 (P-AC3 dependency clause removed; dated note in the history file); apex/identity-across-transformations untouched (4,512)
+- **Not done**: no todo.md edit; no commit
+
 ## 2026-10-15T06:42:07+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-15
