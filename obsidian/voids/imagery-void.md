@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-10-06T06:27:32+00:00
+ai_modified: 2026-10-15T20:04:13.296718+00:00
 last_deep_review: 2026-07-26T19:46:22+00:00
 draft: false
 topics:
@@ -41,11 +41,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-28
 last_curated:
+embedded_videos:
+  - id: FyFz7zBmGz8
+    url: https://www.youtube-nocookie.com/embed/FyFz7zBmGz8
+    embedded: 2026-10-15T20:04:13.296718+00:00
+    source: notebooklm/0163-01-imagery-void
 ---
 
 The Imagery Void is the structural impossibility, for any conscious mind, of verifying the fidelity, vividness, or even the presence of its own mental images. When the mind's eye conjures a red apple, no procedure exists by which the imager can step outside that image and check it against the apple it claims to represent—or against another mind's report of the same exercise. The void has three interlocking faces: imagery cannot be checked against its referent; two minds saying "vivid" cannot share the phenomenology that word picks out; and the post-2015 aphantasia research suggests the phenomenal image may not be doing the cognitive work it appears to be doing. None of these faces is a transient methodological problem. Each is structural to the position of being a conscious mind reporting on its own contents.
 
 The void is not exotic. It sits beneath every act of remembering a face, rehearsing a melody, or following a textbook instruction to "picture this." Imagery reports are made confidently and converge socially, but the convergence is linguistic rather than phenomenal: people share a vocabulary that lets them coordinate without comparing the inner states the vocabulary claims to track. The Imagery Void marks the place where that vocabulary outruns its evidence base.
+
+<details class="yt-embed" data-video-id="FyFz7zBmGz8">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/FyFz7zBmGz8">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Three Faces
 
