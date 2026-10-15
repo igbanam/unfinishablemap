@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T22:35:02+00:00
+ai_modified: 2026-10-15T23:03:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T23:03:50+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/fusion-void` (1994 words, hard gate 3000; never pessimistic- or deep-reviewed, text unedited since 2026-09-04; voids are outside the deep-review pool). Every quote and attribution verified at fetched source: Hillis 2002, Ernst & Banks 2002, Alais & Burr 2004, Prsa et al. 2012, Hillis et al. 2004, Wallace et al. 2004, Wozny et al. 2010 (Europe PMC abstracts; Crossref metadata); Körding 2007, Deroy 2016, Mallick 2015, Ban 2012 (PMC full text). Quotes all verbatim. Four fidelity defects: L90/L46/L68 common-cause gate described against Körding (model averaging, p_common 0.28), the research note and Mallick (disparity threshold); L38 lead example (eye + hand) is the case Hillis found NON-destructive; L40/L56/L60/L62 modality-line edge moved by Prsa 2012 cross-modal metamers, plus "destroyed"/"system no longer carries" overreach; L92 Deroy's quoted sentence continues into an access account of phenomenal unity.
+- **Tasks minted**: 1 (P2 refine-draft `voids/fusion-void`, todo.md L2492, exact old→new for all four items, bundle +217 → 2211). Not minted: `binding-void` L89 sibling Deroy locus, `three-kinds-of-void` L97 classification mismatch, L70/L94/L96 language items, and a falsifier paragraph (recorded in the review).
+- **Output**: [[reviews/pessimistic-2026-10-15-fusion-void]]
 
 ## 2026-10-15T22:35:02+00:00 - refine-draft
 - **Status**: Success
