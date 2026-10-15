@@ -248,10 +248,12 @@
   prompt_summary: Audit positions/ai-consciousness-scope (post-2026-10-08 claims)
     (reuse)
   target_filename: outer-review-2026-10-15-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 4
-  last_attempt_at: '2026-10-15T05:50:10.769297+00:00'
-  failure_reason: null
+  last_attempt_at: '2026-10-15T06:20:07.312849+00:00'
+  failure_reason: Deep Research never left 'Starting research...' (empty report panels,
+    no h1, Thoughts empty, Stop live, no error line) across 5 probes from +74 to +130
+    min; stuck-at-launch abandon at 2.16h per driver policy, 2026-10-15T06:21Z
   prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies). Your remit is to identify weaknesses
     that would justify rejection or major revision. The article is the positions-register
