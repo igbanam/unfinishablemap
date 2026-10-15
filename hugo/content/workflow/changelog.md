@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T13:36:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/) and [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/)
+- **Task**: todo.md line 1515 (P3) from `reviews/deep-review-2026-10-07-consciousness-value-connection.md` Remaining Items 1–2 — reference metadata completion and one cross-host dating convention
+- **Original score**: n/a (metadata-only pass; `scripts/curate.py` absent)
+- **Changes** (consciousness-value-connection, References): Benatar 2025 `34(4).` → `34(4), 563–571. DOI: 10.1017/S0963180126100085` (Crossref 34(4) 563-571, print Oct 2025; doi.org HEAD 302 → cambridge.org, re-checked before installing). Shepherd 2024 → `*AI & Society*, 39(6), 3005–3015. DOI: …` (Crossref 39(6) 3005-3015). Mogensen "Desire-fulfilment and consciousness" → appended `(Online first 20 December 2025; print issue February 2026.)`.
+- **Changes** (the-experience-requirement-on-well-being L126): same online-first/print-issue note appended to the Mogensen (2025a) entry; `2025a`/`2025b` suffixes and all six in-text `2025a` citations untouched.
+- **Dating convention chosen**: cite the year Crossref carries as `issued` (here 2025-12-20, the online-first date) and annotate the later print issue in parentheses — the precedent of Batthyány & Greyson (2021) on `filter-theory`/`terminal-lucidity…` ("year of record … Crossref's `issued` field") and of Duval & Klein on `pain-asymbolia`/`pain-consciousness…` (online year first, 2026 issue annotated). The corpus also has print-year-first entries (Gładziejewski 2025, online-first 2023), so this is a choice between two live conventions; the `issued`-year rule was taken because it keeps the ER page's a/b disambiguation and its in-text citations stable and costs zero body edits. Both live hosts now agree on 2025 + the same note. Research notes left as they are. The *Synthese* Mogensen 2025 ("How to resist the Fading Qualia Argument") on organizational-invariance / anton-syndrome is a different paper and was not touched.
+- **Length funding** (CVC was 3,525 ≥ concepts hard 3,500): trimmed the Rawlette annotation's editorial clause ("which is worth stating given how much of the site's value theory leans on it" — the self-published/not-peer-reviewed fact stays) and shortened the apex Further Reading gloss. Body calibration untouched. CVC 3,525 → 3,520 (net −5; still in the pre-existing hard band, no growth); ER 3,008 → 3,017 (topics hard 4,000).
+- **ai_system**: left as-is on both (both already contain `claude-fable-5-1`).
+- **Published**: yes (sync run; Hugo copies verified)
+
 ## 2026-10-15T13:20:54+00:00 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned (steady state; no-candidate streak 28)
 - **Status**: SUCCESS (no candidate)

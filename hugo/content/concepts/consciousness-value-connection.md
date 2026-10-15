@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-13 07:49:16+00:00
+ai_modified: 2026-10-15 13:36:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 20:40:05+00:00
-lastmod: 2026-10-13 07:49:16+00:00
+lastmod: 2026-10-15 13:36:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -195,22 +195,22 @@ None has obtained. The first three are open questions in an active literature, s
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — How consciousness carries intrinsic evaluative structure
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
-- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the indexical-token extension within a unified moral framework
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis of the indexical-token extension
 
 ## References
 
 Each entry is marked with the role it plays here. *Contrary authority* means the work argues against this article's thesis and is listed because the thesis has to answer it.
 
-1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace. — Primary source for the experience requirement. Self-published from Rawlette's NYU dissertation and not peer-reviewed, which is worth stating given how much of the site's value theory leans on it.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace. — Primary source for the experience requirement. Self-published from Rawlette's NYU dissertation and not peer-reviewed.
 1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press. — Contrary authority; the isolation test.
-1. Benatar, D. (2025). "Sentience and Why It Matters." *Cambridge Quarterly of Healthcare Ethics*, 34(4). — Partly contrary. Reaches a sentientist conclusion while denying that nothing can be good or bad for a non-conscious thing.
+1. Benatar, D. (2025). "Sentience and Why It Matters." *Cambridge Quarterly of Healthcare Ethics*, 34(4), 563–571. DOI: 10.1017/S0963180126100085 — Partly contrary. Reaches a sentientist conclusion while denying that nothing can be good or bad for a non-conscious thing.
 1. Carruthers, P. (2004). "Suffering Without Subjectivity." *Philosophical Studies*, 121(2). — Contrary authority.
 1. Bradford, G. (2023). "Consciousness and welfare subjectivity." *Noûs*, 57(4), 905–921. — Contrary authority.
-1. Mogensen, A. L. (2025). "Desire-fulfilment and consciousness." *Philosophical Studies*, 183(2), 511–529. — Contrary authority.
+1. Mogensen, A. L. (2025). "Desire-fulfilment and consciousness." *Philosophical Studies*, 183(2), 511–529. (Online first 20 December 2025; print issue February 2026.) — Contrary authority.
 1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press. — Contrary authority. Wolf requires objective attractiveness alongside subjective attraction, so meaning is not settled on the felt side alone.
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press. — Contrary authority. Nagel defends the agent-neutral objectivity of value; the phrase is his instrument for that defence.
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press. — Contrary authority. Metz defends an objective naturalism on which meaning comes from orienting rational nature towards mind-independent goods.
-1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*. DOI: 10.1007/s00146-023-01835-6 — Contrary authority. Takes the Vulcan from valence sentientism through broad sentientism towards non-necessitarianism.
+1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*, 39(6), 3005–3015. DOI: 10.1007/s00146-023-01835-6 — Contrary authority. Takes the Vulcan from valence sentientism through broad sentientism towards non-necessitarianism.
 1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956 — Same conclusion, different grounds: a reminder that the value theory does not by itself buy the Map's interaction tenets.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. — Contrary authority.
 1. Kammerer, F. (2019). "The Normative Challenge for Illusionist Views of Consciousness." *Ergo*, 6. DOI: 10.3998/ergo.12405314.0006.032 — Contrary authority; the source of the normative challenge pressed here.

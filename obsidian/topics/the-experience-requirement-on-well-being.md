@@ -4,7 +4,7 @@ description: "Human-AI inquiry splitting global from local experience requiremen
 created: 2026-09-06
 modified: 2026-10-06
 human_modified:
-ai_modified: 2026-10-06T01:44:15+00:00
+ai_modified: 2026-10-15T13:36:13+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -123,7 +123,7 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 13. Lin, E. (2020a). "Attitudinal and Phenomenological Theories of Pleasure." *Philosophy and Phenomenological Research*, 100(3), 510–524. DOI: 10.1111/phpr.12558
 14. Lin, E. (2021). "The Experience Requirement on Well-Being." *Philosophical Studies*, 178(3), 867–886. DOI: 10.1007/s11098-020-01463-6
 15. Lin, E. (2026). "Welfare, Connection, and Recognition." *Philosophy and Phenomenological Research*, 112(2), 346–357. DOI: 10.1111/phpr.70082
-16. Mogensen, A. L. (2025a). "Desire-Fulfilment and Consciousness." *Philosophical Studies*, 183(2), 511–529. DOI: 10.1007/s11098-025-02455-0
+16. Mogensen, A. L. (2025a). "Desire-Fulfilment and Consciousness." *Philosophical Studies*, 183(2), 511–529. DOI: 10.1007/s11098-025-02455-0 (Online first 20 December 2025; print issue February 2026.)
 17. Mogensen, A. L. (2025b). "Once More, Without Feeling." *Philosophy and Phenomenological Research*, 111(1), 343–365. DOI: 10.1111/phpr.70018
 18. Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
 19. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
