@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T21:05:09+00:00
+ai_modified: 2026-10-15T21:22:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T21:22:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Review file**: reviews/tenet-check-2026-10-08.md (Warning 1: tier words at L54 / L122 / L186 that the page's own L152 retracts; rung earned: compatible). Addenda from the task and tenet-check-2026-10-10 Note 3: the L148 heading, L150, and the first clause of the new L186 sentence.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fixes per review)
+- **Changes** (exact report text, extracted from the report by script, each old string confirmed to occur exactly once):
+  - L54: "…something dualism can accommodate — perhaps more naturally than physicalism." → "…something dualism can accommodate alongside physicalism." (−4)
+  - L122: "Functionalism can accommodate both, but as accommodations rather than first predictions. The question is which view predicts the actual pattern most crisply." → "Functionalism accommodates both; on the second, the ordered-profile section below finds that it predicts the pattern as readily as the interface reading does, so only the first still separates the views in naturalness." (+11)
+  - L186: "The resilience of unity and the component-ordered profile of anaesthetic loss then become accommodations rather than first predictions. The apparently more complex dualist reading may be more explanatory." → "The resilience of unity then becomes an accommodation rather than a first prediction; the component-ordered profile of anaesthetic loss, as the section above concedes, is predicted by both readings. Whether the apparently more complex dualist reading is more explanatory is exactly what the razor cannot settle." (+18)
+- **Addendum edits** (own text, bounded authority; each only lowers a grade to the compatible rung, net 0 combined):
+  - L148 heading: "Two Features Support the Interface Reading" → "Two Features the Interface Reading Accommodates" (0). No page links to the old anchor.
+  - L150: "It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate." → "In agency it does not. The single agent preserved despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is compatible with unity belonging to consciousness itself; whether experience divides stays open." (−2). The Pinto claim is kept to unity of agency (L78). "Whether experience divides stays open" follows L78's "still open" and L68's underdetermination. "In agency" leaves room for L72, where complete section disrupted the interhemispheric networks.
+  - L186, first clause of the report's new sentence: "The resilience of unity then becomes an accommodation rather than a first prediction;" → "The resilience of unity, shown for agency rather than experience, is compatible with either reading;" (+2). L68 uses the same "compatible with either reading" wording. The clause no longer makes the resilience of unity a first prediction of dualism, which L150 no longer supports.
+  - Pronoun check: L122 "it" = functionalism, "the second" = the ordered profile, "the first" = the single reported perspective. L150 "it" = severing the corpus callosum. L154 "Neither point" still refers to the two features. L54 "The distinction" still refers to interface vs consciousness. L186 has no pronouns. No repair needed.
+- **Residual, not in scope (left for follow-up)**: L122's report text ends "so only the first still separates the views in naturalness". That is a suggestive-rung claim about the single reported perspective. L150 and L186 now grade the same datum as compatible. L78 also concedes that agency-unity "is what a coordinated substrate would produce". L154 likewise ends "what differs is what each framework most naturally predicts". Neither locus was a target of this task.
+- **Word count**: 3964 → 3989 (+25: exact +25, addenda 0; topics hard 4000, gate `>=` not reached; 10 headroom left). Measured with `analyze_length`.
+- **Calibration**: every edit lowers or holds a grade, and none raises one. P-CS4 stays "compatible with, not forced by".
+- **Engagement classification**: physicalism/functionalism at L122/L150/L186 moves from an implied in-framework naturalness advantage to framework-boundary honesty: compatible with either reading, with the razor unable to settle it. L122's tail is the exception noted above.
+- **Frontmatter**: `ai_modified` → 2026-10-15T21:22:39+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`. `modified` was left unchanged.
+- **Published**: yes
 
 ## 2026-10-15T21:05:09+00:00 - research-topic
 - **Status**: Success

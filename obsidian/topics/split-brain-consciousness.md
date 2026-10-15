@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-10-10T09:08:01+00:00
+ai_modified: 2026-10-15T21:22:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ embedded_videos:
     source: notebooklm/0046-01-split-brain-consciousness
 ---
 
-Consciousness can apparently break apart. Split-brain surgery, general anaesthesia, and dissociative disorders each produce conditions where unified experience fractures — or seems to. The stakes are high: the classical unity argument holds that an indivisible mind cannot be composed of physical parts, so if consciousness genuinely fragments, the argument appears to collapse. The reading the Map develops is that what breaks in each case is the physical interface through which consciousness expresses itself, not consciousness itself — a reading the evidence is compatible with but, as the next section says plainly, does not force. The distinction turns fragmentation from a decisive objection into something dualism can accommodate — perhaps more naturally than physicalism.
+Consciousness can apparently break apart. Split-brain surgery, general anaesthesia, and dissociative disorders each produce conditions where unified experience fractures — or seems to. The stakes are high: the classical unity argument holds that an indivisible mind cannot be composed of physical parts, so if consciousness genuinely fragments, the argument appears to collapse. The reading the Map develops is that what breaks in each case is the physical interface through which consciousness expresses itself, not consciousness itself — a reading the evidence is compatible with but, as the next section says plainly, does not force. The distinction turns fragmentation from a decisive objection into something dualism can accommodate alongside physicalism.
 
 <details class="yt-embed" data-video-id="ygshLBkDAGE">
 <summary>Video introduction</summary>
@@ -119,7 +119,7 @@ The interface argument makes this distinction explicit. Consciousness interacts 
 
 This is a *possibility* claim, not a proof: fragmentation of behaviour is compatible with unity of consciousness. The strong physicalist inference assumes consciousness *is* the substrate's activity, which is precisely what dualism denies.
 
-Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count), and the component-ordered profile of consciousness loss under anaesthesia. Functionalism can accommodate both, but as accommodations rather than first predictions. The question is which view predicts the actual pattern most crisply.
+Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count), and the component-ordered profile of consciousness loss under anaesthesia. Functionalism accommodates both; on the second, the ordered-profile section below finds that it predicts the pattern as readily as the interface reading does, so only the first still separates the views in naturalness.
 
 ## Connection to the Binding Problem
 
@@ -145,9 +145,9 @@ A common assumption holds that split-brain cases support materialism by showing 
 
 What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem]]. Even if we fully mapped the neural patterns, we would not have explained why the phenomenal question (one mind or two?) resists the determinate structure the neural description exhibits.
 
-### Two Features Support the Interface Reading
+### Two Features the Interface Reading Accommodates
 
-**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
+**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. In agency it does not. The single agent preserved despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is compatible with unity belonging to consciousness itself; whether experience divides stays open.
 
 **The ordered profile of loss.** The interface reading's one expectation is that anaesthetic loss arrives by *components* — phenomenal presence, connectedness, access — disabled separately, in an agent-specific order, the graded profile [[anaesthesia-and-the-consciousness-interface|the anaesthesia article]] reports and [[positions/consciousness-scope|P-CS4]] records. A threshold for *global* presence is compatible with that expectation, not a second confirmation. What would count against the reading is a dose–response profile with no component ordering at all — experience dimming as a single quantity until gone. Gradation does not itself favour the interface reading, since production accounts of graded integration loss predict it too; the claim is only that integration is a *condition* for consciousness to interact with the brain rather than what constitutes it.
 
@@ -183,7 +183,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Does division within one body support subject-multiplication? Two crucial differences from Many Worlds: split-brain division is observable and bounded, and both hemispheres share continuous physical history. The Map's [[personal-identity#Why the Map Disagrees|indexical identity]] view accommodates partial anatomical division within a single causal history more easily than infinite branching.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist reading — consciousness fragments because it is physical integration — appears simpler, but purchases a commitment that consciousness is *nothing more* than integration. The resilience of unity and the component-ordered profile of anaesthetic loss then become accommodations rather than first predictions. The apparently more complex dualist reading may be more explanatory. The demand for a "whole number" of minds fails not because there is no number but because the connectivity cannot disclose one.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist reading — consciousness fragments because it is physical integration — appears simpler, but purchases a commitment that consciousness is *nothing more* than integration. The resilience of unity, shown for agency rather than experience, is compatible with either reading; the component-ordered profile of anaesthetic loss, as the section above concedes, is predicted by both readings. Whether the apparently more complex dualist reading is more explanatory is exactly what the razor cannot settle. The demand for a "whole number" of minds fails not because there is no number but because the connectivity cannot disclose one.
 
 ## What Would Challenge This View?
 
