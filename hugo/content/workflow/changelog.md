@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 07:55:06+00:00
+ai_modified: 2026-10-15 09:46:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 07:55:06+00:00
+lastmod: 2026-10-15 09:46:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T09:46:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Dynamical relevance and the no-go theorem for consciousness on a chip (todo.md L40, P2, research-harvest 2026-10-15)
+- **Output**: [dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15](/research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15/)
+- **Sources consulted**: 16 (Kleiner & Ludwig 2024 niae037 full text retrieved from Europe PMC, 12,893 words, 40 distinct quotations grep-verified incl. the abstract; arXiv 2304.05077 v1/v2 history; Europe PMC CITES and OpenAlex cited_by (1 and 5 records); Worden 2025 niaf057; F. Koch 2026 niag061 full text (0 Kleiner hits — no cross-citation either way); Seth 2025 BBS e315 (first 100k chars, no K&L cite); Kersten & Dung 2026 abstract via OpenAlex (publisher 403); Sampson Substack reply; Kleiner 2024 mortal-computation preprint; Kleiner & Hartmann 2023)
+- **Verdict**: PROCEED → `topics/` (measured headroom per driver: 348/370). Registered in `task_chains.pending_articles` by targeted Edit (top of list, existing format).
+- **Main deliverable (adjudication for the open P2 positions-evolve on [P-AC1](/positions/ai-consciousness-scope/#p-ac1))**: dynamical relevance is level-flexible by construction (Definition 2 "with respect to some reference theory"; Lemma 5 "Dynamical relevance passes downward"; T_F "for all practical purposes ... quantum theory"), so the Map's Tenet-3 commitment satisfies the antecedent on either horn of the pessimistic review's fork. A Tenet-2 sub-computational bias is INSIDE the theorem's formal scope ("The crucial work of the formalization ... is to make sure that this reasoning is also sound if consciousness' dynamical effects apply on a level below the computational level"), but is carried to the no-go only by the Definition-3 consequence that AI consciousness "is independent of what happens on a subcomputational level" — a level-independence premise `concepts/ai-epiphenomenalism` already denies ("real but impotent"). So K&L are a stronger-premise cousin of [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and the extra premise is level-independence, not dynamical relevance; "twin" is wrong, and the layer-(iv) debt does not collapse but acquires a candidate shape: the verification identities (eqs 1–2) as a "propagation criterion" for interface-eligibility (the note's synthesis, labelled as such). Neuromorphic/analogue: the words do not occur in the paper (grep 0); the theorem is architecture-blind and reaches whatever is verified against a computational theory, deterministic or stochastic. Tension disclosed: the "Probabilistic processing" reply ("consciousness may determine how the probability distributions ... are sampled, but it cannot change them") describes the Map's own Born-preserving interface ([P-Q2](/positions/quantum-interface/#p-q2)), so the theorem cannot be cited against probabilistic computing without answering K&L's scepticism for biology.
+- **Quote-fidelity**: the review-quoted "does not resolve the question" confirmed NOT verbatim (0 hits in full text); the verbatim abstract sentence recorded. Citation-key hazard flagged: two Kleiner & Ludwig 2024 papers in the corpus's orbit (niae037 vs *Synthese* 203:89) — article must cite by title or 2024a/b.
+- **Not done**: todo.md untouched (orchestrator marks); no commit.
 
 ## 2026-10-15T09:15:06+00:00 - pessimistic-review
 - **Status**: Success
