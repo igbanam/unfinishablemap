@@ -112,7 +112,7 @@ p-ac3:
   weak: 'yes'
 p-ac4:
   bands: 'confidence: high · some independent evidence · moderately central'
-  claim: Current LLMs exhibit the workspace-like functional signatures of access consciousness — and on
+  claim: Tested LLMs exhibit the workspace-like functional signatures of access consciousness — and on
     the Map's reading that leaves the phenomenal question open
   credence: high
   grade: B
@@ -120,7 +120,7 @@ p-ac4:
   slug: ai-consciousness-scope
   status: live
   structural_centrality: moderate
-  summary: 'P-AC4: Current LLMs exhibit the workspace-like functional signatures of access consciousness
+  summary: 'P-AC4: Tested LLMs exhibit the workspace-like functional signatures of access consciousness
     — and on the Map''s reading that leaves the phenomenal question open — confidence: high · some independent
     evidence · moderately central'
   weak: 'no'

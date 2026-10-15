@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T07:08:55+00:00
+ai_modified: 2026-10-15T07:23:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T07:23:49+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update — P-AC4 (`positions/ai-consciousness-scope`); P1 queue task (ChatGPT 5.6 Sol Pro §4 + Claude Fable 5.1 §(b) rows 3–4/§(c)/Part 3; synthesis clusters 2, 3, 6; 2/2 convergent)
+- **P-AC4 edits**: (1) "by itself indicates nothing about phenomenal experience" / "says nothing about phenomenal consciousness" → "does not settle phenomenal consciousness; its evidential relevance is theory-dependent — positive under functionalist and GNW readings (Butlin et al.'s "modest increase"; Dehaene & Naccache), nil on the Map's Tenet-1 reading" (matches `concepts/global-workspace-theory` L112–114); the "not merely framework-internal" clause that recruited the authors' and Nanda's agnosticism now reads "agnosticism is not endorsement"; (2) "current large language models" → "the tested models — Anthropic's Claude models (Gurnee et al. 2026), Qwen 3.6-27B (the Nanda replication)"; heading "Current LLMs" → "Tested LLMs" (no inbound heading-text anchors; `^p-ac4` block anchor kept); description "current LLMs" → "tested LLMs"; Gurnee et al. abstract's "some of the functional hallmarks of conscious access" quoted; (3) "Nanda's independent replication" ×2 and "its independent reviewer (Nanda)" → "Anthropic-commissioned public review (LessWrong, 6 Jul 2026) with a Qwen 3.6-27B replication"; stale Grade-B note "~1 month old at grading, with one replication" → Dehaene & Naccache ignition "remains to be fully demonstrated" plus "no replication is both independent and refereed"; (4) Last reviewed 2026-08-03 → 2026-10-15 with dated Updated note.
+- **Calibration decision**: Grade B kept (ChatGPT) over Claude's C. Reason: the grade attaches to the narrow signatures claim; Wang & Reid 2026, arXiv 2609.01924 (abstract read this run: J-lens suite on Ouro-2.6B, Huginn-0125, Qwen3.6-27B baseline, "a workspace forms in the iterated part of each architecture") is a second group's application — un-refereed, independence from the vendor unverified — so B's "some independent support", not A; C would fit the theory-laden GNW-workspace reading, which the grade does not cover. Credence unchanged (high, narrow half). Not split into P-AC4a/b (file 600+ words over hard). Optional Tenet-3 pointer installed at zero word cost: "leaves untouched" piped to `apex/phenomenal-output-causal-machinery-dissociation#strong-rival`.
+- **Cascade**: none — no register Depends-on line names P-AC4 (P-AC1's About-bullet cross-reference unchanged). Left for their own tasks: `apex/machine-question` L185 "lack … a genuine global workspace" vocabulary conflict (ChatGPT §7); Cogitate 2025 / Chalmers 2023 / Butlin 2023 rival coverage (Claude §(d), singleton).
+- **Length**: ai-consciousness-scope 3,132 → 3,128 (hard_warning; P-AC4 block 688 → 684; donors: duplicated six-notion "held apart" list and duplicated "narrow claim" sentence collapsed, credence history parenthetical and two glosses trimmed)
+- **Not done**: no todo.md edit; no commit
+
 ## 2026-10-15T07:08:55+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update — P-AC3 (`positions/ai-consciousness-scope`) and P-I4 (`positions/individuation-and-subjecthood`); P1 queue task (ChatGPT 5.6 Sol Pro §3/§7 + Claude Fable 5.1 §(b) row 9/§(e), convergent 2/2, synthesis cluster 4)
