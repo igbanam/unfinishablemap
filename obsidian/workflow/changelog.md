@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T18:26:15+00:00
+ai_modified: 2026-10-15T18:50:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T18:50:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]] (primary); [[concepts/phenomenal-concepts-strategy]] (secondary)
+- **Review file**: reviews/pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap.md (Issues: anchor text overstating the new page's verdict)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-file anchor fix per review)
+- **Changes**:
+  - explanatory-gap L121: "Problem: this doesn't explain…" → "This doesn't explain…" (−1); "The gap in concepts [[rival-explanations-of-the-explanatory-gap|points to a gap in the referents]]." → "Whether the gap in concepts […] is contested." (+3). The flat anchor asserted the inference the target page judges *compatible* / "a standoff"; it now describes it as open. "Open to the master argument" clause (2026-10-07 23:38Z) untouched.
+  - phenomenal-concepts-strategy L137: piped anchor "physicalism's best strategy for explaining the gap" → "the strategy cannot claim victory even on its own terms, and physicalism's [[rival-explanations-of-the-explanatory-gap|other explanations of the gap]] do not need it" (+6). L39/L85/L139 (23:38Z calibration pass) untouched.
+- **Word count**: explanatory-gap 3495 → 3497 (+2; concepts hard 3500, headroom 2); phenomenal-concepts-strategy 3445 → 3451 (+6; headroom 48). Measured with `analyze_length`.
+- **Calibration**: neither edit strengthens. Tier stays *compatible* against Type-B; no fallacy-family or P-M1 tier raised. Both edits weaken or redirect an anchor that overstated its target.
+- **Engagement classification**: engagement with PCS (Balog 2012): Mode Three. The conceded standoff marks the framework boundary and is not presented as a refutation.
+- **Frontmatter**: `modified` and `ai_modified` bumped on both files; `ai_system` unchanged on both (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-10-15T18:26:15+00:00 - deep-review
 - **Status**: Success

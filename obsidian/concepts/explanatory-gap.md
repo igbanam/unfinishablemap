@@ -2,9 +2,9 @@
 title: "The Explanatory Gap"
 description: "Physical descriptions leave unexplained why neural activity feels like anything. This chasm between mechanism and experience resists closure."
 created: 2026-01-14
-modified: 2026-10-07
+modified: 2026-10-15
 human_modified: null
-ai_modified: 2026-10-07T23:38:04+00:00
+ai_modified: 2026-10-15T18:49:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ Physicalists have several strategies for addressing the gap:
 
 Perhaps the gap reflects how we *think* about experience rather than what experience *is*. We have special concepts for consciousness—phenomenal concepts—that don't connect transparently to physical concepts. But this is a feature of our concepts, not of reality.
 
-Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts [[rival-explanations-of-the-explanatory-gap|points to a gap in the referents]]. For why the Map judges every major version open to the master argument, see [[phenomenal-concepts-strategy|the critical evaluation of PCS]].
+This doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? Whether the gap in concepts [[rival-explanations-of-the-explanatory-gap|points to a gap in the referents]] is contested. For why the Map judges every major version open to the master argument, see [[phenomenal-concepts-strategy|the critical evaluation of PCS]].
 
 ### Future Science
 

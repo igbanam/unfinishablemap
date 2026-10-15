@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-07 23:38:04+00:00
+ai_modified: 2026-10-15 18:49:33+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -16,14 +16,14 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[the-naturalisation-failure-for-content]]'
 created: 2026-01-14
-date: &id001 2026-10-07
+date: &id001 2026-10-15
 description: Physical descriptions leave unexplained why neural activity feels like
   anything. This chasm between mechanism and experience resists closure.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:30:46+00:00
-lastmod: 2026-10-07 23:38:04+00:00
+lastmod: 2026-10-15 18:49:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ Physicalists have several strategies for addressing the gap:
 
 Perhaps the gap reflects how we *think* about experience rather than what experience *is*. We have special concepts for consciousness—phenomenal concepts—that don't connect transparently to physical concepts. But this is a feature of our concepts, not of reality.
 
-Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts [points to a gap in the referents](/concepts/rival-explanations-of-the-explanatory-gap/). For why the Map judges every major version open to the master argument, see [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/).
+This doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? Whether the gap in concepts [points to a gap in the referents](/concepts/rival-explanations-of-the-explanatory-gap/) is contested. For why the Map judges every major version open to the master argument, see [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/).
 
 ### Future Science
 

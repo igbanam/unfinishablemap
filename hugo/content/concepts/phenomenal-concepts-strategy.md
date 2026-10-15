@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-07 23:38:04+00:00
+ai_modified: 2026-10-15 18:49:33+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 created: 2026-01-15
-date: &id001 2026-10-07
+date: &id001 2026-10-15
 description: 'Physicalism''s best response to the explanatory gap: the puzzle is in
   our concepts, not reality. Chalmers''s master argument exposes a dilemma PCS has
   not stably escaped.'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:11:05+00:00
-lastmod: 2026-10-07 23:38:04+00:00
+lastmod: 2026-10-15 18:49:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ The result is double-edged, and the Map records it as such rather than treating 
 
 The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey found 62% of philosophers consider the hard problem genuine, 30% do not. PCS has not achieved consensus, but neither have anti-physicalist arguments.
 
-Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: [physicalism's best strategy for explaining the gap](/concepts/rival-explanations-of-the-explanatory-gap/) cannot claim victory even on its own terms.
+Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: the strategy cannot claim victory even on its own terms, and physicalism's [other explanations of the gap](/concepts/rival-explanations-of-the-explanatory-gap/) do not need it.
 
 The persistence of anti-physicalist intuitions proves less than it seems. If the gap were conceptual confusion, education should dissolve it, as molecular biology dissolved vitalism; consciousness-related intuitions have persisted for centuries among informed philosophers. That tells only against such confusion diagnoses and the closure-expecting [Type-C reading](/concepts/type-a-type-b-and-type-c-physicalism/): Type-B otherwise, the [ignorance hypothesis](/concepts/ignorance-hypothesis/) and [illusionism](/concepts/illusionism/) all predict persistence, so it is consonant with the Map's dualism rather than evidence for it.
 

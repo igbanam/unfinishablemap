@@ -2,9 +2,9 @@
 title: "The Phenomenal Concepts Strategy"
 description: "Physicalism's best response to the explanatory gap: the puzzle is in our concepts, not reality. Chalmers's master argument exposes a dilemma PCS has not stably escaped."
 created: 2026-01-15
-modified: 2026-10-07
+modified: 2026-10-15
 human_modified: null
-ai_modified: 2026-10-07T23:38:04+00:00
+ai_modified: 2026-10-15T18:49:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ The result is double-edged, and the Map records it as such rather than treating 
 
 The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey found 62% of philosophers consider the hard problem genuine, 30% do not. PCS has not achieved consensus, but neither have anti-physicalist arguments.
 
-Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: [[rival-explanations-of-the-explanatory-gap|physicalism's best strategy for explaining the gap]] cannot claim victory even on its own terms.
+Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: the strategy cannot claim victory even on its own terms, and physicalism's [[rival-explanations-of-the-explanatory-gap|other explanations of the gap]] do not need it.
 
 The persistence of anti-physicalist intuitions proves less than it seems. If the gap were conceptual confusion, education should dissolve it, as molecular biology dissolved vitalism; consciousness-related intuitions have persisted for centuries among informed philosophers. That tells only against such confusion diagnoses and the closure-expecting [[type-a-type-b-and-type-c-physicalism|Type-C reading]]: Type-B otherwise, the [[ignorance-hypothesis|ignorance hypothesis]] and [[illusionism|illusionism]] all predict persistence, so it is consonant with the Map's dualism rather than evidence for it.
 
