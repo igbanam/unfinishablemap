@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-09 13:34:55+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-10-15 22:19:57+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/clinical-dissociation-as-systematic-evidence/
@@ -21,7 +21,7 @@ concepts:
 - '[[episodic-memory]]'
 - '[[degrees-of-consciousness]]'
 created: 2026-03-17
-date: &id001 2026-10-09
+date: &id001 2026-10-15
 description: Dissociative disorders—DID, depersonalisation, conversion, amnesia—selectively
   alter access, ownership, memory and motor control without a focal lesion, through
   decreased coupling in three and increased coupling in conversion; a pattern compatible
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:33:11+00:00
-lastmod: 2026-10-09 13:34:55+00:00
+lastmod: 2026-10-15 22:19:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,7 @@ The two readings divide over the nature of that connectivity relationship. The p
 
 The intact-substrate cases—amnesia, DID, depersonalisation—converge on one structural claim single-case evidence cannot make alone: *conscious access separates selectively without a destructive lesion*, so the partitioning must be described at the level of connectivity patterns between intact regions rather than which structures exist. This locates the disagreement precisely. The live contest is between a *sophisticated production reading* and the *filter reading*, both operating at the connectivity level.
 
-The sophisticated production reading explains the selectivity by differential functional vulnerability: autobiographical-self networks (medial prefrontal, posterior midline) are more easily knocked into an altered functional regime than semantic or procedural networks. Its mechanism cost is the additional commitment that the functional-vulnerability ordering matches the autonoetic-channel ordering across all three geometries—disconnection, compartmentalisation, feature-unbinding—on an intact substrate where there is no lesion topography to anchor the prediction. The filter reading reads the same selectivity off architecture: the highest-bandwidth, most reconstruction-intensive channel is the one most easily decoupled and the one whose internal bindings can come apart. Its mechanism cost is the metaphysical commitment to an interface whose channel structure is not independently specified—a cost the tenets license positing but do not pay. The asymmetry the comparison turns on is that the production reading must additionally explain *why* the vulnerability ordering tracks the autonoetic channel on an intact substrate. The discriminating test the catalogue still lacks—a targeted, reversible perturbation of an autonoetic-supporting connectivity pattern that spares its noetic-supporting subnetworks—would separate them, production predicting a changed ordering, filter the standard one; dissociative states approximate it naturally but without experimental control over what is perturbed.
+The sophisticated production reading explains the selectivity by differential functional vulnerability: autobiographical-self networks (medial prefrontal, posterior midline) are more easily knocked into an altered functional regime than semantic or procedural networks. Its mechanism cost is the additional commitment that the functional-vulnerability ordering matches the autonoetic-channel ordering across all three geometries—disconnection, compartmentalisation, feature-unbinding—on an intact substrate where there is no lesion topography to anchor the prediction. The filter reading reads the same selectivity off architecture: the highest-bandwidth, most reconstruction-intensive channel is the one most easily decoupled and the one whose internal bindings can come apart. Its mechanism cost is the metaphysical commitment to an interface whose channel structure is not independently specified—a cost the tenets license positing but do not pay. Both owe something: production, *why* the vulnerability ordering tracks the autonoetic channel on an intact substrate; filter, what fixes the channel structure it reads that ordering off. The discriminating test the catalogue still lacks—a targeted, reversible perturbation of an autonoetic-supporting connectivity pattern that spares its noetic-supporting subnetworks—would separate them, production predicting a changed ordering, filter the standard one; dissociative states approximate it naturally but without experimental control over what is perturbed.
 
 ## The Trauma Connection
 
@@ -154,7 +154,7 @@ Where the trauma link holds, the interface model reads it the same way throughou
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Clinical dissociation may be among the more suggestive empirical evidence for the Map's position, though the data do not decide between the interface model and a connectivity-based physicalism—and the common-cause objection above tempers even the suggestive reading where one precision-weighting mechanism may underlie several routes. Selective connectivity disruption between otherwise capable processing regions is the kind of pattern dualism's interface model would lead one to expect, but modern physicalism accommodates it by locating consciousness in connectivity. Dualism reads the relationship as a bridge between domains; physicalism owes an account of why *this* connectivity pattern generates experience while neighbouring patterns do not. Neither reading is forced by the dissociative data alone.
+**[Dualism](/tenets/#dualism)**: Clinical dissociation is compatible with the Map's position and with connectivity-based physicalism alike, the grade [P-CS4](/positions/consciousness-scope/#p-cs4) records; the data decide nothing between them, and the common-cause objection above—one precision-weighting mechanism may underlie several routes—blocks even a suggestive reading. Selective connectivity disruption between otherwise capable processing regions is the kind of pattern dualism's interface model would lead one to expect, but modern physicalism accommodates it by locating consciousness in connectivity. Dualism reads the relationship as a bridge between domains; physicalism owes an account of why *this* connectivity pattern generates experience while neighbouring patterns do not. Neither reading is forced by the dissociative data alone.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Conversion disorder shows volitional motor output can be abolished with the motor substrate intact. The corrected mechanism (an aberrant self-generated motor prior actively producing the symptom, rather than a severed channel) makes this the *weakest* of the four windows for the bidirectional reading, since active generation is fully redescribable within one domain. Each condition disrupts a specific direction or channel of mind-brain communication, consistent with—but not forced by—information flowing both ways through separable pathways, which a functionalist can redescribe as altered connectivity within a single domain.
 

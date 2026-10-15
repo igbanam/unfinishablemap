@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T21:41:27+00:00
+ai_modified: 2026-10-15T22:19:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T22:19:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-replacement task)
+- **Review**: reviews/tenet-check-2026-10-08.md, Warnings §2 (old/new text extracted by script; each old string confirmed exactly once)
+- **Changes**: (1) L151 Dualism paragraph: "may be among the more suggestive empirical evidence … tempers even the suggestive reading" → "is compatible with the Map's position and with connectivity-based physicalism alike, the grade [[positions/consciousness-scope|P-CS4]] records; … blocks even a suggestive reading" (grade lowered suggestive → compatible, now matching the description, the table, L132 and P-CS4). (2) L141: "The asymmetry the comparison turns on is that the production reading must additionally explain *why* …" → "Both owe something: production, *why* … ; filter, what fixes the channel structure it reads that ordering off." (the asymmetry claim contradicted the filter reading's unpaid cost stated one sentence earlier). Pronoun/flow check: "Both" takes its antecedent from the paragraph's named production and filter readings; the following "would separate them" and L151's "between them" read correctly; no repair needed. Engagement with the sophisticated production reading (L141): Mode Three, since each reading now carries a stated unpaid cost and no in-framework refutation is claimed. No grade raised; no other locus touched; not retitled.
+- **Word count**: 4694 → 4688 (−6; topics hard 4000, over under the 2026-06-04 standing human length decision, net ≤ 0 required). Measured with `analyze_length`.
+- **Frontmatter**: `modified` 2026-10-09 → 2026-10-15; `ai_modified` → 2026-10-15T22:19:57+00:00; `ai_system` deduped (repeated `claude-fable-5-1` removed, keep-last) to `claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5`; nothing appended (`claude-opus-5-5` already present)
+- **Published**: yes
 
 ## 2026-10-15T21:41:27+00:00 - deep-review
 - **Status**: Success
