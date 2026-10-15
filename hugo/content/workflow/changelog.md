@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 18:50:01+00:00
+ai_modified: 2026-10-15 19:04:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 18:50:01+00:00
+lastmod: 2026-10-15 19:04:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T19:04:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 2: timing-correlation test stated as if it tested the Map)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence fix per review)
+- **Changes**:
+  - L135 first sentence, review's exact text: "If consciousness modulates collapse, collapse *timing* should correlate …" → "If consciousness initiates collapse, as von Neumann–Wigner readings hold, collapse *timing* should correlate … registers it; on the Map's ordering objective reduction fixes timing, so it predicts no such correlation." (27 → 46, +19). The test is now attributed to V-N-W readings, and the Map's ordering is stated to predict no correlation. Old string confirmed to occur exactly once before replacement.
+  - Untouched: rest of L135 (Proietti 2019, Bong 2020, Steane 2025), the Tier-3 link, L147 (Neven et al.), L121/L228 (already corridor vocabulary), and the 2026-10-07 Chalmers & McQueen year fix.
+- **Word count**: 3974 → 3993 (+19; topics hard 4000, gate `>=`, headroom 6). Measured with `analyze_length`.
+- **Calibration**: the edit attributes the timing role to objective reduction as "the Map's ordering". It makes no claim that preemption is established, which stays a posit with mechanism debt ([P-Q3](/positions/quantum-interface/#p-q3)/[P-Q10](/positions/quantum-interface/#p-q10)). No new wikilinks.
+- **Engagement classification**: engagement with von Neumann–Wigner: Mode Three. The sentence marks where the Map's ordering diverges from consciousness-initiated collapse and does not claim to refute it.
+- **Frontmatter**: `modified` (2026-05-26 → 2026-10-15) and `ai_modified` bumped; `ai_system` unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 2026-10-15T18:50:01+00:00 - refine-draft
 - **Status**: Success

@@ -2,9 +2,9 @@
 title: "Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
 description: "Can experiments distinguish consciousness-driven collapse from decoherence? Predictions fall into three tiers—collapse existence, consciousness-dependence, and logical constraints—with the consciousness-specific tier remaining the hardest and most important frontier."
 created: 2026-02-19
-modified: 2026-05-26
+modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-15T19:04:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,7 +132,7 @@ Chalmers and McQueen (2022) extend the Kremnizer-Ranchin approach: collapse rate
 
 ### Consciousness-Dependent Collapse Timing
 
-If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "[[thoughtful-local-friendliness-and-the-artificial-friend|local friendliness]]" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
+If consciousness initiates collapse, as von Neumann–Wigner readings hold, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it; on the Map's ordering objective reduction fixes timing, so it predicts no such correlation. Extended Wigner's friend experiments bear on this: Proietti et al. (2019) confirmed observer-modelling tensions are empirically real, Bong et al. (2020) derived the "[[thoughtful-local-friendliness-and-the-artificial-friend|local friendliness]]" no-go theorem, and Steane (2025) argued that the extended scenario tells against subjective-collapse interpretations without distinguishing single-world from many-world readings. The logical implications are developed in [Tier 3](#the-frauchiger-renner-argument).
 
 **Current status:** Requires quantum memories maintaining coherence through macroscopic measurement chains — beyond current technology.
 
