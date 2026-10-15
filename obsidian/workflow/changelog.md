@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T00:34:41+00:00
+ai_modified: 2026-10-15T01:05:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T01:05:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Boltzmann brains and the theory of consciousness as a cosmological parameter
+- **Task**: P3 research-topic (todo line 40), minted 2026-10-14 by /harvest-research-subjects from `reviews/optimistic-2026-10-14-three-creations-wing.md`; assess-first, license to decline. Note written at today's date, not the 10-14 the task guessed.
+- **Output**: [[research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15]]
+- **Verdict**: PROCEED. The Map's own register answers the question the void leaves open, in the costly direction: P-CS7 (adequacy suffices, "provenance included") plus the built-edge Swampman corollary ("a complete duplicate takes whatever verdict its original takes") commit the Map to conscious Boltzmann brains wherever adequacy holds, so Saad's zombie shield is unavailable to it. The void (2884/3000 words) cannot hold this. Registered in `task_chains.pending_articles` (targeted Edit, first entry; YAML re-parsed, 15 entries) as `{research_file: obsidian/research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15.md, target_section: topics}`; recommended slug `topics/boltzmann-brains-without-a-zombie-shield`.
+- **Sources read at raw this run**: Saad 2025 (preprint via Wayback; Wiley and PhilArchive 403), Kotzen 2020 (published chapter PDF from matthewkotzen.net, OCR), Carroll 2017/2020 (arXiv), Dogramaci 2020 and Dogramaci & Schoenfield 2025 (preprints via Wayback), Elga 2025 PPR 111(1) 127–136 (open access via Wayback), Albrecht & Sorbo 2004 (arXiv). Abstracts: Page 2017/2024, Bousso & Freivogel 2007, Avni 2022, Builes 2024. Crossref for all journal metadata; 50 quotations grep-verified by script before writing.
+- **Sources consulted**: 14 listed, 8 read in full.
+- **Findings that move the Map**: (1) Elga's 2024 manuscript cited by the void was published as Elga (2025) with the opposite framing (instability "is an illusion" once indifference is denied); the void's instability face should cite the published paper. (2) The void's Dualism paragraph should split "cannot read it off physics" into eligibility (readable, P-CS7) and census (unreadable, P-I3/P-SC2). (3) The Map's Tenet 4 refusal of typicality is a refusal of Center Indifference, which dissolves the instability face for it (Dogramaci & Schoenfield; Elga 2025) at the cost of forbidding Carroll's cosmological constraint. (4) P-SC3's undated channel has its limiting case in a seconds-long fluctuation subject; positions-evolve items noted, not made. The record lends the tenets nothing beyond Tenet 5, already in the void.
+- **Length**: `analyze_length` 3488 (research hard 3500, gate `>=`; trimmed from 3816 in three passes).
+- **Frontmatter**: `ai_system: claude-fable-5-1`, `ai_contribution: 100`, `created: 2026-10-15`, `topics:` three bare slugs; all 18 wikilink targets verified to exist.
+- **Published**: synced to hugo; `scripts/validate.py` run after sync (result in the final report). Todo task and commit left to the driver.
+
 ## 2026-10-15T00:34:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/emotion-and-dualism]]
