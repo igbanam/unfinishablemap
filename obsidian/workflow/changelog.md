@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T02:01:21+00:00
+ai_modified: 2026-10-15T06:42:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T06:42:07+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-15
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1; gemini-3-1-pro abandoned at launch 06:21Z, recorded as absent)
+- **Subject**: `positions/ai-consciousness-scope` (recent-aged fallback; both reviewers)
+- **Clusters**: 8 convergent article-level + 6 convergent methodology, 16 singleton, 6 divergent (2 adjudicated on disk: Nanda commissioning for Claude; coherence-only trigger NOT fired, against Claude)
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — P-AC4, P-AC1, ai-consciousness-typology IIT filing); P1 P-AC3 annotated as convergent, no raise
+- **Tasks deduplicated**: 0 (per-review passes had already merged the register tasks across both review files)
+- **Tasks minted**: 1 — P2 NEEDS-HUMAN (methodology ratification), `Status: blocked`, carrying the six convergent disciplines; parse_tasks active 123→124
+- **Output**: [[reviews/outer-review-synthesis-2026-10-15]]
+
 ## 05:13 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 (Research, 273 sources; hostile-referee audit of `positions/ai-consciousness-scope`, reuse of the 02:00 ChatGPT subject)
