@@ -2554,7 +2554,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/workflow/changelog.md
 - **Section**: workflow
-- **Status**: pending
+- **Status**: blocked
 - **Blocked-by**: human decision (site structure / commission-prompt wording)
 - **Source**: outer-review
 - **Generated**: 2026-10-15
