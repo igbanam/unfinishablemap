@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T09:53:47+00:00
+ai_modified: 2026-10-15T10:23:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T10:23:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-consequence-argument-for-incompatibilism]] (cycle-slot pick, score 110, last_deep_review 2026-07-19)
+- **Word count**: 2591 → 2684 (+93; topics soft 3000 / hard 4000, status ok, headroom 1315)
+- **Critical issues addressed**: 2 — (1) L27 said the argument was "formulated … in *An Essay on Free Will* (1983)" while L68 had Lewis (1981) answering "an earlier version"; origin is van Inwagen 1975 *Phil. Studies* 27(3): 185–199 (JSTOR scan read, DOI 10.1007/BF01624156) — lead now says "first set out … in a 1975 paper and given its canonical form in … (1983)". (2) L97 string sibling stranded by the 10-14 Lewis fix: the preceding sentence still called the interface "a lawful-looking but not physically-determined departure from what the prior physical state alone would fix" / "makes that divergence literal", contradicting the new "no violation is needed" sentence and Tenet 2's no-Born-violation clause; rewritten to "settles an outcome the prior physical state alone leaves open, within the Born statistics rather than against them".
+- **Medium issues addressed**: 3 — banned "This is not X. It is Y." at L64 rephrased; van Inwagen's 2000 concession that Beta is invalid added (SEP §5 verbatim; Crossref *Noûs* 34 s14: 1–19); Beta-2 attributed to Finch & Warfield 1998 (Crossref *Mind* 107(427): 515–528); L79 dispositional-compatibilist sentence (did not parse; named a premise the sources do not single out) rewritten to what the Fara abstract and NDPR/SEP glosses of Vihvelin license.
+- **Audit of the 10-14 L50 derivation**: matches SEP's seven-step list exactly (Alpha on the necessitated conditional, `NP0`/`NL` as separate premises, two Beta applications, no `N(P0 ∧ L)`); no defect. L91 Tenet-3 rewrite checked against `tenets.md` (outcome-selection; rationale = mental causation/self-stultification) — faithful; no calibration slippage.
+- **Citations**: 3 references added (van Inwagen 1975, van Inwagen 2000, Finch & Warfield 1998), all verified at Crossref/JSTOR/SEP; existing six left under the 07-19 fence. Inline ↔ References complete.
+- **Engagement modes**: expository; Lewis = Mode Three with the inversion marked (indeterminism removes the need for a miracle — a framework difference, not a refutation); dispositional compatibilists reported, not refuted. No label leakage.
+- **Enhancements made**: 4 (see review). Cross-links added: 0.
+- **Frontmatter**: ai_modified + last_deep_review → 2026-10-15T10:23:57+00:00; ai_system untouched (fable-5-1 already present).
+- **Output**: [[reviews/deep-review-2026-10-15-the-consequence-argument-for-incompatibilism]]
+- **Not done**: todo.md untouched (no task needed); no commit.
 
 ## 2026-10-15T09:53:47+00:00 - refine-draft
 - **Status**: Success
