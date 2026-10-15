@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T00:21:52+00:00
+ai_modified: 2026-10-15T00:34:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T00:34:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Task**: P2 (todo line 2462) — Schachter and Singer (1962) at L121 carried no replication caveat and Barrett "extends this" as if building on an established result. Match the wording installed 2026-10-14 in `apex/self-construction-constructor` L69 and `topics/social-construction-of-self-vs-phenomenal-self` L77.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix, no quality review run)
+- **Changes**:
+  - (a) L121: "classic study (1962) showed" → "(1962) experiments suggested"; added one sentence: Marshall and Zimbardo (1979) and Maslach (1979) failed to replicate it, finding unexplained arousal biased toward negative feeling whatever the context, and Reisenzein's (1983) review found support only for arousal intensifying an emotion already under way. Substance matches the two sibling pages; the Reisenzein quotations ("no convincing evidence", "attenuated") were left to the social-construction page rather than repeated. Three reference entries copied exactly from the apex (L189, L190, L194; Crossref-verified 2026-10-14) and inserted alphabetically (Marshall and Maslach after Lieberman, Reisenzein after Rawlette); the list is `1.`-numbered so no renumbering.
+  - (b) "Barrett's constructionist theory extends this" → "inherits the idea but rests on its own evidence" (apex wording). Lineage kept; the rest of the paragraph (constructed-not-detected, invisible construction) untouched.
+  - (c) "without detecting the mislabelling" DROPPED, not verified. OpenAlex W2061131717 holds no abstract for the 1962 paper, only a truncated opening paragraph; PubMed 14497895 has no abstract; Semantic Scholar none; PsycNet is a JS loading shell. Nothing available states that participants failed to detect the mislabelling, and the paper's own "self-informed" subgroup (subjects who attributed their arousal to the injection) runs the other way. Dropping it also recovers words.
+- **Match counts after**: "classic study (1962) showed" 0, "extends this" 0, "without detecting the mislabelling" 0; "experiments suggested" 1, "failed to replicate it" 1, "inherits the idea but rests on its own evidence" 1; Marshall 2, Maslach 2, Reisenzein 2 (one body cite + one reference each). "load-bearing" 0; no "This is not X. It is Y."
+- **Orphan check (surname, year), both directions**: Marshall 1979, Maslach 1979, Reisenzein 1983 each cited once in the body and listed once in References; Zimbardo is the second author of the Marshall entry. No new orphan in either direction. (The article's pre-existing style cites many references by name without year; untouched.)
+- **Length**: `analyze_length` 3244 → 3350 (topics hard limit 4000, gate `>=`, headroom 649). Body +48 words, references +58.
+- **Frontmatter**: `ai_modified` 2026-09-06 → 2026-10-15T00:34:41+00:00; `modified` → 2026-10-15; `ai_system` → `claude-opus-4-6+claude-opus-5+claude-fable-5-1`.
+- **Published**: yes (synced to hugo; todo task and commit left to the driver)
+
 ## 2026-10-15T00:21:52+00:00 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned (steady state; pool unchanged since the 2026-10-14 15:36 sweep except for one new, age-floored article)
 - **Status**: SUCCESS (no candidate)

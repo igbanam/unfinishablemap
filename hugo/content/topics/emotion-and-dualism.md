@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-06 14:06:42+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-15 00:34:41+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/emotional-consciousness/
@@ -29,7 +29,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-01-19
-date: &id001 2026-09-06
+date: &id001 2026-10-15
 description: Emotional consciousness provides the strongest empirical case for dualism.
   Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism,
   though it binds bare correlation, not the phenomenal-concept version.
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-09-06 14:06:42+00:00
+lastmod: 2026-10-15 00:34:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ Some emotions feel trivially shallow—mild annoyance—while others feel bottom
 
 Emotions feel like the most intimate facts about us, yet we often cannot say what we feel. This gap between *having* an emotion and *knowing what emotion we have* reveals something about the relationship between phenomenal experience and conceptual thought.
 
-Schachter and Singer's classic study (1962) showed participants interpreting identical physiological arousal differently depending on social context—as euphoria or anger—without detecting the mislabelling. Barrett's constructionist theory extends this: emotions are not detected through introspection but *constructed*. The brain generates affect and then categorises it using available concepts and context. The construction is invisible; what arrives in consciousness is the finished product.
+Schachter and Singer's (1962) experiments suggested that participants interpreted the same physiological arousal differently depending on social context—as euphoria or anger. The result has not held up well: Marshall and Zimbardo (1979) and Maslach (1979) failed to replicate it, finding unexplained arousal biased toward negative feeling whatever the context, and Reisenzein's (1983) review found support only for arousal intensifying an emotion already under way. Barrett's constructionist theory inherits the idea but rests on its own evidence: emotions are not detected through introspection but *constructed*. The brain generates affect and then categorises it using available concepts and context. The construction is invisible; what arrives in consciousness is the finished product.
 
 Alexithymia—difficulty identifying one's emotions, affecting ~10% of the population—opens this void further. People with alexithymia struggle to categorise their affect; whether that affect is present-but-unreachable or attenuated is unresolved ([alexithymia](/concepts/alexithymia/)). On the first reading, feeling and knowing are separate capacities. Under dualism, this is not merely a failure of introspective machinery. If emotions have irreducible phenomenal character, knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). The bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical. Emotional experience overflows its categories, and on this reading that overflow is structural rather than a defect.
 
@@ -214,10 +214,13 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt. (Ch. 5, "The Automaton-Theory.")
 1. LeDoux, J. E., & Brown, R. (2017). A higher-order theory of emotional consciousness. *Proceedings of the National Academy of Sciences*, 114(10), E2016-E2025.
 1. Lieberman, M. D., et al. (2007). Putting feelings into words: affect labeling disrupts amygdala activity. *Psychological Science*, 18(5), 421-428.
+1. Marshall, G. D., & Zimbardo, P. G. (1979). Affective consequences of inadequately explained physiological arousal. *Journal of Personality and Social Psychology*, 37(6), 970–988. https://doi.org/10.1037/0022-3514.37.6.970
+1. Maslach, C. (1979). Negative emotional biasing of unexplained arousal. *Journal of Personality and Social Psychology*, 37(6), 953–969. https://doi.org/10.1037/0022-3514.37.6.953
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Nussbaum, M. (2001). *Upheavals of Thought: The Intelligence of Emotions*. Cambridge University Press.
 1. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Reisenzein, R. (1983). The Schachter theory of emotion: Two decades later. *Psychological Bulletin*, 94(2), 239–264. https://doi.org/10.1037/0033-2909.94.2.239
 1. Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819. https://doi.org/10.1037/0022-3514.76.5.805
 1. Scarantino, A., & de Sousa, R. (2021). Emotion. *Stanford Encyclopedia of Philosophy*.
 1. Schachter, S., & Singer, J. (1962). Cognitive, social, and physiological determinants of emotional state. *Psychological Review*, 69(5), 379-399.
