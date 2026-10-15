@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-14 22:31:29+00:00
+ai_modified: 2026-10-15 00:21:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 00:00:00+00:00
+lastmod: 2026-10-15 00:21:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T00:21:52+00:00 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned (steady state; pool unchanged since the 2026-10-14 15:36 sweep except for one new, age-floored article)
+- **Status**: SUCCESS (no candidate)
+- **Pool delta since 15:36**: `git log --diff-filter=ADR` on topics/concepts/voids/archive shows a single change, `concepts/nondualistic-interactionism` added at 22:44 (created 2026-10-14; excluded by both the 60-day floor and the 10-14/10-15 `ai_modified` rule). No removals or renames. Gating counts by `tools.evolution.state.count_section_files`: concepts 359/370 (97.0%, most pressured, 11 slots), topics 348/370 (94.1%; raw file count 347, the known +1 over-count), voids 113/125 (90.4%). The 15:36 entry's eleven declined pairs were not re-read: none of those files changed since.
+- **Method**: exhaustive pairwise screen, not top-k. Per section: dropped index files and `.refinement-log` sidecars BEFORE pairing (1 topics sidecar caught), then `created` > 2026-08-16 (43 concepts / 28 topics / 15 voids), then any of `ai_modified`/`human_modified`/`modified` on 10-14 or 10-15 (22 / 38 / 7). Eligible: concepts 294, topics 281, voids 91. Four concepts created exactly 2026-08-16 (`agency-budget`, `moral-census-opacity`, `descriptive-experience-sampling`, `sign-problem-for-conscious-observation`) sit on the floor and were INCLUDED to be generous; none surfaced in any feasible pair. Body-only word counts from `tools.curate.length.analyze_length`; feasibility = combined count < hard (concepts 3500 / topics 4000 / voids 3000, gate `>=`), scored by frontmatter-tag Jaccard + slug-token Jaccard + mutual body links, with `Versus [[sibling]]` sentences detected and reported.
+- **Length-feasible pairs**: topics 0 of 39,340 (only one eligible topic is under 2000w; median 3412); voids 0 of 4,095 (none under 1500w; median 2618); concepts 137 of 43,071, every one of them containing at least one of the eight sub-1750w concepts (`mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497, `phenomenal-presentation` 1572, `the-agent-shaped-hole` 1609, `perception` 1671, `sellars-manifest-and-scientific-images` 1722, `prehension` 1779). Length, not subject, generates the 137.
+- **Concepts pairs read and declined**:
+  1. `phenomenal-presentation` (1572) + `phenomenal-depth` (1475) = 3047 — the only feasible pair with real proximity (tag J 0.26, slug J 0.33, one-way link). Signed: `phenomenal-presentation` L54 `**Versus [[phenomenal-depth]].**` ("depth describes its richness, presentation describes its givenness"), one of three Versus paragraphs in its §How Presentation Differs from Neighbouring Concepts. Dropped under the driver's Versus rule.
+  2. `causal-powers` (2114) + `mind-arena` (1380) = 3494 — two mutual links but tag J 0.18, slug J 0. General metaphysics of dispositional properties (powers vs categorical, manifestation, laws, downward causation; 13 inbound, 167 review-file mentions, 34 todo mentions) versus a Map-coined term for the domain of outcomes that pass through minds, built for the AI risk-mitigation argument and carrying its own `### Distinguishing the Mind-Arena from Related Map Terms` section. Different subjects; and at 6 words under the hard limit there is no room for a merge seam, let alone the coined term's tenet-alignment section.
+  3. `content-externalism` (1959) + `status-of-content` (1497) = 3456 — slug J 0.33 is the token "content" alone: Twin Earth / reference-internalist-about-felt-character hybrid versus Boghossian 1990's content-irrealism self-refutation argument against eliminativism. Zero mutual links, tag J 0.18. False friend.
+  4. `adaptive-computational-depth` + `phenomenal-depth` = 3425 — "depth" is a false friend (computational vs phenomenal); tag J 0.0.
+  5. `mind-arena` + `philosophy-of-mind` = 3317 and `perception` + `phenomenal-presentation` = 3243 — hub page plus one specialised term each; tag J 0.07 / 0.26, no mutual links.
+- **Near-feasible (hard ≤ sum < 1.2×hard) concepts pairs checked for fairness, all role splits**: `four-category-ontology` (1881) + `where-the-substance-commitment-enters` (1967) = 3848, tag J 0.36, mutual links — but the diagnostic page's Further Reading names Lowe's page as "the metaphysics behind the 'agent qua substance' phrasing this page localises" (L87): exposition vs diagnostic, 10% over with nothing redundant to shed. `interface-heterogeneity` (2159) + `universal-coupling-response` (1857) = 4016, tag J 0.32: whether coupling mechanisms differ in KIND across systems vs WHICH systems couple at all; 15% over. `phenomenal-overflow` + `phenomenal-presentation` = 3781: signed at presentation L56 `**Versus [[phenomenal-overflow]].**`. Topics NEAR leaders (`cognitive-immune-system` + `enteric-nervous-system` 4515; `attention-to-absence` + `phenomenology-of-place` 4753) and the voids NEAR set (`thrownness-void` with five siblings, 3462–3591) are all 13–25% over and tag J ≤ 0.36; not read on content.
+- **Finding**: unchanged from 15:36 — the pool is exhausted by role granularity. A merge now would require either breaking a signed Versus split or discarding 10–25% of two reviewed articles to buy one slot in a section with 11 left. Not justified.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-10-15T00:17:15+00:00 - research-topic
 - **Status**: Success
