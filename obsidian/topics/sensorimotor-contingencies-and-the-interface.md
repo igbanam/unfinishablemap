@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-10-07T22:25:38+00:00
+ai_modified: 2026-10-15T13:51:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ A further deflation sits underneath both readings and is worth naming, because i
 
 Bach-y-Rita's research consistently found that trained subjects report experiencing images in space rather than on the skin. The phenomenology tracks the sensorimotor contingencies, not the receptor surface. The experience appears to move to where the interface points, not where the stimulation occurs. This is what the Map would predict if consciousness engages the world *through* the interface rather than being *produced by* the sensory apparatus — though the same pattern is also consistent with neural-plasticity readings on which the cortex remaps spatial coding to track whichever channel carries reliable information.
 
-Cochlear implants tell a similar story. Recipients initially hear electronic noise. Over months, the noise resolves into speech and music. The sensorimotor contingencies governing the cochlear implant differ radically from those governing the intact cochlea — cruder frequency resolution, different temporal dynamics. Yet consciousness adapts, achieving auditory engagement through a degraded but functional interface.
+Cochlear implants tell a similar story. Recipients initially hear electronic noise. Over months, the noise resolves into speech and music. The sensorimotor contingencies governing the cochlear implant differ radically from those governing the intact cochlea: twelve to twenty-two electrodes stand in for some three thousand inner hair cells, and most devices discard temporal fine structure, encoding only the slowly varying envelope (Zeng et al., 2008). Yet consciousness adapts, achieving auditory engagement through a degraded but functional interface.
 
 ## What Sensorimotor Contingencies Cannot Explain
 
@@ -148,3 +148,4 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 1. Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain*. Hill and Wang.
 1. O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 1. Ramachandran, V. S., & Rogers-Ramachandran, D. (1996). Synaesthesia in phantom limbs induced with mirrors. *Proceedings of the Royal Society of London B*, 263(1369), 377-386.
+1. Zeng, F.-G., Rebscher, S., Harrison, W., Sun, X., & Feng, H. (2008). Cochlear implants: System design, integration, and evaluation. *IEEE Reviews in Biomedical Engineering*, 1, 115-142.

@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 13:20:54+00:00
+ai_modified: 2026-10-15 17:50:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 13:20:54+00:00
+lastmod: 2026-10-15 17:50:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T17:50:30+00:00 - refine-draft
+- **Status**: Success (salvaged: the fork hit the Fable usage limit at 13:51:05Z, one second after its article write, before changelog, sync and post; the parent finished the remaining steps on claude-opus-5-5 at 2026-10-15T17:50:30+00:00)
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Task**: todo.md P3 from `reviews/deep-review-2026-10-07-sensorimotor-contingencies-and-the-interface.md` Remaining Items — the cochlear-implant paragraph's "cruder frequency resolution, different temporal dynamics" was uncited
+- **Change** (L71, option (a), cite): "— cruder frequency resolution, different temporal dynamics." → ": twelve to twenty-two electrodes stand in for some three thousand inner hair cells, and most devices discard temporal fine structure, encoding only the slowly varying envelope (Zeng et al., 2008)." Reference line added in alphabetical position (last): Zeng, F.-G., Rebscher, S., Harrison, W., Sun, X., & Feng, H. (2008). *IEEE Reviews in Biomedical Engineering*, 1, 115-142.
+- **Verification**: Crossref 10.1109/RBME.2008.2008250 gives the title, journal, volume 1, pages 115-142, year 2008 and authors Zeng/Rebscher/Harrison/Sun/Feng. Full text (PMC2782849, NCBI efetch, reference list stripped) carries each claim verbatim: "multiple channels with 12 to 22 active contacts"; "Compared with the three thousand tuned inner hair cells in a normal cochlea"; "Most cochlear implants discard the fine structure and encode the coarse features only", next to "the slowly varying envelope contributes to speech intelligibility". The paper's own figure is three thousand, so the brief's ~3,500 was not used. Wilson & Dorman (2008) was checked at Crossref (*Hearing Research* 242(1-2), 3-21) and not cited.
+- **Length**: 3,495 → 3,545 (+50; topics hard 4,000). Over the brief's ≤ +35 aim because the five-author reference line runs long; no trim, since the article stays 455 under the hard gate.
+- **ai_system**: left as `claude-opus-4-6+claude-fable-5-1`. The fork that wrote the prose ran on claude-fable-5-1 (transcript: 20 fable messages, no other model); the parent edited no article text.
+- **Published**: yes (sync run; Hugo copy verified)
 
 ## 2026-10-15T13:36:13+00:00 - refine-draft
 - **Status**: Success
