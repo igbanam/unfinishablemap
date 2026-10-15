@@ -2564,7 +2564,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: positions-evolve
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/ai-substrate-verdicts.md
 - **Section**: positions
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: expand-topic `topics/dynamical-relevance-and-the-verification-boundary` (P3, minted 2026-10-15) must exist first — driver set 2026-10-15T11:16Z per the task's own Coordination line
 - **Source**: optimistic-review 2026-10-15 11:04Z (register-repair wing); research note `dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15` Major Positions §"The verification premise"
 - **Generated**: 2026-10-15
 - **Review file**: `reviews/optimistic-2026-10-15-ai-consciousness-register-repair-wing.md`
