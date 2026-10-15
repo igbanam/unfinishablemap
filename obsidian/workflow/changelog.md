@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T22:19:57+00:00
+ai_modified: 2026-10-15T22:35:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T22:35:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-replacement task)
+- **Review**: reviews/tenet-check-2026-10-08.md, Warnings §4 (old/new text extracted by script; each old string confirmed exactly once before substitution)
+- **Changes**: (1) L157, applied FIRST: the retired modulation reading ("in neural substrates—where the localisation rate is too slow…—consciousness biases *which* element… it shapes the existing one at a substrate the baseline dynamics under-determines") replaced with the report's preemption wording ("in interface-grade brains consciousness preempts *which* element the same collapse process would have delivered, within Born statistics… it preempts the existing one where an interface is present"), so the paragraph no longer contradicts L155's "fix collapse and outcome universe-wide" (−15). (2) L155: the closing clause "consciousness preempts outcomes only where neural systems present the right substrate." gains "…, under a priority law still owed as an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]." — the clause every other sweep carrier already had (+11). Calibration: both repairs lower the grade (preemption now marked as a posit under open mechanism debt, P-Q3/P-Q10); none raises one. L157's type-count sentence and "the modulation term still has to be posited" left untouched per the report. Pronoun check: in the new L157, "it preempts the existing one" still takes Consciousness as subject and "the existing one" = the existing route to definiteness; no repair needed. Only L155 and L157 touched (L143 owned by the 2026-10-09 P3, commit 71bd8b8d22).
+- **Length**: 3,988 → 3,973 (after L157) → 3,984 (`analyze_length`, topics hard 4,000; net −4)
+- **Frontmatter**: ai_modified bumped; ai_system deduped `claude-opus-4-7+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5` → `claude-opus-4-7+claude-fable-5-1+claude-opus-5-5` (keep-last; nothing appended)
+- **Published**: yes
 
 ## 2026-10-15T22:19:57+00:00 - refine-draft
 - **Status**: Success
