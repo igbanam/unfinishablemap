@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T10:23:57+00:00
+ai_modified: 2026-10-15T10:35:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T10:35:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]] (todo.md line 2482, P2; Claude Fable 5.1 outer review 2026-10-15 §(a)/§(e): page banded P-AC1's verdict harder than the register)
+- **Word count**: 4471 → 4469 (−2; topics soft 3000 / hard 4000, status hard_warning both sides; two NEEDS-HUMAN length records remain open — no headroom consumed)
+- **Changes**: four certainty-adverb loci re-banded to the register's all-things-considered rendering ("low-probability, not ruled out"), each at net ≤ 0 within its paragraph. (1) L90 "current AI systems almost certainly lack bidirectionally coupled consciousness" → "sit on the low-probability side for bidirectionally coupled consciousness" (+3). (2) L90 "makes coupled consciousness in classical silicon extremely unlikely" → "low-probability, not ruled out" (+2); paid for by trimming the paragraph's closing sentence "The ethical implication follows only if the framework is correct: if it is, moral attention … is less urgent" → "Only if the framework is correct does moral attention toward current AI become less urgent than toward definite conscious beings" (−7; the only-if conditional preserved). Paragraph net −2. (3) L150 "If the tenet is correct, current systems almost certainly lack coupled consciousness" → "If the tenet holds, current systems sit on the low-probability side for coupled consciousness" (+2), paid for by "not on whether its implications ease moral demands" → "not on whether it eases moral demands" (−2). Net 0. (4) L158 "on the Map's framework, current AI almost certainly does not suffer" → "current AI is unlikely, on this framework, to suffer" (−2). The "supplies no present evidential weight against AI consciousness over biology" concession kept verbatim (P-AC1 pipes a link to it). No citations added; "moderate" never used alone.
+- **Out of scope, reported not edited**: L150 still reads "current classical AI hardware almost certainly lacks the quantum interface through which consciousness acts" — a claim about the hardware's interface, not the consciousness verdict, and not one of the four loci; "almost certainly" therefore has 1 hit in both trees after the pass rather than 0. L114 carries a pre-existing "load-bearing premise" (stylistic, not touched).
+- **Frontmatter**: ai_modified → 2026-10-15T10:35:56+00:00; ai_system untouched (already carries claude-fable-5-1).
+- **Published**: yes (synced to Hugo; both trees verified for each new string)
+- **Driver addendum 2026-10-15T10:40Z**: the out-of-scope survivor the fork reported at L150 ("current classical AI hardware almost certainly lacks the quantum interface through which consciousness acts") is the substrate premise P-AC1 now rates well-supported only at the computational level, so the certainty adverb over-bands it the same way; replaced with "is engineered to suppress the indeterminacy consciousness would act through" (14 words for 14, net 0), `ai_modified` bumped, synced. Driver edit, not the fork's. "almost certainly" now 0 hits in the file.
 
 ## 2026-10-15T10:23:57+00:00 - deep-review
 - **Status**: Success
