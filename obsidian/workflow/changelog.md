@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T01:28:26+00:00
+ai_modified: 2026-10-15T02:01:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T02:01:21+00:00 - research-topic
+- **Status**: Success (verdict FOLD-IN; no pending article registered)
+- **Topic**: Semantic satiation as an inducible dissociation of felt meaning from competence
+- **Output**: [[research/semantic-satiation-and-felt-meaning-2026-10-15]]
+- **Sources consulted**: 24 (Tian & Huber 2010, Moulin et al. 2021, Ströberg et al. 2017, Zhang et al. 2024, Başoğlu 2026, Nes 2017 at raw; Kounios 2000, Balota & Black 1997, Pilotti 1997, Frenck-Mestre 1997, Kuhl & Anderson 2011, Mooneyham & Schooler 2016, Zareen 2025 at abstract; the rest metadata or secondary-mediated)
+- **Dissociation answer**: competence (accuracy, recognition) survives; speed and priming degrade by tens of ms; no study pairs trial-level felt-meaning reports with a competence measure on the same items
+- **Fold-in targets**: `concepts/phenomenal-constitution-thesis` (one paragraph), `positions/thought-and-understanding` P-TU1 *Would shift if* (one clause + dated Updated line), `voids/recognition-void` L67 (citation correction: "Moulin & Bell, 2021" → five-author paper; "reliably" overstated; Zhang 2024 is real but "explains the mechanism" overstated), `topics/memory-anomalies` L61 ("reliably" → "in about a third of trials")
+
 ## 2026-10-15T01:39:49+00:00 - research-topic
 - **Status**: Success (verdict FOLD-IN; no pending article registered)
 - **Topic**: Sibley's aesthetic concepts and the non-condition-governed gap
