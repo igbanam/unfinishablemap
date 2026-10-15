@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T12:09:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-versus-leeway-incompatibilism](/concepts/source-versus-leeway-incompatibilism/)
+- **Word count**: 2096 → 2147 (+51); concepts hard gate 3500, headroom 1352
+- **Critical issues addressed**: 2 — (1) L51 Pereboom quote was an adapted string ("results ... beyond his control"); search-within-volume on *Living Without Free Will* (control "Professor Plum" passed) returns 0 hits for it and the verbatim span is p. 3 "a deterministic causal process that traces back to factors beyond one's control"; quotes now enclose only that span, "(Pereboom 2001, p. 3)" added. (2) L66 was a stranded string sibling of the 10-14 Tenet 5 fix: it still ran the luck objection unscoped ("it adds luck, not control") against all indeterministic restoration while L82 scopes it to event-causal sourcehood; L66 now names both strands (luck vs event-causal; wild coincidences vs agent causation, anchored to 2001 pp. 80/82 "coincidences so wild ... incredible"). L82 checked against tenets.md L131 and the manipulation L70 / ECL L90 wording: consistent; no other line lets Tenet 5 reach the coincidences strand.
+- **Medium issues addressed**: 3 — wing-review low notes L44 (survey claim "most compatibilists / most incompatibilists" → "largely welcomed / split") and L74 (false universal "every source theorist builds on" Fischer → "shared across the aisle"); Frankfurt 1969 inline↔References orphan closed (entry in the Frankfurt-cases article's form).
+- **Citation ledger**: Timpe 2007 real-correct (PDF extracted locally; "widely accepted taxonomy", McKenna from 2001, Pereboom 2003 p. 186 all grep-confirmed); Pereboom 2003 real-correct (pp. 185–199); Pereboom 2001 metadata real-correct, body quote corrected; Vihvelin SEP L38 paraphrase real-correct (wing 10-13 grep + today's fetch). Kane/Stump not cited here.
+- **Engagement modes** (editor-internal): Pereboom — Mixed (both strands Mode Three, verdict unchanged, symmetric concession kept); Fischer — exposition only.
+- **Enhancements made**: 0 cross-links (Further Reading already complete).
+- **Output**: [deep-review-2026-10-15-source-versus-leeway-incompatibilism](/reviews/deep-review-2026-10-15-source-versus-leeway-incompatibilism/)
+
 ## 2026-10-15T11:49:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)

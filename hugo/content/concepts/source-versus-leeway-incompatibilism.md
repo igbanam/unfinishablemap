@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-14 20:38:46+00:00
+ai_modified: 2026-10-15 12:09:16+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -16,8 +16,8 @@ description: Leeway incompatibilism requires alternative possibilities; source i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-19 17:48:41+00:00
-lastmod: 2026-10-14 20:38:46+00:00
+last_deep_review: 2026-10-15 12:09:16+00:00
+lastmod: 2026-10-15 12:09:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,14 +45,14 @@ The two are not simply rivals. As the *Stanford Encyclopedia of Philosophy* note
 
 The distinction became consequential because of a specific historical pressure. In 1969 Harry Frankfurt constructed [counterexamples to PAP](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/): a counterfactual intervener stands ready to force an agent's choice if he should waver, but never has to act, because the agent decides on his own. The agent could not have done otherwise—the intervener guaranteed the outcome—yet he seems fully responsible, since the guarantee played no role in what actually happened.
 
-If the Frankfurt intuition holds, responsibility can be present while alternatives are absent, and PAP is false. Most compatibilists were persuaded; most incompatibilists were not. But the deeper effect was to *reorganize* incompatibilism. An incompatibilist convinced that PAP fails need not abandon incompatibilism—she can retreat from leeway to source, holding that determinism defeats responsibility by poisoning the actual causal history rather than by removing alternatives. Frankfurt cases are thus the fulcrum on which much of the field pivoted from leeway toward source framings, among compatibilists and incompatibilists alike. The migration is contested at every step (the "flicker of freedom" and dilemma-defense replies keep PAP alive), but the *direction* of gravity is widely reported.
+If the Frankfurt intuition holds, responsibility can be present while alternatives are absent, and PAP is false. Compatibilists largely welcomed the result; incompatibilists split between resisting it and conceding it. But the deeper effect was to *reorganize* incompatibilism. An incompatibilist convinced that PAP fails need not abandon incompatibilism—she can retreat from leeway to source, holding that determinism defeats responsibility by poisoning the actual causal history rather than by removing alternatives. Frankfurt cases are thus the fulcrum on which much of the field pivoted from leeway toward source framings, among compatibilists and incompatibilists alike. The migration is contested at every step (the "flicker of freedom" and dilemma-defense replies keep PAP alive), but the *direction* of gravity is widely reported.
 
 ## Where the Map's Three Incompatibilism Arguments Sit
 
 This taxonomy organizes three arguments the Map treats in detail, and reading them through it clarifies what each one is doing.
 
 - The [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) (van Inwagen) is a **leeway** argument. Its conclusion is that, under determinism, we *cannot do otherwise*: our acts are the consequences of the remote past and the laws, over neither of which we have any choice. It closes off alternatives, and its force is a claim about foreclosed options.
-- The [Manipulation Argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) (Pereboom) is a **source** argument. It never mentions alternatives. What defeats responsibility, across the four cases, is that the agent's action "results from a deterministic causal process that traces back to factors beyond his control"—a claim about causal *history*, not about foreclosed options. The determined agent is relevantly like the covertly manipulated one because both have their springs of action set from outside.
+- The [Manipulation Argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) (Pereboom) is a **source** argument. It never mentions alternatives. What defeats responsibility, across the four cases, is that the agent's action results from "a deterministic causal process that traces back to factors beyond one's control" (Pereboom 2001, p. 3)—a claim about causal *history*, not about foreclosed options. The determined agent is relevantly like the covertly manipulated one because both have their springs of action set from outside.
 - [Frankfurt cases](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) are the **pivot** between them. They attack the leeway assumption the Consequence Argument trades on, and in doing so they motivate the retreat to source that the Manipulation Argument then exploits.
 
 So the concept is the hub the three topic arguments link into: one names the leeway wing, one names the source wing, and one marks the hinge that turned the field from the first toward the second.
@@ -67,7 +67,7 @@ The wide view is a bridge. It concedes that sourcehood is the fundamental requir
 
 A frequent error is to treat "source incompatibilist" as a synonym for "libertarian." It is not, and the difference is the sharpest calibration point in this whole area.
 
-Source incompatibilism is a claim about *what free will would require*—ultimate origination, incompatible with determinism. It says nothing about whether that requirement is ever *met*. Derk Pereboom is the decisive example: he holds the source premise in full, yet denies that we have free will at all. His **hard incompatibilism** argues that determinism defeats sourcehood *and* that the indeterminism our physics might supply cannot restore it (it adds luck, not control). Pereboom is a source incompatibilist who concludes we should live *without* free will.
+Source incompatibilism is a claim about *what free will would require*—ultimate origination, incompatible with determinism. It says nothing about whether that requirement is ever *met*. Derk Pereboom is the decisive example: he holds the source premise in full, yet denies that we have free will at all. His **hard incompatibilism** argues that determinism defeats sourcehood *and* that the indeterminism our physics might supply cannot restore it: event-causal indeterminism adds luck rather than control, and agent causation, which he grants could in principle supply the control, would on his view require coincidences too wild to credit. Pereboom is a source incompatibilist who concludes we should live *without* free will.
 
 Libertarians and hard incompatibilists therefore *share* the source premise and diverge only on whether it is satisfiable. The libertarian says ultimate origination is real; the hard incompatibilist says it is not to be had. Reading source incompatibilism as inherently libertarian collapses that disagreement and misrepresents the position's most prominent defender.
 
@@ -75,7 +75,7 @@ Libertarians and hard incompatibilists therefore *share* the source premise and 
 
 The taxonomy is cross-cutting because the same source-versus-leeway split runs through compatibilism. The clearest case is John Martin Fischer and Mark Ravizza's *Responsibility and Control* (1998), the paradigm **actual-sequence** compatibilist account. Responsibility, on their view, requires **guidance control**—the action must issue from the agent's *own*, appropriately [reasons-responsive](/concepts/reasons-responsiveness/) mechanism—rather than **regulative control**, the dual power to do otherwise. Reasons-responsiveness is analyzed counterfactually, but the responsibility-grounding fact is a property of the *actual* mechanism.
 
-Fischer's **semicompatibilism** then holds that moral responsibility is compatible with determinism (it needs only guidance control) even if the freedom to do otherwise is not. This is an actual-sequence, source-flavored view on the compatibilist side of the aisle. It shows that the source/actual-sequence framing is neutral between compatibilism and incompatibilism: source incompatibilism is, structurally, what you get by taking Fischer's actual-sequence emphasis and *adding* the claim that the actual sequence must not be deterministic. Fischer's own template is the one every source theorist builds on, which is why the taxonomy cannot be read as a proprietary incompatibilist device.
+Fischer's **semicompatibilism** then holds that moral responsibility is compatible with determinism (it needs only guidance control) even if the freedom to do otherwise is not. This is an actual-sequence, source-flavored view on the compatibilist side of the aisle. It shows that the source/actual-sequence framing is neutral between compatibilism and incompatibilism: source incompatibilism is, structurally, what you get by taking Fischer's actual-sequence emphasis and *adding* the claim that the actual sequence must not be deterministic. The actual-sequence emphasis is shared across the aisle rather than owned by either side, which is why the taxonomy cannot be read as a proprietary incompatibilist device.
 
 ## Relation to Site Perspective
 
@@ -103,6 +103,7 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 
 ## References
 
+1. Frankfurt, H.G. (1969). Alternate Possibilities and Moral Responsibility. *The Journal of Philosophy*, 66(23), 829–839. https://doi.org/10.2307/2023833
 1. Timpe, K. (2008). *Free Will: Sourcehood and Its Alternatives*. London: Continuum. ISBN 9780826496256. (2nd edn, Bloomsbury, 2013.)
 1. Timpe, K. (2007). Source Incompatibilism and Its Alternatives. *American Philosophical Quarterly*, 44(2), 143–155.
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge: Cambridge University Press. ISBN 9780521791984.
