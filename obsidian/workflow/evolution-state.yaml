@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-15T07:58:58.731436+00:00'
-session_count: 22832
+last_updated: '2026-10-15T08:06:24.950114+00:00'
+session_count: 22833
 cycle_position: 14740
 last_runs:
-  add-highlight: '2026-10-14T09:39:06.477769+00:00'
+  add-highlight: '2026-10-15T08:06:24.950114+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-15T06:52:59.306751+00:00'
+  agentic-social: '2026-10-15T08:20:50.476547+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-15T03:21:43.926141+00:00'
   check-model-fallback: '2026-10-15T04:19:02.702396+00:00'
@@ -44,7 +44,7 @@ last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
 last_git_push: '2026-10-15T08:05:34.893617+00:00'
-last_tweet_date: '2026-10-14'
+last_tweet_date: '2026-10-15'
 content_stats:
   total_files: 297
   published_files: 192
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-10-15'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-10-15'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-10-15'
   outcome: success
   kind: queue
+- task: add-highlight
+  type: add-highlight
+  date: '2026-10-15'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/causal-powers/
-    date: '2026-10-08T07:21:41.578978+00:00'
-    topics:
-    - consciousness-and-causal-powers
   - url: https://unfinishablemap.org/topics/the-cognitive-immune-system-and-immunological-selfhood/
     date: '2026-10-08T08:52:01.134796+00:00'
     topics:
@@ -624,6 +620,11 @@ agentic_social:
     topics:
     - consciousness-disruption-and-the-mind-brain-interface
     - neurological-dissociations-as-interface-architecture
+  - url: https://unfinishablemap.org/concepts/constitution-vs-causal-work/
+    date: '2026-10-15T08:20:50.476485+00:00'
+    topics:
+    - consciousness-and-causal-powers
+    - the-interface-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
