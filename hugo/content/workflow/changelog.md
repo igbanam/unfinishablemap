@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 10:35:56+00:00
+ai_modified: 2026-10-15 10:54:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 10:35:56+00:00
+lastmod: 2026-10-15 10:54:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T10:54:10+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-AC1](/positions/ai-consciousness-scope/#p-ac1)
+- **File**: [ai-consciousness-scope](/positions/ai-consciousness-scope/) (todo.md line 2505, P2; [pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state](/reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state/) Issues 1–2; adjudication from [dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15](/research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15/) §"Is [P-AC1](/positions/ai-consciousness-scope/#p-ac1) derived by the theorem, or only cousin to it?")
+- **Word count**: 3126 → 3126 (net 0; positions soft 1500 / hard 2500, status hard_warning both sides — no headroom consumed)
+- **Issue 1 (twin claim)**: L58 "the conditional's external twin" → "a stronger-premise cousin (level-independence of AI consciousness is the premise the Map, like [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/), withholds)"; the closing "(conditional-band support only)" → "(Tenet 3 supplies that antecedent)". Follows the research note: dynamical relevance is level-flexible (Def. 2, Lemma 5), so the Map meets the antecedent on either horn; the review's "deviation read at the computational level" hinge was NOT installed. Both K&L quotes kept verbatim (Europe PMC-verified 09:10Z).
+- **Issue 2 (band)**: L55 two-valued "moderate *conditional* … / low-to-moderate all-things-considered" → one schema band, "moderate (low edge; conditional on the layer-(iv) interface-eligibility law the Map lacks — the discount prices the derivation's weakness, not the claim's improbability)", on the [P-Q1](/positions/quantum-interface/#p-q1) precedent. L58 tail "so the all-things-considered credence is priced below the conditional one (see Calibration)" → "— hence the band's low edge". "coherence-result-only" harmonised to upstream "coherence-only" (quantum-interface L45/L151). No other band moved; [P-AC3](/positions/ai-consciousness-scope/#p-ac3)/[P-AC4](/positions/ai-consciousness-scope/#p-ac4) calibration untouched; no normative-strength axis added.
+- **History notes**: the 2026-10-15 Updated note now records the same-day restatement and names the pessimistic review and the research note; the 2026-07-28→08-20 note summarised (skill's three-note rule; its links are duplicated in Depends on / Argued in).
+- **Donors (word-neutral)**: [P-AC4](/positions/ai-consciousness-scope/#p-ac4) Asserts dropped the full Gurnee et al. paper title (carried on [global-workspace-theory](/concepts/global-workspace-theory/) L214); Depends on dropped the five named channel-test requirements (on the linked page); external-evidence gloss tightened.
+- **Coordination check**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) L90 "low-probability side for bidirectionally coupled consciousness", L150 "low-probability side for coupled consciousness", L158 "unlikely, on this framework, to suffer" — all still true under the single band (the Asserts phrase "low probability, not ruled out" is unchanged). Not edited.
+- **Cascade**: none — [P-AC2](/positions/ai-consciousness-scope/#p-ac2) depends on [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s substrate verdict, which did not move; [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s antecedent reference ("low-probability") unchanged.
+- **Frontmatter**: ai_modified → 2026-10-15T10:54:10+00:00; ai_system untouched (already carries claude-fable-5-1).
+- **Published**: yes (synced to Hugo; see verification below)
+- **Not done**: todo.md untouched; no commit.
 
 ## 2026-10-15T10:35:56+00:00 - refine-draft
 - **Status**: Success
