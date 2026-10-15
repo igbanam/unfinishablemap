@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 19:50:01+00:00
+ai_modified: 2026-10-15 21:05:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 19:50:01+00:00
+lastmod: 2026-10-15 21:05:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T21:05:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The collapse-priority problem: the priority law owed between objective reduction and interface preemption (debt statement, not a resolution)
+- **Output**: [collapse-priority-problem-2026-10-15](/research/collapse-priority-problem-2026-10-15/)
+- **Sources consulted**: 19 cited (15 read in full text or abstract with quotations grep-verified against the fetched text, 4 metadata-only via Crossref), plus 9 leads left UNVERIFIED (Frigg & Hoefer 2007; Myrvold 2002; Kremnizer & Ranchin 2015; Maudlin 2011; Tumulka 2020; Ghirardi & Grassi 1996; Ghirardi 2000; Gisin 1989; Adler, Brody, Brun & Hughston 2001)
+- **Key findings**: GRW's WHEN/WHERE split and the Brody–Hughston outcome-variable-plus-independent-noise representation give corridor preemption an exact formal home; a no-delay clause is required because selector-controlled timing would bias outcomes while each collapse stays Born; relativistic collapse makes the joint law covariant but not the order of realisations (Esfeld & Gisin; Gisin; contested by Tumulka), so a covariant priority law needs a foliation, a timeless global selector, or type-keyed precedence (which leans on interface locality)
+- **Chain**: `task_chains.pending_articles` entry added (target_section concepts, suggested_slug collapse-priority-problem)
+
+## 2026-10-15T20:38:49+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 110 live window files plus tenets.md (window e8f62f93aa..8da43747ae; 5 new, 105 modified), a 40-file random sample of Relation sections, and a strong-phrase scan of all 885 files in the five sections
+- **Errors**: 0
+- **Warnings**: 15 entries covering 32 loci: 8 window entries, 3 carried unchanged from check 150, 4 from the wider sample
+- **Notes**: 8 (two point to blocked human-decision tasks already queued, todo L2333 and L2341)
+- **Output**: [tenet-check-2026-10-15](/reviews/tenet-check-2026-10-15/)
 
 ## 2026-10-15T19:50:01+00:00 - refine-draft
 - **Status**: Success

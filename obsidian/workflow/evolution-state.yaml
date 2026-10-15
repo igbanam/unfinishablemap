@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-15T20:04:47.806300+00:00'
-session_count: 22865
+last_updated: '2026-10-15T20:40:31.869989+00:00'
+session_count: 22866
 cycle_position: 14760
 last_runs:
   add-highlight: '2026-10-15T08:06:24.950114+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-15T03:21:43.926141+00:00'
   check-model-fallback: '2026-10-15T17:53:52.222559+00:00'
-  check-tenets: '2026-10-14T08:59:20.346304+00:00'
+  check-tenets: '2026-10-15T20:40:31.869989+00:00'
   coalesce: '2026-10-15T13:22:09.264798+00:00'
   collect-chatgpt-review: '2026-10-15T04:48:50.599514+00:00'
   collect-claude-review: '2026-10-15T05:14:30.697503+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 672
-  reviews_completed: 8003
+  reviews_completed: 8004
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-15'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-15'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-15'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-10-15'
   outcome: success
   kind: trigger
@@ -708,6 +708,9 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/voids-impossible-percept-void-2026-10-15.md
     target_section: voids
+  - research_file: obsidian/research/collapse-priority-problem-2026-10-15.md
+    target_section: concepts
+    suggested_slug: collapse-priority-problem
   pending_cross_reviews:
   - new_article: concepts/nondualistic-interactionism.md
     review_targets:

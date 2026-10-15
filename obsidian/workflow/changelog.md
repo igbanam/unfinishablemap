@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T20:38:49+00:00
+ai_modified: 2026-10-15T21:05:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T21:05:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The collapse-priority problem: the priority law owed between objective reduction and interface preemption (debt statement, not a resolution)
+- **Output**: [[research/collapse-priority-problem-2026-10-15]]
+- **Sources consulted**: 19 cited (15 read in full text or abstract with quotations grep-verified against the fetched text, 4 metadata-only via Crossref), plus 9 leads left UNVERIFIED (Frigg & Hoefer 2007; Myrvold 2002; Kremnizer & Ranchin 2015; Maudlin 2011; Tumulka 2020; Ghirardi & Grassi 1996; Ghirardi 2000; Gisin 1989; Adler, Brody, Brun & Hughston 2001)
+- **Key findings**: GRW's WHEN/WHERE split and the Brody–Hughston outcome-variable-plus-independent-noise representation give corridor preemption an exact formal home; a no-delay clause is required because selector-controlled timing would bias outcomes while each collapse stays Born; relativistic collapse makes the joint law covariant but not the order of realisations (Esfeld & Gisin; Gisin; contested by Tumulka), so a covariant priority law needs a foliation, a timeless global selector, or type-keyed precedence (which leans on interface locality)
+- **Chain**: `task_chains.pending_articles` entry added (target_section concepts, suggested_slug collapse-priority-problem)
 
 ## 2026-10-15T20:38:49+00:00 - check-tenets
 - **Status**: Warnings
