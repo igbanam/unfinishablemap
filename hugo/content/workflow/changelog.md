@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 17:50:30+00:00
+ai_modified: 2026-10-15 18:26:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 17:50:30+00:00
+lastmod: 2026-10-15 18:26:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T18:26:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [doxastic-voluntarism](/concepts/doxastic-voluntarism/)
+- **Selection**: `scripts/deep_review.py next` (score 102, never reviewed; article written 2026-10-13)
+- **Word count**: 2960 → 2983 (+23; ~20 of it editor names in two References entries; concepts hard 3500, headroom 517)
+- **Critical issues addressed**: 1 — §Map's Reading said "The involuntarist literature answers on any metaphysics"; only the conceptual strand does (the article's own psychological ground and Booth 2017 make the limit contingent). Scoped to "Conceptual involuntarism", anchored to Hieronymi 2009's verbatim "reveals no genuine lack in our powers of mind", with the condition stated ("on the psychological ground alone, the limit would be a contingent fact about human minds and the reply would weaken"); lead sentence given the matching qualifier
+- **Medium issues addressed**: 2 — Crowe 2026 no longer filed under "Permissivist voluntarism" (abstract grounds it in existential reasons, body unreadable; bullet re-headed "Limited voluntarism", underdetermination attached to Ginet alone); Cusimano & Goodwin "shows" → "suggests"
+- **Enhancements made**: 4 — References editors added for Steup 2023 (Cyr, Law & Tognazzini eds., Fischer festschrift) and Singh 2026 (Lewis-Jong & Schwitzgebel eds.) from Crossref book records; zero-cost piped links [moral-responsibility](/concepts/moral-responsibility/) and [agent-causation](/concepts/agent-causation/); offsetting trims of four redundancies
+- **Citation web-verify**: 26/26 external entries checked (Crossref all; OpenAlex abstracts 15; SEP raw HTML grepped for 7 quotations + Holcot, Ginet, Setiya, Pascal placement; Hieronymi 2006 postprint PDF grepped for 5 body quotations). 24 real-correct, 2 real-wrong-metadata (missing editors, fixed), 0 fabricated. Peels 2014 quotation, marked "not reached" in the research note, now verified verbatim in the PPR abstract. Shah & Velleman body paraphrase carried on the 10-07 grep (PDF unreachable)
+- **Engagements**: Steup 2008/2023 Mode One (guidance control granted in his own terms, shown to confer no power to install a belief for a practical reason); Hieronymi parity vs decision-void ranking: axis separation, no refutation claimed; deflationary physicalist on the felt-doing gap: Mode Three. No label leakage
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-10-15T18:26:15+00:00; `ai_system` left as `claude-opus-5-5` (component already present); `modified` unchanged
+- **Output**: [deep-review-2026-10-15-doxastic-voluntarism](/reviews/deep-review-2026-10-15-doxastic-voluntarism/)
 
 ## 2026-10-15T17:50:30+00:00 - refine-draft
 - **Status**: Success (salvaged: the fork hit the Fable usage limit at 13:51:05Z, one second after its article write, before changelog, sync and post; the parent finished the remaining steps on claude-opus-5-5 at 2026-10-15T17:50:30+00:00)

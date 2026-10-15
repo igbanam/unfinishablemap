@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-13 10:19:31+00:00
+ai_modified: 2026-10-15 18:26:15+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,8 +17,8 @@ description: 'Human+AI account of whether belief can be chosen: psychological an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
-lastmod: 2026-10-13 10:19:31+00:00
+last_deep_review: 2026-10-15 18:26:15+00:00
+lastmod: 2026-10-15 18:26:15+00:00
 modified: *id001
 related_articles:
 - '[[assent-void]]'
@@ -39,7 +39,7 @@ topics:
 
 **Doxastic voluntarism** is the thesis that at least some beliefs are under direct voluntary control: that a person can come to believe a proposition "just like that", by deciding to, as one raises a hand. Its denial, **involuntarism**, is the majority view in contemporary epistemology, but it rests on two different grounds with different reach. On the *psychological* ground (Alston 1988), humans happen to lack the capacity. On the *conceptual* ground (Williams 1973; Hieronymi 2006), belief's constitutive relation to truth rules it out for any believer. The best-known conceptual argument, Williams's, is widely judged to fail as stated, and work from 2024 to 2026 defends limited forms of voluntarism, so involuntarism is dominant but contested rather than settled.
 
-The Unfinishable Map's stake is narrow. The debate answers an objection to its interface account: if consciousness can influence the physical world, why can it not make itself believe? It supplies no evidence for dualism, and none of the Map's tenets decides whether belief is voluntary. The [Map's reading](#map-reading) (set out below) treats the involuntarism of belief as a fact about belief's answerability to truth, not about what consciousness can cause. The [doctrine's history](/topics/assent-before-descartes/) lies outside this article, which covers the debate since Williams; the *Stanford Encyclopedia* credits the fourteenth-century Dominican Robert Holcot with both kinds of argument against voluntary belief.
+The Unfinishable Map's stake is narrow. The debate answers an objection to its interface account: if consciousness can influence the physical world, why can it not make itself believe? It supplies no evidence for dualism, and none of the Map's tenets decides whether belief is voluntary. The [Map's reading](#map-reading) (set out below) treats the involuntarism of belief, so far as its conceptual ground holds, as a fact about belief's answerability to truth, not about what consciousness can cause. The [doctrine's history](/topics/assent-before-descartes/) lies outside this article, which covers the debate since Williams; the *Stanford Encyclopedia* credits the fourteenth-century Dominican Robert Holcot with both kinds of argument against voluntary belief.
 
 ## Four Kinds of Control {#kinds-of-control}
 
@@ -84,8 +84,8 @@ The two grounds differ in scope. The psychological limit binds humans and leaves
 
 Four positions contest the involuntarist verdict, and a fifth rejects the framing from the other side:
 
-- **Permissivist voluntarism.** Where evidence underdetermines, choice may settle belief. Ginet (2001) offers a traveller fifty miles into a trip who decides to believe she locked the front door, the evidence being "noncompelling." Crowe (2026) defends "direct doxastic voluntarism" for what he calls existential reasons, arguing that "in at least some cases, a person may choose to believe a proposition because they wish to be the kind of person who would hold that belief."
-- **Doxastic compatibilism.** Steup (2008) argues that most beliefs meet the compatibilist conditions on free action, such as reasons-responsiveness, and that counting practical but not epistemic reasons-responsiveness as freedom-grounding is "chauvinism." His arguments are conditional on compatibilism. Ryan (2003) defends a related view.
+- **Limited voluntarism.** Some beliefs may be chosen. For Ginet (2001) these are cases where evidence underdetermines: a traveller fifty miles into a trip decides to believe she locked the front door, the evidence being "noncompelling." Crowe (2026) offers a modest defence of "direct doxastic voluntarism" from what he calls existential reasons, arguing that "in at least some cases, a person may choose to believe a proposition because they wish to be the kind of person who would hold that belief."
+- **Doxastic compatibilism.** Steup (2008) argues that most beliefs meet the compatibilist conditions on free action, such as reasons-responsiveness, and that counting practical but not epistemic reasons-responsiveness as freedom-grounding is "chauvinism." Ryan (2003) defends a related view.
 - **Activity views.** Boyle (2009) argues that believing is an activity, taking as his epigraph Hampshire's remark that one who changes his mind in response to evidence "does not act upon himself; nor does he bring about an effect." Singh (2026) treats belief as commitment to truth, the premise Hieronymi starts from, and reaches the opposite verdict: "belief is a volitional act."
 - **Back-end voluntarism.** Soter (2025) argues that the cognitive-control mechanisms that block the guidance of "emotion-type states" can block a belief's guidance too, for non-evidential reasons, giving a voluntarism about the back end rather than about formation.
 - **The ballistic view.** Strawson (2003) argues that "reason, thought and judgement neither are nor can be a matter of action", and that whatever freedom they involve is "'rational necessitation', determination by reason."
@@ -94,9 +94,9 @@ On the involuntarist's behalf, the encyclopedia replies that activity views work
 
 ## The Frankfurt-Style Move {#frankfurt-style}
 
-Because Alston's target was epistemic deontology, his conclusion threatens doxastic responsibility: if ought implies can and belief is not voluntary, there seem to be no doxastic obligations. One reply borrows Frankfurt's (1969) argument that moral responsibility does not require the ability to do otherwise. Fischer's semicompatibilism, developed with Ravizza (1998), locates responsibility in **guidance control**, the reasons-responsiveness of the mechanism that actually issues in the act, rather than in **regulative control** over alternatives (see [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)). Steup (2023) applies this to belief: if semicompatibilism is true, agents are "epistemically responsible for what they believe even if determinism is true", and "believing is no less under the control of their will, and thus no less intentional, than acting is."
+Alston's conclusion threatens doxastic responsibility: if ought implies can and belief is not voluntary, there seem to be no doxastic obligations. One reply borrows Frankfurt's (1969) argument that [moral responsibility](/concepts/moral-responsibility/) does not require the ability to do otherwise. Fischer's semicompatibilism, developed with Ravizza (1998), locates responsibility in **guidance control**, the reasons-responsiveness of the mechanism that actually issues in the act, rather than in **regulative control** over alternatives (see [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)). Steup (2023) applies this to belief: if semicompatibilism is true, agents are "epistemically responsible for what they believe even if determinism is true", and "believing is no less under the control of their will, and thus no less intentional, than acting is."
 
-The move detaches responsibility for belief from the ability to believe otherwise. On the Map's reading it does not supply a handle. Guidance control over belief is the reasons-responsiveness of the process that settles whether *p*, close to what Hieronymi calls evaluative control, seen from the side of responsibility. It confers no power to install a belief for a practical reason, so the $500,000,000 offer comes out as before. Steup's verdict that belief is "no less under the control of their will" holds for control in the guidance sense, which is the encyclopedia's caution at work: the answer depends on which notion of "voluntary" is in play.
+The move detaches responsibility for belief from the ability to believe otherwise. On the Map's reading it does not supply a handle. Guidance control over belief is the reasons-responsiveness of the process that settles whether *p*, close to what Hieronymi calls evaluative control, seen from the side of responsibility. It confers no power to install a belief for a practical reason, so the $500,000,000 offer comes out as before. Steup's verdict that belief is "no less under the control of their will" holds for control in the guidance sense, the encyclopedia's caution at work.
 
 Two replies mark the move's limits. Peels (2014) grants that beliefs are reasons-responsive but denies that this suffices for responsibility. He argues that the compatibilists' examples persuade because "the subjects have control over factors that influence what they believe rather than control over those beliefs themselves." Odoj (2025) declines the detachment altogether and defends "a conception of doxastic freedom that remains consistent with the principle of alternative possibilities."
 
@@ -104,13 +104,13 @@ Two replies mark the move's limits. Peels (2014) grants that beliefs are reasons
 
 What follows is the Map's interpretation, not a result of the literature above.
 
-**A reply, not a datum.** If consciousness causally influences physical outcomes, an objector asks, why can a mind not make itself believe the sky is green? The involuntarist literature answers on any metaphysics: belief answers to truth, practical reasons do not bear on the question it answers, and the limit therefore says nothing about causal impotence. The Map adopts this reply, as the [assent-void](/voids/assent-void/) does. It removes a defeater and adds no evidence, since evaluative control is fully compatible with physicalism.
+**A reply, not a datum.** If consciousness causally influences physical outcomes, an objector asks, why can a mind not make itself believe the sky is green? Conceptual involuntarism answers on any metaphysics: belief answers to truth, practical reasons do not bear on the question it answers, and so the inability "reveals no genuine lack in our powers of mind" (Hieronymi 2009). The Map adopts this reply, as the [assent-void](/voids/assent-void/) does, and inherits its condition: on the psychological ground alone, the limit would be a contingent fact about human minds and the reply would weaken. Either way it removes a defeater and adds no evidence, since evaluative control is fully compatible with physicalism.
 
 **Shape, not voluntariness.** The [decision-void](/voids/decision-void/) ranks assent below practical decision as a phenomenologically natural candidate site for conscious influence, on grounds of fit: assent's alternatives present as ways the world might be rather than options for the agent, so settling reads as evidence coming down. That ranking concerns the *shape* of the transition. Hieronymi's parity of intending and believing concerns *voluntariness*, a different axis, and leaves the ranking untouched.
 
 **Where any felt effort would sit.** Soter's front-end/back-end split lines up with a distinction the [resistance article](/topics/phenomenology-of-resistance-across-domains/) draws: felt pushback belongs to failed *revision* of a standing belief, while at *acquisition* the assent void finds nothing to push on. The Map speculates that if control over belief is ever felt as effort, it is at the back end, in holding a belief's guidance in check, where [mental-effort](/concepts/mental-effort/) places effort generally.
 
-**Introspection cuts both ways.** Alston's test is introspective, and so are the Map's arguments from the phenomenology of effort. Cusimano & Goodwin's self/other asymmetry shows a verdict about one's own control tracking what introspection makes salient, here the evidence for one's beliefs. The Map takes that as a caution on introspective evidence generally, its own included.
+**Introspection cuts both ways.** Alston's test is introspective, and so are the Map's arguments from the phenomenology of effort. Cusimano & Goodwin's self/other asymmetry suggests a verdict about one's own control tracking what introspection makes salient, here the evidence for one's beliefs. The Map takes that as a caution on introspective evidence generally, its own included.
 
 **Agency loss is a different axis.** [thought-insertion](/concepts/thought-insertion/) concerns thoughts experienced as not one's own; an involuntarily formed belief is still experienced as one's own.
 
@@ -118,15 +118,15 @@ What follows is the Map's interpretation, not a result of the literature above.
 
 From the neutral definition alone, only direct control is in dispute; indirect influence is common ground.
 
-Only if the conceptual argument holds does it follow that no believer, whatever its substrate, can believe at will. The arguments are built from human cases, and Singh, Crowe and Soter are live dissent, so any Map page that leans on the control limit for non-human believers inherits that condition.
+Only if the conceptual argument holds does it follow that no believer, whatever its substrate, can believe at will. Since Singh, Crowe and Soter are live dissent, any Map page that leans on the control limit for non-human believers inherits that condition.
 
 Only within the Map's framework does the absence of a felt "doing" in belief formation register as a gap worth cataloguing. On deflationary physicalist readings, sub-personal processes are unfelt as a rule and the absence is unremarkable.
 
 ## Relation to Site Perspective
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** commits the Map only to consciousness influencing which physical outcomes occur. It does not promise a mind that can command its own attitudes, so the tenet neither requires doxastic voluntarism nor is threatened by involuntarism. The Map can remain agnostic between Hieronymi and Singh. The Map's [free-will](/topics/free-will/) pages defend an agent-causal libertarianism that goes beyond this tenet, and libertarianism about action is consistent with involuntarism about belief. Steup's doxastic compatibilism is conditional on compatibilism, which the Map does not accept; his parity claim, that belief and action are reasons-responsive in the same way, stands or falls independently of determinism.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** commits the Map only to consciousness influencing which physical outcomes occur. It does not promise a mind that can command its own attitudes, so the tenet neither requires doxastic voluntarism nor is threatened by involuntarism. The Map can remain agnostic between Hieronymi and Singh. The Map's [free-will](/topics/free-will/) pages defend an [agent-causal](/concepts/agent-causation/) libertarianism that goes beyond this tenet, and libertarianism about action is consistent with involuntarism about belief. Steup's doxastic compatibilism is conditional on compatibilism, which the Map does not accept; his parity claim, that belief and action are reasons-responsive in the same way, stands or falls independently of determinism.
 
-**[Dualism](/tenets/#dualism)** gains nothing evidential here. Evaluative control describes what conscious influence on one's own mental life looks like from inside, responsiveness to reasons rather than manipulation of objects, and physicalism can describe it equally well.
+**[Dualism](/tenets/#dualism)** gains nothing evidential here: evaluative control, responsiveness to reasons rather than manipulation of objects, is as available to physicalism as to dualism.
 
 Neither **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**, **[No Many Worlds](/tenets/#no-many-worlds)** nor **[Occam's Razor Has Limits](/tenets/#occams-limits)** bears on whether belief is voluntary. Placing conscious selection at the moment of assent would be speculation the Map does not make.
 
@@ -159,10 +159,10 @@ Neither **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**,
 16. Ryan, S. (2003). Doxastic compatibilism and the ethics of belief. *Philosophical Studies*, 114(1–2), 47–79. https://doi.org/10.1023/A:1024409201289
 17. Setiya, K. (2008). Believing at will. *Midwest Studies in Philosophy*, 32(1), 36–52. https://doi.org/10.1111/j.1475-4975.2008.00164.x
 18. Shah, N. & Velleman, J. D. (2005). Doxastic deliberation. *The Philosophical Review*, 114(4), 497–534. https://doi.org/10.1215/00318108-114-4-497
-19. Singh, K. (2026). Belief as commitment to the truth. In *The Nature of Belief* (pp. 189–214). Oxford University Press. https://doi.org/10.1093/9780197744208.003.0009
+19. Singh, K. (2026). Belief as commitment to the truth. In J. Lewis-Jong & E. Schwitzgebel (Eds.), *The Nature of Belief* (pp. 189–214). Oxford University Press. https://doi.org/10.1093/9780197744208.003.0009
 20. Soter, L. K. (2025). A defense of back-end doxastic voluntarism. *Noûs*, 59(1), 112–139 (online 2024). https://doi.org/10.1111/nous.12501
 21. Steup, M. (2008). Doxastic freedom. *Synthese*, 161(3), 375–392. https://doi.org/10.1007/s11229-006-9090-4
-22. Steup, M. (2023). Control over and responsibility for belief. In *Freedom, Responsibility, and Value* (pp. 114–131). Routledge. https://doi.org/10.4324/9781003298861-8
+22. Steup, M. (2023). Control over and responsibility for belief. In T. W. Cyr, A. Law & N. A. Tognazzini (Eds.), *Freedom, Responsibility, and Value: Essays in Honor of John Martin Fischer* (pp. 114–131). Routledge. https://doi.org/10.4324/9781003298861-8
 23. Strawson, G. (2003). Mental ballistics or the involuntariness of spontaneity. *Proceedings of the Aristotelian Society*, 103(1), 227–256. https://doi.org/10.1111/j.0066-7372.2003.00071.x
 24. Turri, J., Rose, D. & Buckwalter, W. (2018). Choosing and refusing: Doxastic voluntarism and folk psychology. *Philosophical Studies*, 175(10), 2507–2537. https://doi.org/10.1007/s11098-017-0970-x
 25. Williams, B. (1973). Deciding to believe. In *Problems of the Self* (pp. 136–151). Cambridge University Press. https://doi.org/10.1017/CBO9780511621253.011
