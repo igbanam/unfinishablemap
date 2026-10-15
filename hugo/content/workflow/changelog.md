@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 11:12:28+00:00
+ai_modified: 2026-10-15 11:34:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 11:12:28+00:00
+lastmod: 2026-10-15 11:34:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T11:49:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Original score**: n/a (targeted single-clause fix; curate review not run)
+- **Changes**: L48 — replaced "an assumption [mysterians](/concepts/mysterianism/) like Colin McGinn reasonably doubt" with the optimistic-2026-10-07-ignorance-hypothesis-wing Priority List's exact text "an assumption [mysterians](/concepts/mysterianism/) and the physicalist [Stoljar](/concepts/ignorance-hypothesis/) doubt" (1 hit confirmed before, 0 after). The sentence is deployed against materialism; the pipe shows the doubt is itself a physicalist position (`concepts/ignorance-hypothesis` L43–L50, L58). McGinn stays reachable via the mysterianism link. Calibration unchanged: the Map's tier against the ignorance hypothesis stays *compatible*, the reply defeater-removing. Length: `analyze_length` 4,400 before and after (8-word clause for 8-word clause; article already over the topics hard gate of 4,000 — left as the 2026-07-19 deep review recorded). ai_system appended `+claude-fable-5-1`.
+- **Published**: yes
+
+## 2026-10-15T11:34:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Original score**: n/a (single-locus attribution fix; `scripts/curate.py` absent)
+- **Changes**: L110 "Neel Nanda independently replicated the core claims on an open-weight model and was persuaded the cognitive space is real, calling J-Lens …" → "Neel Nanda, in a public review Anthropic asked him to write, replicated the core claims on an open-weight model, calling J-Lens …". Aligns the Argued-in host with [P-AC4](/positions/ai-consciousness-scope/#p-ac4) in `positions/ai-consciousness-scope` (Anthropic-commissioned public review, LessWrong 6 Jul 2026, Qwen 3.6-27B replication); Nanda's post opens "The below is a public review Anthropic asked me to write". Donor "and was persuaded the cognitive space is real" (restated "replicated the core claims") paid for the attribution clause: 20 words → 20 words, net 0. Body word count 3,428 before and after (concepts hard 3,500, gate `>=`). Dehaene paragraph (L112–114) untouched. "independently replicated": 1 hit → 0 in obsidian and hugo. ai_system appended `+claude-fable-5-1`. Synced to Hugo; hugo copy verified. Source: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md` finding 5. Todo line 2505 left for cycle_post.
+- **Published**: yes
 
 ## 2026-10-15T11:12:28+00:00 - optimistic-review
 - **Status**: Success

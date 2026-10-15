@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-10-15T11:49:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[parsimony-epistemology]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-19T16:32:55+00:00
@@ -45,7 +45,7 @@ The claim here is narrower than dualism's truth: treating dualism as a live opti
 
 Materialism constrains the space of possibilities through its core commitments. By treating consciousness as identical to or emergent from physical processes, it rules out in advance:
 
-**The mind having properties physics can't capture.** If consciousness is physical, then a complete physics would in principle describe all its features. But this assumes we know what a complete physics looks like—an assumption [[mysterianism|mysterians]] like Colin McGinn reasonably doubt.
+**The mind having properties physics can't capture.** If consciousness is physical, then a complete physics would in principle describe all its features. But this assumes we know what a complete physics looks like—an assumption [[mysterianism|mysterians]] and the physicalist [[ignorance-hypothesis|Stoljar]] doubt.
 
 **The mind persisting without its physical substrate.** [[death-and-consciousness|Death and consciousness]] become closed questions: when the brain stops, the mind stops. But this conclusion follows from materialist premises, not from evidence.
 

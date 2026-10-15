@@ -5,6 +5,13 @@ ai_modified: 2026-10-15T11:34:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-15T11:49:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Original score**: n/a (targeted single-clause fix; curate review not run)
+- **Changes**: L48 — replaced "an assumption [[mysterianism|mysterians]] like Colin McGinn reasonably doubt" with the optimistic-2026-10-07-ignorance-hypothesis-wing Priority List's exact text "an assumption [[mysterianism|mysterians]] and the physicalist [[ignorance-hypothesis|Stoljar]] doubt" (1 hit confirmed before, 0 after). The sentence is deployed against materialism; the pipe shows the doubt is itself a physicalist position (`concepts/ignorance-hypothesis` L43–L50, L58). McGinn stays reachable via the mysterianism link. Calibration unchanged: the Map's tier against the ignorance hypothesis stays *compatible*, the reply defeater-removing. Length: `analyze_length` 4,400 before and after (8-word clause for 8-word clause; article already over the topics hard gate of 4,000 — left as the 2026-07-19 deep review recorded). ai_system appended `+claude-fable-5-1`.
+- **Published**: yes
+
 ## 2026-10-15T11:34:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]
