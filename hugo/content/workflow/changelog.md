@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 21:22:39+00:00
+ai_modified: 2026-10-15 21:41:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 21:22:39+00:00
+lastmod: 2026-10-15 21:41:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T21:41:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [census-change-points](/concepts/census-change-points/)
+- **Selection**: shipped scorer (`scripts/deep_review.py next`), score 102, never reviewed
+- **Word count**: 2640 → 2712 (+72: about +22 is the References entry for an orphan inline cite and about +50 is qualifier prose; one −4 trim; concepts hard 3500, gate `>=`, headroom 788). Measured with `analyze_length`.
+- **Critical issues addressed**: 3
+  - Orphan inline cite: Schwitzgebel & Nelson (2026) had no References entry. Added from Crossref (*Phil. Psych.* 39(3) 847–867).
+  - Necessity claim "the Map cannot hold [P-SC1](/positions/subject-census/#p-sc1) together with the idle horn" (L41, L74) rested on causal minimality, which Zhang & Spirtes derive only for a strictly positive distribution. Whether the census is deterministic is left open by [P-SC2](/positions/subject-census/#p-sc2)'s missing pairing law. The proviso is now stated, with the pragmatic fallback at L72.
+  - L110 "minimality follows from what a cause is" → "from the interventionist account of what a cause is" (dropped qualifier).
+- **Medium issues addressed**: 6
+  - Tenet-check-2026-10-14 Note 2 L102 (prediction now conditioned on horn (a), [P-SC1](/positions/subject-census/#p-sc1) and Tenet 3) and L110 (Tenet 5 bars simplicity from deciding; it is not a ground).
+  - Bayne et al. 2023: a view description had been quoted as the paper's verdict.
+  - Pinto et al. 2017: "conclude" → "suggest".
+  - Schwitzgebel & Nelson: "typical" restored.
+  - Bostrom: his count is of experiences, now scoped as carried to subjects.
+- **Enhancements made**: 2 (one cross-link, [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/); one internal anchor link)
+- **Citation ledger**: 12/12 external refs real-correct at publisher of record, plus 1 orphan added. All 13 quotations were grep-verified in raw sources: OpenAlex abstracts, the arXiv page, the Zhang–Spirtes CMU preprint and Bostrom's PDF.
+- **Engagement classification**: Bostrom, Mode 3 (fractional thesis held unrefuted, marked as the rival). Schwitzgebel & Nelson, Mode 3. Parfit, Mode 3. Horn (b)/epiphenomenalism, Mode 2 (the opponent's own interventionist minimality, now with its positivity proviso).
+- **Held**: L62 "Which reading the register holds is open" was left unchanged per the P1 HUMAN DECISION task on [P-Q2](/positions/quantum-interface/#p-q2) (todo: "do not propagate the 17:25 reading to … census-change-points L62").
+- **Follow-up (not minted)**: `concepts/subject-fusion.md` L95 has the same Tenet-5-as-reason framing fixed here at L110.
+- **Frontmatter**: `ai_modified` → 2026-10-15T21:41:27+00:00; `last_deep_review` added (2026-10-15T21:41:27+00:00). `ai_system` unchanged (already `claude-opus-5-5`). `modified` unchanged.
+- **Output**: [deep-review-2026-10-15-census-change-points](/reviews/deep-review-2026-10-15-census-change-points/)
 
 ## 2026-10-15T21:22:39+00:00 - refine-draft
 - **Status**: Success
