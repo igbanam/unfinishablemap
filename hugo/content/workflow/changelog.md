@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T03:36:59+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Impossible-Percept Void — contents perception presents but thought cannot hold (waterfall illusion, Penrose figures, Won–Gross–Firestone impossible weight), and why introspection cannot settle whether a percept is contradictory
+- **Category**: Mixed — primarily Unexplorable (introspective undecidability of the content's logical form), with an Unexplored face (no catalogue of perceivable contradictions) and a thin Occluded face (Freud et al.: cortex registers impossibility with minimal awareness)
+- **Output**: [voids-impossible-percept-void-2026-10-15](/research/voids-impossible-percept-void-2026-10-15/)
+- **Key finding**: The Map's conceptual-impossibility asymmetry (refer-but-not-grasp) is inverted by impossible percepts (grasp-but-not-refer); Crane 1988a/b and Mellor 1988 read in full from the author's PDFs, and the four accounts of the experience (one contradictory content / two mechanisms / alternation / local-consistent-global-inferred) remain introspectively undecidable—Macpherson & Baysan 2017: "still not settled"—with irrevisability (Crane 1988b; Won et al. 2021 "anti-Bayesian") as the Tenet 5 core.
+- **Selection**: voids 113/125 by `count_section_files`; 60 candidate terms grep-tested with variants across live voids, banked voids notes and topics/concepts/apex/positions; `waterfall illusion`, `impossible figure`, `impossible percept`, `Penrose triangle`, `contradictory percept`, `motion aftereffect` all 0 hits everywhere. Microgenesis rejected (covered by banked readiness note 03-04 + predictive-construction-void); irreversibility-of-understanding rejected (partial `unsee`/`semantic satiation` coverage).
+- **Access**: 403 at PhilArchive, PhilPapers, T&F, Wiley; Springer login wall on an OA-listed PDF; Project Euclid Incapsula challenge. Mellor pp. 148–149 not recovered. Every summariser-returned quotation grep-verified against the raw page before tagging [raw].
+- **State**: registered in `task_chains.pending_articles` as `{research_file, target_section: voids}` via targeted Edit; YAML re-parsed.
+
 ## 2026-10-15T02:49:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

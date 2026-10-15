@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-15T03:04:18.893121+00:00'
-session_count: 22813
+last_updated: '2026-10-15T03:21:43.926141+00:00'
+session_count: 22814
 cycle_position: 14736
 last_runs:
   add-highlight: '2026-10-14T09:39:06.477769+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-15T02:39:19.740321+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
-  check-links: '2026-10-14T08:21:29.974199+00:00'
+  check-links: '2026-10-15T03:21:43.926141+00:00'
   check-model-fallback: '2026-10-14T22:49:01.519035+00:00'
   check-tenets: '2026-10-14T08:59:20.346304+00:00'
   coalesce: '2026-10-15T00:22:45.555238+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-10-14'
-  outcome: success
-  kind: cycle
 - task: expand-topic
   type: expand-topic
   date: '2026-10-14'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-15'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-15'
   outcome: success
   kind: trigger
@@ -699,6 +699,8 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/release-phenomena-2026-10-14.md
     target_section: concepts
+  - research_file: obsidian/research/voids-impossible-percept-void-2026-10-15.md
+    target_section: voids
   pending_cross_reviews:
   - new_article: concepts/nondualistic-interactionism.md
     review_targets:
