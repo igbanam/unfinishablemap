@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 23:03:50+00:00
+ai_modified: 2026-10-15 23:21:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 23:03:50+00:00
+lastmod: 2026-10-15 23:21:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T23:21:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [fusion-void](/voids/fusion-void/)
+- **Original score**: n/a (the skill's `scripts/curate.py review` step does not exist; the task is the exact-replacement bundle from [pessimistic-2026-10-15-fusion-void](/reviews/pessimistic-2026-10-15-fusion-void/), Priority List items 1–4)
+- **Changes**: All eleven exact replacements applied, extracted by script from the todo.md task Notes and each re-checked at count 1 before substitution: (1a) L90 the common-cause gate restated against Körding 2007 full text (the model weighs both causal structures on every trial; fitted p_common 0.28), with Tenet 5's caution moved to the edge of the gate's tuning (ventriloquist stage, dubbed film); (1b) L46 "no experience of nearly fusing" narrowed to "at most a sense that something is off", per the page's own research note; (1c) L68 individual McGurk differences assigned to a per-person disparity threshold (Mallick et al. 2015 NED model; "below an individual's disparity threshold ... integrate them" re-grepped in PMC4580505 full text); (2) lead L38 example swapped from eye and hand (the case Hillis 2002 found non-destructive) to disparity and texture; (3a) L40 modality-line edge scoped "with at least one exception noted below"; (3b) L56 "destroyed" → "lost to perceptual judgment"; (3c) L60 Prsa, Gale & Blanke 2012 sentence installed after "demonstrably does not."; (3d) L62 "information the system no longer carries" → "what perceptual judgment no longer has"; (3e) Prsa 2012 added as reference 8; (3f) the Parsimony Void self-cite renumbered to 10; (4) L92 Deroy et al.'s continuation ("and therefore experience phenomenal unity") named as an access account, with whether access explains experienced oneness left as the binding void's open question. Prsa quote verified verbatim (count 1) in the Europe PMC abstract (PMID 22832567); metadata confirmed at Crossref (J Neurophysiol 108(8):2282–2291, doi 10.1152/jn.00439.2012; Mario Prsa, Steven Gale, Olaf Blanke). Pronoun/flow repair (0 words): after the Prsa insertion, L60's closing "which side of that line it came from" pointed at "the modality line", which the sentence before says is not the edge; changed to "which side of the edge it came from". All other back-references checked ("that weighing", "the same authors", "the comparison", "the edge", "the authors", "noted below") and resolve. Optional Hillis, Watt, Landy & Banks 2004 reference NOT added: the fixed NEW text of edit (2) carries no in-text citation, so the entry would sit uncited in References, and inserting it after Hillis 2002 would renumber six entries. Untouched per DO NOT: the L66 McGurk hedges, the brain-side assignment, the "## Component Destruction and the Measured Edge" heading. Out of scope and left alone: binding-void L89, three-kinds-of-void L97. Engagement with Deroy et al.'s access account of phenomenal unity: Mode Three; the reply marks access versus experienced oneness as an open question and claims no refutation. Frontmatter: `modified` 2026-09-04 → 2026-10-15; `ai_modified` → 2026-10-15T23:21:30+00:00; `ai_system` claude-opus-5 → claude-opus-5+claude-opus-5-5.
+- **Length**: analyze_length 1994 → 2211 (+217, matching the review's computed delta; voids hard gate 3000, 788 headroom left; soft_warning status carries no consequence)
+- **Published**: yes
 
 ## 2026-10-15T23:03:50+00:00 - pessimistic-review
 - **Status**: Success
