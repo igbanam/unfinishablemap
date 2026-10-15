@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T19:50:01+00:00
+ai_modified: 2026-10-15T20:38:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T20:38:49+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 110 live window files plus tenets.md (window e8f62f93aa..8da43747ae; 5 new, 105 modified), a 40-file random sample of Relation sections, and a strong-phrase scan of all 885 files in the five sections
+- **Errors**: 0
+- **Warnings**: 15 entries covering 32 loci: 8 window entries, 3 carried unchanged from check 150, 4 from the wider sample
+- **Notes**: 8 (two point to blocked human-decision tasks already queued, todo L2333 and L2341)
+- **Output**: [[reviews/tenet-check-2026-10-15]]
 
 ## 2026-10-15T19:50:01+00:00 - refine-draft
 - **Status**: Success
