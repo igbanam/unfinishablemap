@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T08:52:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Task**: todo.md line 2499 (P1, raised by /combine-outer-reviews 2026-10-15 cluster 8; ChatGPT 5.6 Sol Pro §5, Claude Fable 5.1 §(d))
+- **Original score**: n/a (`scripts/curate.py` absent; length gate measured instead: 3,499 words before, concepts hard gate 3,500 `>=`)
+- **Changes**: L73 no longer files IIT under functional phenomenality. The "particularly" clause now names Global Workspace Theory alone; IIT is introduced as a third family (intrinsic causal-structure theories: phi tracks physical cause–effect structure, so a simulation need not share the simulated system's phi — substrate-sensitive without being quantum-interface dualism), and the closing sentence states that the taxonomy opposes three positions (functionalism, IIT, the Map's interface model). Wikilink to `integrated-information-theory` kept; no section added. Paid for at net −1 by trims inside §3 only: folded "Consciousness is substrate-independent…" into "whatever its substrate"; tightened the Block (1995) and remember/know sentences; in the J-space paragraph dropped "rather than merely hypothesised", "workspace-like", "themselves", "exactly", "at length" (the calibration clause "not a settled claim about metacognition or agency" and the Gurnee quote are untouched). After: 3,498 words.
+- **Engagement classification** (editor-internal): functionalism — Mode Three (boundary via Dualism tenet, unchanged); IIT — now Mode Three as well, named as a rival the Map's substrate-sensitivity argument does not uniquely favour, per ChatGPT §5 and Claude §(d); the Claude half of cluster 8 targets `positions/ai-consciousness-scope` (no headroom) and is not addressed here.
+- **ai_system**: appended `+claude-fable-5-1` (was `claude-opus-4-7`)
+- **Published**: yes
 ## 2026-10-15T07:55:06+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update — [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and [P-AC2](/positions/ai-consciousness-scope/#p-ac2) (`positions/ai-consciousness-scope`); P1 queue task (ChatGPT 5.6 Sol Pro §1, §2, §5, §6 + Claude Fable 5.1 §(a), §(c), §(d), §(e), §(f), Part 4; synthesis clusters 1, 5, 7, 8; 2/2 convergent)
