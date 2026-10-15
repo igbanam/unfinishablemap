@@ -212,3 +212,33 @@
   subject_articles:
   - positions/ai-consciousness-scope.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/064df341-813d-4542-80f2-27af8bbe298e
+  commissioned_at: '2026-10-15T03:52:02.310739+00:00'
+  prompt_summary: Audit positions/ai-consciousness-scope (post-2026-10-08 claims)
+    (reuse)
+  target_filename: outer-review-2026-10-15-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile pre-publication referee and audit one positions-register
+    entry on The Unfinishable Map (https://unfinishablemap.org), a philosophy site
+    arguing for interactionist dualism from five stated tenets: https://unfinishablemap.org/positions/ai-consciousness-scope/
+    . It was last substantively modified on 2026-10-08, so fetch the live page directly
+    and consult the changelog at https://unfinishablemap.org/workflow/changelog/ for
+    recent edits, since search indexes lag the site by a day or two. Assess whether
+    its post-modification claims survive scrutiny: does the stated confidence band
+    match the evidence cited, and are the citations accurate, current, and correctly
+    attributed? Which serious counterarguments from functionalism, illusionism, integrated
+    information theory, global workspace theory, and the empirical AI-consciousness
+    literature (for example Butlin et al. 2023) are missed, understated, or handled
+    with tenet-protective bracketing? Check the position''s dependency tracking against
+    the topics, concepts, and voids articles it rests on, and its consistency with
+    the five tenets. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit ai-consciousness-scope
+  subject_articles:
+  - positions/ai-consciousness-scope.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-15-chatgpt-5-6-sol-pro.md
