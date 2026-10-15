@@ -4,6 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-15T01:28:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-15T01:39:49+00:00 - research-topic
+- **Status**: Success (verdict FOLD-IN; no pending article registered)
+- **Topic**: Sibley's aesthetic concepts and the non-condition-governed gap
+- **Output**: [[research/aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-15]]
+- **Sources consulted**: 19 (Sibley 1959 at raw via 1969 reprint; both SEP entries raw; Sedivy 2025 raw; Cohen 1973 / Levinson 1984 / Sibley 1965 secondary-mediated)
+
 ## 2026-10-15T01:28:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/miswanting]]
