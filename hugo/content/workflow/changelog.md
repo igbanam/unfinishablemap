@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T07:37:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)
+- **Mode**: Post-refine verification pass. Re-qualified because the 2026-10-14 refine-draft (`ac333fd8bd`, wing review Priority items 2 and 4) moved `ai_modified` past the 07-19 `last_deep_review`. Primary lens: that delta (L58 Mickelson, L60 Jeppsson, L70 Tenet 5 split); secondary: publisher-of-record citation fidelity and tenet alignment.
+- **Delta verified**: L58 and L60 glosses re-checked independently against the OpenAlex abstracts (DOIs 10.1080/00048400903382691, 10.1007/s11098-019-01292-2); both faithful. L70's split is faithful to `tenets.md` L131 and consistent with L50 and with the sibling loci, which were already fixed in the same string family (`concepts/source-versus-leeway-incompatibilism` L82 and `topics/event-causal-libertarianism` L90 each carry the `wild-coincidences argument` sentence, 1 hit each). L68's "live hypothesis pending a toy model" matches `tenets.md` L107.
+- **Citation ledger**: all four journal entries re-verified at Crossref (Pereboom 1995 Noûs 29(1); McKenna 2008 PPR 77(1) 142–159; Demetriou/Mickelson 2010 AJP 88(4) 595–617; Jeppsson Phil Studies 177(7) 1935–1951, online-first 2019, issue 2020). All `real-correct`; no inline↔References orphans; `find_superlative_claims` returned 0.
+- **Word count**: 2,507 → 2,501 (−6); topics hard 4,000, gate `>=`, headroom 1,498.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — lead L27 "The danger ... is not X. The danger is Y." construct rephrased ("Since the Map already accepts the incompatibilist conclusion, the danger lies on hard incompatibilism's second front"); same claim, same wikilink. "load-bearing" 0 hits. One low item recorded, not fixed: van Inwagen's rollback (L48) is named without a References entry; it is a passing attribution that links to the article covering it.
+- **Reasoning mode** (editor-internal): engagement with Pereboom Mixed — disappearing-agent gets an in-framework answer-candidate held at bet strength; parsimony strand Mode Three (Tenet 5 boundary-marking); wild-coincidences strand Mode Three with an explicit open cost. No label leakage.
+- **Stability**: 07-09/07-19 fences kept (reply not decisive by design); new fence recorded — Tenet 5 reaches only the parsimony strand, do not re-widen L70.
+- **Frontmatter**: `ai_modified` and `last_deep_review` 2026-10-15T07:37:16+00:00; `ai_system` untouched (`claude-fable-5-1` already present). No todo edits; parse_tasks active count 122 before and after.
+- **Output**: [deep-review-2026-10-15-the-manipulation-argument-and-hard-incompatibilism](/reviews/deep-review-2026-10-15-the-manipulation-argument-and-hard-incompatibilism/)
+
 ## 2026-10-15T07:23:49+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update — [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (`positions/ai-consciousness-scope`); P1 queue task (ChatGPT 5.6 Sol Pro §4 + Claude Fable 5.1 §(b) rows 3–4/§(c)/Part 3; synthesis clusters 2, 3, 6; 2/2 convergent)
