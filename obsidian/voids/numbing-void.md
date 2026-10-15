@@ -4,7 +4,7 @@ description: "Human+AI exploration of psychic numbing toward the number of suffe
 created: 2026-10-03
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-04T02:37:34+00:00
+ai_modified: 2026-10-15T09:52:46+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[research/voids-numbing-void-2026-10-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-03
 last_curated: null
 ---
@@ -71,7 +71,7 @@ Unit-sensitivity fits both readings. Feeling attends to a group best when the gr
 
 ### Where the Map Stands {#where-the-map-stands}
 
-The Map sides with the additive reading on the moral question, on framework grounds and not on felt evidence. It registers that "duplicating a suffering subject multiplies the suffering" ([[positions/ai-consciousness-scope#^p-ac3|P-AC3]]) as resting on closed individualism ([[positions/individuation-and-subjecthood#^p-i1|P-I1]]): subject boundaries are real, so many suffering subjects are many separate bads. Closed individualism grants Lewis's premise, since no trans-subject subject exists to undergo the total, but cannot by itself refuse his inference, because Lewis and Taurek also count many separate sufferers. The refusal is a further step in P-AC3's counting rule: separate bads add up although no one bears the sum. The tracking reading of Lewis and Taurek remains a rival the Map does not adopt and has not refuted.
+The Map sides with the additive reading on the moral question, on framework grounds, not felt evidence. It registers that "duplicating a suffering subject multiplies the suffering" ([[positions/ai-consciousness-scope#^p-ac3|P-AC3]]) as resting on closed individualism ([[positions/individuation-and-subjecthood#^p-i1|P-I1]]) plus an additive rule Piller (2026) contests: subject boundaries are real, so many suffering subjects are many separate bads. Closed individualism grants Lewis's premise, since no trans-subject subject exists to undergo the total, but cannot alone refuse his inference, because Lewis and Taurek also count many separate sufferers. The refusal is the additive rule, P-AC3's further premise: separate bads add up although no one bears the sum. The tracking reading of Lewis and Taurek remains a rival the Map neither adopts nor refutes.
 
 Two consequences follow. The felt plateau is no evidence against P-AC3, since felt magnitude is the instrument this void disqualifies. And P-AC3's own calibration, empirical discriminability *none*, fits the void: no measurement of anyone's feeling could decide between additive and non-additive weight.
 

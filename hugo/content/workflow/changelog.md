@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 09:46:00+00:00
+ai_modified: 2026-10-15 09:53:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-15'
-lastmod: 2026-10-15 09:46:00+00:00
+lastmod: 2026-10-15 09:53:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-15T09:53:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [moral-census-opacity](/concepts/moral-census-opacity/) ([P-AC3](/positions/ai-consciousness-scope/#p-ac3) cascade, todo L1560, P2; six host loci)
+- **Original score**: n/a (targeted register-alignment pass, no curate review)
+- **Changes**: [P-AC3](/positions/ai-consciousness-scope/#p-ac3) now holds that distinctness does not entail summing — additivity is a further premise, with anti-aggregation (Taurek 1977 standard form, via Piller 2026) a live defeater — and six host loci still presented the old "closed individualism, so additive" inference. (1) [moral-census-opacity](/concepts/moral-census-opacity/) L100: "so N copies carry…" → "and, on [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s counting rule, N copies carry…", anchor-linked to ^p-ac3; trimmed "stated"/"knowing" in the same paragraph. 3494 → 3494. (2) [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) L66: "which follows from the Map's closed-individualist commitment rather than the quantum register and would hold even under" → "which rests on the Map's closed individualism plus an additive counting rule, not the quantum register, and holds even under"; label "position [P-AC3](/positions/ai-consciousness-scope/#p-ac3)" → "[P-AC3](/positions/ai-consciousness-scope/#p-ac3)" (^p-ac3); "any given" → "a given"; "where there is any" → "if any". The open P2 on L90/L150/L158 "almost certainly" left untouched. 4471 → 4471. (3) [machine-question](/apex/machine-question/) L197 link label → "conscious copies would, on [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s counting rule, be morally additive" (^p-ac3); same-paragraph trims ("particular", "own", "rather than"→"not", the redundant second "the GPT"). (4) [machine-question](/apex/machine-question/) L185: "a genuine global workspace" → "a fully demonstrated global workspace ([P-AC4](/positions/ai-consciousness-scope/#p-ac4) records only workspace-like signatures)" so the datum no longer contradicts [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s high-credence J-space clause; same-sentence trims ("read off systems", "who finds dualism unmotivating" → "unmoved by dualism", "skepticism about current AI" → "current-AI skepticism"). The other "a genuine global workspace" hit in the file is a different sentence and was left alone. 5946 → 5945 (apex over hard cap; has its own NEEDS-HUMAN length record). (5) [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) L81: Butlin et al. finding dated — "(as of 2023; the 2026 J-space result post-dates this and is read at [P-AC4](/positions/ai-consciousness-scope/#p-ac4))" (^p-ac4); same-paragraph trims ("the leading", "independently", "own" ×2, "one day", "still", "the view"→"which", "being correct", "at length", "on each side"). 5772 → 5771 (over hard cap). (6) [numbing-void](/voids/numbing-void/) L74: [P-AC3](/positions/ai-consciousness-scope/#p-ac3) now registered "as resting on closed individualism ([P-I1](/positions/individuation-and-subjecthood/#p-i1)) plus an additive rule Piller (2026) contests"; "The refusal is the additive rule, [P-AC3](/positions/ai-consciousness-scope/#p-ac3)'s further premise"; trims ("and not on"→"not", "by itself"→"alone", "does not adopt and has not refuted"→"neither adopts nor refutes"). Taurek not quoted (numbing-void's apparatus records him as not consulted); Piller already in its reference list. 2681 → 2681. All edits word-neutral or negative by analyze_length. No positions/ or todo.md edits.
+- **ai_system**: appended +claude-fable-5-1 to ethics-of-possible-ai-consciousness and numbing-void (absent there); already present in the other three, left untouched.
+- **Published**: yes
 
 ## 2026-10-15T09:46:00+00:00 - research-topic
 - **Status**: Success
