@@ -5,6 +5,12 @@ ai_modified: 2026-10-15T07:55:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-15T09:15:06+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: post-edit state of `positions/ai-consciousness-scope` after the three 2026-10-15 forks (P-AC3 c1986252, P-AC4 cbe89e49, P-AC1 f6448087) plus `positions/individuation-and-subjecthood` P-I4, `topics/quantum-state-inheritance-in-ai` L50 and `concepts/ai-consciousness-typology` L73 (a3328f24). All seven new quotations verified verbatim at publisher (Europe PMC for Kleiner & Ludwig 2024 and F. Koch 2026; arXiv for Wang & Reid and Gurnee; Anthropic commentary PDF for Butlin et al. and Dehaene & Naccache; OUP TOC for Birch ch. 16; Crossref abstract for Piller 2026). No fork collision, no regression by `git log -S`. Five issues: K&L mislabelled as P-AC1's "external twin" (their conditional is Tenet 3's, already held); off-vocabulary two-valued credence on P-AC1; P-AC4 Grade B defended by an independence-unverified preprint; P-AC3 heading still reads closed individualism as sufficient; `concepts/global-workspace-theory` L110 contradicts the register on Nanda's independence.
+- **Tasks minted**: 4 (P2 positions-evolve P-AC1; P2 refine-draft global-workspace-theory L110; P3 positions-evolve P-AC4 Wang & Reid affiliations; P3 positions-evolve P-AC3 heading). Not re-minted: ethics L90 "almost certainly" (open L2499), P-AC3 dependents cascade (open L1566), P-Q2 (blocked P1).
+- **Output**: [[reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state]]
+
 ## 2026-10-15T08:52:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-consciousness-typology]]

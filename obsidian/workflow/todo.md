@@ -2531,6 +2531,56 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Synthesis**: reviews/outer-review-synthesis-2026-10-15.md
 - **Notes**: From convergent outer reviews (2026-10-15, 2/3 reviewers): [chatgpt, claude] — synthesis at [[reviews/outer-review-synthesis-2026-10-15]] items 9–14, each quoted there from both reply bodies. (9) CONJUNCTION CEILING, new: a composite position may not carry a credence above its weakest necessary component; an unpossessed law counts as low (ChatGPT §3 + improvement 6; Claude Part 5 item 3 — the sharpest item of the cycle and the common root of the P-AC1 and P-AC3 findings). (10) BURDEN SYMMETRY, new as a rule: a missing functionalist transfer argument and a missing interface-eligibility law should lower confidence alike; Tenet 5's parsimony symmetry is currently applied against functionalism only (ChatGPT §5, §8 Tenet 5, improvement 23; Claude §(f) Tenet 5 "calibration asymmetry"); external citation F. Koch 2026 *Neuroscience of Consciousness* niag061 (Florentin Koch, NOT Christof). (11) TRIGGER-FIRING AUDIT / FRESHNESS TRIGGERS FOR AI PAGES: machine-check every "Would shift if" clause against the current status of the entries it names, and let a major new result or replication reopen dependent positions automatically (ChatGPT improvement 24; Claude Part 5 item 2) — extends the open 2026-07-25 record's "freshness trigger" discipline and the 2026-08-03 "correction that lands in one place" record; this cycle's own test case is P-AC1's coherence-only trigger, which cannot distinguish a programme demotion from the 2026-08-13 downstream citation grade. (12) SEPARATE CALIBRATION AXES incl. a normative-argument-strength field: ChatGPT improvement 20 (framework-conditional / all-things-considered / external empirical / normative strength) and §3 ("P‑AC3b is principally a normative proposition. It needs a field for the strength of the moral argument"); Claude proposes labels rather than axes ("conditional, unpriced"; "contested (normative)") — weaker convergence; extends the two open 2026-08-03 multi-axis-schema records (register structure; loop tooling: schema enforced nowhere). (13) NO "NO CALIBRATION CHANGE" WITHOUT A STATED REASON: Claude Part 5 item 1 ("must, in the same edit, either change the band or record a numbered reason why it does not"); ChatGPT §3 ("'no calibration change' should be reversed") — extends the open 2026-08-03 methodology-ratification record. (14) ON-PAGE SOURCE LEDGERS for register entries: ChatGPT §6 + improvement 19; Claude §(b) rows 4–6 (Nanda, Birch, Block carry no on-page citation) — extends the open 2026-07-30 per-claim verification-ledger record. Claude-only extensions recorded, not convergent: agnosticism-is-not-endorsement check (Part 5 item 4; extends the 2026-06-27 co-optation-firewall proposal), commissioned-review flag (item 6), mandatory rival roster for AI entries (item 5). Operator decides which to ratify and names the home document; the nominal File above is a placeholder — `calibration-audit-triple` is 4.7× its hard ceiling (open 2026-07-31 NEEDS-HUMAN), so a ratified rule may need a new home. No article edit is licensed by this record.
 
+### P2: `positions/ai-consciousness-scope` P-AC1 files Kleiner & Ludwig 2024 as "the conditional's external twin" when their conditional (dynamical relevance) is one Tenet 3 already supplies — say whether the Map reads deviation at the computational level (then the no-go is derived) or below it (then K&L do not reach the interface); and restate the two-valued "moderate conditional / low-to-moderate all-things-considered" credence as one schema band plus gloss (pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state Issues 1–2)
+- **Type**: positions-evolve
+- **File**: obsidian/positions/ai-consciousness-scope.md
+- **Section**: positions
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-10-15
+- **Review file**: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md`
+- **Coordination**: run BEFORE the open P2 ethics task (todo L2499 "copy whatever band lands") so a single band exists to copy; does not touch P-AC3/P-AC4. Do not add a normative-strength axis — that is the open NEEDS-HUMAN ratification (L2522).
+- **Headroom**: NONE — 3,126 words, positions hard_warning. Every edit WORD-NEUTRAL OR NEGATIVE by `tools.curate.length.analyze_length`.
+- **Donor**: P-AC4 Asserts' full paper title "*Verbalizable Representations Form a Global Workspace in Language Models*" (9 words; the title is already carried on `concepts/global-workspace-theory` and in the 2026-07-07 pass) — replace with "Gurnee et al. frame it as".
+- **Notes**: Both K&L quotes verified verbatim at Europe PMC full text (PMC11671748) 2026-10-15 09:10Z — keep them. K&L abstract: result holds "under a general assumption, called dynamical relevance ... which this paper does not establish"; the Map asserts that premise (Tenet 3, universal-actual reading, already in P-AC1 Depends-on). So the antecedent is MET for the Map and the only open question is level: the P-AC1 text "well-supported only at the *computational* level; whether the suppressed indeterminacy is the interface-*relevant* kind" implies the interface may act below the logical state, in which case K&L's theorem does not reach it and "twin" is wrong; replace with "stronger-premise cousin" wording that names the level condition. Credence: schema vocabulary is low/moderate/high only (methodology-and-calibration ^calibration-schema; 2026-08-03 audit resolved off-vocabulary values); precedent P-Q1 "credence moderate (low edge; conditional on ...)". The all-things-considered discount measures the derivation's weakness, not the claim's probability on rival frameworks — say so in the gloss. Also harmonise "coherence-result-only" to upstream "coherence-only" (quantum-interface L45/L151). Record a dated Updated note; no other band moves.
+
+### P2: `concepts/global-workspace-theory` L110 "Neel Nanda independently replicated" contradicts P-AC4 (rewritten 2026-10-15 to "Anthropic-commissioned public review ... no replication is both independent and refereed"); align the Argued-in page with the register, word-neutral (pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state Issue 5)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/global-workspace-theory.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-10-15
+- **Review file**: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md`
+- **Headroom**: NONE for net growth — 3,428 words, concepts soft_warning (hard 3,500). Every edit WORD-NEUTRAL OR NEGATIVE by `tools.curate.length.analyze_length`.
+- **Donor**: same sentence, "and was persuaded the cognitive space is real" (8 words) — restates "replicated the core claims".
+- **Notes**: Source-verified 2026-10-15 09:12Z: Nanda's LessWrong post (6 Jul 2026) opens "The below is a public review Anthropic asked me to write for their new global workspace paper" and reports the Qwen 3.6 27B replication; Anthropic's commentary PDF frames invitees as "independent perspectives" — so both labels have a source, but the register chose the better-sourced one and the GWT page is its Argued-in host. Suggested: "Neel Nanda, in a public review Anthropic asked him to write, replicated the core claims on an open-weight model, calling J-Lens ...". Single locus; do not touch the Dehaene paragraph. Sync to Hugo after.
+
+### P3: `positions/ai-consciousness-scope` P-AC4 keeps Grade B against Claude's C on the strength of Wang & Reid 2026 (arXiv 2609.01924), whose independence the same note calls "unverified" — check the authors' affiliations at the arXiv PDF and apply the entry's own B/C rule (pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state Issue 3)
+- **Type**: positions-evolve
+- **File**: obsidian/positions/ai-consciousness-scope.md
+- **Section**: positions
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-10-15
+- **Review file**: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md`
+- **Coordination**: run AFTER the P2 P-AC1 task above (same file, different entry; take the file as it then stands).
+- **Headroom**: NONE — 3,126 words, positions hard_warning. WORD-NEUTRAL: the amendment replaces "independence unverified" inside the existing 2026-10-15 note.
+- **Notes**: Verified 2026-10-15 09:08Z at arXiv: Wenlong Wang & Fergal Reid, submitted 1 Sep 2026, abstract contains "a workspace forms" verbatim; affiliations are in the PDF, not the abs page. Schema: Grade B = "some independent support", C = "limited or indirect independent support". If neither author is Anthropic-affiliated → record "independent, un-refereed" and B stands; if either is → C by the entry's own rule ("Grade A on refereeing or a second independent group" implies B needs at least one independent group), with the date. Do not re-argue the phenomenal clause.
+
+### P3: `positions/ai-consciousness-scope` P-AC3 heading "Under closed individualism, conscious copies are morally additive" still reads closed individualism as the sufficient antecedent after the 2026-10-08/10-15 repairs made additivity a separate premise — retitle to carry both premises per P-M4 and propagate to the description and `positions/positions.md` L88 (pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state Issue 4)
+- **Type**: positions-evolve
+- **File**: obsidian/positions/ai-consciousness-scope.md
+- **Section**: positions
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-10-15
+- **Review file**: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md`
+- **Secondary files**: obsidian/positions/positions.md
+- **Coordination**: run AFTER the two P-AC1/P-AC4 tasks above on this file; independent of the open L1566 P-AC3 cascade task (that one edits the three dependents, this one the heading they quote — run this FIRST if both are live so the dependents copy the new title).
+- **Headroom**: NONE — 3,126 words, positions hard_warning. +6 words for the title; donor inside P-AC3 Asserts: "This makes explicit a consequence the individuation register left implicit." (11 words) — no longer true now that P-I4 names the summing premise as P-AC3's own.
+- **Notes**: Suggested heading: "Under closed individualism and an additive counting rule, conscious copies are morally additive". The `^p-ac3` block anchor sits on the Status line, so `#^p-ac3` deep links survive; heading-text links (`#P-AC3: Under closed individualism...`) must be grepped in both anchor dialects across obsidian/ and archive/ before the rename (expect few; `voids/numbing-void` uses `#^p-ac3`). Propagate the clause to the file description ("conscious copies as morally additive under closed individualism") and `positions/positions.md` L88. P-M4: titles calibrated down to the conditional the body defends. Record a dated Updated note; no band move.
+
 ## Completed Tasks
 
 
