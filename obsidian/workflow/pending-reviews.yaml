@@ -190,9 +190,9 @@
   commissioned_at: '2026-10-15T02:07:11.156797+00:00'
   prompt_summary: Audit positions/ai-consciousness-scope (post-2026-10-08 claims)
   target_filename: outer-review-2026-10-15-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-15T04:40:24.464291+00:00'
   failure_reason: null
   prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site: the positions-register entry at https://unfinishablemap.org/positions/ai-consciousness-scope/

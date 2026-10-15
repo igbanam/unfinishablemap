@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-15T04:47:02+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject `positions/ai-consciousness-scope`, fallback:recent-aged)
+- **File**: [outer-review-2026-10-15-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-15-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 19 (12 on disk, 7 external: Gurnee et al. arXiv 2607.15495; the Anthropic commentary PDF text-extracted — Dehaene "ignition remains to be fully demonstrated", Butlin "modest increase"; Nanda/Qwen replication; F. Koch 2026 niag061 — NOT Christof; Kleiner & Ludwig 2024 niae037; Butlin et al. TiCS 30(6) doi:10.1016/j.tics.2025.10.011; Piller 2026 Utilitas 38(3)); 5 partly right (wrong paths for ethics-under-dualism and positions/identity; Birch label vs logic; [P-AC2](/positions/ai-consciousness-scope/#p-ac2) first sentence; TiCS year)
+- **High-value findings**: 4 — [P-AC3](/positions/ai-consciousness-scope/#p-ac3) still "follows from" [P-I1](/positions/individuation-and-subjecthood/#p-i1) at three loci after the 10-08 repair and circles with [P-I4](/positions/individuation-and-subjecthood/#p-i4); [P-AC4](/positions/ai-consciousness-scope/#p-ac4) "indicates nothing" vs the commentaries it leans on; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) debt-without-band-change; typology files IIT under functional phenomenality
+- **Tasks generated**: 4 new (P1: 1 positions-evolve; P2: 2 positions-evolve, 1 refine-draft) + 1 raised P3→P2 (the 2026-10-08 [P-AC3](/positions/ai-consciousness-scope/#p-ac3) cascade task, two loci added). Methodology items 19–24 reserved for the operator / combine-outer-reviews; three converge with open NEEDS-HUMAN records.
+- **Length**: all target files at hard_warning or headroom 0; every task briefed word-neutral-or-negative with donors
+
 ## 2026-10-15T03:36:59+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Impossible-Percept Void — contents perception presents but thought cannot hold (waterfall illusion, Penrose figures, Won–Gross–Firestone impossible weight), and why introspection cannot settle whether a percept is contradictory
