@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-10-12 13:40:45+00:00
+ai_modified: 2026-10-15 19:50:01+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-23 20:47:55+00:00
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-15 19:50:01+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -94,7 +94,7 @@ Penrose himself is not a dualist: he seeks consciousness within physics, through
 
 A conceptual gap separates Penrose's proposal from the Map's use of it. Gravitational OR determines *when* collapse occurs—the timescale τ ≈ ℏ/E_Δ is fixed by physics—but not *which outcome* it selects; that remains statistically constrained by the Born rule, confirmed to high precision. The Map's proposal that consciousness biases outcome selection therefore commits to a deviation from Born statistics subtle enough per-trial to evade existing constraints yet cumulative enough to do real cognitive work—an empirical commitment, not a free parameter (see [Born rule and the consciousness interface](/topics/born-rule-and-the-consciousness-interface/) for what such a bias would and would not produce).
 
-The framework accordingly treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among Born-permitted outcomes—the same division of labour by which [GRW and CSL](/concepts/spontaneous-collapse-theories/) provide baseline collapse that consciousness modulates rather than creates. Whether that selection works through attentional observation ([Stapp's Zeno model](/concepts/stapp-quantum-mind/)) or through modulation of collapse parameters in high-Φ systems (the [CSL-IIT hybrid](/topics/comparing-quantum-consciousness-mechanisms/)) remains open; [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) compares them.
+The framework accordingly treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among Born-permitted outcomes—the same division of labour by which [GRW and CSL](/concepts/spontaneous-collapse-theories/) provide baseline collapse that consciousness modulates rather than creates. On the Map's ordering that selection preempts the outcome after collapse, not its rate or timing ([post-decoherence-selection](/concepts/post-decoherence-selection/)); attentional holding ([Stapp's Zeno model](/concepts/stapp-quantum-mind/)) and parameter modulation in high-Φ systems (the [CSL-IIT hybrid](/topics/comparing-quantum-consciousness-mechanisms/)) are demoted fallbacks ([P-Q4](/positions/quantum-interface/#p-q4), [P-Q2](/positions/quantum-interface/#p-q2)); [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) compares them.
 
 ## The No-Collapse Alternative
 

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15T19:19:46+00:00
+ai_modified: 2026-10-15T19:50:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-15T19:50:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 3 / proposal 4: attentional holding and parameter modulation presented as the framework's open options for how selection works)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence fix per review)
+- **Changes**:
+  - L94, second sentence, review's exact text: "Whether that selection works through attentional observation ([[stapp-quantum-mind|Stapp's Zeno model]]) or through modulation of collapse parameters in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) remains open; [[forward-in-time-conscious-selection]] compares them." → "On the Map's ordering that selection preempts the outcome after collapse, not its rate or timing ([[post-decoherence-selection]]); attentional holding ([[stapp-quantum-mind|Stapp's Zeno model]]) and parameter modulation in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) are demoted fallbacks (P-Q4, P-Q2); [[forward-in-time-conscious-selection]] compares them." (27 → 39). Old string confirmed to occur exactly once before replacement; `post-decoherence-selection` was not linked anywhere in L88–L98, so it went in bare as the review specifies.
+  - Left as the review specifies: L94's first sentence ("…baseline collapse that consciousness modulates rather than creates"), L110's quoted label, and the section heading "From Collapse Mechanism to Consciousness Modulation".
+  - Pronoun check: "that selection" still refers back to "the *selection* among Born-permitted outcomes" (sentence 1); "its rate or timing" refers to collapse; "compares them" still refers to the two mechanisms named just before it. The paragraph ends before "## The No-Collapse Alternative". No repair needed.
+- **Word count**: 3929 → 3941 (+12; topics hard 4000, gate `>=` not reached; 58 headroom left). Measured with `analyze_length`.
+- **Calibration**: the preemption appears as the Map's ordering ("On the Map's ordering…") and nothing presents it as established. It is still a posit with mechanism debt (P-Q3/P-Q10, no worked model).
+- **Engagement classification**: n/a (a Map self-statement about its own mechanism options; no named-opponent reply was changed).
+- **Frontmatter**: `ai_modified` → 2026-10-15T19:50:01+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`. `modified` was left unchanged.
+- **Published**: yes
 
 ## 2026-10-15T19:19:46+00:00 - refine-draft
 - **Status**: Success

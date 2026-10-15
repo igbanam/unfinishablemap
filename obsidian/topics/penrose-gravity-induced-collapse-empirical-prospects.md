@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a g
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-10-12T13:40:45+00:00
+ai_modified: 2026-10-15T19:50:01+00:00
 last_deep_review: 2026-07-23T20:47:55+00:00
 draft: false
 topics:
@@ -91,7 +91,7 @@ Penrose himself is not a dualist: he seeks consciousness within physics, through
 
 A conceptual gap separates Penrose's proposal from the Map's use of it. Gravitational OR determines *when* collapse occurs—the timescale τ ≈ ℏ/E_Δ is fixed by physics—but not *which outcome* it selects; that remains statistically constrained by the Born rule, confirmed to high precision. The Map's proposal that consciousness biases outcome selection therefore commits to a deviation from Born statistics subtle enough per-trial to evade existing constraints yet cumulative enough to do real cognitive work—an empirical commitment, not a free parameter (see [[born-rule-and-the-consciousness-interface|Born rule and the consciousness interface]] for what such a bias would and would not produce).
 
-The framework accordingly treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among Born-permitted outcomes—the same division of labour by which [[spontaneous-collapse-theories|GRW and CSL]] provide baseline collapse that consciousness modulates rather than creates. Whether that selection works through attentional observation ([[stapp-quantum-mind|Stapp's Zeno model]]) or through modulation of collapse parameters in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) remains open; [[forward-in-time-conscious-selection]] compares them.
+The framework accordingly treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among Born-permitted outcomes—the same division of labour by which [[spontaneous-collapse-theories|GRW and CSL]] provide baseline collapse that consciousness modulates rather than creates. On the Map's ordering that selection preempts the outcome after collapse, not its rate or timing ([[post-decoherence-selection]]); attentional holding ([[stapp-quantum-mind|Stapp's Zeno model]]) and parameter modulation in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) are demoted fallbacks (P-Q4, P-Q2); [[forward-in-time-conscious-selection]] compares them.
 
 ## The No-Collapse Alternative
 
