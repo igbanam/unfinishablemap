@@ -75,16 +75,19 @@ p-a6:
     makes contact — confidence: moderate · no independent evidence · moderately central'
   weak: 'yes'
 p-ac1:
-  bands: 'confidence: moderate · no independent evidence · moderately central'
+  bands: moderate *conditional* on an interface-eligibility law; low-to-moderate all-things-considered
+    while that law is unwritten · no independent evidence · moderately central
   claim: Current conventional digital AI sits on the low-probability side of the substrate analysis
-  credence: moderate
+  credence: moderate *conditional* on an interface-eligibility law; low-to-moderate all-things-considered
+    while that law is unwritten
   grade: D
   id: P-AC1
   slug: ai-consciousness-scope
   status: live
   structural_centrality: moderate
   summary: 'P-AC1: Current conventional digital AI sits on the low-probability side of the substrate analysis
-    — confidence: moderate · no independent evidence · moderately central'
+    — moderate *conditional* on an interface-eligibility law; low-to-moderate all-things-considered while
+    that law is unwritten · no independent evidence · moderately central'
   weak: 'yes'
 p-ac2:
   bands: 'confidence: low · no independent evidence · peripheral to the framework'
