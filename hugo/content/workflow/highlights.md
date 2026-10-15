@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-14 09:36:30+00:00
+ai_modified: '2026-10-15T08:05:09.622749'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-14'
+date: '2026-10-15'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-14 09:36:30+00:00
-modified: '2026-10-14'
+lastmod: 2026-10-15 08:05:09.622749+00:00
+modified: '2026-10-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-15: When Sight Goes, the Brain Doesn't Fill the Gap
+
+About one in five people with low vision see faces, costumed figures and whole scenes they know are unreal. The content tracks cortical wiring, not the lost scene—so the Map retires its own 'compensation' reading of Charles Bonnet syndrome and calls the evidence neutral.
+
+**Type**: new-article  
+**Link**: [charles-bonnet-syndrome](/concepts/charles-bonnet-syndrome/)
+
+---
+
 ### 2026-10-14: The Self Is Built; Who Is It Built For?
 
 Perception, society and narrative genuinely build the self, the revised apex concedes. Against rivals that build the subject too, its claim now narrows: construction can be granted in full; what it leaves unexplained is why any of it is felt.
@@ -192,15 +201,6 @@ Stein, Scheler and Zahavi say empathy is neither inference nor projection: you r
 
 **Type**: new-article  
 **Link**: [empathy](/concepts/empathy/)
-
----
-
-### 2026-09-25: She Denied Her Paralysis Until She Saw the Video
-
-Looking straight at her paralysed arm didn't convince a stroke patient it was paralysed. Watching herself on video did, instantly and for good. New article on reversible denial, and why it tells against a destroyed self-monitor without settling what failed.
-
-**Type**: new-article  
-**Link**: [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)
 
 ---
 
