@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T00:34:15+00:00
+ai_modified: 2026-10-16T01:37:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T01:37:43+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the self-stultification wing after all four pessimistic-2026-10-08 priorities landed (10-09 → 2026-10-16 00:35Z). Both hubs were read in full (`concepts/self-stultification`, `topics/self-stultification-as-master-argument`), plus the tenets `^tenet-3-epiphenomenalism` block, the seven repaired loci, and the dependents `arguments/epiphenomenalism-argument`, `concepts/epiphenomenalism`, `concepts/knowledge-argument`, `concepts/phenomenal-acquaintance` and `topics/metaproblem-of-consciousness-under-dualism`.
+- **Verified this run**: Jackson 1982 pp. 134–135 at the raw JSTOR scan (common-cause structure; deployed by Jackson against the other-minds objection, which the hub's wording correctly fences). Yetter-Chappell 2022 checked at Crossref (Synthese 200(2), art. 99). Every Map string quoted was counted once.
+- **Key finding**: the hub's 00:23Z fix ("lawful rather than coincidental") has seven string-siblings still live on the two epiphenomenalism pages: "pre-established harmony" and "implausible coincidences", which `concepts/occasionalism` L59's own definition rules out. Another sibling is at `concepts/consciousness` L117 ("only by luck"). The hub's Performative Dimension L171 is the last flat retorsion in the two hubs.
+- **New subject for the harvester**: acquaintance without causation vs the self-stultification argument (the Map's own acquaintance thesis grants the epiphenomenalist's premise; the argument properly lives at report and assertion). Deduped: not covered.
+- **Tasks added** (P3 refine-draft, above `## Completed Tasks`): epiphenomenalism-argument (+35), concepts/epiphenomenalism (+6), hub self-stultification (+14), master argument (+78, incl. the Crossref-verified Yetter-Chappell reference), concepts/consciousness (+10).
+- **Output**: [[reviews/optimistic-2026-10-16-self-stultification-repair-wing]]
 
 ## 2026-10-16T00:34:15+00:00 - refine-draft
 - **Status**: Success
