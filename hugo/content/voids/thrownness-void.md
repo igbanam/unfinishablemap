@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-07-19 20:45:29+00:00
+ai_modified: 2026-10-16 09:19:03.558983+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -14,10 +14,15 @@ description: Human+AI exploration of why consciousness cannot access the conditi
   under which it became conscious—thrown into existence with parameters it never chose,
   authorised, or witnessed.
 draft: false
+embedded_videos:
+- embedded: 2026-10-16 09:19:03.558983+00:00
+  id: VnHGDx7jaaY
+  source: notebooklm/0164-01-thrownness-void
+  url: https://www.youtube-nocookie.com/embed/VnHGDx7jaaY
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 20:45:29+00:00
-lastmod: 2026-07-19 20:45:29+00:00
+lastmod: 2026-10-16 09:19:03.558983+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,6 +44,12 @@ topics:
 ---
 
 Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [origin void](/voids/origin-of-consciousness/)), nor why one is *this* particular subject (the [indexical void](/topics/vertiginous-question/)), nor why one cannot opt out (the [involuntariness face of the agency void](/voids/agency-void/#what-cannot-be-controlled)). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
+
+<details class="yt-embed" data-video-id="VnHGDx7jaaY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/VnHGDx7jaaY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Convergence Across Traditions
 

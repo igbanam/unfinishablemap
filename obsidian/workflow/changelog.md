@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T09:10:59+00:00
+ai_modified: 2026-10-16T10:08:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T10:08:03+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Tempo Void — consciousness cannot read the rate at which its own experience runs; tempo appears only as a relation to the world, only when it changes faster than adaptation, and is credited to the world rather than the self
+- **Category**: Mixed — Unexplorable core (no absolute tempo is a possible introspective content; Poincaré's universal-expansion argument transposed to time), Unexplored face (no in-the-moment passage probe without retrospective report), thin Occluded face (adaptation re-zeroes expected timing)
+- **Output**: [[research/voids-tempo-void-2026-10-16]] (5,236 words by `analyze_length`)
+- **Key finding**: "time slowed down" in danger is an unresolved three-way dispute (Stetson et al. 2007 memory; Arstila 2012 processing speed; Phillips 2013 relative-to-mental-stream) that introspection cannot settle, because every report is retrospective and each mechanism yields the same words; the record splits by condition (free-fall fear: no resolution gain; Hagura et al. 2012 action preparation: resolution gain). Framework-neutral, no evidential gain for dualism; flags `topics/temporal-consciousness-structure-and-agency` L144 and `apex/time-consciousness-growing-block` L71 ("different modes of temporal experience rather than failures of time estimation") as asserting a distinction introspection cannot draw — surfaced, not tasked.
+- **Selection**: voids 113/125 by `count_section_files`. Stem regex (tempo/rate/pace/speed/clock) over filenames and titles of 436 voids pages, banked notes and archive: 0 hits (control `temporal`: 5). Literature anchors Stetson, Arstila, tachypsychia, chronostasis, Yarrow, Zakay, Hagura, Noyes, Kletti, Pariyadath, Ovsiew, Kesserwani, zeitraffer, Delbeuf, critical flicker, Goody: 0 hits corpus-wide (controls Mellor/Kinsbourne hit). Rejected as covered: innocent-eye/constancy (reconstruction-paradox concept), meta-perception (self-signature → `self-opacity`), folk-physics suppression (`conceptual-metabolism-void`), speaking-thinking/Kleist (language-thought-boundary, felt sense, self-prediction note).
+- **Verification**: 24 citations Crossref-verified; 56 quotations grep-verified against fetched raw text (0 misses) — full texts of Stetson 2007, Arstila 2012, Pariyadath & Eagleman 2007, Buckley 2014, Kesserwani 2020, Hagura 2012, Eagleman 2008; OpenAlex abstracts of Phillips 2013, Jones et al. 2011, Healy et al. 2013, Ovsiew 2014; Poincaré (marxists.org), Dennett & Kinsbourne (course mirror), Egan (author site). Secondary/UNVERIFIED and tagged: Noyes & Kletti figures and quotes (via Arstila), Goody quote (Sacks 2004 New Yorker 404), Olson 2009 and Shoemaker 1969 characterisations (403/not read), Poincaré essay first-publication date. Primary-source defects recorded: Stetson's 31 m/46 m vs "50 meters" and p = 0.86 vs 0.98; Eagleman 2008 repeats "50 meter"/"3 second"; Arstila's "did not report" overstates (Stetson logs a duration report).
+- **Recommendation**: FOLD into [[temporal-void]] "The Duration Paradox" (2440/3000, 559 headroom; fold costs ~250–310). Ranked below veto and dormancy, level with serial-order, above grammar and contingency; not graded against self-prediction/impossible-percept. `resolution-void` (10 headroom) and `self-opacity` (70 over hard) ruled out as hosts. Standalone slug if a slot is granted: `tempo-void`.
+- **State**: appended `{research_file: obsidian/research/voids-tempo-void-2026-10-16.md, target_section: voids}` to `task_chains.pending_articles` by targeted text insert (YAML re-parsed: 20 entries). No todo.md edit (the NEEDS-HUMAN voids-slot task owns the decision).
 
 ## 2026-10-16T09:10:59+00:00 - research-topic
 - **Task**: Research Acquaintance Without Causation and the Self-Stultification Argument (P2; harvested from `reviews/optimistic-2026-10-16-self-stultification-repair-wing.md` High-Priority opportunity A)
