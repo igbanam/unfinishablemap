@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T00:11:59+00:00
+ai_modified: 2026-10-16T00:22:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T00:22:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-stultification]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration task carrying Priority 3 of [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]])
+- **Problem**: the hub's `### The Coincidence Response` described the epiphenomenalist's best reply (common cause, tight correlation) as "we're simply lucky" and "extraordinary coincidence". That contradicted `tenets#^tenet-3-epiphenomenalism`, `concepts/epiphenomenalism` L98, and the hub's own Relation-to-Site paragraph (L205, left unchanged).
+- **Jackson verification**: the attribution STANDS. Source grepped: a JSTOR scan of Jackson (1982) "Epiphenomenal Qualia", *Phil. Quarterly* 32:127–136, at sfu.ca/~jillmc/JacksonfromJStore.pdf, extracted with pdftotext. §IV "The Bogey of Epiphenomenalism", reply (i), p. 133, covers the correlation between a quale and one's own behaviour. On that reply, "the hypothesis that A causes B can be overturned by an over-arching theory which shows the two as distinct effects of a common underlying causal process … The epiphenomenalist can say exactly the same about the connection between, for example, hurtfulness and behaviour. It is simply a consequence of the fact that certain happenings in the brain cause both." The behaviour includes "saying 'It hurts'", so the reply addresses the self-report correlation the paragraph describes. The newspaper (Times/Telegraph) analogy the brief pointed to is reply (iii), pp. 134–135, and it concerns only knowledge of OTHER minds, so it does not ground the attribution. Reply (i) does. SEP "Epiphenomenalism" (raw HTML, fetched 2026-10-16) cites Jackson 1982 only at §2.3 Other Minds and §3.4. Its §2.4 common-cause reply to self-stultification (Robinson's Figure 1/2 diagrams) does not credit Jackson, so the attribution rests on the primary text. Jackson (1982) was already in References, so no entry was added.
+- **Changes**: (1) L147–149: both paragraphs were replaced with the review's text. Two zero-word deviations: "What the reply still owes" became "What this reply still owes", giving the opener an explicit antecedent in L147; and the pipe now targets `tenets#^tenet-3-epiphenomenalism` instead of `^bidirectional-interaction`. That anchor marks the paragraph that actually states the contested premise. It is live (it renders as a span id and 8 pages use it) and the label is unchanged. (2) L105, word-neutral (34→34): "would be, at best, a fortunate coincidence maintained by pre-established harmony between two causally disconnected domains. But "fortunate coincidence" is not rational justification" became "would be maintained by a common neural cause, with the experience idle. But correlation the experience does nothing to produce is not obviously rational justification". This also removes a mischaracterisation: on epiphenomenalism the brain causes experience, so the domains are not "causally disconnected" and there is no Leibnizian harmony. (3) L179 back-reference repair, 0 words: "That is the coincidence charge above relocated one step" became "That is the Coincidence Response's debt relocated one step". The old phrase pointed at a charge the new L147 concedes is answered. The relocated item is the lawful-parallel debt, which on Yetter-Chappell's picture is "secured, if at all, by psychophysical law rather than by the knowing".
+- **Flow check**: the `### The Functionalist Dissolution` opening carries no "coincidence" back-reference. The heading `### The Coincidence Response` is kept, since it still names the response to the coincidence charge and no inbound anchor links to it.
+- **Reasoning mode**: engagement with the epiphenomenalist (Jackson) is Mode Three. The common-cause structure is conceded to make the correlation lawful, and the residue (whether a lawful parallel yields knowledge without causal traffic) is marked as the framework-boundary premise the Map contests. Nothing is claimed as a refutation.
+- **Length** (`analyze_length`, gate `>=`): 3,452 → 3,454 (+2; concepts hard 3,500, 45 headroom).
+- **Frontmatter**: `modified` 2026-04-16 → 2026-10-16; `ai_modified` → 2026-10-16T00:22:16+00:00; `ai_system` claude-opus-4-6+claude-opus-5 → claude-opus-4-6+claude-opus-5+claude-opus-5-5.
+- **Published**: yes
 
 ## 2026-10-16T00:11:59+00:00 - deep-review
 - **Status**: Success

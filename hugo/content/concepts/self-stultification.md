@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-09-21 17:20:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-16 00:22:16+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/self-stultification/
@@ -17,7 +17,7 @@ concepts:
 - '[[intentionality]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-02-02
-date: &id001 2026-04-16
+date: &id001 2026-10-16
 description: A position is self-stultifying—epistemically self-defeating—when accepting
   it undermines the rational grounds for believing it. This structure presses epiphenomenalism
   hard and threatens physicalism.
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 07:45:00+00:00
-lastmod: 2026-09-21 17:20:00+00:00
+lastmod: 2026-10-16 00:22:16+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -106,7 +106,7 @@ The [epiphenomenalist](/concepts/epiphenomenalism/) holds that consciousness is 
 
 Consider what this means for introspective reports. When you say "I'm in pain," the epiphenomenalist claims the pain experience doesn't cause the utterance. Brain states cause both the pain and the statement about pain, but the statement isn't *about* the pain in any causally grounded sense; the pain is merely a correlated byproduct.
 
-If your reports about consciousness are not caused by consciousness, why would they be accurate? The correlation between your conscious states and your reports about them would be, at best, a fortunate coincidence maintained by pre-established harmony between two causally disconnected domains. But "fortunate coincidence" is not rational justification.
+If your reports about consciousness are not caused by consciousness, why would they be accurate? The correlation between your conscious states and your reports would be maintained by a common neural cause, with the experience idle. But correlation the experience does nothing to produce is not obviously rational justification.
 
 The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory)—that genuine aboutness derives from phenomenal character—deepens this problem: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If intentionality derives from phenomenal character, the position is doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character gives the denial its meaning.
 
@@ -148,9 +148,9 @@ A deeper objection: reliability is itself a normative concept. A process counts 
 
 ### The Coincidence Response
 
-The epiphenomenalist might accept that the correlation between consciousness and accurate reports is coincidental but argue that we're simply lucky—our reports happen to track our experiences even without causal connection.
+The epiphenomenalist need not call the correlation luck: on Jackson's (1982) common-cause structure the brain state produces both the experience and the report, so the tracking—pain with injury, red-beliefs with red experiences—is lawful rather than coincidental.
 
-This strains credulity. The tracking is remarkably precise: pain accompanies injury, not pleasure; beliefs about red correlate with red experiences, not blue ones. Such systematic correlation without causal connection would be extraordinary coincidence.
+What this reply still owes is an account of how a lawful parallel yields *knowledge* of experience without causal traffic from it—the premise the Map contests at [Bidirectional Interaction](/tenets/#tenet-3-epiphenomenalism).
 
 ### The Functionalist Dissolution
 
@@ -180,7 +180,7 @@ None of the replies above disputes that the subject doing the judging is a physi
 
 This blocks the classic formulation above at its third step, which assumes the belief was produced entirely by neural processes. On Yetter-Chappell's picture the judgment is not a neural event, so the premise is denied rather than answered, and a reply that restates the causal-disconnection charge talks past her.
 
-The price is a non-physical subject that is nonetheless causally inert, and it comes due at a particular place. Whatever that subject judges, the sentences that reach the debate are produced by the brain with no contribution from the judging. Her commitment to inertness therefore leaves the coordination between judgment and assertion unexplained: the fit between what the subject knows by acquaintance and what its body says about it is secured, if at all, by psychophysical law rather than by the knowing. That is the coincidence charge above relocated one step, and it sharpens the performative point rather than answering it.
+The price is a non-physical subject that is nonetheless causally inert, and it comes due at a particular place. Whatever that subject judges, the sentences that reach the debate are produced by the brain with no contribution from the judging. Her commitment to inertness therefore leaves the coordination between judgment and assertion unexplained: the fit between what the subject knows by acquaintance and what its body says about it is secured, if at all, by psychophysical law rather than by the knowing. That is the Coincidence Response's debt relocated one step, and it sharpens the performative point rather than answering it.
 
 So the argument survives in narrower form. Against an opponent who pays this price it no longer shows that epiphenomenalism cannot be rationally believed, only that it cannot be rationally *asserted*, since the assertion is not an expression of the belief it voices—a real retreat from the classic conclusion, worth conceding plainly. Two things are untouched. The physicalist and eliminativist targets stand, because the dissolution is available only to someone already willing to be a dualist about subjects. And what then separates the Map from this opponent is narrow: whether an admittedly non-physical subject is inert or exercises the minimal influence [Bidirectional Interaction](/tenets/#bidirectional-interaction) posits. Self-stultification does not settle that—as [the formal-authority synthesis](/apex/authority-of-form/) also concludes—and the disagreement runs closer to bedrock than the classic formulation suggested.
 
