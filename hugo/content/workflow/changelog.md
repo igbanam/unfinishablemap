@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-15 23:52:15+00:00
+ai_modified: 2026-10-16 00:11:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-15'
-lastmod: 2026-10-15 23:52:15+00:00
+date: '2026-10-16'
+lastmod: 2026-10-16 00:11:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T00:11:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-social-choice-problem](/concepts/psychophysical-social-choice-problem/) (scorer pick: never reviewed, score 102)
+- **Word count**: 2937 → 2937 (net 0; `analyze_length`; concepts soft 2500 / hard 3500, gate `>=`, length-neutral mode)
+- **Critical issues addressed**: 2. (1) An internal contradiction: L61 said lexical priority was "the only option on which a subject's moral standing and causal standing would coincide", and L87 exempted it from "leverage varies … with felt intensity". Under lexical priority, leverage tracks stakes (severity), not threshold status. L61 now reads "It lets moral urgency fix causal priority outright"; L87 now reads "On every rule above, lexical priority included". (2) Arrow 1963 2nd ed. publisher corrected from Yale UP to Wiley (Cowles Foundation CFM 12.2 catalogue page; CiNii).
+- **Medium issues addressed**: 3. L37 "pricing rules of that shape, and none of them is neutral" → "pricing aggregation rules, and none comes free": stochastic schemes date only from c.1969–77, and "neutral" is a social-choice term of art that majority rule satisfies. L73: the locality confinement is now priced on both bets the multi-agent sibling names, neural physics and the contested baseline objective collapse. L113: "a group subject" → "a phenomenal group subject", matching L95.
+- **Enhancements made**: 2 low. L57: the unsourced quoted coinage "utilitarian natural law" was reworded without quotation marks. L65: "joint-level ensemble-level" reordered.
+- **Citations**: all 12 external entries web-verified (Crossref; RePEc pages; the Econometric Society abstract page for both Gibbard quotations; Bostrom's PDF; arXiv for Chalmers & McQueen; live SEP HTML for List 2022, revision date Fri Oct 14, 2022). 11 real-correct and 1 real-wrong-metadata (Arrow). No orphans.
+- **Reasoning mode**: engagement with Chalmers & McQueen was boundary-marking (the price is outcome-selection, which Tenet 3 commits to). Engagement with List & Pettit was mixed (the phenomenal group subject is set aside at the boundary; the functional group agent is conceded as compatible).
+- **Not touched**: L79 ("Which reading the register holds is open") is fenced by the P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier.
+- **Follow-up (not minted)**: `research/psychophysical-social-choice-problem-2026-09-15` L51/L228 carry the same Yale-UP error for Arrow's 2nd edition.
+- **Frontmatter**: `ai_modified` and `last_deep_review` (new field) set to the review time; `ai_system` unchanged (claude-opus-5-5 already present).
+- **Output**: [deep-review-2026-10-16-psychophysical-social-choice-problem](/reviews/deep-review-2026-10-16-psychophysical-social-choice-problem/)
 
 ## 2026-10-15T23:52:15+00:00 - refine-draft
 - **Status**: Success
