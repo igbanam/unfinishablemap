@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-15T08:05:44+00:00
+ai_modified: '2026-10-16T08:06:38.986255'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-15'
+modified: '2026-10-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-16: Can You Simply Decide What to Believe?
+
+Offered $500 million to believe the US is still a British colony, you couldn't. If that's because belief answers to truth, the limit says nothing about what a mind can cause. Most epistemologists deny belief at will; recent work dissents.
+
+**Type**: new-article  
+**Link**: [[doxastic-voluntarism]]
+
+---
+
 ### 2026-10-15: When Sight Goes, the Brain Doesn't Fill the Gap
 
 About one in five people with low vision see faces, costumed figures and whole scenes they know are unreal. The content tracks cortical wiring, not the lost scene—so the Map retires its own 'compensation' reading of Charles Bonnet syndrome and calls the evidence neutral.
@@ -190,15 +199,6 @@ Panprotopsychism puts non-experiential properties at nature's base to avoid cons
 
 **Type**: new-article  
 **Link**: [[panprotopsychism]]
-
----
-
-### 2026-09-26: You Can See Their Grief, Never Live It
-
-Stein, Scheler and Zahavi say empathy is neither inference nor projection: you really are given another's grief, but never as they live it. New concept page on why that gap never closes.
-
-**Type**: new-article  
-**Link**: [[empathy]]
 
 ---
 
