@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T11:23:06+00:00
+ai_modified: 2026-10-16T11:43:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T11:43:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/nondualistic-interactionism]]
+- **Selection**: chosen by the shipped scorer (`scripts/deep_review.py next`). Score 101, never reviewed. It is a fresh create from 2026-10-14, with one commit.
+- **Word count**: 2,294 → 2,436 (+142) by `analyze_length`. Concepts soft is 2,500 and hard is 3,500, gate `>=`. The article is still below soft.
+- **Critical issues addressed**: 3.
+  - (1) L56: the p. 193 "a new kind of causal relation" quote dropped Griffin's own self-correction, "or, more precisely, an extreme exemplification of a kind of causal relation …".
+  - (2) L94: "Griffin's main case against dualism" was the continuity charge, but Griffin numbers the interaction of unlike things as "1. The chief problem" and continuity as charge 2 (pp. 49–51).
+  - (3) L88: "never as the locus of the mind's action" is contradicted by p. 191n, where Griffin borrows Elsasser's point that quantum laws "do not uniquely determine the happenings on the microscopic level" to show that the mind's reach into bodily particles breaks no law.
+- **Medium issues addressed**: 7.
+  - "closest rival" became "closest non-dualist rival", in the lead and the description.
+  - "no brain, no dominant occasions" became "sits with Hasker on origin". Griffin 1997 (SUNY) treats the nondualistic distinction as making life after death conceivable; this rests on metadata and jacket copy only.
+  - A closure/completeness bridge was added to the Chalmers paragraph.
+  - The Chalmers qualifier was restored ("hope to avoid").
+  - Compound-individual scope was fixed: "the most obvious examples" (p. 186) and "especially humans and other higher animals" (p. 188).
+  - A citation of an internal review was removed from article prose (L84).
+  - "psi chapter" became "parapsychological data (ch. 5)".
+- **Citations**: all four cited works web-verified (Griffin 1998 and Chalmers 2003 real-correct, Kim 1999 real-correct, Griffin 1997 newly added, metadata-correct). Every Griffin quotation was grep-verified as one exact string in both full texts (UC Press e-edition and newdualism.org), with 1 hit each and pages checked against the `JD_Page` markers. Kim and Chalmers quotations were grep-verified in the raw texts. The per-cite ledger is in the review.
+- **Engagement**: Kim's composition demand is Mode Two, an unsupported foundational move. Chalmers's high-level caveat is Mode One inside his own taxonomy, ending at Mode Three. The conservation stance and the kind axis are Mode Three. There is no label leakage.
+- **Frontmatter**: `modified` 2026-10-16, `ai_modified` and `last_deep_review` both 2026-10-16T11:43:41+00:00, `ai_system` claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5.
+- **Follow-up (not actioned)**: `research/nondualistic-interactionism-2026-10-13` carries the same three defects. They are at L168/L209/L244 (the p. 193 truncation), L267 ("It is never the locus of the mind's action on the brain") and L306 ("Griffin's main case against dualism leans on continuity").
+- **Output**: [[reviews/deep-review-2026-10-16-nondualistic-interactionism]]
 
 ## 2026-10-16T11:21:09+00:00 - refine-draft
 - **Status**: Success
