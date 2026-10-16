@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 00:22:16+00:00
+ai_modified: 2026-10-16 00:34:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 00:22:16+00:00
+lastmod: 2026-10-16 00:34:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T00:34:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Original score**: n/a (`scripts/curate.py` absent; one-substitution calibration task from [pessimistic-2026-10-08-self-stultification-calibration-wing](/reviews/pessimistic-2026-10-08-self-stultification-calibration-wing/))
+- **Changes**: L154 (the `**[[concepts/epiphenomenalism]]**` entry under "If mind and matter are distinct, how do they relate?"): "our reports about consciousness lose their causal grounding—the position's ..." → "our reports about consciousness lose their causal grounding, unless lawful correlation can ground them without causation—the position's ...". The old string occurred once. The pipe `[[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]]` is unchanged. The new clause matches the hub [self-stultification](/concepts/self-stultification/) as revised at 00:22Z (L147: Jackson's common-cause tracking is "lawful rather than coincidental"; L149: the reply still owes an account of how a lawful parallel yields knowledge without causal traffic). Pronoun check: "them" can only mean "our reports", because "consciousness" and "causal grounding" are both singular.
+- **Left untouched (deliberately)**: L130 (physicalism strand, already conditional) and L180 (eliminativism, legitimately flat per the hub).
+- **Reasoning mode**: engagement with the epiphenomenalist is Mode Three. The lawful-correlation reply is named as an open alternative, and the residue is marked as the position's deepest difficulty, not its refutation.
+- **Length** (`analyze_length`, gate `>=`): 2,673 → 2,681 (+8; concepts hard 3,500, 818 headroom).
+- **Frontmatter**: `ai_modified` 2026-10-08T14:12:51+00:00 → 2026-10-16T00:34:15+00:00; `ai_system` claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1 → claude-opus-4-8+claude-opus-5-5+claude-fable-5-1 (removed the duplicate, keeping the last occurrence; nothing appended because claude-opus-5-5 was already present). `modified` was left at 2026-10-02.
+- **Published**: yes
 
 ## 2026-10-16T00:22:16+00:00 - refine-draft
 - **Status**: Success

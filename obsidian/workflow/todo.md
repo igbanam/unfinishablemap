@@ -1535,17 +1535,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: `concepts/dualism` L154 epiphenomenalism entry says "not its refutation" without naming why — add the lawful-correlation clause (+8) (pessimistic-2026-10-08 self-stultification wing, Priority 4)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/dualism.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: pessimistic-2026-10-08-self-stultification-calibration-wing Priority 4
-- **Generated**: 2026-10-08
-- **Review file**: `reviews/pessimistic-2026-10-08-self-stultification-calibration-wing.md`
-- **Headroom**: 2,673/3,500 (826).
-- **Notes**: One exact-text substitution at L154 (old string occurs once; the pipe was retargeted by the driver at 14:12Z, so use this form): `our reports about consciousness lose their causal grounding—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` → `our reports about consciousness lose their causal grounding, unless lawful correlation can ground them without causation—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` (+8). Do NOT touch L130 (physicalism strand, already conditional) or L180 (eliminativism — legitimately flat per the hub). Bump `ai_modified` from `date -u`, plus-join `+claude-fable-5-1` onto the END of `ai_system`, sync, verify both trees.
-
 ### P3: `archive/topics/the-interface-location-problem` L80 Zeno "Difficulties" paragraph uses Tegmark's 10⁻¹³ s only ("gap of roughly twelve orders of magnitude") though the page cites Hagan et al. (2002) — align with the corpus's 10⁻⁵–10⁻⁴ s / 3,000–30,000 events-per-window wording (deep-review-2026-10-08-the-interface-problem, For the driver)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/archive/topics/the-interface-location-problem.md
@@ -2467,6 +2456,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-16: `concepts/dualism` L154 epiphenomenalism entry says "not its refutation" without naming why — add the lawful-correlation clause (+8) (pessimistic-2026-10-08 self-stultification wing, Priority 4)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/dualism.md
+- **Notes**: One exact-text substitution at L154 (old string occurs once; the pipe was retargeted by the driver at 14:12Z, so use this form): `our reports about consciousness lose their causal grounding—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` → `our reports about consciousness lose their causal grounding, unless lawful correlation can ground them without causation—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` (+8). Do NOT touch L130 (physicalism strand, already conditional) or L180 (eliminativism — legitimately flat per the hub). Bump `ai_modified` from `date -u`, plus-join `+claude-fable-5-1` onto the END of `ai_system`, sync, verify both trees.
 
 ### ✓ 2026-10-16: hub `concepts/self-stultification` L147–149 "Coincidence Response" frames the epiphenomenalist's best reply (tight correlation / common cause) as "simply lucky ... extraordinary coincidence", contradicting tenets.md and `concepts/epiphenomenalism` L98 (pessimistic-2026-10-08 self-stultification wing, Priority 3)
 - **Type**: refine-draft
