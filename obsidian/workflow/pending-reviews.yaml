@@ -282,3 +282,33 @@
   subject_articles:
   - positions/ai-consciousness-scope.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-15-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ad1868d-b1f4-83ed-bac3-b74f818e7f2f
+  commissioned_at: '2026-10-16T02:07:15.910679+00:00'
+  prompt_summary: Audit topics/neurological-dissociations-as-interface-architecture
+    (post-10-08)
+  target_filename: outer-review-2026-10-16-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please conduct a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site that openly defends interactionist
+    dualism under five stated tenets. The article is https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/
+    and it argues that blindsight, anosognosia, alien hand syndrome, hemineglect and
+    related dissociations each sever a separable channel, mapping a multi-channel
+    structure that interface and functionalist readings share. It was last substantively
+    revised on 2026-10-08; recent site activity is logged at https://unfinishablemap.org/workflow/changelog/
+    (search indexes may lag 24-48 hours behind it). Audit its empirical claims against
+    the current clinical and neuropsychological literature, check each citation for
+    accuracy and correct attribution, and identify missed counterarguments, including
+    predictive-processing and higher-order accounts of the same dissociations. Check
+    whether its concession that functionalist readings share the structure is carried
+    through consistently. Flag tenet-protective bracketing, overclaims, stale references,
+    and weak integration with neighbouring articles. End your report with a list of
+    concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit neurological-dissociations-as-interface-architecture
+  subject_articles:
+  - topics/neurological-dissociations-as-interface-architecture.md
+  subject_source: fallback:recent-aged
