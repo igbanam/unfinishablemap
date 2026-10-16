@@ -1,14 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 03:46:49+00:00
+ai_modified: 2026-10-16 05:05:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 03:46:49+00:00
+lastmod: 2026-10-16 05:05:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T05:05:09+00:00 - research-topic
+- **Task**: Research ketamine dissociation and the retrosplenial rhythm — what the controlled pharmacological case (Vesuna 2020, Wehrman 2023) does to the Map's "parallel / independent route" claim (optimistic-2026-10-08-clinical-dissociation-wing item 4)
+- **Status**: SUCCESS
+- **Topic**: ketamine dissociation and the deep posteromedial / retrosplenial rhythm
+- **Output**: [ketamine-dissociation-retrosplenial-rhythm-2026-10-16](/research/ketamine-dissociation-retrosplenial-rhythm-2026-10-16/) (4,491 words)
+- **Sources consulted**: 15 cited, all PubMed-verified; 6 read in full text at PMC (Vesuna 2020 PMC7553818, Wehrman 2023 PMC10624770, Bera 2026 PMC12812183, Tian 2023 PMC10060225, Grent-'t-Jong 2021 PMC8686110, plus Hu 2025 abstract); 2 abstract-only because full text was blocked (Schmidt 2012, Weber 2020)
+- **Bera et al. 2026 resolved**: the review's UNVERIFIED citation is real — *The Neuroscientist* 32(1):72–88, PMID 41453872, doi 10.1177/10738584251403946, epub 2025-12-26. It was not yet PubMed-indexed when the outer review ran. Its "requisite network feature" phrase is verbatim and is attributed jointly to Vesuna 2020 and Hu et al. 2025.
+- **Answer to "independent of what?"**: independent of the psychogenic route's *generating mechanism* — yes, and better supported than when the clause was written (HCN1-paced 1–3 Hz layer-5 retrosplenial rhythm, optogenetically sufficient, knockout-necessary, drug-specific across eight agents); independent of the *precision-weighting family* — NOT established (Wehrman 2023 contains zero occurrences of `dissociat` and uses sub-disconnection doses, so it does not reduce dissociation to precision weighting; but its own discussion nominates HCN1 as plausibly "critical for functional predictive coding", a live bridge); independent of *level-of-consciousness change* — contested (Grent-'t-Jong 2021; Tian 2023 found propofol raises the same 3–4 Hz posteromedial power without dissociation); reaching the *same channels* as the clinical cluster — no (the rodent phenotype is detection-without-affect, the pain-asymbolia axis).
+- **Verdict**: (b) edits to existing pages, no new article. Required edit is net −1 word on `topics/clinical-dissociation-as-systematic-evidence` ("that do not reduce to" → "not yet reduced to"), which installs without the pending human length decision that has held skipped item (12) since 2026-10-08. Recommended companion is a +247-word mechanism paragraph with four references in `apex/pharmacological-dissociation-as-evidence` (275 words of measured headroom). No `task_chains.pending_articles` entry minted.
+- **Target**: none (research note only; no article or todo edited)
+- **References to review**: `reviews/optimistic-2026-10-08-clinical-dissociation-wing.md` item 4; `reviews/outer-review-2026-10-08-claude-fable-5-1.md` skipped item (12)
+
+## 2026-10-16T04:35:26+00:00 - coalesce
+- **Task**: coalesce cycle slot: delta check against the 2026-10-15T13:20Z screen, abandoned (steady state; no-candidate streak 29)
+- **Status**: SUCCESS (no candidate)
+- **Pool delta since 10-15 13:20Z**: `git log --diff-filter=ADR` on topics/concepts/voids/archive shows no additions, removals or renames, and the working tree has no uncommitted changes in those sections. 24 files were modified (12 concepts, 10 topics, 2 voids). Body-only `analyze_length` before (base `2fcb3ac4f0`) vs now: no article got shorter by more than 6 words (largest drops: `clinical-dissociation-as-systematic-evidence` −6, `consciousness-value-connection` −5, `forward-in-time-conscious-selection` −4). The rest grew, up to `fusion-void` +217 (1994 → 2211) and `the-interface-problem` +110. All 24 were edited within the recency window, so all are excluded anyway. None of the five pairs declined at 00:21Z changed, and nor did any file in the sub-1750w concepts tail. Gating counts are unchanged: concepts 359/370, topics 348/370 (raw 347, the known +1), voids 113/125.
+- **Age floor**: moving the 30-day `created` cutoff by one day (09-15 → 09-16) adds nothing, because no live article has a `created` date between 2026-09-08 and 2026-09-20 (positive control: the date distribution prints 09-07 and 09-21 entries).
+- **Recency-window re-entrants**: files whose latest edit is 10-14 were excluded at 13:20Z and are eligible again: 34 topics, 21 concepts, 7 voids. I filtered out sidecars and index files before pairing. Topics: 0 feasible pairs in the whole pool, and 0 near-feasible pairs with a re-entrant. Voids: 0 feasible. The 4 near-feasible void pairs all involve `simulation-detection-void` (1530w) and score low (J ≤ 0.32 with no mutual links; the slug overlap is only the shared `void` token). Concepts: the whole-pool feasible count went from 137 to 148. The 11 new pairs all come from the re-entrants `subjective-aim` (1863) and `timing-gap-problem` (1784) paired with the short tail (`the-agent-shaped-hole`, `phenomenal-presentation`, `mind-arena`, `phenomenal-depth`, `perception`, `status-of-content`); all have tag J ≤ 0.12, slug J 0 and no mutual links, so they are unrelated. The best near-feasible concepts pair is `prehension`+`subjective-aim` (3642 vs 3500, J 0.37, 3 links one way). It was declined 10-12 as two distinct Whitehead technical terms, it is still over the hard limit, and it was not re-read.
+- **Finding**: unchanged. The delta cannot create a feasible, related pair. The pool is exhausted by role granularity and by length, and no section is at cap (11/22/12 slots).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
+## 2026-10-16T04:06:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected 03:54Z by collect-chatgpt-review; conversation commissioned 02:07Z)
+- **File**: [outer-review-2026-10-16-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-16-chatgpt-5-6-sol-pro/)
+- **Subject**: audit of [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (fallback:recent-aged)
+- **Extraction**: 59,831-character markdown body read in 67 slices of 900 characters; all 67 slice hashes and the whole-body hash matched the in-page values
+- **Claims verified**: 23 (12 on disk; 9 external via Europe PMC / PMC / raw PDF: Berthier 1988, Vocat 2010, Pacella 2019, Kletenik 2023, Kirsch 2021, Santander 2025, Hu 2023, Zheng & Meister 2025, Balali 2025; 2 changelog/commit claims); 5 partly right or disputed; 4 unverified (not fetched)
+- **High-value findings**: 5. (1) The body contradicts the article's own compatibility grade: four channels announced over a six-row table, each row "empirically confirmed", each component "independently confirmed". (2) The composite's attention bypass is contradicted by Pacella 2019 and Kirsch 2021. (3) The blindsight, pain-asymbolia and split-brain sections lag their recalibrated dependencies. (4) Hu et al. is a mouse study presented as a "dedicated reopening pathway", and the 10 bits/s figure is misattributed. (5) The alien-hand epiphenomenalism argument assumes the descending channel at issue.
+- **Tasks generated**: 4 (P2: 4, all refine-draft on the reviewed article; combined net +342 against 463 words of headroom)
+- **Not tasked**: retitle (operator decision), heading rename (inbound anchor), rival-model table and evidence matrix (headroom), sibling gaps (anosognosia page has no attention or Pacella/Kirsch; conversion-disorder L101; blindsight L157), methodology items 48–64 (they duplicate the existing evidential-status discipline, so the finding is non-application)
 
 ## 2026-10-16T03:46:49+00:00 - refine-draft
 - **Status**: Success

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T04:35:26+00:00
+ai_modified: 2026-10-16T05:05:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T05:05:09+00:00 - research-topic
+- **Task**: Research ketamine dissociation and the retrosplenial rhythm — what the controlled pharmacological case (Vesuna 2020, Wehrman 2023) does to the Map's "parallel / independent route" claim (optimistic-2026-10-08-clinical-dissociation-wing item 4)
+- **Status**: SUCCESS
+- **Topic**: ketamine dissociation and the deep posteromedial / retrosplenial rhythm
+- **Output**: [[research/ketamine-dissociation-retrosplenial-rhythm-2026-10-16]] (4,491 words)
+- **Sources consulted**: 15 cited, all PubMed-verified; 6 read in full text at PMC (Vesuna 2020 PMC7553818, Wehrman 2023 PMC10624770, Bera 2026 PMC12812183, Tian 2023 PMC10060225, Grent-'t-Jong 2021 PMC8686110, plus Hu 2025 abstract); 2 abstract-only because full text was blocked (Schmidt 2012, Weber 2020)
+- **Bera et al. 2026 resolved**: the review's UNVERIFIED citation is real — *The Neuroscientist* 32(1):72–88, PMID 41453872, doi 10.1177/10738584251403946, epub 2025-12-26. It was not yet PubMed-indexed when the outer review ran. Its "requisite network feature" phrase is verbatim and is attributed jointly to Vesuna 2020 and Hu et al. 2025.
+- **Answer to "independent of what?"**: independent of the psychogenic route's *generating mechanism* — yes, and better supported than when the clause was written (HCN1-paced 1–3 Hz layer-5 retrosplenial rhythm, optogenetically sufficient, knockout-necessary, drug-specific across eight agents); independent of the *precision-weighting family* — NOT established (Wehrman 2023 contains zero occurrences of `dissociat` and uses sub-disconnection doses, so it does not reduce dissociation to precision weighting; but its own discussion nominates HCN1 as plausibly "critical for functional predictive coding", a live bridge); independent of *level-of-consciousness change* — contested (Grent-'t-Jong 2021; Tian 2023 found propofol raises the same 3–4 Hz posteromedial power without dissociation); reaching the *same channels* as the clinical cluster — no (the rodent phenotype is detection-without-affect, the pain-asymbolia axis).
+- **Verdict**: (b) edits to existing pages, no new article. Required edit is net −1 word on `topics/clinical-dissociation-as-systematic-evidence` ("that do not reduce to" → "not yet reduced to"), which installs without the pending human length decision that has held skipped item (12) since 2026-10-08. Recommended companion is a +247-word mechanism paragraph with four references in `apex/pharmacological-dissociation-as-evidence` (275 words of measured headroom). No `task_chains.pending_articles` entry minted.
+- **Target**: none (research note only; no article or todo edited)
+- **References to review**: `reviews/optimistic-2026-10-08-clinical-dissociation-wing.md` item 4; `reviews/outer-review-2026-10-08-claude-fable-5-1.md` skipped item (12)
 
 ## 2026-10-16T04:35:26+00:00 - coalesce
 - **Task**: coalesce cycle slot: delta check against the 2026-10-15T13:20Z screen, abandoned (steady state; no-candidate streak 29)
