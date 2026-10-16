@@ -2,9 +2,9 @@
 title: "The Psychophysical Control Law"
 description: "What formal mapping connects conscious states to physical selection? Exploring the specification gap between dualist commitment and testable mechanism, with candidate control laws."
 created: 2026-02-19
-modified: 2026-10-13
+modified: 2026-10-16
 human_modified:
-ai_modified: 2026-10-13T00:32:19+00:00
+ai_modified: 2026-10-16T03:46:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[psychophysical-coupling-problem-2026-01-15]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-10-11T11:26:35+00:00
@@ -72,9 +72,9 @@ The difficulty runs deeper than practice: the [[hard-problem-of-consciousness|ha
 
 ### The T-Shirt Problem
 
-The "t-shirt problem" Schaffer presses against naturalistic dualism—so named because the fundamental laws could not be written legibly on a t-shirt—names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
+The "t-shirt problem" Schaffer presses against naturalistic dualism—so named because the fundamental laws could not be written legibly on a t-shirt—names a deeper concern. Good fundamental laws fit on a t-shirt (Chalmers 1996, p. 214): F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
 
-Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 276). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
+Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 275). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
 
 Some philosophers invoke [[mysterianism|cognitive closure]] here—arguing that human minds may lack the conceptual resources to formulate psychophysical laws. The Map acknowledges this as a logical possibility but does not rely on it. Cognitive closure functions as an unfalsifiable exit: if the law cannot be specified, that becomes evidence of closure rather than evidence against the framework, and a programme free to invoke it whenever progress stalls has immunised itself against failure. The Map's position is that the gap reflects scientific immaturity and conceptual asymmetry, not cognitive limitation.
 
