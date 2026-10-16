@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-07-19T20:45:29+00:00
+ai_modified: 2026-10-16T09:19:03.558983+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,9 +32,20 @@ ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-04-01
 last_curated:
 last_deep_review: 2026-07-19T20:45:29+00:00
+embedded_videos:
+  - id: VnHGDx7jaaY
+    url: https://www.youtube-nocookie.com/embed/VnHGDx7jaaY
+    embedded: 2026-10-16T09:19:03.558983+00:00
+    source: notebooklm/0164-01-thrownness-void
 ---
 
 Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [[origin-of-consciousness|origin void]]), nor why one is *this* particular subject (the [[vertiginous-question|indexical void]]), nor why one cannot opt out (the [[agency-void#what-cannot-be-controlled|involuntariness face of the agency void]]). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
+
+<details class="yt-embed" data-video-id="VnHGDx7jaaY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/VnHGDx7jaaY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Convergence Across Traditions
 
