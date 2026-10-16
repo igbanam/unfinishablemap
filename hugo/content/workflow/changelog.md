@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 07:51:11+00:00
+ai_modified: 2026-10-16 08:20:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 07:51:11+00:00
+lastmod: 2026-10-16 08:20:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T08:20:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Task**: the P1 L183 "For Interface Architecture" task (outer-review 2026-10-16 Gemini 3.1 Pro §1 and Required Weaknesses item 5, convergent with ChatGPT 5.6 Sol Pro §Overall item 5; UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 1). It is the fourth of the five queued tasks on this file to be applied.
+- **Original score**: n/a. `scripts/curate.py` is absent; the edit is the one the task specifies.
+- **Changes**: one substitution covering the whole L183 paragraph, with OLD and NEW pulled from the task Notes by script. OLD was located by text and re-counted at 1 in the live file. It was still the whole of line 183, so the earlier L169/L193 edits had not touched it. The paragraph no longer says the dissociation pattern "supports" interface friction, that "Friction predicts" independently failable components, or that the clinical evidence "appears to bear this out". It now gives friction a structural reading and grades the result as fit rather than support. It says why: a developed functionalism expects the same pattern, and the channels were named from the syndromes rather than predicted from friction. It closes by saying the correspondence illustrates the friction vocabulary until it yields a prediction standard neuroscience does not make, and links to the concession in `concepts/interface-friction` §Pathological Friction. This brings L183 into line with L179 (functionalism predicts the same pattern) and with `concepts/interface-friction` L96/L98. The heading `### For Interface Architecture` is unchanged, and no references were added.
+- **Flow check**: the paragraph was re-read in context. "That is fit" points back to the structural reading in the first sentence, and "it illustrates" points to "that correspondence". The paragraph before it (L179) ends on the adjudication point, and a heading follows, so no back-reference broke and no repair was needed. The wording differs from the taxonomy sibling's L169 phrase ("read off the syndromes rather than predicted in advance"), as the Coordination note asked.
+- **Engagement**: Mode Three. The paragraph was the article's own overclaim, not a reply to an opponent, so the fix honestly marks fit-not-confirmation and claims no new argument.
+- **Length**: `analyze_length` went from 3,741 to 3,788 (+47, as specified; topics hard limit 4,000, gate `>=`). That leaves 211 words of headroom (4000−1−3788) for the one remaining task on this file (blindsight/pain, +182 → ~3,970).
+- **Frontmatter**: `ai_modified` changed to 2026-10-16T08:20:18+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
+- **Published**: yes
 
 ## 2026-10-16T07:51:11+00:00 - refine-draft
 - **Status**: Success

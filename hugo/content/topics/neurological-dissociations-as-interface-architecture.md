@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-16 07:51:11+00:00
+ai_modified: 2026-10-16 08:20:18+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:15:10+00:00
-lastmod: 2026-10-16 07:51:11+00:00
+lastmod: 2026-10-16 08:20:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ The target here is specifically identity theory, not physicalism in general. Sop
 
 ### For Interface Architecture
 
-The dissociation pattern supports [interface friction](/concepts/interface-friction/) as a structural feature rather than a metaphor. Friction predicts that the interface should have identifiable components that can fail independently—and the clinical evidence appears to bear this out. The specific channels that [friction reveals through resistance](/concepts/interface-friction/#friction-as-interpretive-framework) are the same channels that dissociations reveal through failure.
+The dissociation pattern gives [interface friction](/concepts/interface-friction/) a structural reading: an interface with identifiable components should fail component by component, and the clinical evidence shows such failures. That is fit rather than support, since a developed functionalism expects the same pattern and the channels were named from the syndromes, not predicted from friction. The specific channels that [friction reveals through resistance](/concepts/interface-friction/#friction-as-interpretive-framework) are the same channels that dissociations reveal through failure; until that correspondence yields a prediction standard neuroscience does not make, it illustrates the friction vocabulary rather than confirming it, as [the friction page grants of its clinical parallels](/concepts/interface-friction/#pathological-friction).
 
 ### Alien Hand and Epiphenomenalism
 
