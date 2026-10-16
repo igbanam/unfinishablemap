@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T10:08:03+00:00
+ai_modified: 2026-10-16T10:33:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T10:33:22+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 10 of 16 `apex_sources` (by `ai_modified`) since the 2026-09-05 baseline, plus new source `concepts/doxastic-voluntarism`
+- **Word count**: 4406 → 4921 (`analyze_length`; apex hard 5000, `>=`; headroom 78)
+- **Integrated**: Pereboom's luck objection re-aimed at event-causal origination + wild coincidences (source-versus-leeway, manipulation-argument); O'Connor misattribution removed (agent-causation); retired "would be coincidental" effort framing → psychophysical-law reply (tenets `^tenet-3-epiphenomenalism`, free-will, agent-causation); neural signatures re-attributed and graded, Desmurget adverse reading + functionalist rival (agent-causation, neurological-dissociations); rollback answer → who-not-why, owed primitive (free-will); Born-rule mechanism debt installed (positions/quantum-interface, free-will); clinical neuroplasticity → compatible with both readings; argument from reason "not decisively" + Anscombe/non-reductive reply; doxastic voluntarism integrated; Schurger gloss and falsifier escape clause corrected
+- **Citations added**: Rajan et al. 2019, Thura & Cisek 2014, Desmurget et al. 2009 (Crossref + PubMed abstract verified)
+- **Review**: [[reviews/apex-evolve-2026-10-16-consciousness-and-agency]]
 
 ## 2026-10-16T10:08:03+00:00 - research-voids
 - **Status**: Success
