@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T05:05:09+00:00
+ai_modified: 2026-10-16T05:33:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T05:33:51+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro Deep Research. Collected 05:24Z by collect-gemini-review from a conversation commissioned 04:31Z. The first model turn was a dead "something went wrong" error, and the report came from the panel with the `h1`.
+- **File**: [[reviews/outer-review-2026-10-16-gemini-3-1-pro]]
+- **Subject**: audit of [[topics/neurological-dissociations-as-interface-architecture]], the same subject as the ChatGPT leg (reuse:pending-reviews)
+- **Extraction**: 29,912-character canonicalised markdown body (21 trailing citation-chip whitespace runs stripped from 29,975), read in 1,000-character slices. The whole-body SHA-256 and six part hashes matched the in-page values.
+- **Claims verified**: 14. That is 9 on disk (quote provenance, L109, L119, L179, L183, interface-friction L96/L98, the sibling L78/L130) and 5 external (Crossref and Europe PMC: Schechter & Bayne 2021, Michel & Lau 2021, Doerig et al. 2021, Hallett et al. 2022, Cogitate 2025). 5 claims are disputed and 3 unverified.
+- **Disputed**:
+    - The reviewer audited the article cluster as one manuscript. Its IIT/Cogitate charge and its quotation "2025 findings complicate connectivity-based readings" come from `split-brain-consciousness` L130.
+    - "Adopts Phillips wholesale" is false: the article is categorical the other way. This diverges from ChatGPT.
+    - Schechter & Bayne "conclusively" showing that phenomenal unity is shattered is overstated; their abstract calls the agency reading an open question.
+    - The Doerig et al. journal and volume are wrong (*Cognitive Neuroscience* 12(2):41–62).
+- **High-value findings**: 4.
+    - (1) L183 claims "Friction predicts" and "supports" a pattern that L179 says functionalism predicts too, and that `concepts/interface-friction` L96/L98 says only illustrates its vocabulary. Convergent with ChatGPT §Overall item 5, which was not tasked.
+    - (2–4) The split-brain agency/experience point, FND predictive processing and anosognosia belief-updating corroborate three of ChatGPT's queued tasks.
+- **Tasks generated**: 1 (P2 refine-draft, L183, net +47; with the four ChatGPT tasks the article would reach ~3,925 of 4,000).
+- **Not tasked**:
+    - Michel & Lau contest note on the ChatGPT blindsight task's NEW L79 text. Recorded as a recommended amendment for /combine-outer-reviews, because a separate task would depend on order.
+    - Hallett 2022 currency citation (L109 sits in a sibling locus).
+    - Active-inference rival section (headroom).
+    - `split-brain-consciousness` L78 Schechter–Bayne paraphrase (spillover).
 
 ## 2026-10-16T05:05:09+00:00 - research-topic
 - **Task**: Research ketamine dissociation and the retrosplenial rhythm — what the controlled pharmacological case (Vesuna 2020, Wehrman 2023) does to the Map's "parallel / independent route" claim (optimistic-2026-10-08-clinical-dissociation-wing item 4)
