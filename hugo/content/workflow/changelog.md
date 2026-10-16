@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 06:00:06+00:00
+ai_modified: 2026-10-16 06:06:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 06:00:06+00:00
+lastmod: 2026-10-16 06:06:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T06:06:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Task**: the P1 taxonomy-layer task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16). It is the first of the five queued tasks on this file to be applied.
+- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
+- **Changes**: six substitutions, each pulled from the task Notes by script and re-counted at 1 on its stated line before it was applied:
+    - (1) L48: the lead states the data before the reading (+11).
+    - (2) L62: "four" becomes "six candidate" interface channels (+1).
+    - (3) L73: each table row is now an established dissociation plus the component it provisionally isolates; the channel labels are the interface reading (+12).
+    - (4) L164: the self-model bullet drops the attentional bypass and cites the ventral-attention contribution (Pacella et al. 2019; Kirsch et al. 2021) (+15).
+    - (5) L169: components are "picked out", not independently confirmed (Vocat et al. 2010) (+26).
+    - (6) L193: "coupling is multi-channel" becomes "capacities ... functionally differentiated" (+4).
+  Three References entries were appended at the end of `## References`: Vocat 2010, Pacella 2019 and Kirsch 2021. Crossref checked for each: the DOI resolves, and the title, journal, volume/issue and pages or article number match. The Vocat entry is byte-identical to ref 12 of `topics/anosognosia-and-the-reversible-self-monitoring-channel`. The mermaid diagram was not redrawn; bullet (4) records the simplification.
+- **Flow check**: the sentences around each substitution were re-read. Every pronoun and back-reference keeps its antecedent, so no repair was needed.
+- **Engagement with functionalism**: Mode Three at L73 (framework-boundary marking: the channel reading versus the coupled-subsystems redescription). L193 stays as it was: it says the evidence fits either account.
+- **Length**: `analyze_length` went from 3,536 to 3,675 (+139, as specified; topics hard limit 4,000). The four other queued tasks on this file still have 324 words of headroom.
+- **Frontmatter**: `ai_modified` changed to 2026-10-16T06:06:04+00:00. In `ai_system`, the duplicate `claude-fable-5-1` was removed (keeping the last occurrence) and `claude-opus-5-5` was appended.
+- **Published**: yes
 
 ## 2026-10-16T06:00:06+00:00 - combine-outer-reviews
 - **Status**: Success

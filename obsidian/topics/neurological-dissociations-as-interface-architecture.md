@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-10-08T16:17:51+00:00
+ai_modified: 2026-10-16T06:06:04+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-10
 last_curated:
 embedded_videos:
@@ -45,7 +45,7 @@ embedded_videos:
     source: notebooklm/0008-01-neurological-dissociations-as-interface-architecture
 ---
 
-The Unfinishable Map discusses neurological dissociations individually—[[blindsight]] here, [[pain-asymbolia]] there, [[split-brain-consciousness|split-brain]] elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.
+The Unfinishable Map discusses neurological dissociations individually—[[blindsight]] here, [[pain-asymbolia]] there, [[split-brain-consciousness|split-brain]] elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation separates capacities that ordinarily travel together and, on the Map's reading, disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.
 
 This matters for the Map's framework. Dissociations show consciousness decomposing along separable lines: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity establishes that whatever connects mind to brain is articulated rather than monolithic. Whether the separable pieces are functional subsystems whose coupling constitutes consciousness, or channels linking an already-unified consciousness to the brain, is the question the closing sections take up; the dissociations fit both readings.
 
@@ -59,7 +59,7 @@ This matters for the Map's framework. Dissociations show consciousness decomposi
 
 Neurological dissociations follow a pattern that Geschwind (1965) systematised as [[disconnection-neuroscience|*disconnection syndromes*]]: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
-The key dissociations organise into four interface channels:
+The key dissociations organise into six candidate interface channels:
 
 | Channel | Direction | What It Carries | Key Dissociation |
 |---------|-----------|----------------|------------------|
@@ -70,7 +70,7 @@ The key dissociations organise into four interface channels:
 | **Bilateral** | Hemisphere ↔ hemisphere | Unity, coordination | Split-brain |
 | **Attentional gating** | Consciousness ↔ brain | Selective access | Hemineglect |
 
-Each row represents an empirically confirmed dissociation. The rest of this article examines what each reveals about interface architecture.
+Each row pairs an established clinical dissociation with the component it provisionally isolates; the channel labels and directions are the interface reading of those data, which functionalism redescribes as coupled subsystems.
 
 ## Ascending Channels: What the Brain Delivers to Consciousness
 
@@ -161,12 +161,12 @@ flowchart TB
 ```
 
 - **Ascending channels** (perceptual, affective) deliver content to consciousness through an attentional gate
-- **Self-model channel** delivers body-state reports directly to consciousness, bypassing attentional gating—anosognosia is a construction failure, not an attentional one
+- **Self-model channel** delivers body-state reports to consciousness; anosognosia involves a construction and belief-updating failure, and ventral-attention disconnection contributes too (Pacella et al., 2019; Kirsch et al., 2021), so the separate route drawn here simplifies
 - **Descending channels** (motor commands) carry conscious selections to the body
 - **Bilateral channels** maintain unity of consciousness across processing streams
 - **Attentional gating** selects which perceptual and affective content reaches awareness
 
-Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [[consciousness-disruption-and-the-mind-brain-interface]] explores how these global disruptions test the same interface architecture from a different angle. The [[clinical-phenomenology-and-altered-experience|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
+Each component is picked out by its characteristic dissociation, though not independently: anosognosia travels with neglect and proprioceptive loss (Vocat et al., 2010), and the components were read off the syndromes rather than predicted in advance. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [[consciousness-disruption-and-the-mind-brain-interface]] explores how these global disruptions test the same interface architecture from a different angle. The [[clinical-phenomenology-and-altered-experience|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
 
 A pharmacological route reaches the same architecture. General anesthesia does not simply switch consciousness off; different agents selectively decouple different components. Sanders and colleagues (2012) distinguish three states that can occur during nominal anesthesia—**unconsciousness** (no experience generated), **disconnected consciousness** (mental content without environmental coupling, as in anesthetic dreams), and **connected consciousness** (intraoperative awareness, environment-coupled experience during ostensibly sufficient dosing). Each state reflects a different pattern of channel failure rather than a different point on a single depth dimension. Ketamine preferentially decouples environmental connection; neuromuscular blockers sever motor output while leaving awareness intact; benzodiazepines disrupt memory consolidation without abolishing experience. [[anaesthesia-and-the-consciousness-interface]] is the pharmacological worked exhibit of the same dissociation-by-mechanistic-route logic the neurological cases instantiate, and three of its load-bearing observations are precise pharmacological analogues of the channel taxonomy above. The **xenon-ketamine contrast**—two NMDA antagonists with opposite phenomenological outcomes—shows interface components are pharmacologically separable even within a single receptor system, paralleling how blindsight and hemineglect double-dissociate within the ascending direction. The **four-component pharmacological dissection** (phenomenal presence, behavioural access, temporal binding, memory encoding) maps onto distinct receptor systems, paralleling the ascending/descending/bilateral channel split that neurological dissociations reveal. The **KCC2 active-reboot mechanism** (Hu et al. 2023) shows the interface has a dedicated reopening pathway that is mechanism-shared even when closing pathways were mechanism-distinct—a structural feature lesion evidence cannot reveal, because lesions do not reverse. [[anesthesia-void|The anesthesia void]] develops the first-person side of this parallel in detail: the same channel-level architecture that lesions reveal through destruction, anesthetic agents reveal through reversible chemical interruption, and [[clinical-dissociation-as-systematic-evidence|dissociative disorders]] reveal through functional decoupling without structural damage. Convergence of three independent perturbation routes—lesion, pharmacology, and psychogenic dissociation—on the same channel taxonomy is itself a compound signature: the architecture replicates under perturbations with no shared mechanism. How far that signature's evidential reach extends is bounded by [[epistemology-of-convergence-arguments|the epistemology of convergence arguments]]: the channel *architecture* is earned robustly, but—because a functionalist predicts the identical phenomenology—the inference stays compatibility-grade, not vindication-grade, for the dualist reading.
 
@@ -190,7 +190,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The dissociation pattern constrains the architecture without establishing the tenet. Selective disconnections are what an interface would show, and equally what a developed functionalism predicts, since separable subsystems fail separably on either reading; the clinical evidence settles that the coupling is multi-channel, whichever account of the coupling is right. The interface reading contributes coherence—one vocabulary for the lesion, pharmacological, and psychogenic routes—rather than discrimination, the grade the Map's [[altered-states-as-interface-evidence|altered-states synthesis]] assigns its parallel evidence.
+**[[tenets#^dualism|Dualism]]**: The dissociation pattern constrains the architecture without establishing the tenet. Selective disconnections are what an interface would show, and equally what a developed functionalism predicts, since separable subsystems fail separably on either reading; the clinical evidence settles that the capacities involved are functionally differentiated, whichever account of their relation to consciousness is right. The interface reading contributes coherence—one vocabulary for the lesion, pharmacological, and psychogenic routes—rather than discrimination, the grade the Map's [[altered-states-as-interface-evidence|altered-states synthesis]] assigns its parallel evidence.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The ascending and descending channels fit the tenet's picture: on the interface reading, sensory content, affect, and self-model are delivered upward, motor selections flow downward, and alien hand syndrome and blindsight show that each direction's channel can fail independently. Fit, however, is the honest grade—not confirmation. Four claims come apart here: that experience depends on brain function (every dissociation shows this); that the directional channels are functionally separable (the double dissociations establish this); that consciousness causes physical events; and that such causation is nonphysical. The dissociations secure the first two claims strongly and cannot secure the last two—as the body's closing analysis concedes, a functionalist reading of the same separable channels predicts the identical phenomenology, so the inference stays compatibility-grade for the tenet, not vindication-grade. What the clinical pattern supplies is the anatomy a bidirectional interface would need, each direction independently severable; the case that consciousness actually exercises the descending direction rests on the Map's agency arguments ([[motor-selection|motor selection]], [[consciousness-and-agency|consciousness and agency]]), not on the dissociation evidence alone.
 
@@ -239,3 +239,6 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Edwards, M. J., Adams, R. A., Brown, H., Pareés, I., & Friston, K. J. (2012). A Bayesian account of 'hysteria'. *Brain*, 135(11), 3495–3512. doi:10.1093/brain/aws129.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Interface Friction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-friction/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Pain Asymbolia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/pain-asymbolia/
+1. Vocat, R., Staub, F., Stroppini, T., & Vuilleumier, P. (2010). Anosognosia for hemiplegia: A clinical-anatomical prospective study. *Brain*, 133(12), 3578–3597. https://doi.org/10.1093/brain/awq297
+1. Pacella, V., Foulon, C., Jenkinson, P. M., et al. (2019). Anosognosia for hemiplegia as a tripartite disconnection syndrome. *eLife*, 8, e46075. https://doi.org/10.7554/eLife.46075
+1. Kirsch, L. P., Mathys, C., Papadaki, C., et al. (2021). Updating beliefs beyond the here-and-now: The counter-factual self in anosognosia for hemiplegia. *Brain Communications*, 3(2), fcab098. https://doi.org/10.1093/braincomms/fcab098
