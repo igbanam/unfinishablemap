@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T06:06:04+00:00
+ai_modified: 2026-10-16T07:06:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T07:06:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/subjective-facts-and-the-metaphysical-problem-of-other-minds]]
+- **Selection**: shipped scorer, score 101, never deep-reviewed. It is the first review of any kind to edit the file: the 2026-10-14 pessimistic review's four findings on it had never been applied or tasked.
+- **Word count**: 3237 → 3379 (+142); topics soft 3000 / hard 4000, gate `>=`, headroom 621. Soft-warning band: about 73 words of trims offset the fixes.
+- **Critical issues addressed**: 5. (1) Internal contradiction: the article filed the Map "with the egalitarians against Hare and Merlo" and "declines" the fragmentalist exit while keeping a fact simpliciter, yet its lede (and `vertiginous-question` L107 / `egocentric-presentism` L81) says the exit is forced. The Map's posit is now located on the inegalitarian side of Merlo's question, Merlo-shaped and inheriting his "fine line". The fork (privileged fragment collapsing towards Hare, or a triad not yet consistent) is stated, and the fact is "held pending a choice" (lede, calibration, RSP). (2) NEW: L40 glossed Merlo's Appearance/Reality Principle as a guide "absent defeaters"; the raw (ARP 3) says a justified immediate phenomenal judgment is correct, and Merlo disclaims defeat, so the gloss was restated. (3) Kinkaid abstract splice restored (", I argue,"). (4) "the Map's pages have sometimes implied the opposite" had no referent (corpus grep, 0 such pages), so it was rescoped. (5) "(internal and external structure …)" was unsourced (0 hits in Lipman 2023a) and was replaced with the Lipman 2023b abstract's terms.
+- **Medium issues addressed**: 3 (Hellie's target named as Chalmers's dualist system; Lipman 2023a/2023b disambiguated in body and refs; the P-SC2 IOU marked in the BI paragraph). Not edited: the Everettian-primitive counter, already met by the P-I5 sentence.
+- **Citations**: 15 web-verified (Crossref ×14 DOIs; raw text for Merlo 2021, Merlo 2016 draft, Lipman 2023a, Builes, Kinkaid; OpenAlex abstracts for Hellie, Lipman 2016/2023b/2026, Merlo 2013). **Merlo 2016 fn 19 is now verified at raw** (PhilArchive `MERSAT-6` via Wayback; unverified on 10-14). The draft's fn 18 credits Hellie 2013 for the label, which the Hellie bullet now cites. One real-wrong-metadata: the Lipman "2023" year label was ambiguous. No fabrications.
+- **Engagements**: Merlo Mode Three, with the Map's posit now placed inside his camp rather than claiming a distinction it had not earned; Lewis–Perry/Hellie Mode Three; Lipman Mode Three (declared, "no argument that the egalitarian is wrong"); Everettian Mode Three.
+- **Enhancements made**: 4 (the fork stated in three places; the ARP stated at its real strength; the redundant "Tenets 1 and 5" ledger entry removed; Posit One / Builes / Kinkaid openers tightened).
+- **Frontmatter**: `modified` 2026-10-16; `ai_modified` and new `last_deep_review` = 2026-10-16T07:05:12+00:00 (from `date -u`); `ai_system` claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5.
+- **Output**: [[reviews/deep-review-2026-10-16-subjective-facts-and-the-metaphysical-problem-of-other-minds]]
 
 ## 2026-10-16T06:06:04+00:00 - refine-draft
 - **Status**: Success

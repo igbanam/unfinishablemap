@@ -21,7 +21,7 @@ related_articles:
   - "[[anesthesia-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-opus-5
 ai_generated_date: 2026-10-16
 last_curated: null
 ---
