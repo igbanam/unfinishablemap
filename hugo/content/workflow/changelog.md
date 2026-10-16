@@ -1,15 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 10:33:22+00:00
+ai_modified: 2026-10-16 11:23:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 10:33:22+00:00
+lastmod: 2026-10-16 11:23:06+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-10-16T11:21:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Task**: the P2 L79–L87 blindsight / pain-asymbolia task (outer-review 2026-10-16 ChatGPT 5.6 Sol Pro §2.1, §2.2, §9), with the Michel & Lau (2021) amendment that /combine-outer-reviews 2026-10-16 folded into substitution (1) and the References (synthesis divergence 1). This is the fifth and last of the five queued tasks on this file.
+- **Original score**: n/a. `scripts/curate.py` is absent; the edit is the one the task specifies.
+- **Changes**: four substitutions, with every OLD and NEW string and all four reference entries pulled from the task Notes by script. Each OLD was located by text and re-counted at 1 in the live file (lines 79, 81, 85 and 87, so the earlier edits had not shifted them). (1) The L79 blindsight sentence no longer says "none of this enters conscious awareness". It now gives the standard reading (processing without phenomenal experience) and Phillips's (2021) rival reading (degraded conscious vision under a conservative report criterion), and adds that Michel and Lau (2021) *contest* that reading. They are not said to refute it. (2) On L81 the single subcortical route becomes several surviving routes (Balali et al., 2025). These routes "do not ordinarily support reportable" phenomenal content, where the old text said they "cannot deliver" it, and the architecture claim is marked as the interface reading. (3) On L85 the felt awfulness is now "missing or blunted", with Berthier et al.'s source-verified "absent or inadequate", and "abolished" becomes "lost or blunted". (4) On L87 the anterior insula/ACC localisation is flagged as unreplicated (Feinstein et al., 2016). The "clean separation … complete absence" claim is replaced by an admission that the separation is not clean (Berthier's patients also had hemiparesis, neglect and broad unresponsiveness to threat, on extensive lesions), and "discrete interface component" becomes "separable component". L89 was left as the task directs.
+- **References added** (appended to the end of `## References` as `1.` items, each checked at Crossref 2026-10-16): Phillips 2021, Psychological Review 128(3):558–584 (doi:10.1037/rev0000254, by title search, which matches `concepts/blindsight` L233); Balali et al. 2025, Basic and Clinical Neuroscience 16(3):533–550 (doi:10.32598/bcn.2025.7005.1 resolves; title and authors match); Feinstein et al. 2016, Brain Structure and Function 221(3):1499–1511 (doi:10.1007/s00429-014-0986-3 resolves; online 2015, print 2016-04); Michel & Lau 2021, Psychological Review 128(3):585–591 (doi:10.1037/rev0000266 resolves; title "Is blindsight possible under signal detection theory? Comment on Phillips (2021)"), with Phillips's reply at doi:10.1037/rev0000277, "Bias and blindsight: A reply to Michel and Lau (2021)", 128(3):592–595.
+- **Flow check**: each substituted passage was re-read in context. In (1) the "while reporting no visual experience" clause attaches to the patient. In (2) "they" refers to the surviving routes. In (4) "it suggests" refers to "the separation". In (3) the task's own NEW text keeps "They do not withdraw" right after "emotional responses are 'absent or inadequate' (Berthier et al., 1988)". The nearest plural noun is now "emotional responses", but only patients can withdraw or guard, so "They" still clearly means the patients. No repair was made.
+- **Residue (not edited, per "Edit nothing else")**: L89 still says the awfulness can be "abolish[ed]" while processing stays intact, which sits slightly awkwardly beside the new "lost or blunted"; the task leaves L89 as is on purpose. In (4), Feinstein et al.'s quoted non-replication is about the *insula* finding, while the NEW text attaches "no study has replicated" to the combined insula-plus-ACC localisation, which is a slight widening.
+- **Engagement**: Mode Three for the Phillips / Michel–Lau exchange. It is reported as a contested rival reading inside the blindsight literature, and the Map does not adjudicate it. The pain-asymbolia edits are calibration of the article's own claims, not a reply to an opponent.
+- **Length**: `analyze_length` went from 3,788 to 3,970 (+182, as specified: +34, +7, +15, +17 for the prose and +109 for the references; topics hard limit 4,000, gate `>=`). Headroom is now 29 (4000−1−3970).
+- **Frontmatter**: `ai_modified` changed to 2026-10-16T11:21:09+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
+- **Published**: yes
+
+- **Parent follow-up (2026-10-16T11:23:06+00:00)**: two fixes the fork flagged, 2 words net. L85 "They do not withdraw" → "Patients do not withdraw" (the antecedent had become "emotional responses"; 0 words). L87 "a localisation no study has replicated" → "though no study has replicated the insula finding" (+2), because Feinstein et al. 2016's sentence is about the insula finding only ("No studies have replicated the original finding of pain asymbolia following insula damage") and must not cover the ACC.
 ## 2026-10-16T10:33:22+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)

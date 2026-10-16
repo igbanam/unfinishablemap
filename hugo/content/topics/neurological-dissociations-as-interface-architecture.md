@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-16 08:20:18+00:00
+ai_modified: 2026-10-16 11:23:06+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:15:10+00:00
-lastmod: 2026-10-16 08:20:18+00:00
+lastmod: 2026-10-16 11:23:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,15 +80,15 @@ Each row pairs an established clinical dissociation with the component it provis
 
 ### Perceptual Ascending — Blindsight
 
-[blindsight](/concepts/blindsight/) patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—but none of this enters conscious awareness. Processing without phenomenal experience.
+[blindsight](/concepts/blindsight/) patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—while reporting no visual experience: processing without phenomenal experience on the standard reading, degraded conscious vision under a conservative report criterion on Phillips's (2021) rival reading, which Michel and Lau (2021) contest, arguing that in some cases awareness is clearly impaired relative to visual sensitivity.
 
-What this maps: a perceptual ascending channel that requires V1 and its cortical projections. Alternative pathways (retina → superior colliculus → extrastriate cortex) carry information that can guide action but cannot deliver [phenomenal content](/concepts/phenomenal-consciousness/) to the conscious subject. The interface has a specific architecture for rendering sensory data into experience, and that architecture can be severed while leaving the data itself intact.
+What this maps: a perceptual ascending channel that requires V1 and its cortical projections. The surviving routes are several—collicular, LGN-to-V5 and residual V1 islands among them (Balali et al., 2025)—and they can guide action but do not ordinarily support reportable [phenomenal content](/concepts/phenomenal-consciousness/). On the interface reading, there is a specific architecture for rendering sensory data into experience, and that architecture can be severed while leaving the data itself intact.
 
 ### Affective Ascending — Pain Asymbolia
 
-[Pain asymbolia](/concepts/pain-asymbolia/) patients detect nociceptive stimuli and localise them accurately—"that's a sharp prick on my left hand"—but lack the felt awfulness that makes pain matter. They do not withdraw, guard, or show distress. The sensory-discriminative dimension survives; the affective-motivational dimension is abolished.
+[Pain asymbolia](/concepts/pain-asymbolia/) patients detect nociceptive stimuli and localise them accurately—"that's a sharp prick on my left hand"—but the felt awfulness that makes pain matter is missing or blunted: emotional responses are "absent or inadequate" (Berthier et al., 1988). Patients do not withdraw, guard, or show distress. The sensory-discriminative dimension survives; the affective-motivational dimension is lost or blunted.
 
-What this maps: an affective ascending channel, anatomically distinct from the sensory one. The sensory channel (somatosensory cortex, posterior insula) delivers *what* and *where*. The affective channel (anterior insula, anterior cingulate, limbic connections) delivers *how much it matters*. The clean separation—not a graded reduction but a complete absence of the affective dimension—suggests that valence may be a discrete interface component rather than an intrinsic property of nociceptive signals.
+What this maps: an affective ascending channel, anatomically distinct from the sensory one. The sensory channel (somatosensory cortex, posterior insula) delivers *what* and *where*. The affective channel (usually placed in anterior insula and anterior cingulate, though no study has replicated the insula finding—Feinstein et al., 2016) delivers *how much it matters*. The separation is not clean—Berthier's six patients also had hemiparesis, neglect and broad unresponsiveness to threat, on extensive lesions—but it suggests that valence may be a separable component rather than an intrinsic property of nociceptive signals.
 
 The philosophical weight is substantial. If pain's awfulness were just more processing in the same nociceptive stream, you could not abolish it while leaving the processing intact. The fact that you can suggests the awfulness might be something consciousness adds—or receives through a separate channel—rather than something reducible to the sensory signal.
 
@@ -247,3 +247,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Pacella, V., Foulon, C., Jenkinson, P. M., et al. (2019). Anosognosia for hemiplegia as a tripartite disconnection syndrome. *eLife*, 8, e46075. https://doi.org/10.7554/eLife.46075
 1. Kirsch, L. P., Mathys, C., Papadaki, C., et al. (2021). Updating beliefs beyond the here-and-now: The counter-factual self in anosognosia for hemiplegia. *Brain Communications*, 3(2), fcab098. https://doi.org/10.1093/braincomms/fcab098
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+1. Phillips, I. (2021). Blindsight is qualitatively degraded conscious vision. *Psychological Review*, 128(3), 558–584.
+1. Balali, M. R., Hosseini, M., Khanboloki, M., et al. (2025). Pathways mediating blindsight after V1 injury: A systematic review of human and monkey studies. *Basic and Clinical Neuroscience*, 16(3), 533–550. https://doi.org/10.32598/bcn.2025.7005.1
+1. Feinstein, J. S., Khalsa, S. S., Salomons, T. V., et al. (2016). Preserved emotional awareness of pain in a patient with extensive bilateral damage to the insula, anterior cingulate, and amygdala. *Brain Structure and Function*, 221(3), 1499–1511. https://doi.org/10.1007/s00429-014-0986-3
+1. Michel, M., & Lau, H. (2021). Is blindsight possible under signal detection theory? Comment on Phillips (2021). *Psychological Review*, 128(3), 585–591. https://doi.org/10.1037/rev0000266 (Phillips's reply: 128(3), 592–595.)
