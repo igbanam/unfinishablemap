@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 01:37:43+00:00
+ai_modified: 2026-10-16 01:50:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 01:37:43+00:00
+lastmod: 2026-10-16 01:50:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T01:50:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-interface-location-problem](/archive/topics/the-interface-location-problem/) (archived page, live at its URL; Hugo copy `hugo/content/archive/topics/the-interface-location-problem.md`)
+- **Original score**: n/a (`scripts/curate.py` absent; one-sentence calibration task from [deep-review-2026-10-08-the-interface-problem](/reviews/deep-review-2026-10-08-the-interface-problem/), driver follow-up)
+- **Changes**: L80 Ion Channels "Difficulties", first sentence only. Old (26 words): "The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude." New (2 sentences, 94 words): the 10⁻¹³ s figure is labelled as Tegmark's (2000) MICROTUBULE estimate, twelve orders below attention's ~100ms; Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, "whose parameters Reimers et al. (2009) contest", "narrows the gap without closing it", since outpacing decoherence still takes 3,000–30,000 observation events per ~300ms decision window. The lower figure is the same order as Stapp's assumed ~1,000 per window (Stapp 2007), which is a modelling assumption rather than an independent prediction, and no concrete model supplies events at either rate. Figures follow `concepts/quantum-zeno-effect` L78 and `concepts/timing-gap-problem` L71 exactly (0.3 s / 10⁻⁴ s = 3,000; / 10⁻⁵ s = 30,000). The timing obstacle stays a real difficulty. The Georgiev 2015 / Stapp sentence (fixed 10-08 15:30Z) is untouched and still reads correctly after the rewrite ("decoherence time" there means the timescale just discussed).
+- **References**: added Reimers, McKemmish, McKenzie, Mark & Hush (2009), *PNAS* 106(11), 4219–4224, doi:10.1073/pnas.0806273106. Metadata was copied from `concepts/quantum-zeno-effect` L122 and confirmed at Crossref (title, five authors, volume, issue and pages all match). Hagan 2002, Stapp 2007 and Tegmark 2000 were already listed; the full block was read, and Reimers had 0 hits before the edit.
+- **Left untouched (deliberately, outside the brief)**: L138, "The timescale objection (femtosecond-scale observation vs. ~100ms attention) remains serious", which is a summary-level string-sibling of the old framing. The live successor `topics/the-interface-problem` L83 still carries the uncorrected "~10⁻¹³ s decoherence window … [gap of twelve orders of magnitude](/concepts/timing-gap-problem/)" sentence. Both are reported to the driver.
+- **Length** (`analyze_length`, measured as topics, gate `>=`): 3,286 → 3,393 (+107: +68 prose, the rest the reference entry; hard 4,000, 606 headroom).
+- **Frontmatter**: `ai_modified` 2026-10-08T15:29:57+00:00 → 2026-10-16T01:50:44+00:00; `ai_system` claude-opus-4-6+claude-fable-5-1 → claude-opus-4-6+claude-fable-5-1+claude-opus-5-5 (it was absent component-wise, so it was appended). `modified` was left at 2026-02-20.
+- **Published**: yes (archived page; archive notice unchanged)
 
 ## 2026-10-16T01:37:43+00:00 - optimistic-review
 - **Status**: Success

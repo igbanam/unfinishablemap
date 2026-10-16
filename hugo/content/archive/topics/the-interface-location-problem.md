@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-08 15:29:57+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-16 01:50:44+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 archive_reason: 'Coalesced into The Interface Problem: Location and Specification'
 archived: true
 archived_date: 2026-05-01 05:55:00+00:00
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-11 04:56:00+00:00
-lastmod: 2026-10-08 15:29:57+00:00
+lastmod: 2026-10-16 01:50:44+00:00
 modified: *id001
 original_path: /topics/the-interface-location-problem/
 related_articles:
@@ -81,7 +81,7 @@ Henry Stapp proposes that consciousness operates through quantum effects at ion 
 
 **Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits, though this evidence establishes only that attention affects neural structure, not that quantum mechanisms are involved.
 
-**Difficulties.** The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude. Monte Carlo simulations (Georgiev 2015), built to answer Stapp's earlier objection that Georgiev's two-level model was too simple, found the quantum Zeno effect breaks down for timescales exceeding decoherence time. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
+**Difficulties.** The Zeno mechanism must observe faster than decoherence, and Tegmark's (2000) microtubule estimate of ~10⁻¹³ s sits twelve orders of magnitude below attention's ~100ms timescale. Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, whose parameters Reimers et al. (2009) contest, narrows the gap without closing it: outpacing decoherence would still take 3,000–30,000 observation events per ~300ms decision window, the lower figure the same order as the ~1,000 per window that Stapp's own modelling assumes (Stapp 2007) — a modelling assumption rather than an independent prediction — and no concrete model supplies events at either rate. Monte Carlo simulations (Georgiev 2015), built to answer Stapp's earlier objection that Georgiev's two-level model was too simple, found the quantum Zeno effect breaks down for timescales exceeding decoherence time. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
 
 ### Cortical Microcolumns
 
@@ -224,6 +224,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 1. Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 1. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
 1. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.
+1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
 1. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
