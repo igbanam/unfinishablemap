@@ -1,14 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 05:05:09+00:00
+ai_modified: 2026-10-16 06:00:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 05:05:09+00:00
+lastmod: 2026-10-16 06:00:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T06:00:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-16
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, gemini-3-1-pro). Claude was not commissioned because of the weekly Fable limit (blocked until 2026-10-21T04:00Z); this is recorded as absent, not as dissent.
+- **Subject**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (recent-aged fallback; both reviewers)
+- **Clusters**: 3 convergent, 3 divergent; the rest are singletons. Every cluster was checked against the live article before it was counted.
+    - **Convergent, 2/2 and verified**:
+        - fit presented as confirmation (L73/L169/L183);
+        - Santander read as evidence of phenomenal unity (L119);
+        - the FND paragraph's own Bayesian mechanism doing the work (L109).
+    - **Divergent**: blindsight/Phillips, the L119 replacement, and the treatment of functionalism. On each, the live text sides with ChatGPT.
+    - **Excluded**: Gemini's quotations taken from sibling pages (split-brain, anosognosia, capability-division) were not counted. Its processing's anosognosia corroboration of the taxonomy task's L164 substitution is not upheld.
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4):
+    - the taxonomy layer;
+    - split-brain/anaesthesia/bandwidth;
+    - alien hand/epiphenomenalism;
+    - L183 interface friction.
+  The blindsight/pain task stays P2.
+- **Tasks amended**: 1. The blindsight/pain task's NEW L79 text now carries the Michel & Lau (2021) clause, with a fourth reference (Crossref doi:10.1037/rev0000266; Europe PMC abstract re-read). Its net changes from +137 to +182.
+- **Tasks deduplicated**: 0 (the five tasks edit disjoint loci). **Tasks minted**: 0. `parse_tasks` active count stays at 122.
+- **Headroom**: all five tasks applied to a scratch copy take the article from 3,536 to 3,970 (topics hard 4,000), leaving 29 words.
+- **Output**: [outer-review-synthesis-2026-10-16](/reviews/outer-review-synthesis-2026-10-16/)
+
+## 2026-10-16T05:33:51+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro Deep Research. Collected 05:24Z by collect-gemini-review from a conversation commissioned 04:31Z. The first model turn was a dead "something went wrong" error, and the report came from the panel with the `h1`.
+- **File**: [outer-review-2026-10-16-gemini-3-1-pro](/reviews/outer-review-2026-10-16-gemini-3-1-pro/)
+- **Subject**: audit of [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/), the same subject as the ChatGPT leg (reuse:pending-reviews)
+- **Extraction**: 29,912-character canonicalised markdown body (21 trailing citation-chip whitespace runs stripped from 29,975), read in 1,000-character slices. The whole-body SHA-256 and six part hashes matched the in-page values.
+- **Claims verified**: 14. That is 9 on disk (quote provenance, L109, L119, L179, L183, interface-friction L96/L98, the sibling L78/L130) and 5 external (Crossref and Europe PMC: Schechter & Bayne 2021, Michel & Lau 2021, Doerig et al. 2021, Hallett et al. 2022, Cogitate 2025). 5 claims are disputed and 3 unverified.
+- **Disputed**:
+    - The reviewer audited the article cluster as one manuscript. Its IIT/Cogitate charge and its quotation "2025 findings complicate connectivity-based readings" come from `split-brain-consciousness` L130.
+    - "Adopts Phillips wholesale" is false: the article is categorical the other way. This diverges from ChatGPT.
+    - Schechter & Bayne "conclusively" showing that phenomenal unity is shattered is overstated; their abstract calls the agency reading an open question.
+    - The Doerig et al. journal and volume are wrong (*Cognitive Neuroscience* 12(2):41–62).
+- **High-value findings**: 4.
+    - (1) L183 claims "Friction predicts" and "supports" a pattern that L179 says functionalism predicts too, and that `concepts/interface-friction` L96/L98 says only illustrates its vocabulary. Convergent with ChatGPT §Overall item 5, which was not tasked.
+    - (2–4) The split-brain agency/experience point, FND predictive processing and anosognosia belief-updating corroborate three of ChatGPT's queued tasks.
+- **Tasks generated**: 1 (P2 refine-draft, L183, net +47; with the four ChatGPT tasks the article would reach ~3,925 of 4,000).
+- **Not tasked**:
+    - Michel & Lau contest note on the ChatGPT blindsight task's NEW L79 text. Recorded as a recommended amendment for /combine-outer-reviews, because a separate task would depend on order.
+    - Hallett 2022 currency citation (L109 sits in a sibling locus).
+    - Active-inference rival section (headroom).
+    - `split-brain-consciousness` L78 Schechter–Bayne paraphrase (spillover).
 
 ## 2026-10-16T05:05:09+00:00 - research-topic
 - **Task**: Research ketamine dissociation and the retrosplenial rhythm — what the controlled pharmacological case (Vesuna 2020, Wehrman 2023) does to the Map's "parallel / independent route" claim (optimistic-2026-10-08-clinical-dissociation-wing item 4)

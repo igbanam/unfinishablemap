@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T05:33:51+00:00
+ai_modified: 2026-10-16T06:00:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T06:00:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-16
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, gemini-3-1-pro). Claude was not commissioned because of the weekly Fable limit (blocked until 2026-10-21T04:00Z); this is recorded as absent, not as dissent.
+- **Subject**: [[topics/neurological-dissociations-as-interface-architecture]] (recent-aged fallback; both reviewers)
+- **Clusters**: 3 convergent, 3 divergent; the rest are singletons. Every cluster was checked against the live article before it was counted.
+    - **Convergent, 2/2 and verified**:
+        - fit presented as confirmation (L73/L169/L183);
+        - Santander read as evidence of phenomenal unity (L119);
+        - the FND paragraph's own Bayesian mechanism doing the work (L109).
+    - **Divergent**: blindsight/Phillips, the L119 replacement, and the treatment of functionalism. On each, the live text sides with ChatGPT.
+    - **Excluded**: Gemini's quotations taken from sibling pages (split-brain, anosognosia, capability-division) were not counted. Its processing's anosognosia corroboration of the taxonomy task's L164 substitution is not upheld.
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4):
+    - the taxonomy layer;
+    - split-brain/anaesthesia/bandwidth;
+    - alien hand/epiphenomenalism;
+    - L183 interface friction.
+  The blindsight/pain task stays P2.
+- **Tasks amended**: 1. The blindsight/pain task's NEW L79 text now carries the Michel & Lau (2021) clause, with a fourth reference (Crossref doi:10.1037/rev0000266; Europe PMC abstract re-read). Its net changes from +137 to +182.
+- **Tasks deduplicated**: 0 (the five tasks edit disjoint loci). **Tasks minted**: 0. `parse_tasks` active count stays at 122.
+- **Headroom**: all five tasks applied to a scratch copy take the article from 3,536 to 3,970 (topics hard 4,000), leaving 29 words.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-16]]
 
 ## 2026-10-16T05:33:51+00:00 - outer-review
 - **Status**: Success
