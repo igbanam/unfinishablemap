@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 07:36:16+00:00
+ai_modified: 2026-10-16 07:51:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 07:36:16+00:00
+lastmod: 2026-10-16 07:51:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T07:51:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Task**: the P1 alien-hand / epiphenomenalism task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 3, on substitution (3)). It is the third of the five queued tasks on this file to be applied.
+- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
+- **Changes**: eight substitutions, each pulled from the task Notes by script and re-counted at 1 in the live file before it was applied (located by text; the stated line numbers still matched).
+    - (1) L105: "What this maps" now describes motor execution coming apart from intention, inhibition and sense of agency, instead of a severable descending channel from conscious intention (−2).
+    - (2) L105: the missing control channel is marked as the interface reading, and the comparator account that `topics/anarchic-hand-and-action-ownership` concedes in full (frontal inhibition plus the forward-model prediction of authorship) is stated beside it (+27).
+    - (3) L109: the FND and alien-hand "same channel ... a finding rather than an artefact" claim becomes the Map's reading. It now adds that no common measure yet shows the two cases to be one variable, and that the conversion-disorder article calls that localisation contestable (+3). This is the Gemini-convergent substitution. Edwards et al. 2012 is still reported as the Bayesian mechanism, and the text does not concede that the interface is idle.
+    - (4) L107: the alien hand and blindsight pair now "fit the bidirectional-interface picture" instead of "define the bidirectional interface" (+0).
+    - (5) L111: conscious motor selection is labelled a framework commitment, not an inference from the motor neuroscience, matching `concepts/motor-selection` L88. "On that proposal" now introduces the bypass reading (+12).
+    - (6) L185: the heading `### Against Epiphenomenalism` was renamed `### Alien Hand and Epiphenomenalism` (+2). No inbound anchor links to the old heading were found in obsidian, archive or hugo/content. `### Motor Descending — Alien Hand Syndrome` was left unchanged, as required.
+    - (7) L187: "particularly awkward for epiphenomenalism" and the premise that presupposed the descending channel ("losing the descending channel should change nothing") are replaced. The paragraph now reports that alien hand is often cited against epiphenomenalism, because behaviour and felt authorship change together (−17).
+    - (8) L189: "precise shadow ... causally idle ... considerably more strained" becomes the concession that this reply costs the epiphenomenalist nothing. Lawful covariation is what every psychophysical-law view posits, the Map's included. The Map's case against the position is sent to [the self-stultification argument](/concepts/self-stultification/) (−2). The bare slug `self-stultification` is unique (concepts/), and its target exists.
+- **Flow check**: the text around each substitution was re-read. "It is frontal inhibition" points back to "what is missing", "commands from it" to consciousness, "that localisation" to the shared-channel claim in the same sentence, and "the conversion-disorder article" to the paragraph's own link. "On that proposal" refers to the Map's framework proposal. In L189, "the brain damage" and "the behavioural change" still have their antecedents in the new L187. No repair was needed. The L109 opener ("captures the same descending motor channel") and L105's closing "conscious authorisation" sentence are outside this task's remit and were left as they are.
+- **Engagement**: with the comparator account and the Bayesian-FND account (L105, L109, L111), Mode Three. The neural mechanisms are stated as adequate accounts, and the shared interface channel is labelled as the Map's reading. With epiphenomenalism (L187–L189), Mode Three: the alien hand reply is honestly conceded as cost-free inside the epiphenomenalist's framework. The in-framework pressure is placed on self-stultification (Mode One, against the bare-correlation form, per `concepts/epiphenomenalism` L98), not on the syndrome. No mode labels appear in the article.
+- **Length**: `analyze_length` went from 3,718 to 3,741 (+23, as specified; topics hard limit 4,000, gate `>=`). That leaves 258 words of headroom (4000−1−3741) for the two remaining tasks on this file (blindsight/pain +182, L183 friction +47 = 229).
+- **Frontmatter**: `ai_modified` changed to 2026-10-16T07:51:11+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
+- **Published**: yes
 
 ## 2026-10-16T07:36:16+00:00 - refine-draft
 - **Status**: Success
