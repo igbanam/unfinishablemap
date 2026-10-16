@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt blindsight calibration in neurological-dissociations-as-interface-architecture
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
-- **Notes**: From topic-concept anchoring audit 2026-10-16. The topic article over-claims relative to its anchor concept [[blindsight]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.64/kw is below 3.00/kw (target = 60% of anchor 5.46/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-16
-
-
 ### P3: Research The Logic of Dissociation Inference: What Lesion Dissociations License About Architecture
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-10-16-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Convergent untasked residue from the 2026-10-16 outer-review cycle. The synthesis (cluster 3 and Method Notes) records it for the harvester: the rival-model analysis 'would need either a condense pass or a separate article'. ChatGPT §1 ('The central inference') says 'A selective symptom does not by itself identify a single anatomical conduit, still less a trans-ontological conduit'; lesions produce selective deficits through distributed-network damage, diaschisis, altered precision weighting, threshold effects and compensation. §2.6 says a formal double dissociation needs commensurable measures and opposing selective impairments. §4.1 and Gemini §4 add predictive processing / active inference as a general non-modular competitor. The Map leans on dissociation arguments across a whole cluster (`neurological-dissociations-as-interface-architecture`, whose 'Dissociation Logic' section rests on a single radio analogy; `disconnection-neuroscience`; `clinical-dissociation-as-systematic-evidence`; 'double dissociation' in 23 live files). Yet no page examines the inferential step from dissociation to discrete components itself: the modularity, transparency and subtractivity assumptions of classical cognitive neuropsychology, demonstrations that double dissociations arise in non-modular or graded systems, and computational-neuropsychology lesion models that recast syndromes as prior and precision changes. The question is what this step licenses before any interface-versus-production question arises. LEADS ONLY, verify every one at source before use: Shallice 1988 'From Neuropsychology to Mental Structure'; Plaut 1995 'Double dissociation without modularity'; Van Orden, Pennington & Stone 2001 'What do double dissociations prove?'; Caramazza 1986 on single-patient inference; Parr, Rees & Friston 2018 on computational neuropsychology; Fotopoulou 2014 on anosognosia as aberrant predictive coding. SCOPE GUARD: todo.md records an upstream DECLINE of the site-wide 'predictive-processing blind spot / Laukkonen' framing, so predictive processing enters here ONLY as lesion modelling within the dissociation-inference debate. It is not a general PP-versus-dualism article: that is `topics/predictive-processing-and-dualism` (incl. 'The Mechanistic Rival') and `concepts/predictive-processing`. Per-syndrome PP rivals belong in refine-drafts of the existing syndrome pages; `pain-asymbolia` (Gerrans), `clinical-dissociation-as-systematic-evidence` (Ciaunica et al. 2022) and `conversion-disorder-as-consciousness-side-fault` (Edwards et al. 2012) already carry theirs. Harvester near-miss dedupe (2026-10-16): Shallice, Van Orden, Plaut, Caramazza, 'computational neuropsychology', 'subtractivity' and 'dissociation logic' as a subject have 0 hits across live, research and archive. Nearest pages are `disconnection-neuroscience` 'The Channel-Architecture Interpretation' (production versus channel underdetermination, which assumes the components), `clinical-evidence-quality-standards-consciousness-research` 'The Inferential Gap Problem' (clinical evidence to metaphysics, not to architecture) and `apex/phenomenal-output-causal-machinery-dissociation` L187 (a four-level chain naming 'mechanistic independence' in one clause). None treats the debate. Hemispatial neglect is excluded: it has its own research note (`research/hemispatial-neglect-2026-09-16`). P3: neither reviewer marked the corpus-level gap as central. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/logic-of-dissociation-inference-2026-10-16.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'logic-of-dissociation-inference' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2543,6 +2531,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-16: Adopt blindsight calibration in neurological-dissociations-as-interface-architecture
+- **Type**: refine-draft
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: From topic-concept anchoring audit 2026-10-16. The topic article over-claims relative to its anchor concept [[blindsight]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.64/kw is below 3.00/kw (target = 60% of anchor 5.46/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-10-16: Research Acquaintance Without Causation and the Self-Stultification Argument
 - **Type**: research-topic
