@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T04:06:35+00:00
+ai_modified: 2026-10-16T04:35:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T04:35:26+00:00 - coalesce
+- **Task**: coalesce cycle slot: delta check against the 2026-10-15T13:20Z screen, abandoned (steady state; no-candidate streak 29)
+- **Status**: SUCCESS (no candidate)
+- **Pool delta since 10-15 13:20Z**: `git log --diff-filter=ADR` on topics/concepts/voids/archive shows no additions, removals or renames, and the working tree has no uncommitted changes in those sections. 24 files were modified (12 concepts, 10 topics, 2 voids). Body-only `analyze_length` before (base `2fcb3ac4f0`) vs now: no article got shorter by more than 6 words (largest drops: `clinical-dissociation-as-systematic-evidence` −6, `consciousness-value-connection` −5, `forward-in-time-conscious-selection` −4). The rest grew, up to `fusion-void` +217 (1994 → 2211) and `the-interface-problem` +110. All 24 were edited within the recency window, so all are excluded anyway. None of the five pairs declined at 00:21Z changed, and nor did any file in the sub-1750w concepts tail. Gating counts are unchanged: concepts 359/370, topics 348/370 (raw 347, the known +1), voids 113/125.
+- **Age floor**: moving the 30-day `created` cutoff by one day (09-15 → 09-16) adds nothing, because no live article has a `created` date between 2026-09-08 and 2026-09-20 (positive control: the date distribution prints 09-07 and 09-21 entries).
+- **Recency-window re-entrants**: files whose latest edit is 10-14 were excluded at 13:20Z and are eligible again: 34 topics, 21 concepts, 7 voids. I filtered out sidecars and index files before pairing. Topics: 0 feasible pairs in the whole pool, and 0 near-feasible pairs with a re-entrant. Voids: 0 feasible. The 4 near-feasible void pairs all involve `simulation-detection-void` (1530w) and score low (J ≤ 0.32 with no mutual links; the slug overlap is only the shared `void` token). Concepts: the whole-pool feasible count went from 137 to 148. The 11 new pairs all come from the re-entrants `subjective-aim` (1863) and `timing-gap-problem` (1784) paired with the short tail (`the-agent-shaped-hole`, `phenomenal-presentation`, `mind-arena`, `phenomenal-depth`, `perception`, `status-of-content`); all have tag J ≤ 0.12, slug J 0 and no mutual links, so they are unrelated. The best near-feasible concepts pair is `prehension`+`subjective-aim` (3642 vs 3500, J 0.37, 3 links one way). It was declined 10-12 as two distinct Whitehead technical terms, it is still over the hard limit, and it was not re-read.
+- **Finding**: unchanged. The delta cannot create a feasible, related pair. The pool is exhausted by role granularity and by length, and no section is at cap (11/22/12 slots).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-10-16T04:06:35+00:00 - outer-review
 - **Status**: Success
