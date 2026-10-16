@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 01:50:44+00:00
+ai_modified: 2026-10-16 02:35:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 01:50:44+00:00
+lastmod: 2026-10-16 02:35:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T02:35:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Original score**: n/a (`scripts/curate.py` absent; one-sentence calibration task from [deep-review-2026-10-08-the-interface-problem](/reviews/deep-review-2026-10-08-the-interface-problem/) "For the driver", following the 01:50Z fix on the archived predecessor)
+- **Changes**: (1) L83 Ion Channels, the "decisive difficulty" sentence (count 1). Old (27 words): "the Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window while attention operates at ~100ms — a [gap of twelve orders of magnitude](/concepts/timing-gap-problem/)". New (2 sentences, 97 words), with the same structure as `archive/topics/the-interface-location-problem` L80: the 10⁻¹³ s figure is labelled as Tegmark's (2000) MICROTUBULE estimate, twelve orders below attention's ~100ms; Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, whose parameters Reimers et al. (2009) contest, narrows the gap without closing it; 3,000–30,000 observation events per ~300ms decision window would still be needed, the lower figure the same order as Stapp's own assumed ~1,000 per window (Stapp 2007), a modelling assumption rather than an independent prediction; and no concrete model supplies events at either rate. It is still framed as "the decisive difficulty", the Zeno route is not presented as rescued, and the piped [twelve orders of magnitude](/concepts/timing-gap-problem/) link stays on existing words at zero word cost. (2) Back-reference: in the following Georgiev sentence, "found the effect breaks down" became "found the Zeno effect breaks down" (+1), because "the effect" was now two sentences from its antecedent. (3) L79 Microtubules, outside the brief but the same Hagan-revision summary: "though Tegmark (2000) and others contend the original calculations stand" became "though Reimers et al. (2009) contest the parameters behind them" (+1). The old clause was anachronistic, since a 2000 paper cannot contest a 2002 revision, and it named a different challenger from the one L83 now names. Tegmark is still cited in the body, at L83.
+- **Grep sweep** (`grep -iF`, after the edits): "twelve orders" 1 (the new L83 link text, now attributed to Tegmark's microtubule estimate); "femtosecond" 0; "10⁻¹³" 1 (L83, labelled); "decoherence window" 0; "orders of magnitude" only at L83. No other summary mention needed changing.
+- **References**: added Reimers, McKemmish, McKenzie, Mark & Hush (2009), *PNAS* 106(11), 4219–4224, doi:10.1073/pnas.0806273106, copied from `concepts/quantum-zeno-effect` L122 (Crossref-verified 2026-10-16 01:50Z). It goes in as #10, alphabetically after Rajan (#9), and the old #10–17 (Rizzolatti … Robinson) are renumbered to #11–18. The body cites by author and year, with no numeric markers (grep confirmed), so only the list numbers changed.
+- **Length** (`analyze_length`, topics, gate `>=`): 3,473 → 3,583 (+110: about +72 prose, the rest the reference entry; hard limit 4,000, 416 headroom left).
+- **Frontmatter**: `ai_modified` 2026-10-08T15:26:20+00:00 → 2026-10-16T02:35:49+00:00; `modified` 2026-10-08 → 2026-10-16; `ai_system` claude-opus-4-7+claude-fable-5-1 → claude-opus-4-7+claude-fable-5-1+claude-opus-5-5 (it was absent component-wise, so it was appended).
+- **Published**: yes
 
 ## 2026-10-16T01:50:44+00:00 - refine-draft
 - **Status**: Success
