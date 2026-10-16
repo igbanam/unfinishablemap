@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 07:06:31+00:00
+ai_modified: 2026-10-16 07:36:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 07:06:31+00:00
+lastmod: 2026-10-16 07:36:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T07:36:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Task**: the P1 split-brain / anaesthesia / bandwidth task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 2, on substitution (1) only). It is the second of the five queued tasks on this file to be applied.
+- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
+- **Changes**: six substitutions, each pulled from the task Notes by script and re-counted at 1 on its stated line before it was applied. The line numbers had not moved after the taxonomy task.
+    - (1) L119: split-brain no longer says "higher-order unity persists" or that Santander et al. (2025) preserves "full neural synchronisation". It now says agency survives and that no behavioural measure settles whether experience stays unified. Santander is reported as a finding about neural integration, and the redundant unity channel is marked as the interface reading of it (+18). Per the synthesis, the text was not strengthened toward "experience is divided".
+    - (2) L171: "On the Map's reading," now prefixes the channel-failure claim (+4).
+    - (3) L171: neuromuscular blockers "abolish movement peripherally" instead of severing motor output (+0).
+    - (4) L171: "pharmacological worked exhibit ... load-bearing observations are precise pharmacological analogues" becomes "applies the same ... logic pharmacologically, and three of its observations parallel". This removes the article's only "load-bearing" (−13).
+    - (5) L171: the KCC2 active-reboot sentence becomes "KCC2 emergence mechanism (Hu et al. 2023, in mice)". Reading it as a reopening pathway for the interface is now marked as interpretation (+3).
+    - (6) L197: the 10 bits/s figure is now sourced to Zheng & Meister (2025) as behavioural throughput, and the 11 million figure stays with Zimmermann/Nørretranders. The sentence also adds "though throughput is not interface bandwidth" (+9).
+  One References entry was appended at the end of `## References`: Zheng & Meister 2025. Checked at Crossref: DOI 10.1016/j.neuron.2024.11.008 resolves (302 to Elsevier, pii S0896627324008080), and the title, *Neuron* 113(2), 192–204 (2025) and the authors Jieyu Zheng and Markus Meister match.
+- **Flow check**: the sentences around each substitution were re-read. "Severing them" keeps its antecedent (the bilateral channels / lateral connections), "the interface reading of it" points back to the Santander finding, and the anesthesia-void sentence's "this parallel" still has one after (4). No repair was needed. Nothing else in the prose cited the removed PNAS / synchronisation / higher-order-unity wording.
+- **Engagement**: the L119 and L171 changes are framework-boundary marking (Mode Three). The neural findings are stated as findings, and the interface reading is labelled as a reading laid over them, not derived from them.
+- **Length**: `analyze_length` went from 3,675 to 3,718 (+43, as specified; each step measured equal to its spec; topics hard limit 4,000). The three other queued tasks on this file still have 281 words of headroom (4000−1−3718).
+- **Frontmatter**: `ai_modified` changed to 2026-10-16T07:36:16+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
+- **Published**: yes
 
 ## 2026-10-16T07:06:31+00:00 - deep-review
 - **Status**: Success
