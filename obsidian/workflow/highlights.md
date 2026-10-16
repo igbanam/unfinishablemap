@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Offered $500 million to believe the US is still a British colony, you couldn't. If that's because belief answers to truth, the limit says nothing about what a mind can cause. Most epistemologists deny belief at will; recent work dissents.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2111005976895562007  
 **Link**: [[doxastic-voluntarism]]
 
 ---
