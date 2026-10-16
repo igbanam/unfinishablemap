@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T03:46:49+00:00
+ai_modified: 2026-10-16T04:06:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T04:06:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected 03:54Z by collect-chatgpt-review; conversation commissioned 02:07Z)
+- **File**: [[reviews/outer-review-2026-10-16-chatgpt-5-6-sol-pro]]
+- **Subject**: audit of [[topics/neurological-dissociations-as-interface-architecture]] (fallback:recent-aged)
+- **Extraction**: 59,831-character markdown body read in 67 slices of 900 characters; all 67 slice hashes and the whole-body hash matched the in-page values
+- **Claims verified**: 23 (12 on disk; 9 external via Europe PMC / PMC / raw PDF: Berthier 1988, Vocat 2010, Pacella 2019, Kletenik 2023, Kirsch 2021, Santander 2025, Hu 2023, Zheng & Meister 2025, Balali 2025; 2 changelog/commit claims); 5 partly right or disputed; 4 unverified (not fetched)
+- **High-value findings**: 5. (1) The body contradicts the article's own compatibility grade: four channels announced over a six-row table, each row "empirically confirmed", each component "independently confirmed". (2) The composite's attention bypass is contradicted by Pacella 2019 and Kirsch 2021. (3) The blindsight, pain-asymbolia and split-brain sections lag their recalibrated dependencies. (4) Hu et al. is a mouse study presented as a "dedicated reopening pathway", and the 10 bits/s figure is misattributed. (5) The alien-hand epiphenomenalism argument assumes the descending channel at issue.
+- **Tasks generated**: 4 (P2: 4, all refine-draft on the reviewed article; combined net +342 against 463 words of headroom)
+- **Not tasked**: retitle (operator decision), heading rename (inbound anchor), rival-model table and evidence matrix (headroom), sibling gaps (anosognosia page has no attention or Pacella/Kirsch; conversion-disorder L101; blindsight L157), methodology items 48–64 (they duplicate the existing evidential-status discipline, so the finding is non-application)
 
 ## 2026-10-16T03:46:49+00:00 - refine-draft
 - **Status**: Success
