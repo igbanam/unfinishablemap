@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T08:20:18+00:00
+ai_modified: 2026-10-16T09:10:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-16T09:10:59+00:00 - research-topic
+- **Task**: Research Acquaintance Without Causation and the Self-Stultification Argument (P2; harvested from `reviews/optimistic-2026-10-16-self-stultification-repair-wing.md` High-Priority opportunity A)
+- **Status**: Success
+- **Topic**: whether the Map's acquaintance epistemology concedes the epiphenomenalist's reply to self-stultification, and whether the two commitments can be stated as one thesis
+- **Output**: [[research/acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16]] (7,353 words by `analyze_length`)
+- **Sources consulted**: 16 cited. 5 read at the primary and grepped: Chalmers 1996 ch. 5 (archive.org OCR, 21 strings), Chalmers 2003 (consc.net preprint, 29 strings), De Brigard 2014 (author PDF, 21 strings), SEP "Epiphenomenalism" rev. 2023 (10 strings), Jackson 1982 (JSTOR scan, 4 strings). Metadata-only (Crossref): Yetter-Chappell 2022 (body blocked: Cloudflare/403/429), Bayne 2001, Moore 2012, Robinson 2013. The rest are leads marked UNVERIFIED.
+- **Answer**: the tension is real at the knowing ("presence") channel. Chalmers 2003 assumes epiphenomenalism and shows that constitution, "tighter than any causal connection", underwrites phenomenal knowledge, and the Map's own acquaintance, constitutive-observation and phenomenal-intentionality pages accept its premises. The two commitments become one thesis if the premise moves from knowing to *use* (inference, memory, perceptual justification) and *voice* (report, assertion). The reviewer's "report channel" is one of the two. Against an interactionist, the relocated premise needs efficacy *in virtue of* phenomenal content, which Tenet 3's content clause posits.
+- **Verification findings**: De Brigard 2014 concedes the counterfactual condition "is all you need — and have" (pp. 123–124), argues against the identity theory, relies on parsimony and sets Chalmers aside (n. 8). Jackson 1982 p. 133 allows qualia to make "a difference to other mental states". Chalmers 2003 n. 15 calls ch. 5 "at best suboptimal".
+- **Verdict**: (a) new topics article, `suggested_slug: acquaintance-without-causation`. Appended to `task_chains.pending_articles` by targeted text insert (YAML re-parsed: 19 entries). Hub headroom 45, master 526 (448 after open P3), acquaintance 468, metaproblem 80, tenets critical.
+- **Spillover (untasked)**: hub L107 / master L79 "doubly self-stultifying" needs an unstated content-efficacy premise; tenets L101 / agency-void L108 De Brigard attribution; `philosophical-zombies` L157 "identical in content" against Chalmers 2003 p. 38.
+- **Target**: none (research note only; no article or todo edited)
 
 ## 2026-10-16T08:20:18+00:00 - refine-draft
 - **Status**: Success

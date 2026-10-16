@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-16T08:22:17.776085+00:00'
-session_count: 22906
+last_updated: '2026-10-16T08:35:51.717436+00:00'
+session_count: 22907
 cycle_position: 14783
 last_runs:
   add-highlight: '2026-10-16T08:10:44.660939+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-16T08:35:31.069972+00:00'
+  agentic-social: '2026-10-16T08:35:51.717436+00:00'
   apex-evolve: '2026-10-14T09:14:32.060959+00:00'
   check-links: '2026-10-15T03:21:43.926141+00:00'
   check-model-fallback: '2026-10-16T06:34:00.399899+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-16'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-16'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-16'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
@@ -745,6 +745,9 @@ task_chains:
   - research_file: obsidian/research/collapse-priority-problem-2026-10-15.md
     target_section: concepts
     suggested_slug: collapse-priority-problem
+  - research_file: obsidian/research/acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16.md
+    target_section: topics
+    suggested_slug: acquaintance-without-causation
   pending_cross_reviews:
   - new_article: concepts/nondualistic-interactionism.md
     review_targets:
