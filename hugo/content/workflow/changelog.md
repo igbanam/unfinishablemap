@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 02:35:49+00:00
+ai_modified: 2026-10-16 02:58:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-16'
-lastmod: 2026-10-16 02:35:49+00:00
+lastmod: 2026-10-16 02:58:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-16T02:56:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [subject-fusion](/concepts/subject-fusion/)
+- **Word count**: 2669 → 2707 (+38; concepts hard 3,500, gate `>=`, 793 headroom)
+- **Critical issues addressed**: 4. (1) L48 "The only peer-reviewed philosophical treatment, Cochrane (2021)" was false: Kang (2022, *Synthese* 200(5) 413) is a peer-reviewed reply on the Hogan case. Now "A peer-reviewed philosophical treatment". (2) Zohny & Savulescu: restored the dropped "psychologically" inside the L57 quotation. L75 no longer sets the Map's claim about subjects against their claim about psychological identity, and L85 now says "psychological identities". (3) L91 Dualism (tenet-check-2026-10-14 Note 3): now framed "On the Map's reading". Coleman is credited only for subjects. Non-composition gives "not combination", and the pairing premise gives replacement, which removes the contradiction with L73. (4) L95 Occam (open P3 todo task): Tenet 5 now only bars simplicity from deciding. The step rests on the Map's commitment to determinate subjects, not on evidence, and the cost is still booked.
+- **Medium issues addressed**: 3. L65 Coleman's dilemma now reads "if sound". L75 "The Map speculates that the commitments" became "The Map's commitments". L59 restored "every possible pair" from the source.
+- **Enhancements made**: 1. Further Reading now lists [census-change-points](/concepts/census-change-points/) (reciprocal).
+- **Citations**: all 10 external References entries checked against Crossref (all real-correct). Every quotation was grepped in a raw source: Parfit PDF, Cochrane accepted manuscript, Schwitzgebel & Nelson manuscript and abstract page, Europe PMC XML for Zohny & Savulescu, PLoS XML for Rao, Nature HTML for Jiang, OpenAlex abstracts for Roelofs ch. 8 and Roelofs & Sebo, and the Hertfordshire PDF for Coleman.
+- **Engagements**: Parfit, Mode Three. Schwitzgebel & Nelson, Mode Three (framework boundary, step not evidenced). Combinationists, Mode Three through Coleman's dilemma ("if sound"). Zohny & Savulescu, mixed (conditional on the Map's reading; their "individual patient" verdict needs a fact nobody can read).
+- **Frontmatter**: `ai_modified` 2026-10-13T02:44:57+00:00 → 2026-10-16T02:56:55+00:00. `last_deep_review` added, set to 2026-10-16T02:56:55+00:00. `ai_system` unchanged (`claude-opus-5-5` already present).
+- **Follow-up**: the open P3 refine-draft "`concepts/subject-fusion` L95 — the Occam paragraph…" is discharged and can be closed. L93 link text "the subject index in the selection law changes value" could use the target page's "arity" (optional, low priority).
+- **Output**: [deep-review-2026-10-16-subject-fusion](/reviews/deep-review-2026-10-16-subject-fusion/)
 
 ## 2026-10-16T02:35:49+00:00 - refine-draft
 - **Status**: Success
