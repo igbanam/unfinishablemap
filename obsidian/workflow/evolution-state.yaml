@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-16T09:13:19.500518+00:00'
-session_count: 22908
+last_updated: '2026-10-16T09:19:24.178139+00:00'
+session_count: 22909
 cycle_position: 14784
 last_runs:
   add-highlight: '2026-10-16T08:10:44.660939+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-16T07:07:37.524767+00:00'
-  embed-videos: '2026-10-15T20:04:47.806300+00:00'
+  embed-videos: '2026-10-16T09:19:24.178139+00:00'
   expand-topic: '2026-10-14T22:44:29.767549+00:00'
   harvest-research-subjects: '2026-10-16T07:24:49.556364+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-10-16'
-  outcome: failed
-  kind: commission
 - task: agentic-social
   type: agentic-social
   date: '2026-10-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-16'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-16'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
