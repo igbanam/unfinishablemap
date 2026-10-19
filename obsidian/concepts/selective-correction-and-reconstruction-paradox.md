@@ -4,7 +4,7 @@ description: "The brain handles sensory signals in three modes—silent correcti
 created: 2026-03-12
 modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-19T08:42:34+00:00
+ai_modified: 2026-10-19T14:41:45+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -64,7 +64,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them — though the main rival reading, proposed by Hesse et al. (2026), is a physicalist account of exactly this step as temporal selection, with one state's content dynamically routed downstream (see [[#the-selection-gap|below]]). The Necker cube reverses its apparent orientation every few seconds without any change in the retinal image. Rubin's face-vase figure alternates between two mutually exclusive interpretations. In binocular rivalry, when different images are presented to each eye, consciousness sees one image at a time, switching unpredictably rather than blending.
 
-These phenomena share a structure: the sensory input is constant, the brain generates at least two viable reconstructions, and consciousness experiences only one at a time. The alternation is not random noise. Voluntary attention can bias which interpretation dominates and extend how long it persists, though it cannot prevent switching entirely (Leopold & Logothetis, 1999; Blake & Logothetis, 2002). Tibetan Buddhist monks practising one-point (focused-attention) meditation held a single percept markedly longer, the most experienced for an entire five-minute trial (Carter et al., 2005). These findings suggest that the selection process is partially but not fully under conscious control: consciousness influences which reconstruction prevails without dictating the outcome absolutely.
+These phenomena share a structure: the sensory input is constant, the brain generates at least two viable reconstructions, and consciousness experiences only one at a time. The alternation is not random noise. Voluntary attention can bias which interpretation dominates and extend how long it persists, though in ordinary observers it cannot prevent switching entirely (Leopold & Logothetis, 1999; Blake & Logothetis, 2002). Half the Tibetan Buddhist monks reported markedly longer dominance durations after one-point (focused-attention) meditation; during it, three (two of them long-term retreatants) reported complete stability for an entire five-minute session (Carter et al., 2005). These findings suggest that the selection process is partially but not fully under conscious control: consciousness influences which reconstruction prevails without dictating the outcome absolutely.
 
 This third category is distinctive because consciousness is neither passive recipient nor powerless observer. It actively participates in determining which reconstruction becomes experience. Attention modulates the dynamics. Training and expertise alter the patterns. The process responds to top-down influence in ways that autonomous correction does not. Unlike choosing between menu items, which are cognitively represented and deliberated, the alternatives here are *perceptual* — the same input processed through different generative models — and the selection occurs below deliberation, at the interface between perceptual processing and conscious experience.
 

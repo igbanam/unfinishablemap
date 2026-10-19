@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T14:31:00+00:00
+ai_modified: 2026-10-19T14:41:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:41 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: correct the Carter et al. 2005 meditator overstatement in "## Selection Under Ambiguity" (from the voids/attention-and-consciousness Carter source check). Built on this morning's 08:42 Hesse edit; nothing from it was undone.
+- **Changes**: (1) "Tibetan Buddhist monks practising one-point (focused-attention) meditation held a single percept markedly longer, the most experienced for an entire five-minute trial (Carter et al., 2005)." became "Half the Tibetan Buddhist monks reported markedly longer dominance durations after one-point (focused-attention) meditation; during it, three (two of them long-term retreatants) reported complete stability for an entire five-minute session (Carter et al., 2005)." (2) For consistency with the corrected finding, the preceding sentence's "though it cannot prevent switching entirely" became "though in ordinary observers it cannot prevent switching entirely". This matches the "Ordinary voluntary effort cannot arrest the alternations" wording installed in [[voids/attention-and-consciousness]] today.
+- **Carter et al. 2005 (re-verified from a fresh download)**: the Wayback copy of the USQ eprint (eprints.usq.edu.au/2552, md5 395b4740…, byte-identical to the copy the voids refine used) was extracted with pdftotext and grepped. Confirmed: 76 monks were tested and results are reported for 23. Compassion meditation "led to no observable change in rivalry rate". After one-point meditation, "extreme increases in perceptual dominance durations … were reported by 50% of monks" (button press or verbal), measured against each monk's own baseline (Fig. 1C/D). During one-point meditation, "three (including two of the 'retreatists') reported complete perceptual stability throughout the entire 5 minute meditation period" (verbal). Percepts during stabilisation "often differed from either of the two presented gratings". The comparison with "over 1000 meditation-naive individuals tested previously" is attached to the stabilisation reports, not to the 50% result. The rivalry result has no statistical test; t = 2.8 is for motion-induced blindness. "The most experienced" belongs to the motion-induced-blindness result (the 25-year retreatist, 723 s), not to rivalry. The rivalry wording came from press coverage.
+- **Calibration**: "held a single percept" was dropped because the stabilised percept often matched neither grating; "reported" now marks both findings as self-report. No comparison clause was added to the 50% result, since that comparison is within-subject. The next sentence ("partially but not fully under conscious control") still holds: three self-reports during one condition, with no consistent orientation favoured.
+- **Length**: analyze_length 3062 → 3074 (+12; concepts hard 3500). No references added.
+- **Frontmatter**: ai_modified 2026-10-19T14:41:45+00:00; ai_system already contains claude-opus-5-5 (unchanged)
+- **Published**: yes
 
 ## 14:31 - deep-review
 - **Status**: Success
