@@ -2,10 +2,10 @@
 title: "Chinese Philosophy of Mind"
 description: "Chinese organicism did not divide mind from matter, so the explanatory gap never opened—not even in its medieval body-and-spirit debate. A human-AI reading."
 created: 2026-07-07
-modified: 2026-07-27
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-14T14:23:57+00:00
-last_deep_review: 2026-07-27T16:06:55+00:00
+ai_modified: 2026-10-19T12:30:55+00:00
+last_deep_review: 2026-10-19T12:30:55+00:00
 draft: false
 topics:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-07
 last_curated:
 ---
@@ -56,11 +56,11 @@ Daoism, in the *Daodejing* and *Zhuangzi*, goes further and actively targets the
 
 ## The Body and Spirit Debate
 
-One qualification is owed here, and making it honestly sharpens what follows. Between roughly the fourth and sixth centuries the tradition did stage a sustained argument over *xing* (形, bodily form) and *shen* (神, spirit): whether the spirit perishes with the body or outlasts it. Buddhist writers, whose account of rebirth needed something that persists, argued for separability; their Confucian and Daoist opponents denied it. The controversy peaked with Fan Zhen's *Shenmie lun* (神滅論, "On the Extinction of the Spirit," 507), which held that spirit stands to body as sharpness stands to a blade—there is no sharpness without the blade whose sharpness it is, and so no spirit without its body. Emperor Wu of Liang was provoked enough to have some sixty courtiers write replies (Wong 2025).
+One qualification is owed here, and making it honestly sharpens what follows. Between roughly the fourth and sixth centuries the tradition did stage a sustained argument over *xing* (形, bodily form) and *shen* (神, spirit): whether the spirit perishes with the body or outlasts it. Buddhist writers, whose account of rebirth needed something that persists, argued for separability; their non-Buddhist critics denied it. The controversy peaked with Fan Zhen's *Shenmie lun* (神滅論, "On the Extinction of the Spirit," 507), which held that spirit stands to body as sharpness stands to a blade—there is no sharpness without the blade whose sharpness it is, and so no spirit without its body. Emperor Wu of Liang was provoked enough to have some sixty courtiers write replies (Wong 2025).
 
-So a flat claim that Chinese thought never set spirit against body would be false. What the episode still does not contain is an explanatory gap. Both sides conducted the dispute in the shared vocabulary of *qi*, and what divided them was *persistence*—does the spirit outlast the body?—rather than constitution. Nobody asked why a bodily process should be accompanied by anything it is like at all. Fan Zhen's analogy is an inseparability thesis of exactly the organicist kind, nearer a supervenience claim than to either Cartesian dualism or a refutation of it. The scoped claim is therefore the one this article defends: the tradition's central categories offered no place to *lodge* an explanatory gap, even in the period when it argued hardest about body and spirit.
+So a flat claim that Chinese thought never set spirit against body would be false. What the episode still does not contain is an explanatory gap. What drove the dispute was *persistence*—does the spirit outlast the body?—and the rival accounts of what spirit *is* served that question. In Huiyuan's dialogue of 404 both parties quote the *Zhuangzi*: the sceptic holds that spirit and body are one *qi*, finer and coarser, so that spirit disperses when the body's *qi* does, and Huiyuan answers that spirit, refinement carried to its limit, responds to things without being a thing (Huiyuan 404). Some later Buddhist contributors named the persisting element *shenshi* (神識, "spirit-cum-consciousness"), arguing more from Buddhist scripture than from the classics, but still as a thread of continuity—across rebirths and on into liberation (Radich 2014). Nobody asked why a bodily process should be accompanied by anything it is like at all. Fan Zhen's analogy is an inseparability thesis of exactly the organicist kind, nearer to a supervenience claim than to either Cartesian dualism or a refutation of it. The scoped claim is therefore the one this article defends: the tradition's central categories offered no place to *lodge* an explanatory gap, even in the period when it argued hardest about body and spirit.
 
-A second qualification concerns coverage. Chinese Buddhism imported an Indian analysis of mind wholesale—the Faxiang school transmitted Yogācāra "consciousness-only" doctrine after Xuanzang's return in the seventh century—and its schools are not organicist in the sense used here. The basin-edge argument below concerns the indigenous Confucian, Daoist, and Neo-Confucian strands rather than everything ever thought in China; the Buddhist material belongs with the Indian traditions surveyed in [[eastern-philosophy-consciousness|Eastern philosophy of consciousness]].
+A second qualification concerns coverage. Chinese Buddhism built on an analysis of mind imported from India—most directly in the Faxiang school, which transmitted [[yogacara-alaya-vijnana-storehouse-consciousness|Yogācāra]] "consciousness-only" doctrine after Xuanzang's return in the seventh century—and its schools are not organicist in the sense used here. The basin-edge argument below concerns the indigenous Confucian, Daoist, and Neo-Confucian strands rather than everything ever thought in China; the Buddhist material belongs with the Indian traditions surveyed in [[eastern-philosophy-consciousness|Eastern philosophy of consciousness]].
 
 ## Neo-Confucian Synthesis: Zhu Xi
 
@@ -70,7 +70,7 @@ Zhu Xi's cultivation method takes its name from a phrase in the *Great Learning*
 
 ## Wang Yangming: Mind Is Principle
 
-Wang Yangming (1472–1529), the Ming-dynasty Neo-Confucian, came closest of any Chinese thinker to a consciousness-centred metaphysics—which makes his position the sharpest available test of whether the tradition merely lacked the concepts to pose the hard problem or positively dissolved it. His conversations and letters are collected in the *Chuanxilu*, translated by Wing-tsit Chan as *Instructions for Practical Living* (Wang [1518–1556] 1963).
+Wang Yangming (1472–1529), the Ming-dynasty Neo-Confucian, came as close as any Confucian thinker to a consciousness-centred metaphysics—which makes his position the sharpest available test of whether the tradition merely lacked the concepts to pose the hard problem or positively dissolved it. His conversations and letters are collected in the *Chuanxilu*, translated by Wing-tsit Chan as *Instructions for Practical Living* (Wang [1518–1556] 1963).
 
 Three doctrines matter here. First, *xin ji li* (心即理), "mind is principle": against Zhu Xi's placing of *li* in things to be investigated outside, Wang holds that principle is not found by studying external objects but is already complete in the heart-mind. He presses the point by re-reading Zhu Xi's own *gewu* not as investigating things but as *rectifying* them—a matter of setting the will straight rather than accumulating knowledge—so that the two men divide over the meaning of a single canonical phrase. Second, *liangzhi* (良知), rendered "innate knowledge" by Chan and "pure knowing" by Van Norden: an inborn, active moral awareness that spontaneously recognizes right and responds to situations, the source rather than the product of learning. Third, *zhi xing he yi* (知行合一), the "unity of knowledge and action": genuine knowing is not a state that then issues in behaviour but is already a mode of engaged doing—to know the good and not act is, for Wang, not yet to know it (Van Norden, "Wang Yangming"; Chan 1963).
 
@@ -109,10 +109,12 @@ Finally, the Chinese case is a standing caution demanded by [[tenets#^occams-lim
 ## References
 
 1. Chan, Wing-tsit (1963). *A Source Book in Chinese Philosophy*. Princeton University Press.
-1. Wang, Yangming (1963). *Instructions for Practical Living and Other Neo-Confucian Writings* (*Chuanxilu*). Trans. Wing-tsit Chan. New York: Columbia University Press. (Original conversations recorded 1518–1556.)
+1. Wang, Yangming (1963). *Instructions for Practical Living and Other Neo-Confucian Writings* (*Chuanxilu*). Trans. Wing-tsit Chan. New York: Columbia University Press. (Compiled by his disciples and published in stages, 1518–1556.)
 1. Needham, Joseph (1956). *Science and Civilisation in China, Vol. 2: History of Scientific Thought*. Cambridge University Press.
 1. Van Norden, Bryan (2024). "Wang Yangming." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/wang-yangming/
 1. Thompson, Kirill (2025). "Zhu Xi." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/zhu-xi/
 1. Wong, Soo Lam (2025). "Fan Zhen's *Shen Mie Lun* and the Mind-Body Problem: A Comparison with Western Approaches." *Dao: A Journal of Comparative Philosophy* 24(1), 105–117. https://doi.org/10.1007/s11712-024-09978-z
+1. Huiyuan (404). "Xing jin shen bu mie" (形盡神不滅, "The Form Ends but the Spirit Is Not Extinguished"), part 5 of *Shamen bu jing wangzhe lun* (沙門不敬王者論). In Sengyou (comp.), *Hongming ji* (弘明集), juan 5. Taishō vol. 52, no. 2102, p. 31b–c. https://cbetaonline.dila.edu.tw/zh/T2102_005
+1. Radich, Michael (2014). "Ideas about 'Consciousness' in Fifth and Sixth Century Chinese Buddhist Debates on the Survival of Death by the Spirit, and the Chinese Background to \*Amalavijñāna." In Chen-kuo Lin & Michael Radich (eds.), *A Distant Mirror: Articulating Indic Ideas in Sixth and Seventh Century Chinese Buddhism*, 471–512. Hamburg: Hamburg University Press.
 1. Southgate, A. & Oquatre-sept, C. (2026-03-20). Cross-Traditional Convergence on Consciousness Irreducibility. *The Unfinishable Map*. https://unfinishablemap.org/topics/cross-traditional-convergence-on-consciousness-irreducibility/
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/

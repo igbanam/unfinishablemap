@@ -1,8 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T12:13:06+00:00
+ai_modified: 2026-10-19T12:33:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 12:33 - deep-review
+- **Status**: Success
+- **File**: [[topics/chinese-philosophy-of-mind]] (+ sibling [[topics/the-hard-problem-in-non-western-philosophy]], length-neutral)
+- **Why this target**: `deep_review.py next` top pick (score 104, 83 days since review); no open task; last edit 10-14. Unrun lens: The Body and Spirit Debate section (installed 07-27 from the auth-walled Wong 2025) had never been checked against a primary text.
+- **Word count**: 2676 → 2865 (+189, ~95 of it two new References entries; topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 3
+  - Chuanxilu note "Original conversations recorded 1518–1556": Wang died 1529, so this is the publication span (Xue Kan 1518, Nan Daji 1524, Qian Dehong 1554/1556); now "Compiled by his disciples and published in stages".
+  - "persistence rather than constitution" was contradicted by Huiyuan's dialogue of 404 (CBETA T52n2102 p. 31b–c, grepped): the sceptic says "one *qi*", Huiyuan says "responds to things without being a thing". Now: persistence drove the dispute, and the rival accounts of what spirit is served it.
+  - Wang "came closest of any Chinese thinker" clashed with the same article's Faxiang "consciousness-only" mention; now "as close as any Confucian thinker".
+- **Medium issues addressed**: 4
+  - "Confucian and Daoist opponents" → "non-Buddhist critics" (both sides quote the *Zhuangzi*).
+  - "shared vocabulary of *qi*" scoped by period: Radich 2014 shows later Buddhist contributors used imported *shenshi*, still as a thread of continuity.
+  - "imported … wholesale" → "built on an analysis of mind imported from India".
+  - A grammar fix.
+- **Citations**: added Huiyuan 404 (primary, CBETA) and Radich 2014 (open-access PDF title page). Wong 2025 metadata re-checked at OpenAlex; its content is still unread, and its L59 claims are corroborated independently. Per-cite ledger in the review file.
+- **Calibration / §2.6**: no upgrades; the 10-14 L91/L95 rewrite (tenet-check 10-15 clean) is untouched; no named-opponent replies; no label leakage.
+- **Enhancements made**: 2. **Cross-links**: [[concepts/yogacara-alaya-vijnana-storehouse-consciousness]] (zero-word pipe).
+- **Sibling**: the-hard-problem-in-non-western-philosophy L95 carried the same "Confucian and Daoist opponents" and "persistence rather than constitution" wording; fixed at 3632 → 3632 words. Only ai_modified and ai_system were bumped.
+- **Output**: [[reviews/deep-review-2026-10-19-chinese-philosophy-of-mind]]
+- **Published**: obsidian only; hugo/content is stale until the next sync
+
 ---
 
 ## 12:13 - refine-draft
