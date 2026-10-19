@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 11:43:41+00:00
+ai_modified: 2026-10-19 08:35:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 08:35 - research-topic
+- **Status**: Success
+- **Topic**: Hesse et al. (2026), rapid (~60 ms-state, ~15 switches/s) alternation of conscious and suppressed face representations in macaque IT and prefrontal face patches under binocular flash suppression (bioRxiv v1 preprint, not peer-reviewed)
+- **Output**: [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]]
+- **Sources consulted**: 9 (preprint full text via bioRxiv PDF after rate-limit waits; Hesse & Tsao 2020 eLife full text; Sheinberg & Logothetis 1997, Kapoor et al. 2022 abstracts; Wolfe 1984, Panagiotaropoulos et al. 2012, Tsao et al. 2008, She et al. 2024 metadata; bioRxiv/Europe PMC records)
+- **Verdict**: `recommended_action: refine` (no expand-topic minted). Monkeys gave no report (percept labels transferred from 14 human observers); states labelled by template likelihood, with statistical circularity named and controlled by the authors; "15 Hz" is a Markov switching rate, not an oscillation; PFC (PO, PVL) shows the same pattern more weakly
+- **Tasks generated**: 5 P2 refine-draft (selective-correction-and-reconstruction-paradox, neural-correlates-of-consciousness, attention-and-consciousness, neural-refresh-rates-and-the-smoothness-problem, dualist-perception); no change recommended for quantum-neural-timing-constraints or attention-as-interface
+
 ---
 
 ## 05:13 - outer-review
