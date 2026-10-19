@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-16T08:06:38.986255'
+ai_modified: '2026-10-19T08:09:41.059485'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-16'
+date: '2026-10-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-16 08:06:38.986255+00:00
-modified: '2026-10-16'
+lastmod: 2026-10-19 08:09:41.059485+00:00
+modified: '2026-10-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-19: Six Ways the Mind Comes Apart, and What It Shows
+
+Blindsight, pain asymbolia, anosognosia, alien hand, split-brain and neglect each break a different link between brain and experience. The revised page maps the separable channels, then grants that functionalism predicts the same pattern: fit, not proof.
+
+**Type**: refinement  
+**Link**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+
+---
+
 ### 2026-10-16: Can You Simply Decide What to Believe?
 
 Offered $500 million to believe the US is still a British colony, you couldn't. If that's because belief answers to truth, the limit says nothing about what a mind can cause. Most epistemologists deny belief at will; recent work dissents.
@@ -193,15 +202,6 @@ Revised after two outside reviews: the Map's case for agent-causal free will now
 
 **Type**: refinement  
 **Link**: [free-will](/topics/free-will/)
-
----
-
-### 2026-09-27: Consciousness Built From Parts That Feel Nothing
-
-Panprotopsychism puts non-experiential properties at nature's base to avoid conscious electrons. New concept page on why the gap between non-experience and experience reopens one level down, and why Chalmers splits his credence between it and dualism.
-
-**Type**: new-article  
-**Link**: [panprotopsychism](/concepts/panprotopsychism/)
 
 ---
 
