@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-10-03T17:49:59+00:00
+ai_modified: 2026-10-19T15:17:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ related_articles:
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-26T02:17:48+00:00
@@ -129,7 +129,7 @@ Because PC is a *general* thesis, it cuts both ways, and honesty requires saying
 
 ## Acquaintance and the Dualism Connection
 
-Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself — the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). If phenomenal knowledge cannot be deduced *a priori* from physical truths, then phenomenal qualities are not physical properties. The [[knowledge-argument]] makes the same move: Mary, with all physical knowledge about colour vision, learns something new upon seeing red — phenomenal acquaintance with redness exceeds what physical description provides (Jackson 1982).
+Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content [[acquaintance-without-causation|partially constituted by the phenomenal quality itself]] — the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). If phenomenal knowledge cannot be deduced *a priori* from physical truths, then phenomenal qualities are not physical properties. The [[knowledge-argument]] makes the same move: Mary, with all physical knowledge about colour vision, learns something new upon seeing red — phenomenal acquaintance with redness exceeds what physical description provides (Jackson 1982).
 
 The main physicalist response is the [[phenomenal-concepts-strategy|phenomenal concepts strategy]]: first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities, the concept/referent gap collapses. For consciousness, appearance *is* reality.
 

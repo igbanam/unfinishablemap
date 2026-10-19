@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-03 01:29:57+00:00
+ai_modified: 2026-10-19 15:17:48+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-10-03 01:29:57+00:00
+lastmod: 2026-10-19 15:17:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The problem generalizes. If epiphenomenalism is true, your reasoning about consc
 
 This makes epiphenomenalism epistemically self-undermining—not logically contradictory, since it could still be true, but hard to hold consistently in its bare-correlation form. Any evidence you might have for it can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) provides another angle: the zombie philosopher writes the same papers about the hard problem, making the accuracy of our problem intuitions coincidental—a weakness interactionism avoids.
 
-The pressure has a recognised escape, and the Map concedes it. The bare-correlation reply—that a tight phenomenal-to-neural correlation can underwrite report accuracy without phenomenal causation—leaves report-reliability hanging on a contested premise: whether knowing one's experience requires causal traffic from it. The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Loar 1990, Papineau 2002, Balog 2012) does better. Phenomenal concepts are themselves physically realised states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves. The dispute relocates rather than ends: it moves to whether the first-person mode of presentation can be exhaustively physically characterised, which the Map denies. The argument therefore decisively burdens bare-correlation epiphenomenalism while the phenomenal-concept version survives by moving the dispute; the [cumulative case](/arguments/epiphenomenalism-argument/) and the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet state the concession in full. Illusionism (Frankish 2016) is a separate reply that the concession does not absorb—it denies that there is any phenomenal referent for a phenomenal concept to present—and the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms; [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and [illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) mark that boundary.
+The pressure has a recognised escape, and the Map concedes it. The bare-correlation reply—that a tight phenomenal-to-neural correlation can underwrite report accuracy without phenomenal causation—leaves report-reliability hanging on a contested premise: [whether knowing one's experience requires causal traffic from it](/topics/acquaintance-without-causation/). The [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) (Loar 1990, Papineau 2002, Balog 2012) does better. Phenomenal concepts are themselves physically realised states referring to physical states of the same brain, so the states *producing* reports are the states the reports *describe*, and the self-undermining charge dissolves. The dispute relocates rather than ends: it moves to whether the first-person mode of presentation can be exhaustively physically characterised, which the Map denies. The argument therefore decisively burdens bare-correlation epiphenomenalism while the phenomenal-concept version survives by moving the dispute; the [cumulative case](/arguments/epiphenomenalism-argument/) and the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet state the concession in full. Illusionism (Frankish 2016) is a separate reply that the concession does not absorb—it denies that there is any phenomenal referent for a phenomenal concept to present—and the Map meets it at a framework boundary rather than inside the phenomenal-concept strategy's terms; [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and [illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) mark that boundary.
 
 ### The AI Exception: Some vs. All
 

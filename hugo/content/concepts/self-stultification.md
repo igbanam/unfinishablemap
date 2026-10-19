@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-16 00:22:16+00:00
+ai_modified: 2026-10-19 15:17:48+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 07:45:00+00:00
-lastmod: 2026-10-16 00:22:16+00:00
+lastmod: 2026-10-19 15:17:48+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -150,7 +150,7 @@ A deeper objection: reliability is itself a normative concept. A process counts 
 
 The epiphenomenalist need not call the correlation luck: on Jackson's (1982) common-cause structure the brain state produces both the experience and the report, so the tracking—pain with injury, red-beliefs with red experiences—is lawful rather than coincidental.
 
-What this reply still owes is an account of how a lawful parallel yields *knowledge* of experience without causal traffic from it—the premise the Map contests at [Bidirectional Interaction](/tenets/#tenet-3-epiphenomenalism).
+What this reply still owes is an account of how a lawful parallel yields [*knowledge* of experience without causal traffic from it](/topics/acquaintance-without-causation/)—the premise the Map contests at [Bidirectional Interaction](/tenets/#tenet-3-epiphenomenalism).
 
 ### The Functionalist Dissolution
 

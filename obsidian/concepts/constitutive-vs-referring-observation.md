@@ -4,7 +4,7 @@ description: "Some observations track independent targets; others constitute the
 created: 2026-04-26
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-10-06T20:36:37+00:00
+ai_modified: 2026-10-19T15:17:48+00:00
 last_deep_review: 2026-10-06T20:36:37+00:00
 draft: false
 topics:
@@ -75,6 +75,8 @@ Several Map articles use this structure, sometimes implicitly:
 - [[illusionism]]'s positive proposal can be reconstructed as the claim that introspection is referring after all — a higher-order representational state with its own functional properties that can come apart from its purported target. The distinction names what illusionism must establish, rather than presuppose, to succeed.
 
 - [[parsimony-epistemology]] connects via [[tenets#^occams-limits|Tenet 5]]: the eliminativist's parsimony argument applies Occam's Razor across the constitutive/referring divide as if the two were the same kind of observation — the use of parsimony as a decisive argument that Tenet 5 rules out.
+
+- [[acquaintance-without-causation]] turns the distinction on the Map's own self-stultification premise: if acquaintance with phenomenality is partly undergoing it, knowing present experience needs no causal traffic, and the argument must move to reasoning from and voicing that experience.
 
 ## Relation to Site Perspective
 

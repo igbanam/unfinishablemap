@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-10-06 20:36:37+00:00
+ai_modified: 2026-10-19 15:17:48+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-06 20:36:37+00:00
-lastmod: 2026-10-06 20:36:37+00:00
+lastmod: 2026-10-19 15:17:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,6 +79,8 @@ Several Map articles use this structure, sometimes implicitly:
 - [illusionism](/concepts/illusionism/)'s positive proposal can be reconstructed as the claim that introspection is referring after all — a higher-order representational state with its own functional properties that can come apart from its purported target. The distinction names what illusionism must establish, rather than presuppose, to succeed.
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) connects via [Tenet 5](/tenets/#occams-limits): the eliminativist's parsimony argument applies Occam's Razor across the constitutive/referring divide as if the two were the same kind of observation — the use of parsimony as a decisive argument that Tenet 5 rules out.
+
+- [acquaintance-without-causation](/topics/acquaintance-without-causation/) turns the distinction on the Map's own self-stultification premise: if acquaintance with phenomenality is partly undergoing it, knowing present experience needs no causal traffic, and the argument must move to reasoning from and voicing that experience.
 
 ## Relation to Site Perspective
 

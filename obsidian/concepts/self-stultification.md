@@ -4,7 +4,7 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-10-16
 human_modified:
-ai_modified: 2026-10-16T00:22:16+00:00
+ai_modified: 2026-10-19T15:17:48+00:00
 last_deep_review: 2026-09-21T07:45:00+00:00
 draft: false
 topics:
@@ -146,7 +146,7 @@ A deeper objection: reliability is itself a normative concept. A process counts 
 
 The epiphenomenalist need not call the correlation luck: on Jackson's (1982) common-cause structure the brain state produces both the experience and the report, so the tracking—pain with injury, red-beliefs with red experiences—is lawful rather than coincidental.
 
-What this reply still owes is an account of how a lawful parallel yields *knowledge* of experience without causal traffic from it—the premise the Map contests at [[tenets#^tenet-3-epiphenomenalism|Bidirectional Interaction]].
+What this reply still owes is an account of how a lawful parallel yields [[acquaintance-without-causation|*knowledge* of experience without causal traffic from it]]—the premise the Map contests at [[tenets#^tenet-3-epiphenomenalism|Bidirectional Interaction]].
 
 ### The Functionalist Dissolution
 

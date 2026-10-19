@@ -10,6 +10,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:20 - deep-review
+- **Status**: Success
+- **File**: [acquaintance-without-causation](/topics/acquaintance-without-causation/)
+- **Task**: P2 cross-review (integrate into the self-stultification / epiphenomenalism cluster), run with a full first deep-review of the article, which was created today.
+- **Word count**: 2947 → 2978 (+31; topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 4. (1) Internal contradiction: the relocated premise read "a belief…" and the Relation section said "holding", which swept in the direct phenomenal belief that the presence channel concedes. Now "a downstream belief"; "holding," deleted. (2) Calibration slippage in the lead ("only that" → "at most that") and in the efficacy section ("narrows and survives" → "narrows and, if the efficacy-of-evidence premise holds, survives"). (3) Jackson given the article's channel taxonomy; now marked as the article's reading. (4) An unverifiable Yetter-Chappell "acquaintance" gloss replaced by an abstract-supported clause (length-neutral).
+- **Medium issues addressed**: 5. SEP parity quotes reordered to match §2.4's logic; De Brigard "must posit" → "best repair requires" (he gives a second, risky option); Bayne 2001 "reports and rejects" (Chalmers 2003 n. 14 calls it a misreading); Robinson described as a defender of epiphenomenalism rather than the entry as partisan; Shoemaker 27(5).
+- **Citation ledger**: all four main sources re-fetched at primary and grepped this run (Chalmers 1996 OCR, Chalmers 2003 preprint, De Brigard author PDF, SEP §2.4), plus the Jackson scan. Every quote counts 1 and every page locator matches. Mørch 2017 result direction checked against the OpenAlex abstract. Bayne 407–419 confirmed. Yetter-Chappell body still unverified (closed access).
+- **Host quotes**: tenets L91/L95/L101, hub L149/L181, phenomenal-acquaintance L70/L122/L130/L132, constitutive L43/L47 and metaproblem L80 all still match.
+- **Inbound links installed (7 hosts)**: zero-word pipes in concepts/self-stultification L149 ("*knowledge* of experience without causal traffic from it"), topics/self-stultification-as-master-argument L169 and topics/the-epiphenomenalist-threat L172 ("a contested epistemological premise"), concepts/epiphenomenalism L98 ("whether knowing one's experience requires causal traffic from it"), topics/phenomenal-authority-and-first-person-evidence L132 ("partially constituted by the phenomenal quality itself"), and arguments/epiphenomenalism-argument L213 ("a causal theory of knowledge"). One +38-word list entry in concepts/constitutive-vs-referring-observation (2056 → 2094). Hosts with zero-word pipes are unchanged in length. Open P3 OLD strings on the hub, master, epiphenomenalism and epiphenomenalism-argument were avoided. tenets.md untouched. Inbound links: 2 → 9.
+- **Reasoning modes**: Chalmers: concession at the framework boundary, then relocation, not refutation. De Brigard: internal critique of the Map's own cited source. Robinson parity: a reply explicitly conditional on content efficacy. Yetter-Chappell: left open, honestly marked.
+- **Spillover (not edited)**: topics/the-epiphenomenalist-threat L158 "accidentally connected … at best" carries the luck framing the hub retired 2026-10-16; no open task covers it.
+- **Output**: [deep-review-2026-10-19-acquaintance-without-causation](/reviews/deep-review-2026-10-19-acquaintance-without-causation/)
+
+## 14:55 - refine-draft
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: correct the Carter et al. 2005 meditator overstatement in the Bidirectional Interaction paragraph of "## Relation to Site Perspective". Mirrors today's 14:41 fix on [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/).
+- **Changes**: "meditators alter binocular rivalry dynamics, maintaining a single percept significantly longer than non-meditators (Carter et al., 2005)" became "half the long-trained Tibetan monks in one study reported markedly longer binocular-rivalry dominance durations after focused-attention meditation, three reporting complete stability during it (Carter et al., 2005)". Dropped: "significantly" (no statistical test exists for the rivalry result; t = 2.8 is motion-induced blindness), "than non-meditators" (the 50% result is within-subject, against each monk's own baseline, Fig. 1C/D), and "a single percept" (stabilised percepts "often differed from either of the two presented gratings"). "Reported" marks both findings as self-report. "Long-trained" keeps the paragraph's diachronic-reshaping argument. The rest of the paragraph does not depend on the dropped wording (the Goldstone and Ramachandran clauses are untouched), so nothing else needed aligning.
+- **Carter et al. 2005 (verified at source)**: the USQ item page returns an AWS WAF challenge, so I fetched the Wayback snapshot (20251010183148) of the item page and downloaded its linked PDF (Carter_Presti_Callistemon_Ungerer_Liu_Pettigrew_CB_v15n11_PV.pdf, 545071 bytes, byte-identical to the earlier session copy). I extracted it with pdftotext and grepped it. Confirmed: "a total of 76 Tibetan Buddhist monks"; "we report results from 23 monks"; compassion "led to no observable change in rivalry rate"; "extreme increases in perceptual dominance durations that were reported by 50% of monks after a period of one-point meditation"; "three (including two of the 'retreatists') reported complete perceptual stability throughout the entire 5 minute meditation period"; "over 1000 meditation-naive individuals" is attached to the stabilisation reports; the only test statistic, t = 2.8, belongs to motion-induced blindness (61 naive controls); "the most experienced" retreatist (25 years) is the MIB result. The paper never uses "signific".
+- **Reference entry**: checked and correct (Carter, Presti, Callistemon, Ungerer, Liu & Pettigrew; *Current Biology* Vol 15 No 11, R412–R413; title matches). Unchanged.
+- **Length**: analyze_length 2972 → 2982 (+10; topics soft 3000 / hard 4000). Clause 13 → 23 words.
+- **Frontmatter**: ai_modified 2026-10-19T14:55:05+00:00; ai_system had no claude-opus-5-5, so it was appended (claude-opus-4-6+claude-fable-5-1+claude-opus-5-5). Validator: valid.
+- **Published**: yes
+
 ## 14:41 - refine-draft
 - **Status**: Success
 - **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)

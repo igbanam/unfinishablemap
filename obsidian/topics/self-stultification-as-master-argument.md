@@ -4,7 +4,7 @@ description: "Self-stultification presses hard not just on epiphenomenalism but 
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-10-02T13:26:55+00:00
+ai_modified: 2026-10-19T15:17:48+00:00
 last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
@@ -166,7 +166,7 @@ The Map treats self-stultification as the argumentative bedrock on which the cas
 
 This makes the argument uniquely resistant to dismissal. Critics can challenge the conceivability of zombies, dispute Mary's Room, or insist the explanatory gap will close with future science. Self-stultification resists these moves because it targets the *act of rational evaluation itself*: to argue against it, one must engage in the conscious reasoning whose causal efficacy it defends. The [[phenomenal-authority-and-first-person-evidence|phenomenal conservatism]] framework explains why—introspective seemings provide prima facie justification that cannot be overturned without relying on further introspective seemings.
 
-The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why that drift would be catastrophic: a theory that lands on epiphenomenalism, the argument runs, has destroyed its own rational foundations and cannot be rationally held by the very minds it describes. The Map holds that conclusion not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] blocks it upstream at the severing premise, keeping the strongest version of the position in play—but because the alternative leaves report-reliability resting on a contested epistemological premise the Map judges harder to sustain than a minimal causal interface.
+The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why that drift would be catastrophic: a theory that lands on epiphenomenalism, the argument runs, has destroyed its own rational foundations and cannot be rationally held by the very minds it describes. The Map holds that conclusion not because the argument refutes epiphenomenalism from inside the epiphenomenalist's framework—the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] blocks it upstream at the severing premise, keeping the strongest version of the position in play—but because the alternative leaves report-reliability resting on [[acquaintance-without-causation|a contested epistemological premise]] the Map judges harder to sustain than a minimal causal interface.
 
 The [[anti-correlated-metacognitive-signal]] concept supplies a structural parallel from the empirical side. Where Rebouillat et al. (2021) document confidence anti-correlated with accuracy in a within-subject experimental regime, self-stultification is the theory-level analogue: an epiphenomenalist who defends the position confidently has, by their own account, a confidence the position cannot ground. The two share an architectural shape—maximum endorsement where it is least underwritten—at different tiers. Self-stultification is thereby not only a logical-tier problem about belief contents but a structural-tier problem about the metacognitive endorsement attached to them.
 

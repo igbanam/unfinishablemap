@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-05 10:28:06+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-19 15:17:48+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:26:31+00:00
-lastmod: 2026-09-05 10:28:06+00:00
+lastmod: 2026-10-19 15:17:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -214,7 +214,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The quantum framework provides *how* mental causation occurs without the problems epiphenomenalism tries to avoid. Consciousness doesn't violate causal closure by injecting energy; it operates precisely where [causal-closure](/concepts/causal-closure/) doesn't apply—at quantum indeterminacies. The [selection mechanism](/concepts/consciousness-selecting-neural-patterns/) biases which of physically permitted outcomes becomes actual.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Against the *bare-correlation* version of epiphenomenalism, the self-stultification argument presses hard toward consciousness causing behavior—on a causal theory of knowledge, reports about consciousness reliable in virtue of phenomenal causation are easier to sustain than reports reliable only by parallel. The Map holds this tenet because it judges that interface more defensible than the contested epistemological premises the phenomenal-concept escape relies on—not because the argument forecloses every epiphenomenalism. The tenet that consciousness "selects among superposed neural states" earns its place as the Map's best answer to the pressure, while conceding that the strongest version of the position—the sophisticated phenomenal-concept reply—survives by relocating rather than abandoning the dispute. There the disagreement runs closer to bedrock than the self-stultification framing alone suggests: it is an honest framework-boundary disagreement over whether the first-person mode of presentation can be exhaustively physically characterised, not a defeated rival.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Against the *bare-correlation* version of epiphenomenalism, the self-stultification argument presses hard toward consciousness causing behavior—on [a causal theory of knowledge](/topics/acquaintance-without-causation/), reports about consciousness reliable in virtue of phenomenal causation are easier to sustain than reports reliable only by parallel. The Map holds this tenet because it judges that interface more defensible than the contested epistemological premises the phenomenal-concept escape relies on—not because the argument forecloses every epiphenomenalism. The tenet that consciousness "selects among superposed neural states" earns its place as the Map's best answer to the pressure, while conceding that the strongest version of the position—the sophisticated phenomenal-concept reply—survives by relocating rather than abandoning the dispute. There the disagreement runs closer to bedrock than the self-stultification framing alone suggests: it is an honest framework-boundary disagreement over whether the first-person mode of presentation can be exhaustively physically characterised, not a defeated rival.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The Map's rejection of many-worlds matters here. In MWI, "consciousness selecting outcomes" becomes incoherent—all outcomes occur in different branches. The arguments against epiphenomenalism depend on collapse being real: consciousness causes *this* outcome rather than *that*. The [indexical identity](/concepts/haecceity/) that makes "this outcome" meaningful is precisely what many-worlds dissolves.
 

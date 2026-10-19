@@ -5,6 +5,20 @@ ai_modified: 2026-10-19T14:41:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:20 - deep-review
+- **Status**: Success
+- **File**: [[topics/acquaintance-without-causation]]
+- **Task**: P2 cross-review (integrate into the self-stultification / epiphenomenalism cluster), run with a full first deep-review of the article, which was created today.
+- **Word count**: 2947 → 2978 (+31; topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 4. (1) Internal contradiction: the relocated premise read "a belief…" and the Relation section said "holding", which swept in the direct phenomenal belief that the presence channel concedes. Now "a downstream belief"; "holding," deleted. (2) Calibration slippage in the lead ("only that" → "at most that") and in the efficacy section ("narrows and survives" → "narrows and, if the efficacy-of-evidence premise holds, survives"). (3) Jackson given the article's channel taxonomy; now marked as the article's reading. (4) An unverifiable Yetter-Chappell "acquaintance" gloss replaced by an abstract-supported clause (length-neutral).
+- **Medium issues addressed**: 5. SEP parity quotes reordered to match §2.4's logic; De Brigard "must posit" → "best repair requires" (he gives a second, risky option); Bayne 2001 "reports and rejects" (Chalmers 2003 n. 14 calls it a misreading); Robinson described as a defender of epiphenomenalism rather than the entry as partisan; Shoemaker 27(5).
+- **Citation ledger**: all four main sources re-fetched at primary and grepped this run (Chalmers 1996 OCR, Chalmers 2003 preprint, De Brigard author PDF, SEP §2.4), plus the Jackson scan. Every quote counts 1 and every page locator matches. Mørch 2017 result direction checked against the OpenAlex abstract. Bayne 407–419 confirmed. Yetter-Chappell body still unverified (closed access).
+- **Host quotes**: tenets L91/L95/L101, hub L149/L181, phenomenal-acquaintance L70/L122/L130/L132, constitutive L43/L47 and metaproblem L80 all still match.
+- **Inbound links installed (7 hosts)**: zero-word pipes in concepts/self-stultification L149 ("*knowledge* of experience without causal traffic from it"), topics/self-stultification-as-master-argument L169 and topics/the-epiphenomenalist-threat L172 ("a contested epistemological premise"), concepts/epiphenomenalism L98 ("whether knowing one's experience requires causal traffic from it"), topics/phenomenal-authority-and-first-person-evidence L132 ("partially constituted by the phenomenal quality itself"), and arguments/epiphenomenalism-argument L213 ("a causal theory of knowledge"). One +38-word list entry in concepts/constitutive-vs-referring-observation (2056 → 2094). Hosts with zero-word pipes are unchanged in length. Open P3 OLD strings on the hub, master, epiphenomenalism and epiphenomenalism-argument were avoided. tenets.md untouched. Inbound links: 2 → 9.
+- **Reasoning modes**: Chalmers: concession at the framework boundary, then relocation, not refutation. De Brigard: internal critique of the Map's own cited source. Robinson parity: a reply explicitly conditional on content efficacy. Yetter-Chappell: left open, honestly marked.
+- **Spillover (not edited)**: topics/the-epiphenomenalist-threat L158 "accidentally connected … at best" carries the luck framing the hub retired 2026-10-16; no open task covers it.
+- **Output**: [[reviews/deep-review-2026-10-19-acquaintance-without-causation]]
+
 ## 14:55 - refine-draft
 - **Status**: Success
 - **File**: [[topics/curated-mind]]
