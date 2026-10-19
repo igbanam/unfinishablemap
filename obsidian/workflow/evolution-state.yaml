@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T13:26:40.149471+00:00'
-session_count: 22939
+last_updated: '2026-10-19T13:37:29.424960+00:00'
+session_count: 22940
 cycle_position: 14802
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-19T12:33:24.826047+00:00'
   embed-videos: '2026-10-16T09:19:24.178139+00:00'
   expand-topic: '2026-10-19T11:37:53.009143+00:00'
-  harvest-research-subjects: '2026-10-19T07:23:34.438159+00:00'
+  harvest-research-subjects: '2026-10-19T13:37:29.424960+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-13T05:15:07.297114+00:00'
   optimistic-review: '2026-10-19T11:10:44.980585+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-10-19'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-10-19'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-19'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-19'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/tenet-generated-voids/
