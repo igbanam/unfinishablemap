@@ -4,7 +4,7 @@ description: "Anesthesia, coma and cognitive motor dissociation show behaviour t
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-07T12:08:52+00:00
+ai_modified: 2026-10-19T23:23:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ A parallel asymmetry runs through the [[neural-correlates-of-consciousness|neura
 
 Different memory systems show strikingly different vulnerabilities to consciousness disruption. [[episodic-memory|Episodic memory]] is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. [[implicit-memory|Implicit memory]] shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
 
-The pattern follows Tulving's consciousness hierarchy: autonoetic (episodic) is most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved. Uniform production might predict uniform loss; instead we see [[degrees-of-consciousness|graded reduction]] across separable dimensions—consistent with a multi-channel interface partially blocked, though also with selective vulnerability of distinct neural memory systems.
+Read through Tulving's consciousness hierarchy, the pattern suggests an ordering—autonoetic (episodic) most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved—that is the Map's extrapolation rather than Tulving's finding, and that semantic dementia partly inverts. Uniform production might predict uniform loss; instead we see [[degrees-of-consciousness|graded reduction]] across separable dimensions—consistent with a multi-channel interface partially blocked, though also with selective vulnerability of distinct neural memory systems.
 
 [[sleep-and-consciousness|Sleep]] is a distinct category—neither pathological like coma nor pharmacological like anesthesia. Sleep consciousness varies continuously: two individuals in identical NREM Stage 3 may differ radically, one experiencing nothing, the other vivid dreams, with integration-segregation balance better preserved than under anesthesia. For the filter theory, sleep closes a door (mechanism intact) where anesthesia breaks the hinges.
 

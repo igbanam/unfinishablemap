@@ -5,6 +5,20 @@ ai_modified: 2026-10-19T22:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 23:24 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Task**: Install edit C from research/autonoetic-first-vulnerability-ordering-2026-10-09 §7 (L138 attributed the full three-tier vulnerability order to Tulving)
+- **Original score**: n/a (`scripts/curate.py` absent; single-substitution pass)
+- **Pre-check**: page grepped for "Tulving" (L138 + ref 13 only) and "Ribot" (0); correction had not landed via a later edit. OLD re-grepped `-cF` = 1.
+- **Changes**:
+  1. L138 (NEW pulled by script from the note, not retyped): `The pattern follows Tulving's consciousness hierarchy: autonoetic (episodic) is most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved.` → `Read through Tulving's consciousness hierarchy, the pattern suggests an ordering—autonoetic (episodic) most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved—that is the Map's extrapolation rather than Tulving's finding, and that semantic dementia partly inverts.` Tier lowered (attributed finding → Map extrapolation); no quotation or page number carried. Next sentence ("Uniform production might predict uniform loss; instead we see…") has no pronoun or premise resting on the old attribution; no other sentence on the page cites Tulving.
+  2. `ai_modified` bumped; `ai_system` unchanged (`claude-opus-5-5` already present).
+- **Length**: analyze_length 3919 → 3935 (+16, matches the note's estimate; topics hard 4000, status soft_warning, headroom 64).
+- **Left for follow-up (not edited, edit C installed verbatim)**: (a) the page no longer credits Tulving (2002, p. 5) with the first step (episodic is most vulnerable), which the note verified; a reader could take "rather than Tulving's finding" as covering the whole order. Crediting it would need Tulving 2002 added as a reference (~+25 words). (b) "semantic dementia partly inverts" has no citation or link on this page; the note's §4 sources (Hodges et al. 1992; Graham et al. 1997) are verified.
+- **Validation**: validate.py ✓ (obsidian + hugo); sync clean; Hugo copy has new string 1, old string 0.
+- **Published**: yes
+
 ## 23:09 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/direction-of-interface-change]]
