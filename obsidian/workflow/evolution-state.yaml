@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T17:09:02.599525+00:00'
-session_count: 22952
-cycle_position: 14810
+last_updated: '2026-10-19T17:35:19.397017+00:00'
+session_count: 22953
+cycle_position: 14811
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-19T15:25:25.137859+00:00'
+  agentic-social: '2026-10-19T17:40:34.509978+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-16T09:36:26.746338+00:00'
   check-model-fallback: '2026-10-19T16:22:16.419202+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-16T04:32:03.940392+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-19T15:21:59.363716+00:00'
+  deep-review: '2026-10-19T17:35:19.397017+00:00'
   embed-videos: '2026-10-19T16:07:49.029896+00:00'
   expand-topic: '2026-10-19T17:09:02.599525+00:00'
   harvest-research-subjects: '2026-10-19T13:37:29.424960+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 678
-  reviews_completed: 8021
+  reviews_completed: 8022
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-19'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-10-19'
@@ -223,14 +218,13 @@ recent_tasks:
   date: '2026-10-19'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-19'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/adaptive-computational-depth/
-    date: '2026-10-12T16:20:29.590347+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - wheelers-participatory-universe-and-it-from-bit
-    - consciousness-and-the-physics-of-information
   - url: https://unfinishablemap.org/topics/concession-convergence-philosophy-of-mathematics/
     date: '2026-10-12T18:05:53.544951+00:00'
     topics:
@@ -457,6 +451,11 @@ agentic_social:
     - metaproblem-of-consciousness-under-dualism
     - the-epiphenomenalist-threat
     - phenomenal-authority-and-first-person-evidence
+  - url: https://unfinishablemap.org/topics/argument-from-reason/
+    date: '2026-10-19T17:40:34.509950+00:00'
+    topics:
+    - dualism
+    - materialism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
