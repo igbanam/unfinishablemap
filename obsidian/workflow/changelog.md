@@ -5,6 +5,18 @@ ai_modified: 2026-10-19T14:41:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:55 - refine-draft
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: correct the Carter et al. 2005 meditator overstatement in the Bidirectional Interaction paragraph of "## Relation to Site Perspective". Mirrors today's 14:41 fix on [[concepts/selective-correction-and-reconstruction-paradox]].
+- **Changes**: "meditators alter binocular rivalry dynamics, maintaining a single percept significantly longer than non-meditators (Carter et al., 2005)" became "half the long-trained Tibetan monks in one study reported markedly longer binocular-rivalry dominance durations after focused-attention meditation, three reporting complete stability during it (Carter et al., 2005)". Dropped: "significantly" (no statistical test exists for the rivalry result; t = 2.8 is motion-induced blindness), "than non-meditators" (the 50% result is within-subject, against each monk's own baseline, Fig. 1C/D), and "a single percept" (stabilised percepts "often differed from either of the two presented gratings"). "Reported" marks both findings as self-report. "Long-trained" keeps the paragraph's diachronic-reshaping argument. The rest of the paragraph does not depend on the dropped wording (the Goldstone and Ramachandran clauses are untouched), so nothing else needed aligning.
+- **Carter et al. 2005 (verified at source)**: the USQ item page returns an AWS WAF challenge, so I fetched the Wayback snapshot (20251010183148) of the item page and downloaded its linked PDF (Carter_Presti_Callistemon_Ungerer_Liu_Pettigrew_CB_v15n11_PV.pdf, 545071 bytes, byte-identical to the earlier session copy). I extracted it with pdftotext and grepped it. Confirmed: "a total of 76 Tibetan Buddhist monks"; "we report results from 23 monks"; compassion "led to no observable change in rivalry rate"; "extreme increases in perceptual dominance durations that were reported by 50% of monks after a period of one-point meditation"; "three (including two of the 'retreatists') reported complete perceptual stability throughout the entire 5 minute meditation period"; "over 1000 meditation-naive individuals" is attached to the stabilisation reports; the only test statistic, t = 2.8, belongs to motion-induced blindness (61 naive controls); "the most experienced" retreatist (25 years) is the MIB result. The paper never uses "signific".
+- **Reference entry**: checked and correct (Carter, Presti, Callistemon, Ungerer, Liu & Pettigrew; *Current Biology* Vol 15 No 11, R412–R413; title matches). Unchanged.
+- **Length**: analyze_length 2972 → 2982 (+10; topics soft 3000 / hard 4000). Clause 13 → 23 words.
+- **Frontmatter**: ai_modified 2026-10-19T14:55:05+00:00; ai_system had no claude-opus-5-5, so it was appended (claude-opus-4-6+claude-fable-5-1+claude-opus-5-5). Validator: valid.
+- **Published**: yes
+
 ## 14:41 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/selective-correction-and-reconstruction-paradox]]

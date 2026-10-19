@@ -4,7 +4,7 @@ description: "A best-explanation argument for dualism, not a proof: the brain cu
 created: 2026-03-24
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-09-29T15:36:14+00:00
+ai_modified: 2026-10-19T14:55:05+00:00
 last_deep_review: 2026-07-25T10:45:48+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[anosognosia-and-the-reversible-self-monitoring-channel]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-24
 last_curated:
 ---
@@ -102,7 +102,7 @@ This move has a structural cost. If the subject is fabricated, then the brain fa
 
 The Unfinishable Map interprets the curated mind as evidence for [[interactionist-dualism]] — though "evidence" here means *coherence with* rather than *proof of*, in keeping with the inference-to-best-explanation framing above. The convergent curation architecture across modalities is roughly what the Map's framework would predict: if consciousness is ontologically distinct from neural processing (the Dualism tenet), then the brain-consciousness interface might be expected to exhibit editorial structure — selective correction, faithful transmission, and selection under ambiguity — rather than uniform throughput. The interface would then show what could be read as evidence of serving a recipient. The prediction is real but soft: the deflationary reading can accommodate the same architecture, so the curation data favour dualism only on the assumption that the recipient framing is the more economical explanation — itself a contestable premise.
 
-The Bidirectional Interaction tenet maps onto the asymmetry between synchronic and diachronic influence. Consciousness cannot override perceptual modules, body schema, or memory reconstruction in real time — the interface runs primarily brain-to-consciousness in the moment. But sustained conscious engagement gradually reshapes the processing modules: meditators alter binocular rivalry dynamics, maintaining a single percept significantly longer than non-meditators (Carter et al., 2005); experts reshape perceptual categories through extended training (Goldstone, 1998); mirror therapy can dissolve phantom limb pain by providing the brain's body schema with visual evidence that overrides the entrenched prior (Ramachandran & Rogers-Ramachandran, 1996). The bidirectional channel has different bandwidths in each direction and operates on different timescales.
+The Bidirectional Interaction tenet maps onto the asymmetry between synchronic and diachronic influence. Consciousness cannot override perceptual modules, body schema, or memory reconstruction in real time — the interface runs primarily brain-to-consciousness in the moment. But sustained conscious engagement gradually reshapes the processing modules: half the long-trained Tibetan monks in one study reported markedly longer binocular-rivalry dominance durations after focused-attention meditation, three reporting complete stability during it (Carter et al., 2005); experts reshape perceptual categories through extended training (Goldstone, 1998); mirror therapy can dissolve phantom limb pain by providing the brain's body schema with visual evidence that overrides the entrenched prior (Ramachandran & Rogers-Ramachandran, 1996). The bidirectional channel has different bandwidths in each direction and operates on different timescales.
 
 The Minimal Quantum Interaction tenet would explain the bandwidth asymmetry. If consciousness influences the brain through minimal biasing of quantum-level outcomes, the slow, cumulative nature of diachronic penetration follows naturally. Consciousness shapes neural processing not through direct override but through persistent, subtle influence that accumulates over time.
 
