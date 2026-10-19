@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-11 12:06:21+00:00
+ai_modified: 2026-10-19 19:10:02+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-10-11 12:06:21+00:00
+lastmod: 2026-10-19 19:10:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[agent-causal](/concepts/agent-causation/)*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This commits the agent-causal reading specifically to [substance dualism](/concepts/substance-property-dualism/) (or substance-bearing property dualism): consciousness as a persisting subject capable of exercising causal powers. The substance-leaning is downstream of the agent-causal commitment, not inherited from the [Dualism tenet](/tenets/#dualism), which is itself neutral between substance and property dualism—see [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) for where the lean enters, and why a reader who accepts the tenet but rejects substance-bearing agents parts company with the Map at the agent-causal step.
 
-**[Compatibilism](/concepts/compatibilism/)**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism may redescribe rather than explain: why, the libertarian asks, does choosing *feel* like determining an open outcome if the outcome was always fixed? The compatibilist has answers, and the deliberative data is arguably compatible with both readings—so the disagreement here is not obviously decided by the phenomenology alone.
+**[Compatibilism](/concepts/compatibilism/)**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism may redescribe rather than explain: why, the libertarian asks, does choosing *feel* like determining an open outcome if the outcome was always fixed? The compatibilist has [answers](/concepts/new-dispositionalism/), and the deliberative data is arguably compatible with both readings—so the disagreement here is not obviously decided by the phenomenology alone.
 
 The strongest case that free will is incompatible with determinism—shared by hard determinists and libertarians alike—is the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/): if determinism is true, our acts are consequences of the remote past and the laws of nature, and we have no choice about either, so we have no choice about our acts. That argument establishes incompatibilism only; the Map's libertarian conclusion requires the separate premise that determinism is false. The [trilemma-of-selection](/topics/trilemma-of-selection/) frames this structure: at any decision point with genuine indeterminacy, three options are usually posed—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will—a defence resting on the arguments for agent causation rather than on the trilemma being a complete partition of the space. The Map registers these commitments explicitly in its [positions register](/positions/agency-and-will/) as [P-A1](/positions/agency-and-will/#p-a1) (agent-causal libertarian free will) and [P-A2](/positions/agency-and-will/#p-a2) (authorship requires agent causation, not merely event-causal indeterminism).
 

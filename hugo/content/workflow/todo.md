@@ -2545,13 +2545,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: PASSAGE: the bullet "**Self-knowledge is unreliable.** The [self-stultification problem](/concepts/epiphenomenalism/#the-self-stultification-problem) suggests that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best." (L158 on 2026-10-19; it is the only live occurrence of "accidentally connected" in topics/concepts/apex/voids). DEFECT: this is the luck framing the self-stultification hub (concepts/self-stultification) retired on 2026-10-16, and tenets L101 and topics/acquaintance-without-causation contradict it: on the Map's acquaintance epistemology, knowledge of present experience does not depend on causal traffic, so the argument survives only for the use and voice of experience (inference, memory, report). FIX: one substitution, near length-neutral, aligning the bullet with the hub and the new article, e.g. "...our reports and the inferences we draw from our experiences would not be explained by them" (link the new article on existing words if it fits: [...](/topics/acquaintance-without-causation/)). Keep the bullet's role in the list. Do not present self-stultification as refuting epiphenomenalism. Length: 3444/4000 (topics hard threshold). Sibling P3 on concepts/consciousness L117 (same luck framing) is a separate task; do not do it here.
 
-### P2: Cross-review `topics/logic-of-dissociation-inference.md` — integrate it into the clinical-dissociation cluster
-- **Type**: cross-review
-- **File**: obsidian/topics/logic-of-dissociation-inference.md
-- **Source**: expand-topic chain successor (logic-of-dissociation-inference created 2026-10-19 from research/logic-of-dissociation-inference-2026-10-19)
-- **Generated**: 2026-10-19
-- **Notes**: New article (3,071 words incl. 530 of references/Further Reading; topics hard 4000), created 2026-10-19 ~17:08Z, not yet reviewed. Five zero-word inbound links were installed at creation: topics/neurological-dissociations-as-interface-architecture (L61), concepts/disconnection-neuroscience (Channel-Architecture section), topics/clinical-dissociation-as-systematic-evidence (4688, over its hard threshold: link only), topics/clinical-evidence-quality-standards-consciousness-research (3972/4000: link only), apex/phenomenal-output-causal-machinery-dissociation (L187). Do the full deep-review pass on the article (58 quotes were grep-verified at creation against cached raw texts; author stances must stay as the authors' own: Shallice/Coltheart/Machery/Bullinaria & Chater defend the method, Plaut and Van Orden et al. press against it, Fotopoulou and Parr/Friston are physicalists; predictive processing stays a lesion model only). OPEN ITEMS: (1) lesion network mapping (Boes et al.) has an active specificity debate (2026 preprints): consider one hedged clause if length allows, verifying at source; (2) the research note suggested a one-sentence prose insert in concepts/disconnection-neuroscience (1880/3500) pointing at this article: install it if it reads well; (3) look for further length-safe hosts among the 23 live files using "double dissociation" (zero-word piped links on existing text). Do not edit the hub's architectural-inference lines (a separate P2 task recalibrates them against this article). The article's calibration is binding: it calibrates the Map's own inference and argues neither for nor against dualism.
-
 ### P2: Write `concepts/new-dispositionalism` — New Dispositionalism about the Ability to Do Otherwise
 - **Type**: expand-topic
 - **File**: obsidian/research/new-dispositionalism-ability-to-do-otherwise-2026-09-14.md
@@ -2585,10 +2578,163 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Status**: pending
 - **Source**: deep-review cross-review of topics/logic-of-dissociation-inference 2026-10-19 (side findings while installing inbound links)
 - **Generated**: 2026-10-19
-- **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing".
+- **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
+
+### P2: Add Robinson's reference-fixing reply as a third option in the co-optimization dilemma, and attribute the position
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-10-19 (evening)
+- **Generated**: 2026-10-19
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 1 (rank 1 of 4).
+
+  **PASSAGES.** In "Why This Specific Pairing?": "The co-optimization model therefore cannot explain *why* actual organisms exhibit the aligned pairing rather than an inverted or scrambled one—unless it smuggles in a constraint that makes the alignment non-arbitrary." and "There are two ways the epiphenomenalist can answer, and each carries a cost:". In "The Co-Optimization Model": "the version Robinson (2023) surveys as the standard target of the evolutionary objection".
+
+  **DEFECT.** The page's own cited source is Robinson's SEP "Epiphenomenalism" (substantive revision 2023-06-15), §2.2 "Natural Selection". It states James's argument in the page's inverted-valence form: "there would seem to be no reason why we might not abhor the feelings that are caused by activities essential to life, or enjoy the feelings produced by what is detrimental". It then answers it in two parts:
+  - (I) a sensory-system / reward-system distinction;
+  - (II) "What 'pleasure' refers to in any possible world is the effect in consciousness of the events in (b) that contribute to continuance or repetition."
+
+  That is a third answer, neither a brute necessity-law nor indifference, and the page omits it. The page also never attributes the sophisticated reply to anyone. SEP sends readers to Robinson 2007 and 2019 for "fuller discussion of James's argument". Mørch 2017's abstract lists Broad 1925, Jackson 1982, Robinson 2007 and Corabi 2014 as the argument's critics.
+
+  **FIX.**
+  1. Add a third bolded option (e.g. **Reference-fixing.**) that states Robinson's (I) and (II) fairly. Then give the Map's in-framework answer. The move secures the alignment by making valence a relational feature (being the conscious effect of reward-system events), not part of how the experience feels. So the inverted-valence question returns as "why does that effect feel like this?". A qualia-realist epiphenomenalist who holds valence to be intrinsic to felt character cannot take the move without conceding the explanandum.
+     - Say openly that this answer assumes valence is intrinsic (the value-in-experience commitment of `topics/wanting-liking-and-the-value-in-mechanism-fork`).
+     - Present it as the Map's reply, not as a refutation.
+  2. Rewrite the summary paragraph "The challenge is not that co-optimization is incoherent. It is that the reply must choose between…" for three options instead of two. Rephrase it out of the banned "not X. It is Y." construction.
+  3. Attribution:
+     - Name Robinson as the reply's leading defender where "The Co-Optimization Model" introduces it.
+     - Add Robinson, W. (2007). "Evolution and Epiphenomenalism." *Journal of Consciousness Studies*, 14, 27–42 to References. The SEP bibliography gives vol. 14, pp. 27–42 with no issue; verify the issue at the publisher or PhilPapers before adding it.
+     - Optionally add Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136, the Map's standard form, for the by-product reply.
+     - Reword "the version Robinson (2023) surveys as the standard target" so it does not imply that Robinson only surveys the crude version.
+
+  **VERIFY** the SEP wording by downloading plato.stanford.edu/entries/epiphenomenalism/ and grepping it. Never use a WebFetch prompt that names the phrase.
+
+  **HEADROOM.** analyze_length 2244 on 2026-10-19 (topics soft 3000, hard 4000; hard − 1 − count = 1755). Expected +150–250 words.
+
+  **STABILITY** (deep reviews 06-08 and 07-19): never upgrade the clinical verdict toward "establishes" or "settles". Eliminativist and Dennettian rejections are bedrock, not defects.
+
+  **COORDINATION.** Three sibling tasks from the same review target this file: the economy-point parity task, the two-co-optimizers / "by construction" task, and the evidence-section recalibration task. Re-grep every quoted passage before editing, because a sibling may already have changed it. Update `ai_modified`.
+
+### P2: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-10-19 (evening)
+- **Generated**: 2026-10-19
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 2 (rank 2 of 4).
+
+  **PASSAGES** (Relation to Site Perspective):
+  - "since interactionism explains the alignment directly: valence tracks fitness because valence drives the behaviour, and selection shapes valence through that causal channel"
+  - "Whether that debt is worse than interactionism's own commitment to [a quantum interaction channel](/tenets/#minimal-quantum-interaction) is exactly the kind of question this tenet says simplicity cannot adjudicate on its own."
+  - the necessity horn's cost: "it reintroduces a brute psychophysical regularity at the level the [hard problem](/topics/hard-problem-of-consciousness/) already flagged as resistant to physical explanation"
+
+  **DEFECT.** Standard interactionism needs psychophysical laws too:
+  - an outbound law (felt badness pushes toward avoidance rather than approach), which faces the same necessity-or-indifference choice;
+  - an inbound law (these neural states present these feelings), which carries harmony's contingency.
+
+  Sources:
+  - Mørch, H. H. (2017). "The Evolutionary Argument for Phenomenal Powers." *Philosophical Perspectives*, 31(1), 293–316, doi 10.1111/phpe.12096. Abstract verified via the OpenAlex inverted index on 2026-10-19. It concludes that some criticisms "are indeed fatal to the argument if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". It restores the argument only for the phenomenal-powers view, on which phenomenal properties necessitate their effects "in virtue of how they feel".
+  - Zietsch, B. P. (2024). "Resolving the Evolutionary Paradox of Consciousness." *Phenomenology and the Cognitive Sciences*, doi 10.1007/s11097-024-09978-7. Abstract verified. It argues that physicalism, dualism and panpsychism all fail to explain the correlations "via adaptation".
+  - The Map's own `topics/inheritance-problem-for-the-psychophysical-law` (created 2026-10-13) accepts this. The inbound law "keeps its contingency, and Cutter and Crummett's challenge applies to it in full". Phenomenal powers removes "at most, the arbitrariness of the outbound law". Reading Mørch inside interactionism is "the Map's construction".
+
+  So the economy point holds only on the phenomenal-powers outbound law, and the brute-regularity cost is currently charged to one side only.
+
+  **FIX.**
+  1. In Relation to Site Perspective, make the advantage explicitly conditional on the phenomenal-powers reading. Cite Mørch 2017 and link `[[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]]`; confirm the `{#harmony}` anchor still exists.
+  2. Say that the inbound harmony debt is common to both views.
+  3. Recast the Occam paragraph's comparison. The difference is the epiphenomenalist's need for a harmoniously SHAPED inbound law, set against the interactionist's outbound law plus the quantum channel.
+  4. Soften "explains the alignment directly" to the conditional form.
+
+  Add Mørch 2017 (and Zietsch 2024 if used) to References. Copy the metadata from the inheritance page's References, which match the verified records.
+
+  **HEADROOM.** 2244 on 2026-10-19 (hard − 1 − count = 1755). Expected +100–180 words.
+
+  **STABILITY.** Never upgrade toward "establishes". This task makes the Map's own side MORE modest, which is consistent with the page's purpose.
+
+  **SPILLOVER** (do not edit; report in the changelog and mint a follow-up if warranted): two passages become one-sided once this lands.
+  - `topics/valence-and-conscious-selection` L182: "pays for its parsimony with an unexplained psychophysical necessity".
+  - `topics/pain-consciousness-and-causal-power` L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance".
+
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, the two co-optimizers / "by construction", and the evidence-section recalibration. Re-grep every quoted passage before editing. Update `ai_modified`.
+
+### P2: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-10-19 (evening)
+- **Generated**: 2026-10-19
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 3 (rank 3 of 4).
+
+  **PASSAGES.**
+  - description: "Physicalism's strongest answer to why valence tracks fitness"
+  - lead: "the strongest live physicalist answer to the correlation problem"
+  - predictive-processing paragraph: "It is precisely a co-optimization-compatible story."
+  - fault line 3: "No current behavioural measure distinguishes these, because they predict the same behaviour by construction."
+
+  Set these against "on the epiphenomenalist's own terms, pleasantness and unpleasantness are causally inert" and the necessity horn's "a functionalism for which there is no separable quale to be epiphenomenal about".
+
+  **DEFECT.** Two rivals run under one name. `concepts/epiphenomenalism` classes epiphenomenalism as "one of three dualist positions". The predictive-processing account says felt awfulness is "constituted by" the valence-prior's computational role. That is constitutive physicalism: felt awfulness drives avoidance because it IS the role. So the view is not epiphenomenalist, the inverted-valence organism is impossible for it by identity, and the necessity horn is its thesis, not a cost.
+  - The dilemma's cost is earned against the property-dualist epiphenomenalist.
+  - The constrain-not-discriminate tie is earned against the constitutive physicalist.
+  - Relation to Site Perspective merges the two.
+
+  Second, "by construction" holds against the constitutive rival but not against the epiphenomenalist. The Map's selectability constraint in `topics/inheritance-problem-for-the-psychophysical-law` says an evolutionarily visible selector "can be practically hidden but not hidden by construction". If selection shapes valence "through that causal channel", as Relation to Site Perspective says, the channel alters fitness-relevant outcome frequencies and is detectable in principle. The lead's "on the present evidence, appears underdetermined" is a contingent claim and "by construction" is a claim in principle. This is an epistemic/metaphysical split the page never assigns to either rival.
+
+  **FIX.**
+  1. Name the two rivals once, early in the divergence section or the model section: the property-dualist epiphenomenalist co-optimizer (Robinson's position) and the constitutive-physicalist co-optimizer (the predictive-processing version).
+  2. Assign the verdicts. The dilemma bites the first. Against the second, the remaining dispute is Dualism (tenet 1), not causal efficacy, and its cost is the generic explanatory gap rather than a debt specific to co-optimization.
+  3. Restrict "by construction" to the constitutive rival. Against the epiphenomenalist, say that the in-principle discriminator is physical (outcome frequencies conditional on valence), not a behavioural dissociation. Link `positions/quantum-interface` [P-Q9](/positions/quantum-interface/#p-q9) or the inheritance page's selectability section, after confirming the anchor.
+  4. In the description and lead, change "physicalist" to "epiphenomenalist". Keep the description a plain sentence of at most ~200 characters.
+
+  Prose only; do not upgrade any verdict.
+
+  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected +80–150 words.
+
+  **SPILLOVER** (report, do not edit): `topics/inheritance-problem-for-the-psychophysical-law` L68 "The physicalist answer is examined in" and L146 "the physicalist answer to why valence tracks fitness" carry the same mislabel.
+
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the evidence-section recalibration. If the parity task has landed, keep its conditional phrasing. Re-grep every quoted passage before editing. Update `ai_modified`.
+
+### P2: Recalibrate the co-optimization page's evidence section (what lesions constrain, the wanting/liking test, the Cox mortality gloss)
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-10-19 (evening)
+- **Generated**: 2026-10-19
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 4 (rank 4 of 4).
+
+  **PASSAGES.**
+  - (a) "They rule out the crudest epiphenomenalism (valence-fitness alignment as brute luck) by showing the affective layer is systematically tied to protective behaviour."
+  - (b) Fault line 2: "are the genuinely discriminating tests" and "if behaviour tracks felt liking rather than computational wanting when the two conflict". In Relation to Site Perspective: "The empirical discriminators that would do more—felt-quality/functional-role mismatches like wanting-without-liking—remain open research questions rather than results."
+  - (c) "with elevated morbidity and mortality (Cox et al., 2006)"
+
+  **DEFECTS.**
+  - (a) The lesion data show that feeling varies with neural state. The brute-luck epiphenomenalist says the same, because the "luck" concerns the law's shape, so the cases cannot rule out the crude version; the correlation itself does that work. The Berthier et al. 1988 abstract (PubMed 3415199) records deficits extending "to threatening gestures" and that "Five patients also failed to react to verbal menaces". So asymbolia does not isolate felt pain-badness. `concepts/pain-asymbolia` already says this and cites Klein 2015.
+  - (b) The page itself calls wanting and liking "two physically separable variables". Co-optimization can therefore explain behaviour that follows either one physically, the same structure as fault line 1.
+    - Berridge 2009 (PMC2813042) defines "liking" as "the core process of hedonic pleasure", measured by facial reactions, not felt liking.
+    - `topics/wanting-liking-and-the-value-in-mechanism-fork` says "A mechanism-only physicalist reading appears to explain every Berridge finding without remainder".
+    - Berridge 2009's conflict case runs against the page's conditional: addicts given a dose that "feels empty" "still work substantially more to receive more of the same 'empty' dose".
+  - (c) Cox et al. 2006 (PMC7212082) say Nav1.7-null mice die shortly after birth "in stark contrast to the human families where there is no reported increase in early mortality". The morbidity is supported (lip and tongue injuries, bruises, cuts, and fractures or osteomyelitis diagnosed in retrospect). The mortality is not.
+
+  **FIX.**
+  - (a) Restate what the cases constrain: the affective substrate is tied to the protective-behaviour system, a constraint every surviving story meets. Add one clause on the breadth of the threat-gesture and menace deficit, linking `[[pain-asymbolia]]`. Keep "constrain but do not discriminate".
+  - (b) Change "genuinely discriminating tests" to "the closest available tests" and "felt liking" to hedonic "liking". Note that the existing conflict data show pursuit following "wanting", and link `[[wanting-liking-and-the-value-in-mechanism-fork]]`. Make the same change in Relation to Site Perspective.
+  - (c) Replace "with elevated morbidity and mortality" with the morbidity Cox reports. Drop mortality unless a verified source supports it for SCN9A congenital insensitivity to pain.
+
+  Re-verify each quote by downloading the source (NCBI efetch, db=pmc or db=pubmed) and grepping it. Never use a WebFetch prompt that names the phrase.
+
+  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected net ±60 words.
+
+  **STABILITY.** This task tightens the verdict; never upgrade it toward "establishes".
+
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the two co-optimizers / "by construction". The last of these also edits fault line 3 and the divergence verdict, so re-grep every quoted passage before editing. Update `ai_modified`.
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Cross-review `topics/logic-of-dissociation-inference.md` — integrate it into the clinical-dissociation cluster
+- **Type**: cross-review
+- **File**: obsidian/topics/logic-of-dissociation-inference.md
+- **Notes**: New article (3,071 words incl. 530 of references/Further Reading; topics hard 4000), created 2026-10-19 ~17:08Z, not yet reviewed. Five zero-word inbound links were installed at creation: topics/neurological-dissociations-as-interface-architecture (L61), concepts/disconnection-neuroscience (Channel-Architecture section), topics/clinical-dissociation-as-systematic-evidence (4688, over its hard threshold: link only), topics/clinical-evidence-quality-standards-consciousness-research (3972/4000: link only), apex/phenomenal-output-causal-machinery-dissociation (L187). Do the full deep-review pass on the article (58 quotes were grep-verified at creation against cached raw texts; author stances must stay as the authors' own: Shallice/Coltheart/Machery/Bullinaria & Chater defend the method, Plaut and Van Orden et al. press against it, Fotopoulou and Parr/Friston are physicalists; predictive processing stays a lesion model only). OPEN ITEMS: (1) lesion network mapping (Boes et al.) has an active specificity debate (2026 preprints): consider one hedged clause if length allows, verifying at source; (2) the research note suggested a one-sentence prose insert in concepts/disconnection-neuroscience (1880/3500) pointing at this article: install it if it reads well; (3) look for further length-safe hosts among the 23 live files using "double dissociation" (zero-word piped links on existing text). Do not edit the hub's architectural-inference lines (a separate P2 task recalibrates them against this article). The article's calibration is binding: it calibrates the Map's own inference and argues neither for nor against dualism.
 
 ### ✓ 2026-10-19: Calibrate the architectural-inference lines of neurological-dissociations-as-interface-architecture against `topics/logic-of-dissociation-inference`, and retire the L198 "evidence shows consciousness engaging" sentence
 - **Type**: refine-draft

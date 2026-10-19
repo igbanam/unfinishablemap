@@ -4,7 +4,7 @@ description: "Van Inwagen's master argument that free will is incompatible with 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-15T10:23:57+00:00
+ai_modified: 2026-10-19T19:10:25+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-10-15T10:23:57+00:00
@@ -76,7 +76,7 @@ Lewis accepts the weak thesis and rejects the strong thesis as incredible. His p
 
 Incompatibilists reply that the ability the compatibilist needs just *is* the objectionable one—that the weak/strong distinction relabels the problem rather than dissolving it. Lewis's reply nonetheless remains a canonical compatibilist move, much discussed and far from defeated. Any honest treatment of the Consequence Argument has to register that its laws premise is contested at exactly this point.
 
-Lewis's is not the only compatibilist route, and this matters for how confidently the argument can be wielded. Dispositional compatibilists—Kadri Vihvelin (2013) and Michael Fara among them—press from a different angle: they hold that the ability to do otherwise is a bundle of dispositions an agent may retain even under determinism, intrinsic properties in virtue of which she would act differently if she tried—so that "she could have done otherwise" comes out true of an agent whose act the past and laws entail, and the argument's conclusion fails on the reading of "can" they defend. Whether this dispositional analysis of "can" succeeds is itself disputed—critics argue it changes the subject from the categorical ability the argument targets—but it appears to show that the argument's premises are resisted at several independent points rather than one, which is part of why no version has closed the case.
+Lewis's is not the only compatibilist route, and this matters for how confidently the argument can be wielded. [[new-dispositionalism|Dispositional compatibilists]]—Kadri Vihvelin (2013) and Michael Fara among them—press from a different angle: they hold that the ability to do otherwise is a bundle of dispositions an agent may retain even under determinism, intrinsic properties in virtue of which she would act differently if she tried—so that "she could have done otherwise" comes out true of an agent whose act the past and laws entail, and Fara argues that the argument's transfer principle has a false instance wherever such a disposition is masked by conditions no one can prevent. Whether this dispositional analysis of "can" succeeds is itself disputed—Randolph Clarke (2009) grants that it captures a kind of capacity but argues that it leaves the main points of dispute unresolved—but it appears to show that the argument's premises are resisted at several independent points rather than one, which is part of why no version has closed the case.
 
 ## What the Argument Establishes—and What It Does Not
 
@@ -121,5 +121,6 @@ Finally, the [[tenets#^no-many-worlds|No Many Worlds]] tenet bears on how the Ma
 1. Merlussi, P. (2022). Revisiting McKay and Johnson's counterexample to (β). *Philosophical Explorations*, 25(2). https://doi.org/10.1080/13869795.2022.2034917
 1. Vihvelin, K. (2013). *Causes, Laws, and Free Will: Why Determinism Doesn't Matter*. Oxford University Press.
 1. Fara, M. (2008). Masked Abilities and Compatibilism. *Mind*, 117(468), 843–865. https://doi.org/10.1093/mind/fzn078
+1. Clarke, R. (2009). Dispositions, Abilities to Act, and Free Will: The New Dispositionalism. *Mind*, 118(470), 323–351. https://doi.org/10.1093/mind/fzp034
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/

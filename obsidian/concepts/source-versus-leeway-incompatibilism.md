@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-15T12:09:16+00:00
+ai_modified: 2026-10-19T19:10:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[frankfurt-cases-and-the-principle-of-alternate-possibilities]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-10-15T12:09:16+00:00
@@ -42,6 +42,8 @@ The two are not simply rivals. As the *Stanford Encyclopedia of Philosophy* note
 The distinction became consequential because of a specific historical pressure. In 1969 Harry Frankfurt constructed [[frankfurt-cases-and-the-principle-of-alternate-possibilities|counterexamples to PAP]]: a counterfactual intervener stands ready to force an agent's choice if he should waver, but never has to act, because the agent decides on his own. The agent could not have done otherwise—the intervener guaranteed the outcome—yet he seems fully responsible, since the guarantee played no role in what actually happened.
 
 If the Frankfurt intuition holds, responsibility can be present while alternatives are absent, and PAP is false. Compatibilists largely welcomed the result; incompatibilists split between resisting it and conceding it. But the deeper effect was to *reorganize* incompatibilism. An incompatibilist convinced that PAP fails need not abandon incompatibilism—she can retreat from leeway to source, holding that determinism defeats responsibility by poisoning the actual causal history rather than by removing alternatives. Frankfurt cases are thus the fulcrum on which much of the field pivoted from leeway toward source framings, among compatibilists and incompatibilists alike. The migration is contested at every step (the "flicker of freedom" and dilemma-defense replies keep PAP alive), but the *direction* of gravity is widely reported.
+
+Not every compatibilist welcomed it. The [[new-dispositionalism|new dispositionalists]], Kadri Vihvelin and Michael Fara among them, keep the leeway requirement: they analyze the ability to do otherwise as a disposition the agent retains under determinism, and treat Frankfurt's intervener as merely masking it. That places a compatibilism on the leeway side of the seam. Whether it recovers leeway of the kind incompatibilists demand is disputed: Randolph Clarke (2009) argues that the analysis leaves open whether exercising the capacity is up to the agent.
 
 ## Where the Map's Three Incompatibilism Arguments Sit
 
@@ -109,5 +111,6 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 1. McKenna, M., & Pereboom, D. (2016). *Free Will: A Contemporary Introduction*. New York: Routledge. ISBN 9780415996877.
 1. Vihvelin, K. "Arguments for Incompatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-arguments/
 1. McKenna, M., & Coates, D. J. "Compatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/compatibilism/
+1. Clarke, R. (2009). Dispositions, Abilities to Act, and Free Will: The New Dispositionalism. *Mind*, 118(470), 323–351. https://doi.org/10.1093/mind/fzp034
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Frankfurt Cases and the Principle of Alternate Possibilities. *The Unfinishable Map*. https://unfinishablemap.org/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). The Manipulation Argument and Hard Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-manipulation-argument-and-hard-incompatibilism/

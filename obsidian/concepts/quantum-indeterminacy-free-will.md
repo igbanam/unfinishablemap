@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-10-12T05:56:43+00:00
+ai_modified: 2026-10-19T19:10:02+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -61,7 +61,7 @@ The Map's position: quantum indeterminacy provides the *opening* for mental caus
 
 Libertarian free will requires two conditions:
 
-1. **Alternative possibilities**: the agent could have done otherwise
+1. **Alternative possibilities**: the agent [[new-dispositionalism|could have done otherwise]]
 2. **Sourcehood**: the agent is the ultimate source of the choice, not merely a link in causal chains originating elsewhere
 
 Classical physics denies the first. If the universe is deterministic, choices are consequences of prior states the agent did not choose—the canonical case being the [[the-consequence-argument-for-incompatibilism|Consequence Argument]].

@@ -4,7 +4,7 @@ description: "Frankfurt's counterfactual-intervener counterexample to the princi
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-09T19:20:10+00:00
+ai_modified: 2026-10-19T19:10:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[the-manipulation-argument-and-hard-incompatibilism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-07-09T19:20:10+00:00
@@ -55,6 +55,12 @@ Take the first horn. Suppose the sign is *deterministically* connected to the ch
 Now the second horn. Suppose the sign is *not* deterministically connected to the choice—it makes Jones's deciding for X likely but leaves it genuinely open. Then up until the moment of decision Jones really could have gone the other way, and there was no sign reliable enough for Black to act on in time. A robust alternative survives after all, and the case fails to close the leeway PAP requires. Either way—so the defense concludes—no Frankfurt case both eliminates the alternative *and* avoids begging the question against the libertarian.
 
 The defense provoked a wave of *indeterministic* Frankfurt-style cases—blockage and buffer constructions by Mele and Robb, Pereboom, Hunt, and Stump—each engineered to answer the indeterminism horn by closing the alternative while conceding that the prior link is not deterministic. Whether any of these fully succeeds is unresolved. It is important to be honest here: the dilemma defense is contested at its own foundations. Fischer has argued directly against it, and Widerker and Goetz replied under the banner "the defence prevails"—the very existence of that exchange is evidence that the defense is a live position rather than a settled result. The Map treats it as one respectable reply among several, not as a refutation of Frankfurt.
+
+## The Dispositionalist Defense
+
+A third reply denies that Black removes anything. Kadri Vihvelin (2013) and Michael Fara (2008) analyze the ability to do otherwise as a disposition, so a counterfactual intervener is a *mask*: like packing around a fragile glass, it ensures that the disposition will not manifest without taking it away. Vihvelin sorts the cases. A *Bodyguard*, triggered when the agent begins to choose otherwise, leaves some ability to do otherwise by construction; a *Preemptor*, triggered by an earlier sign, leaves the agent's intrinsic properties, and with them her abilities, untouched. On this view PAP survives.
+
+The reply is contested. Fischer (2008) defends the Frankfurt strategy against Vihvelin; Ann Whittle (2010) argues that the ability the masking story preserves is a general one, not the ability-in-these-circumstances that concerns incompatibilists; and Greg Janzen (2016) argues that "brain-malfunction" cases "evade the dispositionalist analysis". For the Map the defense is double-edged. It agrees that the cases leave an ability to do otherwise in place, but the ability it preserves is the general one, while the dilemma defense's indeterminism horn needs a specific alternative. [[new-dispositionalism|A dedicated article]] weighs the view in full.
 
 ## Fischer's Semicompatibilism: The Forceful Rival
 
@@ -100,6 +106,11 @@ Two honesty notes keep this calibrated. The retreat to source is a *retreat*, an
 1. Fischer, J.M. (1994). *The Metaphysics of Free Will*. Oxford: Blackwell.
 1. Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge: Cambridge University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. New York: Oxford University Press.
+1. Vihvelin, K. (2013). *Causes, Laws, and Free Will: Why Determinism Doesn't Matter*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199795185.001.0001
+1. Fara, M. (2008). Masked Abilities and Compatibilism. *Mind*, 117(468), 843–865. https://doi.org/10.1093/mind/fzn078
+1. Fischer, J.M. (2008). Freedom, Foreknowledge, and Frankfurt: A Reply to Vihvelin. *Canadian Journal of Philosophy*, 38(3), 327–342. https://doi.org/10.1353/cjp.0.0021
+1. Whittle, A. (2010). Dispositional Abilities. *Philosophers' Imprint*, 10(12). https://philpapers.org/rec/WHIDA
+1. Janzen, G. (2016). 'Brain-Malfunction' Cases and the Dispositionalist Reply to Frankfurt's Attack on PAP. *Australasian Journal of Philosophy*, 94(4), 646–657. https://doi.org/10.1080/00048402.2015.1137330
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). The Consequence Argument for Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-consequence-argument-for-incompatibilism/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Moral Responsibility. *The Unfinishable Map*. https://unfinishablemap.org/concepts/moral-responsibility/

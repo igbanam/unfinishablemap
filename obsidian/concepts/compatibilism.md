@@ -4,7 +4,7 @@ description: "Compatibilism holds free will survives determinism by reinterpreti
 created: 2026-07-13
 modified: 2026-07-13
 human_modified: null
-ai_modified: 2026-10-19T17:30:50+00:00
+ai_modified: 2026-10-19T19:10:02+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -56,7 +56,7 @@ The conditional analysis is widely held to fail, because the antecedent choice i
 
 Kadri Vihvelin's *Causes, Laws, and Free Will* (2013), whose subtitle stakes the claim outright — "Why Determinism Doesn't Matter" — revives the conditional analysis by grounding the ability to do otherwise in *dispositions*. Free will, on this view, is a bundle of dispositions (abilities) to respond to reasons, together with an environment containing no obstacle to their manifestation. Crucially, the analysis draws on the 1990s metaphysics of dispositions, where "masks" and "finks" (a disposition present but blocked from manifesting, or removed at the moment of testing) defeat simple conditional analyses of any disposition. The new dispositionalists diagnose the counterexamples that sank the old conditional analysis of ability, such as an agent who would act if she chose but is psychologically unable to choose, as failures of that general kind, and Vihvelin builds her analysis to survive them. Michael Fara's "Masked Abilities and Compatibilism" (*Mind*, 2008) is the co-canonical source for this fink/mask-proofing move.
 
-The dispositionalist's payoff is direct: the relevant ability *survives* determinism, because a fragile glass remains disposed to break in a deterministic world even on an occasion when it does not break. If ability-to-do-otherwise is a disposition, no indeterministic gap — and no quantum interface — is needed to secure it. This is among the strongest live challenges to the Map's premise that leeway must be metaphysically categorical, and it has no dedicated page elsewhere in the lattice. Randolph Clarke, who named the view (*Mind*, 2009), grants that one kind of capacity to act is a disposition but argues that having it leaves open whether exercising it is up to the agent, so the analysis leaves the main points of dispute unresolved rather than settled for either side. That open question, whether the choosing itself is up to the agent, is where the Map locates leeway.
+The dispositionalist's payoff is direct: the relevant ability *survives* determinism, because a fragile glass remains disposed to break in a deterministic world even on an occasion when it does not break. If ability-to-do-otherwise is a disposition, no indeterministic gap — and no quantum interface — is needed to secure it. This is among the strongest live challenges to the Map's premise that leeway must be metaphysically categorical, and [[new-dispositionalism|a dedicated article]] examines it in full. Randolph Clarke, who named the view (*Mind*, 2009), grants that one kind of capacity to act is a disposition but argues that having it leaves open whether exercising it is up to the agent, so the analysis leaves the main points of dispute unresolved rather than settled for either side. That open question, whether the choosing itself is up to the agent, is where the Map locates leeway.
 
 ### Hierarchical / mesh theories (bypass)
 

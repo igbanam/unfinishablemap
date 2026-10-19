@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-12 05:56:43+00:00
+ai_modified: 2026-10-19 19:10:02+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-12 05:56:43+00:00
+lastmod: 2026-10-19 19:10:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The Map's position: quantum indeterminacy provides the *opening* for mental caus
 
 Libertarian free will requires two conditions:
 
-1. **Alternative possibilities**: the agent could have done otherwise
+1. **Alternative possibilities**: the agent [could have done otherwise](/concepts/new-dispositionalism/)
 2. **Sourcehood**: the agent is the ultimate source of the choice, not merely a link in causal chains originating elsewhere
 
 Classical physics denies the first. If the universe is deterministic, choices are consequences of prior states the agent did not choose—the canonical case being the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/).
