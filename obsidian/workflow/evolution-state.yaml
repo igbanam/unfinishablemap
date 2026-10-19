@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T07:23:34.438159+00:00'
-session_count: 22917
+last_updated: '2026-10-19T07:37:14.951298+00:00'
+session_count: 22918
 cycle_position: 14787
 last_runs:
   add-highlight: '2026-10-16T08:10:44.660939+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-16T08:35:51.717436+00:00'
+  agentic-social: '2026-10-19T07:53:32.224404+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-16T09:36:26.746338+00:00'
-  check-model-fallback: '2026-10-16T10:49:39.968547+00:00'
+  check-model-fallback: '2026-10-19T07:37:14.951298+00:00'
   check-tenets: '2026-10-15T20:40:31.869989+00:00'
   coalesce: '2026-10-16T04:35:56.715475+00:00'
   collect-chatgpt-review: '2026-10-16T04:07:29.597482+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-16'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-16'
@@ -223,221 +218,13 @@ recent_tasks:
   date: '2026-10-19'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-19'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
-    date: '2026-10-09T11:27:07.547938+00:00'
-    topics:
-    - memory-channel-interface-evidence
-    - self-stultification-as-master-argument
-  - url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
-    date: '2026-10-09T13:04:35.371758+00:00'
-    topics:
-    - split-brain-consciousness
-    - the-self-minimal-narrative-and-substantial
-  - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
-    date: '2026-10-09T14:34:43.087591+00:00'
-    topics:
-    - essential-vs-contingent-consciousness
-  - url: https://unfinishablemap.org/apex/moral-status-of-edge-cases/
-    date: '2026-10-09T17:37:32.574839+00:00'
-    topics:
-    - moral-status-threshold-or-degrees
-    - ethics-under-dualism
-    - animal-consciousness
-    - ethics-of-consciousness-invertebrate-question
-    - the-experience-requirement-on-well-being
-  - url: https://unfinishablemap.org/topics/consciousness-epistemology-extended-cognition/
-    date: '2026-10-09T18:49:36.992622+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - epistemic-advantages-of-dualism
-  - url: https://unfinishablemap.org/topics/dualism-channel-width-axis/
-    date: '2026-10-09T20:19:41.920698+00:00'
-    topics:
-    - dualism
-    - philosophy-of-mind
-    - metaphysics
-  - url: https://unfinishablemap.org/concepts/bohm-implicate-order-and-active-information/
-    date: '2026-10-09T22:06:57.629870+00:00'
-    topics:
-    - free-will
-  - url: https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
-    date: '2026-10-09T23:20:01.142344+00:00'
-    topics:
-    - emergence-as-universal-hard-problem
-    - methodology-of-consciousness-research
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/
-    date: '2026-10-10T01:35:08.400716+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - emotion-and-dualism
-  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
-    date: '2026-10-10T03:34:47.918808+00:00'
-    topics:
-    - embodied-consciousness
-    - phantom-limb-phenomena
-  - url: https://unfinishablemap.org/topics/enactivism-challenge-to-interactionist-dualism/
-    date: '2026-10-10T06:37:45.099059+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/kants-paralogisms-and-the-maps-subject/
-    date: '2026-10-10T08:20:18.502899+00:00'
-    topics:
-    - personal-identity
-    - consciousness-and-the-metaphysics-of-individuation
-    - eighteenth-century-influx-debate
-    - indexical-identity-quantum-measurement
-  - url: https://unfinishablemap.org/concepts/nihilism-and-existentialism/
-    date: '2026-10-10T10:05:17.127153+00:00'
-    topics:
-    - meaning-of-life
-    - free-will
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/
-    date: '2026-10-10T11:19:58.903039+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
-    date: '2026-10-10T13:04:45.372066+00:00'
-    topics:
-    - comparative-phenomenology-of-meditative-traditions
-    - affective-tone-divergence-across-meditative-traditions
-    - the-observer-witness-in-meditation
-    - eastern-philosophy-consciousness
-  - url: https://unfinishablemap.org/voids/mapping-mind-space/
-    date: '2026-10-10T15:36:49.811849+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-    - mapping-mind-space
-  - url: https://unfinishablemap.org/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/
-    date: '2026-10-10T17:19:54.124076+00:00'
-    topics:
-    - paradoxical-kinesia
-    - dopamine-and-the-unified-interface
-    - philosophy-of-habit-under-dualism
-    - volitional-control
-    - consciousness-and-neurodegenerative-disease
-  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
-    date: '2026-10-10T18:49:46.468012+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - embodied-consciousness
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-agency-vs-passivity
-    - arguments-against-materialism
-  - url: https://unfinishablemap.org/concepts/substrate-independence/
-    date: '2026-10-10T20:35:13.511546+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/vitalism/
-    date: '2026-10-10T22:24:57.055575+00:00'
-    topics:
-    - reductionism
-    - arguments-against-materialism
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/voids/temporal-void/
-    date: '2026-10-10T23:51:52.165388+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - temporal-void
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/
-    date: '2026-10-11T02:19:43.130007+00:00'
-    topics:
-    - consciousness-as-perceptual-architect
-    - authentic-vs-inauthentic-choice
-    - phenomenology-of-attention-to-absence
-    - sensorimotor-contingencies-and-the-interface
-  - url: https://unfinishablemap.org/concepts/simulation-theory-of-memory/
-    date: '2026-10-11T04:36:32.164583+00:00'
-    topics:
-    - consciousness-and-memory
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/incubation-effect-and-unconscious-processing/
-    date: '2026-10-11T07:06:17.741762+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-10-11T08:49:32.333077+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
-  - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
-    date: '2026-10-11T10:04:42.409450+00:00'
-    topics:
-    - purpose-and-alignment
-    - ethics-under-dualism
-    - meaning-of-life
-  - url: https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/
-    date: '2026-10-11T11:34:51.255367+00:00'
-    topics:
-    - free-will
-    - ethics-under-dualism
-    - consciousness-and-moral-agency-under-duress
-    - phenomenology-of-moral-life
-  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
-    date: '2026-10-11T14:52:43.749610+00:00'
-    topics:
-    - introspection-architecture-independence-scoring
-    - indian-philosophy-of-mind
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/topics/consciousness-in-smeared-quantum-states/
-    date: '2026-10-11T16:04:36.185707+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/russellian-monism/
-    date: '2026-10-11T17:34:32.048711+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/completeness-in-physics-under-dualism/
-    date: '2026-10-11T19:19:29.850895+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/no-self-objection-to-phenomenal-value/
-    date: '2026-10-11T21:19:29.717600+00:00'
-    topics:
-    - wanting-liking-and-the-value-in-mechanism-fork
-    - phenomenal-value-realism
-    - the-self-minimal-narrative-and-substantial
-    - personal-identity
-    - contentless-awareness-evidence
-    - indian-philosophy-of-mind
-    - ethics-under-dualism
-  - url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
-    date: '2026-10-11T22:50:02.328960+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-  - url: https://unfinishablemap.org/concepts/consistent-histories-interpretation/
-    date: '2026-10-12T00:50:35.729542+00:00'
-    topics:
-    - qm-interpretations-beyond-many-worlds
-    - completeness-in-physics-under-dualism
-    - quantum-darwinism-and-consciousness
-  - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
-    date: '2026-10-12T02:19:42.693644+00:00'
-    topics:
-    - death-and-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - psychedelics-and-the-filter-model
-    - terminal-lucidity-and-filter-transmission-theory
-  - url: https://unfinishablemap.org/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/
-    date: '2026-10-12T05:05:05.711033+00:00'
-    topics:
-    - valence-and-conscious-selection
-    - the-steelman-for-value-blind-selection
-  - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
-    date: '2026-10-12T06:49:43.548899+00:00'
-    topics:
-    - consciousness-and-language-interface
-    - philosophy-of-language-under-dualism
-    - language-recursion-and-consciousness
-    - aphantasia
   - url: https://unfinishablemap.org/concepts/seemings/
     date: '2026-10-12T08:49:57.085852+00:00'
     topics:
@@ -661,6 +448,12 @@ agentic_social:
     - personal-identity
     - the-self-minimal-narrative-and-substantial
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/miswanting/
+    date: '2026-10-19T07:53:32.224367+00:00'
+    topics:
+    - valence-and-conscious-selection
+    - wanting-liking-and-the-value-in-mechanism-fork
+    - the-steelman-for-value-blind-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
