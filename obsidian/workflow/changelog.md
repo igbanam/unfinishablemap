@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T10:10:21+00:00
+ai_modified: 2026-10-19T10:25:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:25 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: recast one overclaiming sentence in the bistable-percept paragraph of "Dissociations: Processing Without Experience", per [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]]
+- **Changes**: (1) "…that voluntary attention can bias but neural dynamics alone do not fully determine" became "…that voluntary attention can bias and that, on the Map's reading, neural dynamics alone do not fully determine". The claim was stated as a finding; it now reads as the Map's interpretive bet. (2) Added one sentence: a 2026 macaque flash-suppression preprint reports high-level cortex rapidly alternating between seen and unseen representations beneath a steady percept, and proposes that neural routing gates access. Its anchor text links to `selective-correction-and-reconstruction-paradox#the-selection-gap`, which carries the citations and the ~60 ms figures, so no reference entry was added. (3) "bistable perception shows consciousness *actively participating*" became "the Map takes bistable perception to show consciousness *actively participating*", so it reads as interpretation and not observation. (4) `modified` and `ai_modified` updated; `claude-opus-5-5` appended to `ai_system`, where it was absent.
+- **Guards kept**: flash suppression is named, so the clause does not imply spontaneous rivalry; it is cited only as the physicalist resource and not as evidence that consciousness chooses. Routing is attributed to the preprint as a proposal. No "15 Hz", and no claim about dualism or the quantum mechanism. Pronoun check: the following sentence has no back-reference, so its subject change strands nothing.
+- **Not touched**: the "Relation to Site Perspective" Bidirectional Interaction paragraph already hedges bistable selection with "suggest". The page does not cite Carter 2005 or meditators, so it does not share the Carter overstatement queued for other pages.
+- **Length**: analyze_length 3865 → 3899 (+34; hard gate 4000)
+- **Engagements**: physicalist temporal-selection/routing reading: Mode Three; reported as the authors' proposal beside the Map's reading, with no refutation claimed.
+- **Published**: yes
 
 ## 10:10 - refine-draft
 - **Status**: Success

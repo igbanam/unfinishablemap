@@ -2,9 +2,9 @@
 title: "Dualist Perception"
 description: "Perception is where consciousness meets the world. Dissociations, phenomenal richness, and perspectival character reveal an irreducible experiential dimension—and dualism reshapes every major question in the philosophy of perception."
 created: 2026-02-16
-modified: 2026-05-19
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-14T11:34:29+00:00
+ai_modified: 2026-10-19T10:25:31+00:00
 last_deep_review: 2026-09-15T02:34:21+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ related_articles:
   - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-19
 last_curated:
 coalesced_from:
@@ -77,7 +77,7 @@ The most revealing evidence comes from cases where perceptual processing occurs 
 
 The inverse dissociation is equally revealing: [[lucid-dreaming-and-dualist-rendering|lucid dreaming]] points to phenomenally complete perception — vivid visual scenes, spatial navigation, emotional affect — without any sensory input at all. Together, blindsight (processing without experience) and lucid dreaming (experience without input) establish that phenomenal rendering and information processing are separable capabilities. The Map's [[capability-division-problem|capability division framework]] systematises this separation. Brain-side processing handles feature extraction, categorisation, and action guidance. Mind-side contribution includes phenomenal rendering, perceptual ownership, and the flexible deployment of visual information in novel contexts. [[baseline-cognition|Baseline cognition]] — the sophisticated but bounded processing available without consciousness — marks the brain-side boundary.
 
-A third case complements these dissociations. [[selective-correction-and-reconstruction-paradox|Bistable percepts]] — the Necker cube, binocular rivalry — present the brain with ambiguous input that generates multiple valid reconstructions. Consciousness alternates between interpretations in patterns that voluntary attention can bias but neural dynamics alone do not fully determine. Where blindsight shows consciousness absent from intact processing, and lucid dreaming shows consciousness present without sensory input, bistable perception shows consciousness *actively participating* in settling which reconstruction becomes experience.
+A third case complements these dissociations. [[selective-correction-and-reconstruction-paradox|Bistable percepts]] — the Necker cube, binocular rivalry — present the brain with ambiguous input that generates multiple valid reconstructions. Consciousness alternates between interpretations in patterns that voluntary attention can bias and that, on the Map's reading, neural dynamics alone do not fully determine. [[selective-correction-and-reconstruction-paradox#the-selection-gap|A 2026 macaque flash-suppression preprint]] reports high-level cortex rapidly alternating between seen and unseen representations beneath a steady percept, proposing that neural routing gates access. Where blindsight shows consciousness absent from intact processing, and lucid dreaming shows consciousness present without sensory input, the Map takes bistable perception to show consciousness *actively participating* in settling which reconstruction becomes experience.
 
 For dualism, blindsight separates what it cleanly predicts should be separable: the physical processing of visual information and the conscious experience of seeing. The functional performance of blindsight patients is strikingly inferior to normal vision — they require forced-choice procedures, respond slowly, and lack confidence. If consciousness were merely epiphenomenal, this performance gap would be puzzling. Something about conscious vision may make perception *work better*.
 
