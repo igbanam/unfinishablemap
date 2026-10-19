@@ -1,15 +1,22 @@
 ---
 name: commission-claude-review
-description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Fable 5 when available, else the project's Opus fallback), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
+description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Fable when available; Opus when Fable is unavailable or the weekly Fable limit is reached), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
 context: fork
 agent: general-purpose
 ---
 
 # Commission Claude Review
 
-Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Fable 5 preferred; Opus 4.8 accepted as a fallback; with Research and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
+Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Fable preferred; Opus accepted as a fallback; with Research and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
 
-**Model policy (self-healing):** the project default is Fable 5, but claude.ai periodically marks Fable 5 "Currently unavailable" and auto-falls-back to Opus 4.8 High. Both are strong enough for a rigorous outer review, so this skill commissions against **whichever acceptable model the selector currently shows** (Fable *or* Opus) rather than hard-requiring Fable. The review file is named after the model that actually ran, so synthesis and dedupe stay correct, and the leg auto-returns to Fable 5 the moment claude.ai restores it. Sonnet/Haiku are NOT acceptable — too light for a hostile-referee audit; bail if that's all the project offers.
+**Model policy (self-healing):** Fable is preferred, Opus is the fallback, and the skill **actively selects** between them in Step 2.5 every run. Both are strong enough for a rigorous outer review. Opus is used when either:
+
+- **the weekly Fable limit is reached** — claude.ai shows the inline banner "You've reached your Fable limit. Turn on usage credits to keep using Fable or switch models to continue." It does NOT auto-fall-back here (it just refuses to answer), so the skill must switch to Opus itself. Without this the leg was dark for days at a time (2026-10-10 → 10-14, 2026-10-16 → 10-21) because the 24/7 loop's own Claude Code usage drains the shared account allowance mid-week; or
+- **claude.ai marks Fable "Currently unavailable"** and has already auto-selected Opus.
+
+Otherwise the skill selects Fable — including when a previous fallback left Opus as the sticky selection — so the leg returns to Fable the moment it is usable again. The review file is named after the model that actually ran, so synthesis and dedupe stay correct. Sonnet/Haiku are NOT acceptable — too light for a hostile-referee audit; bail if that's all the project offers.
+
+Model names drift (as of 2026-10-19 the menu offers Fable 5.1, Opus 5.5, Sonnet 5.5, Haiku 5.5, then Effort and More models). Match on the family word ("Fable" / "Opus"), never on a version number.
 
 ## When to Use
 
@@ -81,15 +88,51 @@ JSON.stringify({
   url: window.location.href,
   composer: !!document.querySelector('[contenteditable="true"]'),
   modelText: document.querySelector('[data-testid="model-selector-dropdown"]')?.textContent?.trim() || null,
+  fableLimit: /reached your (weekly )?Fable limit/i.test(document.body.innerText),
   loginRedirect: /\/login|\/signin/.test(window.location.href)
 })
 ```
 
-**Logged-in signal**: `composer: true` AND `modelText` names an acceptable reviewer model (contains "Fable" **or** "Opus") AND `loginRedirect: false`. Fable 5 is preferred; when claude.ai marks it "Currently unavailable" the project auto-selects Opus 4.8, which is an acceptable substitute. Capture the `modelText` value — Step 3 and Step 8 reuse it as `model_text`.
+**Logged-in signal**: `composer: true` AND `loginRedirect: false`.
 
-**Logged-out signal**: `composer` false OR `loginRedirect` true. (A model selector that reads Sonnet/Haiku is not "logged out" — it's an unacceptable-model bail, handled in Step 3.)
+**Logged-out signal**: `composer` false OR `loginRedirect` true. (A model selector that reads Sonnet/Haiku is not "logged out" — Step 2.5 handles the model.)
 
 If logged out, **emit literal line** `LOGIN_REQUIRED: claude session expired` and stop. The dispatcher sets a 24h backoff via `last_runs["commission-claude-review-blocked-until"]`.
+
+Keep `fableLimit` for Step 2.5. Once the account has hit the weekly limit, the banner is already on the project page **before** anything is typed (verified 2026-10-19), so this is the normal detection point. The first hit of a week may only surface after submit — Step 5 catches that.
+
+## Step 2.5: Select the reviewer model
+
+Decide the target family:
+
+- `fableLimit: true` → **Opus**.
+- otherwise → **Fable**, unless the Fable menu entry turns out to be unusable (below), in which case **Opus**.
+
+Open the model selector: get the center of `[data-testid="model-selector-dropdown"]` via `getBoundingClientRect()`, convert to screenshot coordinates (measure the scale as screenshot width ÷ `innerWidth` — it varies per run, 0.665 on 2026-10-16/19), and coordinate-click it. The menu's model entries ARE DOM-visible (unlike the `+` menu in Step 3) — verified 2026-10-19:
+
+```javascript
+JSON.stringify(Array.from(document.querySelectorAll('[role="menuitemradio"]')).map(e => {
+  const r = e.getBoundingClientRect();
+  return {
+    text: e.innerText.replace(/\n+/g, ' | '),
+    checked: e.getAttribute('aria-checked'),
+    disabled: e.getAttribute('aria-disabled') === 'true' || e.hasAttribute('data-disabled'),
+    x: r.x + r.width / 2, y: r.y + r.height / 2
+  };
+}))
+```
+
+The Fable entry is **unusable** if it is disabled or its text contains "unavailable". It does NOT show the weekly limit — only the Step 2 banner does — so never infer "Fable is fine" from the menu alone when `fableLimit` is true.
+
+- If the target entry already has `aria-checked="true"`, press Escape.
+- Otherwise coordinate-click the target entry (center × scale). The menu closes on selection.
+- If no entry matches the target family (and, for a Fable target, no usable Opus entry either), press Escape and bail: no acceptable model.
+
+Do not touch the "Effort" or "More models" entries.
+
+Re-read `[data-testid="model-selector-dropdown"]` text and confirm it contains the target family word. Capture it as `model_text` — Steps 3 and 8 reuse it. If it does not match, bail before submitting.
+
+Never click "Turn on credits", "Buy more usage", or anything else in the limit banner — those are purchases and are the user's call.
 
 ## Step 3: Enable Research mode
 
@@ -113,13 +156,10 @@ Verify after clicking: a button with `aria-label="Research mode"` appears in the
 with `aria-pressed="true"`. If **that** verification fails, **bail before submitting** — take a
 screenshot and dump the composer DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
 
-Verify the model selector still names an acceptable reviewer model — check `model_text` (the selector text captured in Step 2):
+Re-read the model selector and verify it still names the model chosen in Step 2.5 (`model_text`):
 
-- contains **"Fable"** → preferred; proceed.
-- contains **"Opus"** → acceptable fallback (Fable 5 is "Currently unavailable" on claude.ai and the project auto-selects Opus 4.8); proceed.
-- otherwise (Sonnet / Haiku / anything else) → **bail**; these models are too light for a rigorous outer review and would weaken cross-reviewer convergence.
-
-Do **not** switch the model yourself — commission against whichever acceptable model the project currently offers, and Step 8 will name the file after it.
+- contains **"Fable"** or **"Opus"** (whichever Step 2.5 selected) → proceed.
+- otherwise (Sonnet / Haiku / anything else, or a different family from Step 2.5's) → **bail**; these models are too light for a rigorous outer review and would weaken cross-reviewer convergence.
 
 ## Step 4: Type the prompt and submit
 
@@ -134,11 +174,21 @@ Wait 4–5s, then:
 ```javascript
 JSON.stringify({
   url: window.location.href,
-  conversationId: (window.location.pathname.match(/\/chat\/([0-9a-f-]+)/) || [])[1] || null
+  conversationId: (window.location.pathname.match(/\/chat\/([0-9a-f-]+)/) || [])[1] || null,
+  fableLimit: /reached your (weekly )?Fable limit/i.test(document.body.innerText),
+  stopBtn: !!Array.from(document.querySelectorAll('button')).find(b => /stop response/i.test(b.getAttribute('aria-label') || ''))
 })
 ```
 
 Expected: URL matches `https://claude.ai/chat/<uuid>`. If `conversationId` is null after 10s, **bail without writing a pending entry** — submission failed.
+
+**Fable limit hit on submit** (`fableLimit: true` AND `model_text` contains "Fable" AND `stopBtn: false`): this is the first hit of the week. The chat was created but Claude will not answer it (observed 2026-10-16, chat `052ef8c3`). Recover **once**:
+
+1. Note the blocked `conversationId` (it will be left unanswered in the project).
+2. Close this tab, open a fresh tab, navigate to the project URL, and restart from **Step 2**. The banner now shows on load, so Step 2.5 selects Opus; then re-enable Research (Step 3) and re-type the same prompt (Step 4).
+3. Include the line `FABLE_LIMIT_FALLBACK: opus; blocked chat <conversationId>` in your summary.
+
+If the retry hits the limit banner again with Opus selected, or any retry step fails, bail without writing a pending entry. Never retry more than once per run.
 
 ## Step 6: Navigate the optional "go" stage
 
@@ -184,15 +234,15 @@ If none of these after a total wait of 30s post-submit, **bail without writing a
 
 Compute the target filename:
 
-Derive the model slug from the live selector text (`model_text` from Step 2) so the filename reflects the model that actually ran:
+Derive the model slug from the live selector text (`model_text` from Step 2.5) so the filename reflects the model that actually ran:
 
 ```python
 import datetime as dt, re
-# model_text is the selector text captured in Step 2/3, e.g. "Fable 5" or "Opus 4.8 High"
+# model_text is the selector text captured in Step 2.5, e.g. "Fable 5.1 Medium" or "Opus 5.5 Medium"
 m = re.search(r"(fable|opus|sonnet|haiku)\s+([0-9.]+)", model_text, re.I)
 if not m:
     raise SystemExit(f"Cannot derive model slug from selector text: {model_text!r}")
-model_slug = f"{m.group(1).lower()}-{m.group(2).replace('.', '-')}"  # "fable-5" / "opus-4-8"
+model_slug = f"{m.group(1).lower()}-{m.group(2).replace('.', '-')}"  # "fable-5-1" / "opus-5-5"
 date = dt.datetime.now(dt.timezone.utc).date().isoformat()
 target = f"outer-review-{date}-claude-{model_slug}.md"
 ```
@@ -247,7 +297,9 @@ Total runtime budget: 5 minutes.
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
 | Research mode won't enable | after clicking Research, the composer has no `aria-label="Research mode"` button with `aria-pressed="true"` | Bail before submitting; screenshot + composer DOM dump. Do NOT bail on an empty `[role=menu]` / missing `menuitemcheckbox` query — those read empty on a healthy open menu (2026-09-04). |
-| No acceptable model | selector names neither "Fable" nor "Opus" (e.g. Sonnet/Haiku only) | Bail; too light for an outer review. A Fable→Opus fallback is acceptable and proceeds. |
+| No acceptable model | after Step 2.5 the selector names neither "Fable" nor "Opus" (e.g. Sonnet/Haiku only) | Bail; too light for an outer review. A Fable→Opus fallback is acceptable and proceeds. |
+| Weekly Fable limit (seen on load) | Step 2 `fableLimit: true` | Step 2.5 selects Opus; proceed normally. |
+| Weekly Fable limit (seen after submit) | Step 5 `fableLimit: true` with Fable selected, no stop button | Restart once on Opus in a fresh tab; emit `FABLE_LIMIT_FALLBACK`. Bail if the retry fails. |
 | Submission silent failure | no `/chat/<uuid>` URL after 10s | Bail; do not write pending entry. |
 | Ambiguous post-submit state | no stopBtn AND no artifact AND no research panel after 30s | Bail; operator inspects. |
 
@@ -257,4 +309,5 @@ Total runtime budget: 5 minutes.
 
 - This skill must NEVER write a half-configured commission to pending-reviews.yaml.
 - This skill must NEVER attempt to drive a login flow.
-- This skill must NEVER attempt to change the project's default model.
+- This skill must NEVER edit the project's settings. Choosing Fable/Opus in the composer's model selector (Step 2.5) is the only model change it makes.
+- This skill must NEVER click "Turn on credits", "Buy more usage", or any other purchase or billing control.
