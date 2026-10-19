@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 22:17:57+00:00
+ai_modified: 2026-10-19 22:45:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 22:17:57+00:00
+lastmod: 2026-10-19 22:45:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:45 - refine-draft
+- **Status**: Success
+- **File**: [confabulation-void](/voids/confabulation-void/), plus [introspection](/concepts/introspection/), [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/) and [voids-confabulation-void-2026-05-14](/research/voids-confabulation-void-2026-05-14/) (propagation of the choice-blindness pupillometry correction from [deep-review-2026-10-19-pupillometry-behavioural-channel](/reviews/deep-review-2026-10-19-pupillometry-behavioural-channel/); all four files done)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted correction pass
+- **Changes**:
+  - confabulation-void "Replication-survival" (2599 → 2754; voids hard 3000): replaced "narrowed by 2020–2021 replication work … *strengthened* … The body knows; the verbal channel does not" with the two-study split. Pärnamets et al. 2023 (Johansson and Hall co-authors) tentatively read the dilation as effortful rationalisation and rule out aware-but-unreported. Grassi et al. 2025 read it as covert detection, conclude hesitance to report rather than failure to detect, and quote "less introspectively blind than originally portrayed". Choice blindness is now marked weaker evidence for the void; the surviving claim is channel-level only, and registration-without-awareness is held at live hypothesis. Added References 15–16. The L87 P3 cross-link was not touched.
+  - concepts/introspection L65 (3504 → 3491, now under hard 3500): dropped the claim that applied computerised-task pupil results to the 2005 figure ("the figure indexes failed post-hoc verbal access"). It now reads "Later computerised versions found pupils dilating on swaps participants accepted … though the two groups that recorded this disagree whether participants rationalised without noticing or noticed and stayed silent". "*in retrospective verbal report*" became "*in verbal report*". At L81, "where verbal access fails" became "where verbal report fails" (length-neutral; neutral between the two readings).
+  - apex L93 (4351 → 4351): "Johansson and Hall's pupillometric follow-ups" became "Pupillometric follow-ups to choice blindness".
+  - research note (6084 → 6286; already critical before this pass): "Stedmon, A. et al." became Grassi, Hoeppe, Baytimur & Bartels 2025 with full metadata. Dates were corrected ("2024+", "2024 PMC", "2020–2021" → Grassi 2025). The discriminability quotation is now Grassi's verbatim wording, and "80% of non-detection cases" became "up to 80% of participants withheld reports". Added a Pärnamets 2023 citation, a dated correction note, and a [Superseded] pointer on the "strengthen" claim under Evidence. The analysis is otherwise unrewritten.
+- **Verification**: Crossref metadata and abstracts for both DOIs. Grassi full text came from PMC BioC JSON (PMC12713319) and was grepped for 65.5% (Exp. 1 classifier), 16 no-report trials (β=0.248, p=0.177), "nearly all participants reported noticing", "up to 80%", "almost completely abolish CB", "hesitance of reporting", and the verbatim discriminability sentence. Pärnamets phrases were grepped in the Crossref abstract.
+- **Engagement modes (editor-internal)**: Pärnamets and Grassi reported as the source authors' own readings, with no refutation (Mode Three reportage); the Map's reading is labelled as a third, unselected reading. No label leakage.
+- **Published**: yes (synced; Hugo copies confirmed)
 
 ## 22:17 - deep-review
 - **Status**: Success

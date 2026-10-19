@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-08-08 17:18:21+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-19 22:44:52+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[introspection]]'
@@ -14,7 +14,7 @@ date: &id001 2026-05-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-08-08 17:18:21+00:00
+lastmod: 2026-10-19 22:44:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -105,13 +105,16 @@ Confabulation — the production of plausible-sounding but ungrounded explanatio
 - **Tenet alignment**: Dualism — the reality filter operates pre-consciously; what reaches consciousness has already been filtered, and the filtering process is constitutively unwitnessable from inside. Bidirectional Interaction — if consciousness influences the physical via [amplification of small effects](/voids/amplification-void/), the filtering layer between substrate and report is what makes the actual influence-pattern unrecoverable from introspection.
 - **Quote**: "Spontaneous confabulators fail to suppress (inactivate) evoked memories that do not pertain to ongoing reality."
 
-### Johansson, Hall, Sikström & Olsson, "Failure to detect mismatches between intention and outcome in a simple decision task" (Science 2005); plus the Pärnamets/Stedmon-style 2020–2021 replication critique
+### Johansson, Hall, Sikström & Olsson, "Failure to detect mismatches between intention and outcome in a simple decision task" (Science 2005); plus the Grassi et al. 2025 pupillometry critique
+
+> **Correction (2026-10-19).** The pupillometry paper at the PMC link was cited here as "Stedmon et al.", dated 2024, and called 2020–2021 replication work. It is Grassi, Hoeppe, Baytimur & Bartels (2025), *Frontiers in Psychology* 16, 1598254 (DOI 10.3389/fpsyg.2025.1598254), the source of the second bullet's quotation and its "up to 80%" figure (participants who withheld reports, not non-detection cases). The other pupil study, Pärnamets, Johansson, Strandberg, Balkenius & Hall (2023, PsyArXiv, DOI 10.31234/osf.io/v85sz), tentatively reads the dilation as effortful rationalisation without awareness of the swap. Grassi et al. read it as noticed-but-unreported, with participants "less introspectively blind than originally portrayed", which runs against the *strengthened* assessments below. Corrected account: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/).
+
 - **URL**: https://pubmed.ncbi.nlm.nih.gov/16210542/ | https://link.springer.com/article/10.1007/s11229-019-02414-3 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12713319/
 - **Type**: Original experiment + philosophical analysis + recent pupillometry replication
 - **Key points**:
   - In the original choice-blindness paradigm, participants were shown two female faces, asked to pick the more attractive, and then handed (via card-trick) the *non-chosen* face — and asked to explain their choice. Up to 80% of swaps were not detected verbally, and subjects produced fluent post-hoc justifications for choices they had not made.
-  - Recent replication work (2020–2021) tightened the paradigm and found that "stimulus discriminability strongly affected choice blindness, casting doubt on the ubiquity and behavioral relevance of previous choice blindness studies." Up to 80% of non-detection cases had alternative explanations (button-press error, design suspicion, post-trial mind-changing) rather than introspective failure per se.
-  - Pupillometry follow-ups (2024+) show *covert detection*: pupils dilate to swapped trials even when subjects do not verbally report the swap — the body knows; the verbal report does not.
+  - Grassi et al. (2025) tightened the paradigm and found "that the stimulus discriminability strongly affected CB. Hence, our results cast doubt on the ubiquity and behavioral relevance of previous CB studies". Up to 80% of participants withheld reports of detected manipulations (thinking they pressed the wrong button or that the mismatch was part of the experiment, changing their mind) rather than through introspective failure per se.
+  - Pupillometry follow-up work (Grassi et al. 2025) shows *covert detection*: pupils dilate to swapped trials even when subjects do not verbally report the swap — the body knows; the verbal report does not.
   - Net effect on the Map's argument: the original strong claim (verbal report is wholly fabricated) is qualified, but the structural claim (verbal report and sub-personal detection are *separable signals* with the verbal channel less accurate than the bodily one) is *strengthened*, not weakened, by the replication critique.
 - **Tenet alignment**: Dualism — the dissociation between covert (pupillometric) detection and overt (verbal) report is the kind of evidence dualism predicts: consciousness is not a transparent readout of substrate. Bidirectional Interaction — if any mental content has consciousness-side cause, the verbal report is the channel where that cause would need to be visible, and it is precisely the least reliable channel.
 - **Quote**: "Participants failed to notice conspicuous mismatches between their intended choice and the outcome they were presented with, while nevertheless offering introspectively derived reasons for why they chose the way they did."
@@ -198,7 +201,7 @@ The seam is irreducible. Generation explains *why* there is content where there 
 
 ### Evidence the Limit is Genuinely Structural (Not Merely Difficult)
 
-- **Replication-survival**: The original Nisbett & Wilson (1977) finding has been re-tested for nearly 50 years and the pattern of dissociation between actual causes and reported causes survives, even where original specific paradigms (e.g., Johansson-Hall choice blindness) have been tightened. The Pärnamets-style 2020–2021 replications qualify the *prevalence* of the Johansson-Hall effect but *strengthen* the structural claim by showing covert (pupillometric) detection alongside overt (verbal) failure.
+- **Replication-survival**: The original Nisbett & Wilson (1977) finding has been re-tested for nearly 50 years and the pattern of dissociation between actual causes and reported causes survives, even where original specific paradigms (e.g., Johansson-Hall choice blindness) have been tightened. The Grassi et al. (2025) replication qualifies the *prevalence* of the Johansson-Hall effect but *strengthens* the structural claim by showing covert (pupillometric) detection alongside overt (verbal) failure. [Superseded 2026-10-19: Grassi et al. themselves conclude the opposite; see the correction under the Johansson entry.]
 - **Lesion convergence**: Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter all triangulate on the same architecture: a generative module without an integrated checking module produces confident false content. Different lesion patterns produce different confabulation profiles, ruling out a single neural locus, supporting the systemic-architecture interpretation.
 - **Healthy-adult continuity**: Wheatley, Bortolotti, Haidt, and the introspection-illusion literature show the same structural feature operating in healthy adults — not as a marginal phenomenon but as the ordinary mode for whole domains (moral judgement, choice justification, preference explanation, taste reports).
 - **Confidence-accuracy reversal**: The Rebouillat et al. 2021 finding is the strongest single piece of evidence the felt signal is structurally unavailable as a confabulation-detector. If confidence tracked accuracy in the right direction even weakly, the void would be merely difficult; with the relationship inverted in the conditions that matter, the void is structural.
@@ -226,7 +229,7 @@ What partial first-person discipline can do:
 Third-person and instrumental methods do better, though none closes the void:
 
 - **Behavioural dissociation paradigms**: Choice blindness, change blindness, choice-blindness derivatives, and post-hoc reasoning interventions (dumbfounding) reliably produce confabulation that can be measured against ground-truth — but the measure is third-person and cannot be deployed first-person.
-- **Pupillometry, EEG, fMRI**: The 2024 PMC pupillometry paper shows covert detection of swapped trials before verbal report contradicts — instrumental signals access the substrate the introspector cannot. But the readings remain external and cannot be deployed in real time as a personal honesty-check.
+- **Pupillometry, EEG, fMRI**: The Grassi et al. (2025) pupillometry paper shows covert detection of swapped trials before verbal report contradicts — instrumental signals access the substrate the introspector cannot. But the readings remain external and cannot be deployed in real time as a personal honesty-check.
 - **Conversation and challenge**: Dumbfounding-style dismantling — having a partner systematically defeat one's reasoning — surfaces confabulation by exhausting the post-hoc resources. This is functional but socially expensive and only works in domains where reasons can actually be checked.
 - **Long-time-base self-correction**: Comparing one's prior explanations against one's later behaviour over months and years can produce a base-rate estimate. This catches some pervasiveness signal but is itself open to confabulated remembering of the prior states — the [inaccessible-past](/voids/inaccessible-past/) interferes with this approach.
 
@@ -313,7 +316,8 @@ The seam-test inherited from the conjunction-coalesce discipline applies: when a
 - Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience* 4, 662–671. https://www.nature.com/articles/nrn1179
 - Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. (Reviewed in *American Journal of Psychiatry*.) https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08010037
 - Schnider, A. (2013). Orbitofrontal reality filtering. *Frontiers in Behavioral Neuroscience* 7, 67. https://pmc.ncbi.nlm.nih.gov/articles/PMC3677127/
-- Stedmon, A. et al. *Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12713319/
+- Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology* 16, 1598254. https://doi.org/10.3389/fpsyg.2025.1598254 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12713319/ (cited as "Stedmon, A. et al." with no year until 2026-10-19)
+- Pärnamets, P., Johansson, P., Strandberg, T., Balkenius, C., & Hall, L. (2023). Looking at choice blindness: Evidence from gaze patterns and pupil dilation. *PsyArXiv* preprint. https://doi.org/10.31234/osf.io/v85sz
 - Synthese reply: *Confabulation does not undermine introspection for propositional attitudes* (2019). https://link.springer.com/article/10.1007/s11229-019-02373-9
 - *Is choice blindness a case of self-ignorance?* *Synthese* (2019). https://link.springer.com/article/10.1007/s11229-019-02414-3
 - Topoi (2020) — *Introduction: Philosophical Perspectives on Confabulation*. https://link.springer.com/article/10.1007/s11245-019-09668-z

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-10-03 22:43:41+00:00
+ai_modified: 2026-10-19 22:42:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:37:29+00:00
-lastmod: 2026-10-03 22:43:41+00:00
+lastmod: 2026-10-19 22:42:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -79,7 +79,7 @@ The void in this face is not just that confabulation happens, but that the *frac
 
 Several lines of evidence converge to suggest that this void is not merely a difficult empirical problem but a structural feature of how consciousness relates to its substrate.
 
-**Replication-survival.** Nearly half a century after Nisbett and Wilson, the dissociation between actual causes and reported causes survives across paradigms. The Johansson-Hall *choice blindness* paradigm — in which subjects fluently justify choices they did not in fact make — has been narrowed by 2020–2021 replication work, but the structural finding is *strengthened* rather than weakened. Pupillometry follow-ups show *covert* detection of swapped trials: pupils dilate to the manipulation even when the verbal report does not flag it. The body knows; the verbal channel does not. [The behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) develops the pupillometric leg of the dissociation as a channel-level finding rather than as evidence of a more accurate readout, calibrated as *contested but real* at the structural grain.
+**Replication-survival.** Nearly half a century after Nisbett and Wilson, the dissociation between actual causes and reported causes survives across paradigms. Its best-known modern descendant has a more contested record. In the Johansson-Hall *choice blindness* paradigm subjects fluently justify choices they did not in fact make, and in computerised versions their pupils dilate on swapped trials, including swaps they accept as their own; but the two research groups that recorded the dilation read it in opposite ways. Pärnamets and colleagues (2023), whose authors include Johansson and Hall, tentatively read it as effortful rationalisation and argue that their data rule out participants noticing the swap but not reporting it. Grassi and colleagues (2025) read it as covert detection: nearly all their participants said afterwards that they had noticed manipulations, and the authors conclude that non-detection reflects hesitance to report rather than failure to detect, with participants "less introspectively blind than originally portrayed." On that reading choice blindness is weaker evidence for this void than its early reception suggested. What survives both readings is narrower: the verbal channel and the pupil can come apart on the same trial. [The behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) develops that channel-level finding, calibrated as *contested but real*, and holds the registration-without-awareness reading the Map finds most congenial at the tier of live hypothesis.
 
 **Lesion convergence.** Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter triangulate on the same architectural fact: a generative module without an integrated checking module produces confident false content. Different lesions produce different confabulation profiles, supporting a systemic-architecture interpretation rather than a single neural locus. The stroke syndrome constrains what "without" means here: [the reversal literature](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) lifts anosognosic denial for a while by vestibular stimulation and for good by third-person video, on an unchanged lesion, while first-person viewing of the paralysed arm leaves it intact. The check is missing from the first-person route rather than from the brain, and the correction arrives only from outside, which sharpens the void's claim rather than qualifying it.
 
@@ -141,3 +141,5 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 12. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
 13. Lederman, H. & Mahowald, K. (2026). Emergent Introspection in AI is Content-Agnostic. *arXiv*:2603.05414v2 (7 April 2026). https://arxiv.org/abs/2603.05414
 14. Lindsey, J. (2025). Emergent Introspective Awareness in Large Language Models. *Transformer Circuits Thread*. https://transformer-circuits.pub/2025/introspection/index.html
+15. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology* 16, 1598254. DOI: 10.3389/fpsyg.2025.1598254.
+16. Pärnamets, P., Johansson, P., Strandberg, T., Balkenius, C., & Hall, L. (2023). Looking at choice blindness: Evidence from gaze patterns and pupil dilation. *PsyArXiv* preprint. DOI: 10.31234/osf.io/v85sz.

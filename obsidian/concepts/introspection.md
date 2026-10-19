@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-08-07T00:52:00+00:00
+ai_modified: 2026-10-19T22:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[contentless-awareness-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T11:35:46+00:00
@@ -62,7 +62,7 @@ Introspection is our primary [[epistemology|epistemic]] access to conscious expe
 
 Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated that people are often unaware of stimuli influencing their responses. Position effects, priming, and context effects remain invisible to subjects, who nonetheless confidently explain choices using theories unrelated to actual causes.
 
-Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, roughly three-quarters of manipulated trials went undetected *in retrospective verbal report*—and subjects confabulated detailed justifications for choices they never made. The qualifier matters: concurrent measures differ. The autonomic channel registers the swap online—pupil dilation tracks manipulated trials even when the verbal channel later misses them ([[topics/pupillometry-behavioural-channel|pupillometric extensions]])—so the figure indexes failed post-hoc verbal access, not a global failure to register the change. The [[source-attribution-void]] traces these failures to an architectural limit: mental content lacks native origin tags, so source must be inferred from surface features—vividness, fluency, narrative fit—that correlate weakly with actual origin and collapse under predictable conditions.
+Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, roughly three-quarters of manipulated trials went undetected *in verbal report*—and subjects confabulated detailed justifications for choices they never made. Later computerised versions found pupils dilating on swaps participants accepted ([[topics/pupillometry-behavioural-channel|pupillometric extensions]]), though the two groups that recorded this disagree whether participants rationalised without noticing or noticed and stayed silent. The [[source-attribution-void]] traces these failures to an architectural limit: mental content lacks native origin tags, so source must be inferred from surface features—vividness, fluency, narrative fit—that correlate weakly with actual origin and collapse under predictable conditions.
 
 Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience [[inner-speech-and-anendophasia|inner speech]], or the character of peripheral vision. Mental imagery is the most dramatic case: the [[imagery-void]] documents aphantasic and hyperphantasic minds (roughly 1% and 3% extremes) using identical vividness vocabulary while underlying phenomenology diverges radically or vanishes — and aphantasics complete classical mental rotation without imagery, suggesting phenomenal reports may not always track the cognitive work being done. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [[voids-between-minds]] compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
@@ -78,7 +78,7 @@ Metzinger's [[phenomenal-transparency-opacity-spectrum|transparency-opacity spec
 
 This distinction is crucial for the [[hard-problem-of-consciousness|hard problem]]. [[cognitive-science-of-dualism|Cognitive science itself]] depends on it: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output. Arguments for dualism don't depend on introspecting cognitive processes—they depend on recognizing that experience has a qualitative character differing from its neural correlates. [[qualia|Qualia]] are what experience *is*, not what causes experience. The [[consciousness-and-language-interface|consciousness-language interface]] complicates this: introspection is often linguistically mediated, and linguistic encoding loses content from the original phenomenal state.
 
-Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where verbal access fails.
+Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where verbal report fails.
 
 ### Phenomenal Overflow: Evidence for the Distinction
 
