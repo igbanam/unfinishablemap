@@ -3,7 +3,7 @@ title: "Research Notes - Charles Bonnet Syndrome and Generative-Model Release"
 created: 2026-09-16
 modified: 2026-09-16
 human_modified: null
-ai_modified: 2026-09-16T15:58:00+00:00
+ai_modified: 2026-10-19T10:00:51+00:00
 draft: false
 description: "Research notes on Charles Bonnet syndrome: the deafferentation/release, generative-model and strong-prior readings, why none of them is compensation, and what a single calibrated concept must say for the Map's six invoking loci."
 topics: []
@@ -11,7 +11,7 @@ concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-16
 last_curated: null
 last_deep_review: null
@@ -139,7 +139,7 @@ Note the equivocation the loci trade on: **neuronal compensation** (homeostatic 
 ### Release / deafferentation (classic)
 - **Proponents**: Cogan 1973; Schultz & Melzack 1991; Menon et al. 2003; Burke 2002; ffytche 1998–2008; Painter et al. 2018; daSilva Morgan et al. 2025.
 - **Core claim**: Loss of afferent drive removes inhibition and/or triggers homeostatic hyperexcitability in visual cortex; spontaneous activity in specialised regions is experienced as content matching those regions' specialisations. Analogy: phantom limb, tinnitus.
-- **Key evidence**: content-specific ventral extrastriate activation persisting between episodes (1998); three content clusters tracking streams (2000); elevated SSVEPs (2018); lowered phosphene thresholds and cortical slowing (2025); bottom-up build-up before report (2021).
+- **Key evidence**: content-specific ventral extrastriate activation persisting between episodes (1998); three content clusters tracking streams (2000); elevated SSVEPs (2018); cortical slowing, with lower phosphene thresholds tracking weaker activation and worse hallucinations within the CBS group but no group difference in threshold (2025); bottom-up build-up before report (2021).
 - **Relation to site tenets**: Neutral on Tenet 1. Undercuts the Tenet 3 use at `perceptual-failure-and-the-interface` L134: nothing here needs a phenomenal-side contribution.
 
 ### Generative-model release (computational)
@@ -174,7 +174,7 @@ Note the equivocation the loci trade on: **neuronal compensation** (homeostatic 
 - **Current state**: open; Altieri & Battaglini 2026 frame it as desynchronisation between the two directions.
 
 ### Does the strong-prior story explain preserved insight?
-- **Sides**: Schmid & Kriegleder 2024 (no, without reality monitoring) versus Corlett et al. 2019 (hierarchies of inference can reconcile it).
+- **Sides**: Schmid & Kriegleder 2024 (no, without reality monitoring) versus the strong-prior camp. Corrected 2026-10-19: Corlett et al. 2019 do not address insight; their hierarchies-of-inference reconciliation concerns strong priors in hallucination against weak priors in psychosis, and they list CBS among their open questions.
 - **Current state**: open. This is the one debate where the Map has something modest to add: insight is a *phenomenal* fact (the experience presents as unreal while remaining vivid) that any computational account must describe rather than derive — the same structural point the Map's `predictive-processing-and-dualism` makes about the generative model generally.
 
 ### Filter theory and release
@@ -245,7 +245,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for the nam
 18. Santhouse, A. M., Howard, R. J., & ffytche, D. H. (2000). Visual hallucinatory syndromes and the anatomy of the visual brain. *Brain*, 123(10), 2055–2064. https://doi.org/10.1093/brain/123.10.2055
 19. Schmid, F. R., & Kriegleder, M. F. (2024). Explanatory power by vagueness. Challenges to the strong prior hypothesis on hallucinations exemplified by the Charles-Bonnet-Syndrome. *Consciousness and Cognition*, 117, 103620. https://doi.org/10.1016/j.concog.2023.103620
 20. Schultz, G., & Melzack, R. (1991). The Charles Bonnet syndrome: 'phantom visual images'. *Perception*, 20(6), 809–825. https://doi.org/10.1068/p200809
-21. Subhi, Y., Nielsen, M. A., Scott, D. A. R., & Holm, L. M. (2022). Prevalence of Charles Bonnet syndrome in low vision: a systematic review and meta-analysis. *Annals of Eye Science*, 7, 12. https://doi.org/10.21037/aes-21-37
+21. Subhi, Y., Nielsen, M. A., Scott, D. A. R., Holm, L. M., & Singh, A. (2022). Prevalence of Charles Bonnet syndrome in low vision: a systematic review and meta-analysis. *Annals of Eye Science*, 7, 12. https://doi.org/10.21037/aes-21-37
 22. Teunisse, R. J., Cruysberg, J. R., Hoefnagels, W. H., Verbeek, A. L., & Zitman, F. G. (1996). Visual hallucinations in psychologically normal people: Charles Bonnet's syndrome. *The Lancet*, 347(9004), 794–797. https://doi.org/10.1016/S0140-6736(96)90869-7
 
 Metadata note: Crossref lists the Nature Neuroscience DOI as `10.1038/3738` (the form `10.1038/1774` returns 404 and must not be used). Crossref gives the Teunisse author order as Teunisse, Zitman, Cruysberg, Hoefnagels, Verbeek; Europe PMC gives Teunisse, Cruysberg, Hoefnagels, Verbeek, Zitman — the printed article's byline should be checked before the order is cited in an article. Subhi et al. author initials were not verified beyond surnames.

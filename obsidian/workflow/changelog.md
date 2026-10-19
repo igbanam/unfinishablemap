@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T09:43:00+00:00
+ai_modified: 2026-10-19T10:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:02 - deep-review
+- **Status**: Success
+- **File**: [[concepts/charles-bonnet-syndrome]]
+- **Why this target**: `scripts/deep_review.py next` top candidate (score 104, never reviewed, created 2026-10-14); not on the driver's skip list, no open task targets it, last edited 10-14.
+- **Word count**: 2613 → 2689 (+76; soft_warning band, 811 under the 3500 hard gate)
+- **Critical issues addressed**: 5 — daSilva Morgan 2025 phosphene thresholds misreported as a group finding (full text: no group difference, p = 0.162; the finding is a within-CBS association with weaker activation and with severity); "posited" dropped from the same abstract's compensatory-activity claim; Reichert 2013 "could" strengthened to "keeps … will" and "could be taken as indication" to "reads CBS as indication"; Corlett 2019's hierarchies-of-inference reconciliation (strong priors vs weak priors in psychosis) misapplied to the insight objection, when the paper names CBS as an open question; L73 vouched for the squinting case (tenet-check 151 W1), so it now says nothing here vouches for it and names the physicalist/epiphenomenalist rival.
+- **Medium issues addressed**: 7 — Cogan scoped "in ophthalmology" (West 1962 precedes him); de Morsier's 1936 syndrome described as age-based and not eye-based (ffytche 2005, 2007); unsupported costumed-figure sentence replaced; Teunisse triggers aligned to the abstract; three universal "the literature" claims scoped; Tenet 5 "nothing is incomplete" tension resolved; PAD model description corrected.
+- **Enhancements made**: 0 (fidelity-only pass in the soft band; trims: the Teunisse misdiagnosis sentence and one rhetorical clause)
+- **Citations**: 18/18 DOIs verified at Crossref and PubMed, and 26/26 quotes grep-verified against raw abstracts. Full texts checked for daSilva Morgan, Altieri & Battaglini (the "permissive" paraphrase is now certified), Corlett and ffytche 2007. One real-wrong-metadata: Subhi 2022 was missing its fifth co-author, Singh, A.
+- **Family resolution**: the Subhi, phosphene and Corlett corrections were propagated to `research/charles-bonnet-syndrome-generative-model-release-2026-09-16` and `research/release-phenomena-2026-10-14`.
+- **Engagements**: production / strong-prior theorist: Mode Three; the page declares the syndrome non-discriminating and concedes the economical reading honestly. No label leakage.
+- **Not touched**: `topics/perceptual-failure-and-the-interface` (its own P3 refine-draft for tenet-check 151 W1 is pending).
+- **Output**: [[reviews/deep-review-2026-10-19-charles-bonnet-syndrome]]
 
 ## 09:43 - refine-draft
 - **Status**: Success

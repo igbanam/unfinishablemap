@@ -3,7 +3,7 @@ title: "Research Notes - Release Phenomena"
 created: 2026-10-14
 modified: 2026-10-14
 human_modified: null
-ai_modified: 2026-10-14T18:52:07+00:00
+ai_modified: 2026-10-19T10:00:51+00:00
 draft: false
 description: "Consolidation note defining the release-phenomena family (Charles Bonnet syndrome, tinnitus, phantom limb, musical hallucinosis, deprivation hallucination), testing each candidate member against stated criteria, and fixing the neuronal-versus-phenomenal compensation discipline for a concepts page."
 topics:
@@ -19,7 +19,7 @@ concepts:
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-10-14
 last_curated: null
 last_deep_review: null
@@ -63,7 +63,7 @@ Partial penetrance is a family *trait* to be checked, not a criterion.
 
 | Candidate | C1 | C2 | C3 | C4 | C5 | Verdict | Penetrance after the loss |
 |---|---|---|---|---|---|---|---|
-| Charles Bonnet syndrome | Strict (eye or pathway) | Yes | Yes: content tracks ventral-stream specialisation (ffytche 1998; Santhouse 2000) | Yes; insight preserved (Teunisse 1996) | Yes: elevated SSVEPs (Painter 2018), lowered phosphene threshold and occipital slowing (daSilva Morgan 2025) | **Core member; the family's visual exemplar** | ~1 in 5 pooled (Subhi 2022); "up to 40% of ocular pathology patients" (Painter 2018, raw) |
+| Charles Bonnet syndrome | Strict (eye or pathway) | Yes | Yes: content tracks ventral-stream specialisation (ffytche 1998; Santhouse 2000) | Yes; insight preserved (Teunisse 1996) | Yes: elevated SSVEPs (Painter 2018), occipital slowing, and lower phosphene thresholds tracking weaker activation within CBS though not differing between groups (daSilva Morgan 2025) | **Core member; the family's visual exemplar** | ~1 in 5 pooled (Subhi 2022); "up to 40% of ocular pathology patients" (Painter 2018, raw) |
 | Tinnitus | Strict (cochlea or projection pathways: Eggermont & Roberts 2004, raw) | Yes: "phantom sound" | Yes, in the simple-content form: the sound "covers the frequency spectrum" of the hearing-loss region (Roberts 2010, raw) | Yes; no hearing is restored | Yes: "downregulation of intracortical inhibition" (2004, raw); "increased spontaneous firing rates and synchrony" (2016, raw) | **Core member; the simple-content auditory exemplar** | Partial: "many older individuals with impaired hearing do not have tinnitus" (Roberts 2010, raw); hearing impairment OR 3.20 in a cohort with 10.6% prevalence (Nondahl 2011, raw) |
 | Musical hallucinosis in acquired deafness | Strict (deafness) | Yes: music | Yes: "spontaneous activity within a cognitive module for the analysis of temporal pattern in segmented sound"; no effect in primary auditory cortex (Griffiths 2000, raw) | Yes; no psychosis or epilepsy | Spontaneous activity in a learned network; disinhibition presumed, not measured in the abstract | **Core member; the complex-content auditory twin of CBS** — the Map has zero live coverage | Not in the abstract (six cases described) |
 | Phantom limb (sensation) | Strict: amputation, "sensory roots … destroyed", cord transection (Melzack 1990, raw) | Yes | Yes, with a twist: the content is the body representation itself, which congenital phantoms show to be innately scaffolded ("genetically determined substrate that is modified by sensory experience", Melzack 1990, raw) | Yes in the relevant sense: nothing of the periphery is reported; impossible postures and telescoping show the content diverging from any limb | **Strained.** The Flor-era maladaptive-remapping story fits C5; the Makin-era persistent-representation story (`topics/phantom-limb-phenomena` L63) explains the phantom by a map that is *not* updated, which is persistence rather than disinhibition | **Member on C1–C4; the family's mechanism claim is contested here** | High: 60–80% (Ramachandran & Hirstein 1998; Flor 2006, per the Map's page); congenital ~20–33% (Melzack 1997, per the Map's page, contested) |
@@ -71,7 +71,7 @@ Partial penetrance is a family *trait* to be checked, not a criterion.
 | Deprivation hallucination in sighted subjects | Weak (blindfold; pathway intact; reversible) | Yes: simple and complex | Yes: "faces, landscapes, ornate objects" (Merabet 2004, raw) | Yes: "insightful as to their unreal nature" (raw) | Presumed rapid disinhibition (onset "after the first day"); not structural plasticity | **Member in the weak form; the bridge between CBS and hypnagogia.** Schultz & Melzack's "sensory deprivation framework" (1991, raw) is exactly this reading | 77% within 96 hours (10 of 13, raw) |
 | Hypnagogic imagery | **Fails strict C1**: no deafferentation; input withdrawn by sleep-onset gating and attentional release | Yes | Yes: recent learned content (Stickgold 2000 Tetris, per the Map's page) | Yes; reality monitoring goes last | Disinhibition is the production rival's reading; the Map's page concedes the data cannot adjudicate (L130–132) | **Release-shaped relative, not a deafferentation member.** The article should say so and stop the five host pages counting it as one | Near-universal at sleep onset; not a penetrance case |
 | Eigengrau | **Fails C1**: dark-adapted intact retina, no loss | Marginal: uniform grey | **Fails C3**: no learned content | — | **Fails C5**: retinal "dark light", spontaneous photopigment noise (Barlow 1956; paraphrase, metadata only) | **Not a member.** `perceptual-failure-and-the-interface` L96 groups it with CBS as "experience at zero input"; that is true but it is baseline noise, not release | — |
-| Phosphenes | **Fails C1**: produced by stimulation (pressure, current, TMS), not deprivation | Yes | Fails C3 | — | — | **Not a member**, though lowered phosphene *threshold* is a marker of CBS hyperexcitability (daSilva Morgan 2025) — a diagnostic of release, not an instance | — |
+| Phosphenes | **Fails C1**: produced by stimulation (pressure, current, TMS), not deprivation | Yes | Fails C3 | — | — | **Not a member**, though phosphene *threshold* tracks hyperexcitability within CBS, without a group difference (daSilva Morgan 2025) — a diagnostic of release, not an instance | — |
 | Anton's syndrome | Cortical loss: the generator is destroyed | **Fails C2 as established**: whether any visual content occurs is the open reading A/B at `topics/anton-syndrome-and-the-sincere-report-of-seeing` L46, L62 | — | — | — | **Contrast case.** Release needs an intact generator and a lost input; Anton has a lost generator. The pairing teaches that release is a *peripheral-loss* phenomenon | — |
 
 Members that pass: CBS, tinnitus, musical hallucinosis, phantom limb and phantom pain (with the C5 caveat), deprivation hallucination (weak form). Relatives: hypnagogic imagery. Non-members: eigengrau, phosphenes. Contrast: Anton's syndrome.
@@ -164,7 +164,7 @@ Key: (surname, year). Verification status: **raw** = quotation grep-verified in 
 16. Santhouse, A. M., Howard, R. J., & ffytche, D. H. (2000). Visual hallucinatory syndromes and the anatomy of the visual brain. *Brain*, 123(10), 2055–2064. https://doi.org/10.1093/brain/123.10.2055 — carried.
 17. Schultz, G., & Melzack, R. (1991). The Charles Bonnet syndrome: 'phantom visual images'. *Perception*, 20(6), 809–825. https://doi.org/10.1068/p200809 — raw (OpenAlex abstract).
 18. Shore, S. E., Roberts, L. E., & Langguth, B. (2016). Maladaptive plasticity in tinnitus — triggers, mechanisms and treatment. *Nature Reviews Neurology*, 12(3), 150–160. https://doi.org/10.1038/nrneurol.2016.12 — raw (PMID 26868680); Crossref metadata re-confirmed.
-19. Subhi, Y., Nielsen, M. A., Scott, D. A. R., & Holm, L. M. (2022). Prevalence of Charles Bonnet syndrome in low vision: a systematic review and meta-analysis. *Annals of Eye Science*, 7, 12. https://doi.org/10.21037/aes-21-37 — carried.
+19. Subhi, Y., Nielsen, M. A., Scott, D. A. R., Holm, L. M., & Singh, A. (2022). Prevalence of Charles Bonnet syndrome in low vision: a systematic review and meta-analysis. *Annals of Eye Science*, 7, 12. https://doi.org/10.21037/aes-21-37 — carried.
 20. Teunisse, R. J., Cruysberg, J. R., Hoefnagels, W. H., Verbeek, A. L., & Zitman, F. G. (1996). Visual hallucinations in psychologically normal people: Charles Bonnet's syndrome. *The Lancet*, 347(9004), 794–797. https://doi.org/10.1016/S0140-6736(96)90869-7 — carried.
 
 Figures cited only from Map pages, not re-verified here: phantom sensation 60–80% and phantom pain "a similar proportion" (`topics/phantom-limb-phenomena` L43, citing Ramachandran & Hirstein 1998 and Flor 2006 — the Flor 2006 abstract fetched this pass carries no figure, so the number rests on the Ramachandran & Hirstein text as verified in the 2026-05-08 note); congenital phantom base rates 20–33% (same page L77, flagged contested there).

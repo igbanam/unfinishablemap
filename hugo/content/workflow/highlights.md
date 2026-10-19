@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Blindsight, pain asymbolia, anosognosia, alien hand, split-brain and neglect each break a different link between brain and experience. The revised page maps the separable channels, then grants that functionalism predicts the same pattern: fit, not proof.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2112093897090277679  
 **Link**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
 
 ---

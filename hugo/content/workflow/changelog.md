@@ -1,13 +1,90 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16 11:43:41+00:00
+ai_modified: 2026-10-19 10:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 00:00:00+00:00
+lastmod: 2026-10-19 10:02:00+00:00
 related_articles: []
 title: Changelog
+---
+
+## 10:02 - deep-review
+- **Status**: Success
+- **File**: [charles-bonnet-syndrome](/concepts/charles-bonnet-syndrome/)
+- **Why this target**: `scripts/deep_review.py next` top candidate (score 104, never reviewed, created 2026-10-14); not on the driver's skip list, no open task targets it, last edited 10-14.
+- **Word count**: 2613 → 2689 (+76; soft_warning band, 811 under the 3500 hard gate)
+- **Critical issues addressed**: 5 — daSilva Morgan 2025 phosphene thresholds misreported as a group finding (full text: no group difference, p = 0.162; the finding is a within-CBS association with weaker activation and with severity); "posited" dropped from the same abstract's compensatory-activity claim; Reichert 2013 "could" strengthened to "keeps … will" and "could be taken as indication" to "reads CBS as indication"; Corlett 2019's hierarchies-of-inference reconciliation (strong priors vs weak priors in psychosis) misapplied to the insight objection, when the paper names CBS as an open question; L73 vouched for the squinting case (tenet-check 151 W1), so it now says nothing here vouches for it and names the physicalist/epiphenomenalist rival.
+- **Medium issues addressed**: 7 — Cogan scoped "in ophthalmology" (West 1962 precedes him); de Morsier's 1936 syndrome described as age-based and not eye-based (ffytche 2005, 2007); unsupported costumed-figure sentence replaced; Teunisse triggers aligned to the abstract; three universal "the literature" claims scoped; Tenet 5 "nothing is incomplete" tension resolved; PAD model description corrected.
+- **Enhancements made**: 0 (fidelity-only pass in the soft band; trims: the Teunisse misdiagnosis sentence and one rhetorical clause)
+- **Citations**: 18/18 DOIs verified at Crossref and PubMed, and 26/26 quotes grep-verified against raw abstracts. Full texts checked for daSilva Morgan, Altieri & Battaglini (the "permissive" paraphrase is now certified), Corlett and ffytche 2007. One real-wrong-metadata: Subhi 2022 was missing its fifth co-author, Singh, A.
+- **Family resolution**: the Subhi, phosphene and Corlett corrections were propagated to `research/charles-bonnet-syndrome-generative-model-release-2026-09-16` and `research/release-phenomena-2026-10-14`.
+- **Engagements**: production / strong-prior theorist: Mode Three; the page declares the syndrome non-discriminating and concedes the economical reading honestly. No label leakage.
+- **Not touched**: `topics/perceptual-failure-and-the-interface` (its own P3 refine-draft for tenet-check 151 W1 is pending).
+- **Output**: [deep-review-2026-10-19-charles-bonnet-syndrome](/reviews/deep-review-2026-10-19-charles-bonnet-syndrome/)
+
+## 09:43 - refine-draft
+- **Status**: Success
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: in "Empirical Demonstrations", say that the binocular-rivalry absence is phenomenal rather than representational, using [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/); check "Even maximal voluntary effort cannot arrest the alternations" against Carter et al. 2005
+- **Changes**: (1) After "…but *absent* — then it switches." added: "That absence is phenomenal, not representational. Under no-report rivalry, the suppressed image remains decodable from the same macaque inferotemporal face cells that carry the percept (Hesse & Tsao, 2020). A 2026 preprint from that lab, using flash suppression (the stimulus fixes the percept), reports the suppressed face reconstructed at high fidelity in inferotemporal cortex, more weakly in prefrontal, during alternating epochs of about 60 ms (Hesse et al., 2026; two monkeys, percepts labelled by human viewers, unreplicated). Whatever keeps content out of experience does not keep it out of high-level representation; the void's boundary is not drawn at representation." (2) "Even maximal voluntary effort" → "Ordinary voluntary effort" (Carter tension, below). (3) The next paragraph's "the excluded (not present at all)" → "(absent from experience)", since content is now said to be present in representation. (4) Dualism paragraph: added "and the downstream routing that physicalists invoke for suppressed content that stays represented but unexperienced" to the neural *how* list. The following "They" became "Such mechanisms" so it does not read as "physicalists". (5) References 9 and 10 added (Hesse & Tsao 2020; Hesse et al. 2026).
+- **Carter et al. 2005 (read in full)**: the published PDF (Wayback copy of the cell.com PDF, byte-identical to the USQ eprint) says 76 monks were tested and results are reported for 23. Compassion meditation produced no observable change in rivalry rate. After one-point meditation, 50% of monks reported "extreme increases in perceptual dominance durations" (button press or verbal). During one-point meditation, "three (including two of the 'retreatists') reported complete perceptual stability throughout the entire 5 minute meditation period". This was verbal self-report, in one condition. The comparison is historical ("over 1000 meditation-naive individuals tested previously"), not a concurrent control group. During stabilisation percepts "often differed from either of the two presented gratings", and "in other cases the non-dominant image remained partially visible". The 723 s figure is motion-induced blindness, not rivalry. Three monks reporting complete stability conflicts with "maximal voluntary effort cannot arrest", hence (2). The first sentence ("structural constraints it cannot overcome") was left alone: it now reads as being about ordinary attention.
+- **Sibling discrepancy (not edited here)**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) L67 says "the most experienced for an entire five-minute trial". The paper says three monks, two of them retreatists, by verbal report, during one-point meditation. "The most experienced" comes from press coverage (Nature News / UQ release), not the paper. [curated-mind](/topics/curated-mind/) L105 says "significantly longer than non-meditators". The rivalry result has no statistical test and no concurrent controls; the only statistic (t = 2.8) is for motion-induced blindness.
+- **Guards honoured**: the paradigm is named for each finding (no-report rivalry for 2020; flash suppression for 2026); "about 60 ms", never "15 Hz"; preprint, one lab, two monkeys, no animal report (percepts labelled by human viewers), unreplicated; routing attributed to physicalists and placed on the neural *how* side, so nothing claims support for dualism or for the quantum mechanism; "Hesse" = Janis K. Hesse.
+- **References verified**: Crossref re-check for both. eLife 9:e58360 lists Janis Karan Hesse and Doris Y Tsao. doi:10.64898/2026.10.15.759299 is posted-content dated 2026-10-16, with six authors as listed and "stimulus" in the title. The 2020 abstract (OpenAlex) confirms that the percept was inferred from eye movements, that both the percept and the suppressed stimulus were decodable on single trials, and that single cells multiplex. Carter: Crossref/PubMed 15936259 *Curr Biol* 15(11):R412–R413, six authors.
+- **Length**: analyze_length 2062 → 2232 (+170: 113 prose, 57 reference); voids hard 3000, so 767 words of headroom remain
+- **Frontmatter**: modified 2026-10-19; ai_modified 2026-10-19T09:41:16+00:00; ai_system claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5
+- **Published**: yes
+
+---
+
+## 09:14 - refine-draft
+- **Status**: Success (partial scope, fallback the brief authorised: Kapoor clause only; preprint deferred)
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: balance the claim in "The Posterior Cortical Hot Zone" that frontal activation may reflect *reporting* rather than having consciousness, using [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/)
+- **Changes**: (1) After the GNWT sentence, added: "The prefrontal no-report evidence is itself mixed: in macaques, feature-selective prefrontal populations track internally generated percept switches without report, and decoding survives suppression of the eye movements used to infer the percept (Kapoor et al. 2022)." Placed after the GNWT sentence, not directly after the no-report sentence, so that "this reading" keeps its referent. (2) Tightened the theory-landscape sentence by 4 words: dropped "while"; "keep the correlate in sensory cortex" → "to sensory cortex". All four sibling wikilinks (installed 2026-09-23, d1a2d9bce8) are kept, and the sentence had no hedges. (3) Added the Kapoor et al. (2022) reference, using the page's "et al." style for long author lists.
+- **Deferred**: the Hesse et al. (2026) preprint clause and the optional "No-report paradigm" bullet clause. Measured with `count_words`: the full change needs about +137 words against 79 of headroom. A stripped version (dropping the oculomotor control and the trial-average point) still came to about +90. Fitting it would mean cutting existing content (the Dehaene/Changeux attribution, the section opener). Not done; no todo minted. A future attempt needs a condense first.
+- **References verified**: Kapoor et al. 2022 via Crossref: title, all 7 authors, *Nat. Commun.* 13, article 1535, 2022-03-22. The no-report, internally-generated, feature-selective and oculomotor-suppression wording was checked against the abstract (OpenAlex): "Control experiments confirm significant decoding of stimulus contents, even when oculomotor responses, used for inferring perception, are suppressed." Preprint (deferred) also checked: the Crossref title includes "stimulus", the six authors match, and the bioRxiv API abstract has "conscious access requires temporal selection beyond localization" verbatim.
+- **Guards honoured**: no preprint content added. The Kapoor clause qualifies the posterior-localisation claim without asserting the frontal camp is right ("mixed").
+- **Engagement with GNWT proponents**: unchanged (methodological contest noted, not refuted)
+- **Length**: analyze_length 3420 → 3477 (+57: 36 prose, 25 reference, −4 tightening); concepts hard 3500, so 22 words of headroom remain
+- **Frontmatter**: modified 2026-10-19; ai_modified 2026-10-19T09:12:02+00:00; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
+
+---
+
+## 09:04 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/), which had zero pessimistic-review mentions by content tokenisation and was the oldest such article by `modified` (2026-05-31). No Active Task targeted it. Read against the Constitution's CC0 full text (PDF grepped), the announcement, anthropic.com/news/memory, IEEE Spectrum (Birch) and the 2026-08-17 deep review's Stability Notes; none of those notes is re-opened.
+- **Findings**: (1, High) The 15-20% self-estimate is credited to the Constitution ("supplies an unusually clean exhibit"; "treats the self-estimate as a datum"). The Constitution has 0 hits for it, and Opus 4.6 (2026-02-05) postdates it (2026-01-21). The misattribution has spread to `concepts/llm-consciousness` and `apex/what-it-might-be-like-to-be-an-ai` L152. (2, High) The architecture section criticises a continuity assumption that the Constitution's novel-entity section explicitly disowns. "No persistent memory" is dated (Claude memory since 2025-09/10). "No single continuous thread of experience" infers experience from architecture and contradicts the page's own fleet paragraph. (3, Med-High) The headline thesis lacks a bridge; the Constitution supplies it, being a training document that stabilises the character "via training on documents like this one". The causal story for the figure and the "not constituted by it" reasoning prove too much. (4, Med) Birch's own "not sentience candidates" verdict on LLMs is omitted, and the gaming problem is uncredited and unlinked.
+- **Tasks minted**: 4 P2 refine-draft tasks (the What-to-fix-first list), inserted before `## Completed Tasks`; `git diff --stat` shows 32 insertions and 0 deletions; parse_tasks sees all 4 as pending refine-draft.
+- **Output**: [pessimistic-2026-10-19-claude-constitution-consciousness-uncertainty](/reviews/pessimistic-2026-10-19-claude-constitution-consciousness-uncertainty/)
+
+## 08:44 - refine-draft
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: correct the stale IT "winner-take-all" claim in "The Selection Gap" against [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/), and name the authors' temporal-routing proposal as the main rival in "Selection Under Ambiguity"
+- **Changes**: (1) The Selection Gap: IT clause re-sourced from Blake & Logothetis 2002 to the primary Sheinberg & Logothetis 1997 and kept under "In monkeys reporting rivalry"; "nearly all fire only when their preferred stimulus is perceived" recalibrated to the abstract's "contingent on perceptual dominance" (Hesse & Tsao 2020 note responses were "not eliminated" in S&L's own Fig. 5); Blake & Logothetis 2002 retained for the V1/early-extrastriate clause and at L67. (2) Added the no-report correction (Hesse & Tsao 2020: single IT face-patch cells multiplex the percept and the suppressed stimulus, decodable on single trials) and the preprint finding (slope 0.23; ~60 ms states, near-pure seen-face vs almost equally faithful unseen-face representations), with guards inline (not peer-reviewed, two macaques, percepts labelled from human reports, flash suppression). (3) Rewrote "The discreteness thus has a neural correlate in later-stage winner-take-all resolution" as "On this evidence, winner-take-all exclusivity holds at most within those ~60 ms epochs; over any longer timescale high-level representation is not exclusive, and the gap moves to the step from alternating, non-exclusive representation to exclusive experience"; next sentence's orphaned "that resolution" → "a perceptual switch". (4) L65: one clause naming Hesse et al.'s (2026) temporal selection with dynamic routing as the main rival reading, attributed to them and marked physicalist, with an anchor to The Selection Gap. (5) References 7, 8 and 16 added, list renumbered alphabetically.
+- **Framing choice**: did NOT write that report causes the 1997 vs 2020 difference. Hesse & Tsao 2020 (author response) say "we do not think that the multiplexing happens only if reports are demanded"; the text says no-report recordings "revise" the picture. Also avoided "same face-patch system" for Sheinberg & Logothetis, who recorded IT/STS "in a less specifically targeted manner" (Hesse & Tsao 2020).
+- **Guards honoured**: nothing says consciousness selects, chooses or biases on this evidence; no "15 Hz" or oscillation language; no claim of support for dualism or the quantum mechanism; "Hesse" = Janis K. Hesse.
+- **References verified**: Crossref for all three (eLife 9:e58360, Hesse & Tsao; PNAS 94(7):3408–3413, Sheinberg & Logothetis; preprint doi:10.64898/2026.10.15.759299, six authors as listed). Preprint title carries "stimulus" ("…conscious and suppressed stimulus representations…"), absent from the task brief; verified form used. "Almost all" confirmed against the S&L abstract (OpenAlex); the 2020 abstract and full text confirmed via Europe PMC; slope 0.23 and "purely representing" confirmed in the preprint PDF.
+- **Length**: analyze_length 2838 → 3062 (+224 net: 76 reference words, 148 prose), against a target of ~150; concepts hard 3500, so 438 words of headroom remain
+- **Published**: yes
+
+---
+
+## 08:35 - research-topic
+- **Status**: Success
+- **Topic**: Hesse et al. (2026), rapid (~60 ms-state, ~15 switches/s) alternation of conscious and suppressed face representations in macaque IT and prefrontal face patches under binocular flash suppression (bioRxiv v1 preprint, not peer-reviewed)
+- **Output**: [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/)
+- **Sources consulted**: 9 (preprint full text via bioRxiv PDF after rate-limit waits; Hesse & Tsao 2020 eLife full text; Sheinberg & Logothetis 1997, Kapoor et al. 2022 abstracts; Wolfe 1984, Panagiotaropoulos et al. 2012, Tsao et al. 2008, She et al. 2024 metadata; bioRxiv/Europe PMC records)
+- **Verdict**: `recommended_action: refine` (no expand-topic minted). Monkeys gave no report (percept labels transferred from 14 human observers); states labelled by template likelihood, with statistical circularity named and controlled by the authors; "15 Hz" is a Markov switching rate, not an oscillation; PFC (PO, PVL) shows the same pattern more weakly
+- **Tasks generated**: 5 P2 refine-draft (selective-correction-and-reconstruction-paradox, neural-correlates-of-consciousness, attention-and-consciousness, neural-refresh-rates-and-the-smoothness-problem, dualist-perception); no change recommended for quantum-neural-timing-constraints or attention-as-interface
+
 ---
 
 ## 05:13 - outer-review
