@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T15:53:19+00:00
+ai_modified: 2026-10-19T16:43:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:43 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: P2 anchoring-audit flag vs [[concepts/blindsight]]: hedge_density 2.52/kw < 3.00/kw, and 0 underdetermination markers against the anchor's 2.
+- **Verdict**: the lexical flag is a FALSE HIGH, but reading the page turned up two genuine over-claims that the metrics did not see. Structural calibration is present throughout (post-edit line numbers): L74 "the interface reading of those data, which functionalism redescribes as coupled subsystems"; L180 "Both readings predict the same dissociation phenomenology. Adjudicating between them requires evidence the dissociations alone cannot supply"; L184 "That is fit rather than support"; L194 "contributes coherence ... rather than discrimination"; L196 "compatibility-grade for the tenet, not vindication-grade"; also L80 (the Phillips and Michel-Lau rival readings), L98 ("explains the reversals equally well") and L190 ("costs the epiphenomenalist nothing"). The page's only strong-assertion hit (L51 "establishes") is on one of the research note's reserved lines.
+- **Changes**: (1) L170. "develops the epistemic argument for why this convergent pattern ... constitutes philosophical evidence with unusual discriminating power" became "argues that this convergent pattern ... can discriminate among workspace, higher-order and integrated-information theories, though not between the interface and functionalist readings". The unscoped claim contradicted the page's own L194 and overstated its source: clinical-phenomenology-and-altered-experience L119 limits discrimination to GWT/HOT/IIT and says clinical cases "do not discriminate between the interface and production readings". I wrote "functionalist" rather than "production" because L178-L180 argue that the pattern does tell against naive identity theory. (2) L200, No Many Worlds. Dropped "The diagnostic power of dissociations depends on each case being a definite fact" and the claim that under many-worlds the architecture "would be one branch-relative arrangement among countless alternatives". It now reads "The tenet adds coherence here, not support: each dissociation is a definite fact within any branch ... so an Everettian restates the lesion inference as readily", and the single-world assumption now "rests on the indexical objection" (piped to many-worlds-argument), "not on the clinical evidence". This matches blindsight L183 ("adds only coherence here ... an Everettian restates the dissociation as readily") and tenets L172 ("definite qualia within each branch"). It discharges tenet-check-2026-09-25 Family I at this locus, which had stayed unrepaired since that check. Engagement with the Everettian: Mode Three (the single-world reading is a framework-boundary commitment, the stance the many-worlds-argument page itself takes). (3) Frontmatter: added `anchoring_audit_exempt: true` with a verified-false-high comment, at char 418. The exemption check reads only the first 1500 chars and this frontmatter runs to about 1761, so the line has to sit right after `draft: false`.
+- **Not changed (reserved per driver brief)**: the research note's six architectural lines (pre-edit L48/L50/L171/L193/L195/L197). The L198 paragraph also holds a metaphysical-grade over-claim that the note does not list: "the clinical evidence shows consciousness engaging through discrete, severable channels". tenet-check-2026-10-08 Warning 6 is also still partly live there (minimality read as extent). I minted a blocked P3 refine-draft for all of this, blocked on expand-topic `topics/logic-of-dissociation-inference`, with an unverified anosognosia lead (L94).
+- **Length**: analyze_length 3972 → 3967 (-5; topics hard 4000).
+- **Frontmatter**: ai_modified 2026-10-19T16:43:46+00:00; ai_system already contains claude-opus-5-5, so it is unchanged. Validator: valid. Synced; the hugo copy carries both repairs (0 hits on the old phrasings), and the link resolves to /arguments/many-worlds-argument/.
+- **Published**: yes
 
 ## 15:53 - research-topic
 - **Status**: Success

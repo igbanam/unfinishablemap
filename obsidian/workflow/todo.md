@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt blindsight calibration in neurological-dissociations-as-interface-architecture
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
-- **Notes**: From topic-concept anchoring audit 2026-10-19. The topic article over-claims relative to its anchor concept [[blindsight]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.52/kw is below 3.00/kw (target = 60% of anchor 5.46/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-19
-
-
 ### P2: Write `topics/logic-of-dissociation-inference` — The Logic of Dissociation Inference
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/logic-of-dissociation-inference-2026-10-19.md
@@ -2566,8 +2554,26 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: PASSAGE: the bullet "**Self-knowledge is unreliable.** The [[concepts/epiphenomenalism#The Self-Stultification Problem|self-stultification problem]] suggests that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best." (L158 on 2026-10-19; it is the only live occurrence of "accidentally connected" in topics/concepts/apex/voids). DEFECT: this is the luck framing the self-stultification hub (concepts/self-stultification) retired on 2026-10-16, and tenets L101 and topics/acquaintance-without-causation contradict it: on the Map's acquaintance epistemology, knowledge of present experience does not depend on causal traffic, so the argument survives only for the use and voice of experience (inference, memory, report). FIX: one substitution, near length-neutral, aligning the bullet with the hub and the new article, e.g. "...our reports and the inferences we draw from our experiences would not be explained by them" (link the new article on existing words if it fits: [[acquaintance-without-causation|...]]). Keep the bullet's role in the list. Do not present self-stultification as refuting epiphenomenalism. Length: 3444/4000 (topics hard threshold). Sibling P3 on concepts/consciousness L117 (same luck framing) is a separate task; do not do it here.
 
+### P3: Calibrate the architectural-inference lines of neurological-dissociations-as-interface-architecture against `topics/logic-of-dissociation-inference`, and retire the L198 "evidence shows consciousness engaging" sentence
+- **Type**: refine-draft
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Status**: blocked
+- **Blocked-by**: expand-topic `topics/logic-of-dissociation-inference` (P2, minted 2026-10-19) must exist first. UNBLOCK by setting Status pending once that article is live; promote to P2 then.
+- **Source**: refine-draft 2026-10-19 (anchoring-audit verification vs concepts/blindsight); research note `research/logic-of-dissociation-inference-2026-10-19.md` L97-L104, L364, L412; tenet-check-2026-10-08 Warning 6
+- **Generated**: 2026-10-19
+- **Headroom**: 3967/4000 body words by analyze_length at mint; the gate fires at >=4000, so the body must stay <=3999 (32 words). Re-measure first; replace, do not add.
+- **Notes**: HEADROOM 3967/4000 (32 words; replace, do not add; report analyze_length before/after). (1) The six architectural claims the research note lists at its L99-L104 (cited there as L48/L50/L171/L193/L195/L197; they are L49/L51/L172/L194/L196/L198 after the 2026-10-19 frontmatter exemption line): "reveals which components are separable—and therefore which are architecturally distinct"; "The selectivity establishes that whatever connects mind to brain is articulated"; "the channel *architecture* is earned robustly"; "the clinical evidence settles that the capacities involved are functionally differentiated"; "(the double dissociations establish this)"; "finite, enumerable, and individually disableable". Bring them to the tier the new article argues for, length-neutrally, and point at it by piped wikilink where possible (the note's L412 suggests L61 "the specific way it breaks reveals its internal structure"). (2) A METAPHYSICAL-grade defect in the same L198 paragraph that the research note does NOT list, because it is not a modularity issue: "A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels." It states the interface reading as what the evidence shows, against the same page's L196 ("compatibility-grade for the tenet, not vindication-grade") and blindsight's grade. It also carries tenet-check-2026-10-08 Warning 6, only partly repaired: tenets L69 fixes minimality by the Rules-out clause (no energy injection, no Born-statistics or conservation violation), not by bandwidth or extent. The 2026-10-16 refine added "though throughput is not interface bandwidth" but kept "is consistent with minimal interaction" and the maximal-interaction sentence. (3) LEAD, unverified: L94 anosognosia "This is not denial in the psychological sense—it is a failure of the brain's self-model..." is flat, while motivational accounts are live (Turnbull, Fotopoulou and Solms 2014, Cortex, "Anosognosia as motivated unawareness": verify at the publisher before citing). It is also the banned "This is not X—it is Y" construct. DO NOT re-raise L170 ("can discriminate among workspace, higher-order and integrated-information theories") or L200 (No Many Worlds "adds coherence here, not support"); both were repaired 2026-10-19. The page is anchoring_audit_exempt (a verified false-high), so never add hedge tokens to satisfy that metric.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Adopt blindsight calibration in neurological-dissociations-as-interface-architecture
+- **Type**: refine-draft
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: From topic-concept anchoring audit 2026-10-19. The topic article over-claims relative to its anchor concept [[blindsight]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.52/kw is below 3.00/kw (target = 60% of anchor 5.46/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-10-19: Research The Logic of Dissociation Inference: What Lesion Dissociations License About Architecture
 - **Type**: research-topic
