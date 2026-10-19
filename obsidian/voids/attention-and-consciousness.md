@@ -2,9 +2,9 @@
 title: "Attention and the Voids of Consciousness"
 description: "Attending generates unattendable territory as a structural necessity. Disordered attention creates epistemological voids that may be permanently unmappable."
 created: 2026-01-29
-modified: 2026-04-23
+modified: 2026-10-19
 human_modified: null
-ai_modified: 2026-06-01T03:21:20+00:00
+ai_modified: 2026-10-19T09:41:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[responsibility-gradient-from-attentional-capacity]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-03-30
 last_curated: null
 last_deep_review: 2026-07-07T06:53:21+00:00
@@ -64,9 +64,9 @@ Marginal awareness is vague, relational, connective — it provides the sense th
 
 **Inattentional blindness** shows that attention does not select from what is already consciously present — it determines what *becomes* consciously present. In the invisible gorilla experiment (Simons & Chabris, 1999), subjects focused on a counting task do not experience a gorilla-shaped gap in perception. The gorilla is genuinely absent from experience — never entering awareness at all.
 
-**Binocular rivalry** reveals a limit where attention meets structural constraints it cannot overcome. When different images are presented to each eye, perception alternates. Even maximal voluntary effort cannot arrest the alternations. The suppressed percept is not dim or peripheral but *absent* — then it switches.
+**Binocular rivalry** reveals a limit where attention meets structural constraints it cannot overcome. When different images are presented to each eye, perception alternates. Ordinary voluntary effort cannot arrest the alternations. The suppressed percept is not dim or peripheral but *absent* — then it switches. That absence is phenomenal, not representational. Under no-report rivalry, the suppressed image remains decodable from the same macaque inferotemporal face cells that carry the percept (Hesse & Tsao, 2020). A 2026 preprint from that lab, using flash suppression (the stimulus fixes the percept), reports the suppressed face reconstructed at high fidelity in inferotemporal cortex, more weakly in prefrontal, during alternating epochs of about 60 ms (Hesse et al., 2026; two monkeys, percepts labelled by human viewers, unreplicated). Whatever keeps content out of experience does not keep it out of high-level representation; the void's boundary is not drawn at representation.
 
-These phenomena reveal multiple levels of attention-created void: the marginalised (present but not focal) and the excluded (not present at all).
+These phenomena reveal multiple levels of attention-created void: the marginalised (present but not focal) and the excluded (absent from experience).
 
 ## The Phenomenology of Attention Voids
 
@@ -120,7 +120,7 @@ On the Map's [[medium-status-voids-in-cognition|medium-status voids cluster]], a
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** receives support from both directions. Neural mechanisms explain *how* attention creates voids — lateral inhibition, biased competition, executive gating. They do not explain *why* there is something it is like to have content excluded from awareness. The suppressive dark has phenomenal character. And the disorder-based void is itself a *consequence* of dualism: precisely because consciousness is distinct from its interface, the question of how to access consciousness through a faulty interface becomes pressing. A materialist who identifies consciousness with attention faces no such question — and thereby misses the epistemological depth.
+**[[tenets#^dualism|Dualism]]** receives support from both directions. Neural mechanisms explain *how* attention creates voids — lateral inhibition, biased competition, executive gating, and the downstream routing that physicalists invoke for suppressed content that stays represented but unexperienced. Such mechanisms do not explain *why* there is something it is like to have content excluded from awareness. The suppressive dark has phenomenal character. And the disorder-based void is itself a *consequence* of dualism: precisely because consciousness is distinct from its interface, the question of how to access consciousness through a faulty interface becomes pressing. A materialist who identifies consciousness with attention faces no such question — and thereby misses the epistemological depth.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains support from voluntary attention. We *choose* what to attend to (at least partially). This choice produces the void — consciousness directing physical processing toward some targets necessarily directs it away from others. Every attention void is evidence of mental causation. When attention is disordered, the range and reliability of conscious action are restricted without being eliminated — though we cannot determine how *much* restriction any given disorder imposes.
 
@@ -161,3 +161,5 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
 7. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
 8. Husain, M. & Rorden, C. (2003). "Non-spatially lateralized mechanisms in hemispatial neglect." *Nature Reviews Neuroscience*, 4(1), 26-36.
+9. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
+10. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.

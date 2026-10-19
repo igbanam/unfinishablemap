@@ -1,8 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T09:14:00+00:00
+ai_modified: 2026-10-19T09:43:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 09:43 - refine-draft
+- **Status**: Success
+- **File**: [[voids/attention-and-consciousness]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: in "Empirical Demonstrations", say that the binocular-rivalry absence is phenomenal rather than representational, using [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]]; check "Even maximal voluntary effort cannot arrest the alternations" against Carter et al. 2005
+- **Changes**: (1) After "…but *absent* — then it switches." added: "That absence is phenomenal, not representational. Under no-report rivalry, the suppressed image remains decodable from the same macaque inferotemporal face cells that carry the percept (Hesse & Tsao, 2020). A 2026 preprint from that lab, using flash suppression (the stimulus fixes the percept), reports the suppressed face reconstructed at high fidelity in inferotemporal cortex, more weakly in prefrontal, during alternating epochs of about 60 ms (Hesse et al., 2026; two monkeys, percepts labelled by human viewers, unreplicated). Whatever keeps content out of experience does not keep it out of high-level representation; the void's boundary is not drawn at representation." (2) "Even maximal voluntary effort" → "Ordinary voluntary effort" (Carter tension, below). (3) The next paragraph's "the excluded (not present at all)" → "(absent from experience)", since content is now said to be present in representation. (4) Dualism paragraph: added "and the downstream routing that physicalists invoke for suppressed content that stays represented but unexperienced" to the neural *how* list. The following "They" became "Such mechanisms" so it does not read as "physicalists". (5) References 9 and 10 added (Hesse & Tsao 2020; Hesse et al. 2026).
+- **Carter et al. 2005 (read in full)**: the published PDF (Wayback copy of the cell.com PDF, byte-identical to the USQ eprint) says 76 monks were tested and results are reported for 23. Compassion meditation produced no observable change in rivalry rate. After one-point meditation, 50% of monks reported "extreme increases in perceptual dominance durations" (button press or verbal). During one-point meditation, "three (including two of the 'retreatists') reported complete perceptual stability throughout the entire 5 minute meditation period". This was verbal self-report, in one condition. The comparison is historical ("over 1000 meditation-naive individuals tested previously"), not a concurrent control group. During stabilisation percepts "often differed from either of the two presented gratings", and "in other cases the non-dominant image remained partially visible". The 723 s figure is motion-induced blindness, not rivalry. Three monks reporting complete stability conflicts with "maximal voluntary effort cannot arrest", hence (2). The first sentence ("structural constraints it cannot overcome") was left alone: it now reads as being about ordinary attention.
+- **Sibling discrepancy (not edited here)**: [[concepts/selective-correction-and-reconstruction-paradox]] L67 says "the most experienced for an entire five-minute trial". The paper says three monks, two of them retreatists, by verbal report, during one-point meditation. "The most experienced" comes from press coverage (Nature News / UQ release), not the paper. [[topics/curated-mind]] L105 says "significantly longer than non-meditators". The rivalry result has no statistical test and no concurrent controls; the only statistic (t = 2.8) is for motion-induced blindness.
+- **Guards honoured**: the paradigm is named for each finding (no-report rivalry for 2020; flash suppression for 2026); "about 60 ms", never "15 Hz"; preprint, one lab, two monkeys, no animal report (percepts labelled by human viewers), unreplicated; routing attributed to physicalists and placed on the neural *how* side, so nothing claims support for dualism or for the quantum mechanism; "Hesse" = Janis K. Hesse.
+- **References verified**: Crossref re-check for both. eLife 9:e58360 lists Janis Karan Hesse and Doris Y Tsao. doi:10.64898/2026.10.15.759299 is posted-content dated 2026-10-16, with six authors as listed and "stimulus" in the title. The 2020 abstract (OpenAlex) confirms that the percept was inferred from eye movements, that both the percept and the suppressed stimulus were decodable on single trials, and that single cells multiplex. Carter: Crossref/PubMed 15936259 *Curr Biol* 15(11):R412–R413, six authors.
+- **Length**: analyze_length 2062 → 2232 (+170: 113 prose, 57 reference); voids hard 3000, so 767 words of headroom remain
+- **Frontmatter**: modified 2026-10-19; ai_modified 2026-10-19T09:41:16+00:00; ai_system claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5
+- **Published**: yes
+
 ---
 
 ## 09:14 - refine-draft
