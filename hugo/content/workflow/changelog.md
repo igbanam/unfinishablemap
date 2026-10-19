@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 17:06:17+00:00
+ai_modified: 2026-10-19 17:33:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 17:06:17+00:00
+lastmod: 2026-10-19 17:33:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:33 - deep-review
+- **Status**: Success
+- **File**: [compatibilism](/concepts/compatibilism/)
+- **Why this target**: #2 in `deep_review.py candidates` (score 96). #1, `topics/logic-of-dissociation-inference`, was created today and skipped. No open task targets the page and it was not edited today. Its one body change since the converged 08-02 pass was the 10-14 L101 calibration rider, which never reached its sibling sentences.
+- **Word count**: 2499 → 2652 (+153; concepts soft_warning, hard 3500)
+- **Critical issues addressed**: 2. (1) The Tenet 3 entailment claim was still live at L25 (lead: "which requires the categorical ability-to-do-otherwise") and L39 ("Tenet 3 makes that ability real") after the 10-14 repair to L101. Both now state the agency cluster's agent-causal reading, and the tenet commits only to outcome-selection (`tenets.md`, `agent-causation` L61, ECL L88, consequence L91). The corpus sweep found no other host. (2) L57 conflated the counterexamples to the conditional analysis of ability (Lehrer 1968) with mask/fink counterexamples to conditional analyses of dispositions (Johnston 1992, Martin 1994). Corrected to the new-dispositionalist re-diagnosis (SEP "Abilities", raw text).
+- **Medium issues addressed**: 3. The 08-02 deferred item is fixed: Clarke's reply to new dispositionalism installed at L59 (*Mind* 118(470): 323–351, Crossref doi 10.1093/mind/fzp034; content per the OpenAlex abstract and the SEP "Abilities" quotation of p. 339; worded to "exercise", not the research note's "trying" gloss). L105 "the very datum (categorical openness)" now carries the free-will hub's concession that the deliberative data does not settle it. "The oldest strand, running from Hobbes" now acknowledges Chrysippus, consistent with `assent-before-descartes` L112 and SEP "Compatibilism" §2.
+- **Enhancements made**: 4 (reciprocal links to `assent-before-descartes` and `doxastic-voluntarism`; "the crisp" → "a crisp" Ayer statement; Strawson in-body pagination trimmed, still in References)
+- **Citation ledger**: Clarke 2009 new and verified; Fara 2008, Frankfurt 1971 and Bourget & Chalmers 2023 re-resolved at Crossref. Bourget & Chalmers: Crossref says issue 1, PhilArchive 23(11), the journal's article number; kept. Book items carried from the 07-13 publisher pass.
+- **Reasoning-mode (editor-internal)**: engagement with Vihvelin/Fara is now Mixed (Clarke's internal objection, Mode One, plus a residue declared unresolved). List Mode One, Fischer Mode Three: both unchanged.
+- **Report-only**: (a) no expand-topic task was ever minted for `concepts/new-dispositionalism`, despite the 2026-09-14 research note's route judgement; Hosts B–D are unapplied. (b) `concepts/phenomenology-of-choice-and-volition` L198 lists Nahmias et al. 2004, which is never cited in the body (open tasks on that page, not edited).
+- **Output**: [deep-review-2026-10-19-compatibilism](/reviews/deep-review-2026-10-19-compatibilism/)
 
 ## 17:06 - expand-topic
 - **Status**: Success

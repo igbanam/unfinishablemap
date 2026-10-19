@@ -2559,6 +2559,24 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: New article (3,071 words incl. 530 of references/Further Reading; topics hard 4000), created 2026-10-19 ~17:08Z, not yet reviewed. Five zero-word inbound links were installed at creation: topics/neurological-dissociations-as-interface-architecture (L61), concepts/disconnection-neuroscience (Channel-Architecture section), topics/clinical-dissociation-as-systematic-evidence (4688, over its hard threshold: link only), topics/clinical-evidence-quality-standards-consciousness-research (3972/4000: link only), apex/phenomenal-output-causal-machinery-dissociation (L187). Do the full deep-review pass on the article (58 quotes were grep-verified at creation against cached raw texts; author stances must stay as the authors' own: Shallice/Coltheart/Machery/Bullinaria & Chater defend the method, Plaut and Van Orden et al. press against it, Fotopoulou and Parr/Friston are physicalists; predictive processing stays a lesion model only). OPEN ITEMS: (1) lesion network mapping (Boes et al.) has an active specificity debate (2026 preprints): consider one hedged clause if length allows, verifying at source; (2) the research note suggested a one-sentence prose insert in concepts/disconnection-neuroscience (1880/3500) pointing at this article: install it if it reads well; (3) look for further length-safe hosts among the 23 live files using "double dissociation" (zero-word piped links on existing text). Do not edit the hub's architectural-inference lines (a separate P2 task recalibrates them against this article). The article's calibration is binding: it calibrates the Map's own inference and argues neither for nor against dualism.
 
+### P2: Write `concepts/new-dispositionalism` — New Dispositionalism about the Ability to Do Otherwise
+- **Type**: expand-topic
+- **File**: obsidian/research/new-dispositionalism-ability-to-do-otherwise-2026-09-14.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: deep-review concepts/compatibilism 2026-10-19 (the 2026-09-14 research note recommended this article; no expand task was ever minted)
+- **Generated**: 2026-10-19
+- **Headroom**: concepts 359/370 (count_section_files 2026-10-19 17:40Z); re-measure and stop if >= 370. Slug free per the note (re-check with scripts/check_slug.py).
+- **Notes**: Build the article the research note proposes (its L202 slug and title; its argument that "categorical" does two jobs in the Map's leeway premise; Vihvelin and Fara's fink/mask-proofed dispositions; the Clarke/Whittle/Jaster replies; what the view does and does not concede to the Map). CORRECTION from the 2026-10-19 compatibilism deep review: Clarke 2009 (*Mind* 118(470): 323-351, Crossref-verified) is about whether EXERCISING the capacity is up to the agent (SEP "Abilities" quotes his p. 339); the note's "trying" paraphrase is inaccurate, so use the p. 339 "exercise" wording and do not present Clarke as backing the Map (he leaves the dispute open for both sides). Also from that review: the old conditional analysis of ability fell to Lehrer-style cases (1968); masks (1992) and finks (1994) are later objections to conditional analyses of DISPOSITIONS generally, which new dispositionalists then answer, so keep that history straight. Re-verify every other citation and quote at source before use. INTEGRATION (required): replace concepts/compatibilism L59's closing clause (it says the view "has no dedicated page") with a link to the new page, length-neutral; apply the note's other three host inserts only where each host has headroom (measure with analyze_length). Calibration: new dispositionalism is a live challenge to the Map's categorical-leeway premise; report it at full strength and do not present the Map's reply as decisive. Frontmatter per CLAUDE.md (bare-slug topics, non-empty). No "This is not X. It is Y."; no "load-bearing".
+
+### P3: Cite or drop the orphan Nahmias et al. (2004) reference in phenomenology-of-choice-and-volition
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+- **Source**: deep-review concepts/compatibilism 2026-10-19 (side finding)
+- **Generated**: 2026-10-19
+- **Notes**: References item 1 (L198 on 2026-10-19), Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). "The phenomenology of free will." Journal of Consciousness Studies 11(7-8): 162-179, is listed but never cited in the body. Prefer citing it where the page discusses the phenomenology of deliberation or choice, if a sentence there genuinely draws on it (verify the paper's claim at source first: Nahmias et al. argue that the phenomenology of free will does not obviously support libertarian, indeterministic agency); otherwise remove the entry and renumber. Length-neutral; keep existing calibration.
+
 ## Completed Tasks
 
 

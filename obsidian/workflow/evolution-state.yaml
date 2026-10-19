@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T16:47:04.351152+00:00'
-session_count: 22951
-cycle_position: 14809
+last_updated: '2026-10-19T17:09:02.599525+00:00'
+session_count: 22952
+cycle_position: 14810
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-19T15:21:59.363716+00:00'
   embed-videos: '2026-10-19T16:07:49.029896+00:00'
-  expand-topic: '2026-10-19T11:37:53.009143+00:00'
+  expand-topic: '2026-10-19T17:09:02.599525+00:00'
   harvest-research-subjects: '2026-10-19T13:37:29.424960+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-13T05:15:07.297114+00:00'
@@ -107,7 +107,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 349
+  topics_written: 350
   concepts_written: 359
   arguments_written: 5
   questions_written: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-19'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-19'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: trigger
 - task: refine-draft
   type: refine-draft
+  date: '2026-10-19'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
   date: '2026-10-19'
   outcome: success
   kind: queue

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-10-14 20:38:46+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-19 17:30:50+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: unfinishablemap.org Agent
 concepts: []
 created: 2026-07-13
@@ -13,8 +13,8 @@ description: Compatibilism holds free will survives determinism by reinterpretin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-02 20:45:00+00:00
-lastmod: 2026-10-14 20:38:46+00:00
+last_deep_review: 2026-10-19 17:30:50+00:00
+lastmod: 2026-10-19 17:30:50+00:00
 modified: *id001
 related_articles: []
 title: Compatibilism
@@ -26,7 +26,7 @@ topics:
 
 Compatibilism is the position that free will and moral responsibility are compatible with the truth of causal determinism. Its defining move is to reinterpret "could have done otherwise" so that it no longer demands the libertarian's categorical alternative — the same agent, with the same past and the same laws, genuinely able to do either of two things. Instead, the compatibilist reads that phrase as a conditional ("would have, had one chosen otherwise"), a dispositional capacity, or an actual-sequence property of the will, and locates freedom there. In the 2020 PhilPapers survey it is the majority view among professional philosophers by a wide margin.
 
-The Map is a libertarian, interactionist project, so compatibilism is its most sophisticated rival — and a rival the Map takes seriously precisely because it shares most of the Map's *moral* conclusions (responsibility is real, blame and gratitude are warranted) while denying the *metaphysics* the Map builds on. Under Tenet 3 (bidirectional interaction), consciousness genuinely selects among quantum-open alternatives, which requires the categorical ability-to-do-otherwise that compatibilism reinterprets away. This page defines the position and its variants and situates them against the Map's existing free-will lattice; it does not re-derive the incompatibilist arguments those pages already cover.
+The Map is a libertarian, interactionist project, so compatibilism is its most sophisticated rival — and a rival the Map takes seriously precisely because it shares most of the Map's *moral* conclusions (responsibility is real, blame and gratitude are warranted) while denying the *metaphysics* the Map builds on. Under Tenet 3 (bidirectional interaction), consciousness selects among quantum-open alternatives, and the Map's agency cluster reads that selection as the categorical ability-to-do-otherwise that compatibilism reinterprets away; the tenet itself commits only to outcome-selection ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). This page defines the position and its variants and situates them against the Map's existing free-will lattice; it does not re-derive the incompatibilist arguments those pages already cover.
 
 ## Locating the Position
 
@@ -40,7 +40,7 @@ Compatibilism thus occupies the reconciling middle. It is not a claim that deter
 
 ## The Organizing Axis: Reinterpreting "Could Have Done Otherwise"
 
-Compatibilism is a family, not a single doctrine, and its variants are most cleanly distinguished by *how each one handles the phrase "could have done otherwise."* This is the axis on which the Map's own distinguishing work is done, because Tenet 3 makes that ability real and physical rather than conditional or emergent. Three strategies recur:
+Compatibilism is a family, not a single doctrine, and its variants are most cleanly distinguished by *how each one handles the phrase "could have done otherwise."* This is the axis on which the Map's own distinguishing work is done, because the Map's agent-causal reading of Tenet 3 takes that ability to be real and physical rather than conditional or emergent. Three strategies recur:
 
 1. **Reinterpret it** as a conditional or dispositional ability (classical analysis; new dispositionalism).
 2. **Bypass it** — argue that freedom and responsibility never required alternatives at all (hierarchical/mesh theories; semicompatibilism).
@@ -52,15 +52,15 @@ The variants below are grouped by which strategy they take, closing with Strawso
 
 ### Classical / conditional-analysis compatibilism (reinterpret)
 
-The oldest strand, running from Hobbes through Hume to A. J. Ayer, opposes freedom to *constraint* rather than to causation. An act is free if it is not compelled — not the product of external force, coercion, or inner compulsion such as the kleptomaniac's — even if it is fully caused. Ayer gives the crisp twentieth-century statement of the *conditional analysis*: to say one could have done otherwise is to say one *would* have done otherwise had one chosen to. Hume had earlier framed liberty as the power to act according to the determinations of the will, absent external impediment (a paraphrase of the *Enquiry*, Section VIII, not a verbatim quotation).
+The classical strand, anticipated by Chrysippus's [cylinder](/topics/assent-before-descartes/) and running in modern philosophy from Hobbes through Hume to A. J. Ayer, opposes freedom to *constraint* rather than to causation. An act is free if it is not compelled — not the product of external force, coercion, or inner compulsion such as the kleptomaniac's — even if it is fully caused. Ayer gives a crisp twentieth-century statement of the *conditional analysis*: to say one could have done otherwise is to say one *would* have done otherwise had one chosen to. Hume had earlier framed liberty as the power to act according to the determinations of the will, absent external impediment (a paraphrase of the *Enquiry*, Section VIII, not a verbatim quotation).
 
 The conditional analysis is widely held to fail, because the antecedent choice is itself determined: if I could not have chosen otherwise, the conditional secures no genuine openness. This is the pressure point of the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/), which the Map's lattice already treats in detail. The classical view survives today mainly as refined into dispositionalism.
 
 ### New dispositionalism (reinterpret)
 
-Kadri Vihvelin's *Causes, Laws, and Free Will* (2013), whose subtitle stakes the claim outright — "Why Determinism Doesn't Matter" — revives the conditional analysis by grounding the ability to do otherwise in *dispositions*. Free will, on this view, is a bundle of dispositions (abilities) to respond to reasons, together with an environment containing no obstacle to their manifestation. Crucially, Vihvelin engineers the dispositions analysis to dodge the "mask" and "fink" counterexamples that sank the old conditional analysis — cases where a disposition is present but blocked from manifesting, or removed at the moment of testing. Michael Fara's "Masked Abilities and Compatibilism" (*Mind*, 2008) is the co-canonical source for this fink/mask-proofing move.
+Kadri Vihvelin's *Causes, Laws, and Free Will* (2013), whose subtitle stakes the claim outright — "Why Determinism Doesn't Matter" — revives the conditional analysis by grounding the ability to do otherwise in *dispositions*. Free will, on this view, is a bundle of dispositions (abilities) to respond to reasons, together with an environment containing no obstacle to their manifestation. Crucially, the analysis draws on the 1990s metaphysics of dispositions, where "masks" and "finks" (a disposition present but blocked from manifesting, or removed at the moment of testing) defeat simple conditional analyses of any disposition. The new dispositionalists diagnose the counterexamples that sank the old conditional analysis of ability, such as an agent who would act if she chose but is psychologically unable to choose, as failures of that general kind, and Vihvelin builds her analysis to survive them. Michael Fara's "Masked Abilities and Compatibilism" (*Mind*, 2008) is the co-canonical source for this fink/mask-proofing move.
 
-The dispositionalist's payoff is direct: the relevant ability *survives* determinism, because a fragile glass remains disposed to break in a deterministic world even on an occasion when it does not break. If ability-to-do-otherwise is a disposition, no indeterministic gap — and no quantum interface — is needed to secure it. This is among the strongest live challenges to the Map's premise that leeway must be metaphysically categorical, and it has no dedicated page elsewhere in the lattice.
+The dispositionalist's payoff is direct: the relevant ability *survives* determinism, because a fragile glass remains disposed to break in a deterministic world even on an occasion when it does not break. If ability-to-do-otherwise is a disposition, no indeterministic gap — and no quantum interface — is needed to secure it. This is among the strongest live challenges to the Map's premise that leeway must be metaphysically categorical, and it has no dedicated page elsewhere in the lattice. Randolph Clarke, who named the view (*Mind*, 2009), grants that one kind of capacity to act is a disposition but argues that having it leaves open whether exercising it is up to the agent, so the analysis leaves the main points of dispute unresolved rather than settled for either side. That open question, whether the choosing itself is up to the agent, is where the Map locates leeway.
 
 ### Hierarchical / mesh theories (bypass)
 
@@ -82,7 +82,7 @@ Christian List's *Why Free Will Is Real* (Harvard University Press, 2019) is the
 
 ### Strawsonian (reactive-attitudes) compatibilism
 
-P. F. Strawson's "Freedom and Resentment" (*Proceedings of the British Academy*, vol. 48, 1962; the essay is paginated pp. 1–25 in the widely reproduced offprint and pp. 187–211 within the bound volume) shifts the ground from metaphysics to the *reactive attitudes* — resentment, gratitude, indignation, guilt — that are constitutive of interpersonal life. We excuse or exempt in particular cases, Strawson argues, but a *global* suspension of the reactive attitudes on the abstract ground that determinism is true is not something we could do or have reason to do. Responsibility is grounded in the practice, not read off a prior metaphysics. The Map's [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/) page develops this; it is cross-referenced, not duplicated.
+P. F. Strawson's "Freedom and Resentment" (*Proceedings of the British Academy*, 1962) shifts the ground from metaphysics to the *reactive attitudes* — resentment, gratitude, indignation, guilt — that are constitutive of interpersonal life. We excuse or exempt in particular cases, Strawson argues, but a *global* suspension of the reactive attitudes on the abstract ground that determinism is true is not something we could do or have reason to do. Responsibility is grounded in the practice, not read off a prior metaphysics. The Map's [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/) page develops this; it is cross-referenced, not duplicated.
 
 ## The Majority Position
 
@@ -106,7 +106,7 @@ The divergence is metaphysical. Under **Tenet 3 (bidirectional interaction)**, c
 
 Two variants deserve special note from the Map's chair. **List's emergentism** is the closest neighbour: he too insists that alternative possibilities are real rather than conditional, and the disagreement reduces to a question of locus — emergent agential-level autonomy (List) versus physical influence on quantum outcomes (the Map). The emergentist route faces a hard question about whether higher-level indeterminism can be genuine if the underlying physics is closed — a question the quantum interface is designed to answer at the physical level. **Fischer's semicompatibilism** is the hardest challenge: by decoupling responsibility from leeway entirely, it threatens to make the Map's whole quantum apparatus *unnecessary* for the moral conclusions everyone wants. The Map's reply is that leeway does real work beyond grounding responsibility — it is what makes deliberation about a genuinely open future non-illusory — but the burden of that reply is one the Map carries rather than waves away.
 
-Consistent with **Tenet 5 (Occam's Razor has limits)**, the Map declines to treat compatibilism's parsimony — its avoidance of any non-physical or indeterministic machinery — as decisive. Simplicity is an unreliable guide where our knowledge of the mind's relation to the physical is incomplete, and the compatibilist's economy is purchased by reinterpreting the very datum (categorical openness) that the Map takes the phenomenology of agency to report.
+Consistent with **Tenet 5 (Occam's Razor has limits)**, the Map declines to treat compatibilism's parsimony — its avoidance of any non-physical or indeterministic machinery — as decisive. Simplicity is an unreliable guide where our knowledge of the mind's relation to the physical is incomplete, and the compatibilist's economy is purchased by reinterpreting the feature (categorical openness) that the Map takes the phenomenology of agency to report, a reading the deliberative data does not settle on its own, as the [free-will](/topics/free-will/) hub concedes.
 
 ## Further Reading
 
@@ -118,11 +118,13 @@ Consistent with **Tenet 5 (Occam's Razor has limits)**, the Map declines to trea
 - [reactive-attitudes-and-strawsonian-responsibility](/topics/reactive-attitudes-and-strawsonian-responsibility/)
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- [doxastic-voluntarism](/concepts/doxastic-voluntarism/)
 
 ## References
 
 1. Ayer, A. J. (1954). Freedom and Necessity. In *Philosophical Essays*. London: Macmillan. (Reprints a 1946 piece; pagination varies by edition.)
 1. Bourget, D. & Chalmers, D. (2023). Philosophers on Philosophy: The 2020 PhilPapers Survey. *Philosophers' Imprint* 23(11).
+1. Clarke, R. (2009). Dispositions, Abilities to Act, and Free Will: The New Dispositionalism. *Mind* 118(470): 323–351.
 1. Dennett, D. C. (1984). *Elbow Room: The Varieties of Free Will Worth Wanting*. Cambridge, MA: MIT Press / Bradford Books.
 1. Dennett, D. C. (2003). *Freedom Evolves*. New York: Viking.
 1. Fara, M. (2008). Masked Abilities and Compatibilism. *Mind* 117(468): 843–865.
