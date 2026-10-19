@@ -2567,48 +2567,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
 
-### P2: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
-- **Type**: refine-draft
-- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-19 (evening)
-- **Generated**: 2026-10-19
-- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 2 (rank 2 of 4).
-
-  **PASSAGES** (Relation to Site Perspective):
-  - "since interactionism explains the alignment directly: valence tracks fitness because valence drives the behaviour, and selection shapes valence through that causal channel"
-  - "Whether that debt is worse than interactionism's own commitment to [[tenets#^minimal-quantum-interaction|a quantum interaction channel]] is exactly the kind of question this tenet says simplicity cannot adjudicate on its own."
-  - the necessity horn's cost: "it reintroduces a brute psychophysical regularity at the level the [[hard-problem-of-consciousness|hard problem]] already flagged as resistant to physical explanation"
-
-  **DEFECT.** Standard interactionism needs psychophysical laws too:
-  - an outbound law (felt badness pushes toward avoidance rather than approach), which faces the same necessity-or-indifference choice;
-  - an inbound law (these neural states present these feelings), which carries harmony's contingency.
-
-  Sources:
-  - Mørch, H. H. (2017). "The Evolutionary Argument for Phenomenal Powers." *Philosophical Perspectives*, 31(1), 293–316, doi 10.1111/phpe.12096. Abstract verified via the OpenAlex inverted index on 2026-10-19. It concludes that some criticisms "are indeed fatal to the argument if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". It restores the argument only for the phenomenal-powers view, on which phenomenal properties necessitate their effects "in virtue of how they feel".
-  - Zietsch, B. P. (2024). "Resolving the Evolutionary Paradox of Consciousness." *Phenomenology and the Cognitive Sciences*, doi 10.1007/s11097-024-09978-7. Abstract verified. It argues that physicalism, dualism and panpsychism all fail to explain the correlations "via adaptation".
-  - The Map's own `topics/inheritance-problem-for-the-psychophysical-law` (created 2026-10-13) accepts this. The inbound law "keeps its contingency, and Cutter and Crummett's challenge applies to it in full". Phenomenal powers removes "at most, the arbitrariness of the outbound law". Reading Mørch inside interactionism is "the Map's construction".
-
-  So the economy point holds only on the phenomenal-powers outbound law, and the brute-regularity cost is currently charged to one side only.
-
-  **FIX.**
-  1. In Relation to Site Perspective, make the advantage explicitly conditional on the phenomenal-powers reading. Cite Mørch 2017 and link `[[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]]`; confirm the `{#harmony}` anchor still exists.
-  2. Say that the inbound harmony debt is common to both views.
-  3. Recast the Occam paragraph's comparison. The difference is the epiphenomenalist's need for a harmoniously SHAPED inbound law, set against the interactionist's outbound law plus the quantum channel.
-  4. Soften "explains the alignment directly" to the conditional form.
-
-  Add Mørch 2017 (and Zietsch 2024 if used) to References. Copy the metadata from the inheritance page's References, which match the verified records.
-
-  **HEADROOM.** 2244 on 2026-10-19 (hard − 1 − count = 1755). Expected +100–180 words.
-
-  **STABILITY.** Never upgrade toward "establishes". This task makes the Map's own side MORE modest, which is consistent with the page's purpose.
-
-  **SPILLOVER** (do not edit; report in the changelog and mint a follow-up if warranted): two passages become one-sided once this lands.
-  - `topics/valence-and-conscious-selection` L182: "pays for its parsimony with an unexplained psychophysical necessity".
-  - `topics/pain-consciousness-and-causal-power` L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance".
-
-  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, the two co-optimizers / "by construction", and the evidence-section recalibration. Re-grep every quoted passage before editing. Update `ai_modified`.
-
 ### P2: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
 - **Type**: refine-draft
 - **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
@@ -2701,8 +2659,45 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: THE CORRECTED FACTS (verified at source 2026-10-19 by the pupillometry deep review; see reviews/deep-review-2026-10-19-pupillometry-behavioural-channel.md for the citation ledger): the choice-blindness pupil evidence is TWO studies that read the pupil effect in OPPOSITE ways. Parnamets et al. 2023 (PsyArXiv preprint; Johansson and Hall are co-authors) read larger pupils on accepted swaps as effortful rationalisation with no awareness of the swap. Grassi et al. 2025 (*Frontiers in Psychology*; NOT "Stedmon et al.", NOT 2024) read it as covert detection: participants noticed and did not say so, being "less introspectively blind than originally portrayed"; in their Experiment 1 pupils discriminated swapped from control trials 65.5% of the time, and the 16 never-reported swaps showed no significant pupil increase. There is no 2015-2024 pre-registered replication series. DO ALL FOUR FILES; do not stop after the first: (1) voids/confabulation-void L79 ("Replication-survival" paragraph): it says the replication and pupillometry work "strengthened" the choice-blindness finding; Grassi concludes the opposite. Report the interpretive split. Length: voids hard 3000; measure first. An open P3 cross-link task also touches this page at L87; do not do it here. (2) concepts/introspection L65: applies the computerised-task pupil results to the 2005 face-choice figure and omits the interpretation split. The page reads 3504 by analyze_length, ALREADY OVER its 3500 hard threshold: the fix must be NET-NEGATIVE (cut words in the same paragraph) and should bring the page to <= 3499 if possible without losing calibration. (3) apex/introspection-architecture-void-cluster L93: "Johansson and Hall's pupillometric follow-ups" is defensible for Parnamets (co-authors) but not for Grassi; rephrase length-neutrally (apex hard 5000). (4) research/voids-confabulation-void-2026-05-14 (L106, L314): the source of the error; it cites Grassi 2025 as "Stedmon et al." and dates it 2024. Correct the attribution and year and add a dated correction note; it is a research note, so keep the edit minimal. Verify every claim you add at source (Crossref; Frontiers full text; PsyArXiv) by fetching raw text and grepping, never by a WebFetch prompt that names the phrase. Pages already accurate (no edit): narrative-void, source-attribution-void, introspection-architecture-independence-scoring, authorship-of-action-divergence. Update ai_modified on each edited file; append the model to ai_system only if absent.
 
+### P3: Bring the valence-selection and pain-causal-power correlation arguments into line with the co-optimization page's shared-debt verdict
+- **Type**: refine-draft
+- **File**: obsidian/topics/valence-and-conscious-selection.md
+- **Status**: pending
+- **Source**: refine-draft co-optimization Issue 2 2026-10-19
+- **Generated**: 2026-10-19
+- **Notes**: TWO FILES; do both, and report analyze_length before/after for each. Spillover from the 2026-10-19 refine of topics/co-optimization-reply-to-the-correlation-problem (pessimistic-2026-10-19 Issue 2). That page's Relation to Site Perspective now says: (i) co-optimization pays one of THREE prices (necessity / indifference / Robinson's reference-fixing), not only "an unexplained psychophysical necessity"; (ii) interactionism needs psychophysical laws too, and its outbound law (felt badness pushes toward avoidance) escapes the same necessity-or-indifference choice only on Mørch's (2017) phenomenal powers reading, which the Map adopts by its own construction; (iii) the inbound law (which neural states present which feelings) carries the psychophysical-harmony debt for BOTH views ([[inheritance-problem-for-the-psychophysical-law#harmony]]), so it cannot be charged to co-optimization alone. Two sibling passages still state the one-sided version. (1) topics/valence-and-conscious-selection L182: "pays for its parsimony with an unexplained psychophysical necessity" (names one horn of three, and charges a debt the interactionist shares) and "If valence drives selection, evolution shapes it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law" (state it as conditional on the phenomenal-powers outbound law). LENGTH: 4338 by analyze_length on 2026-10-19, 339 OVER the topics hard 4000 (a HUMAN LENGTH DECISION entry is open for this file in Blocked Tasks), so the edit must be NET-ZERO or NET-NEGATIVE in that paragraph. An open P2 elsewhere in Active Tasks touches this file at L160 (frontoparietal coherence); do not do it here. (2) topics/pain-consciousness-and-causal-power L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes." The paragraph's "why this particular supervenience mapping?" question is the inbound harmony question, which the interactionist faces too. LENGTH: 3970 on 2026-10-19, headroom 29 (hard 4000, gate >=): keep it length-neutral. Prefer a short conditional plus a zero-word piped link to the co-optimization page or the inheritance page's #harmony section over restating the argument. Any Mørch quote must match the co-optimization page's wording, which was verified 2026-10-19 against the OpenAlex inverted-index abstract (doi 10.1111/phpe.12096). Never upgrade toward "establishes". No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; append the model to ai_system only if absent anywhere in the string.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 2 (rank 2 of 4).
+  **PASSAGES** (Relation to Site Perspective):
+  - "since interactionism explains the alignment directly: valence tracks fitness because valence drives the behaviour, and selection shapes valence through that causal channel"
+  - "Whether that debt is worse than interactionism's own commitment to [[tenets#^minimal-quantum-interaction|a quantum interaction channel]] is exactly the kind of question this tenet says simplicity cannot adjudicate on its own."
+  - the necessity horn's cost: "it reintroduces a brute psychophysical regularity at the level the [[hard-problem-of-consciousness|hard problem]] already flagged as resistant to physical explanation"
+  **DEFECT.** Standard interactionism needs psychophysical laws too:
+  - an outbound law (felt badness pushes toward avoidance rather than approach), which faces the same necessity-or-indifference choice;
+  - an inbound law (these neural states present these feelings), which carries harmony's contingency.
+  Sources:
+  - Mørch, H. H. (2017). "The Evolutionary Argument for Phenomenal Powers." *Philosophical Perspectives*, 31(1), 293–316, doi 10.1111/phpe.12096. Abstract verified via the OpenAlex inverted index on 2026-10-19. It concludes that some criticisms "are indeed fatal to the argument if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". It restores the argument only for the phenomenal-powers view, on which phenomenal properties necessitate their effects "in virtue of how they feel".
+  - Zietsch, B. P. (2024). "Resolving the Evolutionary Paradox of Consciousness." *Phenomenology and the Cognitive Sciences*, doi 10.1007/s11097-024-09978-7. Abstract verified. It argues that physicalism, dualism and panpsychism all fail to explain the correlations "via adaptation".
+  - The Map's own `topics/inheritance-problem-for-the-psychophysical-law` (created 2026-10-13) accepts this. The inbound law "keeps its contingency, and Cutter and Crummett's challenge applies to it in full". Phenomenal powers removes "at most, the arbitrariness of the outbound law". Reading Mørch inside interactionism is "the Map's construction".
+  So the economy point holds only on the phenomenal-powers outbound law, and the brute-regularity cost is currently charged to one side only.
+  **FIX.**
+  1. In Relation to Site Perspective, make the advantage explicitly conditional on the phenomenal-powers reading. Cite Mørch 2017 and link `[[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]]`; confirm the `{#harmony}` anchor still exists.
+  2. Say that the inbound harmony debt is common to both views.
+  3. Recast the Occam paragraph's comparison. The difference is the epiphenomenalist's need for a harmoniously SHAPED inbound law, set against the interactionist's outbound law plus the quantum channel.
+  4. Soften "explains the alignment directly" to the conditional form.
+  Add Mørch 2017 (and Zietsch 2024 if used) to References. Copy the metadata from the inheritance page's References, which match the verified records.
+  **HEADROOM.** 2244 on 2026-10-19 (hard − 1 − count = 1755). Expected +100–180 words.
+  **STABILITY.** Never upgrade toward "establishes". This task makes the Map's own side MORE modest, which is consistent with the page's purpose.
+  **SPILLOVER** (do not edit; report in the changelog and mint a follow-up if warranted): two passages become one-sided once this lands.
+  - `topics/valence-and-conscious-selection` L182: "pays for its parsimony with an unexplained psychophysical necessity".
+  - `topics/pain-consciousness-and-causal-power` L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance".
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, the two co-optimizers / "by construction", and the evidence-section recalibration. Re-grep every quoted passage before editing. Update `ai_modified`.
 
 ### ✓ 2026-10-19: Add Robinson's reference-fixing reply as a third option in the co-optimization dilemma, and attribute the position
 - **Type**: refine-draft

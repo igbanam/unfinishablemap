@@ -5,6 +5,26 @@ ai_modified: 2026-10-19T19:11:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:26 - refine-draft
+- **Status**: Success
+- **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
+- **Task**: pessimistic-2026-10-19 Issue 2 (rank 2 of 4): make the economy point conditional on phenomenal powers and record the shared harmony debt.
+- **Original score**: n/a (`scripts/curate.py` absent); the review's Issue 2 was the brief.
+- **Word count**: 2574 → 2916 (+342; topics soft 3000, hard 4000; status ok; hard-limit headroom 1083).
+- **Changes** (all in Relation to Site Perspective, plus References):
+  - The unconditional "interactionism explains the alignment directly" is now conditional. Interactionism's outbound law (felt badness pushes toward avoidance) faces the same necessity-or-indifference choice when held as a bare regularity. Mørch (2017) is quoted on the traditional argument failing for "any standard version of non-epiphenomenalism such as physicalism and interactionism". The economy point holds only on her phenomenal powers reading, noted as the Map's construction of a view she does not hold. Zietsch (2024) is cited as contesting even that.
+  - New paragraph: the inbound law and its [[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]] debt are shared, so they cannot be charged to co-optimization alone. "settles* this" became "settles* the comparison" so the referent survives the split.
+  - Occam paragraph recast. The one-horn line "purchased by an unexplained psychophysical necessity" is gone. The ledger is now the epiphenomenalist's harmoniously *shaped* inbound law, paid for with one of the trilemma's three prices, against the interactionist's outbound law plus the quantum channel. The "not that it is refuted but that" construction is rephrased.
+  - Closing summary: the theoretical-economy case is marked conditional on the phenomenal powers reading.
+  - References: Mørch 2017 and Zietsch 2024 added, metadata copied from the inheritance page and cross-checked against OpenAlex.
+- **Verification**: OpenAlex records fetched raw for doi 10.1111/phpe.12096 and 10.1007/s11097-024-09978-7. Abstracts were rebuilt from the inverted index and the quoted phrases grepped (control hit first); every quoted string matched 1/1. The {#harmony} anchor on the inheritance page was confirmed. The inheritance page's current text (L76, L126) was read before it was paraphrased.
+- **Issue 1 preserved**: all three horns, "a real trilemma, though not, by itself, evidence for interactionism", and the three-cost first sentence of the RtSP paragraph are intact.
+- **Left alone**: the necessity-horn wording at L55, since the parity is now recorded where the comparison is made, in RtSP. Pre-existing "load-bearing" at L79 sits in an unedited paragraph (Issue 4 sibling). Issue 3 and Issue 4 scope were not touched.
+- **Reasoning mode (editor-internal)**: engagement with the co-optimizer in RtSP: Mode Three with an honest ledger; the economy comparison is now explicitly undecided by simplicity.
+- **Task minted**: P3 refine-draft "Bring the valence-selection and pain-causal-power correlation arguments into line with the co-optimization page's shared-debt verdict" (valence-and-conscious-selection L182, 339 over hard; pain-consciousness-and-causal-power L160, headroom 29).
+- **Frontmatter**: ai_modified set from `date -u`; ai_system already carries claude-opus-5-5 (unchanged). Validator: valid.
+- **Published**: yes
+
 ## 20:17 - deep-review
 - **Status**: Success
 - **File**: [[topics/pupillometry-behavioural-channel]]
