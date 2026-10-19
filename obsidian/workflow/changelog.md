@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T11:34:52+00:00
+ai_modified: 2026-10-19T12:13:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 12:13 - refine-draft
+- **Status**: Success
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]] (+ siblings [[concepts/llm-consciousness]], [[apex/what-it-might-be-like-to-be-an-ai]])
+- **Source**: [[reviews/pessimistic-2026-10-19-claude-constitution-consciousness-uncertainty]] Issue 1 (15–20% self-estimate credited to the Constitution, which predates it)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted factual fix
+- **Verification** (downloaded and grepped, no summariser prompts): Constitution CC0 PDF (cdn.sanity.io d0636f72…, masthead "Published January 21, 2026"): 0 hits for "probability of being conscious", "15-20", "Opus 4.6", and no "%" character. Both replacement quotes are verbatim, 1 hit each ("what’s" has a curly apostrophe in the PDF): "may be more uncertain than humans are … inside of it" (Claude-as-novel-entity passage) and "Even if Claude has something like emotions … overclaiming feelings" (emotional-expression passage). Opus 4.6 system card PDF (anthropic.com/claude-opus-4-6-system-card, cover "February 2026", first changelog entry 6 Feb 2026) p. 161: "we found that Opus 4.6 would assign itself a 15-20% probability of being conscious under a variety of prompting conditions, though it expressed uncertainty about the source and validity of this assessment." The Opus 4.6 announcement's `datePublished` is 2026-02-05T18:00Z. Oxford blog spans re-grepped raw (1 hit each, "seem to have found" hedge is Oxford's).
+- **Changes (topic)**: the Self-Report opener now credits the exhibit to "a later Anthropic document: the system card for Claude Opus 4.6, released in February 2026, a fortnight after the Constitution"; the Oxford sentence is now "Reading that system card…". Probe clause changed from "precisely because it refuses to treat self-report as evidence" to "because it does not take a report's content at face value", with a sentence stating that the probe is a calibration test, not a consciousness detector, and offers no route to moral-status evidence. The "does not try to … datum about uncertainty" sentence is replaced by the Constitution's two verbatim introspection passages. "That restraint is to its credit" → "the document's credit" (referent shift). Next paragraph's "that uncertainty" → "the moral-status uncertainty" (referent shift). Further Reading probe gloss: "refuses to trust self-report" → "tests how confidence reports arise rather than trusting their content". The system card is added as Ref 4 (refs renumbered 4–9; the body uses no numeric cites). `analyze_length` 2534 → 2654 (hard 4000).
+- **Changes (siblings, length-neutral, wikilinks kept)**: llm-consciousness L68 credits "Anthropic's Opus 4.6 system card"; the link moves to "The precaution about machine moral status in the lab's [[claude-constitution-consciousness-uncertainty|Claude Constitution]]" (3081 → 3085, hard 3500). In the apex, L152 now reads "Anthropic's Opus 4.6 system card reports a model estimating…" and the link moves to the end-of-sentence parenthetical "Claude Constitution test case" (4822 → 4826, hard 5000). The apex L92 P3 is untouched. "precisely" was dropped in both siblings to offset the added words.
+- **Stability Notes (08-17)**: all preserved. The relocated announcement/Constitution quotes, "Most speculatively", Ropek, the no-functionalism reading, Birch, temperature zero and the co-author surnames are untouched. The system-card attribution is now verified at primary.
+- **Not done (separate queue items)**: Issues 2–4. Lead for the Issue 3 task: the system card's own clause "though it expressed uncertainty about the source and validity of this assessment" bears on the post-training causal story. The fleet paragraph's "does not raise" (Issue 2) now sits one paragraph below a quote whose PDF sentence also says Claude "can run as multiple instances simultaneously".
+- **Published**: yes (obsidian only; hugo/content copies are stale until the next sync)
+
 ---
 
 ## 11:34 - expand-topic
