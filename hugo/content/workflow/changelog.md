@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 17:33:18+00:00
+ai_modified: 2026-10-19 18:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 17:33:18+00:00
+lastmod: 2026-10-19 18:02:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: P2 calibrate the architectural-inference lines against [logic-of-dissociation-inference](/topics/logic-of-dissociation-inference/) (three tiers: separate failure robust; functional differentiation abductive; discrete components/channels need contested bridge assumptions), retire the L198 "evidence shows consciousness engaging" sentence, and fix the L94 anosognosia lead.
+- **Changes** (old → new):
+  - L49: "reveals which components are separable—and therefore which are architecturally distinct" → "reveals which capacities are separable—and, only on [contested assumptions](/topics/logic-of-dissociation-inference/#three-tiers), which are architecturally distinct" (+3).
+  - L51: "The selectivity establishes that whatever connects mind to brain is articulated rather than monolithic" → "The selectivity favours an articulated over a monolithic link between mind and brain" (-1; tier two, per the new page's "Ruling out a one-channel model is the kind of tier-two claim").
+  - L94: "This is not denial in the psychological sense—it is a failure of the brain's self-model..." → "On neurocognitive accounts this is a failure of the brain's self-model to update and report accurately to consciousness; motivational accounts add psychological defence (Turnbull et al., 2014)" (+5, plus a 21-word reference). This also removes the banned "This is not X—it is Y" construct.
+  - L172: "the channel *architecture* is earned robustly, but—because" → "separate failure is earned robustly, the channel *architecture* only on [contested assumptions](/topics/logic-of-dissociation-inference/#bridge-assumptions), and—because" (+6). In the same paragraph, "the architecture replicates under perturbations" → "the pattern replicates" (0), so the convergence-of-three-routes argument and its compatibility-grade bound both stand.
+  - L194: "the clinical evidence settles that the capacities involved are functionally differentiated" → "...settles that the capacities dissociate and are best explained as functionally differentiated" (+4).
+  - L196: "that the directional channels are functionally separable (the double dissociations establish this)" → "that the two directions can fail separately (the dissociations show this)" (-1). Same paragraph: "What the clinical pattern supplies is the anatomy a bidirectional interface would need, each direction independently severable" → "...the separability a bidirectional interface would need, each direction failing independently" (0). The old wording conflicted with the new page's "a tier-three decomposition, one the tenet is compatible with rather than one the clinic delivers".
+  - L198 (Minimal Quantum Interaction): "is consistent with minimal interaction, though throughput is not interface bandwidth. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels" → "is a datum any account predicts, and throughput is not interface bandwidth. The tenet's minimality is fixed by its Rules-out clause (no detectable energy injection, no Born-statistics violation, no conservation-law violation), not by narrowness or extent, which the dissociations cannot settle: reading finite, individually disableable components off them [presupposes transparency and locality](/topics/logic-of-dissociation-inference/#three-tiers)" (+14). The parenthesis uses tenets L69's wording verbatim. This discharges tenet-check-2026-10-08 Warning 6 at this locus (the bandwidth rung: "a datum any account predicts"). It also removes the metaphysical over-claim that contradicted L196's compatibility grade.
+  - Trims to fund the above, none carrying calibration: Further Reading annotations for capgras (-8), targeted-lesion (-6), conversion-disorder (-5), locked-in (-6), clinical-dissociation ("the same channel architecture" → "the same pattern", -1, which also removes a tier-three phrase); L172 "in detail" (-2).
+- **Citation ledger**: Turnbull, O. H., Fotopoulou, A., & Solms, M. (2014), "Anosognosia as motivated unawareness: The 'defence' hypothesis revisited", *Cortex* 61, 18–29, doi 10.1016/j.cortex.2014.10.008. Checked at Crossref (title, authors, volume, pages, Dec 2014) and PubMed (PMID 25481464). The abstract concludes that anosognosia "involves (amongst other things) a process of psychological defence", hence "add" rather than "replace". Inline and References entries are paired.
+- **Reasoning-mode (editor-internal)**: engagement with motivational (defence) accounts of anosognosia: Mode Three. The rival is now named as live and is not refuted; the old line had dismissed it by assertion. The functionalist standoff is unchanged (bedrock, per the 07-12 and 07-26 stability notes).
+- **Preserved**: the five 2026-10-16 calibrations ("six candidate interface channels", "provisionally isolates", "though not independently", Pacella/Kirsch, "Hu et al. 2023, in mice", Zheng & Meister plus "throughput is not interface bandwidth", the framework-commitment alien-hand line, "fit rather than support", "absent or inadequate", the Phillips/Michel-Lau readings). Also preserved: the L170 and L200 repairs from 16:43, and the `anchoring_audit_exempt` line exactly as it was. No hedge tokens were added for the metric, and neither "load-bearing" nor "This is not X" appears in the edits.
+- **Follow-up minted**: P3 refine-draft for residual tier-three phrasings outside this task's passages: L202 "Six independently failable channels" (the new page: "a count of six channels is a tier-three claim"), L128 blindsight-neglect "architecturally distinct", and the L172 pharmacological parallels "interface components are pharmacologically separable" / "channel split that neurological dissociations reveal".
+- **Length**: analyze_length 3967 → 3990 (topics hard 4000; 9 words of headroom left).
+- **Frontmatter**: ai_modified 2026-10-19T18:00:11+00:00. ai_system already contains claude-opus-5-5, so it is unchanged. Validator: valid. Synced: the Hugo copy carries the repairs, and all three new anchored links resolve to the `{#three-tiers}` / `{#bridge-assumptions}` IDs.
+- **Published**: yes
 
 ## 17:33 - deep-review
 - **Status**: Success
