@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-09-14 10:24:06+00:00
+ai_modified: 2026-10-19 17:05:42+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 apex_last_synthesis: 2026-09-14 10:24:06+00:00
 apex_sources:
@@ -39,7 +39,7 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[type-token-causation]]'
 created: 2026-05-09
-date: &id001 2026-09-14
+date: &id001 2026-10-19
 description: A structural cluster recurring across perception, cognition, agency,
   and memory in which phenomenal access reaches outputs but not the operations that
   produce them — one of the catalogue's most developed instances of the cumulative-convergence
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 11:12:20+00:00
-lastmod: 2026-09-14 10:24:06+00:00
+lastmod: 2026-10-19 17:05:42+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -201,7 +201,7 @@ This rival predicts the three sub-features without strain. *Output-while-operati
 
 The shape is symmetric. The felt-effort/operation dissociation removes the simplest "felt effort just is what the operation feels like" identity reading but leaves what felt effort *is* underdetermined between dualist and process-model. Physical correlates for any phenomenal output (the temporal-lobe correlate of déjà vu, dopamine modulation of effort) remove the simplest "phenomenology is uncoupled from physics" reading without establishing identity. Each side's evidence is defeater-removal-against-the-other, not evidence-lift in its own favour. The diagnostic test: when an article cites a dissociation, does the citation rest on removing a defeater the opposing view needs, or on establishing the citing view? The first is honest; the second is conflation.
 
-Each dissociation runs a four-level chain that must not be collapsed: *separability* (features come apart); *phenomenological reality* (a dissociated feature is genuine, not report-artefact); *mechanistic independence* (distinct processes underlie them); *metaphysical irreducibility* (no level-three mechanism could account for the level-two feature). Capgras, blindsight, the Naccache lesion, and the Bruce-Young double dissociation establish level one robustly and contribute to level two; they underdetermine level three (functional accounts supply mechanistic independence within a single substrate) and do not reach level four. The cluster claims weight only at the levels its evidence delivers; the higher levels are reached, if at all, by cumulative convergence, not by any single dissociation.
+Each dissociation runs a four-level chain that must not be collapsed: *separability* (features come apart); *phenomenological reality* (a dissociated feature is genuine, not report-artefact); *[mechanistic independence](/topics/logic-of-dissociation-inference/)* (distinct processes underlie them); *metaphysical irreducibility* (no level-three mechanism could account for the level-two feature). Capgras, blindsight, the Naccache lesion, and the Bruce-Young double dissociation establish level one robustly and contribute to level two; they underdetermine level three (functional accounts supply mechanistic independence within a single substrate) and do not reach level four. The cluster claims weight only at the levels its evidence delivers; the higher levels are reached, if at all, by cumulative convergence, not by any single dissociation.
 
 ## What the Cluster Establishes (and Doesn't)
 

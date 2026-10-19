@@ -2,9 +2,9 @@
 title: "Clinical Evidence Quality Standards in Consciousness Research"
 description: "When does clinical and neurological evidence bear on metaphysical questions about consciousness? A framework for inferring from pathology and treatment to architecture."
 created: 2026-04-06
-modified: 2026-10-13
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-13T00:02:15+00:00
+ai_modified: 2026-10-19T17:05:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ The gap has three components:
 
 **The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "consciousness placebo" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy; the nearest approximation, [[sham-controlled-neurofeedback-and-the-consciousness-comparator|sham-controlled neurofeedback]], runs the other way, keeping conscious effort and removing the feedback contingency. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
 
-**Level-crossing inference.** Clinical evidence operates at the level of neural correlates, behavioural outcomes, and subjective reports. Metaphysical conclusions about consciousness operate at the level of ontology and causation. Moving from one to the other requires bridging principles that are themselves philosophically contested. A materialist's bridging principle (neural correlates exhaust the phenomena) differs from a dualist's (neural correlates constrain but do not constitute experience), and the clinical data cannot choose between them.
+**Level-crossing inference.** Clinical evidence operates at the level of neural correlates, behavioural outcomes, and subjective reports. Metaphysical conclusions about consciousness operate at the level of ontology and causation. Moving from one to the other requires [[logic-of-dissociation-inference|bridging principles]] that are themselves philosophically contested. A materialist's bridging principle (neural correlates exhaust the phenomena) differs from a dualist's (neural correlates constrain but do not constitute experience), and the clinical data cannot choose between them.
 
 ## Evidence Hierarchies and Their Limits
 

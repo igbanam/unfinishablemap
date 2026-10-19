@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 16:43:46+00:00
+ai_modified: 2026-10-19 17:06:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 16:43:46+00:00
+lastmod: 2026-10-19 17:06:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:06 - expand-topic
+- **Status**: Success
+- **Topic**: The Logic of Dissociation Inference: what lesion dissociations license about mental architecture
+- **Output**: [logic-of-dissociation-inference](/topics/logic-of-dissociation-inference/)
+- **Word count**: 3071 by analyze_length (prose 2541, references and Further Reading 530); soft_warning only through the apparatus, topics hard 4000. Section count re-measured 349/370 before writing.
+- **Based on research**: yes, [logic-of-dissociation-inference-2026-10-19](/research/logic-of-dissociation-inference-2026-10-19/)
+- **Thesis**: three tiers. Differential vulnerability is observed; functional differentiation is abductive and model-relative; discrete components and channels need bridge assumptions (transparency, locality, subtractivity, universality) that are disputed and weakest for report-based awareness measures. Framed as a calibration of the Map's own inference, neutral between dualism and functionalism; Occam's-limits leads the Relation to Site Perspective section.
+- **Quotes**: 58 quoted strings, every one grep-verified at count >=1 in the raw source text (cached full texts of Shallice 1991, Plaut 1995, Chater 2003, Parr et al. 2018, Fotopoulou 2014, Jonas & Kording 2017, the Gregory 2006 transcript; OpenAlex abstracts; PubMed efetch abstracts re-fetched for Price & Friston 2002, Boes et al. 2015, Carrera & Tononi 2014; Michel & Lau 2021 abstract fetched). No quotation from Gregory 1961, Saffran, Coltheart 2001, Teuber (credit only) or Shallice 1988.
+- **References**: 22 external plus 2 self-citations. Added beyond the note: Michel & Lau 2021 (Crossref-verified), to calibrate the Phillips criterion reading. Dropped: Plaut 2003, Dunn & Kirsner 2003, Glymour 1994, Sternberg 2011, Shallice 1988, Juola & Plunkett 1998, Parr & Friston 2020.
+- **Inbound links** (zero-word piped wraps, each anchored on a phrase at count 1; analyze_length before → after): neurological-dissociations-as-interface-architecture 3967 → 3967 (L61 "the specific way it breaks reveals its internal structure"; none of the P3-reserved lines touched); concepts/disconnection-neuroscience 1880 → 1880 ("the channel is broken, the broadcast is intact"); clinical-dissociation-as-systematic-evidence 4688 → 4688 ("differential functional vulnerability"); clinical-evidence-quality-standards-consciousness-research 3972 → 3972 ("bridging principles", Level-crossing inference paragraph); apex/phenomenal-output-causal-machinery-dissociation 6901 → 6901 ("mechanistic independence", L187).
 
 ## 16:43 - refine-draft
 - **Status**: Success

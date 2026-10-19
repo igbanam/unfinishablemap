@@ -2,9 +2,9 @@
 title: "Disconnection Neuroscience"
 description: "The Geschwind framework: higher cognitive deficits arise when white-matter tracts sever coordination between intact cortical regions. Human+AI exposition; the channel-architecture reading is a live hypothesis the catalogue uses with care."
 created: 2026-05-19
-modified: 2026-05-19
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-09-25T12:30:46+00:00
+ai_modified: 2026-10-19T17:05:42+00:00
 last_deep_review: 2026-09-25T12:30:46+00:00
 draft: false
 topics:
@@ -66,7 +66,7 @@ A further claim is one the Map is interested in but does not assert at establish
 
 A production theory of consciousness — neural activity in certain regions *generates* phenomenal experience — handles disconnection syndromes without strain, because the distributed-function claim it needs is the framework's own established core: functions depend on cortical regions whose outputs must combine, and a severed tract removes one input to that combination. Wernicke derived conduction aphasia from exactly such a neural wiring model before it was observed, so the production side does not merely accommodate the pattern; its connectionist ancestors predicted it. The channel-architecture reading predicts the same pattern — a channel-based interface has channels, and channels can be severed — but it holds no predictive advantage here.
 
-The Map's [[filter-theory|filter-theory]] treatment uses the disconnection literature in exactly this register. The brain is read as a multi-channel transmitter rather than a producer; disconnection syndromes are then the signature failure mode of a transmitter — the channel is broken, the broadcast is intact, the receiver simply does not get this part of it. The reading is *consistent* with disconnection neuroscience and is not the only reading consistent with it. Production-with-differential-dependency is also consistent. Without an independent discriminator, the case is empirically underdetermined and routes to compatibility rather than support, as the [[evidential-status-discipline|evidential-status discipline]] requires.
+The Map's [[filter-theory|filter-theory]] treatment uses the disconnection literature in exactly this register. The brain is read as a multi-channel transmitter rather than a producer; disconnection syndromes are then the signature failure mode of a transmitter — [[logic-of-dissociation-inference|the channel is broken, the broadcast is intact]], the receiver simply does not get this part of it. The reading is *consistent* with disconnection neuroscience and is not the only reading consistent with it. Production-with-differential-dependency is also consistent. Without an independent discriminator, the case is empirically underdetermined and routes to compatibility rather than support, as the [[evidential-status-discipline|evidential-status discipline]] requires.
 
 ## Calibration
 

@@ -2,9 +2,9 @@
 title: "Neurological Dissociations as Interface Architecture"
 description: "Blindsight, anosognosia, alien hand syndrome, and other dissociations each sever a separable channel—mapping a multi-channel structure that interface and functionalist readings share."
 created: 2026-03-10
-modified: 2026-03-10
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-19T16:43:46+00:00
+ai_modified: 2026-10-19T17:05:42+00:00
 last_deep_review: 2026-07-26T09:15:10+00:00
 draft: false
 anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-19 vs blindsight: calibrates structurally in words the lexical checks miss - L74 channel labels are "the interface reading of those data, which functionalism redescribes", L180 "Both readings predict the same dissociation phenomenology", L184 "fit rather than support", L194 "coherence ... rather than discrimination", L196 "compatibility-grade for the tenet, not vindication-grade"; the read found two real over-claims the metrics did not see (L170 unscoped "unusual discriminating power", L200 No-MWI dependence claim), repaired at the anchor's grade the same day; the architectural lines the 2026-10-19 dissociation-inference research note lists (now L49/L51/L172/L194/L196/L198) are a separate queued refine-draft, not an anchoring defect
@@ -58,7 +58,7 @@ This matters for the Map's framework. Dissociations show consciousness decomposi
 
 ## The Dissociation Logic
 
-Neurological dissociations follow a pattern that Geschwind (1965) systematised as [[disconnection-neuroscience|*disconnection syndromes*]]: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
+Neurological dissociations follow a pattern that Geschwind (1965) systematised as [[disconnection-neuroscience|*disconnection syndromes*]]: when a complex system breaks, [[logic-of-dissociation-inference|the specific way it breaks reveals its internal structure]]. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
 The key dissociations organise into six candidate interface channels:
 

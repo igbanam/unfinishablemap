@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-19 16:43:46+00:00
+ai_modified: 2026-10-19 17:05:42+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[disconnection-neuroscience]]'
 created: 2026-03-10
-date: &id001 2026-03-10
+date: &id001 2026-10-19
 description: Blindsight, anosognosia, alien hand syndrome, and other dissociations
   each sever a separable channel—mapping a multi-channel structure that interface
   and functionalist readings share.
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:15:10+00:00
-lastmod: 2026-10-19 16:43:46+00:00
+lastmod: 2026-10-19 17:05:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ This matters for the Map's framework. Dissociations show consciousness decomposi
 
 ## The Dissociation Logic
 
-Neurological dissociations follow a pattern that Geschwind (1965) systematised as [*disconnection syndromes*](/concepts/disconnection-neuroscience/): when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
+Neurological dissociations follow a pattern that Geschwind (1965) systematised as [*disconnection syndromes*](/concepts/disconnection-neuroscience/): when a complex system breaks, [the specific way it breaks reveals its internal structure](/topics/logic-of-dissociation-inference/). A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
 The key dissociations organise into six candidate interface channels:
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-10-13 00:02:15+00:00
+ai_modified: 2026-10-19 17:05:42+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -12,14 +12,14 @@ concepts:
 - '[[phenomenological-evidence]]'
 - '[[introspection]]'
 created: 2026-04-06
-date: &id001 2026-10-13
+date: &id001 2026-10-19
 description: When does clinical and neurological evidence bear on metaphysical questions
   about consciousness? A framework for inferring from pathology and treatment to architecture.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-13 00:02:15+00:00
-lastmod: 2026-10-13 00:02:15+00:00
+lastmod: 2026-10-19 17:05:42+00:00
 modified: *id001
 related_articles:
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
@@ -52,7 +52,7 @@ The gap has three components:
 
 **The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "consciousness placebo" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy; the nearest approximation, [sham-controlled neurofeedback](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/), runs the other way, keeping conscious effort and removing the feedback contingency. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
 
-**Level-crossing inference.** Clinical evidence operates at the level of neural correlates, behavioural outcomes, and subjective reports. Metaphysical conclusions about consciousness operate at the level of ontology and causation. Moving from one to the other requires bridging principles that are themselves philosophically contested. A materialist's bridging principle (neural correlates exhaust the phenomena) differs from a dualist's (neural correlates constrain but do not constitute experience), and the clinical data cannot choose between them.
+**Level-crossing inference.** Clinical evidence operates at the level of neural correlates, behavioural outcomes, and subjective reports. Metaphysical conclusions about consciousness operate at the level of ontology and causation. Moving from one to the other requires [bridging principles](/topics/logic-of-dissociation-inference/) that are themselves philosophically contested. A materialist's bridging principle (neural correlates exhaust the phenomena) differs from a dualist's (neural correlates constrain but do not constitute experience), and the clinical data cannot choose between them.
 
 ## Evidence Hierarchies and Their Limits
 
