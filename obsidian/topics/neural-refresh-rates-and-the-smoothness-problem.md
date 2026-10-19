@@ -2,9 +2,9 @@
 title: "Neural Refresh Rates and the Smoothness Problem"
 description: "Rhythmic 7-13 Hz neural sampling clashes with smooth conscious experience—an explanatory gap functionalism and dualism answer differently, over a void: introspection cannot settle whether the flow is real."
 created: 2026-03-17
-modified: 2026-10-11
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-11T10:40:40+00:00
+ai_modified: 2026-10-19T10:10:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,6 +112,8 @@ These mechanisms are computationally plausible. They explain how the brain could
 
 The question is whether these mechanisms also explain the *experience* of smoothness. A digital display refreshing at 120 Hz produces smooth-looking motion, but nobody supposes the display experiences smoothness — the smoothness exists for the viewer, not the screen. The analogy has limits, since the brain is not a display with a separate viewer; what it isolates is whether the right kind of neural processing can *constitute* smooth experience rather than merely produce smooth outputs.
 
+A 2026 preprint adds a second mismatch, of content stability rather than sampling rate. Under binocular flash suppression the flash fixes which face is seen; human observers report the flashed face, and the study treats that percept as steady. Yet in two macaques, inferotemporal and, more weakly, prefrontal populations represented that face in nearly pure form only about half the time, in runs of about 60 ms, and the unseen face for the rest (Hesse et al. 2026). The monkeys reported nothing (the percept labels come from 14 human observers), and the preprint is unreplicated. The authors' untested physicalist reply, routing only the seen state's content downstream, joins the mechanisms above. For those who reject the functionalist dissolution below, it leaves open why a face carried half the time is experienced as unbroken. Human report, with a latency near 0.86 s, cannot resolve 60 ms structure, so, as the [[#The Continuity Void|continuity void]] anticipates, the data cannot exclude the possibility that experience itself alternates below introspective grain.
+
 ## The Functionalist Response
 
 Functionalism offers a direct answer: experience is constituted by functional organisation, not by the intrinsic properties of the substrate. On this view, if the brain's temporal integration mechanisms produce the right pattern of functional states — states that play the role of smooth temporal experience in the cognitive economy — then that functional organisation *is* the smooth experience. There is no further question about why it feels smooth; the functional role is all there is to the feeling.
@@ -170,11 +172,12 @@ The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence progr
 4. Dainton, B. (2000/2006). *Stream of Consciousness: Unity and Continuity in Conscious Experience*. London: Routledge. — the "interconnected flowing whole" phrasing is the publisher's synopsis of the thesis, not a quotation from the text; paraphrased above.
 5. Herzog, M.H., Drissi-Daoudi, L., & Doerig, A. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837. https://doi.org/10.1016/j.tics.2020.07.001
 6. Herzog, M.H., Kammer, T., & Scharnowski, F. (2016). Time Slices: What Is the Duration of a Percept? *PLoS Biology*, 14(4), e1002433. https://doi.org/10.1371/journal.pbio.1002433 — source of the ~400 ms unconscious-integration figure and the "time slice" framing. The Herzog quotation above is from the accompanying EPFL press release, "How the brain produces consciousness in 'time slices'" (12 April 2016), not from the paper itself.
-7. James, W. (1890). *The Principles of Psychology*, Vol. 1. New York: Henry Holt. — the "chopped up in bits… nothing jointed; it flows" passage is Ch. IX ("The Stream of Thought"); the "rainbow on the waterfall" sentence is Ch. XV ("The Perception of Time") and its grammatical subject is *the specious present, the intuited duration*, not consciousness at large.
-8. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
-9. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
-10. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
-11. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
-12. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
-13. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
-14. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/
+7. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A., & Tsao, D.Y. (2026). Rapid alternation of conscious and suppressed stimulus representations in the primate brain. *bioRxiv* preprint, v1 (not peer-reviewed). https://doi.org/10.64898/2026.10.15.759299
+8. James, W. (1890). *The Principles of Psychology*, Vol. 1. New York: Henry Holt. — the "chopped up in bits… nothing jointed; it flows" passage is Ch. IX ("The Stream of Thought"); the "rainbow on the waterfall" sentence is Ch. XV ("The Perception of Time") and its grammatical subject is *the specious present, the intuited duration*, not consciousness at large.
+9. Lee, A. Y. (forthcoming). Consciousness and Continuity. *Philosophical Studies*. Preprint: PhilArchive (LEECAC-14). University of Toronto.
+10. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 1. London: Thomas Bassett.
+11. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press. Reprinted in *Science, Perception and Reality* (1963).
+12. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
+13. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://doi.org/10.1016/j.neuron.2024.11.008
+14. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
+15. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem/

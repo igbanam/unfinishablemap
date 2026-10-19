@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T10:02:00+00:00
+ai_modified: 2026-10-19T10:10:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:10 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: add one paragraph on a second mismatch (content stability, not sampling rate) from [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]]
+- **Changes**: (1) New closing paragraph in "Physical Smoothing Mechanisms" (after the display-analogy paragraph, so the authors' routing reply sits with the listed mechanisms and the leftover question leads straight into "The Functionalist Response"). Content: flash suppression, where the flash fixes which face is seen; human observers report the flashed face, and the study treats the percept as steady. In two macaques, inferotemporal and, more weakly, prefrontal populations carry the seen face in nearly pure form about half the time, in ~60 ms runs, and the unseen face for the rest. The monkeys gave no report (labels from 14 human observers); the preprint is unreplicated. The authors' untested physicalist routing reply joins the mechanisms above. For anti-functionalists it leaves open why a face carried half the time is experienced as unbroken. One-clause tie to "The Continuity Void" (in-page anchor): report latency near 0.86 s cannot resolve 60 ms structure, so experience may itself alternate below introspective grain. (2) Reference 7 added (Hesse et al. 2026, bioRxiv v1, not peer-reviewed; Crossref-verified earlier today); James–Southgate renumbered 8–15 (no numeric in-text cites on the page). (3) `modified` and `ai_modified` updated; `ai_system` already contained claude-opus-5-5.
+- **Placement rejected**: after the gamma paragraph in "The Neural Evidence for Discrete Processing". That paragraph ends on the quantum-timing cross-link, and putting a ~60 ms figure next to it invites the misreading the guards forbid.
+- **Figures checked against the note**: "about half the time" (states occupied about equally); "about 60 ms" (median HMM dwell plateau); two macaques; prefrontal weaker; 14 human observers; report latency 0.86 ± 0.05 s (human button-press latency, used to shift the human analysis window). "15 Hz" is not used and is not added to the alpha/theta/gamma list. No quantum or pro-dualism claim.
+- **Length**: analyze_length 3792 → 3991 (hard gate 4000; paragraph 167 words + reference 32). The paragraph runs over the ~120-word target because every guard was kept; it still clears the gate without trimming nearby.
+- **Engagements**: physicalist routing hypothesis: Mode Three; reported as the authors' untested reply, with the residual question offered conditionally ("for those who reject the functionalist dissolution"), not as a refutation.
+- **Published**: yes
 
 ## 10:02 - deep-review
 - **Status**: Success
