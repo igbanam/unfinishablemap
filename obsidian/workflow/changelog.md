@@ -1,8 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T10:25:31+00:00
+ai_modified: 2026-10-19T11:10:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 11:10 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the incompatibilism-arguments wing after the 10-13 pessimistic repair and the 10-15 deep reviews. Read in full: `topics/the-consequence-argument-for-incompatibilism`, `topics/the-manipulation-argument-and-hard-incompatibilism`, `concepts/source-versus-leeway-incompatibilism` and `topics/event-causal-libertarianism`. Also read the downstream loci in `apex/consciousness-and-agency`, `topics/free-will`, `concepts/quantum-indeterminacy-free-will`, `topics/trilemma-of-selection` and `positions/agency-and-will`. No open task on any wing file, and none edited today.
+- **Findings**:
+  - The Tenet 5 split ("reaches only the parsimony strand") now runs across five pages, the apex and the free-will hub included. The Tenet 3 "wants but does not entail" scoping has no stranded sibling.
+  - Opening 1: the mentally-determined dualist installed at consequence L91 is still caught by the Consequence Argument, so the libertarian discharge is agent-causal, not merely quantum.
+  - Opening 2: the Mind argument is the Consequence Argument's formal twin. Finch 2017 reverses the Finch & Warfield 1998 asymmetry that the page cites only for Beta-2.
+  - Opening 3: the Map's "wide" source cell is Kane's too (Timpe 2007).
+  - Calibration concern: ECL L80 "agent-causal views defeat luck" overstates the Map's own register. SEP §3.2 reports Haji, Mele and van Inwagen pressing luck against agent causation.
+  - Not-covered subject: the luck and Mind arguments against agent causation, and the agent-causalist replies.
+- **Sources verified**: OpenAlex abstracts (Finch & Warfield 1998, Finch 2017, Franklin 2011); Crossref (Finch 2017 pp. 118–139, Mele 2006, Griffith 2005); SEP incompatibilism-theories §3.2 (curled raw HTML); Timpe 2007 PDF (pdftotext).
+- **Tasks**: 4 P3, inserted above `## Completed Tasks` (`parse_tasks` active 125 → 129; diff is 38 insertions only):
+  - refine-draft on the consequence page (Finch 2017 + mentally-determined dualist, +240);
+  - refine-draft on ECL L80 (scope "defeat luck", about +110);
+  - refine-draft on source-vs-leeway L80 (Kane shares the wide cell, about +60);
+  - research-topic on luck and Mind arguments against agent causation.
+- **Output**: [[reviews/optimistic-2026-10-19-incompatibilism-repair-wing]]
+- **Published**: not synced in this run (left to the cycle driver)
+
 ---
 
 ## 10:25 - refine-draft
