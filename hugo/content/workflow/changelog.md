@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 22:05:16+00:00
+ai_modified: 2026-10-19 22:17:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 22:05:16+00:00
+lastmod: 2026-10-19 22:17:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:17 - deep-review
+- **Status**: Success
+- **File**: [quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) (score 72, the top candidate after excluding files edited today and open-task targets; second deep review, first since the 10-12 refine-draft)
+- **Word count**: 2832 → 2956 (+124; topics soft 3000, hard 4000; `ok` before and after)
+- **Critical issues addressed**: 4.
+  - (1) L43 attributed to Valentini 2020 a framing he rejects ("a philosophical argument … not a disagreement about any prediction accessible today"). The full text says the existence of non-equilibrium "is an empirical question – not only in principle but also in practice", to be answered by cosmology "not by foundational debates about the meaning of probability". Now reported as his framing.
+  - (2) L49 "largely philosophical, since the two schools agree about everything measurable today" contradicted both the source and the article's own Planck-fit paragraph. Now "agree about every laboratory result so far and part over the early universe".
+  - (3) L63 said long-wavelength cosmological modes are "exactly such few-mode systems". That conflates energy-state superpositions with Fourier modes. The programme's basis is retarded-time suppression of super-Hubble relaxation (Colin & Valentini 2013, PRD 88, 103515, Crossref-verified, added as ref 17).
+  - (4) L67 reported the Vitenti, Peter & Valentini 2019 test, then called the hypothesis "untested" (seam from the 10-12 install). Now falsifier state 3, "too thin to decide … unrefuted but has not survived a test". The lede's evidential floor now includes "an inconclusive fit to cosmological data".
+- **Medium issues addressed**: 3. L37 "gravitational" → "quantum-gravitational" (source wording). The 2019 step fit now carries the authors' hedged "what appears to be substantial evidence" on the Jeffreys scale. My first draft dropped "what appears to be", and I corrected it. Valentini 2020 ref gained editor (Allori) and pp. 423–477.
+- **Enhancements made**: 3 (the four fixes above double as content corrections; no expansion)
+- **Verification**: all 14 DOI references were Crossref-resolved. Quotes were grepped in raw text: the arXiv API for six abstracts, OpenAlex for five, pdftotext full text for 1906.10761 and 1901.08885 (the two-column layout false-zeroed one span; it was re-extracted in reading order and found), and SEP raw HTML for the two Goldstein spans. No WebFetch-prompt confirmation was used.
+- **Engagement modes (editor-internal)**: typicality school, Mode Three (reportage plus boundary-marking). No named-opponent refutation is attempted, and there is no label leakage.
+- **Not edited (reported to driver)**: positions/quantum-interface [P-Q11](/positions/quantum-interface/#p-q11) Calibration still says the CMB channel's standing is "not surveyed". It is the secondary file of the open P3 at todo L1962, so that task could absorb this. Also, born-rule-and-the-consciousness-interface L128 says relaxation "cannot explain why the universe began near equilibrium", but Valentini's universe began out of equilibrium (flagged, not asserted).
+- **Output**: [deep-review-2026-10-19-quantum-non-equilibrium-and-the-contingency-of-the-born-rule](/reviews/deep-review-2026-10-19-quantum-non-equilibrium-and-the-contingency-of-the-born-rule/)
 
 ## 22:01 - deep-review
 - **Status**: Success
