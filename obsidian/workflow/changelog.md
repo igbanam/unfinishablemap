@@ -5,6 +5,25 @@ ai_modified: 2026-10-19T19:11:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:36 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four October concepts with zero optimistic-review coverage (content-based count across 607 optimistic files; pool excluded the 42 pages committed today and every Active-Task slug). Read in full: `concepts/psychophysical-social-choice-problem`, `concepts/subject-fusion`, `concepts/lawful-appearance-problem`, `concepts/zeno-dynamics-on-a-decohered-mixture`, plus their 10-14/10-16 deep reviews (Stability Notes respected). The P1 P-Q2 fence on social-choice ~L80 was respected.
+- **Findings**:
+  - Shared method: each page itemises a debt the Map owes and separates what follows from the definition from what follows only on the Map's reading. Calibration is exemplary on all four ("tenet-coherent, not evidence-elevating").
+  - The four are almost unlinked to one another (only social-choice → fusion), though three are bound by the same Born-statistics posit.
+  - Not-covered subject 1: the question-selection (Process 1) form of the social-choice problem. Incompatible askers undo each other's holds (cos²θ per round). On the Laskey variant concordant askers accumulate inside the window. The fixed-weights result does not transfer. Two-state arithmetic was checked this run.
+  - Opening 2: lawful-appearance's own-debt section lacks its plural form (social-choice) and its Zeno contrast: inside the window a hold presents as physical dephasing.
+  - Not-covered subject 3: Zeno confinement to a spatial region under simultaneous position decoherence (the Zeno research note's own gap, L192).
+  - Out of scope, not minted: `voids/voids-between-minds` ref 15 should read Hirstein, W. (2008), *Mens Sana Monographs* 6(1):110–130, doi:10.4103/0973-1229.38516, not an authorless "PMC (2011)".
+- **Sources verified**: Crossref (Maniscalco et al. 2006; Facchi et al. 2005; Caves & Milburn 1987; Kang 2022); OpenAlex abstracts (first three); NCBI esummary (PMC3190544); SEP social-choice raw HTML (List 2022: the invariance formalisation is credited to Sen 1970b, not Sen 1977).
+- **Tasks**: 4 P3, inserted above `## Completed Tasks` (`parse_tasks` active 131 → 135; diff is 35 insertions only):
+  - refine-draft on social-choice (Process 1 form, plus a +0 scale-types link; +100–140);
+  - refine-draft on lawful-appearance (plural and Zeno forms of the appearance debt; +60–90);
+  - refine-draft on subject-fusion (link back to social-choice; +0–25);
+  - research-topic on spatial Zeno confinement under position decoherence.
+- **Output**: [[reviews/optimistic-2026-10-19-composition-and-appearance-wing]]
+- **Published**: not synced in this run (left to the cycle driver)
+
 ## 21:01 - refine-draft
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]

@@ -2,9 +2,9 @@
 title: "The Voids Between Minds"
 description: "Three structural limits on access between consciousnesses—existence, encounter, and sharing—and how social epistemic mechanisms compound the divisions they cannot close."
 created: 2026-01-27
-modified: 2026-04-19
+modified: 2026-10-19
 human_modified: null
-ai_modified: 2026-10-14T10:30:15+00:00
+ai_modified: 2026-10-19T21:36:56+00:00
 last_deep_review: 2026-06-26T00:06:00+00:00
 draft: false
 topics:
@@ -46,7 +46,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-04-18
 last_curated: null
 coalesced_from:
@@ -192,5 +192,5 @@ Empathy reaches across the voids but cannot eliminate them—it simulates rather
 12. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *Philosophical Review*, 117(2), 245–273.
 13. Noelle-Neumann, E. (1984). *The Spiral of Silence*. University of Chicago Press.
 14. Hurlburt, R. T., & Akhter, S. A. (2008). Unsymbolized Thinking. *Consciousness and Cognition*, 17(4), 1364–1374.
-15. "Mindmelding: Connected Brains and the Problem of Consciousness." *PMC* (2011). https://pmc.ncbi.nlm.nih.gov/articles/PMC3190544/
+15. Hirstein, W. (2008). "Mindmelding: Connected Brains and the Problem of Consciousness." *Mens Sana Monographs*, 6(1), 110–130. https://doi.org/10.4103/0973-1229.38516
 16. Stamatatos, E. (2009). A survey of modern authorship attribution methods. *JASIST*, 60(3), 538–556.
