@@ -10,6 +10,72 @@ related_articles: []
 title: Changelog
 ---
 
+## 21:44 - refine-draft
+- **Status**: Success
+- **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Task**: pessimistic-2026-10-19 Issue 4 (rank 4 of 4): recalibrate the evidence section (what the lesions constrain, the wanting/liking test, the Cox mortality gloss).
+- **Original score**: n/a (`scripts/curate.py` absent); the review's Issue 4 was the brief.
+- **Word count**: 3247 → 3307 (+60, the top of the ±60 aim; topics soft 3000, hard 4000; status soft_warning; hard-limit headroom 692). Three tightening passes took the first draft from +106 down to +60.
+- **Changes**:
+  - (c) Congenital insensitivity: "suffer unnoticed injuries, fractures, and burns, with elevated morbidity and mortality (Cox et al., 2006)" → "suffer lip and tongue injuries, bruises, cuts, and fractures diagnosed only in retrospect (Cox et al., 2006)". "Burns" was dropped as well. Cox's index case walked on burning coals, but the paper reports no burn injuries in the families.
+  - (b) Fault line 2: "genuinely discriminating tests" → "closest available tests". The felt-liking conditional is replaced. Berridge's "liking" is "the core process of hedonic pleasure", read from facial reactions rather than felt pleasure (Berridge 2009), so a co-optimizer can explain behaviour that follows either variable (now linked to wanting-liking-and-the-value-in-mechanism-fork). New sentence: "Against co-optimization they meet fault line 1's limit." Only varying felt pleasure apart from both would test inert valence, and Berridge's own example of absent felt pleasure shows pursuit following "wanting", with addicts working for more of a cocaine dose that "feels empty".
+  - (a) Divergence verdict: "They rule out the crudest epiphenomenalism … by showing the affective layer is systematically tied to protective behaviour" → the cases show the affective substrate is tied to the protective-behaviour system, a constraint every surviving story meets. Brute-luck epiphenomenalism meets it too, "whose lucky law also makes feeling vary with the brain"; the correlation itself, not the lesions, tells against it. Added: the Berthier patients' deficit "extended beyond pain to threatening gestures and verbal menaces, so asymbolia does not isolate felt pain-badness ([pain-asymbolia](/concepts/pain-asymbolia/))". "They do not rule out co-optimization" → "The cases rule out neither co-optimizer", keeping the Issue 3 split. The two closing sentences were merged. "constrain but do not discriminate" is kept.
+  - Relation to Site Perspective: "The empirical discriminators that would do more—felt-quality/functional-role mismatches like wanting-without-liking—remain open research questions rather than results" → "The closest available tests, wanting/liking mismatches, pit two physical variables against each other; a discriminating test would have to vary felt pleasure itself."
+  - Issues 1–3 are untouched: the trilemma, the Mørch conditional, the shared inbound debt, the two named co-optimizers and the "by construction" scoping.
+- **Verification** (NCBI efetch downloads, grepped; no WebFetch): Berthier 1988 (PubMed 3415199): "as well as to threatening gestures. Five patients also failed to react to verbal menaces" ✓. Berridge 2009 (PMC2813042, *Inquiry* 52(4), matches the reference entry): "the core process of hedonic pleasure" ✓, "feels empty" ✓, "still work substantially more to receive more of the same “empty” dose" ✓. Cox 2006 (PMC7212082): "in stark contrast to the human families where there is no reported increase in early mortality" ✓. Lip/tongue injuries, "frequent bruises and cuts", and "fractures or osteomyelitis, which were only diagnosed in retrospect" ✓. Fork page L36: "A mechanism-only physicalist reading appears to explain every Berridge finding without remainder" ✓. pain-asymbolia L101: the deficit extended "to threatening gestures and verbal menaces" ✓.
+- **Engagement classification** (editor-internal): co-optimizers in the evidence section use Mode Three. The edit removes two claims of in-framework discrimination (the lesions rule out the crude version; wanting/liking tests are genuinely discriminating). It leaves honest boundary-marking.
+- **Style**: no "This is not X. It is Y."; no "load-bearing" (count 0); pronouns after each replacement checked ("The cases" made explicit before "that failure").
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes (synced; Hugo copy confirmed)
+
+## 21:36 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four October concepts with zero optimistic-review coverage (content-based count across 607 optimistic files; pool excluded the 42 pages committed today and every Active-Task slug). Read in full: `concepts/psychophysical-social-choice-problem`, `concepts/subject-fusion`, `concepts/lawful-appearance-problem`, `concepts/zeno-dynamics-on-a-decohered-mixture`, plus their 10-14/10-16 deep reviews (Stability Notes respected). The P1 [P-Q2](/positions/quantum-interface/#p-q2) fence on social-choice ~L80 was respected.
+- **Findings**:
+  - Shared method: each page itemises a debt the Map owes and separates what follows from the definition from what follows only on the Map's reading. Calibration is exemplary on all four ("tenet-coherent, not evidence-elevating").
+  - The four are almost unlinked to one another (only social-choice → fusion), though three are bound by the same Born-statistics posit.
+  - Not-covered subject 1: the question-selection (Process 1) form of the social-choice problem. Incompatible askers undo each other's holds (cos²θ per round). On the Laskey variant concordant askers accumulate inside the window. The fixed-weights result does not transfer. Two-state arithmetic was checked this run.
+  - Opening 2: lawful-appearance's own-debt section lacks its plural form (social-choice) and its Zeno contrast: inside the window a hold presents as physical dephasing.
+  - Not-covered subject 3: Zeno confinement to a spatial region under simultaneous position decoherence (the Zeno research note's own gap, L192).
+  - Out of scope, not minted: `voids/voids-between-minds` ref 15 should read Hirstein, W. (2008), *Mens Sana Monographs* 6(1):110–130, doi:10.4103/0973-1229.38516, not an authorless "PMC (2011)".
+- **Sources verified**: Crossref (Maniscalco et al. 2006; Facchi et al. 2005; Caves & Milburn 1987; Kang 2022); OpenAlex abstracts (first three); NCBI esummary (PMC3190544); SEP social-choice raw HTML (List 2022: the invariance formalisation is credited to Sen 1970b, not Sen 1977).
+- **Tasks**: 4 P3, inserted above `## Completed Tasks` (`parse_tasks` active 131 → 135; diff is 35 insertions only):
+  - refine-draft on social-choice (Process 1 form, plus a +0 scale-types link; +100–140);
+  - refine-draft on lawful-appearance (plural and Zeno forms of the appearance debt; +60–90);
+  - refine-draft on subject-fusion (link back to social-choice; +0–25);
+  - research-topic on spatial Zeno confinement under position decoherence.
+- **Output**: [optimistic-2026-10-19-composition-and-appearance-wing](/reviews/optimistic-2026-10-19-composition-and-appearance-wing/)
+- **Published**: not synced in this run (left to the cycle driver)
+
+## 21:01 - refine-draft
+- **Status**: Success
+- **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
+- **Task**: pessimistic-2026-10-19 Issue 3 (rank 3 of 4): separate the two co-optimizers and reassign "same behaviour by construction".
+- **Original score**: n/a (`scripts/curate.py` absent); the review's Issue 3 was the brief.
+- **Word count**: 2916 → 3247 (+331; topics soft 3000, hard 4000; status soft_warning; hard-limit headroom 752). Over the task's +80–150 estimate. Most of the excess is the two honesty clauses in fault line 3, the Born-preservation condition and the closure caveat. One tightening pass cut 28 words.
+- **Changes**:
+  - Description: "Physicalism's strongest answer … A human+AI examination of where it bites—and where it doesn't." → "Epiphenomenalism's strongest answer to why valence tracks fitness says selection-optimized neural systems co-produce matching feelings, and the clinical evidence constrains it without refuting it." (one sentence, 196 chars).
+  - Lead: "strongest live physicalist answer" → "strongest live epiphenomenalist answer". The second paragraph's "strongest physicalist move" carried the same mislabel and now reads "epiphenomenalist".
+  - Model section: new paragraph naming the two rivals. The property-dualist co-optimizer is Robinson's position, epiphenomenalism proper. concepts/epiphenomenalism L223 ("one of three dualist positions") is paraphrased as "classes among the dualist positions", not quoted. The constitutive-physicalist co-optimizer is the predictive-processing version; for it the inverted organism is impossible by identity. The paragraph states that the trilemma is pressed against the first only.
+  - Necessity horn: "edges toward a functionalism" → "edges toward the constitutive rival's functionalism".
+  - Predictive-processing paragraph: "It is precisely a co-optimization-compatible story." → "It is the constitutive-physicalist co-optimizer's story, and for these cases it predicts what the epiphenomenalist version predicts."
+  - Fault line 3, constitutive rival: "by construction" now applies only here. Both sides hold that avoidance follows felt awfulness, so no behavioural measure separates them.
+  - Fault line 3, property-dualist epiphenomenalist: the tie is "only contingent". The interactionist explanation of the alignment needs a selector evolution can see. The new text quotes the inheritance page's selectability constraint, "can be practically hidden but not hidden by construction" (verbatim at its L120), and adds that page's caveat (L41) that the strictest Born-preservation reading forbids such a selector. The in-principle discriminator is physical, not behavioural: outcome frequencies that, conditioned on felt valence, depart from what the physical state alone assigns. Like [P-Q9](/positions/quantum-interface/#p-q9)'s intention-conditioned test, it is untested at a brain-internal grain; [P-Q9](/positions/quantum-interface/#p-q9) is written as a bare ID and autolinks.
+  - Fault line 3, closure caveat: such a departure would also break the closure the constitutive rival assumes, as part of the Map's general dispute with physicalism. Without this clause the text would imply the constitutive rival is immune in principle.
+  - RtSP: "Co-optimization is the most disciplined way" → "The property-dualist co-optimizer offers the most disciplined way".
+  - RtSP: new paragraph on the constitutive rival. The trilemma has no purchase, because the necessity horn is that view's thesis. The remaining dispute is Dualism, and its cost is the general explanatory gap, which is not peculiar to co-optimization. The paragraph scopes the rest of the section to the property-dualist co-optimizer.
+  - RtSP: "a real cost to co-optimization—the position must posit … close to functionalism" → "a real cost to that co-optimizer—it must posit … close to the constitutive rival's functionalism".
+  - RtSP: "equally consistent with the predictive-processing co-optimization reading" → "equally consistent with either co-optimizer's reading".
+  - RtSP closing summary: "settled" dropped, per the review's language table. The economy case is assigned to the property-dualist form, and a new sentence reads "In its constitutive form it escapes that case, and the dispute is over Dualism."
+  - Fault line 1: "the felt layer is load-bearing" → "the felt layer is doing the work" (review language table). The page now has no "load-bearing".
+- **Verdicts assigned**: The property-dualist co-optimizer gets the trilemma and the conditional theoretical-economy case. Its tie with interactionism is contingent, and an in-principle physical discriminator exists. The constitutive-physicalist co-optimizer gets no trilemma; its dispute with the Map is Dualism (tenet 1), its cost is the generic explanatory gap, and the behavioural tie holds by construction. No verdict was upgraded, and "constrain but do not discriminate" is intact.
+- **Issues 1 and 2 preserved**: the three horns, the Robinson reference-fixing paragraph, the Mørch/Zietsch conditional, the shared inbound-harmony paragraph and the Occam ledger are unchanged apart from the scoping edits above.
+- **Left alone (Issue 4 scope)**: divergence-verdict sentence (a); fault line 2's "genuinely discriminating" and "felt liking"; the RtSP wanting-without-liking sentence; the Cox mortality gloss.
+- **Reasoning mode (editor-internal)**: engagement with the constitutive physicalist (predictive processing): Mode Three. The boundary at Dualism is marked honestly, and the explanatory gap is named as the generic physicalist cost rather than offered as an in-framework refutation. Engagement with the property-dualist co-optimizer in fault line 3: Mode One. It uses that position's own commitments (closure plus inert valence) to state the in-principle physical test it must predict null.
+- **Task minted**: P3 refine-draft "Relabel the inheritance page's two "physicalist answer" glosses of the co-optimization reply as epiphenomenalist" (inheritance-problem-for-the-psychophysical-law L68 and L146; 3400 words, headroom 599). Inserted on the exact `## Completed Tasks` line; parse_tasks active count went 131 → 132.
+- **Frontmatter**: ai_modified set from `date -u`; ai_system already carries claude-opus-5-5 (unchanged). Validator: valid.
+- **Published**: yes
+
 ## 20:26 - refine-draft
 - **Status**: Success
 - **File**: [co-optimization-reply-to-the-correlation-problem](/topics/co-optimization-reply-to-the-correlation-problem/)
