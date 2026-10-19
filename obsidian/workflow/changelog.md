@@ -1,724 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-16T11:43:41+00:00
+ai_modified: 2026-10-16 11:43:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
-
-## 2026-10-16T11:43:41+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/nondualistic-interactionism]]
-- **Selection**: chosen by the shipped scorer (`scripts/deep_review.py next`). Score 101, never reviewed. It is a fresh create from 2026-10-14, with one commit.
-- **Word count**: 2,294 → 2,436 (+142) by `analyze_length`. Concepts soft is 2,500 and hard is 3,500, gate `>=`. The article is still below soft.
-- **Critical issues addressed**: 3.
-  - (1) L56: the p. 193 "a new kind of causal relation" quote dropped Griffin's own self-correction, "or, more precisely, an extreme exemplification of a kind of causal relation …".
-  - (2) L94: "Griffin's main case against dualism" was the continuity charge, but Griffin numbers the interaction of unlike things as "1. The chief problem" and continuity as charge 2 (pp. 49–51).
-  - (3) L88: "never as the locus of the mind's action" is contradicted by p. 191n, where Griffin borrows Elsasser's point that quantum laws "do not uniquely determine the happenings on the microscopic level" to show that the mind's reach into bodily particles breaks no law.
-- **Medium issues addressed**: 7.
-  - "closest rival" became "closest non-dualist rival", in the lead and the description.
-  - "no brain, no dominant occasions" became "sits with Hasker on origin". Griffin 1997 (SUNY) treats the nondualistic distinction as making life after death conceivable; this rests on metadata and jacket copy only.
-  - A closure/completeness bridge was added to the Chalmers paragraph.
-  - The Chalmers qualifier was restored ("hope to avoid").
-  - Compound-individual scope was fixed: "the most obvious examples" (p. 186) and "especially humans and other higher animals" (p. 188).
-  - A citation of an internal review was removed from article prose (L84).
-  - "psi chapter" became "parapsychological data (ch. 5)".
-- **Citations**: all four cited works web-verified (Griffin 1998 and Chalmers 2003 real-correct, Kim 1999 real-correct, Griffin 1997 newly added, metadata-correct). Every Griffin quotation was grep-verified as one exact string in both full texts (UC Press e-edition and newdualism.org), with 1 hit each and pages checked against the `JD_Page` markers. Kim and Chalmers quotations were grep-verified in the raw texts. The per-cite ledger is in the review.
-- **Engagement**: Kim's composition demand is Mode Two, an unsupported foundational move. Chalmers's high-level caveat is Mode One inside his own taxonomy, ending at Mode Three. The conservation stance and the kind axis are Mode Three. There is no label leakage.
-- **Frontmatter**: `modified` 2026-10-16, `ai_modified` and `last_deep_review` both 2026-10-16T11:43:41+00:00, `ai_system` claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5.
-- **Follow-up (not actioned)**: `research/nondualistic-interactionism-2026-10-13` carries the same three defects. They are at L168/L209/L244 (the p. 193 truncation), L267 ("It is never the locus of the mind's action on the brain") and L306 ("Griffin's main case against dualism leans on continuity").
-- **Output**: [[reviews/deep-review-2026-10-16-nondualistic-interactionism]]
-
-## 2026-10-16T11:21:09+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
-- **Task**: the P2 L79–L87 blindsight / pain-asymbolia task (outer-review 2026-10-16 ChatGPT 5.6 Sol Pro §2.1, §2.2, §9), with the Michel & Lau (2021) amendment that /combine-outer-reviews 2026-10-16 folded into substitution (1) and the References (synthesis divergence 1). This is the fifth and last of the five queued tasks on this file.
-- **Original score**: n/a. `scripts/curate.py` is absent; the edit is the one the task specifies.
-- **Changes**: four substitutions, with every OLD and NEW string and all four reference entries pulled from the task Notes by script. Each OLD was located by text and re-counted at 1 in the live file (lines 79, 81, 85 and 87, so the earlier edits had not shifted them). (1) The L79 blindsight sentence no longer says "none of this enters conscious awareness". It now gives the standard reading (processing without phenomenal experience) and Phillips's (2021) rival reading (degraded conscious vision under a conservative report criterion), and adds that Michel and Lau (2021) *contest* that reading. They are not said to refute it. (2) On L81 the single subcortical route becomes several surviving routes (Balali et al., 2025). These routes "do not ordinarily support reportable" phenomenal content, where the old text said they "cannot deliver" it, and the architecture claim is marked as the interface reading. (3) On L85 the felt awfulness is now "missing or blunted", with Berthier et al.'s source-verified "absent or inadequate", and "abolished" becomes "lost or blunted". (4) On L87 the anterior insula/ACC localisation is flagged as unreplicated (Feinstein et al., 2016). The "clean separation … complete absence" claim is replaced by an admission that the separation is not clean (Berthier's patients also had hemiparesis, neglect and broad unresponsiveness to threat, on extensive lesions), and "discrete interface component" becomes "separable component". L89 was left as the task directs.
-- **References added** (appended to the end of `## References` as `1.` items, each checked at Crossref 2026-10-16): Phillips 2021, Psychological Review 128(3):558–584 (doi:10.1037/rev0000254, by title search, which matches `concepts/blindsight` L233); Balali et al. 2025, Basic and Clinical Neuroscience 16(3):533–550 (doi:10.32598/bcn.2025.7005.1 resolves; title and authors match); Feinstein et al. 2016, Brain Structure and Function 221(3):1499–1511 (doi:10.1007/s00429-014-0986-3 resolves; online 2015, print 2016-04); Michel & Lau 2021, Psychological Review 128(3):585–591 (doi:10.1037/rev0000266 resolves; title "Is blindsight possible under signal detection theory? Comment on Phillips (2021)"), with Phillips's reply at doi:10.1037/rev0000277, "Bias and blindsight: A reply to Michel and Lau (2021)", 128(3):592–595.
-- **Flow check**: each substituted passage was re-read in context. In (1) the "while reporting no visual experience" clause attaches to the patient. In (2) "they" refers to the surviving routes. In (4) "it suggests" refers to "the separation". In (3) the task's own NEW text keeps "They do not withdraw" right after "emotional responses are 'absent or inadequate' (Berthier et al., 1988)". The nearest plural noun is now "emotional responses", but only patients can withdraw or guard, so "They" still clearly means the patients. No repair was made.
-- **Residue (not edited, per "Edit nothing else")**: L89 still says the awfulness can be "abolish[ed]" while processing stays intact, which sits slightly awkwardly beside the new "lost or blunted"; the task leaves L89 as is on purpose. In (4), Feinstein et al.'s quoted non-replication is about the *insula* finding, while the NEW text attaches "no study has replicated" to the combined insula-plus-ACC localisation, which is a slight widening.
-- **Engagement**: Mode Three for the Phillips / Michel–Lau exchange. It is reported as a contested rival reading inside the blindsight literature, and the Map does not adjudicate it. The pain-asymbolia edits are calibration of the article's own claims, not a reply to an opponent.
-- **Length**: `analyze_length` went from 3,788 to 3,970 (+182, as specified: +34, +7, +15, +17 for the prose and +109 for the references; topics hard limit 4,000, gate `>=`). Headroom is now 29 (4000−1−3970).
-- **Frontmatter**: `ai_modified` changed to 2026-10-16T11:21:09+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
-- **Published**: yes
-
-- **Parent follow-up (2026-10-16T11:23:06+00:00)**: two fixes the fork flagged, 2 words net. L85 "They do not withdraw" → "Patients do not withdraw" (the antecedent had become "emotional responses"; 0 words). L87 "a localisation no study has replicated" → "though no study has replicated the insula finding" (+2), because Feinstein et al. 2016's sentence is about the insula finding only ("No studies have replicated the original finding of pain asymbolia following insula damage") and must not cover the ACC.
-## 2026-10-16T10:33:22+00:00 - apex-evolve
-- **Status**: Complete
-- **Article**: [[apex/consciousness-and-agency]]
-- **Changed sources**: 10 of 16 `apex_sources` (by `ai_modified`) since the 2026-09-05 baseline, plus new source `concepts/doxastic-voluntarism`
-- **Word count**: 4406 → 4921 (`analyze_length`; apex hard 5000, `>=`; headroom 78)
-- **Integrated**: Pereboom's luck objection re-aimed at event-causal origination + wild coincidences (source-versus-leeway, manipulation-argument); O'Connor misattribution removed (agent-causation); retired "would be coincidental" effort framing → psychophysical-law reply (tenets `^tenet-3-epiphenomenalism`, free-will, agent-causation); neural signatures re-attributed and graded, Desmurget adverse reading + functionalist rival (agent-causation, neurological-dissociations); rollback answer → who-not-why, owed primitive (free-will); Born-rule mechanism debt installed (positions/quantum-interface, free-will); clinical neuroplasticity → compatible with both readings; argument from reason "not decisively" + Anscombe/non-reductive reply; doxastic voluntarism integrated; Schurger gloss and falsifier escape clause corrected
-- **Citations added**: Rajan et al. 2019, Thura & Cisek 2014, Desmurget et al. 2009 (Crossref + PubMed abstract verified)
-- **Review**: [[reviews/apex-evolve-2026-10-16-consciousness-and-agency]]
-
-## 2026-10-16T10:08:03+00:00 - research-voids
-- **Status**: Success
-- **Topic**: The Tempo Void — consciousness cannot read the rate at which its own experience runs; tempo appears only as a relation to the world, only when it changes faster than adaptation, and is credited to the world rather than the self
-- **Category**: Mixed — Unexplorable core (no absolute tempo is a possible introspective content; Poincaré's universal-expansion argument transposed to time), Unexplored face (no in-the-moment passage probe without retrospective report), thin Occluded face (adaptation re-zeroes expected timing)
-- **Output**: [[research/voids-tempo-void-2026-10-16]] (5,236 words by `analyze_length`)
-- **Key finding**: "time slowed down" in danger is an unresolved three-way dispute (Stetson et al. 2007 memory; Arstila 2012 processing speed; Phillips 2013 relative-to-mental-stream) that introspection cannot settle, because every report is retrospective and each mechanism yields the same words; the record splits by condition (free-fall fear: no resolution gain; Hagura et al. 2012 action preparation: resolution gain). Framework-neutral, no evidential gain for dualism; flags `topics/temporal-consciousness-structure-and-agency` L144 and `apex/time-consciousness-growing-block` L71 ("different modes of temporal experience rather than failures of time estimation") as asserting a distinction introspection cannot draw — surfaced, not tasked.
-- **Selection**: voids 113/125 by `count_section_files`. Stem regex (tempo/rate/pace/speed/clock) over filenames and titles of 436 voids pages, banked notes and archive: 0 hits (control `temporal`: 5). Literature anchors Stetson, Arstila, tachypsychia, chronostasis, Yarrow, Zakay, Hagura, Noyes, Kletti, Pariyadath, Ovsiew, Kesserwani, zeitraffer, Delbeuf, critical flicker, Goody: 0 hits corpus-wide (controls Mellor/Kinsbourne hit). Rejected as covered: innocent-eye/constancy (reconstruction-paradox concept), meta-perception (self-signature → `self-opacity`), folk-physics suppression (`conceptual-metabolism-void`), speaking-thinking/Kleist (language-thought-boundary, felt sense, self-prediction note).
-- **Verification**: 24 citations Crossref-verified; 56 quotations grep-verified against fetched raw text (0 misses) — full texts of Stetson 2007, Arstila 2012, Pariyadath & Eagleman 2007, Buckley 2014, Kesserwani 2020, Hagura 2012, Eagleman 2008; OpenAlex abstracts of Phillips 2013, Jones et al. 2011, Healy et al. 2013, Ovsiew 2014; Poincaré (marxists.org), Dennett & Kinsbourne (course mirror), Egan (author site). Secondary/UNVERIFIED and tagged: Noyes & Kletti figures and quotes (via Arstila), Goody quote (Sacks 2004 New Yorker 404), Olson 2009 and Shoemaker 1969 characterisations (403/not read), Poincaré essay first-publication date. Primary-source defects recorded: Stetson's 31 m/46 m vs "50 meters" and p = 0.86 vs 0.98; Eagleman 2008 repeats "50 meter"/"3 second"; Arstila's "did not report" overstates (Stetson logs a duration report).
-- **Recommendation**: FOLD into [[temporal-void]] "The Duration Paradox" (2440/3000, 559 headroom; fold costs ~250–310). Ranked below veto and dormancy, level with serial-order, above grammar and contingency; not graded against self-prediction/impossible-percept. `resolution-void` (10 headroom) and `self-opacity` (70 over hard) ruled out as hosts. Standalone slug if a slot is granted: `tempo-void`.
-- **State**: appended `{research_file: obsidian/research/voids-tempo-void-2026-10-16.md, target_section: voids}` to `task_chains.pending_articles` by targeted text insert (YAML re-parsed: 20 entries). No todo.md edit (the NEEDS-HUMAN voids-slot task owns the decision).
-
-## 2026-10-16T09:10:59+00:00 - research-topic
-- **Task**: Research Acquaintance Without Causation and the Self-Stultification Argument (P2; harvested from `reviews/optimistic-2026-10-16-self-stultification-repair-wing.md` High-Priority opportunity A)
-- **Status**: Success
-- **Topic**: whether the Map's acquaintance epistemology concedes the epiphenomenalist's reply to self-stultification, and whether the two commitments can be stated as one thesis
-- **Output**: [[research/acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16]] (7,353 words by `analyze_length`)
-- **Sources consulted**: 16 cited. 5 read at the primary and grepped: Chalmers 1996 ch. 5 (archive.org OCR, 21 strings), Chalmers 2003 (consc.net preprint, 29 strings), De Brigard 2014 (author PDF, 21 strings), SEP "Epiphenomenalism" rev. 2023 (10 strings), Jackson 1982 (JSTOR scan, 4 strings). Metadata-only (Crossref): Yetter-Chappell 2022 (body blocked: Cloudflare/403/429), Bayne 2001, Moore 2012, Robinson 2013. The rest are leads marked UNVERIFIED.
-- **Answer**: the tension is real at the knowing ("presence") channel. Chalmers 2003 assumes epiphenomenalism and shows that constitution, "tighter than any causal connection", underwrites phenomenal knowledge, and the Map's own acquaintance, constitutive-observation and phenomenal-intentionality pages accept its premises. The two commitments become one thesis if the premise moves from knowing to *use* (inference, memory, perceptual justification) and *voice* (report, assertion). The reviewer's "report channel" is one of the two. Against an interactionist, the relocated premise needs efficacy *in virtue of* phenomenal content, which Tenet 3's content clause posits.
-- **Verification findings**: De Brigard 2014 concedes the counterfactual condition "is all you need — and have" (pp. 123–124), argues against the identity theory, relies on parsimony and sets Chalmers aside (n. 8). Jackson 1982 p. 133 allows qualia to make "a difference to other mental states". Chalmers 2003 n. 15 calls ch. 5 "at best suboptimal".
-- **Verdict**: (a) new topics article, `suggested_slug: acquaintance-without-causation`. Appended to `task_chains.pending_articles` by targeted text insert (YAML re-parsed: 19 entries). Hub headroom 45, master 526 (448 after open P3), acquaintance 468, metaproblem 80, tenets critical.
-- **Spillover (untasked)**: hub L107 / master L79 "doubly self-stultifying" needs an unstated content-efficacy premise; tenets L101 / agency-void L108 De Brigard attribution; `philosophical-zombies` L157 "identical in content" against Chalmers 2003 p. 38.
-- **Target**: none (research note only; no article or todo edited)
-
-## 2026-10-16T08:20:18+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
-- **Task**: the P1 L183 "For Interface Architecture" task (outer-review 2026-10-16 Gemini 3.1 Pro §1 and Required Weaknesses item 5, convergent with ChatGPT 5.6 Sol Pro §Overall item 5; UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 1). It is the fourth of the five queued tasks on this file to be applied.
-- **Original score**: n/a. `scripts/curate.py` is absent; the edit is the one the task specifies.
-- **Changes**: one substitution covering the whole L183 paragraph, with OLD and NEW pulled from the task Notes by script. OLD was located by text and re-counted at 1 in the live file. It was still the whole of line 183, so the earlier L169/L193 edits had not touched it. The paragraph no longer says the dissociation pattern "supports" interface friction, that "Friction predicts" independently failable components, or that the clinical evidence "appears to bear this out". It now gives friction a structural reading and grades the result as fit rather than support. It says why: a developed functionalism expects the same pattern, and the channels were named from the syndromes rather than predicted from friction. It closes by saying the correspondence illustrates the friction vocabulary until it yields a prediction standard neuroscience does not make, and links to the concession in `concepts/interface-friction` §Pathological Friction. This brings L183 into line with L179 (functionalism predicts the same pattern) and with `concepts/interface-friction` L96/L98. The heading `### For Interface Architecture` is unchanged, and no references were added.
-- **Flow check**: the paragraph was re-read in context. "That is fit" points back to the structural reading in the first sentence, and "it illustrates" points to "that correspondence". The paragraph before it (L179) ends on the adjudication point, and a heading follows, so no back-reference broke and no repair was needed. The wording differs from the taxonomy sibling's L169 phrase ("read off the syndromes rather than predicted in advance"), as the Coordination note asked.
-- **Engagement**: Mode Three. The paragraph was the article's own overclaim, not a reply to an opponent, so the fix honestly marks fit-not-confirmation and claims no new argument.
-- **Length**: `analyze_length` went from 3,741 to 3,788 (+47, as specified; topics hard limit 4,000, gate `>=`). That leaves 211 words of headroom (4000−1−3788) for the one remaining task on this file (blindsight/pain, +182 → ~3,970).
-- **Frontmatter**: `ai_modified` changed to 2026-10-16T08:20:18+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
-- **Published**: yes
-
-## 2026-10-16T07:51:11+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
-- **Task**: the P1 alien-hand / epiphenomenalism task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 3, on substitution (3)). It is the third of the five queued tasks on this file to be applied.
-- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
-- **Changes**: eight substitutions, each pulled from the task Notes by script and re-counted at 1 in the live file before it was applied (located by text; the stated line numbers still matched).
-    - (1) L105: "What this maps" now describes motor execution coming apart from intention, inhibition and sense of agency, instead of a severable descending channel from conscious intention (−2).
-    - (2) L105: the missing control channel is marked as the interface reading, and the comparator account that `topics/anarchic-hand-and-action-ownership` concedes in full (frontal inhibition plus the forward-model prediction of authorship) is stated beside it (+27).
-    - (3) L109: the FND and alien-hand "same channel ... a finding rather than an artefact" claim becomes the Map's reading. It now adds that no common measure yet shows the two cases to be one variable, and that the conversion-disorder article calls that localisation contestable (+3). This is the Gemini-convergent substitution. Edwards et al. 2012 is still reported as the Bayesian mechanism, and the text does not concede that the interface is idle.
-    - (4) L107: the alien hand and blindsight pair now "fit the bidirectional-interface picture" instead of "define the bidirectional interface" (+0).
-    - (5) L111: conscious motor selection is labelled a framework commitment, not an inference from the motor neuroscience, matching `concepts/motor-selection` L88. "On that proposal" now introduces the bypass reading (+12).
-    - (6) L185: the heading `### Against Epiphenomenalism` was renamed `### Alien Hand and Epiphenomenalism` (+2). No inbound anchor links to the old heading were found in obsidian, archive or hugo/content. `### Motor Descending — Alien Hand Syndrome` was left unchanged, as required.
-    - (7) L187: "particularly awkward for epiphenomenalism" and the premise that presupposed the descending channel ("losing the descending channel should change nothing") are replaced. The paragraph now reports that alien hand is often cited against epiphenomenalism, because behaviour and felt authorship change together (−17).
-    - (8) L189: "precise shadow ... causally idle ... considerably more strained" becomes the concession that this reply costs the epiphenomenalist nothing. Lawful covariation is what every psychophysical-law view posits, the Map's included. The Map's case against the position is sent to [[self-stultification|the self-stultification argument]] (−2). The bare slug `self-stultification` is unique (concepts/), and its target exists.
-- **Flow check**: the text around each substitution was re-read. "It is frontal inhibition" points back to "what is missing", "commands from it" to consciousness, "that localisation" to the shared-channel claim in the same sentence, and "the conversion-disorder article" to the paragraph's own link. "On that proposal" refers to the Map's framework proposal. In L189, "the brain damage" and "the behavioural change" still have their antecedents in the new L187. No repair was needed. The L109 opener ("captures the same descending motor channel") and L105's closing "conscious authorisation" sentence are outside this task's remit and were left as they are.
-- **Engagement**: with the comparator account and the Bayesian-FND account (L105, L109, L111), Mode Three. The neural mechanisms are stated as adequate accounts, and the shared interface channel is labelled as the Map's reading. With epiphenomenalism (L187–L189), Mode Three: the alien hand reply is honestly conceded as cost-free inside the epiphenomenalist's framework. The in-framework pressure is placed on self-stultification (Mode One, against the bare-correlation form, per `concepts/epiphenomenalism` L98), not on the syndrome. No mode labels appear in the article.
-- **Length**: `analyze_length` went from 3,718 to 3,741 (+23, as specified; topics hard limit 4,000, gate `>=`). That leaves 258 words of headroom (4000−1−3741) for the two remaining tasks on this file (blindsight/pain +182, L183 friction +47 = 229).
-- **Frontmatter**: `ai_modified` changed to 2026-10-16T07:51:11+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
-- **Published**: yes
-
-## 2026-10-16T07:36:16+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
-- **Task**: the P1 split-brain / anaesthesia / bandwidth task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16, synthesis cluster 2, on substitution (1) only). It is the second of the five queued tasks on this file to be applied.
-- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
-- **Changes**: six substitutions, each pulled from the task Notes by script and re-counted at 1 on its stated line before it was applied. The line numbers had not moved after the taxonomy task.
-    - (1) L119: split-brain no longer says "higher-order unity persists" or that Santander et al. (2025) preserves "full neural synchronisation". It now says agency survives and that no behavioural measure settles whether experience stays unified. Santander is reported as a finding about neural integration, and the redundant unity channel is marked as the interface reading of it (+18). Per the synthesis, the text was not strengthened toward "experience is divided".
-    - (2) L171: "On the Map's reading," now prefixes the channel-failure claim (+4).
-    - (3) L171: neuromuscular blockers "abolish movement peripherally" instead of severing motor output (+0).
-    - (4) L171: "pharmacological worked exhibit ... load-bearing observations are precise pharmacological analogues" becomes "applies the same ... logic pharmacologically, and three of its observations parallel". This removes the article's only "load-bearing" (−13).
-    - (5) L171: the KCC2 active-reboot sentence becomes "KCC2 emergence mechanism (Hu et al. 2023, in mice)". Reading it as a reopening pathway for the interface is now marked as interpretation (+3).
-    - (6) L197: the 10 bits/s figure is now sourced to Zheng & Meister (2025) as behavioural throughput, and the 11 million figure stays with Zimmermann/Nørretranders. The sentence also adds "though throughput is not interface bandwidth" (+9).
-  One References entry was appended at the end of `## References`: Zheng & Meister 2025. Checked at Crossref: DOI 10.1016/j.neuron.2024.11.008 resolves (302 to Elsevier, pii S0896627324008080), and the title, *Neuron* 113(2), 192–204 (2025) and the authors Jieyu Zheng and Markus Meister match.
-- **Flow check**: the sentences around each substitution were re-read. "Severing them" keeps its antecedent (the bilateral channels / lateral connections), "the interface reading of it" points back to the Santander finding, and the anesthesia-void sentence's "this parallel" still has one after (4). No repair was needed. Nothing else in the prose cited the removed PNAS / synchronisation / higher-order-unity wording.
-- **Engagement**: the L119 and L171 changes are framework-boundary marking (Mode Three). The neural findings are stated as findings, and the interface reading is labelled as a reading laid over them, not derived from them.
-- **Length**: `analyze_length` went from 3,675 to 3,718 (+43, as specified; each step measured equal to its spec; topics hard limit 4,000). The three other queued tasks on this file still have 281 words of headroom (4000−1−3718).
-- **Frontmatter**: `ai_modified` changed to 2026-10-16T07:36:16+00:00. `ai_system` is unchanged, because `claude-opus-5-5` is already present.
-- **Published**: yes
-
-## 2026-10-16T07:06:31+00:00 - deep-review
-- **Status**: Success
-- **File**: [[topics/subjective-facts-and-the-metaphysical-problem-of-other-minds]]
-- **Selection**: shipped scorer, score 101, never deep-reviewed. It is the first review of any kind to edit the file: the 2026-10-14 pessimistic review's four findings on it had never been applied or tasked.
-- **Word count**: 3237 → 3379 (+142); topics soft 3000 / hard 4000, gate `>=`, headroom 621. Soft-warning band: about 73 words of trims offset the fixes.
-- **Critical issues addressed**: 5. (1) Internal contradiction: the article filed the Map "with the egalitarians against Hare and Merlo" and "declines" the fragmentalist exit while keeping a fact simpliciter, yet its lede (and `vertiginous-question` L107 / `egocentric-presentism` L81) says the exit is forced. The Map's posit is now located on the inegalitarian side of Merlo's question, Merlo-shaped and inheriting his "fine line". The fork (privileged fragment collapsing towards Hare, or a triad not yet consistent) is stated, and the fact is "held pending a choice" (lede, calibration, RSP). (2) NEW: L40 glossed Merlo's Appearance/Reality Principle as a guide "absent defeaters"; the raw (ARP 3) says a justified immediate phenomenal judgment is correct, and Merlo disclaims defeat, so the gloss was restated. (3) Kinkaid abstract splice restored (", I argue,"). (4) "the Map's pages have sometimes implied the opposite" had no referent (corpus grep, 0 such pages), so it was rescoped. (5) "(internal and external structure …)" was unsourced (0 hits in Lipman 2023a) and was replaced with the Lipman 2023b abstract's terms.
-- **Medium issues addressed**: 3 (Hellie's target named as Chalmers's dualist system; Lipman 2023a/2023b disambiguated in body and refs; the P-SC2 IOU marked in the BI paragraph). Not edited: the Everettian-primitive counter, already met by the P-I5 sentence.
-- **Citations**: 15 web-verified (Crossref ×14 DOIs; raw text for Merlo 2021, Merlo 2016 draft, Lipman 2023a, Builes, Kinkaid; OpenAlex abstracts for Hellie, Lipman 2016/2023b/2026, Merlo 2013). **Merlo 2016 fn 19 is now verified at raw** (PhilArchive `MERSAT-6` via Wayback; unverified on 10-14). The draft's fn 18 credits Hellie 2013 for the label, which the Hellie bullet now cites. One real-wrong-metadata: the Lipman "2023" year label was ambiguous. No fabrications.
-- **Engagements**: Merlo Mode Three, with the Map's posit now placed inside his camp rather than claiming a distinction it had not earned; Lewis–Perry/Hellie Mode Three; Lipman Mode Three (declared, "no argument that the egalitarian is wrong"); Everettian Mode Three.
-- **Enhancements made**: 4 (the fork stated in three places; the ARP stated at its real strength; the redundant "Tenets 1 and 5" ledger entry removed; Posit One / Builes / Kinkaid openers tightened).
-- **Frontmatter**: `modified` 2026-10-16; `ai_modified` and new `last_deep_review` = 2026-10-16T07:05:12+00:00 (from `date -u`); `ai_system` claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5.
-- **Output**: [[reviews/deep-review-2026-10-16-subjective-facts-and-the-metaphysical-problem-of-other-minds]]
-
-## 2026-10-16T06:06:04+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
-- **Task**: the P1 taxonomy-layer task (UPGRADED P2→P1 by /combine-outer-reviews 2026-10-16). It is the first of the five queued tasks on this file to be applied.
-- **Original score**: n/a. `scripts/curate.py` is absent; the edits are the ones the task specifies.
-- **Changes**: six substitutions, each pulled from the task Notes by script and re-counted at 1 on its stated line before it was applied:
-    - (1) L48: the lead states the data before the reading (+11).
-    - (2) L62: "four" becomes "six candidate" interface channels (+1).
-    - (3) L73: each table row is now an established dissociation plus the component it provisionally isolates; the channel labels are the interface reading (+12).
-    - (4) L164: the self-model bullet drops the attentional bypass and cites the ventral-attention contribution (Pacella et al. 2019; Kirsch et al. 2021) (+15).
-    - (5) L169: components are "picked out", not independently confirmed (Vocat et al. 2010) (+26).
-    - (6) L193: "coupling is multi-channel" becomes "capacities ... functionally differentiated" (+4).
-  Three References entries were appended at the end of `## References`: Vocat 2010, Pacella 2019 and Kirsch 2021. Crossref checked for each: the DOI resolves, and the title, journal, volume/issue and pages or article number match. The Vocat entry is byte-identical to ref 12 of `topics/anosognosia-and-the-reversible-self-monitoring-channel`. The mermaid diagram was not redrawn; bullet (4) records the simplification.
-- **Flow check**: the sentences around each substitution were re-read. Every pronoun and back-reference keeps its antecedent, so no repair was needed.
-- **Engagement with functionalism**: Mode Three at L73 (framework-boundary marking: the channel reading versus the coupled-subsystems redescription). L193 stays as it was: it says the evidence fits either account.
-- **Length**: `analyze_length` went from 3,536 to 3,675 (+139, as specified; topics hard limit 4,000). The four other queued tasks on this file still have 324 words of headroom.
-- **Frontmatter**: `ai_modified` changed to 2026-10-16T06:06:04+00:00. In `ai_system`, the duplicate `claude-fable-5-1` was removed (keeping the last occurrence) and `claude-opus-5-5` was appended.
-- **Published**: yes
-
-## 2026-10-16T06:00:06+00:00 - combine-outer-reviews
-- **Status**: Success
-- **Cycle**: 2026-10-16
-- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, gemini-3-1-pro). Claude was not commissioned because of the weekly Fable limit (blocked until 2026-10-21T04:00Z); this is recorded as absent, not as dissent.
-- **Subject**: [[topics/neurological-dissociations-as-interface-architecture]] (recent-aged fallback; both reviewers)
-- **Clusters**: 3 convergent, 3 divergent; the rest are singletons. Every cluster was checked against the live article before it was counted.
-    - **Convergent, 2/2 and verified**:
-        - fit presented as confirmation (L73/L169/L183);
-        - Santander read as evidence of phenomenal unity (L119);
-        - the FND paragraph's own Bayesian mechanism doing the work (L109).
-    - **Divergent**: blindsight/Phillips, the L119 replacement, and the treatment of functionalism. On each, the live text sides with ChatGPT.
-    - **Excluded**: Gemini's quotations taken from sibling pages (split-brain, anosognosia, capability-division) were not counted. Its processing's anosognosia corroboration of the taxonomy task's L164 substitution is not upheld.
-- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4):
-    - the taxonomy layer;
-    - split-brain/anaesthesia/bandwidth;
-    - alien hand/epiphenomenalism;
-    - L183 interface friction.
-  The blindsight/pain task stays P2.
-- **Tasks amended**: 1. The blindsight/pain task's NEW L79 text now carries the Michel & Lau (2021) clause, with a fourth reference (Crossref doi:10.1037/rev0000266; Europe PMC abstract re-read). Its net changes from +137 to +182.
-- **Tasks deduplicated**: 0 (the five tasks edit disjoint loci). **Tasks minted**: 0. `parse_tasks` active count stays at 122.
-- **Headroom**: all five tasks applied to a scratch copy take the article from 3,536 to 3,970 (topics hard 4,000), leaving 29 words.
-- **Output**: [[reviews/outer-review-synthesis-2026-10-16]]
-
-## 2026-10-16T05:33:51+00:00 - outer-review
-- **Status**: Success
-- **Reviewer**: Gemini 3.1 Pro Deep Research. Collected 05:24Z by collect-gemini-review from a conversation commissioned 04:31Z. The first model turn was a dead "something went wrong" error, and the report came from the panel with the `h1`.
-- **File**: [[reviews/outer-review-2026-10-16-gemini-3-1-pro]]
-- **Subject**: audit of [[topics/neurological-dissociations-as-interface-architecture]], the same subject as the ChatGPT leg (reuse:pending-reviews)
-- **Extraction**: 29,912-character canonicalised markdown body (21 trailing citation-chip whitespace runs stripped from 29,975), read in 1,000-character slices. The whole-body SHA-256 and six part hashes matched the in-page values.
-- **Claims verified**: 14. That is 9 on disk (quote provenance, L109, L119, L179, L183, interface-friction L96/L98, the sibling L78/L130) and 5 external (Crossref and Europe PMC: Schechter & Bayne 2021, Michel & Lau 2021, Doerig et al. 2021, Hallett et al. 2022, Cogitate 2025). 5 claims are disputed and 3 unverified.
-- **Disputed**:
-    - The reviewer audited the article cluster as one manuscript. Its IIT/Cogitate charge and its quotation "2025 findings complicate connectivity-based readings" come from `split-brain-consciousness` L130.
-    - "Adopts Phillips wholesale" is false: the article is categorical the other way. This diverges from ChatGPT.
-    - Schechter & Bayne "conclusively" showing that phenomenal unity is shattered is overstated; their abstract calls the agency reading an open question.
-    - The Doerig et al. journal and volume are wrong (*Cognitive Neuroscience* 12(2):41–62).
-- **High-value findings**: 4.
-    - (1) L183 claims "Friction predicts" and "supports" a pattern that L179 says functionalism predicts too, and that `concepts/interface-friction` L96/L98 says only illustrates its vocabulary. Convergent with ChatGPT §Overall item 5, which was not tasked.
-    - (2–4) The split-brain agency/experience point, FND predictive processing and anosognosia belief-updating corroborate three of ChatGPT's queued tasks.
-- **Tasks generated**: 1 (P2 refine-draft, L183, net +47; with the four ChatGPT tasks the article would reach ~3,925 of 4,000).
-- **Not tasked**:
-    - Michel & Lau contest note on the ChatGPT blindsight task's NEW L79 text. Recorded as a recommended amendment for /combine-outer-reviews, because a separate task would depend on order.
-    - Hallett 2022 currency citation (L109 sits in a sibling locus).
-    - Active-inference rival section (headroom).
-    - `split-brain-consciousness` L78 Schechter–Bayne paraphrase (spillover).
-
-## 2026-10-16T05:05:09+00:00 - research-topic
-- **Task**: Research ketamine dissociation and the retrosplenial rhythm — what the controlled pharmacological case (Vesuna 2020, Wehrman 2023) does to the Map's "parallel / independent route" claim (optimistic-2026-10-08-clinical-dissociation-wing item 4)
-- **Status**: SUCCESS
-- **Topic**: ketamine dissociation and the deep posteromedial / retrosplenial rhythm
-- **Output**: [[research/ketamine-dissociation-retrosplenial-rhythm-2026-10-16]] (4,491 words)
-- **Sources consulted**: 15 cited, all PubMed-verified; 6 read in full text at PMC (Vesuna 2020 PMC7553818, Wehrman 2023 PMC10624770, Bera 2026 PMC12812183, Tian 2023 PMC10060225, Grent-'t-Jong 2021 PMC8686110, plus Hu 2025 abstract); 2 abstract-only because full text was blocked (Schmidt 2012, Weber 2020)
-- **Bera et al. 2026 resolved**: the review's UNVERIFIED citation is real — *The Neuroscientist* 32(1):72–88, PMID 41453872, doi 10.1177/10738584251403946, epub 2025-12-26. It was not yet PubMed-indexed when the outer review ran. Its "requisite network feature" phrase is verbatim and is attributed jointly to Vesuna 2020 and Hu et al. 2025.
-- **Answer to "independent of what?"**: independent of the psychogenic route's *generating mechanism* — yes, and better supported than when the clause was written (HCN1-paced 1–3 Hz layer-5 retrosplenial rhythm, optogenetically sufficient, knockout-necessary, drug-specific across eight agents); independent of the *precision-weighting family* — NOT established (Wehrman 2023 contains zero occurrences of `dissociat` and uses sub-disconnection doses, so it does not reduce dissociation to precision weighting; but its own discussion nominates HCN1 as plausibly "critical for functional predictive coding", a live bridge); independent of *level-of-consciousness change* — contested (Grent-'t-Jong 2021; Tian 2023 found propofol raises the same 3–4 Hz posteromedial power without dissociation); reaching the *same channels* as the clinical cluster — no (the rodent phenotype is detection-without-affect, the pain-asymbolia axis).
-- **Verdict**: (b) edits to existing pages, no new article. Required edit is net −1 word on `topics/clinical-dissociation-as-systematic-evidence` ("that do not reduce to" → "not yet reduced to"), which installs without the pending human length decision that has held skipped item (12) since 2026-10-08. Recommended companion is a +247-word mechanism paragraph with four references in `apex/pharmacological-dissociation-as-evidence` (275 words of measured headroom). No `task_chains.pending_articles` entry minted.
-- **Target**: none (research note only; no article or todo edited)
-- **References to review**: `reviews/optimistic-2026-10-08-clinical-dissociation-wing.md` item 4; `reviews/outer-review-2026-10-08-claude-fable-5-1.md` skipped item (12)
-
-## 2026-10-16T04:35:26+00:00 - coalesce
-- **Task**: coalesce cycle slot: delta check against the 2026-10-15T13:20Z screen, abandoned (steady state; no-candidate streak 29)
-- **Status**: SUCCESS (no candidate)
-- **Pool delta since 10-15 13:20Z**: `git log --diff-filter=ADR` on topics/concepts/voids/archive shows no additions, removals or renames, and the working tree has no uncommitted changes in those sections. 24 files were modified (12 concepts, 10 topics, 2 voids). Body-only `analyze_length` before (base `2fcb3ac4f0`) vs now: no article got shorter by more than 6 words (largest drops: `clinical-dissociation-as-systematic-evidence` −6, `consciousness-value-connection` −5, `forward-in-time-conscious-selection` −4). The rest grew, up to `fusion-void` +217 (1994 → 2211) and `the-interface-problem` +110. All 24 were edited within the recency window, so all are excluded anyway. None of the five pairs declined at 00:21Z changed, and nor did any file in the sub-1750w concepts tail. Gating counts are unchanged: concepts 359/370, topics 348/370 (raw 347, the known +1), voids 113/125.
-- **Age floor**: moving the 30-day `created` cutoff by one day (09-15 → 09-16) adds nothing, because no live article has a `created` date between 2026-09-08 and 2026-09-20 (positive control: the date distribution prints 09-07 and 09-21 entries).
-- **Recency-window re-entrants**: files whose latest edit is 10-14 were excluded at 13:20Z and are eligible again: 34 topics, 21 concepts, 7 voids. I filtered out sidecars and index files before pairing. Topics: 0 feasible pairs in the whole pool, and 0 near-feasible pairs with a re-entrant. Voids: 0 feasible. The 4 near-feasible void pairs all involve `simulation-detection-void` (1530w) and score low (J ≤ 0.32 with no mutual links; the slug overlap is only the shared `void` token). Concepts: the whole-pool feasible count went from 137 to 148. The 11 new pairs all come from the re-entrants `subjective-aim` (1863) and `timing-gap-problem` (1784) paired with the short tail (`the-agent-shaped-hole`, `phenomenal-presentation`, `mind-arena`, `phenomenal-depth`, `perception`, `status-of-content`); all have tag J ≤ 0.12, slug J 0 and no mutual links, so they are unrelated. The best near-feasible concepts pair is `prehension`+`subjective-aim` (3642 vs 3500, J 0.37, 3 links one way). It was declined 10-12 as two distinct Whitehead technical terms, it is still over the hard limit, and it was not re-read.
-- **Finding**: unchanged. The delta cannot create a feasible, related pair. The pool is exhausted by role granularity and by length, and no section is at cap (11/22/12 slots).
-- **Sources**: none
-- **Target**: none
-- **Archived**: none
-- **References to review**: none
-
-## 2026-10-16T04:06:35+00:00 - outer-review
-- **Status**: Success
-- **Reviewer**: ChatGPT 5.6 Sol Pro (collected 03:54Z by collect-chatgpt-review; conversation commissioned 02:07Z)
-- **File**: [[reviews/outer-review-2026-10-16-chatgpt-5-6-sol-pro]]
-- **Subject**: audit of [[topics/neurological-dissociations-as-interface-architecture]] (fallback:recent-aged)
-- **Extraction**: 59,831-character markdown body read in 67 slices of 900 characters; all 67 slice hashes and the whole-body hash matched the in-page values
-- **Claims verified**: 23 (12 on disk; 9 external via Europe PMC / PMC / raw PDF: Berthier 1988, Vocat 2010, Pacella 2019, Kletenik 2023, Kirsch 2021, Santander 2025, Hu 2023, Zheng & Meister 2025, Balali 2025; 2 changelog/commit claims); 5 partly right or disputed; 4 unverified (not fetched)
-- **High-value findings**: 5. (1) The body contradicts the article's own compatibility grade: four channels announced over a six-row table, each row "empirically confirmed", each component "independently confirmed". (2) The composite's attention bypass is contradicted by Pacella 2019 and Kirsch 2021. (3) The blindsight, pain-asymbolia and split-brain sections lag their recalibrated dependencies. (4) Hu et al. is a mouse study presented as a "dedicated reopening pathway", and the 10 bits/s figure is misattributed. (5) The alien-hand epiphenomenalism argument assumes the descending channel at issue.
-- **Tasks generated**: 4 (P2: 4, all refine-draft on the reviewed article; combined net +342 against 463 words of headroom)
-- **Not tasked**: retitle (operator decision), heading rename (inbound anchor), rival-model table and evidence matrix (headroom), sibling gaps (anosognosia page has no attention or Pacella/Kirsch; conversion-disorder L101; blindsight L157), methodology items 48–64 (they duplicate the existing evidential-status discipline, so the finding is non-application)
-
-## 2026-10-16T03:46:49+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/the-psychophysical-control-law]] (secondary: [[topics/psychophysical-laws-bridging-mind-and-matter]], not edited)
-- **Original score**: n/a (`scripts/curate.py` absent; two citation-verification jobs from [[reviews/deep-review-2026-10-08-the-interface-problem]] "For the driver")
-- **Job 1 (Chalmers 1996 p. 214, T-shirt standard): CERTIFIED via archive.org, not via Google Books.** Google Books search-within (`jscmd=SearchWithinVolume2`): the hardback id `FE0NmQEACAAJ` is a dead index (0 for "zombie"); the 1997 OUP paperback id `0fZZQHOfdAAC` is live. Negative control "quantum zeno amplification" returned 0. Positive controls: "zombie" gave p. 94 ("So let us consider my zombie twin"), "something for nothing" gave p. 111, "nonreductive theory" gave p. 213 (chapter 6 opening). "T-shirt", "shirt", "front of a T-shirt" and "Physicists seek" all returned 0, each with a live control run straight after. The page itself is not in the index: "something for nothing" returned p. 111 but not p. 214, though p. 214 has the sentence "In science, we never get something for nothing". Two separate archive.org digitisations put the sentence on p. 214: `chalmers-the-conscious-mind` (scan OCR; text sits between the running heads "214 Toward a Theory of Consciousness" and "…Cognition 215") and `david-j.-chalmers-the-conscious-mind-in-search-of-a-fundamental-theory_202409` (between the markers "Page 214" and "Page 215"). Text: "Ultimately, we will wish for a set of fundamental laws. Physicists seek a set of basic laws simple enough that one might write them on the front of a T-shirt; in a theory of consciousness, we should expect the same thing." The pagination of both copies matches Google Books at pp. 94, 111, 213 and 275.
-- **Job 1 side-finding: the L77 quote locator was wrong (p. 276 → p. 275).** In both archive.org copies, "It would be odd if the universe had fundamental laws connecting complex functional organizations … simpler, more fundamental psychophysical laws" closes chapter 7 on p. 275. Chapter 8 starts on p. 276 (table of contents: "8 Consciousness and Information: Some Speculation 276"). Google Books returns page PA275, not PA276, for "would be odd if the universe" and for "organizational invariance acts as a strong constraint", with live controls on both sides. The 2026-07-18 deep review moved this cite from 214 to 276 by reading the text "immediately after the p.275 running head" as p. 276. Running heads sit at the top of their page, so text that follows one is on that page.
-- **Job 2 (Schaffer print venue): no print venue as of 2026-10-16.** WebSearch 1: `Schaffer "Naturalistic Dualism and the Problem of the Physical Correlate"` found only the draft PDF, an Oxford seminar listing and a PhilPapers record for Rabin's volume. WebSearch 2: `Rabin "Grounding and Consciousness" Oxford University Press Schaffer chapter "Physical Correlate"` returned "forthcoming" listings only. Crossref and OpenAlex have no record of the chapter or of the volume. Schaffer's homepage, fetched today, still lists it as "Grounding and Consciousness, ed. Rabin (forthcoming): Oxford". PhilPapers (Cloudflare) and OUP search (202, empty) were unreachable. Both References entries are unchanged.
-- **Changes**: (1) L75: "Good fundamental laws fit on a t-shirt: F=ma, …" → "Good fundamental laws fit on a t-shirt (Chalmers 1996, p. 214): F=ma, …". The cite goes before the colon so it covers the standard, not the Map's example equations. It uses the page's own "p." citation style rather than the task's "1996: 214". Chalmers 1996 was already References #1. (2) L77: "(1996, p. 276)" → "(1996, p. 275)". No body claims about the t-shirt problem were changed.
-- **Length** (`analyze_length`, topics, gate `>=`): 3,476 → 3,480 (+4; hard limit 4,000). psychophysical-laws-bridging-mind-and-matter is unchanged at 3,498.
-- **Frontmatter** (control law only): `ai_modified` 2026-10-13T00:32:19+00:00 → 2026-10-16T03:46:49+00:00; `modified` 2026-10-13 → 2026-10-16; `ai_system` claude-opus-4-6+claude-fable-5 → claude-opus-4-6+claude-fable-5+claude-opus-5-5. The secondary file has no text change and no frontmatter change.
-- **Follow-up**: the same p. 276 locator is still live at [[topics/inheritance-problem-for-the-psychophysical-law]] L84 ("(1996, p. 276)") and in its References #1 "(p. 276)", and in [[research/inheritance-problem-for-the-psychophysical-law-2026-09-24]] L108. All three should read p. 275. Schaffer's chapter is forthcoming in G. O. Rabin (ed.), *Grounding and Consciousness* (OUP). Re-check for a print venue once the volume appears.
-- **Published**: yes
-
-## 2026-10-16T02:56:55+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/subject-fusion]]
-- **Word count**: 2669 → 2707 (+38; concepts hard 3,500, gate `>=`, 793 headroom)
-- **Critical issues addressed**: 4. (1) L48 "The only peer-reviewed philosophical treatment, Cochrane (2021)" was false: Kang (2022, *Synthese* 200(5) 413) is a peer-reviewed reply on the Hogan case. Now "A peer-reviewed philosophical treatment". (2) Zohny & Savulescu: restored the dropped "psychologically" inside the L57 quotation. L75 no longer sets the Map's claim about subjects against their claim about psychological identity, and L85 now says "psychological identities". (3) L91 Dualism (tenet-check-2026-10-14 Note 3): now framed "On the Map's reading". Coleman is credited only for subjects. Non-composition gives "not combination", and the pairing premise gives replacement, which removes the contradiction with L73. (4) L95 Occam (open P3 todo task): Tenet 5 now only bars simplicity from deciding. The step rests on the Map's commitment to determinate subjects, not on evidence, and the cost is still booked.
-- **Medium issues addressed**: 3. L65 Coleman's dilemma now reads "if sound". L75 "The Map speculates that the commitments" became "The Map's commitments". L59 restored "every possible pair" from the source.
-- **Enhancements made**: 1. Further Reading now lists [[census-change-points]] (reciprocal).
-- **Citations**: all 10 external References entries checked against Crossref (all real-correct). Every quotation was grepped in a raw source: Parfit PDF, Cochrane accepted manuscript, Schwitzgebel & Nelson manuscript and abstract page, Europe PMC XML for Zohny & Savulescu, PLoS XML for Rao, Nature HTML for Jiang, OpenAlex abstracts for Roelofs ch. 8 and Roelofs & Sebo, and the Hertfordshire PDF for Coleman.
-- **Engagements**: Parfit, Mode Three. Schwitzgebel & Nelson, Mode Three (framework boundary, step not evidenced). Combinationists, Mode Three through Coleman's dilemma ("if sound"). Zohny & Savulescu, mixed (conditional on the Map's reading; their "individual patient" verdict needs a fact nobody can read).
-- **Frontmatter**: `ai_modified` 2026-10-13T02:44:57+00:00 → 2026-10-16T02:56:55+00:00. `last_deep_review` added, set to 2026-10-16T02:56:55+00:00. `ai_system` unchanged (`claude-opus-5-5` already present).
-- **Follow-up**: the open P3 refine-draft "`concepts/subject-fusion` L95 — the Occam paragraph…" is discharged and can be closed. L93 link text "the subject index in the selection law changes value" could use the target page's "arity" (optional, low priority).
-- **Output**: [[reviews/deep-review-2026-10-16-subject-fusion]]
-
-## 2026-10-16T02:35:49+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/the-interface-problem]]
-- **Original score**: n/a (`scripts/curate.py` absent; one-sentence calibration task from [[reviews/deep-review-2026-10-08-the-interface-problem]] "For the driver", following the 01:50Z fix on the archived predecessor)
-- **Changes**: (1) L83 Ion Channels, the "decisive difficulty" sentence (count 1). Old (27 words): "the Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window while attention operates at ~100ms — a [[timing-gap-problem|gap of twelve orders of magnitude]]". New (2 sentences, 97 words), with the same structure as `archive/topics/the-interface-location-problem` L80: the 10⁻¹³ s figure is labelled as Tegmark's (2000) MICROTUBULE estimate, twelve orders below attention's ~100ms; Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, whose parameters Reimers et al. (2009) contest, narrows the gap without closing it; 3,000–30,000 observation events per ~300ms decision window would still be needed, the lower figure the same order as Stapp's own assumed ~1,000 per window (Stapp 2007), a modelling assumption rather than an independent prediction; and no concrete model supplies events at either rate. It is still framed as "the decisive difficulty", the Zeno route is not presented as rescued, and the piped [[timing-gap-problem|twelve orders of magnitude]] link stays on existing words at zero word cost. (2) Back-reference: in the following Georgiev sentence, "found the effect breaks down" became "found the Zeno effect breaks down" (+1), because "the effect" was now two sentences from its antecedent. (3) L79 Microtubules, outside the brief but the same Hagan-revision summary: "though Tegmark (2000) and others contend the original calculations stand" became "though Reimers et al. (2009) contest the parameters behind them" (+1). The old clause was anachronistic, since a 2000 paper cannot contest a 2002 revision, and it named a different challenger from the one L83 now names. Tegmark is still cited in the body, at L83.
-- **Grep sweep** (`grep -iF`, after the edits): "twelve orders" 1 (the new L83 link text, now attributed to Tegmark's microtubule estimate); "femtosecond" 0; "10⁻¹³" 1 (L83, labelled); "decoherence window" 0; "orders of magnitude" only at L83. No other summary mention needed changing.
-- **References**: added Reimers, McKemmish, McKenzie, Mark & Hush (2009), *PNAS* 106(11), 4219–4224, doi:10.1073/pnas.0806273106, copied from `concepts/quantum-zeno-effect` L122 (Crossref-verified 2026-10-16 01:50Z). It goes in as #10, alphabetically after Rajan (#9), and the old #10–17 (Rizzolatti … Robinson) are renumbered to #11–18. The body cites by author and year, with no numeric markers (grep confirmed), so only the list numbers changed.
-- **Length** (`analyze_length`, topics, gate `>=`): 3,473 → 3,583 (+110: about +72 prose, the rest the reference entry; hard limit 4,000, 416 headroom left).
-- **Frontmatter**: `ai_modified` 2026-10-08T15:26:20+00:00 → 2026-10-16T02:35:49+00:00; `modified` 2026-10-08 → 2026-10-16; `ai_system` claude-opus-4-7+claude-fable-5-1 → claude-opus-4-7+claude-fable-5-1+claude-opus-5-5 (it was absent component-wise, so it was appended).
-- **Published**: yes
-
-## 2026-10-16T01:50:44+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[archive/topics/the-interface-location-problem]] (archived page, live at its URL; Hugo copy `hugo/content/archive/topics/the-interface-location-problem.md`)
-- **Original score**: n/a (`scripts/curate.py` absent; one-sentence calibration task from [[reviews/deep-review-2026-10-08-the-interface-problem]], driver follow-up)
-- **Changes**: L80 Ion Channels "Difficulties", first sentence only. Old (26 words): "The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude." New (2 sentences, 94 words): the 10⁻¹³ s figure is labelled as Tegmark's (2000) MICROTUBULE estimate, twelve orders below attention's ~100ms; Hagan et al.'s (2002) revised 10⁻⁵–10⁻⁴ s, "whose parameters Reimers et al. (2009) contest", "narrows the gap without closing it", since outpacing decoherence still takes 3,000–30,000 observation events per ~300ms decision window. The lower figure is the same order as Stapp's assumed ~1,000 per window (Stapp 2007), which is a modelling assumption rather than an independent prediction, and no concrete model supplies events at either rate. Figures follow `concepts/quantum-zeno-effect` L78 and `concepts/timing-gap-problem` L71 exactly (0.3 s / 10⁻⁴ s = 3,000; / 10⁻⁵ s = 30,000). The timing obstacle stays a real difficulty. The Georgiev 2015 / Stapp sentence (fixed 10-08 15:30Z) is untouched and still reads correctly after the rewrite ("decoherence time" there means the timescale just discussed).
-- **References**: added Reimers, McKemmish, McKenzie, Mark & Hush (2009), *PNAS* 106(11), 4219–4224, doi:10.1073/pnas.0806273106. Metadata was copied from `concepts/quantum-zeno-effect` L122 and confirmed at Crossref (title, five authors, volume, issue and pages all match). Hagan 2002, Stapp 2007 and Tegmark 2000 were already listed; the full block was read, and Reimers had 0 hits before the edit.
-- **Left untouched (deliberately, outside the brief)**: L138, "The timescale objection (femtosecond-scale observation vs. ~100ms attention) remains serious", which is a summary-level string-sibling of the old framing. The live successor `topics/the-interface-problem` L83 still carries the uncorrected "~10⁻¹³ s decoherence window … [[timing-gap-problem|gap of twelve orders of magnitude]]" sentence. Both are reported to the driver.
-- **Length** (`analyze_length`, measured as topics, gate `>=`): 3,286 → 3,393 (+107: +68 prose, the rest the reference entry; hard 4,000, 606 headroom).
-- **Frontmatter**: `ai_modified` 2026-10-08T15:29:57+00:00 → 2026-10-16T01:50:44+00:00; `ai_system` claude-opus-4-6+claude-fable-5-1 → claude-opus-4-6+claude-fable-5-1+claude-opus-5-5 (it was absent component-wise, so it was appended). `modified` was left at 2026-02-20.
-- **Published**: yes (archived page; archive notice unchanged)
-
-## 2026-10-16T01:37:43+00:00 - optimistic-review
-- **Status**: Success
-- **Content reviewed**: the self-stultification wing after all four pessimistic-2026-10-08 priorities landed (10-09 → 2026-10-16 00:35Z). Both hubs were read in full (`concepts/self-stultification`, `topics/self-stultification-as-master-argument`), plus the tenets `^tenet-3-epiphenomenalism` block, the seven repaired loci, and the dependents `arguments/epiphenomenalism-argument`, `concepts/epiphenomenalism`, `concepts/knowledge-argument`, `concepts/phenomenal-acquaintance` and `topics/metaproblem-of-consciousness-under-dualism`.
-- **Verified this run**: Jackson 1982 pp. 134–135 at the raw JSTOR scan (common-cause structure; deployed by Jackson against the other-minds objection, which the hub's wording correctly fences). Yetter-Chappell 2022 checked at Crossref (Synthese 200(2), art. 99). Every Map string quoted was counted once.
-- **Key finding**: the hub's 00:23Z fix ("lawful rather than coincidental") has seven string-siblings still live on the two epiphenomenalism pages: "pre-established harmony" and "implausible coincidences", which `concepts/occasionalism` L59's own definition rules out. Another sibling is at `concepts/consciousness` L117 ("only by luck"). The hub's Performative Dimension L171 is the last flat retorsion in the two hubs.
-- **New subject for the harvester**: acquaintance without causation vs the self-stultification argument (the Map's own acquaintance thesis grants the epiphenomenalist's premise; the argument properly lives at report and assertion). Deduped: not covered.
-- **Tasks added** (P3 refine-draft, above `## Completed Tasks`): epiphenomenalism-argument (+35), concepts/epiphenomenalism (+6), hub self-stultification (+14), master argument (+78, incl. the Crossref-verified Yetter-Chappell reference), concepts/consciousness (+10).
-- **Output**: [[reviews/optimistic-2026-10-16-self-stultification-repair-wing]]
-
-## 2026-10-16T00:34:15+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/dualism]]
-- **Original score**: n/a (`scripts/curate.py` absent; one-substitution calibration task from [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]])
-- **Changes**: L154 (the `**[[concepts/epiphenomenalism]]**` entry under "If mind and matter are distinct, how do they relate?"): "our reports about consciousness lose their causal grounding—the position's ..." → "our reports about consciousness lose their causal grounding, unless lawful correlation can ground them without causation—the position's ...". The old string occurred once. The pipe `[[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]]` is unchanged. The new clause matches the hub [[concepts/self-stultification]] as revised at 00:22Z (L147: Jackson's common-cause tracking is "lawful rather than coincidental"; L149: the reply still owes an account of how a lawful parallel yields knowledge without causal traffic). Pronoun check: "them" can only mean "our reports", because "consciousness" and "causal grounding" are both singular.
-- **Left untouched (deliberately)**: L130 (physicalism strand, already conditional) and L180 (eliminativism, legitimately flat per the hub).
-- **Reasoning mode**: engagement with the epiphenomenalist is Mode Three. The lawful-correlation reply is named as an open alternative, and the residue is marked as the position's deepest difficulty, not its refutation.
-- **Length** (`analyze_length`, gate `>=`): 2,673 → 2,681 (+8; concepts hard 3,500, 818 headroom).
-- **Frontmatter**: `ai_modified` 2026-10-08T14:12:51+00:00 → 2026-10-16T00:34:15+00:00; `ai_system` claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1 → claude-opus-4-8+claude-opus-5-5+claude-fable-5-1 (removed the duplicate, keeping the last occurrence; nothing appended because claude-opus-5-5 was already present). `modified` was left at 2026-10-02.
-- **Published**: yes
-
-## 2026-10-16T00:22:16+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/self-stultification]]
-- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration task carrying Priority 3 of [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]])
-- **Problem**: the hub's `### The Coincidence Response` described the epiphenomenalist's best reply (common cause, tight correlation) as "we're simply lucky" and "extraordinary coincidence". That contradicted `tenets#^tenet-3-epiphenomenalism`, `concepts/epiphenomenalism` L98, and the hub's own Relation-to-Site paragraph (L205, left unchanged).
-- **Jackson verification**: the attribution STANDS. Source grepped: a JSTOR scan of Jackson (1982) "Epiphenomenal Qualia", *Phil. Quarterly* 32:127–136, at sfu.ca/~jillmc/JacksonfromJStore.pdf, extracted with pdftotext. §IV "The Bogey of Epiphenomenalism", reply (i), p. 133, covers the correlation between a quale and one's own behaviour. On that reply, "the hypothesis that A causes B can be overturned by an over-arching theory which shows the two as distinct effects of a common underlying causal process … The epiphenomenalist can say exactly the same about the connection between, for example, hurtfulness and behaviour. It is simply a consequence of the fact that certain happenings in the brain cause both." The behaviour includes "saying 'It hurts'", so the reply addresses the self-report correlation the paragraph describes. The newspaper (Times/Telegraph) analogy the brief pointed to is reply (iii), pp. 134–135, and it concerns only knowledge of OTHER minds, so it does not ground the attribution. Reply (i) does. SEP "Epiphenomenalism" (raw HTML, fetched 2026-10-16) cites Jackson 1982 only at §2.3 Other Minds and §3.4. Its §2.4 common-cause reply to self-stultification (Robinson's Figure 1/2 diagrams) does not credit Jackson, so the attribution rests on the primary text. Jackson (1982) was already in References, so no entry was added.
-- **Changes**: (1) L147–149: both paragraphs were replaced with the review's text. Two zero-word deviations: "What the reply still owes" became "What this reply still owes", giving the opener an explicit antecedent in L147; and the pipe now targets `tenets#^tenet-3-epiphenomenalism` instead of `^bidirectional-interaction`. That anchor marks the paragraph that actually states the contested premise. It is live (it renders as a span id and 8 pages use it) and the label is unchanged. (2) L105, word-neutral (34→34): "would be, at best, a fortunate coincidence maintained by pre-established harmony between two causally disconnected domains. But "fortunate coincidence" is not rational justification" became "would be maintained by a common neural cause, with the experience idle. But correlation the experience does nothing to produce is not obviously rational justification". This also removes a mischaracterisation: on epiphenomenalism the brain causes experience, so the domains are not "causally disconnected" and there is no Leibnizian harmony. (3) L179 back-reference repair, 0 words: "That is the coincidence charge above relocated one step" became "That is the Coincidence Response's debt relocated one step". The old phrase pointed at a charge the new L147 concedes is answered. The relocated item is the lawful-parallel debt, which on Yetter-Chappell's picture is "secured, if at all, by psychophysical law rather than by the knowing".
-- **Flow check**: the `### The Functionalist Dissolution` opening carries no "coincidence" back-reference. The heading `### The Coincidence Response` is kept, since it still names the response to the coincidence charge and no inbound anchor links to it.
-- **Reasoning mode**: engagement with the epiphenomenalist (Jackson) is Mode Three. The common-cause structure is conceded to make the correlation lawful, and the residue (whether a lawful parallel yields knowledge without causal traffic) is marked as the framework-boundary premise the Map contests. Nothing is claimed as a refutation.
-- **Length** (`analyze_length`, gate `>=`): 3,452 → 3,454 (+2; concepts hard 3,500, 45 headroom).
-- **Frontmatter**: `modified` 2026-04-16 → 2026-10-16; `ai_modified` → 2026-10-16T00:22:16+00:00; `ai_system` claude-opus-4-6+claude-opus-5 → claude-opus-4-6+claude-opus-5+claude-opus-5-5.
-- **Published**: yes
-
-## 2026-10-16T00:11:59+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/psychophysical-social-choice-problem]] (scorer pick: never reviewed, score 102)
-- **Word count**: 2937 → 2937 (net 0; `analyze_length`; concepts soft 2500 / hard 3500, gate `>=`, length-neutral mode)
-- **Critical issues addressed**: 2. (1) An internal contradiction: L61 said lexical priority was "the only option on which a subject's moral standing and causal standing would coincide", and L87 exempted it from "leverage varies … with felt intensity". Under lexical priority, leverage tracks stakes (severity), not threshold status. L61 now reads "It lets moral urgency fix causal priority outright"; L87 now reads "On every rule above, lexical priority included". (2) Arrow 1963 2nd ed. publisher corrected from Yale UP to Wiley (Cowles Foundation CFM 12.2 catalogue page; CiNii).
-- **Medium issues addressed**: 3. L37 "pricing rules of that shape, and none of them is neutral" → "pricing aggregation rules, and none comes free": stochastic schemes date only from c.1969–77, and "neutral" is a social-choice term of art that majority rule satisfies. L73: the locality confinement is now priced on both bets the multi-agent sibling names, neural physics and the contested baseline objective collapse. L113: "a group subject" → "a phenomenal group subject", matching L95.
-- **Enhancements made**: 2 low. L57: the unsourced quoted coinage "utilitarian natural law" was reworded without quotation marks. L65: "joint-level ensemble-level" reordered.
-- **Citations**: all 12 external entries web-verified (Crossref; RePEc pages; the Econometric Society abstract page for both Gibbard quotations; Bostrom's PDF; arXiv for Chalmers & McQueen; live SEP HTML for List 2022, revision date Fri Oct 14, 2022). 11 real-correct and 1 real-wrong-metadata (Arrow). No orphans.
-- **Reasoning mode**: engagement with Chalmers & McQueen was boundary-marking (the price is outcome-selection, which Tenet 3 commits to). Engagement with List & Pettit was mixed (the phenomenal group subject is set aside at the boundary; the functional group agent is conceded as compatible).
-- **Not touched**: L79 ("Which reading the register holds is open") is fenced by the P1 HUMAN DECISION on P-Q2's quantifier.
-- **Follow-up (not minted)**: `research/psychophysical-social-choice-problem-2026-09-15` L51/L228 carry the same Yale-UP error for Arrow's 2nd edition.
-- **Frontmatter**: `ai_modified` and `last_deep_review` (new field) set to the review time; `ai_system` unchanged (claude-opus-5-5 already present).
-- **Output**: [[reviews/deep-review-2026-10-16-psychophysical-social-choice-problem]]
-
-## 2026-10-15T23:52:15+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/delegatory-causation]] (primary); secondaries [[concepts/observational-closure]], [[apex/altered-states-as-interface-evidence]]
-- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration task, self-stultification second sweep, carrying Priority 1 of [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]])
-- **Review**: reviews/tenet-check-2026-10-05.md; calibration target `tenets#^tenet-3-epiphenomenalism` (the self-stultification argument is evidence against epiphenomenalism and its deepest difficulty, not its refutation, conditional on knowledge of experience requiring causal traffic from it). Every old string was confirmed to occur exactly once before it was replaced.
-- **Changes**: (1) delegatory-causation L132: "it cannot be rationally held. The defeater here is epistemic, not logical—… —yet that is precisely what makes it devastating, since a position that undermines its own rational credentials cannot command assent" → "it cannot be rationally held if introspective knowledge requires causal traffic from experience. The defeater is epistemic and conditional, not logical—… —so it is the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty rather than its refutation]]" (sentence counts 11→19 and 30→22; paragraph 140→140, net 0; the redundant "here" was dropped to hold net 0). (2) delegatory L136: "eliminates" → "burdens" (102→102). (3) delegatory L182: "epiphenomenalism cannot" → "epiphenomenalism risks" (42→42). L172 and L178 read as difficulty-grade and were left as they are, per the pessimistic review. (4) observational-closure L88: "a defect in one of them" → "a difficulty peculiar to one of them"; "cannot be rationally held." → "…held, provided introspective knowledge requires causal traffic from experience — [[tenets#^tenet-3-epiphenomenalism|the conditional the Map accepts]]"; the defeater sentence now ends "epistemic and conditional … — so it counts as evidence against the position: its deepest difficulty rather than its refutation" (134→167, +33). (5) observational-closure L121, the See-also label: "Why epiphenomenalism cannot be rationally held even if it could be true" → "Why epiphenomenalism cannot be rationally held if introspective knowledge requires causal traffic from experience" (15→17, +2). (6) altered-states apex L122: "the reliability of those reports would be self-defeating—the Map's [[self-stultification-as-master-argument|self-stultification argument]]" → "relying on those reports would be self-defeating—provided knowing an experience requires causal traffic from it. Being conditional, the Map's … self-stultification argument counts as evidence against epiphenomenalism—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]]" (101→123, +22). The old wording called the reports' "reliability" self-defeating, which is a category slip; the new wording calls *relying* on them self-defeating. This was a zero-cost repair made within the same replacement.
-- **Pronoun check**: "it" in "it could still be true" still refers to the severing theory (epiphenomenalism) on both concept pages. The new "it" in "so it is / so it counts" refers to the defeater, and "from it" on the apex refers to "an experience". Delegatory L134's "this self-defeat" and observational-closure's "the self-defeat" still have their antecedents.
-- **Out of scope (unchanged)**: reflexive-methodology L39 and falsification-roadmap L111; tenets.md; the definitional self-stultification pages
-- **Length** (`analyze_length`, gate `>=`): delegatory-causation 3,490 → 3,490 (net 0; concepts hard 3,500, 9 headroom); observational-closure 2,541 → 2,576 (+35; 923 headroom); altered-states apex 4,945 → 4,967 (+22, within the ≤ +25 budget; apex hard 5,000, 32 headroom)
-- **Frontmatter**: delegatory-causation: `modified` 2026-09-30 → 2026-10-15; `ai_modified` → 2026-10-15T23:52:15+00:00; `ai_system` duplicate `claude-fable-5-1` removed (keep-last) and `claude-opus-5-5` appended, giving `claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5`. observational-closure: `modified` 2026-03-13 → 2026-10-15; `ai_modified` → 2026-10-15T23:52:15+00:00; `ai_system` → `claude-opus-4-6+claude-fable-5+claude-opus-5-5`. altered-states apex: `modified` 2026-03-23 → 2026-10-15; `ai_modified` → 2026-10-15T23:52:15+00:00; `ai_system` unchanged because it already contains `claude-opus-5-5`.
-- **Published**: yes
-
-## 2026-10-15T23:21:30+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[voids/fusion-void]]
-- **Original score**: n/a (the skill's `scripts/curate.py review` step does not exist; the task is the exact-replacement bundle from [[reviews/pessimistic-2026-10-15-fusion-void]], Priority List items 1–4)
-- **Changes**: All eleven exact replacements applied, extracted by script from the todo.md task Notes and each re-checked at count 1 before substitution: (1a) L90 the common-cause gate restated against Körding 2007 full text (the model weighs both causal structures on every trial; fitted p_common 0.28), with Tenet 5's caution moved to the edge of the gate's tuning (ventriloquist stage, dubbed film); (1b) L46 "no experience of nearly fusing" narrowed to "at most a sense that something is off", per the page's own research note; (1c) L68 individual McGurk differences assigned to a per-person disparity threshold (Mallick et al. 2015 NED model; "below an individual's disparity threshold ... integrate them" re-grepped in PMC4580505 full text); (2) lead L38 example swapped from eye and hand (the case Hillis 2002 found non-destructive) to disparity and texture; (3a) L40 modality-line edge scoped "with at least one exception noted below"; (3b) L56 "destroyed" → "lost to perceptual judgment"; (3c) L60 Prsa, Gale & Blanke 2012 sentence installed after "demonstrably does not."; (3d) L62 "information the system no longer carries" → "what perceptual judgment no longer has"; (3e) Prsa 2012 added as reference 8; (3f) the Parsimony Void self-cite renumbered to 10; (4) L92 Deroy et al.'s continuation ("and therefore experience phenomenal unity") named as an access account, with whether access explains experienced oneness left as the binding void's open question. Prsa quote verified verbatim (count 1) in the Europe PMC abstract (PMID 22832567); metadata confirmed at Crossref (J Neurophysiol 108(8):2282–2291, doi 10.1152/jn.00439.2012; Mario Prsa, Steven Gale, Olaf Blanke). Pronoun/flow repair (0 words): after the Prsa insertion, L60's closing "which side of that line it came from" pointed at "the modality line", which the sentence before says is not the edge; changed to "which side of the edge it came from". All other back-references checked ("that weighing", "the same authors", "the comparison", "the edge", "the authors", "noted below") and resolve. Optional Hillis, Watt, Landy & Banks 2004 reference NOT added: the fixed NEW text of edit (2) carries no in-text citation, so the entry would sit uncited in References, and inserting it after Hillis 2002 would renumber six entries. Untouched per DO NOT: the L66 McGurk hedges, the brain-side assignment, the "## Component Destruction and the Measured Edge" heading. Out of scope and left alone: binding-void L89, three-kinds-of-void L97. Engagement with Deroy et al.'s access account of phenomenal unity: Mode Three; the reply marks access versus experienced oneness as an open question and claims no refutation. Frontmatter: `modified` 2026-09-04 → 2026-10-15; `ai_modified` → 2026-10-15T23:21:30+00:00; `ai_system` claude-opus-5 → claude-opus-5+claude-opus-5-5.
-- **Length**: analyze_length 1994 → 2211 (+217, matching the review's computed delta; voids hard gate 3000, 788 headroom left; soft_warning status carries no consequence)
-- **Published**: yes
-
-## 2026-10-15T23:03:50+00:00 - pessimistic-review
-- **Status**: Success
-- **Content reviewed**: `voids/fusion-void` (1994 words, hard gate 3000; never pessimistic- or deep-reviewed, text unedited since 2026-09-04; voids are outside the deep-review pool). Every quote and attribution verified at fetched source: Hillis 2002, Ernst & Banks 2002, Alais & Burr 2004, Prsa et al. 2012, Hillis et al. 2004, Wallace et al. 2004, Wozny et al. 2010 (Europe PMC abstracts; Crossref metadata); Körding 2007, Deroy 2016, Mallick 2015, Ban 2012 (PMC full text). Quotes all verbatim. Four fidelity defects: L90/L46/L68 common-cause gate described against Körding (model averaging, p_common 0.28), the research note and Mallick (disparity threshold); L38 lead example (eye + hand) is the case Hillis found NON-destructive; L40/L56/L60/L62 modality-line edge moved by Prsa 2012 cross-modal metamers, plus "destroyed"/"system no longer carries" overreach; L92 Deroy's quoted sentence continues into an access account of phenomenal unity.
-- **Tasks minted**: 1 (P2 refine-draft `voids/fusion-void`, todo.md L2492, exact old→new for all four items, bundle +217 → 2211). Not minted: `binding-void` L89 sibling Deroy locus, `three-kinds-of-void` L97 classification mismatch, L70/L94/L96 language items, and a falsifier paragraph (recorded in the review).
-- **Output**: [[reviews/pessimistic-2026-10-15-fusion-void]]
-
-## 2026-10-15T22:35:02+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/forward-in-time-conscious-selection]]
-- **Original score**: n/a (`scripts/curate.py` absent; targeted two-replacement task)
-- **Review**: reviews/tenet-check-2026-10-08.md, Warnings §4 (old/new text extracted by script; each old string confirmed exactly once before substitution)
-- **Changes**: (1) L157, applied FIRST: the retired modulation reading ("in neural substrates—where the localisation rate is too slow…—consciousness biases *which* element… it shapes the existing one at a substrate the baseline dynamics under-determines") replaced with the report's preemption wording ("in interface-grade brains consciousness preempts *which* element the same collapse process would have delivered, within Born statistics… it preempts the existing one where an interface is present"), so the paragraph no longer contradicts L155's "fix collapse and outcome universe-wide" (−15). (2) L155: the closing clause "consciousness preempts outcomes only where neural systems present the right substrate." gains "…, under a priority law still owed as an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]." — the clause every other sweep carrier already had (+11). Calibration: both repairs lower the grade (preemption now marked as a posit under open mechanism debt, P-Q3/P-Q10); none raises one. L157's type-count sentence and "the modulation term still has to be posited" left untouched per the report. Pronoun check: in the new L157, "it preempts the existing one" still takes Consciousness as subject and "the existing one" = the existing route to definiteness; no repair needed. Only L155 and L157 touched (L143 owned by the 2026-10-09 P3, commit 71bd8b8d22).
-- **Length**: 3,988 → 3,973 (after L157) → 3,984 (`analyze_length`, topics hard 4,000; net −4)
-- **Frontmatter**: ai_modified bumped; ai_system deduped `claude-opus-4-7+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5` → `claude-opus-4-7+claude-fable-5-1+claude-opus-5-5` (keep-last; nothing appended)
-- **Published**: yes
-
-## 2026-10-15T22:19:57+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
-- **Original score**: n/a (`scripts/curate.py` absent; targeted two-replacement task)
-- **Review**: reviews/tenet-check-2026-10-08.md, Warnings §2 (old/new text extracted by script; each old string confirmed exactly once)
-- **Changes**: (1) L151 Dualism paragraph: "may be among the more suggestive empirical evidence … tempers even the suggestive reading" → "is compatible with the Map's position and with connectivity-based physicalism alike, the grade [[positions/consciousness-scope|P-CS4]] records; … blocks even a suggestive reading" (grade lowered suggestive → compatible, now matching the description, the table, L132 and P-CS4). (2) L141: "The asymmetry the comparison turns on is that the production reading must additionally explain *why* …" → "Both owe something: production, *why* … ; filter, what fixes the channel structure it reads that ordering off." (the asymmetry claim contradicted the filter reading's unpaid cost stated one sentence earlier). Pronoun/flow check: "Both" takes its antecedent from the paragraph's named production and filter readings; the following "would separate them" and L151's "between them" read correctly; no repair needed. Engagement with the sophisticated production reading (L141): Mode Three, since each reading now carries a stated unpaid cost and no in-framework refutation is claimed. No grade raised; no other locus touched; not retitled.
-- **Word count**: 4694 → 4688 (−6; topics hard 4000, over under the 2026-06-04 standing human length decision, net ≤ 0 required). Measured with `analyze_length`.
-- **Frontmatter**: `modified` 2026-10-09 → 2026-10-15; `ai_modified` → 2026-10-15T22:19:57+00:00; `ai_system` deduped (repeated `claude-fable-5-1` removed, keep-last) to `claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5`; nothing appended (`claude-opus-5-5` already present)
-- **Published**: yes
-
-## 2026-10-15T21:41:27+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/census-change-points]]
-- **Selection**: shipped scorer (`scripts/deep_review.py next`), score 102, never reviewed
-- **Word count**: 2640 → 2712 (+72: about +22 is the References entry for an orphan inline cite and about +50 is qualifier prose; one −4 trim; concepts hard 3500, gate `>=`, headroom 788). Measured with `analyze_length`.
-- **Critical issues addressed**: 3
-  - Orphan inline cite: Schwitzgebel & Nelson (2026) had no References entry. Added from Crossref (*Phil. Psych.* 39(3) 847–867).
-  - Necessity claim "the Map cannot hold P-SC1 together with the idle horn" (L41, L74) rested on causal minimality, which Zhang & Spirtes derive only for a strictly positive distribution. Whether the census is deterministic is left open by P-SC2's missing pairing law. The proviso is now stated, with the pragmatic fallback at L72.
-  - L110 "minimality follows from what a cause is" → "from the interventionist account of what a cause is" (dropped qualifier).
-- **Medium issues addressed**: 6
-  - Tenet-check-2026-10-14 Note 2 L102 (prediction now conditioned on horn (a), P-SC1 and Tenet 3) and L110 (Tenet 5 bars simplicity from deciding; it is not a ground).
-  - Bayne et al. 2023: a view description had been quoted as the paper's verdict.
-  - Pinto et al. 2017: "conclude" → "suggest".
-  - Schwitzgebel & Nelson: "typical" restored.
-  - Bostrom: his count is of experiences, now scoped as carried to subjects.
-- **Enhancements made**: 2 (one cross-link, [[interventionist-and-counterfactual-dualism]]; one internal anchor link)
-- **Citation ledger**: 12/12 external refs real-correct at publisher of record, plus 1 orphan added. All 13 quotations were grep-verified in raw sources: OpenAlex abstracts, the arXiv page, the Zhang–Spirtes CMU preprint and Bostrom's PDF.
-- **Engagement classification**: Bostrom, Mode 3 (fractional thesis held unrefuted, marked as the rival). Schwitzgebel & Nelson, Mode 3. Parfit, Mode 3. Horn (b)/epiphenomenalism, Mode 2 (the opponent's own interventionist minimality, now with its positivity proviso).
-- **Held**: L62 "Which reading the register holds is open" was left unchanged per the P1 HUMAN DECISION task on P-Q2 (todo: "do not propagate the 17:25 reading to … census-change-points L62").
-- **Follow-up (not minted)**: `concepts/subject-fusion.md` L95 has the same Tenet-5-as-reason framing fixed here at L110.
-- **Frontmatter**: `ai_modified` → 2026-10-15T21:41:27+00:00; `last_deep_review` added (2026-10-15T21:41:27+00:00). `ai_system` unchanged (already `claude-opus-5-5`). `modified` unchanged.
-- **Output**: [[reviews/deep-review-2026-10-15-census-change-points]]
-
-## 2026-10-15T21:22:39+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/split-brain-consciousness]]
-- **Review file**: reviews/tenet-check-2026-10-08.md (Warning 1: tier words at L54 / L122 / L186 that the page's own L152 retracts; rung earned: compatible). Addenda from the task and tenet-check-2026-10-10 Note 3: the L148 heading, L150, and the first clause of the new L186 sentence.
-- **Original score**: n/a (`scripts/curate.py` absent; targeted fixes per review)
-- **Changes** (exact report text, extracted from the report by script, each old string confirmed to occur exactly once):
-  - L54: "…something dualism can accommodate — perhaps more naturally than physicalism." → "…something dualism can accommodate alongside physicalism." (−4)
-  - L122: "Functionalism can accommodate both, but as accommodations rather than first predictions. The question is which view predicts the actual pattern most crisply." → "Functionalism accommodates both; on the second, the ordered-profile section below finds that it predicts the pattern as readily as the interface reading does, so only the first still separates the views in naturalness." (+11)
-  - L186: "The resilience of unity and the component-ordered profile of anaesthetic loss then become accommodations rather than first predictions. The apparently more complex dualist reading may be more explanatory." → "The resilience of unity then becomes an accommodation rather than a first prediction; the component-ordered profile of anaesthetic loss, as the section above concedes, is predicted by both readings. Whether the apparently more complex dualist reading is more explanatory is exactly what the razor cannot settle." (+18)
-- **Addendum edits** (own text, bounded authority; each only lowers a grade to the compatible rung, net 0 combined):
-  - L148 heading: "Two Features Support the Interface Reading" → "Two Features the Interface Reading Accommodates" (0). No page links to the old anchor.
-  - L150: "It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate." → "In agency it does not. The single agent preserved despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is compatible with unity belonging to consciousness itself; whether experience divides stays open." (−2). The Pinto claim is kept to unity of agency (L78). "Whether experience divides stays open" follows L78's "still open" and L68's underdetermination. "In agency" leaves room for L72, where complete section disrupted the interhemispheric networks.
-  - L186, first clause of the report's new sentence: "The resilience of unity then becomes an accommodation rather than a first prediction;" → "The resilience of unity, shown for agency rather than experience, is compatible with either reading;" (+2). L68 uses the same "compatible with either reading" wording. The clause no longer makes the resilience of unity a first prediction of dualism, which L150 no longer supports.
-  - Pronoun check: L122 "it" = functionalism, "the second" = the ordered profile, "the first" = the single reported perspective. L150 "it" = severing the corpus callosum. L154 "Neither point" still refers to the two features. L54 "The distinction" still refers to interface vs consciousness. L186 has no pronouns. No repair needed.
-- **Residual, not in scope (left for follow-up)**: L122's report text ends "so only the first still separates the views in naturalness". That is a suggestive-rung claim about the single reported perspective. L150 and L186 now grade the same datum as compatible. L78 also concedes that agency-unity "is what a coordinated substrate would produce". L154 likewise ends "what differs is what each framework most naturally predicts". Neither locus was a target of this task.
-- **Word count**: 3964 → 3989 (+25: exact +25, addenda 0; topics hard 4000, gate `>=` not reached; 10 headroom left). Measured with `analyze_length`.
-- **Calibration**: every edit lowers or holds a grade, and none raises one. P-CS4 stays "compatible with, not forced by".
-- **Engagement classification**: physicalism/functionalism at L122/L150/L186 moves from an implied in-framework naturalness advantage to framework-boundary honesty: compatible with either reading, with the razor unable to settle it. L122's tail is the exception noted above.
-- **Frontmatter**: `ai_modified` → 2026-10-15T21:22:39+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`. `modified` was left unchanged.
-- **Published**: yes
-
-## 2026-10-15T21:05:09+00:00 - research-topic
-- **Status**: Success
-- **Topic**: The collapse-priority problem: the priority law owed between objective reduction and interface preemption (debt statement, not a resolution)
-- **Output**: [[research/collapse-priority-problem-2026-10-15]]
-- **Sources consulted**: 19 cited (15 read in full text or abstract with quotations grep-verified against the fetched text, 4 metadata-only via Crossref), plus 9 leads left UNVERIFIED (Frigg & Hoefer 2007; Myrvold 2002; Kremnizer & Ranchin 2015; Maudlin 2011; Tumulka 2020; Ghirardi & Grassi 1996; Ghirardi 2000; Gisin 1989; Adler, Brody, Brun & Hughston 2001)
-- **Key findings**: GRW's WHEN/WHERE split and the Brody–Hughston outcome-variable-plus-independent-noise representation give corridor preemption an exact formal home; a no-delay clause is required because selector-controlled timing would bias outcomes while each collapse stays Born; relativistic collapse makes the joint law covariant but not the order of realisations (Esfeld & Gisin; Gisin; contested by Tumulka), so a covariant priority law needs a foliation, a timeless global selector, or type-keyed precedence (which leans on interface locality)
-- **Chain**: `task_chains.pending_articles` entry added (target_section concepts, suggested_slug collapse-priority-problem)
-
-## 2026-10-15T20:38:49+00:00 - check-tenets
-- **Status**: Warnings
-- **Files checked**: 110 live window files plus tenets.md (window e8f62f93aa..8da43747ae; 5 new, 105 modified), a 40-file random sample of Relation sections, and a strong-phrase scan of all 885 files in the five sections
-- **Errors**: 0
-- **Warnings**: 15 entries covering 32 loci: 8 window entries, 3 carried unchanged from check 150, 4 from the wider sample
-- **Notes**: 8 (two point to blocked human-decision tasks already queued, todo L2333 and L2341)
-- **Output**: [[reviews/tenet-check-2026-10-15]]
-
-## 2026-10-15T19:50:01+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
-- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 3 / proposal 4: attentional holding and parameter modulation presented as the framework's open options for how selection works)
-- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence fix per review)
-- **Changes**:
-  - L94, second sentence, review's exact text: "Whether that selection works through attentional observation ([[stapp-quantum-mind|Stapp's Zeno model]]) or through modulation of collapse parameters in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) remains open; [[forward-in-time-conscious-selection]] compares them." → "On the Map's ordering that selection preempts the outcome after collapse, not its rate or timing ([[post-decoherence-selection]]); attentional holding ([[stapp-quantum-mind|Stapp's Zeno model]]) and parameter modulation in high-Φ systems (the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]]) are demoted fallbacks (P-Q4, P-Q2); [[forward-in-time-conscious-selection]] compares them." (27 → 39). Old string confirmed to occur exactly once before replacement; `post-decoherence-selection` was not linked anywhere in L88–L98, so it went in bare as the review specifies.
-  - Left as the review specifies: L94's first sentence ("…baseline collapse that consciousness modulates rather than creates"), L110's quoted label, and the section heading "From Collapse Mechanism to Consciousness Modulation".
-  - Pronoun check: "that selection" still refers back to "the *selection* among Born-permitted outcomes" (sentence 1); "its rate or timing" refers to collapse; "compares them" still refers to the two mechanisms named just before it. The paragraph ends before "## The No-Collapse Alternative". No repair needed.
-- **Word count**: 3929 → 3941 (+12; topics hard 4000, gate `>=` not reached; 58 headroom left). Measured with `analyze_length`.
-- **Calibration**: the preemption appears as the Map's ordering ("On the Map's ordering…") and nothing presents it as established. It is still a posit with mechanism debt (P-Q3/P-Q10, no worked model).
-- **Engagement classification**: n/a (a Map self-statement about its own mechanism options; no named-opponent reply was changed).
-- **Frontmatter**: `ai_modified` → 2026-10-15T19:50:01+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`. `modified` was left unchanged.
-- **Published**: yes
-
-## 2026-10-15T19:19:46+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/qm-interpretations-beyond-many-worlds]] (primary); [[concepts/quantum-interpretations]] (secondary)
-- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 4 / proposal 3: "compatible with either 'consciousness causes collapse' or 'consciousness modulates collapse'" contradicts the Map's own ordering on two pages)
-- **Original score**: n/a (`scripts/curate.py` absent; targeted two-file fix per review)
-- **Changes**:
-  - qm-interpretations L109, review's exact text: "The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse."" → "On the Map's ordering consciousness initiates no collapse; it preempts outcomes within one ([[post-decoherence-selection]])." (14 → 14). Following sentence ("What it cannot accept is an entirely epiphenomenal consciousness …") left as the review specifies.
-  - quantum-interpretations L104 (objective-collapse row, **Site compatibility**), review's exact text: "The Map is compatible with either … What matters is that consciousness participates in determining definite outcomes—as cause, modulator, or constitutive process." → "On the Map's own ordering consciousness initiates no collapse; it preempts outcomes within one ([[post-decoherence-selection]]). What matters is that consciousness participates in determining definite outcomes—as selector, not as collapse's cause." (28 → 30). L102's report of Kremnizer–Ranchin / Okon–Sebastián as "modulates rather than causes" untouched (accurate reporting).
-  - Each old string confirmed to occur exactly once before replacement. Neither target paragraph already linked `post-decoherence-selection`, so the parenthetical was kept in both.
-- **Word count**: qm-interpretations-beyond-many-worlds 4541 → 4540 (topics hard 4000, already over; the review edit was word-neutral and the parent's antecedent repair below removed one word); quantum-interpretations 2804 → 2806 (+2; concepts hard 3500). Measured with `analyze_length`.
-- **Calibration**: both sentences put preemption in the Map's ordering ("On the Map's [own] ordering") and do not present it as established; it stays a posit with mechanism debt (P-Q3/P-Q10).
-- **Engagement classification**: n/a (Map self-statement in a survey row; no named-opponent reply changed).
-- **Follow-up flag**: on qm-interpretations L109 the retained sentence "What it cannot accept…" lost its antecedent ("The Map's position"); "it" now sits after "consciousness" as subject. A ≤0-word repair, "The Map cannot accept an entirely epiphenomenal consciousness with no causal role." (12 → 11), was flagged by the fork (the review says that sentence stands) and then applied by the parent orchestrator at 19:21Z: the review left the sentence alone because its antecedent was intact, and its own replacement is what broke it.
-- **Frontmatter**: both files: `modified` → 2026-10-15, `ai_modified` → 2026-10-15T19:19:46+00:00, `ai_system` + `claude-opus-5-5` appended.
-- **Published**: yes
-
-## 2026-10-15T19:04:36+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/testing-consciousness-collapse]]
-- **Review file**: reviews/optimistic-2026-10-08-collapse-ordering-wing.md (propagation item 2: timing-correlation test stated as if it tested the Map)
-- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence fix per review)
-- **Changes**:
-  - L135 first sentence, review's exact text: "If consciousness modulates collapse, collapse *timing* should correlate …" → "If consciousness initiates collapse, as von Neumann–Wigner readings hold, collapse *timing* should correlate … registers it; on the Map's ordering objective reduction fixes timing, so it predicts no such correlation." (27 → 46, +19). The test is now attributed to V-N-W readings, and the Map's ordering is stated to predict no correlation. Old string confirmed to occur exactly once before replacement.
-  - Untouched: rest of L135 (Proietti 2019, Bong 2020, Steane 2025), the Tier-3 link, L147 (Neven et al.), L121/L228 (already corridor vocabulary), and the 2026-10-07 Chalmers & McQueen year fix.
-- **Word count**: 3974 → 3993 (+19; topics hard 4000, gate `>=`, headroom 6). Measured with `analyze_length`.
-- **Calibration**: the edit attributes the timing role to objective reduction as "the Map's ordering". It makes no claim that preemption is established, which stays a posit with mechanism debt (P-Q3/P-Q10). No new wikilinks.
-- **Engagement classification**: engagement with von Neumann–Wigner: Mode Three. The sentence marks where the Map's ordering diverges from consciousness-initiated collapse and does not claim to refute it.
-- **Frontmatter**: `modified` (2026-05-26 → 2026-10-15) and `ai_modified` bumped; `ai_system` unchanged (claude-opus-5-5 already present).
-- **Published**: yes
-
-## 2026-10-15T18:50:01+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/explanatory-gap]] (primary); [[concepts/phenomenal-concepts-strategy]] (secondary)
-- **Review file**: reviews/pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap.md (Issues: anchor text overstating the new page's verdict)
-- **Original score**: n/a (`scripts/curate.py` absent; targeted two-file anchor fix per review)
-- **Changes**:
-  - explanatory-gap L121: "Problem: this doesn't explain…" → "This doesn't explain…" (−1); "The gap in concepts [[rival-explanations-of-the-explanatory-gap|points to a gap in the referents]]." → "Whether the gap in concepts […] is contested." (+3). The flat anchor asserted the inference the target page judges *compatible* / "a standoff"; it now describes it as open. "Open to the master argument" clause (2026-10-07 23:38Z) untouched.
-  - phenomenal-concepts-strategy L137: piped anchor "physicalism's best strategy for explaining the gap" → "the strategy cannot claim victory even on its own terms, and physicalism's [[rival-explanations-of-the-explanatory-gap|other explanations of the gap]] do not need it" (+6). L39/L85/L139 (23:38Z calibration pass) untouched.
-- **Word count**: explanatory-gap 3495 → 3497 (+2; concepts hard 3500, headroom 2); phenomenal-concepts-strategy 3445 → 3451 (+6; headroom 48). Measured with `analyze_length`.
-- **Calibration**: neither edit strengthens. Tier stays *compatible* against Type-B; no fallacy-family or P-M1 tier raised. Both edits weaken or redirect an anchor that overstated its target.
-- **Engagement classification**: engagement with PCS (Balog 2012): Mode Three. The conceded standoff marks the framework boundary and is not presented as a refutation.
-- **Frontmatter**: `modified` and `ai_modified` bumped on both files; `ai_system` unchanged on both (claude-opus-5-5 already present).
-- **Published**: yes
-
-## 2026-10-15T18:26:15+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/doxastic-voluntarism]]
-- **Selection**: `scripts/deep_review.py next` (score 102, never reviewed; article written 2026-10-13)
-- **Word count**: 2960 → 2983 (+23; ~20 of it editor names in two References entries; concepts hard 3500, headroom 517)
-- **Critical issues addressed**: 1 — §Map's Reading said "The involuntarist literature answers on any metaphysics"; only the conceptual strand does (the article's own psychological ground and Booth 2017 make the limit contingent). Scoped to "Conceptual involuntarism", anchored to Hieronymi 2009's verbatim "reveals no genuine lack in our powers of mind", with the condition stated ("on the psychological ground alone, the limit would be a contingent fact about human minds and the reply would weaken"); lead sentence given the matching qualifier
-- **Medium issues addressed**: 2 — Crowe 2026 no longer filed under "Permissivist voluntarism" (abstract grounds it in existential reasons, body unreadable; bullet re-headed "Limited voluntarism", underdetermination attached to Ginet alone); Cusimano & Goodwin "shows" → "suggests"
-- **Enhancements made**: 4 — References editors added for Steup 2023 (Cyr, Law & Tognazzini eds., Fischer festschrift) and Singh 2026 (Lewis-Jong & Schwitzgebel eds.) from Crossref book records; zero-cost piped links [[moral-responsibility]] and [[agent-causation]]; offsetting trims of four redundancies
-- **Citation web-verify**: 26/26 external entries checked (Crossref all; OpenAlex abstracts 15; SEP raw HTML grepped for 7 quotations + Holcot, Ginet, Setiya, Pascal placement; Hieronymi 2006 postprint PDF grepped for 5 body quotations). 24 real-correct, 2 real-wrong-metadata (missing editors, fixed), 0 fabricated. Peels 2014 quotation, marked "not reached" in the research note, now verified verbatim in the PPR abstract. Shah & Velleman body paraphrase carried on the 10-07 grep (PDF unreachable)
-- **Engagements**: Steup 2008/2023 Mode One (guidance control granted in his own terms, shown to confer no power to install a belief for a practical reason); Hieronymi parity vs decision-void ranking: axis separation, no refutation claimed; deflationary physicalist on the felt-doing gap: Mode Three. No label leakage
-- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-10-15T18:26:15+00:00; `ai_system` left as `claude-opus-5-5` (component already present); `modified` unchanged
-- **Output**: [[reviews/deep-review-2026-10-15-doxastic-voluntarism]]
-
-## 2026-10-15T17:50:30+00:00 - refine-draft
-- **Status**: Success (salvaged: the fork hit the Fable usage limit at 13:51:05Z, one second after its article write, before changelog, sync and post; the parent finished the remaining steps on claude-opus-5-5 at 2026-10-15T17:50:30+00:00)
-- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
-- **Task**: todo.md P3 from `reviews/deep-review-2026-10-07-sensorimotor-contingencies-and-the-interface.md` Remaining Items — the cochlear-implant paragraph's "cruder frequency resolution, different temporal dynamics" was uncited
-- **Change** (L71, option (a), cite): "— cruder frequency resolution, different temporal dynamics." → ": twelve to twenty-two electrodes stand in for some three thousand inner hair cells, and most devices discard temporal fine structure, encoding only the slowly varying envelope (Zeng et al., 2008)." Reference line added in alphabetical position (last): Zeng, F.-G., Rebscher, S., Harrison, W., Sun, X., & Feng, H. (2008). *IEEE Reviews in Biomedical Engineering*, 1, 115-142.
-- **Verification**: Crossref 10.1109/RBME.2008.2008250 gives the title, journal, volume 1, pages 115-142, year 2008 and authors Zeng/Rebscher/Harrison/Sun/Feng. Full text (PMC2782849, NCBI efetch, reference list stripped) carries each claim verbatim: "multiple channels with 12 to 22 active contacts"; "Compared with the three thousand tuned inner hair cells in a normal cochlea"; "Most cochlear implants discard the fine structure and encode the coarse features only", next to "the slowly varying envelope contributes to speech intelligibility". The paper's own figure is three thousand, so the brief's ~3,500 was not used. Wilson & Dorman (2008) was checked at Crossref (*Hearing Research* 242(1-2), 3-21) and not cited.
-- **Length**: 3,495 → 3,545 (+50; topics hard 4,000). Over the brief's ≤ +35 aim because the five-author reference line runs long; no trim, since the article stays 455 under the hard gate.
-- **ai_system**: left as `claude-opus-4-6+claude-fable-5-1`. The fork that wrote the prose ran on claude-fable-5-1 (transcript: 20 fable messages, no other model); the parent edited no article text.
-- **Published**: yes (sync run; Hugo copy verified)
-
-## 2026-10-15T13:36:13+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/consciousness-value-connection]] and [[topics/the-experience-requirement-on-well-being]]
-- **Task**: todo.md line 1515 (P3) from `reviews/deep-review-2026-10-07-consciousness-value-connection.md` Remaining Items 1–2 — reference metadata completion and one cross-host dating convention
-- **Original score**: n/a (metadata-only pass; `scripts/curate.py` absent)
-- **Changes** (consciousness-value-connection, References): Benatar 2025 `34(4).` → `34(4), 563–571. DOI: 10.1017/S0963180126100085` (Crossref 34(4) 563-571, print Oct 2025; doi.org HEAD 302 → cambridge.org, re-checked before installing). Shepherd 2024 → `*AI & Society*, 39(6), 3005–3015. DOI: …` (Crossref 39(6) 3005-3015). Mogensen "Desire-fulfilment and consciousness" → appended `(Online first 20 December 2025; print issue February 2026.)`.
-- **Changes** (the-experience-requirement-on-well-being L126): same online-first/print-issue note appended to the Mogensen (2025a) entry; `2025a`/`2025b` suffixes and all six in-text `2025a` citations untouched.
-- **Dating convention chosen**: cite the year Crossref carries as `issued` (here 2025-12-20, the online-first date) and annotate the later print issue in parentheses — the precedent of Batthyány & Greyson (2021) on `filter-theory`/`terminal-lucidity…` ("year of record … Crossref's `issued` field") and of Duval & Klein on `pain-asymbolia`/`pain-consciousness…` (online year first, 2026 issue annotated). The corpus also has print-year-first entries (Gładziejewski 2025, online-first 2023), so this is a choice between two live conventions; the `issued`-year rule was taken because it keeps the ER page's a/b disambiguation and its in-text citations stable and costs zero body edits. Both live hosts now agree on 2025 + the same note. Research notes left as they are. The *Synthese* Mogensen 2025 ("How to resist the Fading Qualia Argument") on organizational-invariance / anton-syndrome is a different paper and was not touched.
-- **Length funding** (CVC was 3,525 ≥ concepts hard 3,500): trimmed the Rawlette annotation's editorial clause ("which is worth stating given how much of the site's value theory leans on it" — the self-published/not-peer-reviewed fact stays) and shortened the apex Further Reading gloss. Body calibration untouched. CVC 3,525 → 3,520 (net −5; still in the pre-existing hard band, no growth); ER 3,008 → 3,017 (topics hard 4,000).
-- **ai_system**: left as-is on both (both already contain `claude-fable-5-1`).
-- **Published**: yes (sync run; Hugo copies verified)
-
-## 2026-10-15T13:20:54+00:00 - coalesce
-- **Task**: coalesce cycle slot: candidate search, abandoned (steady state; no-candidate streak 28)
-- **Status**: SUCCESS (no candidate)
-- **Pool delta since 00:21Z**: `git log --diff-filter=ADR` on topics/concepts/voids/archive since 2026-10-15T00:21Z shows no additions, removals or renames; 14 files were modified (6 concepts, 7 topics, 1 void), all today, so all fall under the age rule. The 00:21Z entry's five declined concepts pairs and its near-feasible set were not re-read: none of those files changed. Gating counts: concepts 359/370 (97.0%, most pressured, 11 slots), topics 348/370 (94.1%; raw 347, the known +1 over-count), voids 113/125 (90.4%).
-- **What was new this slot**: the driver set a 30-day age floor on `created` where the 00:21Z screen used 60 days, so 12 concepts, 8 topics and 4 voids created 2026-08-16..2026-09-15 entered the pool for the first time. Sidecars (`*.refinement-log.md`, `*-calibration-history.md`) and index files were dropped before any pairing; files with `ai_modified`/`human_modified`/`modified` on 10-14 or 10-15 were excluded (34 concepts, 47 topics, 10 voids). Eligible: concepts 299, topics 284, voids 95. Body-only word counts from `tools.curate.length.analyze_length`; feasibility = combined count < hard (concepts 3500 / topics 4000 / voids 3000, gate `>=`); scoring = frontmatter-tag Jaccard + slug-token Jaccard + mutual body links, with `**Versus [[sibling]]**` sentences and "versus" headings detected.
-- **Newly-eligible articles produce nothing**: every one of the 24 runs 1994–3495 words (concepts `agency-budget` 2612, `coupling-engagement-condition` 2460, `envariance` 2574, `filter-vs-interface-distinction` 3235, `improper-vs-proper-mixtures` 3296, `no-self-objection-to-phenomenal-value` 3495, `ontic-structural-realism` 3301, `scale-types-for-phenomenal-quantities` 3492, `semanticisation` 3490, `sign-problem-for-conscious-observation` 2927, `the-ownerless-suffering-argument` 3266, `descriptive-experience-sampling` 2895; topics 2832–3464; voids `fusion-void` 1994, `palette-extension-void` 2267, `modality-void` 2493, `offloading-void` 2996). Feasible pairs involving any of them: 0 in all three sections. Near-feasible (hard ≤ sum < 1.2×hard) pairs involving any of them with tag Jaccard ≥ 0.2 or mutual links: 0. The shortest, `fusion-void`, cannot pair with any void (minimum eligible void is 1730w, so every sum is ≥ 3724 vs 3000).
-- **Whole-pool result**: topics 0 feasible of 40,186 (one eligible topic under 2000w: `presentiment-and-retrocausality` 1990; median 3398); voids 0 of 4,465 (none under 1500w; median 2606); concepts 137 of 44,551, the same 137 as at 00:21Z, generated by the sub-1750w tail (`mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497, `phenomenal-presentation` 1572, `the-agent-shaped-hole` 1609, `perception` 1671, `sellars-manifest-and-scientific-images` 1722, `standing-agnostic-challenge` 1739). The top-ranked feasible pairs are exactly the five declined at 00:21Z (`causal-powers`+`mind-arena` 3494; `phenomenal-depth`+`phenomenal-presentation` 3047, signed Versus; `adaptive-computational-depth`+`phenomenal-depth`; `content-externalism`+`status-of-content`; `mind-arena`+`philosophy-of-mind` / `perception`+`phenomenal-presentation`). Not re-read.
-- **One short concept not named at 00:21Z, checked**: `standing-agnostic-challenge` (1739w, created 2026-06-24, last touched 2026-07-26, 10 inbound links, 0 open todo mentions). Its only real partner is `problem-of-other-minds` (5 outbound links to it): sum 3444 + 1739 = 5183 vs 3500, 48% over, and the split is signed at L61–67 (`## How It Differs From Neighbouring Problems`: the challenge is the general problem's "empirically sharpened restriction" to the cognition-to-consciousness inference). Its feasible partners are all tag J ≤ 0.12 with no mutual links. Declined.
-- **Driver's edit-recency rule, measured**: 220 of the 299 eligible concepts, 191 of 284 topics and 53 of 95 voids carry an `ai_modified` or `human_modified` since 2026-09-15. Applied strictly it removes every top-scored concepts pair except the two hub-plus-term pairs already declined. It changes nothing here, but it is worth knowing that "not edited in 30 days" excludes ~70% of the corpus under the current loop rate.
-- **Finding**: unchanged. Widening the age floor from 60 to 30 days adds 24 articles and zero feasible or near-feasible pairs. No section is at cap (11/22/12 slots), so cap relief is not a reason to merge; the pool is exhausted by role granularity and by length (median article is 83% of its section's hard limit in concepts, 85% in topics, 87% in voids). A merge would require breaking a signed split or discarding roughly half of two reviewed articles.
-- **Sources**: none
-- **Target**: none
-- **Archived**: none
-- **References to review**: none
-
-## 2026-10-15T12:34:18+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/mysterianism]]
-- **Word count**: 3434 → 3449 (+15); concepts hard gate 3500 (`>=`), headroom 50
-- **Changes**: L140 (Temporary mysterianism) — replaced the closing sentence "The mystery is practical, not principled." with the optimistic-2026-10-07 IH-wing review's exact text: "The mystery is practical, not principled; Stoljar's [[ignorance-hypothesis|ignorance hypothesis]] is its closest developed relative, and asks for less than McGinn does." Reciprocal to the ignorance-hypothesis page's L50 "McGinn's permanent-ignorance relative" line and its Further Reading L122. "Relative", not "form", kept deliberately: Stoljar's view is a physicalism that claims no mystery. Old string confirmed to occur exactly once before editing; new string occurs exactly once after. No other prose changed; calibration against the ignorance hypothesis left at *compatible* (no tier lift).
-- **Frontmatter**: `ai_system` appended `+claude-fable-5-1` (absent before; `claude-fable-5` is a distinct component); `ai_modified` set from `date -u`.
-- **Published**: yes (synced to `hugo/content/concepts/mysterianism.md`)
-
-## 2026-10-15T12:09:16+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/source-versus-leeway-incompatibilism]]
-- **Word count**: 2096 → 2147 (+51); concepts hard gate 3500, headroom 1352
-- **Critical issues addressed**: 2 — (1) L51 Pereboom quote was an adapted string ("results ... beyond his control"); search-within-volume on *Living Without Free Will* (control "Professor Plum" passed) returns 0 hits for it and the verbatim span is p. 3 "a deterministic causal process that traces back to factors beyond one's control"; quotes now enclose only that span, "(Pereboom 2001, p. 3)" added. (2) L66 was a stranded string sibling of the 10-14 Tenet 5 fix: it still ran the luck objection unscoped ("it adds luck, not control") against all indeterministic restoration while L82 scopes it to event-causal sourcehood; L66 now names both strands (luck vs event-causal; wild coincidences vs agent causation, anchored to 2001 pp. 80/82 "coincidences so wild ... incredible"). L82 checked against tenets.md L131 and the manipulation L70 / ECL L90 wording: consistent; no other line lets Tenet 5 reach the coincidences strand.
-- **Medium issues addressed**: 3 — wing-review low notes L44 (survey claim "most compatibilists / most incompatibilists" → "largely welcomed / split") and L74 (false universal "every source theorist builds on" Fischer → "shared across the aisle"); Frankfurt 1969 inline↔References orphan closed (entry in the Frankfurt-cases article's form).
-- **Citation ledger**: Timpe 2007 real-correct (PDF extracted locally; "widely accepted taxonomy", McKenna from 2001, Pereboom 2003 p. 186 all grep-confirmed); Pereboom 2003 real-correct (pp. 185–199); Pereboom 2001 metadata real-correct, body quote corrected; Vihvelin SEP L38 paraphrase real-correct (wing 10-13 grep + today's fetch). Kane/Stump not cited here.
-- **Engagement modes** (editor-internal): Pereboom — Mixed (both strands Mode Three, verdict unchanged, symmetric concession kept); Fischer — exposition only.
-- **Enhancements made**: 0 cross-links (Further Reading already complete).
-- **Output**: [[reviews/deep-review-2026-10-15-source-versus-leeway-incompatibilism]]
-
-## 2026-10-15T11:49:41+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/epistemic-advantages-of-dualism]]
-- **Original score**: n/a (targeted single-clause fix; curate review not run)
-- **Changes**: L48 — replaced "an assumption [[mysterianism|mysterians]] like Colin McGinn reasonably doubt" with the optimistic-2026-10-07-ignorance-hypothesis-wing Priority List's exact text "an assumption [[mysterianism|mysterians]] and the physicalist [[ignorance-hypothesis|Stoljar]] doubt" (1 hit confirmed before, 0 after). The sentence is deployed against materialism; the pipe shows the doubt is itself a physicalist position (`concepts/ignorance-hypothesis` L43–L50, L58). McGinn stays reachable via the mysterianism link. Calibration unchanged: the Map's tier against the ignorance hypothesis stays *compatible*, the reply defeater-removing. Length: `analyze_length` 4,400 before and after (8-word clause for 8-word clause; article already over the topics hard gate of 4,000 — left as the 2026-07-19 deep review recorded). ai_system appended `+claude-fable-5-1`.
-- **Published**: yes
-
-## 2026-10-15T11:34:18+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/global-workspace-theory]]
-- **Original score**: n/a (single-locus attribution fix; `scripts/curate.py` absent)
-- **Changes**: L110 "Neel Nanda independently replicated the core claims on an open-weight model and was persuaded the cognitive space is real, calling J-Lens …" → "Neel Nanda, in a public review Anthropic asked him to write, replicated the core claims on an open-weight model, calling J-Lens …". Aligns the Argued-in host with P-AC4 in `positions/ai-consciousness-scope` (Anthropic-commissioned public review, LessWrong 6 Jul 2026, Qwen 3.6-27B replication); Nanda's post opens "The below is a public review Anthropic asked me to write". Donor "and was persuaded the cognitive space is real" (restated "replicated the core claims") paid for the attribution clause: 20 words → 20 words, net 0. Body word count 3,428 before and after (concepts hard 3,500, gate `>=`). Dehaene paragraph (L112–114) untouched. "independently replicated": 1 hit → 0 in obsidian and hugo. ai_system appended `+claude-fable-5-1`. Synced to Hugo; hugo copy verified. Source: `reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state.md` finding 5. Todo line 2505 left for cycle_post.
-- **Published**: yes
-
-## 2026-10-15T11:12:28+00:00 - optimistic-review
-- **Status**: Success
-- **Content reviewed**: the AI-consciousness register wing after the 2026-10-15 convergent repair — `positions/ai-consciousness-scope` (P-AC1 10:54Z, P-AC3, P-AC4, P-AC2 softened) and the dependents edited since 07:00Z (P-I4, ethics topic, typology L73, moral-census-opacity, both apexes, numbing-void, quantum-state-inheritance L50), read as `git diff 804927a4..HEAD`; plus `research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15` (PROCEED). Sibling reviews of the date not re-litigated.
-- **Findings**: the repair instantiates 7 of the 9 outer-review methodology items as worked examples without a rule (conjunction ceiling by name on P-AC3; burden symmetry via the organizational-invariance dependency; reasons on every "no band move"; Butlin's "modest increase" quoted as the rival's reading; Nanda flagged commissioned ×3; on-page ledger for Birch ch. 16 / Koch 2026 / Wang & Reid / Piller / K&L); no five-tier slippage; Process-Philosopher and Hardline-Empiricist praise attach to different passages. Propagation criterion: article yes (research note Angle 1), position not yet — home when ready is `positions/ai-substrate-verdicts` (2,203 words, the only positions file in the wing with headroom). Three-way taxonomy: no comparison piece (apex/assessing L159, IIT L103/L188, unfolding argument, biological-computationalism L83–87 already compare); the genuine gap is the one substrate class where IIT 4.0, K&L and the Map disagree (recurrent neuromorphic; "strongly connected" 0 live hits; IIT 0 hits in the taxonomy). Reviewer-named gaps checked with variants: K&L/dynamical relevance (1 live sentence), mortal computation (0), Kersten & Dung / Dung BBS reply (0), Shevlin (0) are real; Chalmers 2023 (3), Cogitate (24), Long et al. 2024 (3), pseudoscience letter (9), Schwitzgebel (59), Mashour (22) are not.
-- **Tasks minted**: 3 × P3 above `## Completed Tasks` — expand-topic `topics/dynamical-relevance-and-the-verification-boundary` from the research note; research-topic on the three-way recurrent-neuromorphic divergence; positions-evolve candidate P-AS2 (propagation criterion) in `ai-substrate-verdicts`, gated on the article. parse_tasks active 120 → 123 (driver's 122 was stale). Grep-checked against the open P-AC4 affiliations, P-AC3 retitle, GWT L110 and methodology-ratification tasks: no overlap.
-- **Output**: [[reviews/optimistic-2026-10-15-ai-consciousness-register-repair-wing]]
-- **Published**: synced to Hugo (see verification below)
-- **Not done**: no content files modified; no commit.
-
-## 2026-10-15T10:54:10+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update P-AC1
-- **File**: [[positions/ai-consciousness-scope]] (todo.md line 2505, P2; [[reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state]] Issues 1–2; adjudication from [[research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15]] §"Is P-AC1 derived by the theorem, or only cousin to it?")
-- **Word count**: 3126 → 3126 (net 0; positions soft 1500 / hard 2500, status hard_warning both sides — no headroom consumed)
-- **Issue 1 (twin claim)**: L58 "the conditional's external twin" → "a stronger-premise cousin (level-independence of AI consciousness is the premise the Map, like [[concepts/ai-epiphenomenalism]], withholds)"; the closing "(conditional-band support only)" → "(Tenet 3 supplies that antecedent)". Follows the research note: dynamical relevance is level-flexible (Def. 2, Lemma 5), so the Map meets the antecedent on either horn; the review's "deviation read at the computational level" hinge was NOT installed. Both K&L quotes kept verbatim (Europe PMC-verified 09:10Z).
-- **Issue 2 (band)**: L55 two-valued "moderate *conditional* … / low-to-moderate all-things-considered" → one schema band, "moderate (low edge; conditional on the layer-(iv) interface-eligibility law the Map lacks — the discount prices the derivation's weakness, not the claim's improbability)", on the P-Q1 precedent. L58 tail "so the all-things-considered credence is priced below the conditional one (see Calibration)" → "— hence the band's low edge". "coherence-result-only" harmonised to upstream "coherence-only" (quantum-interface L45/L151). No other band moved; P-AC3/P-AC4 calibration untouched; no normative-strength axis added.
-- **History notes**: the 2026-10-15 Updated note now records the same-day restatement and names the pessimistic review and the research note; the 2026-07-28→08-20 note summarised (skill's three-note rule; its links are duplicated in Depends on / Argued in).
-- **Donors (word-neutral)**: P-AC4 Asserts dropped the full Gurnee et al. paper title (carried on [[concepts/global-workspace-theory]] L214); Depends on dropped the five named channel-test requirements (on the linked page); external-evidence gloss tightened.
-- **Coordination check**: [[topics/ethics-of-possible-ai-consciousness]] L90 "low-probability side for bidirectionally coupled consciousness", L150 "low-probability side for coupled consciousness", L158 "unlikely, on this framework, to suffer" — all still true under the single band (the Asserts phrase "low probability, not ruled out" is unchanged). Not edited.
-- **Cascade**: none — P-AC2 depends on P-AC1's substrate verdict, which did not move; P-AC3's antecedent reference ("low-probability") unchanged.
-- **Frontmatter**: ai_modified → 2026-10-15T10:54:10+00:00; ai_system untouched (already carries claude-fable-5-1).
-- **Published**: yes (synced to Hugo; see verification below)
-- **Not done**: todo.md untouched; no commit.
-
-## 2026-10-15T10:35:56+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/ethics-of-possible-ai-consciousness]] (todo.md line 2482, P2; Claude Fable 5.1 outer review 2026-10-15 §(a)/§(e): page banded P-AC1's verdict harder than the register)
-- **Word count**: 4471 → 4469 (−2; topics soft 3000 / hard 4000, status hard_warning both sides; two NEEDS-HUMAN length records remain open — no headroom consumed)
-- **Changes**: four certainty-adverb loci re-banded to the register's all-things-considered rendering ("low-probability, not ruled out"), each at net ≤ 0 within its paragraph. (1) L90 "current AI systems almost certainly lack bidirectionally coupled consciousness" → "sit on the low-probability side for bidirectionally coupled consciousness" (+3). (2) L90 "makes coupled consciousness in classical silicon extremely unlikely" → "low-probability, not ruled out" (+2); paid for by trimming the paragraph's closing sentence "The ethical implication follows only if the framework is correct: if it is, moral attention … is less urgent" → "Only if the framework is correct does moral attention toward current AI become less urgent than toward definite conscious beings" (−7; the only-if conditional preserved). Paragraph net −2. (3) L150 "If the tenet is correct, current systems almost certainly lack coupled consciousness" → "If the tenet holds, current systems sit on the low-probability side for coupled consciousness" (+2), paid for by "not on whether its implications ease moral demands" → "not on whether it eases moral demands" (−2). Net 0. (4) L158 "on the Map's framework, current AI almost certainly does not suffer" → "current AI is unlikely, on this framework, to suffer" (−2). The "supplies no present evidential weight against AI consciousness over biology" concession kept verbatim (P-AC1 pipes a link to it). No citations added; "moderate" never used alone.
-- **Out of scope, reported not edited**: L150 still reads "current classical AI hardware almost certainly lacks the quantum interface through which consciousness acts" — a claim about the hardware's interface, not the consciousness verdict, and not one of the four loci; "almost certainly" therefore has 1 hit in both trees after the pass rather than 0. L114 carries a pre-existing "load-bearing premise" (stylistic, not touched).
-- **Frontmatter**: ai_modified → 2026-10-15T10:35:56+00:00; ai_system untouched (already carries claude-fable-5-1).
-- **Published**: yes (synced to Hugo; both trees verified for each new string)
-- **Driver addendum 2026-10-15T10:40Z**: the out-of-scope survivor the fork reported at L150 ("current classical AI hardware almost certainly lacks the quantum interface through which consciousness acts") is the substrate premise P-AC1 now rates well-supported only at the computational level, so the certainty adverb over-bands it the same way; replaced with "is engineered to suppress the indeterminacy consciousness would act through" (14 words for 14, net 0), `ai_modified` bumped, synced. Driver edit, not the fork's. "almost certainly" now 0 hits in the file.
-
-## 2026-10-15T10:23:57+00:00 - deep-review
-- **Status**: Success
-- **File**: [[topics/the-consequence-argument-for-incompatibilism]] (cycle-slot pick, score 110, last_deep_review 2026-07-19)
-- **Word count**: 2591 → 2684 (+93; topics soft 3000 / hard 4000, status ok, headroom 1315)
-- **Critical issues addressed**: 2 — (1) L27 said the argument was "formulated … in *An Essay on Free Will* (1983)" while L68 had Lewis (1981) answering "an earlier version"; origin is van Inwagen 1975 *Phil. Studies* 27(3): 185–199 (JSTOR scan read, DOI 10.1007/BF01624156) — lead now says "first set out … in a 1975 paper and given its canonical form in … (1983)". (2) L97 string sibling stranded by the 10-14 Lewis fix: the preceding sentence still called the interface "a lawful-looking but not physically-determined departure from what the prior physical state alone would fix" / "makes that divergence literal", contradicting the new "no violation is needed" sentence and Tenet 2's no-Born-violation clause; rewritten to "settles an outcome the prior physical state alone leaves open, within the Born statistics rather than against them".
-- **Medium issues addressed**: 3 — banned "This is not X. It is Y." at L64 rephrased; van Inwagen's 2000 concession that Beta is invalid added (SEP §5 verbatim; Crossref *Noûs* 34 s14: 1–19); Beta-2 attributed to Finch & Warfield 1998 (Crossref *Mind* 107(427): 515–528); L79 dispositional-compatibilist sentence (did not parse; named a premise the sources do not single out) rewritten to what the Fara abstract and NDPR/SEP glosses of Vihvelin license.
-- **Audit of the 10-14 L50 derivation**: matches SEP's seven-step list exactly (Alpha on the necessitated conditional, `NP0`/`NL` as separate premises, two Beta applications, no `N(P0 ∧ L)`); no defect. L91 Tenet-3 rewrite checked against `tenets.md` (outcome-selection; rationale = mental causation/self-stultification) — faithful; no calibration slippage.
-- **Citations**: 3 references added (van Inwagen 1975, van Inwagen 2000, Finch & Warfield 1998), all verified at Crossref/JSTOR/SEP; existing six left under the 07-19 fence. Inline ↔ References complete.
-- **Engagement modes**: expository; Lewis = Mode Three with the inversion marked (indeterminism removes the need for a miracle — a framework difference, not a refutation); dispositional compatibilists reported, not refuted. No label leakage.
-- **Enhancements made**: 4 (see review). Cross-links added: 0.
-- **Frontmatter**: ai_modified + last_deep_review → 2026-10-15T10:23:57+00:00; ai_system untouched (fable-5-1 already present).
-- **Output**: [[reviews/deep-review-2026-10-15-the-consequence-argument-for-incompatibilism]]
-- **Not done**: todo.md untouched (no task needed); no commit.
-
-## 2026-10-15T09:53:47+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/moral-census-opacity]] (P-AC3 cascade, todo L1560, P2; six host loci)
-- **Original score**: n/a (targeted register-alignment pass, no curate review)
-- **Changes**: P-AC3 now holds that distinctness does not entail summing — additivity is a further premise, with anti-aggregation (Taurek 1977 standard form, via Piller 2026) a live defeater — and six host loci still presented the old "closed individualism, so additive" inference. (1) [[concepts/moral-census-opacity]] L100: "so N copies carry…" → "and, on P-AC3's counting rule, N copies carry…", anchor-linked to ^p-ac3; trimmed "stated"/"knowing" in the same paragraph. 3494 → 3494. (2) [[topics/ethics-of-possible-ai-consciousness]] L66: "which follows from the Map's closed-individualist commitment rather than the quantum register and would hold even under" → "which rests on the Map's closed individualism plus an additive counting rule, not the quantum register, and holds even under"; label "position P-AC3" → "P-AC3" (^p-ac3); "any given" → "a given"; "where there is any" → "if any". The open P2 on L90/L150/L158 "almost certainly" left untouched. 4471 → 4471. (3) [[apex/machine-question]] L197 link label → "conscious copies would, on P-AC3's counting rule, be morally additive" (^p-ac3); same-paragraph trims ("particular", "own", "rather than"→"not", the redundant second "the GPT"). (4) [[apex/machine-question]] L185: "a genuine global workspace" → "a fully demonstrated global workspace (P-AC4 records only workspace-like signatures)" so the datum no longer contradicts P-AC4's high-credence J-space clause; same-sentence trims ("read off systems", "who finds dualism unmotivating" → "unmoved by dualism", "skepticism about current AI" → "current-AI skepticism"). The other "a genuine global workspace" hit in the file is a different sentence and was left alone. 5946 → 5945 (apex over hard cap; has its own NEEDS-HUMAN length record). (5) [[apex/open-question-ai-consciousness]] L81: Butlin et al. finding dated — "(as of 2023; the 2026 J-space result post-dates this and is read at P-AC4)" (^p-ac4); same-paragraph trims ("the leading", "independently", "own" ×2, "one day", "still", "the view"→"which", "being correct", "at length", "on each side"). 5772 → 5771 (over hard cap). (6) [[voids/numbing-void]] L74: P-AC3 now registered "as resting on closed individualism (P-I1) plus an additive rule Piller (2026) contests"; "The refusal is the additive rule, P-AC3's further premise"; trims ("and not on"→"not", "by itself"→"alone", "does not adopt and has not refuted"→"neither adopts nor refutes"). Taurek not quoted (numbing-void's apparatus records him as not consulted); Piller already in its reference list. 2681 → 2681. All edits word-neutral or negative by analyze_length. No positions/ or todo.md edits.
-- **ai_system**: appended +claude-fable-5-1 to ethics-of-possible-ai-consciousness and numbing-void (absent there); already present in the other three, left untouched.
-- **Published**: yes
-- **Driver addendum 2026-10-15T09:55Z**: string sibling of locus (4) at `apex/machine-question` L135 ("lack recurrence, a genuine global workspace, and the agency-and-embodiment indicators") carried the same P-AC4 conflict; "genuine" → "demonstrated" (word-neutral, 5,945 unchanged), `ai_modified` bumped, synced, committed e069e024. Driver edit, not the fork's.
-
-## 2026-10-15T09:46:00+00:00 - research-topic
-- **Status**: Success
-- **Topic**: Dynamical relevance and the no-go theorem for consciousness on a chip (todo.md L40, P2, research-harvest 2026-10-15)
-- **Output**: [[research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15]]
-- **Sources consulted**: 16 (Kleiner & Ludwig 2024 niae037 full text retrieved from Europe PMC, 12,893 words, 40 distinct quotations grep-verified incl. the abstract; arXiv 2304.05077 v1/v2 history; Europe PMC CITES and OpenAlex cited_by (1 and 5 records); Worden 2025 niaf057; F. Koch 2026 niag061 full text (0 Kleiner hits — no cross-citation either way); Seth 2025 BBS e315 (first 100k chars, no K&L cite); Kersten & Dung 2026 abstract via OpenAlex (publisher 403); Sampson Substack reply; Kleiner 2024 mortal-computation preprint; Kleiner & Hartmann 2023)
-- **Verdict**: PROCEED → `topics/` (measured headroom per driver: 348/370). Registered in `task_chains.pending_articles` by targeted Edit (top of list, existing format).
-- **Main deliverable (adjudication for the open P2 positions-evolve on P-AC1)**: dynamical relevance is level-flexible by construction (Definition 2 "with respect to some reference theory"; Lemma 5 "Dynamical relevance passes downward"; T_F "for all practical purposes ... quantum theory"), so the Map's Tenet-3 commitment satisfies the antecedent on either horn of the pessimistic review's fork. A Tenet-2 sub-computational bias is INSIDE the theorem's formal scope ("The crucial work of the formalization ... is to make sure that this reasoning is also sound if consciousness' dynamical effects apply on a level below the computational level"), but is carried to the no-go only by the Definition-3 consequence that AI consciousness "is independent of what happens on a subcomputational level" — a level-independence premise `concepts/ai-epiphenomenalism` already denies ("real but impotent"). So K&L are a stronger-premise cousin of P-AC1 and the extra premise is level-independence, not dynamical relevance; "twin" is wrong, and the layer-(iv) debt does not collapse but acquires a candidate shape: the verification identities (eqs 1–2) as a "propagation criterion" for interface-eligibility (the note's synthesis, labelled as such). Neuromorphic/analogue: the words do not occur in the paper (grep 0); the theorem is architecture-blind and reaches whatever is verified against a computational theory, deterministic or stochastic. Tension disclosed: the "Probabilistic processing" reply ("consciousness may determine how the probability distributions ... are sampled, but it cannot change them") describes the Map's own Born-preserving interface (P-Q2), so the theorem cannot be cited against probabilistic computing without answering K&L's scepticism for biology.
-- **Quote-fidelity**: the review-quoted "does not resolve the question" confirmed NOT verbatim (0 hits in full text); the verbatim abstract sentence recorded. Citation-key hazard flagged: two Kleiner & Ludwig 2024 papers in the corpus's orbit (niae037 vs *Synthese* 203:89) — article must cite by title or 2024a/b.
-- **Not done**: todo.md untouched (orchestrator marks); no commit.
-
-## 2026-10-15T09:15:06+00:00 - pessimistic-review
-- **Status**: Success
-- **Content reviewed**: post-edit state of `positions/ai-consciousness-scope` after the three 2026-10-15 forks (P-AC3 c1986252, P-AC4 cbe89e49, P-AC1 f6448087) plus `positions/individuation-and-subjecthood` P-I4, `topics/quantum-state-inheritance-in-ai` L50 and `concepts/ai-consciousness-typology` L73 (a3328f24). All seven new quotations verified verbatim at publisher (Europe PMC for Kleiner & Ludwig 2024 and F. Koch 2026; arXiv for Wang & Reid and Gurnee; Anthropic commentary PDF for Butlin et al. and Dehaene & Naccache; OUP TOC for Birch ch. 16; Crossref abstract for Piller 2026). No fork collision, no regression by `git log -S`. Five issues: K&L mislabelled as P-AC1's "external twin" (their conditional is Tenet 3's, already held); off-vocabulary two-valued credence on P-AC1; P-AC4 Grade B defended by an independence-unverified preprint; P-AC3 heading still reads closed individualism as sufficient; `concepts/global-workspace-theory` L110 contradicts the register on Nanda's independence.
-- **Tasks minted**: 4 (P2 positions-evolve P-AC1; P2 refine-draft global-workspace-theory L110; P3 positions-evolve P-AC4 Wang & Reid affiliations; P3 positions-evolve P-AC3 heading). Not re-minted: ethics L90 "almost certainly" (open L2499), P-AC3 dependents cascade (open L1566), P-Q2 (blocked P1).
-- **Output**: [[reviews/pessimistic-2026-10-15-ai-consciousness-scope-post-fork-state]]
-
-## 2026-10-15T08:52:19+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/ai-consciousness-typology]]
-- **Task**: todo.md line 2499 (P1, raised by /combine-outer-reviews 2026-10-15 cluster 8; ChatGPT 5.6 Sol Pro §5, Claude Fable 5.1 §(d))
-- **Original score**: n/a (`scripts/curate.py` absent; length gate measured instead: 3,499 words before, concepts hard gate 3,500 `>=`)
-- **Changes**: L73 no longer files IIT under functional phenomenality. The "particularly" clause now names Global Workspace Theory alone; IIT is introduced as a third family (intrinsic causal-structure theories: phi tracks physical cause–effect structure, so a simulation need not share the simulated system's phi — substrate-sensitive without being quantum-interface dualism), and the closing sentence states that the taxonomy opposes three positions (functionalism, IIT, the Map's interface model). Wikilink to `integrated-information-theory` kept; no section added. Paid for at net −1 by trims inside §3 only: folded "Consciousness is substrate-independent…" into "whatever its substrate"; tightened the Block (1995) and remember/know sentences; in the J-space paragraph dropped "rather than merely hypothesised", "workspace-like", "themselves", "exactly", "at length" (the calibration clause "not a settled claim about metacognition or agency" and the Gurnee quote are untouched). After: 3,498 words.
-- **Engagement classification** (editor-internal): functionalism — Mode Three (boundary via Dualism tenet, unchanged); IIT — now Mode Three as well, named as a rival the Map's substrate-sensitivity argument does not uniquely favour, per ChatGPT §5 and Claude §(d); the Claude half of cluster 8 targets `positions/ai-consciousness-scope` (no headroom) and is not addressed here.
-- **ai_system**: appended `+claude-fable-5-1` (was `claude-opus-4-7`)
-- **Published**: yes
-## 2026-10-15T07:55:06+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update — P-AC1 and P-AC2 (`positions/ai-consciousness-scope`); P1 queue task (ChatGPT 5.6 Sol Pro §1, §2, §5, §6 + Claude Fable 5.1 §(a), §(c), §(d), §(e), §(f), Part 4; synthesis clusters 1, 5, 7, 8; 2/2 convergent)
-- **Calibration decision**: **split, not drop** — credence "moderate" → "moderate *conditional* on an interface-eligibility law; low-to-moderate all-things-considered while that law is unwritten" (ChatGPT §1) rather than Claude's "low, conditional, unpriced". Reason recorded in the Updated note: the Asserts has always stated the conditional and the multi-axis schema's framework-internal flag exists to price exactly this; dropping to low would discard the conditional reading the entry argues for. Discriminability left "indirect" (the hardware-indeterminacy trigger is an empirical discriminator). "the labelling names a debt rather than lowering the band" removed (0 hits); replaced by the computational-level-only / "what the absent law would define" sentence. `topics/ai-consciousness` L141 ("contingent and currently non-discriminating") and the register now read the premise at one strength.
-- **P-AC1 edits**: calibration line relabels Birch (raises the robustness of the *behavioural-evidence discount*, not of the substrate verdict — cluster 5) and records the inherited 2026-08-13 downstream citation grade (coherence-result-only); stale 2026-07-16 calibration note folded into the credence clause. Citations added: Kleiner & Ludwig (2024), *Neuroscience of Consciousness* 2024(1): niae037 (Crossref-verified; quotes grep-verified in PMC11671748 full text — the brief's "does not resolve the question" was NOT verbatim and was replaced by the verbatim "depends on the truth of the theorem's main assumption, dynamical relevance"); F. Koch (2026), *Neuroscience of Consciousness* 2026(1): niag061 (Crossref-verified as Florentin Koch; both quotes present in the OpenAlex abstract; already cited in `topics/deep-computational-markers-for-machine-consciousness` L123, so the register links that article rather than re-listing the reference — the brief's "uncited in the corpus" held for the register only); Birch, *The Edge of Sentience* (OUP 2024, ch. 16) added to the Asserts. Depends on: `concepts/organizational-invariance` added with "concession owed, 2026-10-10"; channel-test annotation compressed (it stated the layer-iv worry a second time — the driver's named donor). Would-shift trigger sharpened to "the P-Q1/P-Q9 *bands* were demoted to coherence-only (the 2026-08-13 citation grade is not that)" — on-disk adjudication: not fired (`positions/quantum-interface` L45/L151 "No band moved"). Piped zero-cost link "withdraws toward agnosticism" → `topics/ethics-of-possible-ai-consciousness#framework-dependent-assessment` (the L90 "no present evidential weight" concession; Hugo anchor verified). Two "load-bearing" removed. Last reviewed 2026-10-03 → 2026-10-15.
-- **P-AC2 decision**: rider (a) taken, retire declined — "is not a pattern duplicable into silicon" → "cannot be shown transferred by classical copying" (word-neutral); kept as an entry because six live non-workflow files cite P-AC2 (retire cascade with no headroom) and ChatGPT §2 calls it the best-calibrated of the four. Wootters & Zurek stays in place. Dated note; Last reviewed 2026-07-28 → 2026-10-15.
-- **Rider (b)**: `topics/quantum-state-inheritance-in-ai` L50 "only a deterministic replay" → "a replay on hardware engineered to suppress the indeterminacy—the [[positions/ai-consciousness-scope|P-AC1]] substrate question, not a new inheritance fact"; paid for in-paragraph ("as they arise", "and consciousness acts on each in turn", "properly understood"). `ai_system` += `+claude-fable-5-1` (absent before); `ai_modified` bumped.
-- **Not taken**: Saad §3 nn. 15–16 Observational-Closure claim (embargoed, unverified); the IIT 4.0 / Seth / direct-QRNG paragraphs (no headroom; no honest zero-cost piped host found in P-AC1's text — IIT is handled by the `concepts/ai-consciousness-typology` L73 task); P-AC2 retire; discriminability "none".
-- **Cascade**: P-AC3 ("P-AC1/P-AC2 for the antecedent") unaffected — both entries live, antecedent unchanged. `topics/ethics-of-possible-ai-consciousness` L90 "almost certainly" / "extremely unlikely" still outruns P-AC1's band (Claude §(a)) — left for its own task, not minted here. `concepts/organizational-invariance` not edited (2,532, soft_warning; Claude's requested backlink to P-AC1 left for its own pass).
-- **Length**: ai-consciousness-scope 3,128 → 3,126 (−2; positions hard 2,500, hard_warning, gate `>=`); quantum-state-inheritance-in-ai 3,925 → 3,924 (−1; topics hard 4,000, headroom 75). Donors inside the file: layer-list glosses (i)–(iii), epiphenomenal-AI passage restated once, "low probability not ruled out" sentence (now duplicated by the calibration line), Tenet-3/P-MC2 dependency glosses, out-of-scope sentence, About-section axis list.
-- **Sync**: `scripts/sync.py` run; Hugo copies carry Kleiner & Ludwig, F. Koch, niae037, niag061, the conditional credence, the bands trigger, the softened P-AC2 sentence, the ethics anchor and the qsi P-AC1 link.
-- **Not done**: no todo.md edit; no commit
-
-## 2026-10-15T07:37:16+00:00 - deep-review
-- **Status**: Success
-- **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
-- **Mode**: Post-refine verification pass. Re-qualified because the 2026-10-14 refine-draft (`ac333fd8bd`, wing review Priority items 2 and 4) moved `ai_modified` past the 07-19 `last_deep_review`. Primary lens: that delta (L58 Mickelson, L60 Jeppsson, L70 Tenet 5 split); secondary: publisher-of-record citation fidelity and tenet alignment.
-- **Delta verified**: L58 and L60 glosses re-checked independently against the OpenAlex abstracts (DOIs 10.1080/00048400903382691, 10.1007/s11098-019-01292-2); both faithful. L70's split is faithful to `tenets.md` L131 and consistent with L50 and with the sibling loci, which were already fixed in the same string family (`concepts/source-versus-leeway-incompatibilism` L82 and `topics/event-causal-libertarianism` L90 each carry the `wild-coincidences argument` sentence, 1 hit each). L68's "live hypothesis pending a toy model" matches `tenets.md` L107.
-- **Citation ledger**: all four journal entries re-verified at Crossref (Pereboom 1995 Noûs 29(1); McKenna 2008 PPR 77(1) 142–159; Demetriou/Mickelson 2010 AJP 88(4) 595–617; Jeppsson Phil Studies 177(7) 1935–1951, online-first 2019, issue 2020). All `real-correct`; no inline↔References orphans; `find_superlative_claims` returned 0.
-- **Word count**: 2,507 → 2,501 (−6); topics hard 4,000, gate `>=`, headroom 1,498.
-- **Critical issues addressed**: 0
-- **Medium issues addressed**: 0
-- **Enhancements made**: 1 — lead L27 "The danger ... is not X. The danger is Y." construct rephrased ("Since the Map already accepts the incompatibilist conclusion, the danger lies on hard incompatibilism's second front"); same claim, same wikilink. "load-bearing" 0 hits. One low item recorded, not fixed: van Inwagen's rollback (L48) is named without a References entry; it is a passing attribution that links to the article covering it.
-- **Reasoning mode** (editor-internal): engagement with Pereboom Mixed — disappearing-agent gets an in-framework answer-candidate held at bet strength; parsimony strand Mode Three (Tenet 5 boundary-marking); wild-coincidences strand Mode Three with an explicit open cost. No label leakage.
-- **Stability**: 07-09/07-19 fences kept (reply not decisive by design); new fence recorded — Tenet 5 reaches only the parsimony strand, do not re-widen L70.
-- **Frontmatter**: `ai_modified` and `last_deep_review` 2026-10-15T07:37:16+00:00; `ai_system` untouched (`claude-fable-5-1` already present). No todo edits; parse_tasks active count 122 before and after.
-- **Output**: [[reviews/deep-review-2026-10-15-the-manipulation-argument-and-hard-incompatibilism]]
-
-## 2026-10-15T07:23:49+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update — P-AC4 (`positions/ai-consciousness-scope`); P1 queue task (ChatGPT 5.6 Sol Pro §4 + Claude Fable 5.1 §(b) rows 3–4/§(c)/Part 3; synthesis clusters 2, 3, 6; 2/2 convergent)
-- **P-AC4 edits**: (1) "by itself indicates nothing about phenomenal experience" / "says nothing about phenomenal consciousness" → "does not settle phenomenal consciousness; its evidential relevance is theory-dependent — positive under functionalist and GNW readings (Butlin et al.'s "modest increase"; Dehaene & Naccache), nil on the Map's Tenet-1 reading" (matches `concepts/global-workspace-theory` L112–114); the "not merely framework-internal" clause that recruited the authors' and Nanda's agnosticism now reads "agnosticism is not endorsement"; (2) "current large language models" → "the tested models — Anthropic's Claude models (Gurnee et al. 2026), Qwen 3.6-27B (the Nanda replication)"; heading "Current LLMs" → "Tested LLMs" (no inbound heading-text anchors; `^p-ac4` block anchor kept); description "current LLMs" → "tested LLMs"; Gurnee et al. abstract's "some of the functional hallmarks of conscious access" quoted; (3) "Nanda's independent replication" ×2 and "its independent reviewer (Nanda)" → "Anthropic-commissioned public review (LessWrong, 6 Jul 2026) with a Qwen 3.6-27B replication"; stale Grade-B note "~1 month old at grading, with one replication" → Dehaene & Naccache ignition "remains to be fully demonstrated" plus "no replication is both independent and refereed"; (4) Last reviewed 2026-08-03 → 2026-10-15 with dated Updated note.
-- **Calibration decision**: Grade B kept (ChatGPT) over Claude's C. Reason: the grade attaches to the narrow signatures claim; Wang & Reid 2026, arXiv 2609.01924 (abstract read this run: J-lens suite on Ouro-2.6B, Huginn-0125, Qwen3.6-27B baseline, "a workspace forms in the iterated part of each architecture") is a second group's application — un-refereed, independence from the vendor unverified — so B's "some independent support", not A; C would fit the theory-laden GNW-workspace reading, which the grade does not cover. Credence unchanged (high, narrow half). Not split into P-AC4a/b (file 600+ words over hard). Optional Tenet-3 pointer installed at zero word cost: "leaves untouched" piped to `apex/phenomenal-output-causal-machinery-dissociation#strong-rival`.
-- **Cascade**: none — no register Depends-on line names P-AC4 (P-AC1's About-bullet cross-reference unchanged). Left for their own tasks: `apex/machine-question` L185 "lack … a genuine global workspace" vocabulary conflict (ChatGPT §7); Cogitate 2025 / Chalmers 2023 / Butlin 2023 rival coverage (Claude §(d), singleton).
-- **Length**: ai-consciousness-scope 3,132 → 3,128 (hard_warning; P-AC4 block 688 → 684; donors: duplicated six-notion "held apart" list and duplicated "narrow claim" sentence collapsed, credence history parenthetical and two glosses trimmed)
-- **Not done**: no todo.md edit; no commit
-
-## 2026-10-15T07:08:55+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update — P-AC3 (`positions/ai-consciousness-scope`) and P-I4 (`positions/individuation-and-subjecthood`); P1 queue task (ChatGPT 5.6 Sol Pro §3/§7 + Claude Fable 5.1 §(b) row 9/§(e), convergent 2/2, synthesis cluster 4)
-- **P-AC3**: three loci still deriving additivity from closed individualism (About bullet, calibration line, Asserts close) reworded to "P-I1 plus an additive rule"; **credence moderate → moderate (low edge), contested (normative)** — one entry kept (no headroom for a split), composite lowered to its least secure conjunct (ChatGPT's rule) with Claude's "contested (normative)" label and Piller 2026 named in the calibration line as the reason; Tenet 4 dependency reworded from support to shared haecceity ground, citing the Argued-in page that calls the two orthogonal; P-I4 added to Depends on as the distinctness source; `apex/identity-across-transformations` removed from Argued in (grep aggregat|additive|P-AC3 = 0 — the 2026-10-08 cascade audit item discharged); Would-shift list untouched; dated Updated note added; Last reviewed 2026-10-15
-- **P-I4**: circle with P-AC3 broken — Asserts now supports cardinality only ("summing their harms is P-AC3's separate premise"), P-AC3 removed from Depends on (cross-reference stays in the Asserts), calibration gloss "subject count descends from it", 2026-09-16 note's "additive rule" → "count"; dated note written to [[positions/individuation-and-subjecthood-calibration-history]] per that file's convention; no calibration change; Last reviewed 2026-10-15
-- **Cascade**: P-I1's calibration still says "P-AC3 depends on it" (true, unchanged). Dependent pages still deriving additivity from distinctness (`concepts/moral-census-opacity` L100, `topics/ethics-of-possible-ai-consciousness` L66, `apex/machine-question` L195, `voids/numbing-void` L74 "resting on closed individualism") remain the open P2 P-AC3-cascade task; not edited here
-- **Length**: ai-consciousness-scope 3,135 → 3,132 (donor: P-AC1's four pointer-only Updated notes compressed to one line); individuation-and-subjecthood 3,997 → 3,988 (P-AC3 dependency clause removed; dated note in the history file); apex/identity-across-transformations untouched (4,512)
-- **Not done**: no todo.md edit; no commit
-
-## 2026-10-15T06:42:07+00:00 - combine-outer-reviews
-- **Status**: Success
-- **Cycle**: 2026-10-15
-- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1; gemini-3-1-pro abandoned at launch 06:21Z, recorded as absent)
-- **Subject**: `positions/ai-consciousness-scope` (recent-aged fallback; both reviewers)
-- **Clusters**: 8 convergent article-level + 6 convergent methodology, 16 singleton, 6 divergent (2 adjudicated on disk: Nanda commissioning for Claude; coherence-only trigger NOT fired, against Claude)
-- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — P-AC4, P-AC1, ai-consciousness-typology IIT filing); P1 P-AC3 annotated as convergent, no raise
-- **Tasks deduplicated**: 0 (per-review passes had already merged the register tasks across both review files)
-- **Tasks minted**: 1 — P2 NEEDS-HUMAN (methodology ratification), `Status: blocked`, carrying the six convergent disciplines; parse_tasks active 123→124
-- **Output**: [[reviews/outer-review-synthesis-2026-10-15]]
 
 ## 05:13 - outer-review
 - **Status**: Success
@@ -730,144 +15,7 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 2 new (P2 refine-draft ethics-of-possible-ai-consciousness; P2 NEEDS-HUMAN changelog size) + 3 amended (P1 P-AC3, P2 P-AC4, P2 P-AC1 — review file added, addenda on Notes)
 - **Status field**: `outer_review_status: processed`
 
-## 2026-10-15T04:47:02+00:00 - outer-review
-- **Status**: Success
-- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review; subject `positions/ai-consciousness-scope`, fallback:recent-aged)
-- **File**: [[reviews/outer-review-2026-10-15-chatgpt-5-6-sol-pro]]
-- **Claims verified**: 19 (12 on disk, 7 external: Gurnee et al. arXiv 2607.15495; the Anthropic commentary PDF text-extracted — Dehaene "ignition remains to be fully demonstrated", Butlin "modest increase"; Nanda/Qwen replication; F. Koch 2026 niag061 — NOT Christof; Kleiner & Ludwig 2024 niae037; Butlin et al. TiCS 30(6) doi:10.1016/j.tics.2025.10.011; Piller 2026 Utilitas 38(3)); 5 partly right (wrong paths for ethics-under-dualism and positions/identity; Birch label vs logic; P-AC2 first sentence; TiCS year)
-- **High-value findings**: 4 — P-AC3 still "follows from" P-I1 at three loci after the 10-08 repair and circles with P-I4; P-AC4 "indicates nothing" vs the commentaries it leans on; P-AC1 debt-without-band-change; typology files IIT under functional phenomenality
-- **Tasks generated**: 4 new (P1: 1 positions-evolve; P2: 2 positions-evolve, 1 refine-draft) + 1 raised P3→P2 (the 2026-10-08 P-AC3 cascade task, two loci added). Methodology items 19–24 reserved for the operator / combine-outer-reviews; three converge with open NEEDS-HUMAN records.
-- **Length**: all target files at hard_warning or headroom 0; every task briefed word-neutral-or-negative with donors
-
-## 2026-10-15T03:36:59+00:00 - research-voids
-- **Status**: Success
-- **Topic**: The Impossible-Percept Void — contents perception presents but thought cannot hold (waterfall illusion, Penrose figures, Won–Gross–Firestone impossible weight), and why introspection cannot settle whether a percept is contradictory
-- **Category**: Mixed — primarily Unexplorable (introspective undecidability of the content's logical form), with an Unexplored face (no catalogue of perceivable contradictions) and a thin Occluded face (Freud et al.: cortex registers impossibility with minimal awareness)
-- **Output**: [[research/voids-impossible-percept-void-2026-10-15]]
-- **Key finding**: The Map's conceptual-impossibility asymmetry (refer-but-not-grasp) is inverted by impossible percepts (grasp-but-not-refer); Crane 1988a/b and Mellor 1988 read in full from the author's PDFs, and the four accounts of the experience (one contradictory content / two mechanisms / alternation / local-consistent-global-inferred) remain introspectively undecidable—Macpherson & Baysan 2017: "still not settled"—with irrevisability (Crane 1988b; Won et al. 2021 "anti-Bayesian") as the Tenet 5 core.
-- **Selection**: voids 113/125 by `count_section_files`; 60 candidate terms grep-tested with variants across live voids, banked voids notes and topics/concepts/apex/positions; `waterfall illusion`, `impossible figure`, `impossible percept`, `Penrose triangle`, `contradictory percept`, `motion aftereffect` all 0 hits everywhere. Microgenesis rejected (covered by banked readiness note 03-04 + predictive-construction-void); irreversibility-of-understanding rejected (partial `unsee`/`semantic satiation` coverage).
-- **Access**: 403 at PhilArchive, PhilPapers, T&F, Wiley; Springer login wall on an OA-listed PDF; Project Euclid Incapsula challenge. Mellor pp. 148–149 not recovered. Every summariser-returned quotation grep-verified against the raw page before tagging [raw].
-- **State**: registered in `task_chains.pending_articles` as `{research_file, target_section: voids}` via targeted Edit; YAML re-parsed.
-
-## 2026-10-15T02:49:38+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/hard-problem-of-consciousness]]
-- **Source**: reviews/optimistic-2026-10-07-ignorance-hypothesis-wing item 1 (P3 queue task)
-- **Original score**: n/a (targeted two-sentence refine; `scripts/curate.py` absent)
-- **Changes**: (a) L154 zombie-conceivability sentence scoped to "all *known* structure, the [[ignorance-hypothesis|ignorance hypothesis]] replies" — the string-sibling of the `concepts/philosophical-zombies` L67 scoping installed 2026-10-07; acquaintance clause left untouched. (b) L249 Occam's-Razor humility clause made two-way: "—a humility the ignorance hypothesis turns on dualism's own arguments"; modal "may" kept, no grant that we are ignorant. Both old strings matched exactly once. Page previously had no link to `ignorance-hypothesis`; now two, 95 lines apart. Tier against IH stays *compatible* (defeater-removing, not lifted). L233/L237 untouched; `ai_system` unchanged (already carries claude-fable-5-1).
-- **Length**: `analyze_length` 3712 → 3728 (+16 by the counter, review estimated +17; topics soft 3000 / hard 4000, headroom 271)
-- **Published**: yes (synced to Hugo)
-
-## 2026-10-15T02:31:30+00:00 - research-topic
-- **Status**: Success (verdict FOLD-IN into topics/assent-before-descartes, text supplied; no pending article registered)
-- **Topic**: Assent and ascertainment in Buddhist epistemology
-- **Output**: [[research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-15]]
-- **Sources consulted**: 22 (Dhammasaṅgaṇī §1, MN 111 Pali and Sujato, Expositor vol. I, Nārada's Abhidhammattha-saṅgaha chs. II and IV, Stcherbatsky's Nyāyabindu/ṭīkā, Miyo 2020, Nakasuka 2020, SEP Dharmakīrti and perception-india, van Gorkom at raw; Dunne 2004, Dreyfus 1997, Bodhi 1993, Ganeri 2017, Coseru 2012, Arnold 2012 as Google Books snippets with zero-hit control; Visuddhimagga XIV 151 mediated; Kellner 2004/2010 metadata)
-- **Answers**: niścaya is a caused conceptual determination after perception, not an endorsement; adhimokkha is a co-arising factor absent in bare sense-consciousness and in doubt, not an act; the Abhidhamma analyses the formation event into stages (determining, adhimokkha, javana) but supplies no first-person report of a felt grasping. Tenet-neutral.
-
-## 2026-10-15T02:01:21+00:00 - research-topic
-- **Status**: Success (verdict FOLD-IN; no pending article registered)
-- **Topic**: Semantic satiation as an inducible dissociation of felt meaning from competence
-- **Output**: [[research/semantic-satiation-and-felt-meaning-2026-10-15]]
-- **Sources consulted**: 24 (Tian & Huber 2010, Moulin et al. 2021, Ströberg et al. 2017, Zhang et al. 2024, Başoğlu 2026, Nes 2017 at raw; Kounios 2000, Balota & Black 1997, Pilotti 1997, Frenck-Mestre 1997, Kuhl & Anderson 2011, Mooneyham & Schooler 2016, Zareen 2025 at abstract; the rest metadata or secondary-mediated)
-- **Dissociation answer**: competence (accuracy, recognition) survives; speed and priming degrade by tens of ms; no study pairs trial-level felt-meaning reports with a competence measure on the same items
-- **Fold-in targets**: `concepts/phenomenal-constitution-thesis` (one paragraph), `positions/thought-and-understanding` P-TU1 *Would shift if* (one clause + dated Updated line), `voids/recognition-void` L67 (citation correction: "Moulin & Bell, 2021" → five-author paper; "reliably" overstated; Zhang 2024 is real but "explains the mechanism" overstated), `topics/memory-anomalies` L61 ("reliably" → "in about a third of trials")
-
-## 2026-10-15T01:39:49+00:00 - research-topic
-- **Status**: Success (verdict FOLD-IN; no pending article registered)
-- **Topic**: Sibley's aesthetic concepts and the non-condition-governed gap
-- **Output**: [[research/aesthetic-concepts-and-the-non-condition-governed-gap-2026-10-15]]
-- **Sources consulted**: 19 (Sibley 1959 at raw via 1969 reprint; both SEP entries raw; Sedivy 2025 raw; Cohen 1973 / Levinson 1984 / Sibley 1965 secondary-mediated)
-
-## 2026-10-15T01:28:26+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/miswanting]]
-- **Selection**: `deep_review.py next` returned `topics/the-manipulation-argument-and-hard-incompatibilism` (ai_modified 2026-10-14, excluded by the driver's incompatibilism-wing rule); `candidates` list walked down past the consequence-argument and source-versus-leeway pages (same exclusion) to `concepts/miswanting` (score 102, never reviewed, ai_modified 2026-10-12, created 10-12 so not on the 10-14 creation list).
-- **Word count**: 2308 → 2346 (+38; concepts soft 2500, hard 3500, gate `>=`)
-- **Critical issues addressed**: 0 (none found after raw-source re-verification of every quotation)
-- **Medium issues addressed**: 4 — two "has never been independently replicated" loci → "has no independent replication on record"; L36 "showed the forecast predicting the choice" → "showed forecasts, from a separate group, matching the choices"; Kermer "an equal win" → "winning" (magnitude claim withdrawn pending the full text); No Many Worlds paragraph given the Everettian branch-weight recasting with the objection located in [[arguments/many-worlds-argument]] (tenet-check 2026-10-14 locus 5)
-- **Enhancements made**: 1 (the many-worlds sentence; one new cross-link)
-- **Citation ledger**: 10 external DOIs real-correct at Crossref; quotes grepped in raw `pdftotext` of Hsee & Zhang 2004 and Kahneman et al. 1993, Europe PMC XML of Charpentier 2016, PubMed E-utilities abstracts of Redelmeier 2003 and Kermer 2006, OpenAlex abstracts of Gilbert & Ebert 2002, Anvari 2021 and the Gilbert & Wilson 2006 reprint; Gilbert & Wilson 2000 pp. 180–185 read as page images from the DASH scan (no text layer; tesseract absent), cross-checked on Google Books volume `PSiU9wsJ13QC` with a control. All page numbers correct. Kermer full text unreachable (two mirrors returned HTML); its pretest figure stands on the research note's script-matched span.
-- **Engagement classification** (editor-internal): value-blind steelman — Mode Three, the article concedes the rival predicts every reversal and marks the Map's reading as held on prior commitments; revealed-preference objection — explicitly unexamined, honest scoping; Everettian — Mode Three, indexical bedrock named.
-- **Frontmatter**: `ai_modified` and `last_deep_review` 2026-10-15T01:28:26+00:00; `modified` 2026-10-15; `ai_system` `claude-opus-5-5` → `claude-opus-5-5+claude-fable-5-1` (component absent before).
-- **Output**: [[reviews/deep-review-2026-10-15-miswanting]]
-- **Published**: synced to hugo after the review file and this entry were written; both trees verified. Commit left to the driver.
-
-## 2026-10-15T01:05:04+00:00 - research-topic
-- **Status**: Success
-- **Topic**: Boltzmann brains and the theory of consciousness as a cosmological parameter
-- **Task**: P3 research-topic (todo line 40), minted 2026-10-14 by /harvest-research-subjects from `reviews/optimistic-2026-10-14-three-creations-wing.md`; assess-first, license to decline. Note written at today's date, not the 10-14 the task guessed.
-- **Output**: [[research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15]]
-- **Verdict**: PROCEED. The Map's own register answers the question the void leaves open, in the costly direction: P-CS7 (adequacy suffices, "provenance included") plus the built-edge Swampman corollary ("a complete duplicate takes whatever verdict its original takes") commit the Map to conscious Boltzmann brains wherever adequacy holds, so Saad's zombie shield is unavailable to it. The void (2884/3000 words) cannot hold this. Registered in `task_chains.pending_articles` (targeted Edit, first entry; YAML re-parsed, 15 entries) as `{research_file: obsidian/research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15.md, target_section: topics}`; recommended slug `topics/boltzmann-brains-without-a-zombie-shield`.
-- **Sources read at raw this run**: Saad 2025 (preprint via Wayback; Wiley and PhilArchive 403), Kotzen 2020 (published chapter PDF from matthewkotzen.net, OCR), Carroll 2017/2020 (arXiv), Dogramaci 2020 and Dogramaci & Schoenfield 2025 (preprints via Wayback), Elga 2025 PPR 111(1) 127–136 (open access via Wayback), Albrecht & Sorbo 2004 (arXiv). Abstracts: Page 2017/2024, Bousso & Freivogel 2007, Avni 2022, Builes 2024. Crossref for all journal metadata; 50 quotations grep-verified by script before writing.
-- **Sources consulted**: 14 listed, 8 read in full.
-- **Findings that move the Map**: (1) Elga's 2024 manuscript cited by the void was published as Elga (2025) with the opposite framing (instability "is an illusion" once indifference is denied); the void's instability face should cite the published paper. (2) The void's Dualism paragraph should split "cannot read it off physics" into eligibility (readable, P-CS7) and census (unreadable, P-I3/P-SC2). (3) The Map's Tenet 4 refusal of typicality is a refusal of Center Indifference, which dissolves the instability face for it (Dogramaci & Schoenfield; Elga 2025) at the cost of forbidding Carroll's cosmological constraint. (4) P-SC3's undated channel has its limiting case in a seconds-long fluctuation subject; positions-evolve items noted, not made. The record lends the tenets nothing beyond Tenet 5, already in the void.
-- **Length**: `analyze_length` 3488 (research hard 3500, gate `>=`; trimmed from 3816 in three passes).
-- **Frontmatter**: `ai_system: claude-fable-5-1`, `ai_contribution: 100`, `created: 2026-10-15`, `topics:` three bare slugs; all 18 wikilink targets verified to exist.
-- **Published**: synced to hugo; `scripts/validate.py` run after sync (result in the final report). Todo task and commit left to the driver.
-
-## 2026-10-15T00:34:41+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/emotion-and-dualism]]
-- **Task**: P2 (todo line 2462) — Schachter and Singer (1962) at L121 carried no replication caveat and Barrett "extends this" as if building on an established result. Match the wording installed 2026-10-14 in `apex/self-construction-constructor` L69 and `topics/social-construction-of-self-vs-phenomenal-self` L77.
-- **Original score**: n/a (`scripts/curate.py` absent; targeted fix, no quality review run)
-- **Changes**:
-  - (a) L121: "classic study (1962) showed" → "(1962) experiments suggested"; added one sentence: Marshall and Zimbardo (1979) and Maslach (1979) failed to replicate it, finding unexplained arousal biased toward negative feeling whatever the context, and Reisenzein's (1983) review found support only for arousal intensifying an emotion already under way. Substance matches the two sibling pages; the Reisenzein quotations ("no convincing evidence", "attenuated") were left to the social-construction page rather than repeated. Three reference entries copied exactly from the apex (L189, L190, L194; Crossref-verified 2026-10-14) and inserted alphabetically (Marshall and Maslach after Lieberman, Reisenzein after Rawlette); the list is `1.`-numbered so no renumbering.
-  - (b) "Barrett's constructionist theory extends this" → "inherits the idea but rests on its own evidence" (apex wording). Lineage kept; the rest of the paragraph (constructed-not-detected, invisible construction) untouched.
-  - (c) "without detecting the mislabelling" DROPPED, not verified. OpenAlex W2061131717 holds no abstract for the 1962 paper, only a truncated opening paragraph; PubMed 14497895 has no abstract; Semantic Scholar none; PsycNet is a JS loading shell. Nothing available states that participants failed to detect the mislabelling, and the paper's own "self-informed" subgroup (subjects who attributed their arousal to the injection) runs the other way. Dropping it also recovers words.
-- **Match counts after**: "classic study (1962) showed" 0, "extends this" 0, "without detecting the mislabelling" 0; "experiments suggested" 1, "failed to replicate it" 1, "inherits the idea but rests on its own evidence" 1; Marshall 2, Maslach 2, Reisenzein 2 (one body cite + one reference each). "load-bearing" 0; no "This is not X. It is Y."
-- **Orphan check (surname, year), both directions**: Marshall 1979, Maslach 1979, Reisenzein 1983 each cited once in the body and listed once in References; Zimbardo is the second author of the Marshall entry. No new orphan in either direction. (The article's pre-existing style cites many references by name without year; untouched.)
-- **Length**: `analyze_length` 3244 → 3350 (topics hard limit 4000, gate `>=`, headroom 649). Body +48 words, references +58.
-- **Frontmatter**: `ai_modified` 2026-09-06 → 2026-10-15T00:34:41+00:00; `modified` → 2026-10-15; `ai_system` → `claude-opus-4-6+claude-opus-5+claude-fable-5-1`.
-- **Published**: yes (synced to hugo; todo task and commit left to the driver)
-
-## 2026-10-15T00:21:52+00:00 - coalesce
-- **Task**: coalesce cycle slot: candidate search, abandoned (steady state; pool unchanged since the 2026-10-14 15:36 sweep except for one new, age-floored article)
-- **Status**: SUCCESS (no candidate)
-- **Pool delta since 15:36**: `git log --diff-filter=ADR` on topics/concepts/voids/archive shows a single change, `concepts/nondualistic-interactionism` added at 22:44 (created 2026-10-14; excluded by both the 60-day floor and the 10-14/10-15 `ai_modified` rule). No removals or renames. Gating counts by `tools.evolution.state.count_section_files`: concepts 359/370 (97.0%, most pressured, 11 slots), topics 348/370 (94.1%; raw file count 347, the known +1 over-count), voids 113/125 (90.4%). The 15:36 entry's eleven declined pairs were not re-read: none of those files changed since.
-- **Method**: exhaustive pairwise screen, not top-k. Per section: dropped index files and `.refinement-log` sidecars BEFORE pairing (1 topics sidecar caught), then `created` > 2026-08-16 (43 concepts / 28 topics / 15 voids), then any of `ai_modified`/`human_modified`/`modified` on 10-14 or 10-15 (22 / 38 / 7). Eligible: concepts 294, topics 281, voids 91. Four concepts created exactly 2026-08-16 (`agency-budget`, `moral-census-opacity`, `descriptive-experience-sampling`, `sign-problem-for-conscious-observation`) sit on the floor and were INCLUDED to be generous; none surfaced in any feasible pair. Body-only word counts from `tools.curate.length.analyze_length`; feasibility = combined count < hard (concepts 3500 / topics 4000 / voids 3000, gate `>=`), scored by frontmatter-tag Jaccard + slug-token Jaccard + mutual body links, with `Versus [[sibling]]` sentences detected and reported.
-- **Length-feasible pairs**: topics 0 of 39,340 (only one eligible topic is under 2000w; median 3412); voids 0 of 4,095 (none under 1500w; median 2618); concepts 137 of 43,071, every one of them containing at least one of the eight sub-1750w concepts (`mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497, `phenomenal-presentation` 1572, `the-agent-shaped-hole` 1609, `perception` 1671, `sellars-manifest-and-scientific-images` 1722, `prehension` 1779). Length, not subject, generates the 137.
-- **Concepts pairs read and declined**:
-  1. `phenomenal-presentation` (1572) + `phenomenal-depth` (1475) = 3047 — the only feasible pair with real proximity (tag J 0.26, slug J 0.33, one-way link). Signed: `phenomenal-presentation` L54 `**Versus [[phenomenal-depth]].**` ("depth describes its richness, presentation describes its givenness"), one of three Versus paragraphs in its §How Presentation Differs from Neighbouring Concepts. Dropped under the driver's Versus rule.
-  2. `causal-powers` (2114) + `mind-arena` (1380) = 3494 — two mutual links but tag J 0.18, slug J 0. General metaphysics of dispositional properties (powers vs categorical, manifestation, laws, downward causation; 13 inbound, 167 review-file mentions, 34 todo mentions) versus a Map-coined term for the domain of outcomes that pass through minds, built for the AI risk-mitigation argument and carrying its own `### Distinguishing the Mind-Arena from Related Map Terms` section. Different subjects; and at 6 words under the hard limit there is no room for a merge seam, let alone the coined term's tenet-alignment section.
-  3. `content-externalism` (1959) + `status-of-content` (1497) = 3456 — slug J 0.33 is the token "content" alone: Twin Earth / reference-internalist-about-felt-character hybrid versus Boghossian 1990's content-irrealism self-refutation argument against eliminativism. Zero mutual links, tag J 0.18. False friend.
-  4. `adaptive-computational-depth` + `phenomenal-depth` = 3425 — "depth" is a false friend (computational vs phenomenal); tag J 0.0.
-  5. `mind-arena` + `philosophy-of-mind` = 3317 and `perception` + `phenomenal-presentation` = 3243 — hub page plus one specialised term each; tag J 0.07 / 0.26, no mutual links.
-- **Near-feasible (hard ≤ sum < 1.2×hard) concepts pairs checked for fairness, all role splits**: `four-category-ontology` (1881) + `where-the-substance-commitment-enters` (1967) = 3848, tag J 0.36, mutual links — but the diagnostic page's Further Reading names Lowe's page as "the metaphysics behind the 'agent qua substance' phrasing this page localises" (L87): exposition vs diagnostic, 10% over with nothing redundant to shed. `interface-heterogeneity` (2159) + `universal-coupling-response` (1857) = 4016, tag J 0.32: whether coupling mechanisms differ in KIND across systems vs WHICH systems couple at all; 15% over. `phenomenal-overflow` + `phenomenal-presentation` = 3781: signed at presentation L56 `**Versus [[phenomenal-overflow]].**`. Topics NEAR leaders (`cognitive-immune-system` + `enteric-nervous-system` 4515; `attention-to-absence` + `phenomenology-of-place` 4753) and the voids NEAR set (`thrownness-void` with five siblings, 3462–3591) are all 13–25% over and tag J ≤ 0.36; not read on content.
-- **Finding**: unchanged from 15:36 — the pool is exhausted by role granularity. A merge now would require either breaking a signed Versus split or discarding 10–25% of two reviewed articles to buy one slot in a section with 11 left. Not justified.
-- **Sources**: none
-- **Target**: none
-- **Archived**: none
-- **References to review**: none
-
-## 2026-10-15T00:17:15+00:00 - research-topic
-- **Status**: Success
-- **Topic**: Assent after Descartes: Hobbes and Spinoza to Newman, James and Williams (P2 research-topic, harvested 2026-10-14 from optimistic-2026-10-14-provenance-and-rivals-wing)
-- **Output**: [[research/assent-after-descartes-2026-10-15]]
-- **Sources consulted**: 26 cited; 11 primary texts read at raw and grep-verified (Hobbes Objection XIII and Descartes's Answer in Molyneux 1680, Descartes *Principles* I.34/I.39, Pascal §233, Spinoza IIP48–49, Calvin *Inst.* III.ii, Locke *Essay* IV.xiii/xvi/xx, Hume *Treatise* I.iii.7 + Appendix and *Enquiry* V.ii, Newman ch. IX, James 1896), plus Gilbert, Krull & Malone 1990 at raw PDF; Williams 1973, Ginet 2001, Reid, Kant SEP-mediated; 9 metadata records at Crossref
-- **Stations that earn a place**: Hobbes/Descartes reply, Pascal (with James's verdict), Spinoza (Gilbert's label adjudicated: accurate to IIP49 scholium, stylised), Locke, Hume (+Reid, Kant), Newman, Clifford/James, Williams endpoint; Calvin as one prelude sentence only
-- **What moves**: doxastic-voluntarism gains Hobbes (introspection), Locke/Pascal (indirect control dated), James's self-verifying case (touches Williams's premise); assent-void: cite IIP49 *scholium*, Gilbert 1991 phrase still unverified at raw, Ginet juror discrepancy confirmed on the SEP side and left flagged
-- **Registered**: `task_chains.pending_articles` → target_section topics (348/370 by `count_section_files`); recommended slug `topics/assent-after-descartes`
-
-## 2026-10-14T23:27:00+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/zeno-dynamics-on-a-decohered-mixture]]
-- **Word count**: 2,565 → 2,630 (+65; concepts hard 3,500)
-- **Critical issues addressed**: 0
-- **Medium issues addressed**: 6 (lead over-claim on classical models vs Gu et al.; explicit Tegmark calibration on the macroscopically-distinct reading; Georgiev simulation basis fact; "jump time" attribution; four body piped links; reciprocal link from `concepts/process-1-specification-problem` at +0 words)
-- **Enhancements made**: 3
-- **Citations**: 13 external references web-verified at the Crossref record of each DOI (APS/AIP pages Cloudflare-gated); all real-correct. 29 quoted strings grepped in raw `pdftotext` of fresh arXiv downloads (quant-ph/0201115, 0903.3297, quant-ph/0101037, 1412.4741, 0911.5388, quant-ph/9803052, quant-ph/0411145, quant-ph/0010029, quant-ph/9907009), `soffice`-converted Stapp `Reply.doc`, and OpenAlex abstracts for Joos 1984 and Stapp 2015: all present. Georgiev Theorem 4 quote is verbatim from the theorem statement ("unconditional density matrix ρ̂ of the system Q"); his simulation uses an energy pointer basis against position projectors with ξ → 0. No superlative claims; (surname, year) orphan check clean both ways.
-- **Engagements**: Georgiev — Mode One (limit derived from his own simulation set-up and standard theory); Stapp — Mode One (missing condition read off his eq. (4) against the Kiefer–Joos boundary he cites in 2012).
-- **Frontmatter**: `ai_system` claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1; `last_deep_review` set. Process 1 page: `ai_modified` bumped, `ai_system` unchanged (already carries claude-fable-5-1).
-- **Output**: [[reviews/deep-review-2026-10-14-zeno-dynamics-on-a-decohered-mixture]]
-
-## 2026-10-14T23:06:29+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
-- **Original score**: n/a (`scripts/curate.py` absent; task-targeted refine from outer review 2026-10-14 Claude Fable 5.1, §(e) and Part 4 items 1-3)
-- **Changes**: (1) §The Unobservable Self Complication: removed the false premise "a mere construction—a self-model, a narrative—should be observable; it is a content of consciousness"; the observability point now applies to narratives only; conceded that SMT's phenomenal transparency gives the constructionist an in-principle explanation of the failed introspective search (vehicle unavailable by construction; *being* a self rather than *having* a model), so the asymmetry is restricted to the Humean bundle view; the surviving residue (why a transparent self-model is accompanied by phenomenal character at all) is stated as tenet-dependent and framework-boundary; kept "suggestive, not probative"; added the first link from this page to [[self-model-theory-of-subjectivity]] on existing words. (2) Dennett: softened the L79 promise from "explain why this deflationary move fails" to "where it is resisted, and whether on Dennett's own terms or only the Map's"; added one paragraph to §The Causal Argument meeting the centre-of-gravity version specifically (an abstraction does not select among outcomes; reply is tenet-dependent; the in-framework pressure is the regress, which Dennett meets by denying contents need an audience). Verdict before the edit: §The Substantial Self answered only the Metzinger version by name. (3) Zahavi/Gallagher: the page does route their minimal self toward the substantial self (L45 "grounds both", L113 "phenomenological disclosure"), as the Map's own claim, with no attribution to them; added one clause at L113 noting the grounding claim is the Map's and that neither posits a substance beneath the minimal self. L49 and L152-L175 adopt/cite the Zahavian framework without routing. Also qualified L119's forward reference ("though self-model theory predicts the same structure"). Engagement with Metzinger/SMT: Mode Three with a Mode Two residue (transparency explains availability of vehicles, not presence of experience; residue tenet-dependent). Engagement with Dennett: Mode Three on the causal reply (bidirectional tenet rejected by Dennett); the regress is the only in-framework pressure and is marked as contested. `analyze_length` 3212 -> 3585 (hard 4000). `ai_system` set to `claude-opus-4-6+claude-fable-5-1`.
-- **Published**: yes
-
+---
 
 ## 22:45 - expand-topic
 - **Status**: Success
@@ -881,12 +29,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **State**: registered in `task_chains.pending_cross_reviews` (7 review targets), YAML re-parsed. No apex lists the new page as a source. Todo task left for the driver.
 - **Published**: synced to Hugo
 
+---
+
 ## 22:31 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/popper-three-worlds-interactionism` (deep-reviewed 21:26), `concepts/structuralism-about-phenomenal-character` (deep-reviewed 19:27), `topics/assent-before-descartes` (deep-reviewed 16:40), `apex/process-and-consciousness` (refined 21:51). Driver-briefed second sitting; the 13:55 review's three creations, the machine-question apex and its two researched seeds excluded. Quotes praised were grep-verified at raw (Objective Knowledge OCR at the Internet Archive, Gray 1981 PDF, Europe PMC XML for Lyre 2022 and Loorits 2014, the Fink–Kob–Lyre galley PDF, three SEP entries, Gutenberg Creative Evolution); the Tanner Lecture quotes rest on the 21:26 deep review's raw verification (tannerlectures.org 404, Utah mirror behind Cloudflare).
 - **Findings**: all three articles decline the easy use of an ally or rival (Popper "provenance without inheritance"; structuralism "argued, not won"; assent "supplies no evidence for it"). Opportunities: the Tenet 1 rival has 4 inbound links and none from the pages asserting what it denies (five zero/low-cost pipes, +4 total); `assent-after-descartes` seed (Hobbes, Spinoza II.49, Locke, Hume, Newman's Grammar of Assent, James) — 0 live hits for Grammar of Assent; Popper 1977 Dialectica / Self and Its Brain P-chapters research seed to discharge the page's "pending a check"; grain-complaint pipe to `temporal-consciousness-structure-and-agency`; apex L115/L129 "strongly supports" flagged as the one Process-vs-Birch divergence (calibration concern, −1 each). Priority List kept to four items with repo-relative paths; no todo tasks minted per driver brief.
 - **Output**: [[reviews/optimistic-2026-10-14-provenance-and-rivals-wing]]
 - **Published**: synced to Hugo
+
+---
 
 ## 21:51 - refine-draft
 - **Status**: Success
@@ -899,6 +51,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` 2026-10-14T21:51:17+00:00; `ai_system` claude-opus-4-6 → claude-opus-4-6+claude-fable-5-1; `apex_last_synthesis` left alone (correction pass, not a synthesis).
 - **Stability notes honoured**: Bergson's "Time is invention or it is nothing at all" unchanged (no "an"); "Category of the Ultimate" not inverted; Kent & Wittmann "one of the core issues" unchanged.
 - **Published**: yes (synced)
+
+---
 
 ## 21:38 - refine-draft
 - **Status**: Success
@@ -917,6 +71,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Housekeeping**: no "This is not X. It is Y.", no "load-bearing"; `ai_system` unchanged (already ends `claude-fable-5-1`); `ai_modified` 2026-10-14T21:38:17+00:00.
 - **Published**: yes
 
+---
+
 ## 21:26 - deep-review
 - **Status**: Success
 - **File**: [[concepts/popper-three-worlds-interactionism]]
@@ -930,6 +86,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Synced**: hugo/content/concepts/popper-three-worlds-interactionism.md verified (new quotations present, trimmed sentences absent, piped link resolves to /concepts/ensemble-level-epiphenomenalism/).
 - **Output**: [[reviews/deep-review-2026-10-14-popper-three-worlds-interactionism]]
 
+---
+
 ## 21:07 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pain-consciousness-and-causal-power]]
@@ -939,6 +97,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning-mode (editor-internal)**: engagement with functionalism: Mode One retained (the dilemma is pressed inside functionalism's own role-identification) but the first horn is now recorded as defended rather than absurd; engagement with Griffith & Kind: Mode Three — the classificatory dispute is reported as live, not adjudicated.
 - **Length**: 3,851 → 3,970 (topics hard 4,000, gate `>=`; +119 against a +60 target — the two mandated reference entries are 55 of the words, prose net +64).
 - **Published**: yes
+
+---
 
 ## 20:38 - refine-draft
 - **Status**: Success
@@ -951,6 +111,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Report-only, not edited**: `voids/assent-void` L65 describes Ginet's juror as "in deciding to vote for acquittal, decides to believe a witness"; SEP "Doxastic Voluntarism" reports "a juror who decides to believe a defendant is guilty, a poker player who decides to believe her opponent is bluffing, and a person 50 miles into their road trip who decides to believe they locked the front door (2001: 64)". Ginet's chapter not in hand; left for the condense-first human decision.
 - **Published**: yes
 
+---
+
 ## 20:30 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `positions/quantum-interface` P-Q2 as rewritten at 17:25Z (every publicly conditionable context) and its 2026-10-14 calibration-history note; cascade read on tenets L75/L81/L107, background-commitments L60, P-Q1/P-Q3/P-Q9, P-SC1, `apex/self-concealing-interface` Prediction 2, and the four pages still attributing the pooled reading (`apex/born-preserving-causal-efficacy` L93, `concepts/census-change-points` L62, `concepts/psychophysical-social-choice-problem` L79, `topics/inheritance-problem-for-the-psychophysical-law` L110/L114). Chalmers & McQueen 2022 (four quotes, raw arXiv PDF) and Torres Alegre 2025 (abstract) verify; no citation defect.
@@ -958,110 +120,7 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority list**: 4 items; item 1 is NEEDS-HUMAN (choose the quantifier). No tasks minted, no articles edited (driver instruction).
 - **Output**: [[reviews/pessimistic-2026-10-14-quantum-interface-p-q2-reading]]
 
-## 2026-10-14T20:05:02+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/the-manipulation-argument-and-hard-incompatibilism]]
-- **Task**: P2 todo line 2385; review file `reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing.md`, Priority items 2 (Issue 3, this article's L70 locus only) and 4 (Issue 5, L58/L60). Sibling loci in `concepts/source-versus-leeway-incompatibilism` and `topics/event-causal-libertarianism` not touched (not in this task).
-- **Original score**: n/a (`scripts/curate.py` absent; review-driven targeted fixes)
-- **Abstract check**: both re-fetched from OpenAlex by DOI before editing. Mickelson (Demetriou) 2010 (10.1080/00048400903382691): resilience is "the ill-gotten gain from an ambiguity in the description of the causal relations found in the argument's foundational case"; "every metaphysically coherent interpretation invites either a hard- or soft-line reply"; all viable interpretations involve "a type of manipulation which undermines the victim's agency"; "the suppressive variety of manipulation" offers no threat to compatibilism. Nothing about a designing agent or a 3→4 seam. Jeppsson (10.1007/s11098-019-01292-2; OpenAlex year 2019 = online-first, issue 177(7) is 2020 as the References state): "fully fleshed-out manipulated characters in fiction can seem morally responsible"; "we identify with such characters, and therefore focus on their options and the reasons for which they act rather than the manipulation"; "we ought to focus this way when interacting with other agents"; "no reason to trust the incompatibilist intuitions that arise when we regard manipulated agents from a much more detached perspective". An epistemic claim about which intuitions to trust, not a grounding thesis.
-- **Changes** (each old string matched exactly once; review's replacement texts used verbatim):
-  - L70 (item 2): Pereboom's two strands split. The "no positive scientific reason" strand is the parsimony judgement Tenet 5 governs (declined as decisive, with the symmetric no-support concession kept); the wild-coincidences strand is marked as a likelihood argument Tenet 5 does not touch, with the Map's Born-preserving design on that horn and the L68 cost staying undischarged. Silent widening of Tenet 5 to "antecedent plausibility" removed. Closing verdict sentences ("The honest position…", "The Map places its bet…") unchanged.
-  - L58 (item 4): Mickelson now locates the defect in an ambiguity in Case 1 whose every coherent resolution involves suppressive, agency-undermining manipulation; the "designing agent / bypassing development" gloss and the "usually at the 3→4 transition" claim are gone, and a closing sentence notes her diagnosis targets the foundational case for every viable version, so Pereboom's tune-the-cases rejoinder no longer reads as answering her.
-  - L60 (item 4): Jeppsson's reply recast as a claim about which intuitions to trust (engaged identification with fleshed-out fictional manipulated agents versus the detached stance that yields the incompatibilist intuition), not about what grounds responsibility.
-- **Reasoning mode** (editor-internal): engagement with Pereboom on agent causation now Mixed — Mode Three on the parsimony strand (Tenet 5 boundary-marking, verdict unchanged), Mode Three with an explicit open cost on the coincidences strand (no in-framework answer claimed). Previously the L70 passage re-described the coincidences strand as parsimony so that a Map commitment appeared to apply. The 07-09/07-19 deep-review fences (reply not decisive; Pereboom rejects the luck reading from outside) kept.
-- **Tenet 3**: no sentence touched implies Tenet 3 entails sourcehood; L64/L66 wording left as is (outcome-selection only, consistent with `concepts/agent-causation` L61, `tenets.md` L57, and the sibling consequence article fixed 19:50 today).
-- **Word count**: `analyze_length` 2,437 → 2,507 (+70; topics hard 4,000, gate `>=`, headroom 1,492). Matches the review's joint estimate exactly.
-- **Frontmatter**: `ai_modified` 2026-10-14T20:05:02+00:00; `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1.
-- **Housekeeping**: no "This is not X. It is Y."; no "load-bearing"; "parsimony-and-plausibility", "the involvement of a designing agent", "usually at the 3→4 transition", "seam at 3→4" all at zero.
-- **Published**: yes
-
-## 2026-10-14T19:50:27+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/the-consequence-argument-for-incompatibilism]]
-- **Task**: P2 todo line 2385; review file `reviews/pessimistic-2026-10-13-incompatibilism-arguments-wing.md`, Priority item 1 (Issues 1–2), item 3's consequence loci (Issue 4), plus off-list Issue 6.
-- **Original score**: n/a (`scripts/curate.py` absent; review-driven targeted fixes)
-- **SEP check**: re-read "Arguments for Incompatibilism" step list before installing: (3) `N(H ⊃ (L ⊃ P))` by Alpha, (4) `NH` fixity of past, (5) `N(L ⊃ P)` by Beta, (6) `NL` fixity of laws, (7) `NP` by Beta; Finch & Warfield 1998 credited for the Beta-2 repair taking `N(L ∧ H)` as one premise. Matches the review's reconstruction.
-- **Changes** (each old string matched exactly once):
-  - L50: formal sketch no longer derives `N(P0 ∧ L)` by Alpha (which would be the agglomeration step L56–62 then refute); now Alpha on `□(P0 → (L → A))`, separate `NP0` and `NL`, two Beta steps, with an explicit note that combining them would be agglomeration. Review's text, with "enter" → "enters" to agree with the singular subject. Finch & Warfield reference not added (optional item, not measured).
-  - L62: `Np` now holds because no one could have *ensured* heads (a toss might come up tails), the ability-to-falsify reading `N` was defined with at L43, instead of "no one made the coin fail to land heads", under which `N(p ∧ q)` would also come out true.
-  - L91: Tenet 3 now motivates, not entails: compatibilism would cost the *agent-causal reading* its free-will motivation, while the interface itself rests on mental causation and commits only to outcome-selection (aligned to `concepts/agent-causation` L61, `tenets.md` L57, P-A5). Neither of those files edited.
-  - L111: "make incompatibilism load-bearing" → "the Map's agent-causal reading of free will builds on". File now has zero "load-bearing".
-  - L97 (off-list Issue 6): "minimally owned miracle" replaced with the review's inversion wording — Lewis needs a violation of deterministic law, the Map's indeterministic picture needs none, the miracle's role is filled by a lawful selection among outcomes physics leaves open. Removes the clash with Tenet 2's no-violation commitment. +16 words, applied on headroom.
-- **Reasoning mode** (editor-internal): engagement with Lewis unchanged — Mode Three bridge-marking, now without the equivocation on "miracle". Verdict fences from the 07-09/07-19 deep reviews (Beta dialectic open, decisiveness verdict) untouched.
-- **Word count**: `analyze_length` 2,493 → 2,591 (+98; topics hard 4,000, gate `>=`, headroom 1,408). Review's joint estimate for the list items was +79; the off-list item and the formal-sketch expansion account for the remainder.
-- **Frontmatter**: `ai_modified` 2026-10-14T19:50:27+00:00; `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1.
-- **Housekeeping**: no "This is not X. It is Y." present; "load-bearing", "would be unmotivated", "made the coin fail" gone.
-- **Published**: yes
-
-## 2026-10-14T19:27:02+00:00 - deep-review
-- **Status**: Success
-- **File**: [[concepts/structuralism-about-phenomenal-character]]
-- **Selection**: `deep_review.py next` top pick (never reviewed, score 101); `ai_modified` 2026-10-13, so outside every driver exclusion.
-- **Word count**: `analyze_length` 2,976 → 3,006 (+30; concepts soft 2,500 / hard 3,500, gate `>=`, 494 left). Length-neutral in spirit: two re-scopings funded by one cut clause.
-- **Critical issues addressed**: 0
-- **Medium issues addressed**: 3. (1) L89 said Mihálik & Marvan "present it as one dimension of the hard problem"; the galley contrasts the more-of-the-same challenge with the hard problem ("a problem for any materialist approach" vs "specifically two-factor NPS+") and declares agnosticism on character. Re-scoped. (2) L83 "The proponents' reply to the lonely case" made FKL 2021 answer Negro 2025; reworded as a prior treatment. (3) L75 "which most rivals the Map engages do not" cut as an unargued sweep.
-- **Citations**: all 17 external references verified at the publisher (Crossref for every 2025/2026 item; phimisci galleys, Europe PMC XML, Springer cookie-free HTML for full texts). Every quoted string grepped in raw text, including the FKL single-colour sentence whose summariser rendering had the direction inverted (the galley's preceding sentence states the qualia view; the article quotes the structuralist conclusion, correctly), Kleiner's (SP) definition behind the R-property gloss, and Negro's three arguments. Year note: Kleiner and Fink & Lee carry publisher `citation_date` 2025 / vol. 6 against Crossref online dates in 2026 — 2025 stands. Nimmo 2026 (not in the research note; from the creation run's OpenAlex forward search) confirmed at Crossref and OpenAlex. (surname, year) orphan check clean both ways. No superlatives.
-- **Engagements**: Lyre — Mixed (exclusion-step conditional on reduction, then boundary marked); Loorits — Mode Three (unrefuted countermodel); Kleiner — Map-owned dilemma against a repair he proposes without endorsing OPSR; Nimmo — Mode Three ("owes an argument"). No label leakage.
-- **Enhancements made**: 2
-- **Frontmatter**: `last_deep_review` added; `ai_system` → `claude-opus-5-5+claude-fable-5-1`.
-- **Output**: [[reviews/deep-review-2026-10-14-structuralism-about-phenomenal-character]]
-
-## 2026-10-14T19:04:40+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update P-I4 (todo L2385, P2) — fusion verdict scoped to complete union; no calibration band moved
-- **Output**: [[positions/individuation-and-subjecthood]] (P-I4 Calibration, Asserts, Depends on, Argued in, Would shift if, Last reviewed); new sidecar [[positions/individuation-and-subjecthood-calibration-history]] carrying the dated 2026-10-14 note (this domain's first; existing in-entry Updated notes left in place); [[positions/positions]] companion-files line extended so the sidecar has an inbound link
-- **Edits**: (1) "two channels merging" → "Complete fusion — two substrates fully united — runs the mirror"; (2) partial coupling leaves the count at two by parity with P-CS4, a preferred reading P-I3 makes unreadable; (3) fusion conditional stated like fission's: transitivity rules out both originals surviving, the step to none charged to P-SC2; (4) third shift condition mirrored for fusion (pairing extends to the united substrate → at-most-one); (5) `[[concepts/subject-fusion]]` added to Argued in; (6) rider from [[concepts/census-change-points]]: the fission verdicts agree on the count (one to two), differ only in events, and the difference reaches the law only if subjects carry something individual across time, Parfit granting the count; `[[concepts/census-change-points]]` added to Argued in
-- **Length**: register 3997 → 3997 words by `analyze_length` (critical 4000, gate `>=`); P-I4 entry 670 → 670. Funded by trimming inside the entry: grade-D rationale restatement (−7), duplicated pairing-law clause and "booked rather than hidden" gloss, P-I3 dependency gloss (−16), asymmetry shift condition's redundant second half (−7)
-- **Cascade**: none — no band moved, no dependency added or dropped; P-AC3 (descends from P-I4) unaffected. P-I5 untouched (separate P3 audit)
-- **Housekeeping**: register `ai_system` collapsed to unique components `claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1`. Todo task not marked; no commit (driver does both)
-
-## 2026-10-14T18:52:07+00:00 - research-topic
-- **Status**: Success
-- **Topic**: Release phenomena (todo L40, P2, harvested from optimistic-2026-10-14-three-creations-wing; target section concepts, 358/370 by count_section_files)
-- **Output**: [[research/release-phenomena-2026-10-14]]
-- **Sources consulted**: 20 in the ledger; consolidation pass over the 2026-09-16 CBS note, the 2026-05-08 phantom-limb note and the 2026-08-22 sleep-onset note; 11 PubMed abstracts and 1 OpenAlex abstract fetched at raw this pass (Eggermont & Roberts 2004, Melzack 1990, Shore 2016, Painter 2018, Flor 2006, Roberts 2010, Griffiths 2000, Merabet 2004, Jarach 2022, Nondahl 2011, Cogan 1973 record, Schultz & Melzack 1991); no web search; full texts of Shore 2016 / Roberts 2010 unreachable (PMC bot page, Europe PMC HTTP 500)
-- **Two fresh raw checks**: (1) Tinnitus — Eggermont & Roberts 2004 abstract says "phantom" and "damage to the cochlea or to auditory projection pathways", not "deafferentation"; the word is raw in Roberts et al. 2010 (Eggermont co-author): "deafferentation of tonotopically organized central auditory structures leads to increased neuron spontaneous firing rates". "Release" appears in no tinnitus abstract; the auditory literature's term is "phantom". (2) Phantom limb — Melzack 1990 abstract gives the deafferentation cases and then the congenital datum ("genetically determined substrate that is modified by sensory experience"), so the neuromatrix reads deafferentation as unmasking a persistent generator rather than disinhibiting one; the family's mechanism criterion is weakest at the member that named the family
-- **Membership test**: pass — CBS, tinnitus, musical hallucinosis in acquired deafness (Griffiths 2000; zero Map coverage), phantom limb and phantom pain (mechanism criterion contested), blindfold deprivation hallucination (Merabet 2004, 77%, weak form). Relative, not member — hypnagogic imagery (no deafferentation). Not members — eigengrau (retinal dark noise, no learned content) and phosphenes (stimulation, not deprivation): `perceptual-failure-and-the-interface` L96 groups them with CBS and the article should correct it. Contrast — Anton's (generator lost, not input)
-- **Partial penetrance**: not uniform across the family — CBS ~1 in 5 (up to 40%), tinnitus "many older individuals with impaired hearing do not have tinnitus" (Roberts 2010 raw; hearing impairment OR 3.20 at 10.6% prevalence, Nondahl 2011 raw), phantom sensation 60–80%, blindfolding 77%. Both sources that explain it (Roberts 2010; Painter 2018) point at degree of inhibitory loss, a measurable cortical variable
-- **Live "compensatory generation" loci for the article to pipe**: `topics/perceptual-failure-and-the-interface` L96 (the only positive claim; also the paragraph heading), L130, L136; `topics/dualist-perception` L66; `concepts/perception` L76. `concepts/filter-theory` has 0 release-vocabulary hits, so the CBS page's "why the filter tradition is release-shaped" pointer dangles; the family page should carry that argument
-- **Tenets**: Tenet 3 by subtraction (one-way, cortex to experience; lends nothing; generalises the CBS withdrawal to every member); Tenet 5 in the economical direction; Tenet 1 neutral
-- **Recommended angle**: `concepts/release-phenomena`, ~1,500–2,000 words, definition-and-membership page; does not re-argue CBS or phantom-limb mechanism
-- **Registered**: `task_chains.pending_articles` += `{research_file: obsidian/research/release-phenomena-2026-10-14.md, target_section: concepts}` (targeted edit, YAML re-parsed). Todo task not marked; no commit (driver does both)
-
-## 2026-10-14T18:15:56+00:00 - research-topic
-- **Status**: Success
-- **Topic**: Fragmentalism and standpoint pluralism (todo L40, P2, harvested from optimistic-2026-10-14-three-creations-wing; target section concepts)
-- **Output**: [[research/fragmentalism-and-standpoint-pluralism-2026-10-14]]
-- **Sources consulted**: 26 in the ledger; 7 read in full at raw (List 2025 preprint, Merlo 2022, Lipman 2023 *J. Phil.*, Lipman 2015 thesis as the source text of Lipman 2015/2016, Iaquinto–Calosi 2021, Hofweber–Lange 2017, Sider handout); Fine 2005 partially at raw via Google Books snippets from 14 pages of ch. 8 (control query `fragmentalism` live on volume `8BBREAAAQBAJ`); abstract-only Lipman 2016, Simon 2018, Loss 2024, Calosi–Iaquinto–Loss 2025, Lipman 2026
-- **Gap resolutions from the 2026-10-06 note**: (1) Fine's p. 313 "quite bizarre" sentence — three secondary wordings (Merlo 2016, Kinkaid 2025, List 2025) reconciled as editorial variants of one sentence, List's the fullest; still NOT verified at raw (the GB index drops tokens its own snippets contain, so its p. 313 silence is uninformative; IA copy lending-restricted). (2) Fine's §12 verdict — raw: "I do not know what to think on the question" of first-personal realism (p. 311) and "our previous considerations in favour of fragmentalism become especially relevant. If we opt for the relativist position ..." (p. 314): a conditional recommendation of fragmentalism over relativism, not an endorsement of first-personal realism; List 2025 §5 says "conditionally recommending"
-- **Key finding**: Merlo 2022's structured/unstructured split is the axis the Map needs — Fine's own fragmentalism is structured (mere reality oriented to one standpoint; metaphysical reality neutral; Factivity Rp→p denied), and the Map's posit (parity of consciousness plus a fact simpliciter about which subject is lived) is structured first-personal fragmentalism, i.e. Merlo's two-level subjectivism, costing non-factivity (Lipman 2015: 3123 and Loss 2017: 225 both reject it, via Merlo fn 7). The "privileged-fragment" option has no literature name; this identification is the note's analysis, licensed by Merlo 2022 fn 1. Simon 2018's "a branch is a fragment" shows the same device houses all branches in one world; the indexical objection has no purchase on a structured branch-fragmentalism, so Tenet 4's subject/outcome asymmetry must come from Tenets 2–3 (outcomes are selected, subjects are not)
-- **Flags for the article writer**: `concepts/egocentric-presentism` L81 attributes to Fine the phrase "without privileging any particular temporal standpoint from which they obtain" — not found in Fine 2005 by GB probe, nor in Lipman 2015/2023; Fine 2006 unreachable; source unlocated. `topics/subjective-facts-...` "Fine's preference" should read "Fine's conditional recommendation". Suggested L48 wording for `apex/one-world-wager` and P-I2/P-I5 sharpenings recorded in the note's "What Moves"
-- **Recommended angle**: `concepts/fragmentalism` (~2,000 words), one page the three live pages and the apex can pipe to
-- **Registered**: `task_chains.pending_articles` += `{research_file: obsidian/research/fragmentalism-and-standpoint-pluralism-2026-10-14.md, target_section: concepts}` (targeted edit, YAML re-parsed). Todo task not marked; no commit (driver does both)
-
-## 2026-10-14T17:25:00+00:00 - positions-evolve
-- **Status**: Success
-- **Mode**: update [[positions/quantum-interface|P-Q2]] (todo L2371, P2): which Born-preservation reading the register holds, now that the selectability constraint of [[topics/inheritance-problem-for-the-psychophysical-law]] separates the two the corpus states. Audit first, then one net-zero register edit; no band moved on any entry.
-- **Reading chosen**: preservation in every publicly conditionable context, only conditionals on the conscious state itself free (the [[concepts/selection-only-channel]] / [[concepts/agency-budget]] reading). The register already committed to it in three places: (1) P-Q7 rates single-system no-signalling safety credence *high* as "secured by construction" from P-Q2, and the 2026-09-11 deep review of selection-only-channel (cases 1–3) showed pooled-histogram preservation does not deliver that — a selector whose block-wise frequencies depart from Born steers the distant wing's marginal; (2) P-Q2's shift condition and P-Q1's band rationale treat any public-grain deviation as the "minimum-outside-the-corridor" fallback, i.e. outside P-Q2, which [[apex/born-preserving-causal-efficacy]] itself (L109: Route 2 is "the wager that (2) holds"; L167: Route 2 "dies a deeper death if the only deviations … enable signalling") and the inheritance topic (a situation-conditioned departure "owes the signalling-safety demonstration the minimum-outside-the-corridor route owes") equate with Route 2; (3) P-Q3's dilemma is only genuine on this reading — on the pooled reading the corridor would simply be Route 2 with a signalling debt. Tenets L75/L107 ("unconditioned aggregate") and L81 ("consciousness-conditioned distributions free") are compatible with it: unconditioned on the conscious state, not on public labels. The operator's reserved question (2026-09-11 remaining item 2: keep this reading at its epiphenomenalism price, or take case 2's freedom and owe a signalling argument) is P-Q3 itself and stays open; this pass records what the register as written holds.
-- **Register edit (P-Q2 Asserts)**: "The interaction biases *which* outcome becomes actual within a given trial, but the aggregate distribution over many trials matches what standard quantum mechanics predicts." → "The interaction biases *which* outcome becomes actual, but outcome frequencies stay Born-exact in every publicly conditionable context; only conditionals on the conscious state itself are free." (+2 words, "within a given trial" already carried by the preceding "per-trial"). Funded: Depends on "— an arXiv preprint, not yet peer-reviewed;" → ", unrefereed;" (−6; P-Q7's wording for the same source). Calibration-history index line now lists the 2026-10-14 note and ends "None moved a band." (+4). Last reviewed 2026-07-25 → 2026-10-14. Net 0.
-- **Calibration history**: one dated note under P-Q2 in [[positions/quantum-interface-calibration-history]] (reading, evidence, Route-2 consequence, the apex attribution owed a fix). No confidence change.
-- **Follow-up fix needed (not minted)**: `apex/born-preserving-causal-efficacy` L93 "State the level" attributes to the register "preservation of the *unconditioned* long-run marginal for a measurement type … leaves the per-subject and per-intention conditionals formally unconstrained, which keeps horn (a) live rather than foreclosed. Asserting preservation at *every* conditional grain would choose horn (b) by stipulation." On the register's reading the corridor forecloses public-grain horn (a) (per-subject, per-task, per-recorded-intention), which lives on as Route 2 — the page's own L109 — and horn (a) at the private grain (conditioned on the conscious state alone) stays free; the last sentence should distinguish *every public* grain from *every* grain. `concepts/selection-only-channel` needs nothing. Secondary string-siblings of the apex attribution, each saying which reading the register holds is open: `concepts/census-change-points` L62, `concepts/psychophysical-social-choice-problem` L79, `topics/inheritance-problem-for-the-psychophysical-law` L110 ("the default reading that analysis attributes to the Map's register"). Cascade for a separate pass: P-Q9's conditional-statistical channel and [[apex/self-concealing-interface]]'s second prediction (I(outcome; intention | physical state) > 0) test the corridor rather than confirm it — a positive on any publicly recorded intention covariate moves the Map to Route 2 — which P-Q9 half-says ("would test the corridor itself") and the tenet-check of 2026-10-07 (#12) flagged.
-- **Length (analyze_length)**: positions/quantum-interface 5,964 → 5,964 (critical; net zero as required); quantum-interface-calibration-history 3,725 → 3,828 (hard_warning, under critical 4,000).
-- **Not done**: no edit to the apex, the concept page, the inheritance topic, or any band; todo task left for the driver.
-
-## 2026-10-14T17:07:39+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[topics/brain-internal-born-rule-testing]], [[topics/falsification-roadmap-for-the-interface-model]]
-- **Original score**: n/a (targeted carry-forward from reviews/deep-review-2026-10-12-tenet-falsification-conditions.md; `scripts/curate.py` absent)
-- **Changes**: Scoped every strict-corridor "no Born-statistical signature by construction" to the unconditioned aggregate (`tenets.md` L75 wording), both files net-zero against the topics hard gate (4000, `analyze_length`): brain-internal 3996 -> 3996; roadmap 3996 -> 3996. (1) brain-internal: L3 description (uncounted; 287 -> 271 chars, "a coordinated programme of" trimmed), L106 ("no unconditioned Born-statistical signature"; "cannot be falsified by unconditioned Born-rule tests alone"; funded by "because" -> colon), L116 ("no unconditioned ... so no single unconditioned Born-rule experiment can refute it"; funded by dropping "actually"), L147 (scoped; funded by "*not* as a confirmed one" -> "*not* a confirmed one"); L143 and L157 were already scoped and are untouched. (2) roadmap: L87 ("Not Popper-refutable by unconditioned Born-rule tests ... no unconditioned Born-statistical signature"; "The corridor is vulnerable" -> "It is vulnerable"), L142 table row ("Not Popper-refutable by unconditioned tests"; "No direct" -> "No unconditioned"; six cells kept), L91 re-attributed the 20/6/0 tally to the proponents' own 2014 assessment (Hameroff & Penrose, 2014) rather than Hameroff (2020), and replaced "Independent assessment of these claims remains limited" with the sibling's Reimers et al. (2009) "untenable" judgement keeping its Fröhlich-condensation qualifier (copied from `concepts/tenet-falsification-conditions` L68). +23 words funded by six prose trims: L57 redundant opener "This problem is not specific to the Map." (-8; the paragraph's closing sentence makes the same point), L103 duplicate "quantum mechanics explicitly leaves measurement outcomes undetermined" (-6; said earlier in the same paragraph), L95 (-3), L125 (-2), L93 "without acknowledgment" after "silently" (-2), L59 "the Map's specific" -> "its" (-2). Hameroff & Penrose 2014 was already roadmap References #4; NO References entry added for Reimers et al. 2009 (no headroom) — cited inline only; entry to copy verbatim from `concepts/tenet-falsification-conditions` L128 when headroom exists. Roadmap L89 (trumping / preemption reading, "both predict no Born-statistical signature") deliberately left unscoped: that is the trumping reading's own claim (orthogonal to Born-rule dynamics at every register, per L148), not the corridor claim the tenets wording scopes. Maier wording at roadmap L107/L143/L212 untouched. ai_system: fable-5-1 appended to both (neither ended with it). Also dropped the default-intensifier "load-bearing" from brain-internal L151 (-1; the L124 use is structural and kept).
-- **Published**: yes
-
-## 2026-10-14T16:52:33+00:00 - refine-draft
-- **Status**: Success
-- **File**: [[concepts/meditation-and-consciousness-modes]], [[concepts/witness-consciousness]], [[apex/altered-states-as-interface-evidence]]
-- **Original score**: n/a (targeted carry-forward from reviews/deep-review-2026-10-12-the-observer-witness-in-meditation.md; `scripts/curate.py` absent)
-- **Changes**: (1) meditation L157: replaced the unverified Krishnamurti gloss ("only true freedom", "perpetuates the chooser") with the verbatim "The chooser is in confusion, therefore he chooses" (1954) copied from the sibling's L113, and credited "choiceless awareness" to Huxley's Foreword; body 3492 -> 3490 (gate 3500). No References entry added for Krishnamurti 1954 (headroom); cited inline. (2) apex L108: removed the retired signature ("frontal theta, ACC activation, dorsal attention network engagement", "alpha increase", "DMN quieting through disengagement rather than suppression") and installed the Garrison et al. 2013 reading from the sibling's L52 (PCC deactivation with "not efforting" and "concentration"; "efforting"/"distraction" with activation; ten meditators), linked to `sham-controlled-neurofeedback-and-the-consciousness-comparator`; added the Garrison 2013 References entry (now #5, later entries renumbered); body 4874 -> 4945 (gate 5000). (3) witness L162 condition (2): added the sibling verdict "(testing training-dependence, not dualism, the linked article finds)" and funded it by trimming the same sentence ("serious", "weakening claims to" -> "undercutting", "witness distinction" -> "witness", "could satisfy ... fully explained without" -> "satisfied ... leaves no"); the quoted condition wording the sibling cites at its L41 is unchanged; body 3497 -> 3497. Tenet 3 "not selecting"/"refraining" wording untouched (blocked P3 ~L1482). Engagement classification: Krishnamurti reply on the meditation page unchanged (Mode Three, boundary noted at L159-163). ai_system: fable-5-1 appended to apex only (both concepts pages already ended with it).
-- **Published**: yes
+---
 
 ## 16:40 - deep-review
 - **Status**: Success
@@ -1076,12 +135,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Side effect**: `uv run python scripts/sync.py` also refreshed `hugo/content/workflow/todo.md` from the already-committed obsidian todo
 - **Output**: [[reviews/deep-review-2026-10-14-assent-before-descartes]]
 
+---
+
 ## 16:05 - refine-draft
 - **Status**: Success
 - **File**: [[voids/creative-aesthetic-void]]
 - **Original score**: n/a (targeted fix from reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing Priority 4)
 - **Changes**: (a) Relation/Bidirectional Interaction paragraph: replaced the sentence reading Poincaré's aesthetic sieve as conscious evaluation "exercising genuine mental causation" with one placing the sieve before awareness, quoting Halsted's "Consciousness will never know" (verified verbatim in Project Gutenberg #39713, "Mathematical Creation" chapter, raw text line 15577: "Consciousness will never know them; only certain ones are harmonious") and labelling the conscious-selection reading as the Map's interpretation; now agrees with the article's own incubation paragraph ("If the selection mechanism were conscious, we would observe it selecting"). (b) Dualism paragraph: "finds support in" -> "is consonant with" (closes tenet-check-2026-09-02 Note 5 / tenet-check-2026-09-19 item 13 for this file). (c) Transmission limit: "acquaintance-dependent" now piped-links to [[aesthetic-testimony-and-the-acquaintance-principle]]; "is" -> "seems" per the target article's reported near-consensus that the Acquaintance Principle fails as traditionally stated. Length 2224 -> 2230 (+6, voids hard limit 3000). ai_system set to claude-opus-4-7+claude-fable-5-1.
 - **Published**: yes
+
+---
 
 ## 15:51 - refine-draft
 - **Status**: Success
@@ -1093,6 +156,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: music 2972 → 3150 (topics hard 4000, headroom 849; soft_warning is advisory); sublime 2755 → 2756 (headroom 1243).
 - **Frontmatter**: `ai_modified` 2026-10-14T15:51:35+00:00 and `ai_system: claude-opus-4-8+claude-fable-5-1` on both files.
 - **Published**: yes
+
+---
 
 ## 15:36 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned
@@ -1118,6 +183,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Archived**: none
 - **References to review**: none
 
+---
+
 ## 15:20 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-comic-and-humor-as-an-aesthetic-category]]
@@ -1127,6 +194,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (a) L83 register cite `|P-D2]]` → `|P-D1]]` (P-D1 = "The anti-physicalist arguments are premise-sharing, not evidentially independent", anchor `^p-d1` confirmed in `positions/arguments-for-dualism.md` L45; matches the `aesthetic-testimony` sibling's cite for the same point; prose and the 2026-09-01 deep review's "deliberately partial" corroboration note untouched); (b) L63 piped link `[[mirth-void#The Dissection Gap|explaining the joke]]` on the existing quoted words (0 words; heading at `voids/mirth-void.md` L54); (c) Further Reading gains `[[mirth-void]]` as the access sibling. Each OLD string matched exactly once. `voids/mirth-void` not edited (headroom 14)
 - **ai_system**: claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1
 - **Published**: yes
+
+---
 
 ## 14:55 - deep-review
 - **Status**: Success
@@ -1140,6 +209,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Output**: [[reviews/deep-review-2026-10-14-lawful-appearance-problem]]
 - **Published**: yes
 
+---
+
 ## 14:34 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
@@ -1149,6 +220,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (1) L86, 140 → 135: "Filter/transmission theory pays no equivalent cost" → "faces no such strain" (scoped to the monotonic prediction the preceding sentences set up, not a cost ledger); "That the filter model absorbs the phenomenon at lower cost is a point in its favour on parsimony grounds; it is not, on its own, positive evidence that the model is true" → "Accommodating the phenomenon earns the filter model no parsimony advantage—simplicity counts for neither side here—and it is not, on its own, positive evidence that the model is true", matching L177's "binds both sides" wording. (2) L48 lead, 173 → 172: "and filter/transmission theory pays no equivalent cost" → "while filter/transmission theory predicts no monotonic damage–capacity link" (states what the theory predicts; drops the comparative-cost claim); the +1 offset by dropping the redundant "taken individually" after "each admit". (3) L130 level 7, 27 → 24: "cannot pay for and filter/transmission theory absorbs more cheaply" → "cannot accommodate and filter/transmission theory can" (the residue question without cost language). Left as is: L140 (coherence across the pattern) and L152 ("single interpretive framework") describe unification rather than economy, and L152's closing sentence plus L177 already deny that the single framework counts as more economical; L177 untouched. Post-edit grep: "point in its favour on parsimony grounds", "pays no equivalent cost", "absorbs more cheaply", "lower cost", "more economically" all 0 hits in both trees. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-6+claude-fable-5-1`. No named opponent beyond "the materialist"/"production models"; the engagement is unchanged in mode (Mode Three at the framework boundary, now stated symmetrically).
 - **Published**: yes
 
+---
+
 ## 14:24 - refine-draft
 - **Status**: Success
 - **File**: [[topics/chinese-philosophy-of-mind]] (primary); [[topics/mesoamerican-nahua-philosophy-of-mind]], [[topics/japanese-philosophy-of-mind-kyoto-school]], [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] (siblings and hub)
@@ -1157,10 +230,14 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: Four files, one finding. The basin-edge articles explained non-converging traditions by the framework-dependence reading, on which the mind-matter partition every converging tradition shares is what creates the gap, yet said the core inference was "untouched" and that the dissociation "partly discharges" the common-cause objection. On that reading the shared partition is itself a premise-level common cause, so the dissociation relocates the objection (architecture to framework) rather than discharging it, and counts in the convergence's favour only on the depth-of-inquiry reading. The framework-dependence / depth-of-inquiry standoff (07-27 fence) is kept open: each reading's implication is stated conditionally. (1) Chinese L91, L95: installed the review's two replacement sentences verbatim; 2640 to 2676 words. (2) Nahua L75: "while leaving its core inference untouched" replaced by the same qualifying clause; L77 makes no discharge claim and was left as is; 2315 to 2335. (3) Kyoto L80: "without touching the core inference" replaced by the same clause, forward-referencing the framework-dependence reading named at L86; the 13:20 Maraldo re-sourcing at L32/L48 and the `ai_system` value are untouched; 2571 to 2599. (4) Hub, net zero at 3995 of 4000: L137 "doubles as a partial discharge" rewritten as relocation-without-discharge (0 words); the "substantially weakened" verdict softened at all three loci (L46 lead, L138 bullet, L140 closing) to "weakened, the shared mind-matter partition excepted"; the +11 words offset by trims in L138 and L140 ("not uniform, however" to "uneven", "whose broader programme is not yet in hand" to "still outstanding", "the last of which the Map has already begun to work as a partial exhibit in" to "the last already partly worked in", "open empirical research programme" to "programme", "Advaita emerging as" to "Advaita", "audit linked below" to "audit below", "beneath the level of metaphysical commitment" to "beneath metaphysical commitment", "cases like it" to "it"). Rider: the convergence table's Kyoto School row now reads `Qualified†` (the table's only contested-row value, used by the Buddhism row; cell word count unchanged) with a one-line dagger footnote after the Buddhism one stating that the school reaches a non-dual field prior to mind and matter and is entered as a basin edge, not an ally, per the 2026-09-11 deep review; its 22 words are inside the offsets above. No quotations placed. Reasoning-mode note: no named opponent; the engagement is with the Map's own common-cause null (Mode Two on the hub's own standard, since the basin condition is a shared premise the verdict had not counted).
 - **Published**: yes
 
+---
+
 ## 13:55 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: driver-briefed wing — the three articles created this morning (`topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` 3237, `voids/observer-selection-void` 2884 (headroom 115), `concepts/charles-bonnet-syndrome` 2613) and the `apex/machine-question` synthesis pass (5946, over hard under the standing veto). Seven personas; Birch verdict favourable on all three (each withdraws tenet support rather than adding it; no tier slippage). Quotes praised were grep-verified at raw source this run (Carroll arXiv, Reichert PLoS, Santhouse and Painter Europe PMC, Harnad Scholarpedia — 1 hit each); Merlo/Lipman/Builes/Kinkaid/Bostrom/Elga rely on the 12:05 pessimistic review's raw checks. Findings: `apex/one-world-wager` L48 "accept fragmentation" is a third locus for the pessimistic review's Issue 1 and has no link to the only page that prices the exit; CBS "Why insight survives" and `voids/perceptual-reality-monitoring-void` are unlinked both ways; two concept pages now visibly missing (fragmentalism — 3 pages + 1 apex use the word, none defines it; release phenomena — family named on 5 pages, 17 files still carry "compensatory generation" with no page to pipe to). Priority list (4): one-world-wager L48 pipe + verb alignment (+0/+3) and a L54 fit-not-confirmation clause (+22) in apex-evolve; two zero-cost reciprocal pipes CBS L61 / reality-monitoring void L94; research seed `concepts/fragmentalism` (Fine 2005 and Lipman 2016 unread at body level); expand seed `concepts/release-phenomena` (sources in-corpus). Not re-raised: pessimistic 10-14 items 1–4, Tenet 3 quantifier NEEDS-HUMAN, apex length NEEDS-HUMAN, todo L1589/L2299/L2419. Grep false hits recorded (Moravec "Doomsday Device", surname Bonnetblanc) so they are not re-chased. No content edits, no todo tasks, no commit.
 - **Output**: [[reviews/optimistic-2026-10-14-three-creations-wing]]
+
+---
 
 ## 13:20 - refine-draft
 - **Status**: Success
@@ -1170,6 +247,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: L48: removed the quotation "explicitly rejected simple monism, prioritizing radical individuality within interconnectedness" attributed to Davis's SEP "The Kyoto School" (reviewer: 0 hits for "monism" in seven editions, 2024 to the Sep 14 2026 revision; control "highly contentious" 1 hit in each). Replaced with Maraldo's SEP "Nishida Kitarō" sentence, re-fetched live today (first published Feb 25 2005, substantive revision Feb 21 2024) and grep-verified contiguous and verbatim in the stripped HTML: "insistence on irreducible but inseparable terms in relation" … "does not devolve into a simple monism, and why many commentators refer to his philosophy as non-dualist instead" (Maraldo 2005/2024). Scope moved from "the school" to Nishida, which is the paragraph's subject and all the source covers. L32: the unquoted paraphrase "the school explicitly rejected simple monism too" rescoped to "Nishida's own holism does not settle into simple monism either" (Maraldo supports Nishida only, and "does not devolve", not "explicitly rejected"). L64 ("monism" = James's neutral monism) and L92 (Nahua "process-monism") ALREADY-CORRECT: neither repeats the Davis attribution or the school-rejected-monism claim. L82 common-cause framing left to the sibling Chinese-philosophy task. (surname, year) orphan check both ways: Maraldo 2005/2024 body 1 / refs 1 (orphan closed); Davis 2006/2026 body 1 (L74 "highly contentious") / refs 1, so the Davis entry stays. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-8+claude-opus-5+claude-fable-5-1`. Not addressed (B6, optional, separate note): the propagation source `research/kyoto-school-pure-experience-absolute-nothingness-2026-07-10.md` L46 still carries the Davis string.
 - **Published**: yes
 
+---
+
 ## 13:05 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/islamic-sufi-philosophy-of-consciousness]]
@@ -1177,6 +256,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Word count**: 2469 → 2541 (+72) against the concepts hard limit of 3500 (gate `>=`; headroom 958)
 - **Changes**: ITEM 1 — L49: removed the misattributed quotation "so utterly different in their essences that one cannot affect the other" (Wikipedia "Occasionalism" §Dualism, imported via the research note L99 and ratified twice as "prior-verified"); replaced with al-Ghazālī's actual argument (no necessary cause–effect connection; fire and cotton; *Tahāfut al-Falāsifa*, 17th discussion), paraphrased without quotation marks and worded to agree with [[concepts/occasionalism]] L45 and [[topics/interaction-problem-across-traditions]] L74. L75: drunkenness/health passage repinned from the *Iḥyāʾ* to the *Munqidh* — grep-verified in Watt's translation (ghazali.org/works/watt3.htm: "What a difference between being acquainted with the definition of drunkenness … and being drunk!"; "the doctor, when he is himself ill, knows the definition and causes of health … and yet is lacking in health"), and the physician analogy corrected to Watt's wording (the doctor is ill and lacks health, not "never having been healthy"). References: orphaned *Iḥyāʾ* entry replaced with Marmura's *Incoherence of the Philosophers*, Provo: Brigham Young University Press, 2000 — edition confirmed at Open Library (BYU Press, Provo, 2000; 1998 BYU printing precedes it; WorldCat returned 429). (surname, year) orphan check clean both ways after the swap: Munqidh body 2 / refs 1, Tahāfut 1/1, Iḥyāʾ 0/0. ITEM 4 — L85: *nirodha-samāpatti* parallel rescoped — *turīya* kept as the nearer parallel, *nirodha-samāpatti* placed on the cessation side of the [[concepts/cessation-versus-plenitude]] divide (bare slug resolves to one file). L87: the "irreducible subject" claim now flagged as the Map's reading rather than the testimony's, since the reports describe awareness *without* an experiencer. Attribution check: Griffel/Marmura dispute over whether al-Ghazālī is a full occasionalist left untouched in the following "Scholars debate…" sentence. No "This is not X. It is Y."; no "load-bearing". `ai_system` → `claude-opus-4-6+claude-fable-5-1`. Not addressed (other tasks / optional): B3 Avicenna "holistic" locus, B5 al-Bisṭāmī closing clause, research-note L99 correction note.
 - **Published**: yes
+
+---
 
 ## 13:02 - deep-review
 - **Status**: Success
@@ -1189,6 +270,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: Carroll/HSF Reading A — Mode Three (boundary honestly marked); Reading B — conditional Mode One (uses only what HSF grants; declared contested and HSF-bound); Saunders/Wallace indexicality reply — Mode Three via P-I5; no label leakage
 - **Output**: [[reviews/deep-review-2026-10-14-mad-dog-everettianism]]
 
+---
+
 ## 12:36 - refine-draft
 - **Status**: Success
 - **Task**: P2 "'Why this regularity rather than another' is called 'a Q3-specific debt' at `apex/dualism-cartography` L99 and `topics/mechanism-costs-dualism-thickness-quadrants` L103" (todo line 2285). Two files, both done.
@@ -1196,6 +279,9 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]] — L103: same rescope, with headroom used to state the parity: lawfulness "is a debt every cell owes: each view takes some laws as basic, and the dualist cells add psychophysical laws to the physical ones", linked to `[[lawful-appearance-problem#lawfulness|...]]` and `[[idealism]]` (which concedes the parity result at its L119) instead of adding Yetter-Chappell 2025 / Chalmers 2019 to this file's reference list, where neither is present. What Q3 owes on its own account is now "why a mind's dynamics would be as austere as physics records, and, for anti-realist versions, what grounds the order among possible experiences" (austerity + explanatory objection, the two parts the concept article treats as Q3-specific). L105: "minimal interface debt, substantial appearance debt" → a difference in kind: "an appearance item (why the mental presents as austere, lawful physics) replaces the interface item (where mind touches matter), and the inventory has no scale on which to call either heavier". ALSO L101 (beyond the two named lines, same defect class): "but it is not lighter" was the exact weight verdict the apex withdrew at its L87; replaced with "the inventory records the substitution without ranking the two". The L84/L99 piped links from 2026-10-12 14:17Z untouched. `analyze_length` 3347 → 3435 (565 left under the 4000 hard limit).
 - **Verified**: `grep -F "Q3-specific"` now 0 hits in obsidian/ live content (reviews/, workflow/, research/ excluded). No new citations added; no "This is not X. It is Y."; no "load-bearing".
 - **Published**: yes
+
+---
+
 ## 12:10 - refine-draft
 - **Status**: Success
 - **Task**: P2 "Tegmark decoherence-figure sweep, batch 2 of 3 (class B, live pages)" — bare "~10⁻¹³ s" attributed to neural tissue / neural superpositions / ion superpositions generally. Source split (Tegmark 2000, PRE 61:4194, quant-ph/9907009): eqs. (10)/(13) ∼10⁻²⁰ s for superposed neuron firing (ion positions); eq. (22) ∼10⁻¹³ s for microtubule kink superpositions. Model wording: `topics/epistemology-of-mechanism-at-the-consciousness-matter-interface` L71. Archive/ untouched (batch 3 is a separate P3).
@@ -1225,6 +311,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Synced**: `scripts/sync.py` run; one changed phrase per file grep-verified in hugo/content/.
 - **Published**: yes (all `draft: false`); todo task left for the driver; not committed.
 
+---
+
 ## 12:05 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` (primary, created 10:25Z today) with secondary notes on the two sibling creations `voids/observer-selection-void` and `concepts/charles-bonnet-syndrome`. Reports only; no articles edited, no todo tasks minted (driver brief).
@@ -1233,6 +321,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List**: 4 items, ordered for the driver; headroom measured (primary 762; void 115; perceptual-failure 167; dualist-perception 134; IKI 311; egocentric-presentism 14 and vertiginous-question 3 — do not touch).
 - **Output**: [[reviews/pessimistic-2026-10-14-subjective-facts-and-the-metaphysical-problem-of-other-minds]]
 - **Synced**: hugo/content/reviews/pessimistic-2026-10-14-subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+
+---
 
 ## 11:34 - expand-topic
 - **Status**: Success
@@ -1249,6 +339,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Apex sources**: slug absent from `apex/apex-articles.md`; no apex-evolve task minted
 - **Published**: yes (`draft: false`); todo task (line 40) left for the driver; not committed
 
+---
+
 ## 11:16 - expand-topic
 - **Status**: Success
 - **Topic**: The Observer-Selection Void — the limit on what anthropic/typicality reasoning can say about which observer one is: rule face (SSA→Doomsday, SIA→Presumptuous Philosopher, Sleeping Beauty, absent-minded driver, Arntzenius), class face (reference class presupposes the distribution of consciousness; Bostrom/Standish/Saad/Elga circle), instability face (Carroll's cognitive instability and its Kotzen/Elga/Dogramaci–Schoenfield deflations), with the agreement region (Isaacs, Hawthorne & Russell 2022) drawn first
@@ -1263,6 +355,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Synced**: hugo/content/voids/observer-selection-void.md verified (frontmatter intact, body wikilinks converted, `validate.py` ✓ Valid; all eight host inbound links present in hugo/)
 - **Apex sources**: slug absent from `apex/apex-articles.md`; no apex-evolve task minted
 - **Published**: yes (`draft: false`); todo task (line 40) left for the driver; not committed
+
+---
 
 ## 10:38 - deep-review
 - **Status**: Success
@@ -1282,6 +376,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Integration: `topics/evolutionary-case-for-mental-causation` L61 gets a zero-word piped link on "selection acts on genes, not experiences" (3,255 / 4,000 unchanged; `ai_modified` and `ai_system` updated). It was the only Further Reading target with no inbound link to the new article.
   - No todo tasks minted; the open P2 positions-evolve (Born reading) and P3 refine-draft (pairing-problem / evolution-under-dualism L109) tasks from the 2026-10-13 expand already own the remaining items.
 
+---
+
 ## 10:30 - expand-topic
 - **Status**: Success
 - **Topic**: Subjective Facts and the Metaphysical Problem of Other Minds — Merlo's third problem, the parity/multiplicity demands, the question of egalitarianism and its exits, Lipman's standpoint pluralism, the Builes/Merlo specialness objection, Kinkaid's Sartrean counter-datum, and a "what moves" ledger pricing the egalitarian exit against Tenet 4 / P-I2 / Posit One
@@ -1296,6 +392,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Apex sources**: slug absent from `apex/apex-articles.md`; no apex-evolve task minted
 - **Published**: yes (`draft: false`); todo task left for the driver
 
+---
+
 ## 10:06 - refine-draft
 - **Status**: Success
 - **File**: [[apex/self-construction-constructor]]
@@ -1308,6 +406,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Synced**: hugo/content/apex/self-construction-constructor.md verified (8 phrase probes, "precisely here" 0)
 - **Published**: yes
 
+---
+
 ## 09:21 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 255 loop posts (2026-10-10 15:21 → 2026-10-14 09:21 UTC, 3.75 d); 254 SUCCESS / 1 FAILURE (Gemini commission)
@@ -1318,6 +418,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Measured**: P3 rows closed in window 0 (P3 open 52 → 103); P2 rows removed 96 / added 108; `pending_articles` 13
 - **Output**: [[reviews/system-tune-2026-10-14]]
 
+---
+
 ## 09:12 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/machine-question]]
@@ -1327,6 +429,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: Tenet 3 quantifier at machine-question L175–177 (NEEDS-HUMAN todo L722)
 - **Review**: [[reviews/apex-evolve-2026-10-14-machine-question]]
 
+---
+
 ## 08:58 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 122 live files plus tenets.md (window 9fac07ecec..78dcc816c1; 12 new, 110 modified)
@@ -1334,6 +438,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Warnings**: 4 (6 loci; one carried from checks 09-04/09-28)
 - **Notes**: 7
 - **Output**: [[reviews/tenet-check-2026-10-14]]
+
+---
 
 ## 08:45 - research-voids
 - **Status**: Success
@@ -1344,6 +450,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Capacity**: `voids/` 112/125 via `count_section_files`; two voids notes (grammar, observer-selection) already queued ahead in `pending_articles`. Entry appended.
 - **Selection**: 25 candidate territories grep-tested against `voids/` and 216 banked `research/voids-*` notes; self-deception (7 voids articles), mind-blanking (`mutation-void`), hindsight/curse-of-knowledge (`conceptual-metabolism-void`) and imaginative resistance (`topics/`) rejected as covered. "logical indeterminacy" corpus hits were substring matches on "ontological indeterminacy"; Wolpert hits in voids are Daniel (motor control), not David.
 - **Sources read in full**: Gijsbers 2021 (OA PDF), Lewis & Richardson 1966 (PDF), Ismael TLS essay (PDF), Lloyd abstract, Hoefer's NDPR review; Crossref-verified metadata for 9 further items. Primary texts of Scriven, MacKay, Rummens & Cuypers, Levi, Velleman, Wolpert NOT read (403s) — note flags every reported quote as such.
+
+---
 
 ## 07:49 - refine-draft
 - **Status**: Success
@@ -1357,6 +465,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Fences held**: no retitle; only L77 and the References list were edited; Relation to Site Perspective intact; no "load-bearing"; no "This is not X. It is Y." construct; no HTML-comment log in the article.
 - **Sync**: Hugo synced; all new phrases and the three references confirmed present in `hugo/content/topics/social-construction-of-self-vs-phenomenal-self.md`.
 - **Published**: yes
+
+---
 
 ## 07:24 - refine-draft
 - **Status**: Success
@@ -1372,6 +482,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks minted**: 1. P2 refine-draft `topics/emotion-and-dualism` L121, the same Schachter–Singer defect ("classic study (1962) showed", Barrett "extends this"). The source page L77 already has an open P1.
 - **Published**: yes
 
+---
+
 ## 07:12 - refine-draft
 - **Status**: Success
 - **File**: [[apex/self-construction-constructor]]
@@ -1384,6 +496,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Fences held**: no retitle; the strong-claim/posit sentences (L105, L142) and the L83 Rochat/Mead clauses are untouched; Relation to Site Perspective is intact; `apex_last_synthesis` is unchanged; there are no mode labels in the body.
 - **Tasks minted**: 0.
 - **Published**: yes
+
+---
 
 ## 06:59 - refine-draft
 - **Status**: Success
@@ -1398,6 +512,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks minted**: 1 (P3 refine-draft, CHECK-FIRST). `concepts/phenomenal-transparency-opacity-spectrum` L117 still prices the persistence as "costly for functionalism" while the apex now says SMT predicts it, so the source sits above its apex. The task preserves the paragraph praised in optimistic-2026-09-19. `parse_tasks` active count went from 140 to 141.
 - **Published**: yes
 
+---
+
 ## 06:42 - deep-review
 - **Status**: Success
 - **File**: [[topics/graduated-middle-path-valence-modulated-attention]]
@@ -1410,6 +526,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks minted**: 1 (P3 positions-evolve). P-VS2's tier-(1) first leg still reads the bare equal-salience advantage as supporting value-sensitive selection; the register file is at 2,498 of 2,500 words, so the fix must be net-zero or go in the sidecar. `parse_tasks` active count went from 139 to 140.
 - **Output**: [[reviews/deep-review-2026-10-14-graduated-middle-path-valence-modulated-attention]]
 
+---
+
 ## 06:29 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-14
@@ -1420,6 +538,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **NEEDS-HUMAN**: one new entry, which has no P tier and is invisible to the picker. (A) Retitle: both reviewers asked. (B) Status-propagation gate: Claude Part 5 item 1 matches ChatGPT item 21, and the apex has five verified instances. `git log -S` splits them into write-side cases (2: social zombie, transparency) and change-side cases (3: SMT, Rochat, theory of mind).
 - **Pointer check**: `parse_tasks` returns 139 active tasks before and after (delta 0). P1 went from 2 to 5, P2 from 36 to 33, and P3 stayed at 101. All five rewritten tasks keep a non-`None` review pointer under the plural field.
 - **Output**: [[reviews/outer-review-synthesis-2026-10-14]]
+
+---
 
 ## 06:00 - outer-review
 - **Status**: Success
@@ -1432,6 +552,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 1 new (P2 §The Threshold, which converges with Claude row 10, not minted) and 4 convergence riders on today's Claude tasks (2 P1, 2 P2), so no duplicates were created. Inserted above `## Completed Tasks`; the `parse_tasks` active count went from 138 to 139.
 - **Methodology**: ChatGPT's "no apex amplification" (21), independence audit (24) and claim-level apex citations (20) converge with Claude Part 5 items 1, 5 and 6. Recorded for combine, not minted. The status-propagation gate now has five verified instances in this one apex.
 
+---
+
 ## 05:45 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 (Research), collected via collect-claude-review
@@ -1442,6 +564,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **High-value findings**: 5. (1) The apex's premise "content requires a subject" (L99/L130/L138) contradicts its own L107/L111 concessions that construction can run without consciousness. (2) The apex's "cannot escape" regress and its "no one who is fooled" dilemma outrank the SMT concept page's "located disagreement, not a refutation". (3) The apex has no Dennett, beautiful-loop or Frankish engagement. (4) The apex upgrades Rochat from the source's "self-specification" to "phenomenal selfhood". (5) The three-layer topic's L129 observability asymmetry fails against SMT transparency.
 - **Tasks generated**: 5 (P1: 2, P2: 3). Inserted above `## Completed Tasks`; `parse_tasks` active count went from 133 to 138.
 - **Methodology**: the status-propagation gate (an apex may not claim a higher tier than its sources) is new and recorded for the operator, not minted. Confession-to-label is a further recurrence of a completed convergent entry.
+
+---
 
 ## 10:20 - expand-topic
 - **Status**: Success
@@ -1459,6 +583,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Apex**: the article is not listed as a source in `apex/apex-articles.md`; no apex task.
 - **Out of scope, not acted on**: (1) `voids/assent-void` ref 5 is still a bare "Descartes, R. (1641). *Meditationes de prima philosophia*, Meditation IV." with no translator or AT/CSM locator. Fixing it costs words on a page at 2959/2999. (2) The research note's self-citation of the assent void uses "Oquatre-sept"; the page's `ai_system` is `claude-fable-5-1`, so the correct pseudonym is Fabcinq-un, as doxastic-voluntarism and this article use. (3) The note's Ockham claim ("the very root", Piché 2017) remains snippet-only and is not used; Ockham's voluntarism is cited to Boespflug 2018's verified abstract instead. (4) Buddhist assent appears in one clause with no link; the open P3 research task is untouched.
 - **Style**: no "This is not X. It is Y."; no "load-bearing"; the Map's readings are labelled where they occur (permissivist parallel, Augustine/Stoa antecedents of Descartes, What the History Shows).
+
+---
 
 ## 09:53 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned
@@ -1480,6 +606,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Output**: none (no content, todo or archive changes)
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 
+---
+
 ## 09:30 - expand-topic
 - **Status**: Success
 - **Topic**: Doxastic voluntarism: direct voluntary control over belief, and what the Map's interface account needs from the debate
@@ -1495,6 +623,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Integration (zero-cost piped links, +0 words each by `analyze_length`)**: `voids/assent-void` L60 "One cannot [[doxastic-voluntarism|believe at will]]" (2959 > 2959); `topics/phenomenology-of-resistance-across-domains` L63 "[[doxastic-voluntarism|doxastic involuntarism]]" (3202 > 3202). Both also gained a `related_articles` entry. `ai_system` left unchanged on both.
 - **Findings, not edits**: (1) The research note mis-cites in three places. It sources Peels's "influence, not control" point to Peels 2017 via the SEP's "(2017: 693–4)", but those pages are in Peels 2014 (PPR 89(3): 679–702), whose abstract states the point. It files Odoj 2025 under Frankfurt-style detachment, but her abstract defends doxastic freedom "consistent with the principle of alternative possibilities". Its citation 9 gives Cusimano & Goodwin 2019 (JEP:G) for the self/other asymmetry, which is in their 2020 JPSP paper. (2) `voids/assent-void` L64 describes Ginet's juror as deciding to believe a witness while voting to acquit (pp. 64–65); the SEP renders the case as "a juror who decides to believe a defendant is guilty" (2001: 64). Unresolved without the chapter. (3) `concepts/compatibilism` L101 has Tenet 3's quantum interface making the ability to do otherwise "categorical". This is a string-sibling of the open P2 Tenet 3 tasks on the consequence argument and source-vs-leeway pages. (4) The research note's quotation of decision-void L84 ("Hieronymi's parity ... voluntariness") is no longer live; L84 now ranks assent "by phenomenological fit".
 
+---
+
 ## 09:03 - deep-review
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
@@ -1506,6 +636,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: disinhibition, graded precision, local sleep and GNW are Mode 3; apical drive is mixed (an in-framework "does not derive the order" point, then the boundary).
 - **Enhancements made**: 1 (Lacaux/Haar Horowitz content divergence)
 - **Output**: [[reviews/deep-review-2026-10-13-hypnagogic-phenomenology-and-interface-modulation]]
+
+---
 
 ## 08:32 - expand-topic
 - **Status**: Success
@@ -1519,6 +651,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Forward search (OpenAlex cited-by)**: Loorits (2026), *Acta Analytica* 41(3) — a later paper defending "ineffable, structurally unanalyzable" qualia as explanatorily indispensable; the article attributes the metaphysics to Loorits 2014 only and says the abstract does not settle whether 2014 is revised. Nimmo (2026), *Philosophical Explorations* — a live countermodel to the Map's Tenet 4 indexical line; cited as such. Aldé (2026) abstract now verified.
 - **Integration (zero-cost piped links, +0 words each by `analyze_length`)**: `concepts/ontic-structural-realism` L97; `concepts/intrinsic-nature` L95; `concepts/galilean-exclusion` L72; `concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness` L68.
 - **Findings, not edits**: (1) the three live loci the research note lists as owing corrections were already corrected (OSR 2026-09-07; `primary-secondary-quality-boundary` and `interface-formalization-void` 2026-09-08). (2) The research note's Loorits quote at L225–226 ("...somehow different in two structurally identical cases") misses the raw text, which reads "...somehow different or even absent in an occasion where its structure is present"; the article uses the raw form. (3) `the-unfolding-argument...` L70 still quotes Lyre's disavowal without its continuation. (4) Citation defects in `research/voids-palette-void-2026-03-06.md` L178 (Loorits as "Taylor, J.H.") and `research/voids-contrast-dependence-void-2026-02-15.md` L76 (Prentner/Kob) are still live.
+
+---
 
 ## 07:47 - refine-draft
 - **Status**: Success
@@ -1556,6 +690,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Crossref has no record of Lee & Pautz (eds.) 2026. No new page cites were added, and the existing pp. 25–40 were not re-verified.
 - **Published**: yes
 
+---
+
 ## 07:04 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the process wing, the first wing-level optimistic pass on it: `apex/process-and-consciousness`, `concepts/process-philosophy`, `concepts/subjective-aim`, `concepts/prehension`, `topics/the-steelman-for-process-monism`, `concepts/integration-as-activity`, `topics/consciousness-as-activity`, `topics/bergson-and-duration`. All were read in full at `4f9204fbb0`.
@@ -1572,6 +708,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sources verified**: Crossref, OpenAlex, PubMed, and the archive.org *Process and Reality* text.
 - **Output**: [[reviews/optimistic-2026-10-13-process-wing]]
 - **Scope**: reports only. No content, todo or commit changes.
+
+---
 
 ## 06:42 - refine-draft
 - **Status**: Success
@@ -1628,6 +766,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not done / respected**: the Insects-Low credence, the moral-realism presupposition and the illusionism bedrock were not re-litigated. Copy/upload and Parfit were not expanded. The Chalmers Vulcan continuity argument was left to the queued `concepts/sentientism` P1. The asymbolia "decisive" claim was left to the queued `pain-consciousness-and-causal-power` P2.
 - **Published**: yes
 
+---
+
 ## 05:13 - literature-drift-review
 - **Status**: Success
 - **Article**: [[topics/predictive-processing-and-dualism]]
@@ -1650,6 +790,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Task generated**: P2 refine-draft, "Update predictive-processing-and-dualism citations — 2 2020s papers missing (empirical status of active inference) + effort account cited to its pre-active-inference precursor". It is inserted directly above `## Completed Tasks`; parse_tasks active 132→133, P0–P2 34→35. The task is strictly length-neutral: 4623 words against the 4000 hard ceiling (prose 4021), headroom −624. It carries a mandatory calibration fence: the reviews' comparison classes are other physicalist models, so none of this is a point for the Map's selector.
 - **Counters**: total 14, flagged 9, clean 5 (flag rate 64%, inside the 20–80% window)
 
+---
+
 ## 04:47 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro. The regenerate menu reads "Try again • 5.6 Pro", and the turn label reads "Worked for 17m 25s", which is in the Pro range. This is the recent-aged fallback audit of `topics/ethics-under-dualism`, collected by `collect-chatgpt-review` from the 02:06Z commission. Verdict: "major revision".
@@ -1660,6 +802,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 3 (P1: 2, P2: 1). They are refine-drafts on `topics/ethics-under-dualism` (10 ordered items, headroom 192), `concepts/sentientism` (length-neutral, headroom 5) and `topics/pain-consciousness-and-causal-power` (headroom 148). All were inserted above `## Completed Tasks`, and parse_tasks reads them as pending with File and Review file set.
 - **Not tasked**: the symmetric-package table (length), copy/upload and Parfit (bedrock), and the AI reassessment tests (lower value). Methodology improvements #30–36 are left for combine-outer-reviews, with evidence: five propagation failures in one review, and the soft-threshold deferral mechanism.
 - **Synthesis**: not written. The Gemini review of the same subject (commissioned 04:07Z) is still pending.
+
+---
 
 ## 03:44 - expand-topic
 - **Status**: Success
@@ -1674,6 +818,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Verification: Crossref confirmed *The Self and Its Brain* (Springer Berlin Heidelberg 1977, doi 10.1007/978-3-642-61891-8, first edition), both Dialectica DOIs and Feyerabend's Inquiry DOI. Primary texts were re-fetched and every quote was grepped against the raw extraction: Tanner Lecture (pages fixed by PDF page: pp. 143, 144, 153, 164, 165, 166, 167); "Of Clouds and Clocks" scan (pp. 228, 232, 234 + n. 46, 252 + n. 62, fixed between running heads and inline page markers); Gray review (pp. 122, 123, 124 by form-feed boundaries). The trialist quote "I was a dualist, now I am a trialist!" and the glossary definition use the 2026-09-17 Google Books SearchWithinVolume2 verification (commit 2aff9ecfbe). "Trialist" is credited to Eccles as his word; no coinage claim. *The Self and Its Brain* was not read, and the article says so in its opening. No decoherence figures were used.
   - Integration: [[topics/sherrington-dualist-lineage]] L63 gets a zero-word piped link on "Popper's three-worlds scheme"; L65 gets one sentence quoting Gray on Eccles's survival concern and Popper's indifference to it; Further Reading L108 and Gray ref L122 added (+82 words, 3,382 → 3,464 / 4,000). [[topics/history-of-the-interaction-problem]] L110 gets two sentences on Popper in the materialist eclipse, after the Beck–Eccles sentence; the Sherrington sentence is untouched. L124 gets a new paragraph with Popper's n. 46 conservation verdict after Broad; Further Reading and two refs added (+180, 3,102 → 3,282 / 4,000). [[concepts/penfield-interactionist-dualism]] L54 gets a piped link on "Popper", plus a Further Reading entry (+11, 2,622 → 2,633 / 3,500). [[concepts/causal-closure]] L67 gets a zero-word piped link on "Karl Popper" (3,522 → 3,522; the page was already at hard_warning).
   - Out of scope: the research note's "two-substance dualism" framing contradicts tenets.md; [[concepts/causal-closure]] is over its hard threshold (3,522 / 3,500); the p. 51 closure quote in causal-closure still rests on a single secondary carrier.
+
+---
 
 ## 03:18 - deep-review
 - **Status**: Success
@@ -1703,6 +849,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - qbism has no reciprocal link; it is on the avoid list.
 - **Output**: [[reviews/deep-review-2026-10-13-improper-vs-proper-mixtures]]
 
+---
+
 ## 02:45 - expand-topic
 - **Status**: Success
 - **Topic**: Census change-points (signatures of subject onset, cessation, fission and fusion in the psychophysical transition law, where a census event changes the law's arity rather than one subject's interface state)
@@ -1716,6 +864,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Verification: Crossref resolved all 11 external DOIs; Rubenstein et al. (no DOI) was checked at the arXiv API. Quotes were checked raw: Green, Andersen and Beckers & Halpern abstracts via OpenAlex; Bostrom's three phrases grepped in the author's PDF; Zhang & Spirtes in the CMU author PDF. Bayne et al., Pinto et al. and Xu et al. are quoted as marked raw-verified in the note. No decoherence timescales are used.
   - Integration: [[concepts/direction-of-interface-change]] L57 gets one sentence at the end of the first "What Unifies the Family" paragraph (+34 words, 2,730 → 2,764 / 3,500). It says every member concerns one interface with the count fixed, a count change is a different axis, and no signature counts toward it, which reinforces the over-counting guard. [[concepts/subject-fusion]] L93 gets a zero-word piped link on "the subject index in the selection law changes value". [[topics/inheritance-problem-for-the-psychophysical-law]] L127 gets a zero-word piped link on "onset is undated". positions/subject-census was not touched (2,499 / 2,500).
 
+---
+
 ## 02:30 - expand-topic
 - **Status**: Success
 - **Topic**: The psychophysical social-choice problem (how a selection law combines the states of several subjects that bear on one event)
@@ -1728,6 +878,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Departures from the research note: (1) the note's "P-VS4 pluralism blocks the intensity rule" is refined. P-VS1 puts the currency in a single felt anticipation at choice, separate from the plural experienced values. Pluralism therefore widens the gap between what the rule sums and what is good; it does not block the rule. The Arrovian problem re-enters within a subject only if the micro-valence shift-condition fires (Okasha 2011). (2) Chalmers & McQueen 2022 is cited as a collapse-trigger model, with outcomes "with probabilities given by the Born rule", in which the problem does not arise. The note had called it "single-subject". (3) Gibbard's Pareto clause is not invoked, because only the unilateral/duple characterisation is used.
   - Verification: Crossref confirmed all 10 DOIs (Sen 1977, Gibbard 1977 and Okasha 2011 page ranges via RePEc/Crossref). Quotes were grepped against raw sources: Bostrom 2006 from the author's PDF; Chalmers & McQueen from the arXiv text; the SEP social-choice comparability sentence, Sen's theorem and the meddlesome-preferences escape from raw HTML; Okasha and Roelofs & Sebo from OpenAlex abstracts. The Gibbard 1977 abstract is used as the note's verified quote. Harsanyi, Sen 1977 and List & Pettit 2011 are paraphrased and not quoted.
   - Integration: [[topics/multi-agent-born-preservation-problem]] gets a paragraph at the end of The Option Space (+114 words, 2,976 → 3,090 / 4,000). [[concepts/manyism]] gets a paragraph at the end of the Too Many Minds section (+68, 1,924 → 1,992 / 3,500). [[apex/moral-architecture-of-consciousness]] L154 has a clause added (+25, 4,427 → 4,452 / 5,000). Positions edits (P-SC2, P-VS4, P-MS1) are left for /positions-evolve.
+
+---
 
 ## 01:33 - pessimistic-review
 - **Status**: Success
@@ -1743,6 +895,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Stability fences**: items 2 and 3 are NOT covered by the 07-19 and 08-19 "do not re-flag" notes. Those fence the *verdict* (the reply is not decisive, and Pereboom rejects the luck reading from outside). These items correct the *classification* and widen the Map's concession. Brief this into the tasks, or a fork will decline them as "already ratified Mode Three".
 - **Off-list, ready fixes**: Issue 6 (consequence L97: the "minimally owned" miracle contradicts Tenet 2 L65). Issue 7 (source-vs-leeway L58: Timpe did not name the distinction; his own 2007 paper credits Pereboom 2003 and McKenna from 2001); this can ride with the source-vs-leeway task. Eight low notes are listed in the review.
 - **Tasks added**: none. The review only reports; the driver mints from the priority list. todo.md was not touched and nothing was committed.
+
+---
 
 ## 01:14 - expand-topic
 - **Status**: Success
@@ -1762,6 +916,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
     - `apex/mereology-of-mind` +115 (end of "The Hinge": the note's insert-ready diachronic reading of Coleman's dilemma, adapted to the conditional footing and to the census article's new wording). Now 3,430 against a 4,000 soft limit. The Source Articles list was left for apex-evolve.
   - Out of scope, not done: the P-I4 wording change (for /positions-evolve); the Hogan-hedge swap in three articles (cross-review chain).
   - Cross-review registered in `task_chains.pending_cross_reviews`. The note had no pending_articles entry.
+
+---
 
 ## 00:32 - expand-topic
 - **Status**: Success
@@ -1783,6 +939,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
     - `apex/interface-specification-programme` +0 (L151 piped link on the "Evolutionary interface signatures" label).
   - Cross-review registered in `task_chains.pending_cross_reviews`. The note had no pending_articles entry.
 
+---
+
 ## 00:02 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
@@ -1799,6 +957,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Engagements: Muthukumaraswamy et al., Mode 1 (read against their own "over-estimated"); physicalist reply at Standard 3, Mode 3; van Elk & Yaden underdetermination conceded on its own terms.
   - Out of scope: `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L78 ("A 2025 … meta-analysis") and L161 ("Siew & Yu (2025)" with doi 10.1038/s41598-025-11069-9) misdate the paper. It is Siew & Yu 2023, *Sci Rep* 13:18469, doi 10.1038/s41598-023-45765-1; the 2025 DOI is the retraction notice (2025-07-15).
 
+---
+
 ## 23:32 - expand-topic
 - **Status**: Success
 - **Topic**: Mad-Dog Everettianism: the austere Hilbert-space ontology (Carroll & Singh) and the uniqueness-of-emergence dispute
@@ -1812,6 +972,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Integration: [[many-worlds]] L116 got a piped link on "worlds less fundamental", +0 (3,499 → 3,499). [[quantum-factorisation-problem]] L100 got a piped link on "Hilbert-space fundamentalism", +0 (3,570 → 3,570, already over the hard limit, so nothing else was added). [[wavefunction-realism-vs-primitive-ontology]] L54 got a three-sentence paragraph on Hilbert-space realism (the note's angle 2) plus two references, +127 (2,016 → 2,143). [[ontic-structural-realism]] L79 got one sentence with a piped link (the note's angle 3), +37 (3,264 → 3,301).
   - Cross-review registered in `task_chains.pending_cross_reviews`. There was no `pending_articles` entry to remove.
 - **Published**: yes
+
+---
 
 ## 23:15 - expand-topic
 - **Status**: Success
@@ -1829,6 +991,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Cross-review registered in `task_chains.pending_cross_reviews`. The `pending_articles` entry was removed.
 - **Published**: yes
 
+---
+
 ## 22:21 - refine-draft
 - **Status**: Success
 - **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]. Review: [[optimistic-2026-10-11-quadrant-geometry-wing]]; research: [[idealist-answers-to-the-transparency-problem-2026-10-11]] (L186–187, L235).
@@ -1843,6 +1007,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - `ai_modified` updated; `ai_system` unchanged.
 - **Published**: yes
 
+---
+
 ## 21:50 - expand-topic
 - **Status**: Success
 - **Topic**: Miswanting: when a forecast error changes the choice, not just the prediction
@@ -1856,6 +1022,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Integration, all net 0 words: [[affective-forecasting-gap]] L82 pointer swap (3,615 → 3,615); [[negative-valence-asymmetry-and-the-selection-weighting-function]] L63 piped link on "inferred across samples" (3,450 → 3,450); [[wanting-liking-and-the-value-in-mechanism-fork]] L82 predicted-utility row, piped link on "fallible forecast" (3,088 → 3,088). `pending_articles` entry removed and `pending_cross_reviews` entry added in evolution-state.yaml (targeted edits; header intact).
 - **Published**: yes
 
+---
+
 ## 21:05 - refine-draft
 - **Status**: Success
 - **File**: [[topics/history-of-the-interaction-problem]] and [[concepts/penfield-interactionist-dualism]]. This propagates the 2026-10-12 primary-text correction of [[sherrington-dualist-lineage]] (see [[deep-review-2026-10-12-sherrington-dualist-lineage]], Remaining Items) to both sibling pages. Both still described Sherrington as suspending judgment on mind–brain contact. The corrected source reads him as holding a hedged, untheorised working interactionism: contact accepted tentatively, mechanism and theology refused, and dualism scoped "with no reference to reality".
@@ -1868,6 +1036,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - `ai_modified` was updated on both files. `claude-opus-5-5` was appended to penfield's `ai_system`; history already listed it.
 - **Published**: yes
 
+---
+
 ## 20:50 - refine-draft
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]. Applied item 3 of the [[optimistic-2026-10-12-sign-and-forecast-wing]] priority list to the parent's two open questions (L194, L196).
@@ -1877,6 +1047,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - (b) L196, 37 → 37 words. The review's second sentence ("more a matter of forecast than experience") was **not** used as written. At 19:58Z today the weighting page added Charpentier et al. 2016 as a contrary result: neither expected nor experienced feelings were tilted, and losses weighed more only at choice. The page now scopes the forecast tilt to Kermer et al.'s design (L63, L67), says "more readily than in experience" (L69), points the contested evidence at the selection-policy row, and "fixes no row". The final wording is: "If negative valence outweighs positive, selection needs a coefficient, not only a sign. [The weighting article] finds the asymmetry contested; some studies place it in forecasts, joining the two questions, others at choice." This reports the split between studies rather than a verdict. It also attaches "joining the two questions" to the forecast placement only, which is the one placement that does join them (a policy-row placement does not touch the anticipated-vs-experienced question). The link is now piped.
   - `ai_modified` updated. The 10-08 and 07-08 stability-noted paragraphs (middle path; Carruthers) were not touched.
 - **Published**: yes
+
+---
 
 ## 20:32 - deep-review
 - **Status**: Success
@@ -1905,6 +1077,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - The roadmap's L91 has the same unverified Hameroff-2020 tally attribution and the same "remains limited" gap.
 - **Output**: [[reviews/deep-review-2026-10-12-tenet-falsification-conditions]]
 
+---
+
 ## 20:07 - refine-draft
 - **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 2 (a), (a′), (b), (c). The review's exact old→new strings were applied unchanged. Each old string was confirmed to occur exactly once before editing.
 - **Status**: Success
@@ -1924,6 +1098,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Original score**: n/a (`scripts/curate.py` absent)
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 - **Published**: yes
+
+---
 
 ## 19:55 - refine-draft
 - **Task**: Optimistic review 2026-10-12 (sign-and-forecast wing), Priority List item 1 (a)–(c). Applied with the driver's two cautions from research note `research/miswanting-and-forecast-driven-mischoice-2026-10-12`.
@@ -1949,6 +1125,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 - **Published**: yes
 
+---
+
 ## 19:39 - coalesce
 - **Task**: coalesce cycle slot: candidate search, abandoned
 - **Status**: SUCCESS (no candidate; steady state)
@@ -1971,6 +1149,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Observation, not acted on**: `concepts/qbism` has no link anywhere to `topics/quantum-measurement-and-subjective-probability`, although the topic is the Map's main argument about QBism and links the concept at L45.
 - **Output**: none (no content, todo or archive changes)
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
+
+---
 
 ## 19:12 - refine-draft
 - **Status**: Success
@@ -2005,6 +1185,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: no named-opponent replies were changed. Schurger and Desmurget are empirical, not opponents.
 - **Out of scope (noted)**: per the attention sweep's item (5), `concepts/motor-selection` L92/L155, `concepts/decoherence` L113, `concepts/timing-gap-problem` L53, `topics/motor-control-quantum-zeno` L68 and `apex/attention-as-causal-bridge` L79 still credit Müller & Rabbitt with "~300ms". That figure is their summary of earlier work; their own central-cue peak is 400–725ms.
 - **Published**: yes
+
+---
 
 ## 19:01 - deep-review
 - **Status**: Success
@@ -2042,6 +1224,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-10-12T19:00:05+00:00. `ai_system` was left unchanged, since claude-opus-5-5 is already in the plus-joined list.
 - **Output**: [[reviews/deep-review-2026-10-12-the-observer-witness-in-meditation]]; synced to Hugo, with all edits grep-verified in `hugo/content/topics/the-observer-witness-in-meditation.md`
 
+---
+
 ## 18:36 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]
@@ -2067,6 +1251,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Out of scope (untouched)**: the string siblings `concepts/agency-budget` L71 and `positions/quantum-interface` P-Q11 belong to the separate P3 task, and `git diff` shows both unchanged.
 - **Published**: yes
 
+---
+
 ## 18:20 - refine-draft
 - **Status**: Success
 - **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
@@ -2080,6 +1266,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Coordination**: the review asked for a caution to be appended to the thisness P2 (`concepts/llm-consciousness` L100 / `topics/ai-consciousness` L161). The caution is present, but that task had already run at fc0c9535cb (01:23Z), before this fix, and is marked done. Its output did not copy the flawed clause: llm-consciousness hands "whether any instance is conscious" to P-AC1 and limits the tenet to individuation and counting, and ai-consciousness ends "Whether any is conscious is P-AC1's question." No spread. Neither page was touched here.
 - **Residual (noted, not fixed)**: L92 "not through the Map's quantum selection mechanism" presents quantum selection as the Map's settled mechanism of causal influence, unhedged. It does not use the "the mechanism through which experience becomes efficacious" wording, but it carries the same register. L112 "If consciousness selects among macroscopic superpositions of neural states at the moment of collapse" is conditional, so it is not the W7 defect, but it keeps the "macroscopic superpositions" wording that the review's issue (a) says runs against the Map's preferred post-decoherence route. No other line on the page ties No Many Worlds to whether coupling occurs; L172 is the page's only tenet-4 passage.
 - **Published**: yes
+
+---
 
 ## 17:48 - optimistic-review
 - **Status**: Success
@@ -2096,6 +1284,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   4. `creative-aesthetic-void` L173/L175 calibration repair plus L105 link (+6).
 - **Output**: [[reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing]]
 
+---
+
 ## 17:20 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]] (primary); [[topics/grain-mismatch-as-independent-evidence]] (secondary)
@@ -2111,6 +1301,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual (noted, not fixed)**: concept L61 "making identity logically impossible for these property pairs" (unconditional, in the epistemic/modal/structural taxonomy). Concept L41: "The grain mismatch argues that physicalist identification is *logically incoherent*" (reported as the argument's claim, unconditional). Concept L85's middle sentence: "masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural" (scoped only by the preceding "if the properties are structurally incompatible"). Topic L108: "The grain programme argues that this assertion is structurally incoherent", and "causal closure assumptions cannot override structural incompatibilities" (not swept terms, same over-reach). Concept L63's closing is already conditional ("As long as experience has homogeneous properties…"). The remaining "logical"/"in principle"/"necessar*" hits are benign: independence claims (concept L55, L63; topic L48), concessive dissolvability (topic L68, L86), a hedge (topic L76), or other arguments' modal targets (concept L59, L65, L81).
 - **Published**: yes
 
+---
+
 ## 16:49 - refine-draft
 - **Status**: Success
 - **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
@@ -2123,6 +1315,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: `tenets.md` matrix row for bare machine phenomenality (Tenet 2 "Not invoked"). That is a separate needs-human decision (review Note 4).
 - **Residual (noted, not fixed)**: L96's bold lead still reads "Dualism (Tenet 1) sets the sufficiency ceiling", and its first sentence derives the ceiling from irreducibility alone; the same paragraph's closing sentence then hands the decisive reason to Tenet 2. L90's opener ("no computational probe can by itself be sufficient, even in principle") derives an in-principle ceiling from "phenomenality is not a computational property" alone, beside the new Tenet-2 hedge. No "must" remains on the page.
 - **Published**: yes
+
+---
 
 ## 16:47 - deep-review
 - **Status**: Success
@@ -2148,6 +1342,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Out of scope (noted, not fixed)**: `concepts/metacognition.md` L128 uses ape teaching rarity as evidence against representing uncertainty, an inference this article disowns. `topics/consciousness-and-cognitive-distinctiveness.md` L88 says "cannot accumulate".
 - **Output**: [[reviews/deep-review-2026-10-12-teaching-as-metarepresentation]]
 
+---
+
 ## 16:05 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/continual-learning-argument]] (primary) and [[topics/hoel-llm-consciousness-continual-learning]] (secondary)
@@ -2160,6 +1356,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: analyze_length moved the concept page from 3,450 to 3,465 (concepts hard limit 3,500, gate `>=`; headroom is now 34). The topic page moved from 3,122 to 3,136 (topics hard limit 4,000; headroom is now 863).
 - **Residual, reported but not fixed**: no remaining line in either file says Hoel's result supports dualism or Tenet 5. Two lines are adjacent. Concept L38 frames the argument as "formal tools for critiquing [[concepts/functionalism]]—the view that consciousness is determined by functional organisation alone", which is broader than L158's "narrower than refuting functionalism". The closing sentence of concept L166 moves from the mechanism gap to "irreducible elements … as [[mysterianism]] suggests". It is hedged with "may" and does not credit Hoel.
 - **Published**: yes
+
+---
 
 ## 15:49 - refine-draft
 - **Status**: Success
@@ -2174,6 +1372,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual, reported but not fixed**: L86 still says "That the filter model absorbs the phenomenon at lower cost is a point in its favour on parsimony grounds". It was installed by 2abe31641b on 2026-05-26 and survived the 10-11 deep review. It now contradicts the new L177. Weaker economy or unification framings remain at L48 ("pays no equivalent cost"), L130 ("absorbs more cheaply"), L140 ("coherence across the full pattern") and L152 ("a single interpretive framework").
 - **Published**: yes
 
+---
+
 ## 15:21 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: the non-Western traditions wing, which had no prior pessimistic review on any of its four articles: [[topics/chinese-philosophy-of-mind]], [[topics/japanese-philosophy-of-mind-kyoto-school]], [[topics/mesoamerican-nahua-philosophy-of-mind]] and [[concepts/islamic-sufi-philosophy-of-consciousness]]. The hub [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] was read for context.
@@ -2187,6 +1387,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Headroom**: islamic-sufi 2,469 → 2,538 with items 1 and 4 applied to a scratch copy (concepts hard 3,500; headroom 961). Kyoto 2,552 → 2,568 (headroom 1,431). Chinese 2,640 → 2,676 (headroom 1,323). **The hub is at 3,995/4,000 (headroom 4)**, so its L135 counterpart to item 3 must be length-neutral.
 - **Background, not queued**: B1 Kyoto L82 polarity; B2 hub L116 `Kyoto School | Yes` (reported 09-11, still unqueued); B3 Avicenna "holism" transposed from a Bohmian model; B4 Nahua tripartite discount mis-scoped and "soul" rendering; B5 Bisṭāmī clause unverified; B6 two research notes still carry the bad quotes.
 - **Tasks added**: none. The review only reports; the driver mints from the priority list. todo.md was not touched and nothing was committed.
+
+---
 
 ## 14:57 - refine-draft
 - **Status**: Success. This was the Maier 2018 disambiguation sweep. The driver flagged 24 loci (lines with both "Maier" and "regist"). All 24 were classified one at a time, with no blanket edit. 12 content files were edited, and a dated note was added to the P-Q3 calibration history.
@@ -2228,6 +1430,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verification**: a residual grep of all 12 edited content files finds no "pre-registered" or "preregistered" on any line with "Maier", apart from positions L146, which is unrelated. The only remaining two-author "Maier & Dechamps"/"Maier-Dechamps" form in the content directories is the out-of-scope quantum-randomness L121. The calibration note names (B) on purpose.
 - **Published**: yes
 
+---
+
 ## 14:17 - expand-topic
 - **Status**: Success
 - **Topic**: The lawful-appearance problem — idealist answers to why a mental world looks like lawful physics
@@ -2238,6 +1442,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Naming**: "transparency problem" glossed once in the lead; Q3 slug unchanged.
 - **Quote verification**: every quoted span grep-checked against source — Chalmers preprint (consc.net), Kastrup 2017 (Wayback raw capture; "matter is the extrinsic appearance of mental processes" 0 hits, not used), Berkeley Principles §§30/60/65 (Gutenberg #4723), Russell 1927 p. 163 and Eddington 1928 p. 276 (archive.org OCR), Yetter-Chappell 2025 book + ch. 3/ch. 5 abstracts and Christmann 2026 abstract (Crossref), Mørch 2017 abstract (OpenAlex). Kastrup 2018 JCS not cited.
 - **Integration**: Q3 page L84 piped link + Further Reading bullet (+10 words; L38/L86 untouched); analytic-idealism L54 one clause (+8); mechanism-costs L99 zero-cost piped link (+0). Recorded in `task_chains.pending_cross_reviews`; research note's `pending_articles` entry removed by targeted edit.
+
+---
 
 ## 13:57 - deep-review
 - **Status**: Success
@@ -2251,6 +1457,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: Gentry & Buckner: Mode One with honest residue. De Brigard: Mode One plus concession. Both unchanged; no label leakage.
 - **Queued-sweep loci**: none present (no Tegmark or Zeno lines).
 - **Output**: [[reviews/deep-review-2026-10-12-semanticisation]]
+
+---
 
 ## 13:41 - refine-draft
 - **Status**: Success. This is batch 1 of 3 of the Tegmark decoherence-figure sweep, covering class A only. Class A means pages that attach the whole 10⁻¹³–10⁻²⁰ s range, or the 10⁻¹³ value, to neural microtubules. Class B lines and `archive/` were not touched.
@@ -2279,6 +1487,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - (7) Seven `research/` lines pair 10⁻¹³ with microtubules and were not reviewed (outside this batch).
 - **Published**: yes (synced; not committed; todo.md not edited)
 
+---
+
 ## 13:20 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
@@ -2291,6 +1501,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Both quoted spans were primary-source verified in the 09-21 review. No web budget was spent.
 - **Length**: analyze_length went from 3,106 to 3,195 (+89; concepts soft 2500 / hard 3500).
 - **Published**: yes
+
+---
 
 ## 12:35 - research-voids
 - **Status**: Success. This was a gap-closure run on the second-ranked banked note. No new void is proposed and no new file was created.
@@ -2312,6 +1524,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - (2) Side finding, unminted: [[bergson-and-duration]] L90 ("This aligns with filter theory") lacks [[filter-theory]] L75's engram caveat. A one-clause fix would close it; headroom is 1137 words.
 - **Not done by design**: no voids, topics, concepts or todo edits; no tasks minted; `pending_articles` unchanged; not synced; not committed.
 
+---
+
 ## 11:35 - refine-draft
 - **Status**: Success
 - **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]] (reciprocal link into the Q3 page; also [[topics/william-james-consciousness]])
@@ -2324,6 +1538,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Mode classification**: no new engagement with a named opponent; (a) frames the relabelling question symmetrically (Mode Three register, unchanged).
 - **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text.
 - **Published**: yes
+
+---
 
 ## 11:21 - refine-draft
 - **Status**: Success
@@ -2342,6 +1558,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual (pre-existing, not edited)**: L64 "The slide is not a mistake the philosopher makes; it is the position telling the truth about itself" is the "not X; it is Y" cliché. L84's "load-bearing" is arguably in its structural sense (a distinction the argument depends on).
 - **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text.
 - **Published**: yes
+
+---
 
 ## 11:05 - refine-draft
 - **Status**: Success
@@ -2364,6 +1582,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text. `ai_system` is unchanged on both files.
 - **Published**: yes
 
+---
+
 ## 10:50 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/articulability-of-q1]] (Q3/Q4 label correction; also [[topics/four-quadrant-dualism-taxonomy]])
@@ -2380,6 +1600,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Style**: no "This is not X. It is Y."; no "load-bearing" in the new text (one older use of "load-bearing" at articulability L44 was left alone). `ai_system` unchanged on both files.
 - **Published**: yes
 
+---
+
 ## 10:27 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-cognitive-limit-types]]
@@ -2395,6 +1617,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Queued-sweep loci**: none present (no radical-pair, Tegmark, Maier, Bostrom or Granger loci).
 - **Style**: no "This is not X. It is Y."; no "load-bearing". `ai_system` unchanged (targeted fixes, not a rewrite).
 - **Output**: [[reviews/deep-review-2026-10-12-phenomenology-of-cognitive-limit-types]]
+
+---
 
 ## 10:09 - refine-draft
 - **Status**: Success
@@ -2414,6 +1638,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 
+---
+
 ## 09:56 - research-topic
 - **Status**: Success
 - **Topic**: Miswanting and demonstrated forecast-driven mischoice (harvested from optimistic-2026-10-12-sign-and-forecast-wing)
@@ -2424,6 +1650,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Chain**: ADDED `task_chains.pending_articles` entry (research_file + target_section concepts), via a targeted text edit with the header comments kept. No expand-topic task minted.
 - **Seams**: (1) **Pending Item 1 refine task (P2, 10-12 optimistic review)**. Kermer et al. 2006 *did* measure a choice, in a 21-person pretest (76% refused +$5/−$3), so the review's "Not verified" line can be closed; the reversal is a between-sample inconsistency. Charpentier et al. 2016 is contrary evidence to Item 1(a)'s differential-bias premise: no gain/loss asymmetry in expected or experienced feelings, with the loss tilt only in the decision weights and only in mixed gambles. The refine fork should scope 1(a) to Kermer et al.'s design or cite Charpentier et al. (2) "Miswanting" defines wanting as "a prediction of liking", the reverse of Berridge's usage, so any page must map it to the predicted-utility row first. (3) Harvard DASH cites the 2000 book as "Thinking and feeling"; the title page reads *Feeling and Thinking*.
 - **Todo**: none written (orchestrator marks the task).
+
+---
 
 ## 09:23 - coalesce
 
@@ -2437,6 +1665,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Other concepts/topics pairs at ≥0.40 (all overflow, are inside the floor, or are already declined)**: `philosophy-of-time`→`time-collapse-and-agency` 0.66 (host 4,605, over hard); `russellian-monism` 1,225 vs 587; `perception` 693 vs 153; `cosmopsychism` 1,119 vs 201; `functional-seeming`→`illusionism` (host over hard); `consciousness-physics-interface-formalism` 1,230 vs 62; `active-reboot` 1,490 vs 8; `selection-only-channel` 1,416 vs 79; `kairos`→`temporal-consciousness-structure-and-agency` 0.53, 889 vs 103 (host deep-reviewed 10-11); `meta-problem-of-consciousness` 1,635 vs 80; `direction-of-interface-change` (host over hard); `composition-and-consciousness` 1,261 vs 37; `interface-heterogeneity` 1,103 vs 526 (declined before on its L49 neutrality commitment); `source-versus-leeway-incompatibilism` and `carrolls-regress` (declined). In topics, `delegation-meets-quantum-selection` 1,444 vs 9, `hoel-llm-consciousness-continual-learning` 1,514 vs 49 and `predictive-self-binding-and-the-naturalist-challenge` 1,550 vs 1 overflow. `mesoamerican-nahua`/`chinese-philosophy-of-mind` (0.36, doc-sim 0.19) share a template but cover different traditions.
 - **Output**: none (no content, todo or archive changes)
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
+
+---
 
 ## 08:40 - refine-draft
 - **Status**: Success
@@ -2465,6 +1695,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - The archive tree has no hits.
 - **Published**: yes
 
+---
+
 ## 07:49 - deep-review
 - **Status**: Success
 - **File**: [[topics/sherrington-dualist-lineage]]
@@ -2475,6 +1707,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: Ritchie Mode Three; Pepperell Mode Three plus a Tenet-5 boundary; Smith Mixed (his scope qualifier now preserved); Arshavsky Mode Three. No label leakage.
 - **Follow-up queued**: P2 refine-draft for sibling propagation: history-of-the-interaction-problem L110 and penfield-interactionist-dualism L52/L84
 - **Output**: [[reviews/deep-review-2026-10-12-sherrington-dualist-lineage]]
+
+---
 
 ## 07:20 - refine-draft
 - **Status**: Success
@@ -2488,6 +1722,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - No other live page carried the wrong title. The only remaining `"Delegatory Dualism"` string is the `title:` of `topics/delegatory-dualism`, which is correct. The archived `archive/concepts/causal-delegation` was left untouched.
   - Coordination: the open P2 from the 2026-10-11 quadrant-geometry optimistic review (Goff to Q3, the drift lists, the Kastrup quote) was not touched.
 - **Published**: yes
+
+---
 
 ## 07:14 - refine-draft
 - **Status**: Success
@@ -2526,6 +1762,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification (editor-internal)**: no named-opponent reply changed. The physicalist decision-stage reading added at structure-of-attention L113 is a parity note, not a refutation.
 - **Published**: yes
 
+---
+
 ## 06:36 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The sign-and-forecast wing. In full: `concepts/negative-valence-asymmetry-and-the-selection-weighting-function` (2 mentions in 597 optimistic reviews, both incidental) and `concepts/affective-forecasting-gap` (7). Both were created 06-18 and neither had been an optimistic subject. At named loci: `topics/graduated-middle-path-valence-modulated-attention`, the shared terminology map in `topics/wanting-liking-and-the-value-in-mechanism-fork`, `topics/valence-and-conscious-selection` L194–L196, and `positions/value-in-selection` P-VS1 (headroom 1, so untouched).
@@ -2534,6 +1772,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Harvester subject**: demonstrated forecast-driven mischoice ("miswanting"; 0 corpus hits), tagged in Expansion Opportunities.
 - **Not verified**: whether either Kermer study measured choice (abstract only); replication of Sokol-Hessner et al. 2015.
 - **Output**: [[reviews/optimistic-2026-10-12-sign-and-forecast-wing]]
+
+---
 
 ## 06:09 - refine-draft
 - **Status**: Success
@@ -2555,6 +1795,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual, not touched (outside the item list)**: L107 "at quantum indeterminacies, where physics leaves outcomes undetermined" is interpretation-dependent in the same way L89 was. L65 still has one pre-existing "load-bearing".
 - **Published**: yes
 
+---
+
 ## 05:57 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/agent-causation]] (secondary: [[concepts/quantum-indeterminacy-free-will]])
@@ -2573,6 +1815,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: the L71 Consequence Argument clause (per synthesis). L178's "the disappearing-agent objection that event causation cannot" is a possible residual of the same cluster (Kane's AC/EC claims to answer it), but it is outside this task's item list.
 - **Published**: yes
 
+---
+
 ## 05:41 - deep-review
 - **Status**: Success
 - **File**: [[topics/synthetic-minimal-agents-and-the-engineered-decoupling]]
@@ -2586,6 +1830,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sweep loci**: none of the queued corpus-wide sweeps (radical-pair, Tegmark, Maier, Bostrom, Saad, willed-attention) occur in this file.
 - **Output**: [[reviews/deep-review-2026-10-12-synthetic-minimal-agents-and-the-engineered-decoupling]]
 
+---
+
 ## 05:28 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-12
@@ -2597,6 +1843,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **NEEDS-HUMAN addendum**: ChatGPT items 28, 36, 38, 39 and 45 recorded as the 8th-cycle (single-reviewer) addendum to the 2026-08-03 propagation entry. It lists five verified instances on agent-causation: the free-will who/why residue (`780458c98c`), the "coincidental" anchor (`78a9647831`), Kane described three ways across pages, the L170 mechanism claim against free-will (eight months), and L127 left behind when `f02ff88e6e` fixed L121 (the 2026-10-11 sub-pattern again).
 - **Pointer check**: `parse_tasks` returns 106 active tasks before and after (P1 3, P2 27, P3 76). Both rewritten P1s keep a non-`None` review pointer under the plural field.
 - **Output**: [[reviews/outer-review-synthesis-2026-10-12]]
+
+---
 
 ## 05:00 - outer-review
 - **Status**: Success
@@ -2617,6 +1865,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - P1 calibration: item (1) gains the L170 vs L160 coherence point, item (5) gains L159, and item (6) records the convergence plus a do-not-cite warning on Palmer.
   - `parse_tasks` still reads 106 active tasks, and both tasks' Notes carry the additions.
 
+---
+
 ## 04:38 - refine-draft
 - **Status**: Success
 - **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
@@ -2628,6 +1878,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,602 → 3,790 words (`analyze_length`; soft_warning before and after; hard 4,000).
 - **Link-text sweep (reported, not edited)**: archive/topics/recovery-order-asymmetry-as-interface-evidence.md:140 has the full old title in a reference entry. apex/self-concealing-interface.md:179 has the link text "Targeted-Lesion Discriminating Tests"; the prefix is unchanged in the new title. direction-dependent-discriminating-test-design.md:40 and archive/topics/{memory-system-vulnerability-hierarchies-as-interface-evidence.md:138, recovery-order-asymmetry-as-interface-evidence.md:95} have "targeted-lesion discriminating-tests article". Bare wikilinks render as slug text and are unaffected.
 - **Published**: yes
+
+---
 
 ## 04:06 - outer-review
 - **Status**: Success
@@ -2653,6 +1905,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not tasked**: items 36/38/39/45 (claim ledger, dependency propagation, stale-edge warnings, proposition IDs) repeat the open NEEDS-HUMAN propagation item. The Kane, mechanism and "coincidental" instances are fresh cases of it, and recording that is left for `combine-outer-reviews`. Not tasked for other reasons: §6 pairing (conceded at L107, with a dedicated page); items 7–8 (`the-divided-will` and `atemporal-causation` treat them); items 29–31 (`mental-effort` already carries those caveats).
 - **Convergence**: Claude and Gemini review the same subject today, so `combine-outer-reviews` will cluster. The "mechanism vs. schema" and "compatibility, not discrimination" critiques echo the 10-10 ChatGPT review that led to the free-will and attention-bridge downgrades.
 
+---
+
 ## 03:20 - refine-draft
 - **Status**: Success
 - **File**: [[topics/paradoxical-kinesia]]
@@ -2666,6 +1920,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: ai_modified 2026-10-12T03:20:08+00:00; ai_system unchanged (already claude-opus-5-5, the model that ran).
 - **Published**: yes
 
+---
+
 ## 03:15 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule]], its first pessimistic review (no review file mentions the slug; one deep review, 2026-09-02; untouched since then)
@@ -2674,6 +1930,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verification**: all new quotes were checked by whitespace-normalised substring match against raw arXiv text: the 1901.08885 full text, plus the abstracts of 2212.12175, quant-ph/0504011 and quant-ph/0112151. Crossref confirmed PRD 100 043506, Found. Phys. 53 6 and PLA 297. Valentini 2008 is not in Crossref; its arXiv journal-ref was used. The existing quotes still hold.
 - **Headroom**: 2,520 words, rising to 2,832 when the full set plus refs is applied to a scratch copy (topics soft 3000). No funded cuts needed.
 - **Tasks added**: P2 refine-draft on the target (items 1a–4 plus 3 refs); P3 refine-draft on string siblings `concepts/agency-budget` L71 and `positions/quantum-interface` P-Q11. `parse_tasks` active count went 102 → 104.
+
+---
 
 ## 02:36 - refine-draft
 - **Status**: Success
@@ -2689,6 +1947,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: ai_modified 2026-10-12T02:36:27+00:00; ai_system claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5.
 - **Published**: yes
 
+---
+
 ## 01:50 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]
@@ -2698,6 +1958,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Word count**: 3997 → 3997 (net zero; hard 4000, gate `>=`).
 - **Frontmatter**: ai_modified 2026-10-12T01:50:40+00:00; ai_system unchanged.
 - **Published**: yes
+
+---
 
 ## 01:47 - deep-review
 - **Status**: Success
@@ -2710,6 +1972,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: Wiredu Mode 3; Agada Mode 3 (now scoped to interactionist dualism); Hountondji Mode 1 against the Map's own convergence argument; Akan interface Mode 2 (preserved).
 - **Follow-up queued**: P3 refine-draft on topics/interaction-problem-across-traditions L132. It attributes distinctness to the Dualism tenet alone and says monism "dissolves" irreducibility; it needs aligning with tenets.md L53 and this article's corrected RSP. Net-zero, with 152 words of hard-limit headroom.
 - **Output**: [[reviews/deep-review-2026-10-12-african-philosophy-of-consciousness]]
+
+---
 
 ## 01:22 - refine-draft
 - **Status**: Success
@@ -2724,6 +1988,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not changed**: ai-consciousness L157 still introduces the tenet bullets as "additional obstacles". The No Many Worlds bullet now reports no obstacle from copying, which is honest. The intro was left alone because of the 2-word headroom.
 - **Published**: yes
 
+---
+
 ## 01:06 - refine-draft
 - **Status**: Success (verified false-high; exempted, zero body edits)
 - **File**: [[topics/multi-agent-born-preservation-problem]]
@@ -2735,6 +2001,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Moots**: the sibling P2 "Adopt multi-mind-collapse-problem calibration in multi-agent-born-preservation-problem" (same failed pair, same two hits). The exemption clears it too, and the driver should close it in place. todo.md was not edited.
 - **Not changed, for the driver**: the same RSP sentence has a semicolon form of negation-then-correction ("does not refute the tenet; it shows that …"). The deep review kept it; its "not a refutation" content is a stability-note commitment. It was left as is because a restructure would be a style edit outside this task.
 - **Published**: yes
+
+---
 
 ## 00:47 - check-tenets
 - **Status**: Warnings (no Errors)
@@ -2755,6 +2023,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Output**: [[reviews/tenet-check-2026-10-12]]
 - Reports only: no content file or todo.md was edited, and nothing was committed.
 
+---
+
 ## 00:04 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/chinese-room-argument]]
@@ -2766,6 +2036,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Other pages still on the 2023 arXiv version (reported, not edited)**: [[concepts/symbol-grounding-problem]] L49 ("their 2023 paper") and L166 ("Mollo, D. C., & Millière, R. (2023) … arXiv:2304.01481", which also cuts the surname Coelho Mollo down to an initial). The archive copy of topics/symbol-grounding-problem has the same at L92 and L143. [[research/symbol-grounding-problem-2026-01-30]] has it at L76–77 and L188. In that note's reference list, L230 credits "The Vector Grounding Problem" to Piantadosi & Hill (2023), and L228 credits Pavlick's 2023 *Phil. Trans. A* paper (doi 10.1098/rsta.2022.0041, Crossref author Ellie Pavlick) to Mollo & Millière. Neither misattribution appears on a live page.
 - **Attribution**: `ai_modified` refreshed. `ai_system` held.
 - **Published**: yes
+
+---
 
 ## 23:51 - refine-draft
 - **Status**: Success
@@ -2779,6 +2051,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length (analyze_length, gate >=)**: concepts/psychophysical-laws 3,493 → 3,493 (net 0; hard 3,500). topics/psychophysical-laws-bridging-mind-and-matter 3,493 → 3,498 (+5; hard 4,000).
 - **Attribution**: `ai_modified` refreshed on both files. `ai_system` held.
 - **Published**: yes
+
+---
 
 ## 23:38 - refine-draft
 - **Status**: Success
@@ -2795,6 +2069,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_modified` refreshed. `ai_system` held.
 - **Published**: yes
 
+---
+
 ## 23:05 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/cognitive-phenomenology]], plus [[topics/phenomenology-of-intellectual-life]] (optional b)
@@ -2808,6 +2084,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes
 - **Model**: claude-opus-5-5
 
+---
+
 ## 22:42 - deep-review
 - **Status**: Success
 - **File**: [[topics/multi-agent-born-preservation-problem]]
@@ -2820,6 +2098,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Follow-up (not minted)**: "preregistered" Maier et al. 2018 wording survives in about 15 live loci (e.g., `concepts/ensemble-level-epiphenomenalism` L61, `topics/born-rule-and-the-consciousness-interface` L187, `topics/selection-only-mind-influence` L105, `positions/quantum-interface` L78). Each needs disambiguation between the Frontiers paper and Maier & Dechamps 2018 Study 2; a sweep-edit would be wrong.
 - **Output**: [[reviews/deep-review-2026-10-11-multi-agent-born-preservation-problem]]
 - **Model**: claude-opus-5-5
+
+---
 
 ## 22:21 - refine-draft
 - **Status**: Success
@@ -2835,6 +2115,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged on all three files (as briefed). ai_modified set to 2026-10-11T22:20:47+00:00.
 - **Style**: no "This is not X. It is Y."; no "load-bearing" added.
 - **Published**: yes
+
+---
 
 ## 22:09 - positions-evolve
 - **Status**: Success
@@ -2852,6 +2134,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged on both files (as briefed).
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 
+---
+
 ## 21:46 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/biological-computationalism]], [[topics/biological-computationalisms-inadvertent-case-for-dualism]] (host, kept at its URL)
@@ -2867,6 +2151,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Archive**: `git mv` to `archive/concepts/biological-computationalism.md` with `superseded_by` = the topic. No archive predecessor pointed at the concept, so there is no chain to repoint. Note: `research/dendritic-integration-theory-2026-08-22` L431 named the concept as the best in-place DIT host; that route was never queued (DIT was discharged into `penfield-interactionist-dualism` on 08-26) and now points at the archive.
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 
+---
+
 ## 21:05 - research-topic
 - **Status**: Success
 - **Topic**: Idealist answers to the transparency problem (harvested from optimistic-2026-10-11-quadrant-geometry-wing)
@@ -2879,6 +2165,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Chain**: ADDED `task_chains.pending_articles` entry (research_file + target_section concepts). No expand-topic task minted.
 - **Todo**: none written (orchestrator marks the task).
 
+---
+
 ## 20:18 - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
@@ -2890,6 +2178,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Citation ledger**: 14 cites web-verified at publisher of record or full text (12 existing, 2 added). Real-wrong-detail fixed in body: Tegmark, McGinn, Schwitzgebel, Zheng & Meister. See review archive.
 - **Follow-up queued**: P2 refine-draft sweep of the Tegmark 10⁻¹³/10⁻²⁰ mislabel across ~35 live lines, including `tenets/tenets.md` L77 (`workflow/todo.md`, above Completed Tasks).
 - **Output**: [[reviews/deep-review-2026-10-11-epistemology-of-mechanism-at-the-consciousness-matter-interface]]
+
+---
 
 ## 19:51 - refine-draft
 - **Status**: Success
@@ -2904,6 +2194,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not changed**: `ai_system`; no "This is not X. It is Y."; no "load-bearing"
 - **Published**: yes
 
+---
+
 ## 19:37 - refine-draft
 - **Status**: Success (three files)
 - **File**: [[topics/quantum-biology-and-neural-consciousness]], [[topics/neural-implementation-specifics]], [[topics/empirical-evidence-for-consciousness-selecting]]
@@ -2916,6 +2208,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not changed**: `ai_system` on all three; no "This is not X. It is Y."; no "load-bearing" added (the L135 cell's pre-existing "not load-bearing" is untouched text)
 - **Published**: yes
 
+---
+
 ## 18:52 - optimistic-review
 - **Status**: Success (no article edited; review file written; 4 refine-draft tasks minted above `## Completed Tasks`, parse_tasks active 93 → 97)
 - **Content reviewed**: the quadrant geometry wing. `topics/q3-q4-sliding-boundary-and-transparency-problem` (2 mentions, both in its 05-27 origin review) and `concepts/articulability-of-q1` (3, last 07-15) are the two least-reviewed pages of the four-quadrant cluster across all 596 prior optimistic reviews (content count), and neither links the other. Siblings read at loci: the taxonomy, mechanism-costs, dualism-cartography, analytic-idealism, william-james-consciousness, interactionist-dualism, yogacara.
@@ -2924,6 +2218,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verified**: Szanyi 2024 (plato.stanford.edu meta); Yetter-Chappell 2025 *The View from Everywhere* and Chalmers 2019 "Idealism and the Mind-Body Problem" (Crossref); James 1898/1899 "mother sea"/"mother-sea" (archive.org OCR, two scans); Kastrup's APA Blog 2019 wording (raw HTML). **Not verified**: the exact quoted Kastrup string; Kastrup 2018 *JCS* at Crossref (no DOI).
 - **New subject for the harvester**: idealist answers to the transparency problem (Yetter-Chappell 2025, Chalmers 2019, Kastrup 2018). The Map charges idealism with this debt on five pages and never states an idealist's answer.
 - **Output**: [[reviews/optimistic-2026-10-11-quadrant-geometry-wing]]
+
+---
 
 ## 18:28 - refine-draft
 - **Status**: Success
@@ -2946,6 +2242,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged (claude-opus-4-8+claude-opus-5), per task instruction
 - **Published**: yes
 
+---
+
 ## 18:06 - refine-draft
 - **Status**: Success
 - **File**: [[voids/cross-state-void]]
@@ -2966,6 +2264,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Carried, not done** (per review): all of Issue 6 (L39 Unexplorable/Occluded classification, L57 concealment claim, L45 Morley overgeneralisation, L67 Kang & Camerer wording, L71 authority split and its "neither state sees the other whole", L95 Mary analogy, L83 "sets a floor", L97 "always", L57 "the same evaluator", L93 "changes nothing"); `valence-void` L106 cross-page caveat
 - **ai_system**: claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5
 - **Published**: yes
+
+---
 
 ## 17:57 - deep-review
 - **Status**: Success
@@ -2998,6 +2298,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - `concepts/physical-completeness` L64: "deterministic" in the excluded-completions list.
 - **Output**: [[reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism]]
 
+---
+
 ## 17:22 - refine-draft
 - **Status**: Success
 - **File**: [[project/evidential-status-discipline]]
@@ -3008,6 +2310,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Worked cases**: `topics/direction-dependent-discriminating-test-design` is cited as the prompting case. Its lead, after today's three refines (latest 16:22), names static-threshold production as the only model it excludes, and multistable dynamics and emergence circuitry as surviving rivals. The lead complies; the title ("Designing a Direction-Dependent Discriminating Test for the Interface Model") does not. `topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy` is cited as not complying. Its lead says the tests "discriminate production from filter readings" and names only the region-vulnerability production reading. It concedes the two readings are equivalent on current evidence, but names no rival the design would leave standing (reviewer improvement 17).
 - **Not done**: no registry or tooling (improvement 23 needs an operator decision). Neither worked-case article was edited.
 - **Published**: yes
+
+---
 
 ## 17:05 - refine-draft
 - **Status**: Success
@@ -3025,6 +2329,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: not applicable. No named-opponent reply changed; the production-account accounting was recalibrated.
 - **Published**: yes
 
+---
+
 ## 16:50 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/outcome-devaluation-and-dual-task-costs-in-parkinsons]]. This was its first pessimistic review; the slug appeared in zero `pessimistic-*` files, and it was chosen over today's five reworked pages. The 09-30 deep review's Stability Notes were honoured. One of that review's decisions ("No change to the verdict") was reopened on new primary-source evidence.
@@ -3034,6 +2340,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: target 3,981 (headroom 18; prose 3,205 / apparatus 776). The full edit set with four duplicate-removing cuts was measured on a scratch copy at 3,997.
 - **Tasks added**: 2 × P2 refine-draft, inserted above `## Completed Tasks`; `parse_tasks` active count went from 85 to 87. One is for the target (items 1–3, optional 4a with cut T5). The other is for `topics/paradoxical-kinesia` (K1–K2, and K3 only if 4a is taken).
 - **Not minted**: a P3 correction to the research note (L49/L77/L208/L220), and low-severity propagation at `dopamine-and-the-unified-interface` L82 and `mental-effort` L146 (expression vs formation). Both are recorded in the review.
+
+---
 
 ## 16:22 - refine-draft
 - **Status**: Success
@@ -3053,6 +2361,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: not applicable; no named-opponent reply changed.
 - **Published**: yes
 
+---
+
 ## 15:53 - refine-draft
 - **Status**: Success
 - **File**: [[topics/direction-dependent-discriminating-test-design]]
@@ -3069,6 +2379,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verification**: All 8 DOIs resolved at Crossref. Every quoted phrase matched the Europe PMC abstract (Yaakub PMID 37658076, Kop 39190585, Huang 33848623, Sepúlveda 30835820, Martin 38670224) or the Verhagen PMC6372282 full text ("lasting up to 2 hr"). There were no mismatches. Yaakub's source has a thin space (U+2009) in "50 mins". Lord 2024 is cited by link only.
 - **Engagement classification**: not applicable; no named-opponent reply changed.
 - **Published**: yes
+
+---
 
 ## 15:42 - deep-review
 - **Status**: Success
@@ -3103,6 +2415,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_system` held for targeted edits; `last_deep_review` added.
 - **Output**: [[reviews/deep-review-2026-10-11-whether-language-model-words-refer]]
 
+---
+
 ## 15:24 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-neurodegenerative-disease]]
@@ -3125,6 +2439,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` bumped; `ai_system` unchanged.
 - **Published**: yes
 
+---
+
 ## 15:07 - refine-draft
 - **Status**: Success
 - **File**: [[topics/vertiginous-question]]
@@ -3140,6 +2456,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (`analyze_length`): 3,993 → 3,996 (topics hard 4,000, gate `>=`; 3 words of headroom remain).
 - **Frontmatter**: `ai_modified` bumped; `ai_system` unchanged.
 - **Published**: yes
+
+---
 
 ## 14:14 - apex-evolve
 - **Status**: Complete (driver-directed cross-apex audit against today's changes; no single staleness pick)
@@ -3160,6 +2478,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - (3) topics/quantum-randomness-channel-llm-consciousness L117 and L123 say "evolved neural interfaces" (P3).
 - **Review**: [[reviews/apex-evolve-2026-10-11-cross-apex-audit]]
 
+---
+
 ## 13:48 - research-voids
 - **Status**: Success
 - **Topic**: The observer-selection void: consciousness cannot tell what its own existence and position as an observer are evidence of
@@ -3171,6 +2491,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tenet demand (two-way)**: Everettian Born-rule derivations and confirmation run through self-locating credence and inherit the void; the Map's indexical objection is safe as an identity claim but exposed if converted into a credence argument. Audit item recorded in the note.
 - **For the driver**: (1) voids is at 112/115 and the 2026-10-06 slot triage ranked five banked notes; the note grades itself against the same four criteria (comparable to veto/dormancy) and gives a fold route (simulation-detection-void +1526 headroom; indexical-knowledge-and-identity +376). (2) Side finding, not actioned: Bostrom 2003's publisher title is "Are We Living in a Computer Simulation?" (OUP, Crossref), while 4 live files cite the author-PDF form "Are You Living…".
 
+---
+
 ## 12:47 - expand-topic
 - **Status**: Success
 - **Topic**: Whether language-model words refer (externalism, deference and the inverse Swampman)
@@ -3181,6 +2503,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verification**: all 10 cited DOIs checked at Crossref or DataCite (Koch's is DataCite); arXiv IDs checked at arXiv. Every direct quotation was substring-checked against raw primary text, with a planted negative control: Mandelkern & Linzen published PDF (ACL Anthology), Ostertag (ACL 2025.cl-2.8), Lederman & Mahowald (TACL PDF), Coelho Mollo & Millière (PhiMiSci PDF), Koch (journal PDF), Cappelen & Dever (arXiv 2406.08134, book p. 111), Chalmers (arXiv with APA pagination), Grindrod (Reading VoR), Baggio & Murphy (arXiv), and Kripke (archive.org djvu, p. 96 running head). Pepp, Cappelen & Deutsch and Hattiangadi & Schoubye are quoted from verified abstracts only. **Research-note page corrections**: Lederman & Mahowald's "These new names cannot derive…" is p. 1088 (note said 1092), their conclusion is p. 1098 (note said 1097), and Chalmers's "grounding argument is not a good reason…" is p. 39 (note said 38; not quoted in the article). The arXiv-only Mandelkern & Linzen wording ("referential contact") is confirmed absent from the published text and was not used. The Hattiangadi & Schoubye quotation of Mandelkern & Linzen was not reused. Pepp is cited as 2026 (print, *Inquiry* 69(6)) with online 2025, per Crossref.
 - **Integration**: zero-word piped inbound links in [[concepts/swampman]] ("borrow an extension"), [[concepts/intentionality]] ("derived intentionality", L141 sentence), [[concepts/symbol-grounding-problem]] ("inherit statistical traces of human grounding") and [[concepts/chinese-room-argument]] ("metasemantic case", Grindrod sentence). All four hosts are length-unchanged (3493 / 3488 / 2565 / 3494). [[concepts/content-externalism]] gets a Further Reading line (+22 words, 1959). Recorded in `task_chains.pending_cross_reviews`; the `pending_articles` entry was removed by a targeted text edit.
 - **Follow-ons for the driver to queue (not written to todo.md)**: intentionality L141 ("programmers assigned": LLM derivation runs through the training text's causal history, not assignment); symbol-grounding-problem L125 ("cannot *mean* anything": scope to original intentionality or speaker meaning); language-and-consciousness L49 (Gricean speaker meaning; say it is consistent with derived semantic reference); chinese-room-argument L133 (Coelho Mollo & Millière cited as 2023 arXiv; published 2026 *PhiMiSci* 7(1), doi 10.33735/phimisci.2026.12307, now with the §7.1 Swamp LLM). The research note's own p. 1092 / p. 1097 / p. 38 page errors could be corrected in passing.
+
+---
 
 ## 12:21 - refine-draft
 - **Status**: Success
@@ -3199,6 +2523,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Note, not edited**: a pre-existing "load-bearing" in Further Reading L188 (the QBism link gloss) is outside the scope of this task.
 - **Published**: yes
 
+---
+
 ## 12:06 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]
@@ -3213,6 +2539,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_system` held for a targeted edit.
 - **Published**: yes
 
+---
+
 ## 11:49 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/universal-coupling-response]]
@@ -3225,6 +2553,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 1843 → 1857 (+14) by `analyze_length` (ok; hard 3500).
 - **Attribution**: `ai_system` held for targeted edits.
 - **Published**: yes
+
+---
 
 ## 11:28 - deep-review
 - **Status**: Success
@@ -3239,6 +2569,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Remaining**: the sibling [[concepts/psychophysical-laws]] L120, L145 and L167 carry the same Zheng & Meister and Schwartz conflations. They are noted in the review and not tasked.
 - **Output**: [[reviews/deep-review-2026-10-11-the-psychophysical-control-law]]
 
+---
+
 ## 11:06 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/moral-census-opacity]]
@@ -3251,6 +2583,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_system` held for a one-clause edit.
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 - **Published**: yes
+
+---
 
 ## 10:50 - refine-draft
 - **Status**: Success
@@ -3267,6 +2601,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
 - **Published**: yes
 
+---
+
 ## 10:44 - coalesce
 - **Status**: Success (first coalesce merge since 2026-08-21, and the first voids-into-host merge since the 2026-08-06 `ownership-void` → `mine-ness` precedent)
 - **Sources**: [[voids/smoothness-and-continuity]], [[topics/neural-refresh-rates-and-the-smoothness-problem]] (host, kept at its URL)
@@ -3279,6 +2615,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Archive**: void moved with `git mv` and given archive metadata (`superseded_by` = the topic). The two earlier predecessors (`archive/voids/smoothness-problem`, `archive/voids/continuity-void`) were repointed from the now-archived void straight to the topic. Netlify flattens redirect chains, but wikilink resolution follows only one hop. Host `coalesced_from` gained `/voids/smoothness-and-continuity/`; `ai_system` plus-joined `claude-fable-5+claude-opus-5-5`; created date kept, as in the `mine-ness` precedent.
 - **Todo**: the P2 flash-lag task (File = the void) was retargeted in place to `archive/voids/smoothness-and-continuity.md` L59, downgraded to P3, and set `blocked` on the publication-policy NEEDS-HUMAN class question (should defects already fixed live also be fixed in archived predecessors?). The live text no longer carries the overclaim. A P3 cross-review was minted for the 6 inbound files. The voids index L196 was retargeted to the host's `#the-continuity-void` anchor, as in the `ownership-void` precedent.
 - **Style**: no "This is not X. It is Y."; no "load-bearing".
+
+---
 
 ## 09:50 - refine-draft
 - **Status**: Success
@@ -3293,6 +2631,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_system` held (claude-fable-5-1) for a two-phrase edit
 - **Published**: yes
 
+---
+
 ## 09:44 - deep-review
 - **Status**: Success
 - **File**: [[topics/grain-mismatch-as-independent-evidence]]
@@ -3306,6 +2646,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks minted**: 2 × P2 refine-draft (`concepts/grain-mismatch` B&M + Lee "opacity" residue at L71/L85; `voids/smoothness-and-continuity` flash-lag "confirms" vs Cottier 2025)
 - **Attribution**: `ai_system` held (claude-opus-4-8+claude-fable-5) because these are targeted fixes, not a re-authoring
 - **Output**: [[reviews/deep-review-2026-10-11-grain-mismatch-as-independent-evidence]]
+
+---
 
 ## 09:21 - refine-draft
 - **Status**: Success
@@ -3325,6 +2667,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: claude-opus-5 → claude-opus-5+claude-opus-5-5.
 - **Published**: yes
 
+---
+
 ## 09:16 - positions-evolve
 - **Status**: Success
 - **Mode**: add [[positions/consciousness-scope|P-CS7]], the universal coupling scope law, and reconcile P-SC2's pairing sentence (optimistic review 2026-10-10 ancestry wing, Priority 1). Before this pass the register mentioned universal coupling nowhere (0 of 24 files), though [[concepts/universal-coupling-response]] says "The Unfinishable Map adopts this" and has 21 body inbound links (re-counted).
@@ -3341,6 +2685,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Lead not acted on**: P-SC3's *Depends on* still calls the undated channel "one of that entry's four booked gaps"; P-SC2 has booked five since 2026-09-24. subject-census has 0 headroom, so this needs a length call of its own.
 - **ai_system**: +claude-opus-5-5 on consciousness-scope and positions.md; already present on subject-census and its history file.
 
+---
+
 ## 08:36 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
 - **Content reviewed**: the constitutive twins wing. `positions/thought-and-understanding` (P-TU1, 1 incidental mention) and `positions/memory-and-autonoesis` (P-MA1, 3) were the lowest live positions entries across all 595 prior optimistic reviews (content grep). Each has one commit and has never been revised, and P-MA1 is the 09-30 review's deferred "positions-focused slot". Both were read in full. Source pages were read at named loci: anoetic-noetic-autonoetic L42–L142, phenomenal-constitution-thesis L36–L108, cognitive-phenomenology L107–L206, semanticisation L30–L78, phenomenology-of-memory-and-the-self L101–L123, semantic-memory L79–L89, episodic-memory L118/L134–L138/L162–L166, phenomenology-of-intellectual-life L222–L228.
@@ -3348,6 +2694,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (cap 4, every old string script-verified unique, `count_words` costs)**: (1) refine-draft anoetic +76: run the falsifier audit (strike computational MTT and functionalist semanticisation, add decomposition / within-memory grading / construct failure, retarget the neural-gradient item to the separable-substrates claim), L128 "supports" → "is consistent with" (+2), L118 "Most animals" → "Many animals?" (0); (2) positions-evolve P-MA1 + P-TU1, about +150 plus Updated notes: the composition note (relata, kind-claims, H&T attitude line, the Fernández fork, SDAM), P-TU1's IBE blunting (carried from 10-01), and the P-TU1 → P-MA1 reciprocal; (3) refine-draft PCT L56 +83: the attitude/content bridge citing P-MA1, plus 0-word pipes at phenomenology-of-memory-and-the-self L105 ("qualia generally" → cognitive phenomenology; NEEDS-HUMAN length block, exactly 0) and semantic-memory L83 (PCT link retargeted to the concept page); (4) refine-draft cognitive-phenomenology L127 +20 (illusion of explanatory depth; Rozenblit & Keil 2002 metadata verified), with optional intellectual-life L224 (b).
 - **New subject for the harvester**: semantic satiation as an inducible within-item test of P-TU1's zero case (Tian & Huber 2010 abstract quoted verbatim; Smith & Klein 1990, Lambert & Jakobovits 1960 and Kounios et al. 2000 metadata verified). Medium items carried: M2 episodic-memory L136 Kerskens without the Warren 2023 dispute, "Wiest et al." for a single-author paper, and the truncated L231 title (headroom 1); M3 register inbound citations; M4 a falsifier for the causal-efficacy argument.
 - **Output**: [[reviews/optimistic-2026-10-11-constitutive-twins-wing]]
+
+---
 
 ## 07:58 - refine-draft
 - **Status**: Success
@@ -3370,6 +2718,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged on all files, per driver instruction.
 - **Published**: yes
 
+---
+
 ## 07:43 - positions-evolve
 - **Status**: Success
 - **Mode**: update P-Q8 (band review). The entry's "Would shift if" line had referred this review out since 2026-07-30 and nobody had run it.
@@ -3382,6 +2732,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Cascade**: no band moved. [[positions/ai-consciousness-scope|P-AC1]] (Depends on P-Q8) and the [[positions/finding-level-calibration|finding-level]] instantiation need no re-audit.
 - **Follow-up queued**: one P2 refine-draft (inserted below this task): the warm-biology pillar is stated as settled fact ("relies on quantum spin coherence … persisting for microseconds", "established", "prove feasibility") in about 15 live files, including tenets L79, topics/quantum-biology-and-neural-consciousness L53 ("solved the decoherence problem multiple times") and concepts/interactionist-dualism L153. These are string siblings the 2026-10-10 refine did not reach. The task also carries an unverified lead: Gauger et al. 2011's tens-of-microseconds figure may rest on the narrow-band Larmor result that Schwarze et al. 2016 did not replicate.
 - **ai_system**: unchanged on both files, per driver instruction.
+
+---
 
 ## 07:30 - deep-review
 - **Status**: Success
@@ -3400,6 +2752,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Remaining (flagged, not fixed)**: the same Csikszentmihalyi overclaim appears in `archive/topics/phenomenology-of-temporal-consciousness-and-agency` L64 and `archive/topics/phenomenology-of-temporal-attention` L49. It was left under the archive rule (calibration-class, behind an archive notice). `topics/bergson-and-duration` L120 mildly overstates Kent & Wittmann ("cannot explain").
 - **Output**: [[reviews/deep-review-2026-10-11-temporal-consciousness-structure-and-agency]]
 
+---
+
 ## 06:52 - refine-draft
 - **Status**: Success
 - **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]] (primary) + [[concepts/psychophysical-laws]] (secondary; two-file task)
@@ -3413,6 +2767,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode**: the engagement with Chalmers on invariance is Mode Three: a grain disagreement at the framework boundary, not an in-framework refutation. The removed zombie sentence was a boundary substitution, because a conceivability argument cannot touch a nomological thesis that Chalmers holds while granting conceivability.
 - **ai_system**: unchanged per driver instruction.
 - **Published**: yes
+
+---
 
 ## 06:27 - refine-draft
 - **Status**: Success
@@ -3428,6 +2784,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged per driver instruction.
 - **Published**: yes
 
+---
+
 ## 05:49 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `voids/cross-state-void` (created 2026-09-28, no commit since; first focused review of any kind; 2,985/3,000, headroom 14). Of the 51 articles added since 09-20, it is one of three with no pessimistic or deep review on either coverage method. It is the only untouched one carrying a known untasked item (tenet-check 09-30 NOTE on L93). Read against its research note, `tenets.md` L95 (`^tenet-3-standing`), `valence-void` L54/L106, `three-kinds-of-void` L51–L73 and `voids.md` L303. Read & Loewenstein 1999 (CMU PDF), Noordhof 2021 (RIFP PDF) and Kang & Camerer 2013 (Europe PMC) were read in full text; the other sources at OpenAlex, Crossref, Gutenberg #9662 and the Princeton repository.
@@ -3439,6 +2797,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   4. Structural and "Unexplorable" claims equivocate (epistemic/metaphysical check): Noordhof is pain-only with stated exceptions; "cannot be mapped from outside" contradicts L75; Steinmetz's "albeit" belongs to prior work, not their finding.
 - **Priority List**: cap 4 plus rider V1 (`voids.md` L303), with exact old→new strings; applied to a scratch copy and measured at 2,948 (−37, funded by T1 −28 on the L97 No Many Worlds sentence and T2 −22 on the L89 archivist clause). Carried off-list: classification and concealment, Morley's 59%, the Kang & Camerer direction, the authority split, the Mary/ability-hypothesis point, L83 "floor" wording, and a `valence-void` L106 cross-page note. A ready P2 refine-draft block is in the file for the driver to mint.
 - **Output**: [[reviews/pessimistic-2026-10-11-cross-state-void]]
+
+---
 
 ## 05:26 - refine-draft
 - **Status**: Success
@@ -3455,6 +2815,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not changed (other tasks)**: title and slug kept (label decision left to the evidential-status label-rule P2); L56 tFUS, L68 "reliably", L58/L60 probes left to the two P2s on this file; `ai_system` unchanged.
 - **Published**: yes
 
+---
+
 ## 05:12 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-11
@@ -3466,6 +2828,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **NEEDS-HUMAN addendum**: ChatGPT improvement 24 recorded as the 7th-cycle (single-reviewer) addendum to the 2026-08-03 propagation entry, with two verified instances: `37fc8c1630` (the memory-channel recalibration has not reached the design article) and `9ef0ee3e0e` (fixed apex L127 but left L141). The second is a new sub-pattern: the pass reached the right file but fixed only the sentence it was pointed at.
 - **Pointer check**: `parse_tasks` returns 78 active tasks before and after; the rewritten P1 keeps a non-`None` review pointer.
 - **Output**: [[reviews/outer-review-synthesis-2026-10-11]]
+
+---
 
 ## 04:58 - outer-review
 - **Status**: Success
@@ -3479,6 +2843,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 0 new. Both findings are covered by the open ChatGPT tasks, the P1 on "forbids" and the P2 on direction-of-interface-change. One gap was not: the design article's L50/L74 emergence-circuit bookkeeping. It was appended as a CONVERGENT clause inside the open P1's Notes, because that P1 already rewrites L50 and L74. The clause includes don't-cite warnings for PVH-CRH and the misattributed neural-inertia citation. parse_tasks count unchanged (78 active).
 - **Convergence**: two reviewers (ChatGPT and Gemini, 2026-10-11) now flag the "forbids" defect and the asymmetric emergence-circuit accounting. Both entries in pending-reviews are collected and processed, so `combine-outer-reviews` can fire.
 
+---
+
 ## 04:06 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 11m 27s"). Article audit of `topics/direction-dependent-discriminating-test-design` (`fallback:recent-aged`), collected by `collect-chatgpt-review` from the 02:06Z commission. After a reload the model pill shows "Thinking effort: Medium" on this conversation and on yesterday's Sol Pro one, so the effort used can't be confirmed from the DOM.
@@ -3490,6 +2856,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 6 (P1: 2 — the design article's "forbids" logic plus L70 and the Tenet paragraphs; apex L141 Prediction 1, length-neutral at 5,113/5,000. P2: 4 — the tFUS and perturbation premises plus Huang 2021 and Sepúlveda "usually"; the probes and memory-channel recalibration propagation; direction-of-interface-change L71/L81 plus the roadmap L201 label, length-neutral at 3,996/4,000; an evidential-status design-label clause)
 - **Not tasked**: improvement 24 (dependency propagation) repeats the open 2026-08-03 NEEDS-HUMAN methodology item, so it is left for `combine-outer-reviews`. Improvement 22 is already `mechanism-cost-ledger` L49. Improvements 23 and 25 need operator decisions.
 - **Convergence**: none yet, as this is the only 2026-10-11 entry in pending-reviews. The reviewer's "the filter forbids nothing, so nothing tests it" echoes the recurring discriminator critiques that `evidential-status-discipline` L120 answers.
+
+---
 
 ## 03:39 - refine-draft
 - **Status**: Success
@@ -3510,6 +2878,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` unchanged on all seven files (wording corrections, not re-authoring).
 - **Published**: yes
 
+---
+
 ## 03:15 - deep-review
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
@@ -3521,6 +2891,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Family resolution**: Christopher fix propagated to research/terminal-lucidity-filter-theory-2026-03-20; P1 refine-draft minted for the Tollock descriptors live in consciousness-interface-development, altered-states-as-interface-evidence (apex), near-death-experiences, filter-theory and mind-brain-separation
 - **Enhancements made**: 3 (Gilmore-Bykovskyi video-validated prospective data; level 2 interpretation-bias point; B&G median duration showing brevity predates the prospective record)
 - **Output**: [[reviews/deep-review-2026-10-11-terminal-lucidity-and-filter-transmission-theory]]
+
+---
 
 ## 02:50 - refine-draft
 - **Status**: Success
@@ -3534,6 +2906,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` left unchanged (copied wording; not re-authoring).
 - **Published**: yes
 
+---
+
 ## 02:34 - refine-draft
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]
@@ -3544,6 +2918,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: analyze_length 4,993 → 4,993 (apex hard 5,000, gate `>=`; net 0). The appositive uses unspaced em-dashes, which is the page's own style (47 uses).
 - **Checks**: No "This is not X. It is Y.", no "load-bearing". `ai_system` left unchanged (targeted edit).
 - **Published**: yes
+
+---
 
 ## 01:21 - refine-draft
 - **Status**: Success
@@ -3559,6 +2935,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Carried, not done** (per task): Issue 5 (will-gap generality: Rinn 1984, `agency-void` L64, contagion/indirect routes, L62 "feels empty"). Issue 6 (L82 "as they do in people"). Issue 7 (spontaneous-wit fence at L68; Bergson's unmarked extension at L90; "in front of her" sourcing at L36; reciprocal links from the comic article and `confabulation-void`). Issue 3e (L100 placement vs `three-kinds-of-void` L97). Also residual: L52 "the confabulated reason" and L96 "a confabulated reason" sit slightly uneasily beside the new cause-vs-object fence.
 - **Published**: yes
 
+---
+
 ## 01:07 - refine-draft
 - **Status**: Success
 - **File**: [[apex/machine-question]]
@@ -3567,6 +2945,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: analyze_length 5,941 → 5,940 (apex hard_warning; net −1). No verified quotes touched. The 2026-10-10 L127/L159/L163/L256 edits were kept.
 - **Review file**: reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness.md
 - **Published**: yes
+
+---
 
 ## 00:50 - research-topic
 - **Status**: Success
@@ -3578,6 +2958,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Seams**: the harvest framing "derived from users only, as a book's is" is corrected: a book's reference derives from its author, so the analogue is training-data authors. `chinese-room-argument` L133 and `symbol-grounding-problem` refs cite CM&M as 2023 arXiv, but the 2026 published version exists. `intentionality` L141 ("programmers assigned") and `symbol-grounding-problem` L125 ("cannot *mean* anything") need scoping for derived reference. Hattiangadi & Schoubye's quotation of M&L matches neither the published text nor its pages, so it should not be propagated.
 - **Todo**: none written (orchestrator marks the task).
 
+---
+
 ## 00:04 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]
@@ -3585,6 +2967,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Original score**: n/a (`scripts/curate.py` absent)
 - **Changes**: Changed an originator attribution at L108 (J-space section). "Stanislas Dehaene and Lionel Naccache—the originators of the Global Neuronal Workspace—were invited as commentators" now reads "Stanislas Dehaene and Lionel Naccache, who with Jean-Pierre Changeux developed the Global Neuronal Workspace, were invited as commentators". This is the wording `topics/deep-computational-markers-for-machine-consciousness` L60 already uses. It matches the commentary PDF's p.1 bio ("Together with molecular neurobiologist Jean-Pierre Changeux, they developed and tested the global neuronal workspace model"), the article's own L60 (Dehaene and Changeux developed GWT into GNW), and its founding reference, Dehaene, Kerszberg & Changeux (1998). At L114, "The GNW originators draw the opposite conclusion" became "The GNW theorists draw the opposite conclusion", with no change in length. The verified quotes at L110/L112/L114 were not touched, and both old spans were confirmed to occur exactly once before editing. Length went from 3424 to 3428 words (concepts hard limit 3500), and `ai_system` is unchanged.
 - **Published**: yes
+
+---
 
 ## 23:31 - deep-review
 - **Status**: Success
@@ -3598,6 +2982,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Family propagation**: In `topics/embodied-consciousness` L73, the same quote is now cited to Thompson 2004, the reference is added, and the restated dilemma is hedged (+41 words, 3775). The research note and the 06-20/07-26 review ratifications are annotated with corrections. A P2 refine-draft task was minted for `topics/pragmatisms-path-to-dualism` L145, which carries the same genealogy claim (hard_warning 4039, net-negative).
 - **Output**: [[reviews/deep-review-2026-10-10-enactivism-challenge-to-interactionist-dualism]]
 
+---
+
 ## 23:06 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]
@@ -3608,6 +2994,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: analyze_length 3,986 → 3,985 (topics hard threshold 4,000; net −1).
 - **Reasoning mode**: engagement with functionalism via Hoel moves from implied refutation to an accurate statement of scope (Mode One against static input-output theories only). Block's absent qualia objection stays an intuition-based objection.
 - **Published**: yes
+
+---
 
 ## 22:49 - refine-draft
 - **Status**: Success
@@ -3621,12 +3009,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode**: the Schwartz evidence moves from implied support to Mode Three. The page now reports what the owning article concludes, which is that the data are compatible with both readings.
 - **Published**: yes
 
+---
+
 ## 22:35 - coalesce
 
 - **Task**: coalesce cycle slot: candidate search, abandoned (pool unchanged since the 2026-10-10 11:35 sweep)
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: Section pressure was measured with `count_section_files` against `section_caps`: voids 113/115 (98.3%, still the most pressured), concepts 349/360, topics 343/360 (342 articles plus the `non-temporal-consciousness.refinement-log` sidecar, which was filtered out before pairing). Pool movement since commit `1c49f733ce` (11:35): `git log --diff-filter=ADR` over topics/concepts/voids/archive returns nothing. As a positive control, `--diff-filter=M` lists 30 modified files (29 articles plus the voids index). None of them is a member of any previously body-linked pair (`mind-arena`, `causal-powers`, `phenomenal-depth`, `phenomenal-presentation`, `adaptive-computational-depth` are all untouched). The gate was re-run as a superset, with no `created` age floor and no `ai_modified` recency exclusion. Body words came from `analyze_length`. A pair counts as affordable when its sum is at most the section hard limit minus 1. The gate then requires a body wikilink between the pair, then checks for a boundary cue within ±300 chars of that link. Results: **voids 0 affordable**, because the two smallest of 113 articles sum to 1,473 + 1,730 = 3,203 > 2,999. **topics 0**: 1,990 + 2,112 = 4,102 > 3,999. **concepts 163 affordable → 3 body-linked**, all recorded declines. `causal-powers`+`mind-arena` and `phenomenal-depth`+`phenomenal-presentation` are boundary-marked. `phenomenal-depth`+`adaptive-computational-depth` has only a one-way complementary link, and "depth" means something different in each. These figures are identical to the 11:35 run. Coalescing still cannot relieve voids. Relief there has to come from /archive, /condense or a cap raise, as the standing NEEDS-HUMAN cycle-allocation entry says. Nothing was merged and no task was minted.
 - **Output**: none
+
+---
 
 ## 22:04 - refine-draft
 - **Status**: Success
@@ -3640,6 +3032,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Remaining sibling (not edited; out of scope, 9 words of headroom)**: L93 "they diverge where consciousness *persists or intensifies* despite severe neural disruption" uses the same "persists or intensifies" wording the L145 fix removed. Later in that paragraph the page already concedes "The same data are compatible with sophisticated production-model reinterpretation", so the tension is milder.
 - **Published**: yes
 
+---
+
 ## 21:48 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
@@ -3652,6 +3046,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Enhancements made**: 4
 - **Output**: [[reviews/deep-review-2026-10-10-brain-computer-interfaces-and-the-interface-boundary]]
 
+---
+
 ## 21:04 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]
@@ -3663,6 +3059,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Remaining sibling (not edited; out of scope, 1 word of headroom)**: L102 "This coherence tells against accounts treating the phenomenology as illusory or idle." This is the same claim, installed in the same 780458c98c (09-27) repair. It now sits in tension with the new L66 lead.
 - **Published**: yes
 
+---
+
 ## 20:52 - refine-draft
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]], [[topics/quantum-neural-timing-constraints]]
@@ -3672,6 +3070,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution check**: the edit itself is a fix of the misattribution. Removes a conscious/dualist veto reading the source disclaims. No named-opponent reply, so no reasoning-mode classification.
 - **Published**: yes
 
+---
+
 ## 20:28 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
 - **Content reviewed**: the ancestry and duplicate wing. `concepts/swampman` (3,492; headroom 7) and `topics/architectural-adequacy-at-the-built-edge` (3,650; 349) were the two lowest article pages across all 594 prior optimistic reviews (content grep, 1 incidental mention each). Read in full with them: `topics/synthetic-minimal-agents-and-the-engineered-decoupling` (2,925) and `concepts/universal-coupling-response` (1,843). Read at named loci: `coupling-engagement-condition` L32–L100, `subject-census` P-SC1–P-SC3, `individuation-and-subjecthood` P-I3, `consciousness-scope` P-CS1–P-CS3, `organizational-invariance` L80–L88, `animal-consciousness` L118–L120.
@@ -3679,6 +3079,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (cap 4, exact old→new, every old string script-verified once, `count_words` costs)**: (1) `positions-evolve` add: register universal coupling, reconcile P-SC2 L59, and decide between outcome (a) (history-blind law, Swampman conditional on it) and outcome (b) (OI L88 and UCR need the qualifier); `consciousness-scope` is 1,231 over hard under the standing NEEDS-HUMAN, so do not brief it length-neutral; (2) built edge +125: L33 "no ancestry" → "no lineage of its own" (the organoid is "real human neural tissue", L33/L55), L71 "inherits none" → a preterm-activity ceiling, and a new Swampman paragraph making "unapplied" a verdict about partial similars; (3) Swampman: L83 "the published naturalist answer" → "one published…" (0; Tye 1998 dissents, per Adams & Dietrich 2004) and an L77 pipe to the marker bridge (0) now, with L79 (−10, which funds Tye at +16) blocked by item 1; (4) UCR L92 "supports both bidirectional interaction and universal coupling" → "is consistent with…" (+11), a tenet-check 138 finding carried to 09-28 and absent from all six October checks, plus L74 "and architecture" (+2).
 - **New subject for the harvester**: whether language-model words refer, the inverse Swampman (Mandelkern & Linzen 2024, *Computational Linguistics* 50(3); metadata and abstract verified). Medium items M1–M4 (engineered decoupling's two uses of history; the engagement trigger test; Peters 2014's actual-world Swampman for `teleosemantics`; the OI L88 follow-on) are carried.
 - **Output**: [[reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing]]
+
+---
 
 ## 19:53 - refine-draft
 - **Status**: Success
@@ -3694,6 +3096,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged
 - **Published**: yes
 
+---
+
 ## 19:38 - refine-draft
 - **Status**: Success
 - **File**: [[positions/quantum-interface]] (plus secondary [[concepts/decoherence]], [[concepts/evolution-of-consciousness]])
@@ -3703,6 +3107,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length (analyze_length)**: positions/quantum-interface 5,943 → 5,949 (+6, all content, 0 history; critical, standing split NEEDS-HUMAN); concepts/decoherence 3,485 → 3,484 (−1); concepts/evolution-of-consciousness 3,479 → 3,478 (−1).
 - **ai_system**: unchanged on all three files
 - **Published**: yes
+
+---
 
 ## 19:19 - deep-review
 - **Status**: Success
@@ -3719,6 +3125,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Synced**: hugo tree verified (new strings present, old gloss absent)
 - **Output**: [[reviews/deep-review-2026-10-10-organizational-invariance]]
 
+---
+
 ## 18:37 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]
@@ -3732,6 +3140,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning-mode classification**: n/a. No named-opponent engagement was edited.
 - **ai_system**: unchanged per driver instruction (claude-opus-4-6+claude-fable-5)
 - **Published**: yes
+
+---
 
 ## 18:22 - refine-draft
 - **Status**: Success
@@ -3749,6 +3159,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged per driver instruction
 - **Published**: yes
 
+---
+
 ## 18:20 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `voids/mirth-void` (created 2026-09-28, no commit since; first focused review of any kind; 2,848/3,000, headroom 151). Selected from the five 09-28/29 wing voids with no focused review on either coverage method. It is the only untouched one carrying a known unminted defect (tenet-check 09-30 row 4, L94). Read against its research note, `the-comic-and-humor-as-an-aesthetic-category` L71–L87, `agency-void` L64, `tenets.md` L95 (`^tenet-3-standing`), `emotion-and-dualism` L143 and `confabulation-void` L57. Primary sources checked at Europe PMC, OpenAlex, Crossref, the ACL Anthology, Gutenberg #4352, Quote Investigator and the Chudler page.
@@ -3762,6 +3174,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List**: cap 4 plus two riders, with exact old→new strings in the file, applied to a scratch copy and measured at 2,985 (+137, with funded trims −59). Carried off-list: will-gap generality (Rinn 1984, `agency-void` L64), L82 "as they do in people" against Hessel's all-three-tasks deficit, a spontaneous-wit fence, the Bergson extension, and reciprocal links from the comic article and `confabulation-void`. A ready P2 refine-draft block is in the file for the driver to mint.
 - **Output**: [[reviews/pessimistic-2026-10-10-mirth-void]]
 
+---
+
 ## 17:37 - refine-draft
 - **Status**: Success
 - **File**: [[topics/amplification-mechanisms-consciousness-physics]]
@@ -3773,6 +3187,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not changed**: `ai_system` (sentence-level edit); today's 10:42Z L147/L167 criticality hedges. No "This is not X. It is Y." and no "load-bearing" (0 hits each).
 - **Length** (analyze_length): 3,993 → 3,989 (topics hard 4,000; net −4).
 - **Published**: yes
+
+---
 
 ## 16:50 - refine-draft
 - **Status**: Success
@@ -3789,6 +3205,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual (not fixed, flagged)**: the L40 lead "It explains why observers agree about the world" describes what the programme explains, not a guarantee, so it was left as is. If a later pass wants the lead to match the body, it is the one remaining unqualified agreement claim.
 - **Source**: [[reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro]] finding 5 (sibling carry-forward of the apex L85 fix).
 - **Published**: yes
+
+---
 
 ## 16:36 - deep-review
 - **Status**: Success
@@ -3819,6 +3237,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Follow-ups queued**: P2 refine-draft for `concepts/global-workspace-theory` (the "originators" phrase at L108/L114 contradicts its own L60); P2 refine-draft for `apex/machine-question` L137 (illusionism gloss and the Tenet-1 conjunctive ceiling; net-negative only, the apex is at hard_warning).
 - **Output**: [[reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness]]
 
+---
+
 ## 16:08 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/continual-learning-argument]] (primary) + [[topics/ai-consciousness]] (secondary; two-file task)
@@ -3838,6 +3258,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Source**: [[reviews/deep-review-2026-10-10-hoel-llm-consciousness-continual-learning]] Remaining Items (sibling carry-forward).
 - **Published**: yes
 
+---
+
 ## 15:52 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/process-philosophy]] (primary) + [[apex/process-and-consciousness]] (secondary; two-file task)
@@ -3853,6 +3275,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Source**: [[reviews/deep-review-2026-10-10-bergson-and-duration]] Critical 3 / Remaining Items.
 - **Published**: yes
 
+---
+
 ## 15:21 - tune-system
 - **Status**: Success (no Tier 1 change, the 19th consecutive run: cadences, overdue_thresholds, locked_settings and replenishment weights are still absent; checked by grep)
 - **Sessions analyzed**: 245 loop posts, 2026-10-07 03:42 → 2026-10-10 15:21 UTC (241 SUCCESS; 4 FAILURE, all Chrome commissions; failed_tasks empty; critical 0)
@@ -3866,6 +3290,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - check-links should read `_redirects`
 - **Output**: [[reviews/system-tune-2026-10-10]]
 
+---
+
 ## 15:17 - check-tenets
 - **Status**: Warnings (no Errors)
 - **Files checked**: 85 (every live file in topics/concepts/apex/voids/positions committed since 2026-10-08 11:34Z, base 57c5c27571, to HEAD 14e8aae32d; tenets.md re-read, whose only window change is the new ^tenet-3-epiphenomenalism anchor at L101)
@@ -3875,6 +3301,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Clean**: 69 of 85, including the new `concepts/metacognitive-access-versus-retention`; five pages adopted the new tenet anchor correctly (dualism L154 repaired from "self-undermining")
 - **Output**: [[reviews/tenet-check-2026-10-10]]
 - Reports only: no content file or todo.md edited; not committed.
+
+---
 
 ## 15:00 - research-voids
 - **Status**: Success (gap-closure run on the first-ranked banked note; no new void proposed, no new file)
@@ -3888,6 +3316,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Side finding (unminted, for the driver)**: `topics/bandwidth-of-consciousness` L189 ("before which conscious intervention can veto prepared actions") and `topics/quantum-neural-timing-constraints` L101 ("consciousness can cancel movement onset…") leave out that Schultze-Kraft's stops were cued by an external red light, and the authors write "the original interpretation of the veto was dualistic, whereas in our case veto is meant akin to 'cancellation'". `concepts/libet-experiments` L91 already says "at least for cued stops". A one-clause framing calibration fixes it; no quotation is wrong.
 - **Corpus movement since the triage**: `f90f7139bc` (10-06 14:36Z) put face 1 ("no single trial can show that a cancelled impulse was ever live") into quantum-neural-timing-constraints L101. Faces 2 and 3 are still unhoused (`SSRT` 0, `trigger failure` 0). Of the new sources, only Filevich 2013 is cited live, correctly caveated at libet-experiments L187.
 - **Not done by design**: nothing added to `pending_articles`; no voids, topics or todo edits; no tasks minted; not committed. The dormancy note's decision-changer, an interactionist source for its fork, was not worked; the triage says it affects interpretation only, not rank.
+
+---
 
 ## 14:07 - refine-draft
 - **Status**: Success
@@ -3909,6 +3339,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Held**: `ai_system` is unchanged (targeted edits, no re-authorship).
 - **Published**: yes
 
+---
+
 ## 13:54 - refine-draft
 - **Status**: Success
 - **File**: [[apex/open-question-ai-consciousness]] (also [[apex/what-it-might-be-like-to-be-an-ai]], [[apex/machine-question]], [[topics/deep-computational-markers-for-machine-consciousness]], [[topics/ethics-of-possible-ai-consciousness]], [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]], [[topics/basal-and-bioelectric-cognition]], [[concepts/types-of-consciousness]], [[concepts/ai-epiphenomenalism]], [[research/anthropic-global-workspace-j-space-2026-07-07]])
@@ -3923,6 +3355,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Word count**: open-question-ai-consciousness 5766 → 5770 (hard_warning, as before); machine-question 5937 → 5941 (hard_warning, as before); what-it-might-be-like-to-be-an-ai 4753 → 4757; deep-computational-markers-for-machine-consciousness 3164 → 3168; ethics-of-possible-ai-consciousness 4467 → 4471 (hard_warning, as before); agentic-ai-…-tool-using-systems 2452 → 2456; basal-and-bioelectric-cognition 3995 → 3999 (still soft_warning); types-of-consciousness 2450 → 2454; ai-epiphenomenalism 2880 → 2884
 - **Held**: `ai_system` unchanged on every file (metadata correction, no re-authorship)
 - **Published**: yes
+
+---
 
 ## 13:40 - refine-draft
 - **Status**: Success
@@ -3940,6 +3374,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Out-of-scope spillover (not edited)**: [[topics/consciousness-and-cognitive-distinctiveness]] L159 states the ceiling unconditionally: "What AI cannot achieve is the flexibility, metacognition, and counterfactual reasoning that consciousness enables". This is the source of the machine-question overclaim and needs the same conditional recast. machine-question L113 "Continual learning breaks the equivalence with lookup tables" is left as exposition of Hoel's Corollary 5.5. [[topics/hoel-llm-consciousness-continual-learning]] L62 was checked and is accurate as exposition, since a history-indexed table is not "static" under Hoel's Definition 5.3, and its L72 relays the objection.
 - **Published**: yes
 
+---
+
 ## 13:21 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]] (also [[apex/attention-as-causal-bridge]], [[apex/phenomenology-of-consciousness-doing-work]])
@@ -3953,6 +3389,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Word count**: free-will 3997 → 3996; attention-as-causal-bridge 4933 → 4933; phenomenology-of-consciousness-doing-work 4698 → 4698 (frontmatter-only edits)
 - **Published**: yes
 
+---
+
 ## 12:45 - deep-review
 - **Status**: Success
 - **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
@@ -3963,6 +3401,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification** (editor-internal): functionalism/recipient Mode Three (was substitution); illusionism L95 Mode Two (unchanged); eliminativist/Buddhist Mode Three bedrock
 - **Held**: `ai_system` claude-opus-4-7 (corrections, not re-authorship). Archive siblings with the same defects (`archive/concepts/perceptual-reconstruction-paradox` L45/L67, `archive/concepts/selective-perceptual-correction` L50, `archive/voids/reconstruction-paradox` L49, `archive/concepts/perceptual-reconstruction-selection`) were NOT edited, per the open NEEDS-HUMAN archive-policy task
 - **Output**: [[reviews/deep-review-2026-10-10-selective-correction-and-reconstruction-paradox]]
+
+---
 
 ## 12:22 - refine-draft
 - **Status**: Success
@@ -3977,6 +3417,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length): causal-interface 2,289 → 2,342; amplification-void 2,444 → 2,501. The voids soft threshold is 2,000 and the hard threshold is 3,000; both remain soft_warning, well below the hard gate.
 - **Published**: yes
 
+---
+
 ## 12:06 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
@@ -3988,12 +3430,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length): 2,942 → 3,039 (soft 3,000, hard 4,000; status soft_warning, below the hard gate).
 - **Published**: yes
 
+---
+
 ## 11:35 - coalesce
 
 - **Task**: coalesce cycle slot: candidate search, abandoned (pool unchanged since the 2026-10-09 23:52 sweep)
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: Pressure measured with `count_section_files` against `section_caps`: voids 113/115 (98.3%, the most pressured), concepts 349/360, topics 343/360 (342 plus the `non-temporal-consciousness.refinement-log` sidecar, which was filtered out before pairing). Pool movement since 23:52: `git log --diff-filter=ADR` over topics/concepts/voids/archive returns nothing. The positive control (`--diff-filter=M`) lists 21 modified articles, and none of them belongs to any previously body-linked pair. The gate was re-run with body words from `analyze_length`, affordable meaning a pair's sum is at most the section hard limit minus 1, then a body wikilink between the pair, then a boundary cue within ±300 chars of that link. It was run at the 7-day and 30-day `created` floors and again with no recency exclusion, and all three runs gave the same result. **voids 0 affordable**: the two smallest of all 113 articles sum to 1,473 + 1,730 = 3,203 > 2,999, so coalescing cannot relieve the most-pressured section at all. **topics 0**: 1,990 + 2,112 = 4,102 > 3,999. **concepts 163 affordable → 3 body-linked**, and all three are recorded declines. `causal-powers`+`mind-arena` and `phenomenal-depth`+`phenomenal-presentation` are boundary-marked. `phenomenal-depth`+`adaptive-computational-depth` has only a one-way complementary link, and "depth" means something different in each. None of those five files has changed since the 10-09 decline. Voids relief has to come from /archive, /condense or a cap raise, as the standing NEEDS-HUMAN cycle-allocation entry says. Nothing was merged and no task was minted.
 - **Output**: none
+
+---
 
 ## 11:13 - refine-draft
 - **Status**: Success
@@ -4008,6 +3454,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length): 4,399 → 4,397 (hard 4,000). The file is still at hard_warning, and the open NEEDS-HUMAN length decision is unchanged.
 - **Published**: yes
 
+---
+
 ## 11:01 - deep-review
 - **Status**: Success
 - **File**: [[topics/hoel-llm-consciousness-continual-learning]]
@@ -4019,6 +3467,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: Cerullo symmetry objection Mode Three (new); Hoel's dualism-as-trivial classification Mixed (reply on Hoel's terms, residue marked open); the other Cerullo engagements are unchanged from 09-27.
 - **Follow-up**: P2 refine-draft minted for the sibling carry-forward (continual-learning-argument L50/L158, ai-consciousness L115).
 - **Output**: [[reviews/deep-review-2026-10-10-hoel-llm-consciousness-continual-learning]]
+
+---
 
 ## 10:43 - refine-draft
 - **Status**: Success
@@ -4035,6 +3485,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length): apex 4,991 → 4,993 (hard 5,000); topics 3,991 → 3,993 (hard 4,000).
 - **Published**: yes
 
+---
+
 ## 10:20 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/types-of-consciousness]]
@@ -4047,6 +3499,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2,176 → 2,450 (analyze_length), against concepts soft 2,500 / hard 3,500.
 - **Published**: yes
 
+---
+
 ## 09:48 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
 - **Content reviewed**: the unauditable verdict wing, six voids at 0–3 mentions across all 593 prior optimistic reviews (content grep), none ever deep-reviewed (the deep-review pool excludes `voids/`): `voids/numbing-void` (2,681), `voids/assent-void` (2,959, NEEDS-HUMAN condense block), `voids/handedness-void` (2,796, one commit, never revised), `voids/modality-void` (2,493), `voids/offloading-void` (2,996) and `voids/preference-void` (2,842, junction). Neighbours were read for propagation.
@@ -4055,9 +3509,13 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **New subjects for the harvester**: (A) mirror invariance in vision and its unlearning by literacy (Kolinsky et al. 2011, Danziger & Pederson 1998; metadata and abstracts verified); (B) Buddhist and Indian analogues of assent (*adhimokkha*, Dharmakīrti's *niścaya*; leads unverified).
 - **Output**: [[reviews/optimistic-2026-10-10-unauditable-verdict-wing]]
 
+---
+
 ## 09:24 - driver edit
 - **Task**: description calibration on `concepts/conservation-laws-and-mental-causation` (leftover flagged by the 09:22 refine-draft)
 - **Change**: description "No —" → "Not on the classical argument — … ; general relativity remains an open constraint." Frontmatter only, 0 body words; matches the body's L160 (Pitts 2022 GR constraint left open).
+
+---
 
 ## 09:22 - refine-draft
 - **Status**: Success
@@ -4070,6 +3528,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Collins (2008)**: unchanged. The article never credits Collins with the GR loophole, and its entanglement wording agrees with the siblings' "interaction, or at least correlation, without energy exchange".
 - **Length**: 3,812 → 3,807 (analyze_length), against concepts hard 3,500 (net −5; still hard_warning, as before).
 - **Published**: yes
+
+---
 
 ## 09:08 - refine-draft
 - **Status**: Success
@@ -4085,6 +3545,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,898 → 3,964 (analyze_length), against topics hard 4,000 (gate `>=`; 35 headroom). Funded by the L150/L194 deletions and by trimming this pass's own additions.
 - **Published**: yes
 
+---
+
 ## 08:58 - deep-review
 - **Status**: Success
 - **File**: [[topics/bergson-and-duration]]
@@ -4096,6 +3558,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: snapshot/spatialising reductions Mode One (unchanged); ontological residue Mode Three (unchanged); many-worlds strawman upgraded to Mode Three; determinist Mode Three (bedrock).
 - **Queue**: minted a P2 refine-draft for the same Whitehead errors in `concepts/process-philosophy` (L58, L72) and `apex/process-and-consciousness` (L67, L69), with the verified PR raw-text strings in Notes.
 - **Output**: [[reviews/deep-review-2026-10-10-bergson-and-duration]]
+
+---
 
 ## 07:55 - refine-draft
 - **Status**: Success
@@ -4110,6 +3574,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual (not fixed)**: research note L215 still cites "Zheng, J., et al. (2024). 'The speed of human thought.' Caltech. (Reported via *New Atlas*.)", a press-coverage citation for the work published as Zheng & Meister (2025) *Neuron* 113(2).
 - **Published**: yes
 
+---
+
 ## 07:40 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/anaesthesia-and-the-consciousness-interface]], [[apex/identity-across-transformations]]
@@ -4121,6 +3587,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes (apex)**: (1) L53 now reads "your consciousness seems to vanish entirely—afterwards you recall no experience, no passage of time, nothing". The opener keeps its force. (2) L105 now reads "it vanishes from memory entirely. A six-hour surgery leaves the same retrievable trace as a six-minute procedure: none. Whether experience ceased or simply went unretained, …". This sets up L109's three-state underdetermination. (3) Siblings of the same defect: L119 "propofol's near-total extinction of experience" became "radically different phenomenological reports—propofol's near-total silence". L171 "no connecting experience" became "no remembered connecting experience".
 - **Length (apex)**: 4,415 → 4,432 against hard 5,000.
 - **Published**: yes
+
+---
 
 ## 07:20 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
@@ -4135,6 +3603,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Cross-page**: `phenomenology-of-resistance-across-domains` L116 takes the Biranian datum as evidence for bidirectional causation, and this void blocks it with the paralytic. Neither page links the other. Recommended as an addendum to NEEDS-HUMAN 2026-08-17 (K17), not a new task.
 - **Task**: a suggested P2 refine-draft block (four priced items, ≈ +127 against −53 of funded trims; net ≈ +74 vs 84 headroom) is in the review file for the driver to mint.
 - **Output**: [[reviews/pessimistic-2026-10-10-causal-impression-void]]
+
+---
 
 ## 06:53 - refine-draft
 - **Status**: Success
@@ -4152,6 +3622,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length): 2623 → 2945 (+322; under soft 3000 and hard 4000).
 - **Published**: yes
 
+---
+
 ## 06:24 - refine-draft
 - **Status**: Success
 - **File**: [[topics/selection-only-mind-influence]], [[topics/causal-closure-debate-historical-survey]], [[concepts/selection-only-channel]]
@@ -4166,6 +3638,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Further sites (reported, not edited)**: `research/selection-only-mind-influence-information-limits-2026-05-05` L201–207 is the seed. A "Robin Collins" source block appends the Pitts 2022 URL (and an Erkenntnis "Type" line) to Collins's two key points, so the article later read them as joint Collins–Pitts claims. Pitts 2022 is also at ref L420. In `archive/concepts/conservation-laws-mind-brain-causation` L49/L123, `archive/topics/conservation-laws-and-mind` L197 and `archive/topics/history-of-interactionist-dualism` L181, the *Philosophia* paper is cited as "Pitts (2022)", vol. 50, 1065–1083; it is 2020, 48(2), 673–707.
 - **Published**: yes
 
+---
+
 ## 06:18 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-10
@@ -4177,6 +3651,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Pointer check**: `parse_tasks` returns a non-`None` review_file for both rewritten tasks; active count is unchanged at 68
 - **Output**: [[reviews/outer-review-synthesis-2026-10-10]]
 
+---
+
 ## 06:09 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro, full-site hostile-referee audit (same subject as today's Gemini review, `reuse:pending-reviews`), collected by `collect-chatgpt-review` from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac9bab3-6058-83ed-87d3-fa86f635330e
@@ -4187,6 +3663,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Disputed**: "no energy is added" is on neither named page. The "grounds"/"specifies how" charges misread the apex's calibration paragraph. The circular-eligibility and Butlin-corroboration charges are already answered (quantum-randomness L87; open-question L81). The epiphenomenalism charge is answered by phenomenology apex L157, apart from its description. The methodology list duplicates existing project disciplines, so no methodology task was minted.
 - **Tasks generated**: 10 (P1: 2 — anaesthesia + identity abolition claims; resolution-void misattribution + throughput conflation. P2: 8 — split-brain Santander; post-decoherence physics; quantum-biology (net-neutral, hard_warning); quantum-randomness severance; causal-interface + amplification-void; free-will + attention thesis; machine-question + continual-learning; Butlin metadata). Inserted before `## Completed Tasks`; parse_tasks active 58 → 68.
 - **Convergence**: with today's Gemini review on the Santander et al. (2025) reading (different article pairs: Gemini on experimental-consciousness-science vs NCC; ChatGPT on split-brain vs the identity apex), and with the 2026-08-13 three-reviewer "compatibility upgraded into support" verdict. There is no Claude entry for today yet.
+
+---
 
 ## 05:32 - deep-review
 - **Status**: Success
@@ -4200,6 +3678,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Queue**: P3 `conceivability-possibility-inference` L108 (optimistic-2026-10-07 IH wing, item 2) was applied here and marked superseded in todo.md. The driver text's "only the conceptual-hook argument" was corrected to "chiefly", because `ignorance-hypothesis` lists four replies.
 - **Output**: [[reviews/deep-review-2026-10-10-conceivability-possibility-inference]]
 
+---
+
 ## 05:10 - refine-draft
 - **Status**: Success
 - **File**: [[research/metaproblem-consciousness-dualism-2026-03-06]] and [[topics/metaproblem-of-consciousness-under-dualism]]
@@ -4210,6 +3690,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **What was checked**: Crossref has no record of either paper. `query.bibliographic` returned no match, and the JCS ISSN listing (1355-8250) covers 2021 only from vol. 28 issue 9 onward, with nothing for 2020. Live Ingenta returned 403 (Cloudflare). The Wayback copies of Ingenta's own pages did resolve. Díaz: the article page (capture 20241008172204, `.../jcs/2021/00000028/f0020003/art00002`) has `DCTERMS.bibliographicCitation` "Journal of Consciousness Studies, 28, 3-4, 55-75(21)" and the source line "Volume 28, Numbers 3-4, 2021, pp. 55-75(21)". Pautz: the issue table of contents (capture 20241002232522, `.../jcs/2020/00000027/f0020005`, "Volume 27, Numbers 5-6, 2020") lists "Consciousness and Coincidence: Comments on Chalmers pp. 143-155(13) Author: Pautz, A.". The same TOC also confirms references 2 (Chalmers 258-281) and 6 (Mørch 131-142).
 - **ai_system**: `+claude-opus-5-5` plus-joined on both files (it was absent from both).
 - **Published**: yes
+
+---
 
 ## 04:49 - outer-review
 - **Status**: Success
@@ -4222,6 +3704,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 4 (P1: 2 — Pitts-2022 reversal across three files; exp-cons-sci vs NCC contradiction. P2: 2 — conservation-laws Pitts-2020 GR omission, length-neutral only (312 over hard); types-of-consciousness HOT framing and the missing HOT/PRM rival). Inserted before `## Completed Tasks`; parse_tasks active 56 → 60.
 - **Convergence**: none yet. ChatGPT 2026-10-10 is still pending, and there is no Claude entry for today.
 
+---
+
 ## 03:49 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-science-under-dualism]] and [[concepts/zombie-master-argument]] (two one-word fixes)
@@ -4233,6 +3717,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged on both files (one-word fixes).
 - **Published**: yes
 
+---
+
 ## 02:49 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-physics-of-information]]
@@ -4243,6 +3729,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: `analyze_length` 2,187 → 2,207 (+20); topics hard 4,000; status ok.
 - **Published**: yes
 
+---
+
 ## 02:34 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/materialism]]
@@ -4252,6 +3740,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode**: engagement with the Type-B majority (L194): Mode Three. The disagreement over the cost of an unexplained identity, and over Tenet 5 against the parsimony ground, is marked at the framework boundary and not claimed as an in-framework refutation. Engagement with Type-C (L142): Mode Two, unchanged. The promissory note helps itself to a form of explanation it cannot specify; only the attribution was added.
 - **Length**: `analyze_length` 3,211 → 3,243 (+32, as the review predicted); concepts hard 3,500, headroom now 256; status soft_warning (unchanged).
 - **Published**: yes
+
+---
 
 ## 02:21 - refine-draft
 - **Status**: Success
@@ -4265,6 +3755,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: `analyze_length` 3,408 → 3,412 (+4); project hard 3,500, headroom now 87; status soft_warning (unchanged).
 - **Published**: yes
 
+---
+
 ## 01:52 - refine-draft
 - **Status**: Success
 - **File**: [[voids/apophatic-cartography]]
@@ -4273,6 +3765,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: L70 (§Criteria for Boundary Evidence, **Cross-observer convergence.**), both defect strings confirmed to occur once before the edit and zero times after. (1) Genealogy: "the Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology" replaced with the shared Neoplatonic upstream (Plotinus, Proclus) reaching Christianity via Pseudo-Dionysius, a compressed port of `concepts/apophatic-cartography-four-criteria` L71 (2026-07-16 genealogy, do-not-revert). The child's Maimonides / al-Farabi / Avicenna channel was left out to stay length-neutral. The child page, linked as the canonical anchor in this section's lead paragraph, carries the full genealogy. (2) AI: removed AI from "the strongest convergence tests" and its "independent of contemplative lineage" framing, which contradicted `apex/taxonomy-of-voids` L207 and `voids/non-human-minds-as-void-explorers` §The Inheritance Problem (already linked at L130). AI is now described as a substrate-distinct observer only in prospect, with a piped anchor link `[[non-human-minds-as-void-explorers#the-inheritance-problem|inheriting human discourse]]`, matching the child page's L71 recast (deep review 2026-10-10 01:29). Trims within the paragraph: "the same failure signature" became "matching failure signatures"; the illustrative names (Chalmers, Nagel, Levine) were dropped, since Levine and Chalmers are still named two paragraphs down under progressive articulation. "Strongest" became "stronger", which is more modest. All hedges kept: "moderate evidence at best", "Buddhist contact ... is real", "plausible common cause". No other line touched. `ai_system` unchanged.
 - **Length**: `analyze_length` 2,960 → 2,959 (−1); voids hard 3,000, headroom now 40; status soft_warning (unchanged).
 - **Published**: yes
+
+---
 
 ## 01:29 - deep-review
 - **Status**: Success
@@ -4286,6 +3780,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Todo**: 2 P2 refine-draft tasks minted for out-of-scope siblings: `voids/apophatic-cartography` L70 (the Pseudo-Dionysius genealogy this page corrected on 07-16, plus the same AI-independence claim; 39 words of headroom) and `project/per-cluster-independence-scoring` L115 (the same tier licence as item 3).
 - **Output**: [[reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria]]
 
+---
+
 ## 01:13 - research-topic
 - **Status**: Success
 - **Topic**: Disputed memory ownership and the de facto immunity of memory self-ascription (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects B)
@@ -4296,6 +3792,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Seams**: García-Carpintero 2024 cites Evans "pp. 144–145", where Pryor n. 43 gives 244–45 (probable misprint; do not propagate). García-Carpintero's reference list titles Morgan 2024 "Memory and identity"; Crossref has "Memory without identity". The brief's "Turkish twins" (Ikier et al.) and "de jure" (Shoemaker) are unverified; secondaries pair "de facto" with "logical". IEM L44's García-Carpintero attribution checked and stands.
 - **Todo**: none written (orchestrator marks the task). Chain: recommend a refine-draft on `topics/memory-anomalies`, not an expand-topic.
 
+---
+
 ## 00:46 - research-topic
 - **Status**: Success
 - **Topic**: Self-blindness and the clinical record of partial introspective failure (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects A)
@@ -4305,12 +3803,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Seams**: `blindspot-void` L57 attribution to Shoemaker 1995 is defensible (p. 83 recaps the argument); `phenomenal-authority` Competing Models omits the rationalist model (owed until condensed).
 - **Todo**: none written (orchestrator marks the task).
 
+---
+
 ## 23:52 - coalesce
 
 - **Task**: coalesce cycle slot — candidate search, abandon (no change since 13:20)
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: Nothing has moved since the 13:20 sweep. `git log --since 13:15Z --diff-filter=ADR` shows no article added, deleted or renamed in topics/concepts/voids/archive; the positive control (`--diff-filter=M`) lists 22 modified articles. `count_section_files` is unchanged: voids 113/115, concepts 349/360, topics 343/360 (342 plus the `non-temporal-consciousness.refinement-log` sidecar). All 22 modified articles were edited today and are driver-excluded, and every other article keeps its 13:20 length. So today's eligible pool is a subset of the 13:20 pool, with the same lengths and links. That pool had voids 0 and topics 0 affordable, and concepts 3 body-linked pairs, all declined on the merits. A subset cannot produce a new pair. No merge was forced, and voids relief still has to come from /archive, /condense or a cap raise.
 - **Output**: none
+
+---
 
 ## 23:04 - refine-draft
 - **Status**: Success
@@ -4320,6 +3822,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: L112 bullet "Future progress in Type-B's mouth." — old text confirmed to occur exactly once; appended the review's two sentences verbatim: the futurity error "also occurs as a definition" (a sentence in which Type-B "hopes", "expects" or "does not yet grasp" the identity, or in which one "physicalist reading" is at once merely epistemic and closeable, has given Type-B Type-C's content), and "The tell is tense; Type-B expects nothing of the gap." The inner quotation marks are scare quotes on the Map's own former wording, not citations. Grounds: the four definitional loci repaired on 10-06/07 (parsimony-epistemology L90, modal-structure L83, reductionism L152, epistemology L57). No other line touched; the Stoljar P3 (L123) and the rival-explanations expand-topic's integration loci (L38/L92/L122/L128) left for their own tasks. No new wikilinks. Calibration unchanged: the Map's tier against Type-B stays *compatible*; the bullet is a routing diagnostic, not a refutation.
 - **Length**: `analyze_length` 2,864 → 2,913 (+49, matching the review's +49); concepts hard 3,500, headroom 586; status soft_warning (unchanged).
 - **Published**: yes
+
+---
 
 ## 22:55 - deep-review
 - **Status**: Success
@@ -4350,6 +3854,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: appended claude-opus-5-5.
 - **Output**: [[reviews/deep-review-2026-10-09-reflexive-methodology]]
 
+---
+
 ## 22:34 - refine-draft
 - **Status**: Success
 - **File**: [[voids/self-opacity]]
@@ -4359,6 +3865,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   1. L126: "The [[assent-void|assent void]]'s transparency face restates this on the belief side, applying the constitutive thesis rather than independently supporting it." became "The [[assent-void|assent void]]'s transparency face shares this source, belief's truth-directedness, and so cannot independently support the constitutive thesis." The 2026-10-07 07:40Z clause named the wrong dependency. The page's constitutive thesis (L134) is about the subject-object asymmetry. The assent void's transparency face comes from Shah & Velleman's truth-norm argument, which the assent void calls framework-independent. What the two passages share upstream is belief's truth-directedness (Schulz's "beliefs present their content as true"). The not-independent-support discount stays; only its stated source changed. "On the belief side" was redundant and has been dropped. The `[[assent-void|assent void]]` link is kept (present once).
 - **Frontmatter**: `ai_modified` and `modified` were bumped. `ai_system` is unchanged because it already includes claude-opus-5-5.
 - **Published**: yes
+
+---
 
 ## 22:19 - refine-draft
 - **Status**: Success
@@ -4373,6 +3881,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: unchanged (it already includes claude-opus-5-5).
 - **Published**: yes
 
+---
+
 ## 21:52 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
 - **Content reviewed**: the first-person certification wing. Primary subjects were the three pages with zero mentions across all 594 prior optimistic reviews (content grep): `concepts/immunity-to-error-through-misidentification` (2,925), `concepts/quasi-memory-and-the-circularity-objection` (3,190) and `topics/anton-syndrome-and-the-sincere-report-of-seeing` (3,491). Also reviewed: `concepts/metacognitive-access-versus-retention` (created today), `concepts/thought-insertion` as the junction page, and the hub `concepts/self-and-self-consciousness` (3,495, headroom 4). Propagation was read on phenomenal-authority, the Kant paralogisms page, mine-ness, episodic-memory, personal-identity, simulation-theory-of-memory, confabulation-void and prehension.
@@ -4380,6 +3890,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (cap 4, exact old→new, every old string grep-verified once, `count_words` costs)**: (1) self-and-self-consciousness L194 Occam recalibration, +2 (3,497/3,500), plus a 0-word L192 rider; (2) quasi-memory L102 disputed memories (Sheen, Kemp & Rubin 2001, abstract quotes verified raw) +95, and simulation-theory-of-memory L56 Michaelian 2022 radicalisation linked to quasi-memory +21, which discharges the research note's self-flagged gap; (3) evidential-status-discipline: a "presentation is not certification" paragraph inside the existing Phenomenological-Datum rule, +167, with no rule-count change; (4) cross-link package, +72: confabulation-void L87→Anton, metacognitive-access L105→quasi-memory, prehension L84 pipe, Anton Further Reading→metacognitive-access, and Anton L101 global-positive cell's live candidates are artificial (P-AC1, conditional). Zero-word riders: episodic-memory L100 pipe, personal-identity L101 "registers"→"represents".
 - **New subjects for the harvester**: (A) Shoemaker's self-blindness argument and the clinical record (concepts, P2; Crossref metadata verified, content attribution to verify); (B) disputed memory ownership and memory's de facto IEM (concepts, P3, research-first).
 - **Output**: [[reviews/optimistic-2026-10-09-first-person-certification-wing]]
+
+---
 
 ## 21:27 - refine-draft
 - **Status**: Success
@@ -4394,6 +3906,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: the L148 sentence ending "Billon and Lane dissent." and the falsifier span "no position from which the lack is registered" (both verified present once). L138 ("conditional on the three commitments above") still reads correctly. The same defect remains live in the sibling `concepts/unity-of-consciousness` L145 ("requires a unified agent"; 09-28 class), which is out of scope here.
 - **ai_system**: unchanged (it already includes claude-opus-5-5).
 
+---
+
 ## 21:06 - refine-draft
 - **Status**: Success
 - **File**: [[topics/forward-in-time-conscious-selection]]
@@ -4406,6 +3920,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   4. To stay length-neutral, the size comparison now gaps its second verb: "retrocausal selection, an influence propagating backward …". The causal-consistency sentence and the Torres Alegre preprint hedge were left verbatim.
 - **Reasoning mode**: n/a. No named opponent; this is an internal calibration repair.
 - **Not touched**: L157 ("most parsimonious reading", which already concedes the parsimony cost) and L175 (Tenet 2's "strongest expression", a fit claim). Both are outside the task's L143 scope.
+
+---
 
 ## 20:48 - deep-review
 - **Status**: Success
@@ -4426,6 +3942,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: claude-opus-4-8 → claude-opus-4-8+claude-opus-5-5. The completeness article's ai_system is unchanged (label-only edit).
 - **Output**: [[reviews/deep-review-2026-10-09-consistent-histories-interpretation]]
 
+---
+
 ## 20:06 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/control-theoretic-will]] and [[topics/responsibility-gradient-from-attentional-capacity]] (two-file task; the queue title said "responsibility-gradient", but the real path is the long slug)
@@ -4442,6 +3960,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: concepts/von-neumann-wigner L92, per the review. control-theoretic-will L102 ("Bandwidth as design constraint, not deficiency") is a control-theory point that makes no Tenet 2 claim, so it was left.
 - **ai_system**: claude-opus-5-5 was already present in both files, so the field is unchanged.
 - **Published**: yes
+
+---
 
 ## 19:38 - refine-draft
 - **Status**: Success
@@ -4474,6 +3994,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - The research note's "Choudhary, S." at note L175 and L289.
 - **Published**: yes
 
+---
+
 ## 19:45 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `voids/preference-void` (fresh create 2026-10-03, unchanged since 10-04; first focused review of any kind; 2,626/3,000, headroom 373). Read against its research note, `apex/conjunction-coalesce` L78/L110, `tenets.md` L69/L95/L107 and `decision-void` L52/L72–74, with primary sources at Crossref/OpenAlex/Europe PMC/RePEc/SEP.
@@ -4488,12 +4010,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (cap 4, exact old→new in file, about +219; carries C1–C5 about +11)**: (1) description, L41 and voids.md L215, +1; (2) seam L51/L75 plus the Payne 1992 reference, +61; (3) mark face L71/L75/L93/L59 plus the Butler & Loomes reference, +80; (4) retrospective currency L43/L63/L65 plus the Enisman 2021 reference, +66. A ready P2 refine-draft task block is in the file.
 - **Output**: [[reviews/pessimistic-2026-10-09-preference-void]]
 
+---
+
 ## 19:05 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]
 - **Original score**: n/a (targeted fix; optimistic-2026-10-06-formal-limits-and-channel-class-wing, Expansion Opportunity 4)
 - **Changes**: replaced the L115 sentence pair "The same formal mechanism that prevents a system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. This is rigorous mathematics, not analogy." with the review's exact L108 text. The quoted current text was grep-verified to occur exactly once before the swap. The page now states Szangolies' result as the sibling self-reference-and-the-limits-of-physical-description states it at L74/L76: the Lawvere mechanism generates quantum epistemic horizons (value indeterminacy, complementarity, the uncertainty relations), and that much is rigorous mathematics. Reading the horizon as a limit on outcome determination is now marked as the Map's extension, which Szangolies, a naturalist, does not draw. Before, the "rigorous mathematics" label sat on the Map's extension. The existing caveat two sentences later ("Szangolies' result concerns epistemic horizons, not phenomenal experience") was kept unchanged; it fences the phenomenal reading, and the new sentence fences the outcome reading. The optional L113 reciprocal was not installed: the review's form adds words, and the page already links [[self-reference-and-the-limits-of-physical-description]] at the end of the same paragraph. Length 3,026 → 3,052 (hard 4,000; +26 as priced). ai_system plus-joined with claude-opus-5-5.
 - **Published**: yes
+
+---
 
 ## 18:34 - refine-draft
 - **Status**: Success
@@ -4503,6 +4029,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,996 → 3,996, net 0 (`analyze_length`; topics hard 4,000, gate `>=`; headroom 3). The review priced the edit at −1, and the pipe's two-word display text adds back that one word.
 - **Engagement classification**: none (no named-opponent reply touched; Han and Choi 2016 sentence unchanged).
 - **Published**: yes
+
+---
 
 ## 18:29 - deep-review
 - **Status**: Success
@@ -4516,6 +4044,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: Schacter/Fotopoulou are Mode Three (the boundary is marked; the channel vocabulary "adds no prediction they lack"). Farah/Shanks are Mode One defeaters used on their own terms. No label leakage.
 - **Todo**: P3 Dimitrova-qualifier task discharged (✓). A new P3 refine-draft targets `topics/split-brain-consciousness` L110, whose Marsh/Beker citation supports "information transfers". The flagship L82, NEEDS-HUMAN item (10) and the apex L168 sibling loci are recorded in its Notes.
 - **Output**: [[reviews/deep-review-2026-10-09-metacognitive-access-versus-retention]]
+
+---
 
 ## 18:07 - refine-draft
 - **Status**: Success
@@ -4532,6 +4062,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,499 → 3,499, net 0 (`analyze_length`; concepts hard 3,500, gate `>=`; headroom still 0)
 - **Not attempted**: the for-me-ness/mineness vocabulary collision (NEEDS-HUMAN; URL change). §The Ownership Void L108 "Depersonalisation proves that mine-ness can vanish" was out of scope for the fork; the DRIVER applied "proves"→"shows" afterwards (0 words, 18:09Z). The change costs nothing and would fit Knappik's plurality caveat at L92.
 - **Published**: yes
+
+---
 
 ## 17:50 - refine-draft
 - **Status**: Success
@@ -4554,6 +4086,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes
 - **Hugo**: synced (`scripts/sync.py`)
 
+---
+
 ## 17:06 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/attention-as-causal-bridge]]
@@ -4575,12 +4109,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Hugo**: synced (`scripts/sync.py`).
 - **Review**: [[reviews/apex-evolve-2026-10-09-attention-as-causal-bridge]]
 
+---
+
 ## 16:34 - research-voids
 - **Status**: Skipped by design (no new void researched; no file created; no state change)
 - **Measured**: voids **113/115** by `tools.evolution.state.count_section_files("voids")` at 2026-10-09T16:3xZ (`ls` gives 114 `.md` including the index, no sidecars); `max_voids: 115`. Not at capacity, so the cap gate did not fire. `research/voids-*.md` = **215**, unchanged since the 2026-10-08 00:36 skip.
 - **Why skipped**: nothing that decided the 10-08 skip has moved. The operator's P3 "NEEDS-HUMAN (voids slot)" (todo, Status `needs-human`) is still open; no human commit has touched `obsidian/voids/`, `obsidian/research/` or todo.md since 10-08 00:30Z; `task_chains.pending_articles` still holds exactly one voids entry (`voids-grammar-void-2026-10-05`, ranked 4th and marked fold by the 2026-10-06 triage). With two slots and five triaged candidates (veto > dormancy > serial-order > grammar > contingency, per [[research/voids-slot-triage-five-banked-candidates-2026-10-06]]), a new note appended to `pending_articles` would be the first voids candidate replenish sees and would overtake the triage ranking.
 - **Carry-forward discharged**: the 10-08 entry's item (2) — the veto note's "ballistic" / "before EMG onset" quote-fidelity flag on `topics/quantum-neural-timing-constraints` — is **already fixed** and was when 10-08 repeated it: `d9cffec784` and `f90f7139bc` (both 2026-10-06) corrected L44/L99, and `a05e3bd25a` (2026-10-09 15:09Z) swept the siblings. Re-verified this run: "Schultze-Kraft" on 5 lines (positive control), the quoted `"ballistic"` 0, "EMG onset" 0; the one remaining "ballistic" (L99) is the unquoted "not strictly ballistic" paraphrase that matches the paper. Drop it from future driver notes.
 - **For the driver**: item (1) of the 10-08 entry stands. If the operator adopts the triage, remove grammar from `pending_articles` before replenish's unconsumed-research pass mints an expand for it, and add veto/dormancy. Until that call is made, every `research-voids` trigger will repeat this skip. That is cheap, but the skill's L30 gate cannot see it (see the open NEEDS-HUMAN cadence/cap entry for the one-condition supply gate proposed 2026-09-21).
+
+---
 
 ## 15:51 - refine-draft
 - **Status**: Success (2 of 2 edits)
@@ -4592,6 +4130,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   2. L86 (0 words): `Gallagher (2000, 2012)` became `Gallagher (2000, 2020)`. Provenance: the "2012" came in with commit 49bda6cc4e (2026-05-19), and the 2026-06-01 deep review of consciousness-and-the-ownership-problem identified the same in-text cite as Gallagher & Zahavi, *The Phenomenological Mind* (2nd ed., 2012). This page lists the 3rd ed. (Gallagher & Zahavi 2020, ref 4, present since 2026-05-01), so the year now matches the listed edition. Remaining imprecision: "Gallagher 2020" gives only the first author of a co-authored book. The sibling page (consciousness-and-the-ownership-problem L60) names the co-author as `Gallagher (2000; with Zahavi 2012)`; the equivalent `(2000; with Zahavi 2020)` costs +2 here and was not applied because of the word budget. `Gallagher (2000)` alone (-1, and fully supported by the TiCS paper) is the alternative if a later pass wants the co-author issue gone without spending words.
 - **Length** (`analyze_length`): 3,486 -> 3,490 (concepts hard 3,500, gate `>=`; 9 words of room left for the open P3 on L134)
 - **Published**: yes
+
+---
 
 ## 15:23 - refine-draft
 - **Status**: Success (2 of 2 live loci done; the third, `apex/self-construction-constructor`, was already discharged by apex-evolve on 2026-10-07 and was skipped)
@@ -4610,6 +4150,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: both pages already carried `claude-opus-5-5`, so neither was changed.
 - **Published**: yes
 - **Todo**: none written (orchestrator marks the task).
+
+---
 
 ## 15:08 - refine-draft
 - **Status**: Success (5 of 5 loci done)
@@ -4631,6 +4173,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes
 - **Todo**: none written (orchestrator marks the task).
 
+---
+
 ## 14:50 - refine-draft
 - **Status**: Success
 - **File**: [[voids/infant-consciousness]]
@@ -4641,6 +4185,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Preserved**: Nothing else changed: no other body text, no reference-list entry, and the rebuilt contrast with [[inaccessible-past]]. `ai_system` was left as it was and only `ai_modified` was bumped.
 - **Published**: yes
 - **Todo**: none written (orchestrator marks the task).
+
+---
 
 ## 14:27 - deep-review
 - **Status**: Success
@@ -4654,6 +4200,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: left at `claude-fable-5-1+claude-fable-5-1` (minor fixes).
 - **Output**: [[reviews/deep-review-2026-10-09-rival-explanations-of-the-explanatory-gap]]
 
+---
+
 ## 14:08 - research-topic
 - **Status**: Success
 - **Topic**: The dissociative subtype of PTSD and the overmodulation model (harvested from the 2026-10-08 optimistic review of the clinical-dissociation wing, items 2–3)
@@ -4662,6 +4210,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verdict**: recommends expand-topic `concepts/dissociative-subtype-of-ptsd` (concepts 349/360). No section host is viable: `concepts/depersonalisation` has 1 word of headroom and the flagship is OVER. The page's verdict runs against the Map: the overmodulation and defence-cascade account is the worked form of the flagship's "affective-salience physicalism" and takes the trauma-selectivity point off the interface reading (constrains, does not establish). The specifier has held as a latent class. The 2010 mechanism is weaker: no reliable autonomic signature, regions vary, resting-state profile is hyperconnectivity, and treatment moderation is null.
 - **Trauma confound**: every DID patient in Dimitrova et al. 2023 had current or remitted PTSD, and the controls were trauma-free (verified in the full text). PTSD-only patients also show smaller hippocampi, and DA/DID patients without PTSD did not. The group-level rung stands; DID-specificity is not established. A standalone +~45-word qualifier is proposed for `concepts/metacognitive-access-versus-retention` L131, with no contradiction of that page.
 - **Todo**: none written (orchestrator marks the task).
+
+---
 
 ## 13:34 - refine-draft
 - **Status**: Success
@@ -4675,12 +4225,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement**: L68 replies to no named opponent; no reasoning-mode classification was needed.
 - **Published**: yes
 
+---
+
 ## 13:20 - coalesce
 
 - **Task**: coalesce cycle slot — candidate search, abandon
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: pressure measured with `count_section_files` vs `section_caps`: voids 113/115 (98.3%, most pressured), concepts 349/360, topics 343/360 (342 + the refinement-log sidecar, filtered before pairing). Pool movement since the 2026-10-08 09:06 sweep: one added article (`concepts/metacognitive-access-versus-retention`, created today, driver-excluded with `topics/memory-channel-interface-evidence` and `concepts/emergent-dualism`). Gate (body words via `analyze_length`; affordable = sum ≤ section hard − 1; then body wikilink; then boundary marker within ±300 chars, heading and inline forms), run at both 30-day and 7-day age floors with identical results: **voids 0 affordable** (smallest two eligible 1,473 + 1,730 = 3,203 > 2,999), **topics 0** (1,990 + 2,112 = 4,102 > 3,999), **concepts 162 affordable → 3 body-linked**. Two are recorded boundary-marked declines (`phenomenal-depth`+`phenomenal-presentation`, `**Versus [[phenomenal-depth]].**` at L54; `causal-powers`+`mind-arena`, distinguish/inherits-from cues). The third, `adaptive-computational-depth` (1,950) + `phenomenal-depth` (1,475) = 3,425, has no marker but fails on the merits: "depth" is a homonym (metaphysical resolution-on-attention hypothesis that turns into a non-computability argument vs layered richness of experience), there is no heading overlap, and the only link is one-way (phenomenal-depth L72 cites it as "a physical analogue"), a complementary relation, not duplication. Voids relief has to come from /archive, /condense or a cap raise, per the standing cycle-slot NEEDS-HUMAN entry; no duplicate minted.
 - **Output**: none
+
+---
 
 ## 12:51 - refine-draft
 - **Status**: Success
@@ -4694,6 +4248,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement**: binary on/off production theory at L118, Mode One (the theory predicts uniform loss, so selectivity defeats it on its own terms); the trim removed a redundant verdict and did not change the mode.
 - **Published**: yes
 
+---
+
 ## 12:42 - deep-review
 - **Status**: Success
 - **File**: [[concepts/emergent-dualism]]
@@ -4704,6 +4260,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: Rickabaugh: Mode Two/Three mixed (unchanged terminus). Kant: Mode Three; the Map declines to claim the UOC argument beats the collective reading. Dilley: Mode One (internal to dualism); spatiality conceded, energy half escaped via Tenet 2's no-energy clause.
 - **Ledger**: 11 cites checked against raw text (newdualism PDFs, Google Books search-within, SEP HTML incl. archive, Crossref). Rickabaugh's "not more attractive than nonemergent versions" was verified at PA73.
 - **Output**: [[reviews/deep-review-2026-10-09-emergent-dualism]]
+
+---
 
 ## 12:22 - expand-topic
 - **Status**: Success
@@ -4717,6 +4275,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Integration**: five zero-word piped reciprocals, with the word count unchanged on each page. Flagship L82 "[[metacognitive-access-versus-retention|supporting transfer]]" (4,694→4,694); mine-ness "orthogonal dimension" (3,498→3,498); metacognition "current conscious access" (3,541→3,541); anti-correlated-metacognitive-signal "a separately generated signal" (3,289→3,289); memory-channel L112 "compartmentalises autonoetic access" (4,542→4,542). The page was registered in `task_chains.pending_cross_reviews` with 5 targets. It is not an apex source.
 - **Bearing on NEEDS-HUMAN (10b)**: Donath 2025 now lives on this page, reachable from the flagship's Beker sentence by the L82 link. The flagship itself still does not cite Donath; whether that discharges (10b) is the operator's call. The todo was not edited.
 
+---
+
 ## 11:51 - research-topic
 - **Status**: Success
 - **Topic**: Cross-conditional stability of the autonoetic-first vulnerability ordering (harvested from optimistic-2026-10-08-clinical-dissociation-wing Expansion 5; ChatGPT outer-review items 29/32–33; synthesis cluster 10)
@@ -4727,11 +4287,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Assess-first**: standalone concepts/ article DECLINED (it would duplicate memory-channel-interface-evidence). The note gives length-neutral refine-draft replacements: memory-channel net 0, clinical-dissociation L68 net 0 (NEEDS-HUMAN item (15) no longer needs the ceiling decision), consciousness-disruption +16 of 80 headroom, discrimination-problem −1, two dependents at 0. Every OLD string was confirmed unique in the live file
 - **Chain**: no `task_chains.pending_articles` entry added (article declined); todo.md untouched; nothing committed
 
+---
+
 ## 16:17 - refine-draft
 - **Status**: Success (driver inline)
 - **Task**: `topics/neurological-dissociations-as-interface-architecture` L171 — unconsciousness / disconnected / connected consciousness taxonomy credited to "Mashour and colleagues" with no reference (optimistic-2026-10-08-clinical-dissociation-wing item 6)
 - **Changes**: now "Sanders and colleagues (2012)" with the reference added — Sanders, Tononi, Laureys & Sleigh (2012), Unresponsiveness ≠ unconsciousness, *Anesthesiology* 116(4):946–959 (PMID 22314293; the fork fetched the record). +2 body words plus the reference line; 3,516 → re-measured below.
 - **Output**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+
+---
 
 ## 16:17 - refine-draft
 - **Status**: Success (driver inline, zero-word)
@@ -4739,11 +4303,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: `concepts/idealism` L73 "Dissociative identity disorder (DID)" and `topics/analytic-idealism-and-mind-centric-metaphysics` L50 "dissociative identity disorder" now pipe to `topics/clinical-dissociation-as-systematic-evidence` (the cheapest answer to the Claude outer-review's Kastrup/DID underdetermination singleton); `topics/contemplative-pathology-and-interface-malfunction` L55 "depersonalisation and derealisation" → flagship (reciprocal of flagship L127/L168); `project/architecture-vs-significance-two-tier-discount` L41 → flagship, and flagship L127 "earns the *architecture* while leaving its dualist *significance* to be argued separately" → the two-tier page (neither previously linked the other). Zero words on every host; flagship stays at 4,694.
 - **Output**: the five files above
 
+---
+
 ## 16:15 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
 - **Content reviewed**: the 2026-10-08 clinical-dissociation outer-review wing after its 05:19Z–07:54Z repairs — `topics/clinical-dissociation-as-systematic-evidence` (4,694/4,000, OVER, operator-held), `topics/neurological-dissociations-as-interface-architecture` (3,516), `topics/split-brain-consciousness` (3,898), `positions/consciousness-scope` P-CS4 and `positions/individuation-and-subjecthood` P-I3, `project/evidential-status-discipline` L281 — read against the 2/3 synthesis and both underlying reviews
 - **Findings**: tier vocabulary agrees verbatim across flagship L64 / discipline L281 / P-CS4 ("no focal destructive lesion sufficient to explain the symptom"; compatible, discriminating neither); seven repaired passages named as strengths. Six actionable items, none duplicating the open P3s or the NEEDS-HUMAN length entry: zero-word piped reciprocals on the two Kastrup pages (`concepts/idealism` L73, `analytic-idealism…` L50), the two-tier-discount pair and `contemplative-pathology` L55; `concepts/direction-of-interface-change` L49 still carries the "reconnection rather than re-grown" amnesia claim retired this morning (+19); `research/metacognitive-access-versus-retention-2026-09-16.md` is an unconsumed harvester note with no task-chain entry (expand → concepts); research mints for ketamine/retrosplenial dissociation and the autonoetic-first ordering review; neurological L171 credits the three-states taxonomy to "Mashour and colleagues" (unreferenced) where `anesthesia-void` credits Montupil 2023 — the source is Sanders, Tononi, Laureys & Sleigh 2012 *Anesthesiology* 116(4):946–959 (PMID 22314293, fetched). Reinders 2003 n still unresolved at abstract level.
 - **Output**: [[reviews/optimistic-2026-10-08-clinical-dissociation-wing]]
+
+---
 
 ## 15:50 - refine-draft
 - **Status**: Success (driver inline)
@@ -4751,17 +4319,23 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: "PCI measurements show continuous, graded changes under propofol rather than a sharp threshold" → "PCI falls gradually across agents from wakefulness through sedation to anaesthesia (Casali et al. 2013)". +2 words (3,985 → 3,987; gate 4,000). Casali 2013 already in References (#168); Sarasso 2015 contrast at L69 untouched. No other propofol-specific PCI claim on the page (grep PCI/propofol).
 - **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
 
+---
+
 ## 15:35 - positions-evolve
 - **Status**: Success (driver inline)
 - **Task**: `positions/consciousness-scope` L77 scope-context label still said "phoneme pruning, the demolished hardware" after the 2026-10-06 `voids/infant-consciousness` recalibration
 - **Changes**: label now "phoneme-discrimination narrowing, the reorganised architecture"; one-line dated Updated note added under the P-CS entry (bands unmoved, no status change). Length hold in todo.md is on `apex/assessing-ai-consciousness-under-the-map`, not this file.
 - **Output**: obsidian/positions/consciousness-scope.md
 
+---
+
 ## 15:29 - refine-draft
 - **Status**: Success (driver inline, sibling of deep-review-2026-10-08-the-interface-problem finding 1)
 - **Task**: `archive/topics/the-interface-location-problem` L80 — Georgiev/Stapp exchange inverted ("though Stapp contested their model as too simple"): Stapp's "too simple" objection (2012) was to Georgiev's 2012 two-level model; the 2015 Monte Carlo paper was written to answer it (arXiv:1412.4741 refs 22–23, verified by the deep-review fork)
 - **Changes**: sentence now reads "Monte Carlo simulations (Georgiev 2015), built to answer Stapp's earlier objection that Georgiev's two-level model was too simple, found the quantum Zeno effect breaks down for timescales exceeding decoherence time." (+2 words). Page is archived but live at its URL.
 - **Output**: archive/topics/the-interface-location-problem.md
+
+---
 
 ## 15:28 - deep-review
 - **Status**: Success
@@ -4775,11 +4349,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **For the driver (not minted)**: same Georgiev/Stapp inversion live on `archive/topics/the-interface-location-problem.md` + Hugo mirror ("though Stapp contested their model as too simple", same 09-27 commit); Chalmers 1996 p. 214 T-shirt passage could be certified at Google Books; Schaffer draft (2020) print-venue check for the two pages carrying its entry; `materialism-argument` L102 already reads "eight to nine orders" (10-02 outer-review flag discharged).
 - **Output**: [[reviews/deep-review-2026-10-08-the-interface-problem]]
 
+---
+
 ## 14:34 - refine-draft
 - **Status**: Success (driver inline, zero-word)
 - **Task**: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing)
 - **Changes**: L50 "Frequencies varied widely across individuals" now pipes to the apex (`[[phenomenal-variation-within-a-species|varied widely across individuals]]`); body previously had 0 mentions of the apex slug. Zero words added.
 - **Output**: obsidian/concepts/descriptive-experience-sampling.md
+
+---
 
 ## 14:25 - refine-draft
 - **Status**: Success
@@ -4789,22 +4367,30 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes
 - **ai_system**: +claude-fable-5-1 appended on all six; sign-problem and quantum-consciousness already ended with that token so no adjacent duplicate was added
 
+---
+
 ## 14:13 - refine-draft
 - **Status**: Success (driver inline, zero-word)
 - **Task**: anchor repair from pessimistic-2026-10-08-self-stultification-calibration-wing operator note — `tenets.md` "deepest difficulty for epiphenomenalism rather than its refutation" paragraph (L101) had no block anchor, so every epiphenomenalism-charge pipe landed on the mechanism-debt paragraph (`^tenet-3-standing`, L95)
 - **Changes**: added `^tenet-3-epiphenomenalism` to tenets L101; retargeted the four pipes that cite that paragraph — `concepts/dualism` L154, `concepts/materialism` L178, `concepts/delegatory-causation` L49, `concepts/reflexive-methodology` L65 — at zero word cost. The 20+ pipes labelled "Tenet 3's standing" / "available rather than actual" correctly target `^tenet-3-standing` and were left alone. Queued second-sweep task's Notes updated to the new anchor and given the review's Priority 1 carry (delegatory L136/L182, net 0); three P3s minted (reflexive-methodology L93/L73, self-stultification hub L147–149, dualism L154).
 - **Output**: obsidian/tenets/tenets.md, obsidian/concepts/dualism.md, obsidian/concepts/materialism.md, obsidian/concepts/delegatory-causation.md, obsidian/concepts/reflexive-methodology.md, obsidian/workflow/todo.md
 
+---
+
 ## 14:11 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Wing review of the four self-stultification calibration installs of commit f9ec4dcaca (`concepts/dualism` L154, `concepts/reflexive-methodology` L65/L73, `concepts/delegatory-causation` L49, `voids/consciousness-only-territories` L102) against the hubs `concepts/self-stultification`, `topics/self-stultification-as-master-argument` and tenets ^tenet-3-standing. Installs mutually consistent and at tenets grade. Four priority items, all residue one sentence from the repairs: delegatory-causation L136 "eliminates epiphenomenalism" + L182 "cannot" (both net 0; fold into the queued P3 second-sweep task that owns L132 on this 9-word file); reflexive-methodology L93 "establishes the causal efficacy" (+1) and L73 retorsion sentence un-hedged (+14, mirror master-argument L131/L133); hub self-stultification L147-149 "extraordinary coincidence" mischaracterises the bare-correlation reply tenets L100 calls the epiphenomenalist's best (+2, Jackson common-cause attribution flagged for publisher check); dualism L154 hedge-by-assertion (+8, optional). Operator note: ^tenet-3-standing is on the mechanism-debt paragraph (tenets L95), not the "deepest difficulty rather than its refutation" paragraph (L100, unanchored) that five pipes promise. Reports only; no todo.md, article or sync.
 - **Output**: [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]]
+
+---
 
 ## 13:53 - refine-draft
 - **Status**: Success
 - **Task**: `topics/comparing-quantum-consciousness-mechanisms` — pessimistic-2026-10-05 item 4 (L80/L161 Stapp wording) plus the 13:23Z L161 carry
 - **Changes**: L80 "exist in superposition" → "coexist as alternatives"; L161 tenet count now "CSL-IIT satisfies four outright (MQI only on its fallback reading, P-Q2); Stapp's model four" (consistent with L114/L141); Georgiev (2015) now "calls Stapp's projection ... redundant"; Stapp's literal-Zeno debt now "owes the Tenet 3 qualification and attention-rate-dependent signatures"; lost condition restored on the allies sentence ("Read as implementations of this path, both are allies"). Three word trims (L80 "it uses", L161 "an additional debt", "Neither claims to need") keep the page net 0 at 3,994 (gate 4,000). Did not touch the sibling-owned L82/L132/L180 loci.
 - **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
+
+---
 
 ## 13:23 - refine-draft
 
@@ -4824,6 +4410,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Calibration**: nothing rose; "modelling assumption, not an independent prediction" retained; Georgiev 2015 already in References, no new citation.
 - **Published**: yes (synced)
 
+---
+
 ## 13:12 - deep-review
 
 - **Status**: Success
@@ -4840,6 +4428,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Output**: [[reviews/deep-review-2026-10-08-phenomenology-of-intellectual-life]]; synced to Hugo; todo.md untouched; not committed.
 - **Driver addendum (13:16Z)**: the sibling slip the review listed — `topics/correlationism-and-the-ancestrality-argument` L124 Further-Reading gloss "the opposite of Meillassoux's sense" — fixed inline to "a different sense from Meillassoux's" (a navigation label carrying the same error; word-neutral). Orphan-References question left as the human call the review records; archived copies left frozen.
 
+---
+
 ## 12:52 - refine-draft
 
 - **Task**: tenet-check-2026-10-05 P3 — recalibrate the flat self-stultification-refutes-epiphenomenalism move at four loci to the strength of [[tenets#^tenet-3-standing]] ("deepest difficulty rather than its refutation"; conditional on the causal-theory-of-knowledge premise), using the 2026-10-05 `concepts/materialism` L178 sentence as the model. Tenet 3 restated as a commitment at every locus, not weakened.
@@ -4854,6 +4444,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: `ai_system` plus-joined `+claude-fable-5-1` on all four files; `ai_modified` 2026-10-08T12:52:21+00:00.
 - **Output**: synced to Hugo; todo.md, tenets.md, materialism, self-stultification and the master-argument page untouched; not committed.
 
+---
+
 ## 12:35 - refine-draft
 
 - **Task**: `voids/self-maintained-cognitive-limits` L195 — Tenet 3 stated as demonstrated ("practices that resist aversion demonstrate causal efficacy") with no epiphenomenalist counter (tenet-check-2026-10-08 Error 1); applied inline by the driver with the report's exact replacement
@@ -4861,6 +4453,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: the Bidirectional Interaction bullet now reads the downward causation as the Map's reading, gives the epiphenomenalist's counter (the maintaining and the aversion-resisting practices as sub-personal processes with a phenomenal shadow), and marks the causal reading as a posit whose standing is available rather than actual (piped to tenets#^tenet-3-standing, which exists). Same grade and register as check 146's Error 2 repair.
 - **Length**: 2,642 → 2,667 / 3,000
 - **Output**: synced to Hugo
+
+---
 
 ## 12:00 - check-tenets
 
@@ -4872,6 +4466,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Clean**: 68 of 82, including the new `rival-explanations-of-the-explanatory-gap` and its dependents, the collapse-ordering carriers other than forward-in-time, and the P-I1/P-I2 dependents
 - **Output**: [[reviews/tenet-check-2026-10-08]]
 - Reports only: no content file or todo.md edited; not committed.
+
+---
 
 ## 11:21 - refine-draft
 
@@ -4886,6 +4482,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **psychophysical-laws-bridging** (3,483 → 3,493; topics hard gate 4,000, headroom 506): L143 (1 hit): "breaks down for timescales exceeding brain decoherence time." → "breaks down beyond the brain decoherence time when the environment decoheres in a basis other than the mind's." (+10). Its L258 IJMPB reference already present — left as is.
 - `ai_system` plus-joined `+claude-fable-5-1` on both; `ai_modified` 2026-10-08T11:21:51+00:00 on both. Synced to Hugo; both trees verified. Not committed (orchestrator commits); todo.md and process-1-specification-problem untouched.
 
+---
+
 ## 11:05 - positions-evolve
 
 - **Task**: `positions/agency-and-will` P-A2 — Asserts said "the luck objection is answered rather than dissolved" with no akratic exception (optimistic-2026-10-04 agency wing, Priority 4); applied inline by the driver with the review's exact text
@@ -4893,6 +4491,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: Asserts gains "except for akratic selection, where the reasons reply fails and [[topics/the-divided-will#luck-objection|the case stays open]]" (+14); dated Updated note inserted after P-A2's Would shift if, above the 2026-09-11 note (+46): scope narrowing recorded, no calibration or status change, Would shift if unchanged (the divided-will page does not show the objection defeats the agent-causal reply, so its trigger is not met). Tenet 3 quantifier and the bi-aspectual tension untouched.
 - **Length**: 3,664 → 3,724 (positions hard 2,500 breached by design; under the 4,000 critical line)
 - **Output**: synced to Hugo
+
+---
 
 ## 10:34 - refine-draft
 
@@ -4902,6 +4502,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2,764 → 2,765 / 3,500
 - **Output**: synced to Hugo
 
+---
+
 ## 10:27 - refine-draft
 
 - **Status**: Success
@@ -4909,6 +4511,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
 - **Changes**: ego-depletion record recalibrated to the two-sided reading of [[concepts/mental-effort]] L84 (figures re-verified against that line, no fresh fetch): standard paradigm failed (Hagger 2016 d=0.04, CI [−0.07, 0.15], N=2,141; Vohs 2021 proponent-led d=0.06, N=3,531, data ~4× likelier under null) while an intensity-dependent effect remains possible (Dang 2025, 30–40-min antisaccade, 14 samples, d=0.31–0.35); neither restores the unitary-resource model. One-sided wording ("indistinguishable from zero … does not exist as advertised"; "collapsed the strength-resource model"; "collapsing the unitary-resource model"; Occam-section "collapsed (Hagger 2016)") removed. (1) testing-the-map-from-inside L132: Vohs + Dang added inline in the page's cite format, 4,335 → 4,387 (+52, ≤ +70 brief). (2) attention-as-causal-bridge L90: Hagger sentence rewritten two-sided; paid by dropping the redundant "Recent work complicates…" opener and "in structurally distinct ways" (the later "simplest identity" sentence carries that point); 5,108 → 5,108 (net 0, no reference lines added). (3) agency-void L132 + L162: Depletion clause rewritten two-sided with Vohs/Dang inline; zero-word pipe [[mental-effort|Three dissociations]] installed (page previously had no mental-effort link); paid by trimming "gating signals", "a separable construction" → "separable", "sub-personal" (Modulation), "exactly"/"what it grants access to is", and the repeat Hagger cite at L162; 3,257 → 3,257 (net 0). Vohs/Dang carry no ledger entries on pages 2 and 3 (over-gate; the piped mental-effort page holds both entries at its L196/L177). ai_system plus-joined with claude-fable-5-1 on all three.
 - **Published**: yes
+
+---
 
 ## 09:55 - deep-review
 
@@ -4921,6 +4525,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes** (editor-internal): Dennett/verificationism — Mode Two, unchanged; Dennett/narrator premise — Mode Three, his 2001 §3 reply confirmed verbatim
 - **Output**: [[reviews/deep-review-2026-10-08-multiple-drafts-model]]
 
+---
+
 ## 09:35 - refine-draft
 
 - **Task**: `concepts/where-the-substance-commitment-enters` — install "posited, not inferred" as a third failure mode in the canonical diagnostic, plus a Further Reading reciprocal to the Kant page (optimistic-2026-10-04 subject-and-individuation wing, Priority 3); applied inline by the driver with the review's exact text
@@ -4928,6 +4534,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: new paragraph after the "Both are corrected the same way…" paragraph (L71): **Inferred subject** — an article argues from felt unity, felt mine-ness or memory continuity to the persisting subject either home needs, the inference Kant's paralogisms diagnose (piped to kants-paralogisms-and-the-maps-subject#three-exposures); the subject is posited (tenets/background-commitments, Posit One) rather than inferred, so the correction is to cite the posit. Further Reading gains the Kant page, which cites this page twice. The bi-aspectual "aspects vs persisting subject" tension (operator-referred) untouched; the new mode is about inference, not which ontology supplies the subject.
 - **Length**: 1,891 → 1,967 / 3,500
 - **Output**: synced to Hugo
+
+---
 
 ## 09:20 - refine-draft
 
@@ -4937,12 +4545,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,354 → 3,352 / 3,500
 - **Output**: synced to Hugo
 
+---
+
 ## 09:06 - coalesce
 
 - **Task**: coalesce cycle slot — candidate search, abandon
 - **Status**: SUCCESS (no candidate; steady state, 40th consecutive abandon)
 - **Rationale**: full pairwise scan (sidecars filtered first; 30-day age floor; body-only words; affordable = both bodies summed under the section gate). Live/aged: topics 342/327, concepts 348/326, voids 113/103. Affordable pairs: topics **0**, voids **0** (unchanged from the last run), concepts 161 (140 with any tag/link overlap). Top concepts pair `phenomenal-depth` + `phenomenal-presentation` (sum 3,048, one mutual link, 7 shared tags) inverts on inspection: `phenomenal-presentation` L54 carries a `**Versus [[phenomenal-depth]].**` boundary paragraph (depth = layered structure within a presented state; presentation = the mode of givenness) — a deliberately differentiated sibling. Every other top-12 pair (`perception`+`phenomenal-depth`, `phenomenal-depth`+`philosophy-of-mind`, `+valence`, `+functional-seeming`, …) has **zero body wikilinks in either direction**; the apparent overlap is frontmatter tag membership plus shared outbound hub links (qualia, phenomenal-overflow, tenets), which is not a link. The three pairs the driver excluded were not re-examined. Fork not invoked; nothing merged.
 - **Output**: none
+
+---
 
 ## 08:35 - refine-draft
 
@@ -4951,6 +4563,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: prebiotic-collapse — heading "Objective Reduction with Consciousness Modulation" → "…with Interface Preemption" (no live page deep-linked the old anchor); "What consciousness adds is *modulation*" → "*preemption*"; the Zeno sentence that gave consciousness a timing role → "Consciousness initiates no collapse; via attention it preempts the outcome, selecting *within* an already-collapsing physics rather than sourcing the collapse" (the quoted span thoughtful-local-friendliness L81 cites preserved verbatim); "collapse-priority problem" → "collapse-priority debt" so the anchor lands on the carriers' name; description likewise. L130 and L158's quoted tenets-level label untouched. Riders: post-decoherence-selection L47 and evolution-of-consciousness L133 "Which process acts first…" → "What secures that ordering…"; evolution-of-consciousness L155 "modulating quantum collapse" → "preempting token selection"; forward-in-time L155 "objective reduction with consciousness modulation … provide baseline selection throughout the universe; consciousness interfaces only" → "…with interface preemption … fix collapse and outcome universe-wide; consciousness preempts outcomes only". Calibration unchanged (preemption stays a posit under mechanism debt).
 - **Length**: prebiotic-collapse 3,606 → 3,605 (over the 3,500 gate; net −1); post-decoherence-selection 3,216 → 3,216; evolution-of-consciousness 3,479 → 3,479; forward-in-time 3,988 → 3,988 (all zero-word)
 - **Output**: synced to Hugo
+
+---
 
 ## 08:31 - deep-review
 - **Status**: Success
@@ -4961,6 +4575,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Enhancements made**: 2 (Böhme "common reality of the perceiver and the perceived" p. 122 with his non-dualist stance stated; Casey's place-eclipsed-by-space frame for the Dwelling section)
 - **Lens**: theory statements against the publisher of record — six prior reviews certified the metadata only; the fused term survived all six. Reasoning modes unchanged from 07-17 (IIT/functionalist Mode Three; physicalist brain-state Mode Two; eliminativist/Buddhist Mode Three).
 - **Output**: [[reviews/deep-review-2026-10-08-consciousness-and-the-phenomenology-of-place]]
+
+---
 
 ## 07:53 - positions-evolve
 - **Status**: Success
@@ -4974,6 +4590,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - `ai_system` plus-joined `+claude-fable-5-1` on both; `ai_modified` 2026-10-08T07:53:02+00:00 on both (date -u).
 - **Published**: yes (synced to Hugo)
 - **Cascade**: none — no band moved, no dependency changed. P-I3's note cites the clinical article, which is not in its *Argued in*; left as a note-level citation, since the article argues P-CS4's reading rather than P-I3's unreadability claim.
+
+---
 
 ## 07:38 - refine-draft
 - **Status**: Success
@@ -4989,6 +4607,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Length: 3,841 → 3,898 (+57; brief ceiling +60; gate ≥4,000 not reached). `ai_system` plus-joined `+claude-fable-5-1`.
 - **Published**: yes (synced to Hugo)
 
+---
+
 ## 06:50 - refine-draft
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]
@@ -4998,6 +4618,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,467 → 3,501 body words (net +34, budget ≤ +40; topics hard gate 4,000).
 - **Published**: yes
 - **Driver addendum (06:53Z)**: the Occam bullet (L201) carried the same crude foil — "A simpler model (identity theory) fails to account for the dissociation pattern" — replaced with a one-channel-model formulation that both readings pay for (+13), so the page no longer names identity theory as the foil anywhere outside L177/L179's own retirement of it.
+
+---
 
 ## 06:21 - refine-draft
 - **Status**: Success
@@ -5009,6 +4631,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` 2026-10-08T06:20:40+00:00; `ai_system` +claude-fable-5-1 appended; `modified` 2026-10-08
 - **Not done**: no edit to todo.md or any content article; no commit (orchestrator)
 - **Published**: yes (sync both trees)
+
+---
 
 ## 06:11 - deep-review
 - **Status**: Success
@@ -5024,6 +4648,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Output**: [[reviews/deep-review-2026-10-08-valence-and-conscious-selection]]
 - **Published**: yes (synced)
 
+---
+
 ## 05:27 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
@@ -5037,6 +4663,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Calibration**: conclusion unchanged ("neither reading is forced"; compatible without favouring over predictive-processing physicalism); items (8), (10), (16) and the description lower or hold the tier; nothing rises. Title untouched (human decision). Engagement with the predictive-processing/functionalist rival: Mode Three (framework-boundary), as the article already marks at L131/L151; (16) removes the one sentence that read as waiving rather than marking the cost.
 - **Published**: yes (synced)
 
+---
+
 ## 05:12 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-08
@@ -5048,6 +4676,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Human decision recorded, not minted**: the retitle both reviewers propose ("…as a Constraint on Interface Models") — URL change with inbound links; body-level recalibration (P1 item 9) carries the substance. No condense proposed (4,694/4,000 standing human length decision)
 - **Output**: [[reviews/outer-review-synthesis-2026-10-08]]
 
+---
+
 ## 04:50 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 (Research mode, 259 sources, 19m 16s; collected 04:38Z from the 03:10Z commission on the first readiness poll — artifact tile present, no stop button, body stable at 39,685 chars across a 10 s window; blob-download extraction, 47,835 chars / 5,593 words)
@@ -5057,6 +4687,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **High-value findings**: 8 convergent with the ChatGPT review (intact-substrate ladder, Sierra→Phillips, Hassa PPI, Voon qualifiers, amnesia recovery/terminal lucidity, Anderson & Hanslmayr, sedation, Reinders gloss + Beker) + 6 new on the target (L3/L118/L161 body-to-surface propagation; L74/L78 DID opening vs objective transfer; L92 "recurrent" factor vs Simeon 2008; L127 pharmacological-dissociation independence vs the ketamine predictive-coding literature; L78 P-I3/P-I4 clause; L84 header) + 1 sibling (split-brain L54 lede / L110 / L152 threshold-vs-graded) + 1 register gap (no clinical-dissociation entry anywhere in `positions/`) + 1 methodology (body-downgrade propagation gate)
 - **Tasks generated**: 2 minted (P2: 2) + 2 amended — todo.md L1883 P1 (target article) amended with a "Convergent (Claude)" addendum, items (9)–(14), still length-neutral; L1923 P2 (`evidential-status-discipline`) amended with the propagation rule; **new** L1935 P2 refine-draft `topics/split-brain-consciousness`; **new** L1948 P2 positions-evolve (extend P-CS4 to clinical dissociation at *compatible*; dated DID note under P-I3). Not minted: retitle to "…as a Constraint on Interface Models" (URL change — human decision, recorded in the review); conversion-disorder retitle (human; description already hedged); IIT label; Janet; Kastrup (optional item in the P1).
 - **Convergence**: two independent reviewers, same day, same eight loci — `/combine-outer-reviews` will see it once the Gemini leg resolves (currently `failed`: plan stage hung twice 04:25Z).
+
+---
 
 ## 04:03 - outer-review
 - **Status**: Success
@@ -5068,6 +4700,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Partly disputed**: Marsh 2021 ownership objection already handled by the 2026-09-17 refine (L82 "on the meta-memory reading they discuss"); the targeted-lesion discriminator objection misreads the test article, which does state divergent ordering predictions; changelog-traceability complaint is a non-defect
 - **Tasks generated**: 3 (P1: 1, P2: 2) — todo.md L1883 (target article, length-neutral with a named trim list; 4,694/4,000 standing human length decision), L1904 (`neurological-dissociations-as-interface-architecture`), L1916 (`project/evidential-status-discipline`). Not minted: memory-channel ordering downgrade (research-grade; article over hard ceiling), subject-individuation framework, and the remaining methodology items (overlap with five open NEEDS-HUMAN methodology entries)
 - **Sibling legs**: Claude Fable 5.1 pending (commissioned 03:10Z, same subject); Gemini leg not yet commissioned this cycle
+
+---
 
 ## 03:36 - refine-draft
 - **Status**: Success
@@ -5081,6 +4715,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: todo.md, the research note, host pages (explanatory-gap L121 and PCS L137 have their own P3).
 - **Published**: yes
 
+---
+
 ## 03:29 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `concepts/rival-explanations-of-the-explanatory-gap` (fresh create 23:06Z; 2,974/3,500, prose 2,560) against its research note and the seven integration hosts (hub L38/L92/L122/L128, primitive-identities L101, AAM L83, PCS L137, explanatory-gap L121, meta-problem L95, ignorance-hypothesis L66)
@@ -5088,6 +4724,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Findings**: (1) L105 "rather than the mainstream statement of it" inverts Kammerer's abstract ("One of the most common strategies") and contradicts P-D1 L46 / ignorance-hypothesis L66; (2) L83 states Kammerer's erosion-under-reflection premise as the fallacy theorists' own prediction and L73 leaves Papineau's "very seductive fallacy" (p. 16) unused; (3) L69 "with training and culture untested" attributed to metaproblem L119, which does not say it; (4) C3 "no further posit" vs C2 "passes by construction" asymmetry unexplained; (5) L45 drops Chalmers's "many of" / "plausibly" / "strong intuition"; (6) L61 subject mismatch; hosts: PCS L137 anchor "physicalism's best strategy" and explanatory-gap L121 flat "points to a gap in the referents" both assert what the target page scores as a standoff
 - **Priority List (cap 4, exact old/new in file)**: (1) P2 article, net +34 with two attribution-free trims, headroom 525 → 491; (2) P3 explanatory-gap L121 net +2, headroom 4 → 2; (3) P3 PCS L137 +6, headroom 54 → 48; (4) P3 optional prim L101 (+3) and meta-problem L95 (+10)
 - **Output**: [[reviews/pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap]]
+
+---
 
 ## 02:50 - refine-draft
 
@@ -5097,6 +4735,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: indexical 3,412 → 3,417 / 4,000; haecceity 3,483 → 3,483 / 3,500; emergent-dualism 2,146 → 2,154 / 3,500
 - **Output**: synced to Hugo
 
+---
+
 ## 01:55 - positions-evolve
 
 - **Task**: update `positions/ai-consciousness-scope` P-AC3 (todo P3; source pessimistic-2026-10-03-numbing-void, plus the 2026-10-04 numbing-void refine): *Asserts* derived additivity from numerical distinctness alone ("each copy is a numerically distinct subject, so the moral weight is additive"), but Lewis and Taurek count separate sufferers too and deny summing (voids/numbing-void L74, refs 10 and 15)
@@ -5105,6 +4745,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,076 → 3,135 (+59; register breaches 2,500 by design, under the 4,000 critical line)
 - **Cascade (not edited)**: pages restating additivity as following from distinctness alone — concepts/moral-census-opacity L100 ("each is a numerically distinct subject, so N copies carry roughly N times the disvalue"); topics/ethics-of-possible-ai-consciousness L66 ("P-AC3, which follows from the Map's closed-individualist commitment" — its own L64 already says the tenets underdetermine copy-counting, so L66 is internally inconsistent with L64); apex/machine-question L195 ("a second, numerically distinct subject … would therefore multiply moral patients", then links "conscious copies would be morally additive" — count-multiplication is fine, the link label does the summing). Neutral: apex/moral-status-of-edge-cases L139, positions/positions.md L87, individuation-and-subjecthood L93 (state the rule, do not derive it). Seam reported: topics/phenomenal-value-realism L181 token-based / non-interchangeable value shares the separateness premise with Taurek but is silent on summing, and its L183 counts replica tokens as additional mattering — consistent with the installed rule, not contradictory. Note: apex/identity-across-transformations is listed in Argued in yet contains no additivity / copy-count claim (grep: no "additiv", "numerically distinct", or "P-AC3") — audit-mode item
 - **Output**: `obsidian/positions/ai-consciousness-scope.md`, synced to Hugo
+
+---
 
 ## 01:40 - deep-review
 - **Status**: Success
@@ -5116,12 +4758,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: Klein/Gerrans self-model reading: Mode Three (recorded, not adopted; bridge routed to constitution-vs-causal-work); no new named-opponent replies
 - **Output**: [[reviews/deep-review-2026-10-08-pain-asymbolia]]
 
+---
+
 ## 01:20 - refine-draft
 
 - **Task**: numbing-void integration seams on four pages (pessimistic-2026-10-03-numbing-void, Priority 4); applied inline by the driver with the review's exact text, after the 2026-10-04 numbing-void refine
 - **Status**: SUCCESS
 - **Changes**: `concepts/empathy` L107 — the structural no-total fact is no longer stated as the CAUSE of the plateau ("…so felt concern does not scale…" dropped; "on either framework" kept) (−10; 2,954 → 2,944/3,500). `voids/voids.md` index entry — "why no feeling could" → "why no one feels the sum"; "closed individualism" → "closed individualism and its counting rule" (index exempt from gates). `voids/self-maintained-cognitive-limits` L93 — "Feeling shows the pattern … damp" → "Feeling may show the pattern … can damp" (+2; 2,640 → 2,642/3,000). `voids/voids-between-minds` L86 — "([[numbing-void|compassion]] reaches across but cannot close)" → "(compassion reaches across but cannot close, nor [[numbing-void|scale]])" (+2; 2,985 → 2,987/3,000, gate >=). `concepts/moral-census-opacity` left alone (its seam is accurate; 3,495/3,500).
 - **Output**: synced to Hugo
+
+---
 
 ## 01:05 - positions-evolve
 
@@ -5131,12 +4777,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: individuation-and-subjecthood 3,938 → 3,975 (register breaches 2,500 by design; under the 4,000 critical line); arguments-for-mental-causation 3,292 → 3,321
 - **Output**: synced to Hugo
 
+---
+
 ## 00:36 - research-voids
 - **Status**: Skipped by design (no new void researched; no file created; no state change)
 - **Measured**: voids **113/115** by `tools.evolution.state.count_section_files("voids")` at 2026-10-08T00:34:54+00:00 (`ls` gives 114 including the index); `max_voids: 115`. Not at capacity, so the cap gate did not fire.
 - **Banked-notes tally**: 215 `research/voids-*.md` notes; **26 have no voids article** at stem level (27 flagged, minus the 2026-10-06 triage comparison note, which proposes no article). Method: a note is "matched" if its filename is cited anywhere in `obsidian/voids/` or its stem (date stripped) is a substring of / superstring of a live or archived voids filename — stem-level only, so a banked subject that was folded under a different name reads as unmatched. Unmatched stems: boredom, certainty, combination, comparative-phenomenology, complementarity, configuration, constitutive-exclusion, contingency, contrast-dependence, expertise (×2 notes), grammar, grounding, individuation, insight-dissolution, intelligibility, modal, negation, palette, persistence, perspectival, predictive, qualitative-novelty, readiness, teleological, threshold. Of these only **grammar** is in `task_chains.pending_articles` (target_section voids); veto, dormancy and serial-order are matched at stem level only because the triage note and the [[voids]] register cite them — none has a live article or an expand task.
 - **Why skipped**: two slots remain, the operator's P3 "NEEDS-HUMAN (voids slot)" decision (todo L1455) is still open, and the 2026-10-06 triage ranks veto > dormancy > serial-order > grammar > contingency for them. The voids pipeline is LIFO, so a new note appended to `pending_articles` would be the first voids candidate replenish sees — ahead of grammar (ranked 4th, folded per the triage) and ahead of veto and dormancy, which are not in `pending_articles` at all. A sixth banked note cannot outrank those and would displace the ranking, exactly as the 2026-10-05 queue note and 2026-10-06 triage recorded. Dedupe considerations (citation-pairing) played no part in the decision.
 - **For the driver**: (1) grammar-void remains the only voids entry in `pending_articles`; if the operator adopts the triage recommendation it should be removed from there before replenish's unconsumed-research pass mints an expand for it, and veto/dormancy added instead. (2) The veto note's quote-fidelity flag on `topics/quantum-neural-timing-constraints` ("ballistic" L44, "before EMG onset" L99 vs Schultze-Kraft 2016 "movement onset") is still unminted per the 10-06 entry; not re-verified this run.
+
+---
 
 ## 23:50 - refine-draft
 
@@ -5145,6 +4795,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (1) `consistent-histories-interpretation` — `{#the-dowker-kent-set-selection-critique}` attribute added to the "## The Dowker–Kent Set-Selection Critique" heading (the unspaced en dash rendered `dowkerkent`), fixing the three hand-written links at L32/L44/L84 in one edit; (2) `content-externalism` — same fix on "## The phenomenal–intentional split" (`{#the-phenomenal-intentional-split}`); (3) `parsimony-epistemology` — the three `%20`-encoded markdown anchors at L94/L98/L138 moved to canonical same-page wikilinks (`[[#Three Dimensions of Simplicity|described above]]` etc.), plus a FOURTH of the same class the task had not listed, L162 `[examined above](#The%20Triple%20Failure%20in%20Consciousness)` (heading exists at L82); converter untouched; (4) `causal-powers` L71 — `[[interactionist-dualism#^bidirectional-interaction|…]]` → `[[tenets#^bidirectional-interaction|…]]` (the block id lives in tenets.md). Visible link text unchanged everywhere; length-neutral; `ai_system` held (mechanical repair); `last_deep_review` untouched. The three converter-class defects (conversion-disorder L101, pupillometry L102, control-theoretic-will L104) left alone as ruled.
 - **Verification**: fresh `hugo -d <scratch>` build — every `href="#…"` now has a matching `id="…"` on its page (dowker-kent 3/1, phenomenal-intentional 1/1, three-dimensions 2/1, four-accounts 1/1, triple-failure 1/1; causal-powers → `/tenets/#bidirectional-interaction` resolves). `%20` count in both trees: 0.
 - **Output**: synced to Hugo
+
+---
 
 ## 23:38 - refine-draft
 - **Status**: Success
@@ -5162,6 +4814,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not edited**: tenets.md, type-a-type-b-and-type-c-physicalism, rival-explanations-of-the-explanatory-gap, todo.md.
 - **Published**: yes (sync run; both trees verified)
 
+---
+
 ## 23:15 - expand-topic
 - **Status**: Success
 - **Topic**: Rival explanations of the explanatory gap — dualism against the phenomenal-concepts strategy by stated criteria (C1–C7), and why the comparison leaves Type-B at *compatible*
@@ -5171,6 +4825,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Result recorded**: dualism leads C2, C6 (fallacy form of PCS only; shared with ignorance and illusion accounts) and C5 (conditional on the master argument); Type-B leads C3; C1, C4 tie; C7 open. Tier against Type-B *compatible*; against the fallacy family *compatible* now, *suggestive* only on experimental confirmation and non-separating; *discriminating* nowhere. IBE framing stated as the Map's; Kammerer's "indirect weight to the disjunction" line quoted; Bogardus/Sundström/Fiala et al. cited only via Chalmers 2018 and Papineau 2011; Tye 2008 dated by Crossref with the 2009 corpus variant noted; Díaz 2021 cited per metaproblem page L119 (science-quality ratings; cognitive style n.s.; training/culture untested)
 - **Host edits** (all within quoted headrooms; ai_modified + ai_system plus-joined): type-a-type-b-and-type-c-physicalism L38/L92/L122/L128 "not yet run / not yet made" → pointers, comparison recorded as run with Type-B at *compatible* (2,848→2,864; L123 untouched); primitive-identities-and-strong-necessities L101 zero-word pipe + "still to be run" → "now leaves Type-B *compatible*" (3,337→3,336); arguments-against-materialism L83 re-pointed (3,431→3,432); phenomenal-concepts-strategy L137 zero-word pipe (3,448→3,448); explanatory-gap L121 zero-word pipe (3,495→3,495); meta-problem-of-consciousness L95 pointer (3,414→3,426); ignorance-hypothesis L66 Stoljar 2005 clause + reference inserted and list renumbered (2,992→3,026)
 - **Chain**: evolution-state `pending_articles` entry for the research note removed; `pending_cross_reviews` entry added (targets: IBE page, PCS page, explanatory-gap)
+
+---
 
 ## 22:54 - refine-draft
 - **Status**: Success
@@ -5183,6 +4839,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not edited**: type-identity-theory, phenomenal-concepts-strategy, todo.md. No commit.
 - **Published**: yes
 
+---
+
 ## 22:26 - deep-review
 - **Status**: Success
 - **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
@@ -5193,6 +4851,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Citations**: 8/8 real-correct; raw text fetched for Deroy & Auvray 2012 (Frontiers) and Bach-y-Rita & Kercel 2003 (CiteSeerX mirror); Ramachandran 1996 abstract at Europe PMC; direction verified for all three. Engagement with O'Regan/Noë: Mode One (two-horn dilemma); enactivist malformed-question reply: Mode Three; overall mixed.
 - **Output**: [[reviews/deep-review-2026-10-07-sensorimotor-contingencies-and-the-interface]]
 
+---
+
 ## 21:50 - refine-draft
 
 - **Task**: `voids/inference-void` L61 + `voids/tacit-integration-void` L49/L107 — Polanyi's slogan is "we **can** know more than we can tell" (*The Tacit Dimension*, 1966, p. 4; Google Books search-within verified 2026-10-03); three loci still quoted it without "can" (deep-review-2026-10-03-carrolls-regress follow-up); applied inline by the driver
@@ -5200,6 +4860,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Source check**: the task asked for the wording of "The Logic of Tacit Inference" (*Philosophy* 41(155), 1966, DOI 10.1017/S0031819100066110) before changing anything. From this host only the Cambridge Core landing page is reachable: its text-abstract (the paper's opening paragraph, "I propose to bring fresh evidence here for my theory of knowledge…") does not contain the sentence, and the full text is paywalled. Google Books snippet search for the slogan returns only secondary sources, all of which quote the book. Applied the task's fallback: L61 keeps the paper as the source of the positive characterisation and attributes the quotation to *The Tacit Dimension* p. 4 with "can" (both works are already in the References, items 3–4). tacit-integration-void L49 and L107 present the slogan in quotation marks and are unattributed; "can" restored (its reference 14 is *The Tacit Dimension*).
 - **Length**: inference-void 2,904 → 2,916 / 3,000; tacit-integration-void 2,248 → 2,250 / 3,000
 - **Output**: synced to Hugo
+
+---
 
 ## 21:37 - refine-draft
 
@@ -5212,6 +4874,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: `claude-fable-5-1+claude-opus-5-5` → `+claude-fable-5-1` appended (this pass ran on claude-fable-5-1)
 - **Published**: yes
 
+---
+
 ## 20:50 - refine-draft
 
 - **Task**: `topics/contemplative-practice-as-philosophical-evidence` L109/L157/L167/L221 + `concepts/phenomenology-of-choice-and-volition` L151 — carry "consonant, not probative" against illusionism (optimistic-2026-10-03 witness/contemplative-modes wing, Priority 3); applied inline by the driver with the review's exact text
@@ -5219,6 +4883,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: contemplative-practice L157 "Against illusionism" → "On illusionism", and the finer-discrimination clause no longer claims to be "hard to explain" on confabulation — a self-model trained on a tradition's vocabulary would sharpen too, so it is consonant with the Map's reading rather than evidence against illusionism (piped to witness-consciousness#The Illusionist Challenge); L167 zero-word pipe to predictive-processing-and-dualism's beautiful-loop section; L221 "without doing" → "with little doing" (matches the witness page's "presence with little intervention"); L109 *sākṣin* piped to witness-consciousness. Choice-and-volition L151: the "if effort were illusory, practice should dissolve the illusion" inference replaced by the same consonant-not-probative reading (first prose link to meditation-and-consciousness-modes); falsifier (4) at L155 untouched. Tenet 3 quantifier not settled.
 - **Length**: contemplative-practice 3,884 → 3,900 / 4,000; choice-and-volition 2,864 → 2,879 / 3,500
 - **Output**: synced to Hugo
+
+---
 
 ## 20:40 - deep-review
 
@@ -5232,6 +4898,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Follow-ups** (listed in the review file, not minted): Benatar/Shepherd volume-pages the length cap excluded; Mogensen print-year family decision across four files.
 - **Output**: [[reviews/deep-review-2026-10-07-consciousness-value-connection]]
 
+---
+
 ## 20:20 - refine-draft
 
 - **Task**: `topics/the-observer-witness-in-meditation` L44/L50/L52/L60–L63/L83 + `concepts/meditation-and-consciousness-modes` L52 — retire the pre-09-01 neural signature and mark the felt absence of steering (optimistic-2026-10-03 witness/contemplative-modes wing, Priority 2); applied inline by the driver with the review's exact text
@@ -5239,6 +4907,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: observer-witness L50 "Presence without intervention … What's absent is the doing: no selecting…" → "Presence with little intervention … the felt doing: no sense of selecting…" (the page's own description says "yet enough steering to cause its own reports"); table L60–L63: "Brain Signature" column → "Neural Correlate (effort axis)", "Frontal theta, ACC activation" → "PCC active with reported "efforting"", reduced-rate row → "PCC deactivated with reported effortlessness; alpha–theta convergence"; L83 DMN quieting marked meditation-general (Brewer et al. 2011 found it in concentration practice; piped to meditation-and-consciousness-modes#passive-witnessing); L44 *sakshi* piped to witness-consciousness (the topic's first prose link to its concept page); L52 Garrison 2013 piped to sham-controlled-neurofeedback-and-the-consciousness-comparator (reciprocal). Meditation-modes L52 "does not select, judge, or intervene" → "feels no selecting, judging, or intervening" (zero-word; matches L36 "barely intervenes" and L187 "felt absence of steering"). Held loci L36/L38/L42/L58/L65/L89/L111/L147/L169/L193 untouched (blocked P3, Tenet 3 quantifier decision).
 - **Length**: observer-witness 3,272 → 3,300 / 4,000 (+28); meditation-modes 3,492 → 3,492 / 3,500 (zero-word)
 - **Output**: synced to Hugo
+
+---
 
 ## 20:05 - positions-evolve
 
@@ -5248,12 +4918,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Cascade**: none required — P-D1 is a dependency of P-D2 and P-MC1, but neither cites the shift condition, and the Asserts is unchanged. Audit-mode item for later: the P-D1 Calibration parenthetical (grade B) still names only the phenomenal concept strategy as "the mainstream physicalist statement" of the shared premise; a grade-justification edit was out of this task's scope.
 - **Output**: `obsidian/positions/arguments-for-dualism.md`, synced to Hugo
 
+---
+
 ## 19:22 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/type-a-type-b-and-type-c-physicalism]], [[concepts/philosophical-zombies]], [[concepts/intrinsic-nature]]
 - **Original score**: n/a (targeted scoping; `scripts/curate.py` absent)
 - **Changes**: Three loci that assumed what Stoljar's ignorance hypothesis denies, per research/ignorance-hypothesis-2026-10-03 §Corpus Seams items 2/4/6 and §Tier calibration (P-M1). (1) Hub L123 only: tier head now "suggestive … ; against the ignorance hypothesis, compatible"; persistence clause scoped "except the [[ignorance-hypothesis]], which sets no timetable and so predicts it"; "evidence against Type-C" → "against closure-soon Type-C". 2,830→2,848. ai_system plus-joined claude-fable-5-1. (2) Zombies L67: "We are positively grasping" → "We positively grasp" (−1) funds "—all the *known* physics, the [[ignorance-hypothesis]] replies." 3,491→3,497 (ceiling 3,499). ai_system unchanged. (3) Intrinsic-nature L43: "robust and not a temporary gap in knowledge" → "robust across physics as practised"; appended that the permanence is a method-claim not a theorem, piped to [[physical-completeness]] (which calls it "a bet on the method-claim, not a proof"), with the ignorance hypothesis as the view that bets the other way. 2,422→2,456. ai_system plus-joined. Tier against IH kept at *compatible* throughout; no edit reads as refuting IH. Mode classification: all three are boundary-marking additions (Mode Three) — they name IH as the view that denies the premise, without claiming to refute it.
 - **Published**: yes
+
+---
 
 ## 19:06 - refine-draft
 
@@ -5269,6 +4943,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **References**: added Chalmers (1999) "Materialism and the Metaphysics of Modality", *PPR* 59(2), 473–496, DOI 10.2307/2653685 (chronological slot between 1996 and 2002). Chalmers 2003 was already listed.
 - **Published**: yes
 
+---
+
 ## 18:57 - deep-review
 
 - **Status**: Success
@@ -5282,6 +4958,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Follow-ups** (listed in the review file, not minted): research note L148 carries the seed phrase "may reflect philosophical training"; Díaz pages and Pautz volume/pages need a Chrome-window publisher check.
 - **Output**: [[reviews/deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism]]
 
+---
+
 ## 18:19 - refine-draft
 
 - **Task**: `topics/arguments-against-materialism` L83 + L141 (+ L111/L117 carries) — state the second-order comparison's status, count the replies the hub counts, attribute the majority (pessimistic-2026-10-07-type-b-wing-installs, Priority 2); applied inline by the driver with the review's exact text
@@ -5289,6 +4967,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (a) L83 "is routed on the Type-A/B/C page" → "is not yet run; the Type-A/B/C page records it as owed" (hub L92 row "not yet run"; the second-order IBE P3 stays blocked). (b) L83 "Three further replies reach it" → "…, with the two-dimensional argument a fourth, reach it" (piped to primitive-identities-and-strong-necessities#Strong Necessities, the hub's own route). (c) L141 "the Type-B majority … cost and modal arguments" → "Type-B, the reported majority, … cost, modal and a priori arguments" (hub L121 triad; the master argument is a priori). (d) L117 "as the previous section noted" → "as noted above". (e) L111 "The most common defence" → "A common defence". L99 and L109–L113 otherwise untouched; calibration unchanged (compatible tier).
 - **Length**: 3,419 → 3,431 / 4,000 (+12; gate >=)
 - **Output**: synced to Hugo
+
+---
 
 ## 18:05 - refine-draft
 
@@ -5298,6 +4978,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,704 → 3,712 / 4,000 (+8; gate >=)
 - **Output**: synced to Hugo
 
+---
+
 ## 17:43 - pessimistic-review
 - **Status**: Success (reports only; no content or todo.md edits)
 - **Content reviewed**: the four exact-text substitutions installed today 14:35Z–15:50Z from the Type-B wing Priority Lists — hard-problem L233 (three readings), arguments-against-materialism L83 + L141 (assembled case against Type-B), philosophy-of-science-under-dualism L84 (acquaintance asymmetry scoped to the illusionist), zombie-master L112 (Chalmers 2007 master argument) — each read against the hub (L36–L40, L62, L79–L123), revelation-thesis (L36, L76–L80), PCS (L67–L79, L97, L187) and zombie-master's own response map.
@@ -5305,6 +4987,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (4, measured headroom, `>=` gate)**: (1) HP L233 attribute the majority claim, +2 (optional +2 "weakly"; optional +4 on L237 to retire hub Misrouting 1 from the same page), headroom 295; (2) AAM L83/L141 "not yet run" +5, fourth reply (2D argument by hub route) +6, "cost, modal and a priori" +3, carries L117 −2 and L111 −1, net +11, headroom 580; (3) PSD L84 +1, headroom 685; (4) ZMA L112 +1 optional, headroom 373.
 - **Not re-minted**: todo L1465 (second-order IBE, blocked), todo L1477 (ZMA L102 "load-bearing"/intension coincidence).
 - **Output**: [[reviews/pessimistic-2026-10-07-type-b-wing-installs]]
+
+---
 
 ## 17:21 - refine-draft
 - **Status**: Success
@@ -5318,6 +5002,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes (synced)
 - **Driver addendum (17:23Z)**: the fork left a fourth in-text "(2021)" on testing-consciousness-collapse L161 ("proposed by Chalmers and McQueen (2021) make this concrete") — corrected to 2022 by the driver; word-neutral.
 
+---
+
 ## 16:36 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/selection-only-channel]]
@@ -5328,6 +5014,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Links added**: [[concepts/self-stultification]] (#Application to Epiphenomenalism), [[concepts/trumping-preemption]] (#Costs of the Template), [[positions/quantum-interface]] (#^mechanism-debt), [[concepts/epiphenomenalism]] (#The Self-Stultification Problem); heading-text anchor dialect matched to trumping-preemption's own links.
 - **Engagements**: none new (no named opponent; the paragraph marks a Map-internal posit honestly as a posit)
 - **Published**: yes
+
+---
 
 ## 16:22 - deep-review
 - **Status**: Success
@@ -5341,6 +5029,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Follow-ups (not minted)**: consciousness-and-the-physics-of-information L68 same IIT defect; decombination-problem originator inconsistency across four pages
 - **Output**: [[reviews/deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics]]
 
+---
+
 ## 16:07 - refine-draft
 
 - **Task**: `apex/open-question-ai-consciousness` + `topics/quantum-hardware-and-the-ai-consciousness-coupling` — drop the unsupported "Block's role functionalism" attribution and replace the QEC premise P-AS1 retired on 2026-09-30 (unitary evolution without collapse until a terminal readout / fixed code basis) with P-AS1's current argument (decoder erases what syndrome measurements select; feed-forward consumes each outcome as a fixed branch of the algorithm). Source: deep-review 2026-10-02 22:51Z of `topics/quantum-state-inheritance-in-ai` (out-of-scope findings) + driver check 22:53Z.
@@ -5350,6 +5040,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: apex 5,777 → 5,766 / 5,000 (−11; already over the gate, edit net-negative as required); quantum-hardware 2,719 → 2,857 / 4,000 (+138)
 - **Output**: synced to Hugo
 
+---
+
 ## 15:50 - refine-draft
 
 - **Task**: `concepts/zombie-master-argument` L112 + L132 + References — name Chalmers's 2007 master argument against the phenomenal concepts strategy and say why it reaches Type-B (optimistic-2026-10-02-physicalist-typing-wing, Priority 3); applied inline by the driver with the review's exact text
@@ -5357,6 +5049,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (a) L112: the unnamed dilemma → Chalmers (2007)'s "master argument" (a second use of the name), horns per the PCS page's gloss, plus the two verbatim spans — "an assumption that type-B materialists typically grant" and "we are assuming nothing about the relationship between conceivability and possibility" — so denying step 2 is no defence; Carruthers and Veillet's reply added to the pointer. Both spans re-verified this run by grep against the consc.net PDF (1 hit each). (b) L132: zero-word piped link to `topics/parsimony-case-for-interactionist-dualism`. (c) References: Chalmers 2007 entry (OUP, pp. 167–194, DOI as on the Duhem–Quine page) inserted before Jackson. Response map (L62–94) untouched.
 - **Length**: 3,042 → 3,126 / 3,500 (+84, as the review predicted; gate >=)
 - **Output**: synced to Hugo
+
+---
 
 ## 15:05 - refine-draft
 
@@ -5366,6 +5060,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2,809 → 2,814 / 3,500 (+5, as the review predicted; gate >=)
 - **Output**: synced to Hugo
 
+---
+
 ## 14:50 - refine-draft
 
 - **Task**: `topics/arguments-against-materialism` L83 + L141 — complete the one-paragraph case against Type-B and stop exempting the majority from the majority (optimistic-2026-10-07-type-b-sweep-wing, Priority 2); applied inline by the driver with the review's exact text
@@ -5373,6 +5069,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (a) L83, after "These bear on plausibility rather than evidence.": three further replies that reach Type-B (the zombie-master water/H₂O disanalogy; Chalmers's master argument, assuming nothing about conceivability→possibility; Tenet 2's defeater-removal "without adding evidence") plus the one reply that could lift the tier — the second-order comparison — piped to the hub's `#which-map-reply-reaches-which-type` section (re-point to `concepts/rival-explanations-of-the-explanatory-gap` when that expand-topic lands). (b) L141: "the materialist majority, Type-B aside, rests on a failure to take consciousness seriously" → the positions that deny or defer the datum fail to take it seriously; the Type-B majority, which grants it, is met by the cost and modal arguments above rather than by this charge. L99 and L109–L113 untouched. Grounds hub L88–L94, L101, L105, L122. Calibration unchanged (compatible tier).
 - **Length**: 3,299 → 3,419 / 4,000 (+120, as the review predicted; gate >=)
 - **Output**: synced to Hugo
+
+---
 
 ## 14:35 - refine-draft
 
@@ -5382,6 +5080,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,685 → 3,704 / 4,000 (gate >=)
 - **Output**: synced to Hugo
 
+---
+
 ## 14:19 - refine-draft
 
 - **Task**: `voids/assent-void` L43 + L73 — the two "four live positions" sentences listed different fours (pessimistic-2026-10-07-assent-void-integration-wing, Issues 2–3) — CORRECTION, not condense; applied inline by the driver with the review's exact text
@@ -5389,6 +5089,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: L43 "no tag for some propositions" (a doubled Nadarevic & Erdfelder gloss that omitted Vorms) → "a prior-weighted tag at encoding", so the lead's four match the body's; L73 "on which some propositions receive no first truth-value at all. These disagree about what happens first, and whether anything does;" → "on which no validity tag need be stored. These disagree about what happens first;" — dropping the inference beyond N&E 2019's abstract (memory tags for feedback). Seam section, S&V+Hieronymi pair, Winters/Booth/Alston and K10 substitutions untouched. The NEEDS-HUMAN condense entry remains pending.
 - **Length**: 2,965 → 2,959 / 3,000 (net −6; gate >=)
 - **Output**: synced to Hugo
+
+---
 
 ## 13:58 - deep-review
 
@@ -5403,6 +5105,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: plus-joined claude-fable-5-1
 - **Output**: [[reviews/deep-review-2026-10-07-history-of-the-interaction-problem]]; synced to Hugo
 
+---
+
 ## 13:19 - refine-draft
 
 - **Task**: `voids/suspension-void` L58 — the 07:39Z "countermodel" clause over-reads Nadarevic & Erdfelder 2019 (pessimistic-2026-10-07-assent-void-integration-wing, Issue 2) — applied inline by the driver with the review's exact text
@@ -5410,6 +5114,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: "the rival model of optional, context-dependent tagging, on which some propositions receive no truth-value, makes untagged representations a countermodel to any universal first-assignment thesis" → "the load results that contradict the Spinozan model replace it with optional, context-dependent tagging, a memory-for-feedback model that leaves an untagged statement's doxastic status unstated" — stating only what the Europe PMC abstract licenses (tags are memory representations of feedback; the flexible model says nothing about an untagged statement's doxastic status). No parenthetical cite added (reference absent on this page; citation lives on the linked assent-void). Gilbert/Mandelbaum conditional and the assent-void link kept.
 - **Length**: 2,996 → 2,996 / 3,000 (net 0; gate >=)
 - **Output**: synced to Hugo
+
+---
 
 ## 13:04 - refine-draft
 
@@ -5419,12 +5125,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2,991 → 2,997 / 3,000 (+6 as costed; gate >=)
 - **Output**: synced to Hugo
 
+---
+
 ## 12:50 - coalesce
 
 - **Task**: coalesce cycle slot — driver-level abandon
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: re-ran the 2026-10-06 14:51Z pass's stated re-run condition (`git log --diff-filter=ADR` over topics/, concepts/, voids/, apex/, positions/, archive/ since that sweep): zero articles added, removed or renamed. That sweep found 0 feasible pairs within sections and best similarity 0.135 on the voids-into-host screen; a pool that has only shrunk under the 14-day age floor cannot yield a new feasible pair. Fork not invoked.
 - **Output**: none
+
+---
 
 ## 12:22 - refine-draft
 - **Status**: Success
@@ -5438,6 +5148,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sync**: obsidian + hugo verified
 - **Published**: yes
 
+---
+
 ## 12:10 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
@@ -5450,6 +5162,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verified**: both trees (obsidian + hugo/content) for the article and the archive page after `sync.py`.
 - **Output**: [[reviews/deep-review-2026-10-07-consciousness-disruption-and-the-mind-brain-interface]]
 
+---
+
 ## 11:52 - research-topic
 - **Status**: Success
 - **Topic**: Assent before Descartes: Stoic synkatathesis, Augustine and Spinoza on belief and will (harvested from outer-review-synthesis-2026-10-07 K11; target section topics; history only — the contemporary debate is in research/doxastic-voluntarism-2026-10-07)
@@ -5458,6 +5172,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Key finds**: Cicero 2.37–38 pairs "wholly in our own power" with "the mind, too, must yield to what is evident" (the ancestor of evaluative control); Holcot (c. 1333, per SEP/Boespflug) states both the Alston test and the Williams contradiction argument; Spinoza's "Spinozan model" anchor is the IIP49 scholium (boy and horse), not the corollary; Epictetus 3.12.14 is about testing impressions, with Blackson 2025 disputing the SEP's voluntarist reading
 - **Not reached**: Scotus (no source reached — omit or fetch); Gilbert 1991 PDF (403/HTML); Cicero *De Fato*; Sextus primary; Husserl not re-fetched (cross-referenced to the 02-14 reality-feeling note by brief)
 - **Chain**: research-topic SKILL.md has no pending_articles step; entry appended by targeted text insert to task_chains.pending_articles (target_section topics); todo.md untouched; nothing committed
+
+---
 
 ## 11:33 - research-topic
 - **Status**: Success
@@ -5468,6 +5184,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Metadata traps**: Bennett 1990 author appears as "O./Onathan Bennett" at Crossref/OpenAlex (is Jonathan); SEP HTML has non-breaking spaces inside "widely held to be unsuccessful"
 - **Chain**: research-topic SKILL.md has no pending_articles step; entry added by hand to task_chains.pending_articles (target_section concepts) so replenish can mint the expand-topic
 
+---
+
 ## 10:42 - optimistic-review
 - **Status**: Success (reports only; no content or todo.md edits)
 - **Content reviewed**: the Type-B sweep wing — the ten pages retyped on 10-06/07 (parsimony-epistemology, modal-structure-of-phenomenal-properties, reductionism, epistemology, philosophical-zombies, knowledge-argument, arguments-against-materialism, consciousness-defeats-explanation, inference-to-the-best-explanation-against-dualism, consciousness-and-scientific-explanation) plus the hub type-a-type-b-and-type-c-physicalism and phenomenal-concepts-strategy; neighbours hard-problem-of-consciousness, materialism, dualist-perception measured and grepped
@@ -5476,6 +5194,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Priority List (4 items, measured headroom, `>=` gate)**: (1) hard-problem-of-consciousness L233 three readings, +19 (headroom 314); (2) arguments-against-materialism L83 +95 and L141 +25, completing the one-paragraph case and un-exempting the Type-B majority (headroom 700); (3) hub L112 definitional-form sentence, +49 (headroom 669; L112 owned by no open task); (4) materialism L192 +29 and L142 +3 (headroom 288)
 - **Not re-raised**: open P3s on PCS L39/L85/L139, explanatory-gap L121/L141, hub L123/L38/L92/L122/L128, IBE L64/L74/L80; philosophical-zombies L97 already fixed at c74ba700b9 this morning; the 10-02 wing review's items
 - **Output**: [[reviews/optimistic-2026-10-07-type-b-sweep-wing]]
+
+---
 
 ## 10:22 - refine-draft
 - **Status**: Success
@@ -5492,6 +5212,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - `ai_system` already carried claude-fable-5-1; `ai_modified` set from `date -u`.
 - **Published**: yes (sync run)
 
+---
+
 ## 10:07 - refine-draft
 - **Status**: Success
 - **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]
@@ -5502,6 +5224,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Restatement trims to pay for the above (−45)**: L49 "Neither theory contains the law, neither needs it, and confirming either theory would not supply it" folded into the preceding sentence (the confirmation point survives at L85 and L121); L45 "and the mechanism is blind"; L53 "which remains compatible with no-collapse interpretations too" (made at L87/L89); L39 "therefore … throughout" and "experimentally" (L85 lede keeps it); L121 "and only the substrate" (restated by the paragraph's last sentence); L99 "Its standing in the register is specific:" → "In the register".
 - **Engagement classification** (editor-internal): Cucu (2020)/Cucu & Pitts (2019) on conservation — Mode Three on the Noether horn (framework-boundary, honestly marked as in tension with Tenet 2) and Mode One on the selection horn (the heating is GRW/CSL's own on the physicalist's terms).
 - **Published**: yes
+
+---
 
 ## 09:59 - deep-review
 - **Status**: Success
@@ -5514,6 +5238,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: plus-joined claude-fable-5-1 (already present on the article from 09:10; added to the research note)
 - **Verified**: obsidian/ and hugo/content/ for the article, research note, and review file; `hugo` build clean
 - **Output**: [[reviews/deep-review-2026-10-07-phenomenology-of-resistance-across-domains]]
+
+---
 
 ## 09:10 - refine-draft
 - **Status**: Success
@@ -5529,6 +5255,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Engagement classification (editor-internal): Smithies' constitutive-conviction rival is engaged by honest boundary-marking — the assent void defers the downstream/constitutive classification to the noetic void rather than refuting the constitutive reading; no in-framework refutation claimed.
   - Frontmatter: `ai_modified` 2026-10-07T09:10:15+00:00 on all three; `ai_system` on the resistance article plus-joined to `claude-opus-4-7+claude-fable-5-1`.
 - **Published**: yes
+
+---
 
 ## 08:55 - refine-draft
 - **Status**: Success
@@ -5547,12 +5275,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification (editor-internal)**: none — no named-opponent reply touched; the edits are calibration and catalogue bookkeeping.
 - **Published**: yes (Hugo synced)
 
+---
+
 ## 08:41 - pessimistic-review
 - **Status**: Success (reports only; no content or todo.md edits)
 - **Content reviewed**: this morning's assent-void integration wing read as one set — voids/assent-void (07:00Z + 07:13Z), voids/suspension-void (07:39Z), voids/decision-void (07:40Z), voids/self-opacity (07:40Z), apex/conjunction-coalesce (08:23Z). Lengths measured with analyze_length: assent 2,955 (condense pending, substitutions only), decision 2,991 (headroom 8), suspension 2,996 (headroom 3), self-opacity 3,071 (over hard), apex 4,978 (headroom 21).
 - **Findings**: (1) decision-void L84's new reconciliation claims decision "presents as a crossing among live alternatives" while the page's own closure face (L60, L112) says the crossing is not a phenomenal episode; "its first assignment may precede felt judgment" is the latency face offered as a disanalogy; Hieronymi's parity is structural, not only about voluntariness. (2) Nadarevic & Erdfelder 2019 abstract (Europe PMC, verified): a memory-tag model for truth-value *feedback* that leaves untagged status unstated — suspension-void L58 ("some propositions receive no truth-value … countermodel to any universal first-assignment thesis") and assent-void L73 ("no first truth-value at all … whether anything does") over-read it; the suspension sentence was ratified from the ChatGPT review, not the source. (3) assent-void L43 and L73 list different four positions (L43 doubles N&E, omits Vorms's prior-weighted tag); the open P2 at todo L40 prescribes the same defective four for voids index L306. (4) taxonomy-of-voids L157 still lists assent among conjoint voids "whose joint structure does work no single face could" against apex L78 / assent L83 "coherence, not conjunction" — routed to the open P2, not a new task. (5) self-opacity L126 names the constitutive thesis as the assent transparency face's source; the shared source is belief's truth-directedness. Apex's two deleted restatements stranded nothing (no quotes outside changelog/historical review; both inbound anchors resolve; "article on that mechanism" survives at L116).
 - **Priority list (cap 4)**: decision-void L84 (+6 ≤ 8) · suspension-void L58 (net 0) · assent-void L43+L73 (net −6, substitutions) · self-opacity L126 (net −2). Exact old/new text in the review file.
 - **Output**: [[reviews/pessimistic-2026-10-07-assent-void-integration-wing]]
+
+---
 
 ## 08:23 - refine-draft
 - **Status**: Success
@@ -5564,6 +5296,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified`/`modified` set from `date -u` on both; `claude-fable-5-1` plus-joined into the apex's `ai_system` (already present on writing-style).
 - **Not done**: no todo.md edits; no commit (orchestrator).
 - **Published**: yes
+
+---
 
 ## 07:41 - refine-draft
 - **Status**: Success
@@ -5579,6 +5313,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` from `date -u` on all five; `claude-fable-5-1` plus-joined into `ai_system` on suspension-void, self-opacity, decision-void, noetic-feelings-void (source-attribution-void already had it).
 - **Published**: yes (sync run after this entry)
 
+---
+
 ## 07:26 - deep-review
 - **Status**: Success
 - **File**: [[concepts/manyism]]
@@ -5590,6 +5326,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Timestamps**: ai_modified = last_deep_review = 2026-10-07T07:25:20+00:00 (from `date -u`); ai_system already `claude-opus-4-8+claude-fable-5-1`.
 - **Published**: yes (synced; all nine edit markers grep 1/1 in obsidian/ and hugo/content/)
 - **Output**: [[reviews/deep-review-2026-10-07-manyism]]
+
+---
 
 ## 07:13 - refine-draft
 - **Status**: Partial (length-gated; remainder reported for NEEDS-HUMAN)
@@ -5614,6 +5352,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verification**: Mandelbaum phrase verified verbatim in the OpenAlex abstract; Smithies quote verified verbatim at Crossref (not installed); SEP "backbone" per synthesis K4 fetch. No "This is not X. It is Y."; no "load-bearing"; no mode labels in body.
 - **Published**: yes (synced)
 
+---
+
 ## 07:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/assent-void]]
@@ -5623,6 +5363,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: Williams — Mode Two (the SEP's own verdict that the argument needs modification is reported, not refuted); Gilbert/Spinozan vs Cartesian — Mode Three (void page: the dispute is left open, four positions listed); Hieronymi — Mode One (her concession and constitutive thesis quoted from her text).
 - **Length**: 2451 → 2956 words (`analyze_length`; voids soft 2000 / hard 3000, gate `>=`, ceiling 2999). The task's "roughly length-neutral; ~60 words for two references" estimate was wrong: it mandates seven new reference lines (~175 words) plus eight content installs. After two tightening passes over my own additions and minor redundancies the page clears the hard gate by 43 words. **The Seam P1 task's ≤300-word budget no longer exists** — it must be rescoped to a substitution-only install or preceded by a condense; its notes already say to re-measure.
 - **Published**: yes (Hugo sync run)
+
+---
 
 ## 06:42 - combine-outer-reviews
 - **Status**: Success
@@ -5635,6 +5377,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Headroom re-measured 06:37Z**: assent-void 2451/3000 (shared by three tasks), conjunction-coalesce 4979/5000, noetic-feelings-void 3688 hard_warning (net-zero only); suspension-void still zero "spinoz" hits; assent-void still has no inbound link from any sibling void
 - **Output**: [[reviews/outer-review-synthesis-2026-10-07]]
 
+---
+
 ## 06:08 - outer-review
 
 - **Status**: Success
@@ -5645,6 +5389,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Disputed**: Mugg ch. 10 attributed "graded direct belief control" — not in the chapter abstract, flagged do-not-cite. "Major revision / split into three" not warranted by what survives verification (substitution-level fixes within 548 words). Methodology items 24, 25, 27, 28, 30 already live.
 - **High-value findings**: 4 beyond the sibling (Hieronymi's own text places the subject *at* the judgment — the judgment-itself objection; N&E 2019 optional tags refute L73 directly; Smithies/Singh/Crowe 2026 are the missing named rivals; the falsified clause is live in the voids index and the article's claimed conjunction-coalesce membership is in neither catalogue) plus the resistance/noetic phenomenology contradiction. Six findings converge with the Claude leg (both-sides clause; Williams overstated; faces not shown to conjoin; suspension conditional uninstalled; stale timing bibliography; involuntary conflated with unfelt).
 - **Tasks generated**: 2 new (P2: 2 cross-review — voids index/catalogue propagation; resistance + noetic-feelings phenomenology reconciliation) and **4 sibling tasks extended** with verified convergent addenda instead of duplicating them (P1 +N&E 2019, Hieronymi, Evans/Ginet compliance; P2 Seam +Smithies/Singh/Crowe; cross-review +self-opacity dependency clause and the noetic 3688/3000 gate; methodology +items 26 and 29 and the **measured 20-word headroom on `apex/conjunction-coalesce`**, 4979/5000, which the task had not recorded).
+
+---
 
 ## 05:45 - outer-review
 
@@ -5657,6 +5403,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **High-value findings**: 5 (Williams's status misreported vs the article's own SEP source; "both sides grant" false of Hasson et al.; "formation cannot be an act" contradicts Shah & Velleman; Seam independence fails — control and transparency share the truth-norm; two 2024–25 timing-face studies missing) plus two integration defects (zero sibling inbound links; the suspension conditional at L47 was never carried out).
 - **Tasks generated**: 4 (P1: 1 refine-draft assent-void calibration; P2: 3 — refine-draft assent-void rival/common-cause with direct-refutation remit, cross-review suspension/self-opacity/decision/noetic/source-attribution reciprocals, refine-draft writing-style + conjunction-coalesce methodology). Headroom briefed: 548 words to the voids hard gate, shared between the two assent-void tasks.
 
+---
+
 ## 03:42 - tune-system
 
 - **Status**: Success (report only)
@@ -5665,6 +5413,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tier 1 changes**: 0 applied (eighteenth consecutive run with no lever)
 - **Tier 2 recommendations**: 5 logged (commission precedence; gate ignores blocked; 30-day min-age on /loop; lens for over-hard pages; refresh CLAUDE.md caps)
 - **Output**: [[reviews/system-tune-2026-10-07]]
+
+---
 
 ## 03:26 - apex-evolve
 - **Status**: Complete
@@ -5676,6 +5426,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Review**: [[reviews/apex-evolve-2026-10-07-self-construction-constructor]]
 - **Model**: claude-fable-5-1 (plus-joined into ai_system)
 
+---
+
 ## 03:08 - check-tenets
 
 - **Status**: Warnings
@@ -5686,12 +5438,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Brief's questions**: Type-B compatible tiers respect Tenet 5 in all ten pages; no page states Tenet 3 as a neuroscience requirement (`consciousness-and-scientific-explanation` L52 repaired); the new Tenet 2 statements are correct in conclusion but not in gloss
 - **Output**: [[reviews/tenet-check-2026-10-07]]
 
+---
+
 ## 01:50 - refine-draft
 
 - **Task**: Remove the unsourced Mullā Ṣadrā quote "a lower, dynamic level" from the research note — applied inline by the driver, extended to the two archive pages the 10-02 review named
 - **Status**: SUCCESS
 - **Changes**: `research/interaction-problem-non-western-philosophy-2026-02-17` L116 — "corporeal in its origination…" → Kalin's verbatim "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163); the unsourced body quote → Shameli's verbatim "two levels of one existent" (body lower, soul higher), with a dated correction block. `archive/topics/interaction-problem-in-non-western-philosophy` L84 (quoted) and `archive/topics/interaction-solutions-across-traditions` L73 (unquoted) — same replacement; archived pages remain live at their URLs, so the defect was live. Spans taken from deep-review-2026-10-02-the-steelman-for-process-monism's source check; nothing added from memory. `ai_system` plus-joined on all three.
 - **Output**: three files synced to Hugo; corpus now has zero live instances of the phrase outside reviews/workflow
+
+---
 
 ## 01:34 - refine-draft
 
@@ -5701,12 +5457,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2,484 → ~2,560 / 3,500
 - **Output**: synced to Hugo
 
+---
+
 ## 01:19 - refine-draft
 
 - **Task**: Link the plurality void and manyism to each other — applied inline by the driver
 - **Status**: SUCCESS
 - **Changes**: `voids/plurality-void` L51 — piped link `[[manyism|a single experience belonging to multiple subjects]]` on existing text plus two sentences naming manyism as the live theory that requires what the void cannot picture, with the tier stated (inconceivability from the inside does not establish impossibility) (+50; 1,755 → ~1,805 / 3,000). `concepts/manyism` L38 — one sentence after the experience-sharing paragraph: experience-sharing posits exactly the plural subjecthood the [[plurality-void|plurality void]] finds inconceivable from the inside; whether that tells against manyism or only marks a limit of conception is the open question (+52; 1,622 → ~1,674 / 3,500). `ai_system` plus-joined on both.
 - **Output**: both files synced to Hugo
+
+---
 
 ## 00:50 - refine-draft
 
@@ -5715,6 +5475,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: `concepts/inference-to-the-best-explanation-against-dualism` — Verdict: "provisional against the Type-B physicalist until the second-order comparison is run" → "against the Type-B physicalist, *compatible* until the second-order comparison is run and favours dualism by stated criteria"; §What an Honest Rejoinder Costs: "Until then the first reply's *suggestive* tier is provisional" → the *suggestive* tier reaches only the physicalist who denies the datum; against Type-B it stands at *compatible* (piped anchor to the taxonomy page's §The Map's Tier Against Each Type), since an unrun comparison cannot hold a tier even provisionally. Matches the taxonomy page's Type-B bullet (compatible; lifted to suggestive only by a second-order comparison favouring dualism by stated criteria). Other tiers untouched. `ai_system` already Fable 5.1.
 - **Length**: 3,322 → ~3,345 / 3,500
 - **Output**: synced to Hugo
+
+---
 
 ## 00:42 - deep-review
 
@@ -5729,6 +5491,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements (editor-internal)**: neuromatrix Mode Two; predictive processing Mode Two + Mode Three residue; mirror-therapy pathway Mode Three; Price 2006 Mode One.
 - **ai_system**: plus-joined claude-fable-5-1 onto claude-opus-4-7.
 - **Output**: [[reviews/deep-review-2026-10-07-phantom-limb-phenomena]]
+
+---
 
 ## 00:22 - refine-draft
 
@@ -5747,6 +5511,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Checks**: both files below the 4,000 gate; no "This is not X. It is Y."; no "load-bearing"; all new wikilinks piped and targets verified on disk (`concepts/type-a-type-b-and-type-c-physicalism.md` with `## Who Holds Which View` at L58, `concepts/primitive-identities-and-strong-necessities.md`, `tenets#^occams-limits`); `ai_system` plus-joined `claude-fable-5-1` on arguments-against-materialism (consciousness-defeats-explanation already carried it); `ai_modified` 2026-10-07T00:22:40+00:00 from `date -u` on both.
 - **Published**: yes (sync run; both files verified in hugo/content/)
 
+---
+
 ## 00:10 - refine-draft
 
 - **Status**: Success
@@ -5763,12 +5529,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Checks**: both files below the 3,500 gate; no "This is not X. It is Y."; no "load-bearing"; no inbound anchors to the renamed heading; `ai_system` plus-joined `claude-fable-5-1` on both; `ai_modified` 2026-10-07T00:10:26+00:00 from `date -u`.
 - **Published**: yes (sync run; both files verified in hugo/content/)
 
+---
+
 ## 23:35 - coalesce
 
 - **Task**: coalesce cycle slot — driver-level abandon
 - **Status**: SUCCESS (no candidate; steady state)
 - **Rationale**: the 14:51Z coalesce pass swept within-section pairs and the new voids-into-host absorption screen (best similarity 0.135; valence-void → valence 0.295 read and declined on a role split) and stated that a re-run is only worthwhile once `git log --diff-filter=ADR` shows an article added, removed or renamed in topics/, concepts/, voids/, apex/, positions/ or archive/. The driver re-ran that check at 23:35Z: zero such changes since 14:51Z (22+ pages modified, none added/removed/renamed). The pool can only have shrunk under the 14-day age floor, so no new feasible pair can exist. Fork not invoked.
 - **Output**: none
+
+---
 
 ## 23:21 - refine-draft
 
@@ -5784,6 +5554,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not touched**: pre-existing "load-bearing" at reductionism L172 (out of scope); todo.md left for the orchestrator
 - **Published**: yes (synced to hugo)
 
+---
+
 ## 23:12 - deep-review
 
 - **Status**: Success
@@ -5797,6 +5569,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Enhancements made**: 1 (objection 2's critique now has its named target in the article)
 - **Output**: [[reviews/deep-review-2026-10-06-quantum-divine-action]]
 
+---
+
 ## 22:51 - refine-draft
 
 - **Status**: Success
@@ -5808,6 +5582,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Stability**: Stapp stays a near-miss in Class 1 and the basis-layer occupant of Class 3; the "Theories that occupy it" paragraph is untouched.
 - **Length**: 2,869 → 2,965 (concepts hard 3,500; +96, matching the review's +75/+21 estimate). analyze_length status unchanged (soft_warning).
 - **Published**: yes
+
+---
 
 ## 22:20 - refine-draft
 
@@ -5821,11 +5597,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: claude-fable-5-1 already present in both files; ai_modified set to 2026-10-06T22:20:23+00:00 on both.
 - **Published**: yes (synced)
 
+---
+
 ## 21:54 - optimistic-review
 
 - **Status**: Success (reports only — no content or todo.md edits)
 - **Content reviewed**: Formal-limits and channel-class wing — `topics/self-reference-and-the-limits-of-physical-description` and `concepts/channel-class-taxonomy` (today's two deep-review targets) with neighbours `selection-only-channel`, `stapp-quantum-mind`, `consciousness-and-the-authority-of-formal-systems`, `apex/authority-of-form`, `brain-internal-born-rule-testing`, `formal-cognitive-limits`, `causal-closure`. Four priced items: (1) a two-leg statement of which gap reaches a finite brain (+112, with a +12 apex scope qualifier); (2) the kernel commitment a Class 1 occupant makes that Stapp withholds (+75 +21 ref); (3) the stranded "satisfied trivially" in `brain-internal-born-rule-testing` L66 (−1 net; headroom 3); (4) `authority-of-formal-systems` L115 reading Szangolies' horizons as outcome determination (+26). Birch and Whitehead personas converge; no slippage flagged.
 - **Output**: [[reviews/optimistic-2026-10-06-formal-limits-and-channel-class-wing]]
+
+---
 
 ## 21:38 - refine-draft
 
@@ -5839,6 +5619,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagements**: no named-opponent reply touched; the physicalist reading in covert §"The Physicalist Reading at Full Strength" remains Mode Three (framework-boundary, honestly conceded as matched only by a fitted interface variant).
 - **Output**: all three files synced to Hugo; anchor ids `the-bayesian-deflation`, `can-bayesian-confirmation-break-the-deadlock` and `the-physicalist-reading-at-full-strength` verified in the Hugo output.
 
+---
+
 ## 21:04 - refine-draft
 
 - **Task**: Fix the Arnauld attribution on quantum-divine-action and the Marmura seed in the non-interactionist-dualisms research note — applied inline by the driver
@@ -5846,6 +5628,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (1) `concepts/quantum-divine-action` L77 "This is Arnauld's classical *explains-too-much* charge in modern dress" → "This is the classical *explains-too-much* charge against occasionalism in modern dress" (word-neutral; no source credits Arnauld with the charge — his documented objection is that occasionalism "destroys the nature of intelligent beings, who would not be free if they did not, as real causes, form in themselves the determination of their will", verbatim at SEP Arnauld §4.4, and Nadler reads him as a mind-body occasionalist; the charge itself stays, matching concepts/occasionalism L53). (2) `research/non-interactionist-dualisms-2026-07-12` L42 — dated **[Correction 2026-10-06]** (not a silent rewrite): the co-possible / secondary-causality caution belongs to Griffel (with Perler, Rudolph; Moad 2023), while Marmura held al-Ghazālī "never deviated from occasionalism" (SEP Al-Ghazālī); this line seeded the inverted attribution fixed by deep-review-2026-10-02-occasionalism; Arnauld warning added so neither attribution re-seeds. `ai_modified` added to the note (it had none); `ai_system` plus-joined on both files.
 - **Length**: quantum-divine-action 2,877 → 2,877 / 3,500
 - **Output**: both files synced to Hugo
+
+---
 
 ## 20:37 - deep-review
 - **Status**: Success
@@ -5859,6 +5643,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: plus-joined claude-fable-5-1 (prose rewritten).
 - **Output**: [[reviews/deep-review-2026-10-06-constitutive-vs-referring-observation]]
 
+---
+
 ## 20:19 - refine-draft
 
 - **Task**: `concepts/thought-insertion` L106 and L84 (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 2) — applied inline by the driver with the review's exact text
@@ -5867,12 +5653,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3,122 → 3,135 / 3,500
 - **Output**: synced to Hugo
 
+---
+
 ## 20:04 - refine-draft
 
 - **Task**: `project/architecture-vs-significance-two-tier-discount` L67 — attach each limb to its own conclusion (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 1) — applied inline by the driver with the review's exact text
 - **Status**: SUCCESS
 - **Changes**: (a) the one-way-separability clause now concludes that the for-me tag is distinct from the sense of agency, with the content limb carrying the "distinct from the bare having of experience" claim (+8); (b) "ownership without felt agency" → "ownership (acknowledged in judgement; felt, on Gallagher's account) without felt agency" (+7). Billon p. 296 spans and the Knappik clause untouched; the 17:19Z one-way-separability conclusion stays.
 - **Output**: synced to Hugo (project doc, ungated)
+
+---
 
 ## 20:00 - pessimistic-review
 - **Status**: Success (reports only; no content or todo edits)
@@ -5881,6 +5671,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Findings**: two-tier L67 attaches the content limb's conclusion ("rather than identical to the bare having of experience") to the agency limb's OCD evidence, and Billon's "will acknowledge" is an ownership judgement, not the phenomenal tag; thought-insertion L106 says self-model *predicts* / interface *accommodates* and in the same line "neither suggestive nor discriminating", and no corpus page states an interface reading of thought insertion; self-and-self-consciousness L148 quotes HPZ's verdict in the indicative where thought-insertion L94/L98 calls it the point in dispute; mine-ness L82 still states the agency reading as "the actual phenomenology" with a constructed patient quote and no `[[thought-insertion]]` link; L84 "forward-model signal for thought" generalises inner-speech evidence
 - **Priority list**: 4 items (two-tier L67 +15; thought-insertion L106/L84 +13 of 377; self-and-self-consciousness L148 +4 of 13; mine-ness L82 +1 of 1). The "leaving agency intact" inconsistency is left to the queued P3 (todo L1944); the for-me-ness/mineness vocabulary collision is flagged for the human, not minted
 - **Output**: [[reviews/pessimistic-2026-10-06-for-me-ness-mine-ness-edits]]
+
+---
 
 ## 19:21 - refine-draft
 
@@ -5893,6 +5685,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Stability**: deep-review-2026-10-01 notes respected (tier verdict stays *compatible*; falsifier unreportability untouched; Lane not presented as conceding for-me-ness). Billon 2013 reading unchanged (lacks subjectivity AND not phenomenally conscious). Item 3's description/L36/L42/L46 untouched. No "uncontested ground"; no "load-bearing"; no new wikilinks.
 - **Published**: yes
 
+---
+
 ## 19:04 - refine-draft
 
 - **Task**: Thought insertion: lead, description and clinical-picture fidelity (pessimistic-2026-10-02-thought-insertion, Priority item 3) — applied inline by the driver with the review's exact text
@@ -5900,6 +5694,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: `concepts/thought-insertion` — (a) description replaced (202 chars: whether the retained first-person perspective is for-me-ness is disputed; kind-claim stands, unsettled); (b) L36 "presented to the patient alone" → "accessible to the patient alone, though Lane denies that this is for-me-ness" (the deep review's licensed re-flag); (c) L42 belief-only consequence sentence after Mullins & Spence 2003; (d) L46 "subtitles" report attributed to a patient cited by HPZ. Billon 2013 reading untouched; "uncontested ground" absent.
 - **Length**: 2,905 → 2,942 / 3,500 (+37 as costed)
 - **Output**: synced to Hugo
+
+---
 
 ## 18:54 - deep-review
 - **Status**: Success
@@ -5913,12 +5709,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Pattern**: both defects were propagation failures from the 08-03 and 08-06 sweeps, each of which fixed one sentence and left this file's own dependents standing.
 - **Output**: [[reviews/deep-review-2026-10-06-channel-class-taxonomy]]
 
+---
+
 ## 18:34 - refine-draft
 
 - **Task**: Correct the IBE research note's false "Weir 2021b unresolved" gap — applied inline by the driver
 - **Status**: SUCCESS
 - **Changes**: `research/inference-to-the-best-explanation-against-dualism-2026-10-01` — dated **[Correction 2026-10-06]** blocks at the Gaps "Unresolved reference" item and the Sides mention: SEP "Dualism" lists Weir's later works under "–––" ditto marks and its bibliography does contain 2021b ('Does idealism solve the problem of consciousness?', Farris & Göcke (eds.), *Routledge Handbook for Idealism and Immaterialism*) — re-read live 2026-10-06; the JCS paper the note's Crossref search surfaced is the entry's 2021c, not 2021b; Weir co-authors the entry (2025 revision). "Not consulted" kept — the chapter's content is still unverified. `ai_system` already Fable 5.1.
 - **Output**: research note synced to Hugo
+
+---
 
 ## 18:08 - refine-draft
 
@@ -5927,6 +5727,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Original score**: n/a (`scripts/curate.py` absent; targeted citation install at the kind-claim)
 - **Changes**: L148 kind-claim now cites its closest published statement: added one sentence after the untouched "Clinical variation ... phenomenal life continues." sentence — *In thought insertion, for-me-ness is "neither lacking nor unaffected but disturbed" (Henriksen, Parnas & Zahavi 2019, p. 7).* The quoted span is copied from `concepts/thought-insertion` L70 (verified in full text by the 2026-10-01 deep review); nothing beyond that span is quoted. References: Henriksen, Parnas & Zahavi 2019 entry copied byte-for-byte from `concepts/thought-insertion` L138 (diff-confirmed identical, "(Full text.)" tag dropped), inserted as #14 after Sass & Parnas in the list's citation order; #14–21 renumbered to #15–22. The falsifier sentence, its 16-word span quoted on cotard-delusion and thought-insertion, both `[[thought-insertion|…]]` links, and the L86 "leaving agency intact" sentence (separate P3) are all unchanged. The ~43-word cost (18 body + 25 reference) was funded by trimming redundancy (each span checked with `git log -S`; none review-installed — all from the 03-23/05-01 condense/coalesce passes or the 09-28 budget trim): L66 "not an additional feature added to consciousness; it is the very form…" rephrased as "the very form conscious experience takes, not an added feature" (also removes a "not X; it is Y" construct; the span the 03-16 pessimistic review quotes survives); L70 "load-bearing" → "matters"; L94 "not vice versa" dropped (redundant with "asymmetric"); L98 Henrich's closing "smuggles self-awareness through the back door" sentence dropped, its name moved into the opening parenthesis "(his "reflection model" argument)" so the apex's piped link to "Henrich's reflection-model argument" still lands on the named argument; L102 "HOT explains at most the reflective layer" dropped (restates the preceding clause); L156 "young children have phenomenal experience before reflective capacity develops" dropped (duplicates L94's infant case); Further Reading `self-construction-constructor` gloss shortened to "Apex synthesis: the constructor cannot be the last construction". Not trimmed: the L142 "same evidential caution" clause (deep-review 05-27), the L154 childhood-amnesia parenthesis (deep-review 04-29), the Bidirectional tenet sentence (quoted approvingly in optimistic-2026-05-01). `analyze_length` 3,495 → 3,486 (gate 3,500, `>=`). `ai_system` already carried claude-fable-5-1.
 - **Published**: yes
+
+---
 
 ## 17:19 - refine-draft
 
@@ -5938,6 +5740,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reported, not edited** (driver to mint a sibling task): "depersonalisation ... leaving agency intact" is live at `topics/consciousness-and-the-ownership-problem` L60, `concepts/self-and-self-consciousness` L86, `apex/self-construction-constructor` L86, each attributed to Gallagher. The active-inference reading in `research/depersonalisation-2026-09-30` L105/L213 (Ciaunica et al. 2022: DPD is explained via the hypothesis "I am an embodied perceiver, but I am not in control of my perception"; patients "may believe that 'another agent' is controlling their thoughts, perceptions or actions") makes DPD a disturbance of felt control as well as ownership, so "leaving agency intact" needs qualifying ("can leave the sense of initiation intact on the Gallagher-style reading, though active-inference accounts describe a disturbed sense of control") — and the double-dissociation framing those three loci carry loses its second limb with it.
 - **Published**: yes
 
+---
+
 ## 17:04 - refine-draft
 
 - **Task**: Correct the thought-insertion research note's truncated Lane quote and Henriksen & Parnas 2019 DOI — applied inline by the driver
@@ -5945,12 +5749,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: `research/thought-insertion-2026-10-01` — dated **[Correction 2026-10-06]** blocks (not silent rewrites) at Verdict item 2, the Zahavi & Kriegel key-quotes bullet, Test 1 and Test 2: ZK 2016 p. 44 continues "but claims that this has no bearing on the issue of for-me-ness", so Lane grants a trivial first-person perspective, not for-me-ness; the kind-claim survives on shared ground (the thought's epistemic asymmetry) under a disputed name, matching the corrected `concepts/thought-insertion` L76/L94. Henriksen & Parnas 2019: "no DOI" → DOI 10.13136/thau.v7i0.99 (DataCite record verified: title, Henriksen & Parnas; DataCite year 2020 vs journal header 2019 noted as-is), added to the reference line too. Research notes carry no length gate.
 - **Output**: research note synced to Hugo
 
+---
+
 ## 16:50 - refine-draft
 
 - **Task**: Install the report-and-access wing's missing reciprocals (optimistic-2026-10-01-report-and-access-wing, Priority item 3) — applied inline by the driver
 - **Status**: SUCCESS
 - **Changes**: (a) `topics/covert-consciousness-and-cognitive-motor-dissociation` — after "which no serious rival needs." added the review's sentence: "Its first-person mirror is [[cotard-delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does." (+26; no anchors renamed; `anchoring_audit_exempt` still within the first 1,500 bytes). (b) and (c) on `concepts/revelation-thesis` (depersonalisation clause at L72; piped three-layers anchor at L75) were already installed by the deep review in commit 828e7a18 — verified present, closed as done, file untouched. The sibling "production reply" P3 on the CMD page was completed 2026-10-05.
 - **Output**: covert-consciousness page synced to Hugo
+
+---
 
 ## 16:24 - refine-draft
 - **Status**: Success
@@ -5960,6 +5768,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (1) L90 relabelled the described view — "future progress will close [the gap] without revising the ontology" is Chalmers's Type-C, and the synchronic/promissory-note reply is kept aimed there. Type-B is now described correctly, mirroring [[concepts/phenomenal-concepts-strategy]] and [[concepts/type-a-type-b-and-type-c-physicalism]] L112 ("The promise of eventual closure belongs to Type-C"): a posteriori identity, permanent gap, explained now via Loar's recognitional / Papineau's quotational / Balog's constitutional accounts (only what the PCS page states; no quotations added). The synchronic point is stated to miss Type-B. What parsimony does say against Type-B installed: the strategy's own posit — a special class of concepts with a distinctive direct structure — enters the ledger, so one-substance economy is bought at a syntactic cost; explicitly "counts a cost without refuting the view", and the second-order comparison (Type-B's account of the gap vs dualism's) is marked as not yet run, parsimony alone unable to settle it — matching the IBE page's calibration. Links added: `[[type-a-type-b-and-type-c-physicalism|Type-B]]` (new inbound for the taxonomy page) and `[[phenomenal-concepts-strategy]]` (second occurrence; the pre-existing one is in Relation to Site Perspective). (2) L146 refutation condition rewritten: "satisfied Type-B physicalists … not merely a promissory account" conflated the same two views (Type-B does not want the gap closed); now "a reduction that closed the gap — redeeming the Type-C promise rather than issuing it — or a phenomenal-concepts account that explained it without posits of its own". (3) `ai_system` plus-joined `claude-fable-5-1`.
 - **Engagement classification** (editor-internal): Type-C — Mode One (synchronic parsimony applied to the opponent's own promissory structure). Type-B — Mode Two for the ledger point (the phenomenal-concepts posit is a cost by the parsimony standard Type-B's own identity inference invokes) plus Mode Three for the residue (the second-order comparison is declared open, no in-framework refutation claimed).
 - **Published**: yes
+
+---
 
 ## 16:12 - deep-review
 - **Status**: Success
@@ -5973,12 +5783,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: `ai_modified` / `last_deep_review` 2026-10-06T16:12:00+00:00; `ai_system` → `claude-opus-4-6+claude-fable-5-1`.
 - **Output**: [[reviews/deep-review-2026-10-06-self-reference-and-the-limits-of-physical-description]]
 
+---
+
 ## 15:50 - positions-evolve
 
 - **Task**: `positions/moral-status` P-MS1 "Chalmers' Vulcan (forthcoming…)" → "(2026…)"; `positions/moral-status-calibration-history` L40 "Kriegel (forthcoming)" → "(2026)" — applied inline by the driver
 - **Status**: SUCCESS
 - **Changes**: metadata only; *The Importance of Being Conscious* (Lee & Pautz eds., OUP) published 3 Sept 2026 (Chalmers ch. 1 pp. 25–40; Kriegel ch. 3), matching the 2026 citation form already on `topics/ethics-under-dualism`. Mandated dated note appended to the P-MS1 calibration history (+37 words on a file already over the positions hard threshold — the mandated split). The 2026-09-05 history entry's own "(forthcoming)" left as a dated record. No band, dependency or shift-condition change.
 - **Output**: both positions files, synced to Hugo
+
+---
 
 ## 15:35 - refine-draft
 - **Status**: Success
@@ -5989,6 +5803,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution check**: no named-opponent reply added; Schultze-Kraft's ~200 ms figure stated as a withholding boundary, not a ballistic point of no return, matching the paper's Discussion qualification.
 - **Frontmatter**: `ai_modified` 2026-10-06T15:35:36+00:00 on both (from `date -u`); `claude-fable-5-1` plus-joined into `ai_system` on both.
 - **Published**: yes (synced)
+
+---
 
 ## 14:51 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
@@ -6002,6 +5818,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Archived**: none
 - **References to review**: none
 
+---
+
 ## 14:35 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-neural-timing-constraints]]
@@ -6009,6 +5827,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Word count**: 2732 → 2946 (+214; topics hard 4000, gate `>=`, under soft 3000)
 - **Changes**: (A) L101 withholding-window paragraph replaced with the review's exact text — renames "veto window" to "withholding window", opens the paper's second channel with the verbatim Discussion sentence "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds" (the only sentence quoted from PMC4743787), states the asymmetry of evidential products (a successful veto leaves nothing; an altered movement leaves a trajectory — "aborted button presses"), links `[[control-theoretic-will]]` (+114). (B) Falsification condition 3 rescoped per the review: the 200 ms boundary bounds withholding, not all conscious influence, since the source documents alteration inside it; the open question is beating the stop-signal reaction time (+42). (C) Bidirectional Interaction: appended the review's two sentences — the second channel fits distributed post-decoherence selection, marked explicitly as "a fit, not a test"; the paper did not look for a non-physical selector (+58). Zero-cost reciprocal: L122 "Libet's experiments" → `[[libet-experiments|Libet's experiments]]`. L99 (12:53Z wording, incl. "aborted") untouched. Tenet 2 magnitude-minimality untouched; no claim that the paper tests a non-physical selector. All four targets confirmed single-occurrence before editing; "veto window" now 0 occurrences. No "This is not X. It is Y."; no "load-bearing". `ai_system` already carried claude-fable-5-1.
 - **Published**: yes
+
+---
 
 ## 14:27 - deep-review
 - **Status**: Success
@@ -6023,6 +5843,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes (sync run)
 - **Output**: [[reviews/deep-review-2026-10-06-philosophical-stakes-of-spontaneous-collapse]]
 
+---
+
 ## 14:05 - refine-draft
 
 - **Task**: `topics/vertiginous-question` — propagate the 02:01Z register change from `concepts/egocentric-presentism` (pessimistic-2026-10-06-egocentric-presentism-indexical-cluster, Priority item 3); applied inline by the driver
@@ -6030,6 +5852,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: L163 "answers it by construction:" → "answers it with a primitive first-personal fact:" (+3; "by construction" has 0 hits in List's texts); L189 "which *answers* the question by privileging one present per subject" → "which *keeps* the first-personal fact by privileging one present per subject" (+1). The two pages now agree that List's centred-worlds picture encodes the datum rather than explaining it. 10:37Z fixes untouched.
 - **Length**: 3,989 → 3,993 / 4,000 (topics hard; gate >=)
 - **Output**: `obsidian/topics/vertiginous-question.md`, synced to Hugo
+
+---
 
 ## 13:36 - refine-draft
 - **Status**: Success
@@ -6040,12 +5864,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Coordination check**: page nowhere says List "answers" the vertiginous question (grep answer/by construction/encodes: L84 "has not answered", L96, L112, L164 "Hare's metaphysical answer" — all about other matters); no mirror edit needed. `topics/vertiginous-question` sibling P2 untouched.
 - **Published**: yes (synced to hugo/content/)
 
+---
+
 ## 13:12 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: neural-timing and motor-control wing after the 12:53Z Schultze-Kraft correction — `topics/quantum-neural-timing-constraints` (2,732/4,000), `concepts/control-theoretic-will` (2,706/3,500), `concepts/decoherence` (3,475/3,500), `concepts/libet-experiments` (3,440/3,500), `topics/bandwidth-of-consciousness` (4,156, over hard), `voids/agency-void` (3,257, over hard), `apex/interface-specification-programme` L90–104 (5,111, over hard), `apex/testing-the-map-from-inside` L164–170, `research/voids-veto-void-2026-09-18`. `motor-control-quantum-zeno` read as neighbour only (reviewed 10-05). Schultze-Kraft 2016 full text re-read at PMC4743787 with a neutral sentence-list prompt: "If the stop signal occurs later than 200 ms before EMG onset, the subject cannot avoid moving" / "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds" — today's L99 wording confirmed, including "aborted".
 - **Yield**: four priced items. (1) timing page L101 + falsification 3 + L170: state the two channels (withhold onset ≤~200 ms, silent when it succeeds; alter/cancel after onset, leaves a trajectory) and rescope the universal "any quantum mechanism … must operate within this constraint" — +214 against headroom 1,267. (2) `control-theoretic-will` L80: the one-bit veto is bandwidth-minimal, not Tenet 2's magnitude-minimal (`tenets` L67), and the cheapest operation has the earliest deadline — +145 against 793; apex L98 swap −3. (3) the two live sibling loci the 12:53Z fix reported: `decoherence` L113 "actions becoming ballistic" +10 against 24; `libet-experiments` L91 +57 against 59 (zero slack, re-measure). (4) expand `voids/veto-void` from the unconsumed note with the alter channel as fifth counterweight — half-answers the note's Tenet-2 sting (minimal does not entail evidentially silent); voids measured 113/115 via `tools.evolution.state.count_section_files` (CLAUDE.md's 99/100 is stale). Birch concern (not praise): L101 and falsification 3 are scoped wider than their source; Process-fit and Birch converge on the same paragraph.
 - **Not done**: reports-only run — no content or todo.md edits; tasks not minted.
 - **Output**: [[reviews/optimistic-2026-10-06-neural-timing-and-motor-control-wing]]
+
+---
 
 ## 12:53 - refine-draft
 - **Status**: Success
@@ -6057,6 +5885,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Siblings (reported, not edited)**: `concepts/decoherence` L113 "actions becoming ballistic ~200ms before movement (Schultze-Kraft, 2016)" — UNQUOTED paraphrase, but still asserts the strict ballistic reading the paper rejects; `archive/concepts/quantum-decoherence-objection` L69 puts "ballistic" IN quotation marks (archived); `archive/topics/neural-bandwidth-constraints-and-the-interface` L144 unquoted "execution is ballistic" (archived); `research/quantum-neural-timing-constraints-2026-01-24` L72 quoted "ballistic" and L74 carries a "Quote" ("...200 ms before the onset of muscle contractions") that does not appear in the abstract and was not located in the body excerpts read.
 - **Published**: yes
 
+---
+
 ## 12:36 - refine-draft
 - **Status**: Success
 - **File**: [[voids/resolution-void]]
@@ -6066,6 +5896,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (1) L67 rewritten: the JND floor is now "a region rather than a line" — a 50%-detection threshold is one point on a psychometric function that shifts with criterion, attention, adaptation and procedure; the "categorical: perception or non-perception, with no intermediate state" sentence and the "no experience of 'almost seeing a difference'" sentence are gone. Priming/sub-threshold sentence preserved verbatim. The paragraph's closing "is not nothing. It is everything" construct (a "This is not X. It is Y." instance) folded into one sentence. (2) Piped link `[[categorical-perception-void|categorical perception void]]` installed on the new sentence — the page previously had NO link to the sibling. Gerrits & Schouten 2004 and Schouten, Gerrits & van Hessen 2003 cited in-body for the task-dependence finding, described at the level the sibling carries them (same vowel continuum, categorical under one task, graded under another; variation attributed to task factors). (3) L69 metamer paragraph checked for re-imported binary: "collapses … collapse … collapse" replaced by "fading … merge … merger", and the closing "partition into classes" sentence now says the class boundaries are, like the JND, drawn at a chosen level of discrimination performance rather than at a phenomenal wall. (4) `## References`: the two lines copied byte-for-byte from `voids/categorical-perception-void.md` (verified by diff), inserted as 8–9 after Weber; 10–16 renumbered. Body contains no numbered in-text cites, so renumbering breaks nothing. Nothing added from memory. (5) `ai_system` += `+claude-fable-5-1`; `ai_modified` set from `date -u`.
 - **Not changed**: L75 "Below the resolution threshold, experience does not occur. There is no 'edge' feeling" left as is — it asserts the absence of a felt edge, which the graded-fade reading supports rather than contradicts.
 - **Published**: yes
+
+---
 
 ## 12:13 - deep-review
 - **Status**: Success
@@ -6080,6 +5912,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Published**: yes (sync run; `Pauly-Takacs` grepped in hugo/content)
 - **Output**: [[reviews/deep-review-2026-10-06-source-attribution-divergence]]
 
+---
+
 ## 11:53 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/haecceity]] AND [[topics/consciousness-and-the-metaphysics-of-individuation]] (two-file task; both edited, both re-measured)
@@ -6091,6 +5925,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **haecceity payment**: removed "The broader MWI critique identifies additional problems, but indexical identity is fundamental" (duplicate of the earlier Map's-Indexical-Emphasis sentence), "(though qualitatively identical)" (redundant with "two qualitatively identical spheres"), and compressed the zombie by-hypothesis sentence into its neighbour.
 - **individuation L111**: "This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*." → positive statement mirroring egocentric-presentism's live L57/L48 text: other people exist and "every functionally sentient creature is conscious" (Hare 2007: 369), but only one *subject world* is real, which is why List files the view under the solipsist horn and why Hare concedes it "commits me to a kind of solipsism" (2010) — the denial that others' experiences share presence, not that other minds exist. Both quotations copied verbatim from egocentric-presentism; nothing added from memory. New piped wikilink `[[egocentric-presentism#the-quadrilemma|quadrilemma]]` (anchor `{#the-quadrilemma}` exists). Added Hare 2007, Hare 2010, List 2025 to References (metadata copied from egocentric-presentism's verified list). "This is not X" construct removed.
 - **Published**: yes (sync run; phrases grepped in both trees for both files)
+
+---
 
 ## 11:36 - refine-draft
 - **Status**: Success
@@ -6107,6 +5943,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Coordination owed (driver, not this pass)**: the review asks that open P2 at `todo.md` L1987 (haecceity L69/L71 + consciousness-and-the-metaphysics-of-individuation L111) adopt the subject-world wording rather than "conscious relative to their own standpoints"; todo.md not edited here by contract.
 - **Published**: yes (sync run; both trees verified)
 
+---
+
 ## 11:19 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `concepts/egocentric-presentism` (3439/3500) and `concepts/indexical-knowledge-and-identity` (3063/3500) after the overnight outer-review repair passes, with consistency checks against `topics/vertiginous-question` (3989/4000) and secondary `voids/infant-consciousness` (2395/3000)
@@ -6114,6 +5952,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Findings**: (1) egocentric-presentism's 02:01Z temporal-analogue section attributes the moving-spotlight pairing to Hare; Hare 2007 §IV.C (p. 369) draws the *presentist*/fictionalist analogy and Hare 2010 never mentions egocentric presentism. (2) The 00:53Z non-solipsism gloss ("conscious relative to their own standpoints ... each can truly say") is the relational reading Hare 2007 p. 372 repudiates and is not List's rationale (others conscious "in some third-personal and functionalist sense"; one subject world real); an open P2 (todo L1987) would propagate it. (3) L32 conditional is tautologous and its "binds only those who grant it" gloss is false on List 2025. (4) "weak version of metaphysical solipsism" is Wikipedia wording in quotation marks (grep 0 in Hare 2007/2010). (5) indexical-knowledge L156 claims an in-framework refutation of the functionalist that presupposes the metaphysical thesis the page concedes open; L92/L104 likewise. (6) vertiginous-question L163/L189 still say List "answers" where the sibling now says "encodes". (7) infant-consciousness Werker & Logan gloss slightly outruns the only source read.
 - **Priority List**: 4 items, all with once-occurring old text and measured word costs (EP pass net +46 against 60 headroom, with three named cuts).
 - **Output**: [[reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster]]
+
+---
 
 ## 10:37 - refine-draft
 - **Status**: Success
@@ -6125,6 +5965,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: ai_modified 2026-10-06T10:37:49+00:00 (from `date -u`); ai_system plus-joined claude-fable-5-1.
 - **Published**: yes (sync run; both trees verified)
 
+---
+
 ## 10:22 - refine-draft
 - **Status**: Success
 - **Files**: [[project/writing-style]] + [[project/coherence-inflation-countermeasures]] (two-file task; both edited)
@@ -6133,6 +5975,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **coherence-inflation-countermeasures**: one paragraph added to Countermeasure 12's constrain-vs-establish frame lint, after the quantum-state-inheritance worked example and before "### Implementation": the categorical void's lede/`description` asserted "experience arrives already carved" while the body called the phenomenal question untested; fix ran frame-down-to-body (PASS 3, 2026-10-06). Attributed to the Claude review as singleton S1 (the synthesis records it as Claude-only, so the task brief's "convergent" framing applies to K16, not to this instance). Links [[categorical-perception-void]] piped, review file path-qualified.
 - **Citation verification**: Witzel & Gegenfurtner 2013 (*JoV* 13(7):1, doi 10.1167/13.7.1) and 2015 (*JoV* 15(8):22, doi 10.1167/15.8.22) metadata verified at Crossref; both abstract quotations verified verbatim via OpenAlex inverted index. Correction to the review file's citation: the 2015 paper is Witzel **& Gegenfurtner**, not Witzel alone — written with both authors and the discrepancy noted in the paragraph.
 - **Published**: yes (project docs; no length gate)
+
+---
 
 ## 10:14 - deep-review
 - **Status**: Success
@@ -6144,6 +5988,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Web-verify**: Bodien 2024 (Crossref author order), Metzinger 2020 (Crossref pp. 1-44), Schnakers 2009 (PubMed verbatim "18 (41%)"), Casali 2013 (PubMed), Sarasso 2015 (Crossref), NY Declaration (live NYU text) — all real-correct; no fabrication
 - **Carry-forward**: `topics/anaesthesia-and-the-consciousness-interface` L97 holds the same uncited PCI sentence; sources already in its References
 - **Output**: [[reviews/deep-review-2026-10-06-degrees-of-consciousness]]
+
+---
 
 ## 10:01 - refine-draft
 - **Status**: Success (partial — six reference lines deferred on the length gate)
@@ -6166,6 +6012,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not done by design**: no retitle or void-status change (PASS 2's NEEDS-HUMAN block stands); pseudonymous Map self-citations kept; todo.md untouched; not committed.
 - **Published**: yes (synced to Hugo; meta-description verified in both trees)
 
+---
+
 ## 09:23 - refine-draft
 - **Status**: Success
 - **File**: [[voids/source-attribution-void]] and [[concepts/cognitive-penetration]] (two-file cross-review task; both edited)
@@ -6177,6 +6025,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: ai_system plus-joined with claude-fable-5-1 on both files; ai_modified 2026-10-06T09:23:17+00:00 on both.
 - **Published**: yes
 
+---
+
 ## 08:25 - research-voids
 - **Status**: Success (assess-first run; no new void proposed)
 - **Topic**: Slot triage of the five banked voids candidates (veto, dormancy, serial-order, grammar, contingency) against the four criteria of apophatic cartography
@@ -6185,6 +6035,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Key finding**: Voids 113/115 by `count_section_files` at 08:20Z. Ranking veto > dormancy > serial-order > grammar > contingency. Recommend the two slots go to **veto** and **dormancy** (natural fold hosts agency-void 3257/3000 and self-opacity 3071/3000 are over the ceiling); **fold** serial-order into [[fusion-void]] (+1005 headroom; its L78 taxonomy sentence still names production as the empty cell; zero live hits for "serial order"/"Lashley"/"competitive queu" in voids/), grammar's access face into [[expertise-and-its-occlusion]] (+101; L59 already has the native-speaker sentence) with its status face riding the dormancy article, and contingency across [[nomic-void]] (+1109), [[intrinsic-nature-void]] (+852) and [[thrownness-void]] (+1269). Grammar ranks fourth because it inherits the exact signature-specificity failure shape the 3/3 outer review adjudicated on [[categorical-perception-void]] this morning (sub-personal access + verdict-without-ground, and its own note concedes "Dualism: no evidential gain"). Contingency ranking disagrees with the open P3 NEEDS-HUMAN (voids slot) task of 2026-09-30, which proposes an article.
 - **Side finding (unminted, for the driver)**: the veto note's 2026-09-18 quote-fidelity flag on `topics/quantum-neural-timing-constraints` L44 "ballistic" (quoted) and L99 "before EMG onset" vs the Schultze-Kraft 2016 abstract ("movement onset", no "ballistic") is still live and no todo task mentions it. Also: the `voids/voids.md` register P3 (Generated 2026-09-17) remains short by veto and serial-order.
 - **Not done by design**: no web search; no pending_articles entry (nothing to route); no voids article created or edited; not committed. Grammar note stays in `task_chains.pending_articles` pending the operator's decision.
+
+---
 
 ## 07:42 - refine-draft
 - **Status**: Success
@@ -6207,6 +6059,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Dependents** (grep for demolish/pruned away/hardware/destroy on lines linking the article, both trees + archive): label-only, word-neutral fixes applied with occurrence asserts and ai_modified/ai_system updated — `voids/compound-failure-signatures` L89 and `apex/taxonomy-of-voids` L155 "demolished neural hardware" → "reorganised neural architecture"; `voids/voids-between-minds` L86 "has been physically demolished through synaptic pruning" → "was reorganised beyond re-entry by synaptic pruning" (2985 words, unchanged); `voids/synesthetic-void` L44 "that pruning destroys" → "that pruning narrows"; `voids/inaccessible-past` L61 "synaptic pruning destroys the very circuits that supported infant experience" → "reorganises the very circuits ... beyond re-entry" (2792 → 2794). NOT edited, reported: `positions/consciousness-scope` L77 "phoneme pruning, the demolished hardware" (register mandates a dated Updated note and the file is at 3623 against a 2500 hard cap — suggested label: "phoneme-discrimination narrowing, the reorganised architecture"); `archive/voids/other-minds-void` L84 "physically demolished through synaptic pruning" (archived snapshot of 2026-04-18; its replacement voids-between-minds is fixed).
 - **Published**: yes (synced)
 
+---
+
 ## 07:22 - refine-draft
 - **Status**: Success
 - **File**: [[voids/language-thought-boundary]]
@@ -6220,6 +6074,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
   - Length (`analyze_length`, body): 2959 before → 3018 after additions → 2998 after cuts (voids hard 3000; ceiling 2999).
   - No "This is not X. It is Y."; no "load-bearing" (grep 0). ai_system already carried claude-fable-5-1.
 - **Published**: yes (synced)
+
+---
 
 ## 07:08 - refine-draft
 - **Status**: Success
@@ -6236,6 +6092,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 3865 → 3962 body words (`analyze_length`, reference list included); headroom to the 3999 usable ceiling 134 → 37. Net +97, of which ~38 is the reference line.
 - **Not changed**: the inner-speech paragraph ("that shaping is genuinely phenomenal") — inner speech is itself experienced, so the claim rests on report of the experience rather than on a within-/cross-category inference; outside the review's finding.
 - **Published**: yes (sync run; see report)
+
+---
 
 ## 06:47 - refine-draft
 - **Status**: Success
@@ -6257,6 +6115,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: no named-opponent reply was added or altered; the physicalist reading in the Dualism paragraph is PASS 3's.
 - **Published**: yes (synced to Hugo)
 
+---
+
 ## 06:27 - deep-review
 - **Status**: Success
 - **File**: [[topics/aphantasia]]
@@ -6268,6 +6128,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: generic functionalism (option 2): Mode Three — boundary marked honestly, cumulative wedge offered as pressure not refutation
 - **Note**: fifth pass; only delta since 08-01 was one Further Reading link. Four prior ledgers certified quoted strings by provenance ("drawn from primary sources") without grepping raw text; this pass grepped Galton (psychclassics), Kay (OpenAlex abstract) and the Blomkvist page and found all four defects there
 - **Output**: [[reviews/deep-review-2026-10-06-aphantasia]]
+
+---
 
 ## 06:16 - refine-draft
 - **Status**: Success (partial — three items deferred on the length gate)
@@ -6293,6 +6155,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not done by design**: no retitle, no void-status change, no NEEDS-HUMAN block (PASS 2); no lede/meta-description, Bayesian rival or FFR work (PASS 3); todo.md untouched; not committed.
 - **Published**: yes (synced to Hugo)
 
+---
+
 ## 05:50 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-06
@@ -6305,6 +6169,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Self-correction**: a draft task note asserted the focal article already links `source-attribution-void`; grep showed no link in either direction and Claude's finding was restored as correct
 - **Output**: [[reviews/outer-review-synthesis-2026-10-06]]
 
+---
+
 ## 05:42 - collect-gemini-review + outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro Deep Research (collected via collect-gemini-review — report inline in the conversation, h1-bearing panel 26,585 chars, js-dom walk exported by blob download rather than chunked retype; extension registered ~70 s after first `tabs_context_mcp`)
@@ -6314,6 +6180,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **High-value findings**: 1 new (subcortical FFR category bias under active listening — no Map page cites any FFR work; the article's "underlying representation appears linear" needs the qualification, with the same lab's 2024 myogenic-artefact caveat attached). 2 convergent and already tasked from the siblings (Martinovic 2026 colour currency; Bayesian/predictive-processing rival).
 - **Tasks generated**: 1 (P1 refine-draft on the article, FIFTH task on this file — coordinated to run in the same pass as the Claude "RUN LAST" task; net-neutral against 2982/3000). Plus a one-sentence pointer to Mao & Stocker 2024 appended to the Claude Bayesian-rival task's Notes so it reaches that executor.
 - **Verdict calibration**: the reviewer's "outright rejection" rests mainly on the overstated items; the one sound finding is a qualification, not a refutation.
+
+---
 
 ## 05:04 - literature-drift-review
 - **Status**: Success
@@ -6329,6 +6197,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Task generated**: none
 - **Counters**: total 13, flagged 8, clean 5 (flag rate 62%, inside the 20–80% falsification window)
 
+---
+
 ## 04:35 - collect-claude-review + outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Research; collected via collect-claude-review — artifact panel, body stable at 39343 chars across a 10 s window, js-dom walk → Blob download 44971 bytes)
@@ -6340,6 +6210,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 3 (P1: 2 on the focal article — citation-precision paired with the sibling citation task, structural ordered LAST of four; P2: 1 on writing-style + coherence-inflation-countermeasures worked examples). Ten overlapping findings deliberately NOT re-minted (Logan→Lively, Liberman 1957, colour currency, chinchilla inference, Siegel causal, "default" ambiguity, Toscano architecture, provenance→source-attribution, infant reversibility, Thierry qualifier) — convergent with the 04:00 ChatGPT tasks and pessimistic 2026-09-28; flagged for /combine-outer-reviews.
 - **Methodology**: items 21 and 23 already exist (verdict-direction check; Countermeasure 12) — recorded as worked instances; 24–30 left to the synthesis pass (Countermeasure 16 reservation).
 
+---
+
 ## 04:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; js-dom walk → Blob download, SHA-256 matched on disk)
@@ -6350,6 +6222,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Tasks generated**: 7 (P1: 3, P2: 4) — two on the focal article (ordered; 18 words of headroom), one each on consciousness-and-language-interface, language-thought-boundary, infant-consciousness, resolution-void, and a two-file cross-review on source-attribution-void + cognitive-penetration
 - **Not tasked**: retitle/retire the void (human decision — surfaced in the P1 structural task as a NEEDS-HUMAN trigger); methodology items 21–34 recorded; "void necessity test" already exists as the four criteria + expiration conditions
 
+---
+
 ## 03:35 - research-topic
 - **Status**: Success
 - **Topic**: Subjective facts and the metaphysical problem of other minds: first-person realism without a privileged subject
@@ -6357,6 +6231,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sources consulted**: 16 (5 read in full — Builes 2024, Merlo 2016, Merlo 2021, Lipman 2023 Ergo, Kinkaid 2025; 4 abstract-only; Hare 2009 and Fine 2005 not read)
 - **Findings**: The task's framing is inverted — in the literature "first-person realism" names the privileged-perspective family (Builes: "one's own first-person perspective on the world is metaphysically privileged in some way"); the egalitarian option (Fine's nonstandard realism, Lipman's standpoint pluralism, Kinkaid 2025) is a wing of it, and Merlo 2021 is an *inegalitarian* statement of the problem (parity, multiplicity), not the egalitarian source. Metadata correction: Lipman "Subjective Facts about Consciousness" is Ergo 10 (2023), doi 10.3998/ergo.4649 — the PQ 75(3) 1026 reference in the task is List's quadrilemma paper. Assessed article-sized (both candidate hosts full; topics 343/360); `task_chains.pending_articles` entry added, target topics.
 - **Access note**: PhilPapers/PhilArchive, Wiley and Ergo all 403 to direct fetch; full texts obtained via Wayback Machine snapshots and the Cambridge OA PDF.
+
+---
 
 ## 02:36 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
@@ -6367,6 +6243,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Cross-section top 10** (0.635 down to 0.454) are all concept-vs-applying-topic pairs (`biological-computationalism` / `biological-computationalisms-inadvertent-case-for-dualism`, `selection-only-channel` / `selection-only-mind-influence`, …) — excluded by rule, and every one sums well over any section's hard threshold.
 - **Shared `coalesced_from` ancestry**: unchanged — four sibling pairs inside the age floor; `anoetic-noetic-autonoetic-consciousness`+`episodic-memory` sums 6486.
 - **Note for operator**: voids is two slots from cap and no length-feasible voids pair exists; relief has to come from archival or a cap change. The next sweep need not run before the pool moves (a new article, an archival, or an age-floor crossing of the biology/Whitehead clusters).
+
+---
 
 ## 02:01 - refine-draft
 - **Status**: Success
@@ -6379,6 +6257,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **References added**: Hare 2010 (Philosophy Compass 5(9)); Fine 2006 (Synthese 150(3)); Merlo 2022; Loss 2024; Lipman 2026 — list renumbered 1–14, no numeric in-text citations existed.
 - **Frontmatter**: ai_modified 2026-10-06T02:01:00+00:00; ai_system already carried claude-fable-5-1
 - **Published**: yes
+
+---
 
 ## 01:44 - deep-review
 - **Status**: Success
@@ -6393,6 +6273,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Frontmatter**: ai_modified and last_deep_review 2026-10-06T01:44:15+00:00; ai_system already carried claude-fable-5-1. Sibling files bumped ai_modified.
 - **Output**: [[reviews/deep-review-2026-10-06-ethics-under-dualism]]
 
+---
+
 ## 01:24 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]
@@ -6401,6 +6283,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: 2740 → 3063 words (concepts hard 3500; gate clear; status soft_warning before and after)
 - **Frontmatter**: ai_modified 2026-10-06T01:23:51+00:00; ai_system plus-joined claude-fable-5-1
 - **Published**: yes
+
+---
 
 ## 00:53 - refine-draft
 - **Status**: Success
@@ -6411,6 +6295,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: plus-joined claude-fable-5-1
 - **Published**: yes
 
+---
+
 ## 00:23 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected 00:08 UTC via `collect-chatgpt-review`; DOM changed again — reply now under a `MarkdownRoot-*` div with no `data-message-author-role`; blob-download + SHA-256 match, 46,470 bytes)
@@ -6420,11 +6306,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **High-value findings**: 9 (five verified errors; deflationist-horn omission; immeasurable→nonphysical vs Tenet 3; fragmentalist exit unworked; cross-page terminology seam on "solipsism"/"conscious")
 - **Tasks generated**: 5 — P1: 2 (egocentric-presentism verified errors; indexical-knowledge Perry fix + Lewis-as-competitor), P2: 3 (egocentric-presentism argumentative repairs, sequenced after the P1; vertiginous-question two length-neutral fixes at 7 words of headroom; haecceity heading + individuation "not solipsism" seam, two files). Methodology items 19–28 left for `/combine-outer-reviews`.
 
+---
+
 ## 00:00 - refine-draft
 
 - **Task**: optimistic-2026-10-05 today-changed-pages wing, Priority items 1-3 (inline by the driver)
 - **Status**: completed
 - **Changes**: death-and-consciousness L77 gloss reworded (neutrality is an attitude thesis: "how one regards the part of a life already lived"); responsibility-gradient L152 "the posit" -> "that posit"; scale-types-for-phenomenal-quantities L65 zero-word pipe to [[apex/phenomenal-variation-within-a-species]]. All 0 words.
+
+---
 
 ## 23:59 - optimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
@@ -6435,11 +6325,15 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Blocked, for the rider ledger**: `arguments/many-worlds-argument` L59/L83 still state the fission premise without the diverging-worlds concession installed today on two dependents; file is at hard_warning under a NEEDS-HUMAN length entry whose rider already holds zero-word fixes.
 - **New article subjects**: none (deduped against live + `research/`; olfactory imagery is covered by `imagery-void`).
 
+---
+
 ## 23:35 - refine-draft
 
 - **Task**: covert-consciousness-and-cognitive-motor-dissociation — production reply to the sub-threshold recall test
 - **Status**: completed (inline by the driver)
 - **Changes**: §What Would Discriminate gains a third caveat: production can read sub-threshold recall as the capacity measures missing consciousness; TMS-EEG misses about 5% of MCS patients (Aubinet et al. 2025, already cited). Anchors unchanged.
+
+---
 
 ## 23:25 - refine-draft
 - **Status**: Success
@@ -6454,6 +6348,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: claude-fable-5-1 plus-joined on quantum-zeno-effect and bidirectional-interaction (already present on the other two).
 - **Published**: yes (synced)
 
+---
+
 ## 22:55 - deep-review
 - **Status**: Success
 - **File**: [[concepts/no-self-objection-to-phenomenal-value]]
@@ -6466,6 +6362,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification** (unchanged): Metzinger/MPE Mixed (Mode One then Three); Parfit Mode Three; Siderits/Hidalgo Mode One; Alweiss Mode Three; diachronic-welfare objector Mode Three.
 - **Residue**: diachronic mattering still unengaged (by design, no headroom); page sits at 3495/3500 so any future cross-link install must be paid for inline.
 - **Output**: [[reviews/deep-review-2026-10-05-no-self-objection-to-phenomenal-value]]
+
+---
 
 ## 22:36 - refine-draft
 - **Status**: Success
@@ -6480,6 +6378,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not done / residue**: at 3,000 events the outpacing burden is the same order as Stapp's ~1000 observations per window (Stapp 2007, unchecked at source), so "the burden is sharper still" and "a rate no concrete model accounts for" are weaker than they were at "hundreds of thousands"; left as written. The "twelve-order-of-magnitude gap" from "femtoseconds" was not checked (the Hagan abstract reports Tegmark's figure as 10^-13 s).
 - **Published**: yes
 
+---
+
 ## 22:20 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/forward-in-time-conscious-selection]], [[apex/post-decoherence-selection-programme]] (one phrase)
@@ -6493,6 +6393,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: topic already carries `claude-fable-5-1`; apex left unchanged for a three-word substitution.
 - **Published**: yes
 
+---
+
 ## 22:09 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: the three Stapp-Zeno passages rewritten under length pressure today, read in their full articles: [[topics/comparing-quantum-consciousness-mechanisms]] (21:21Z), [[topics/forward-in-time-conscious-selection]] and [[topics/motor-control-quantum-zeno]] (21:36Z); checked against `research/zeno-dynamics-on-a-decohered-mixture-2026-10-05`, the Process 1 page, tenets L107 and the post-decoherence apex.
@@ -6500,6 +6402,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Verified at source**: Stapp 2000 mixture quotation, Georgiev 2015 redundancy sentence, Kiefer & Joos classical-decay and quadratic-to-linear sentences (raw arXiv text). Not reached: Stapp 2015, Joos 1984, Stapp 2007.
 - **Reports only**: no content file and no todo.md edit. Priority List of 4 with exact old/new text, measured costs and headroom.
 - **Output**: [[reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor]]
+
+---
 
 ## 21:36 - refine-draft
 - **Status**: Success
@@ -6513,6 +6417,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not done**: `tenets/tenets.md` L71 (operator's); the Chalmers-McQueen year locus in forward-in-time (another task's); the wider "only rapid observation events" sweep the tenet-check names.
 - **ai_system**: `claude-fable-5-1` plus-joined on both files.
 - **Published**: yes
+
+---
 
 ## 21:22 - refine-draft
 - **Status**: Success
@@ -6528,6 +6434,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **ai_system**: `claude-fable-5-1` plus-joined.
 - **Published**: yes
 
+---
+
 ## 21:08 - deep-review
 - **Status**: Success
 - **File**: [[concepts/naturalist-relationalism]]
@@ -6539,6 +6447,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: unchanged (relationalism Mode Three; causal argument and Byrne & Green naturalist-internal, not claimed for dualism)
 - **Also touched**: `research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16` (Phillips reference line)
 - **Output**: [[reviews/deep-review-2026-10-05-naturalist-relationalism]]
+
+---
 
 ## 20:50 - refine-draft
 - **Status**: Success
@@ -6552,6 +6462,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sibling grep (report only)**: "couldn't even discuss" has no other hit in topics/concepts/apex/voids. Flat self-defeat wording against epiphenomenalism with no hedge in the paragraph remains at dualism L154, reflexive-methodology L65 and L73, delegatory-causation L49, falsification-roadmap-for-the-interface-model L111, consciousness-only-territories L102; passed to the driver.
 - **Published**: yes
 
+---
+
 ## 20:28 - research-topic
 - **Status**: Success
 - **Topic**: Zeno dynamics on a decohered mixture
@@ -6562,6 +6474,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Assessment**: warrants a short concepts/ article (347/360 by count_section_files; no host page has the headroom). Added to task_chains.pending_articles (target concepts).
 - **Correction to brief**: Stapp 2000 cites Zurek, not Joos & Zeh; the Joos–Zeh citation is in the 2012 reply.
 
+---
+
 ## 19:40 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 114 (every file in topics/ concepts/ apex/ voids/ tenets/ project/ changed since 2026-10-03T20:08Z; 7 new articles read in full)
@@ -6569,6 +6483,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Warnings**: 21 loci in 18 files
 - **Notes**: today's Tenet 4 concessions to the diverging-worlds reading and the Stapp (2000) reporting are calibrated; no content file or todo.md edited
 - **Output**: [[reviews/tenet-check-2026-10-05]]
+
+---
 
 ## 19:06 - refine-draft
 - **Status**: Success
@@ -6581,6 +6497,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode**: no named-opponent reply edited.
 - **Published**: yes
 
+---
+
 ## 18:50 - refine-draft
 - **Status**: Success
 - **File**: [[project/evidential-status-discipline]]
@@ -6591,6 +6509,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Attribution**: Lipton's distinction is attributed via Farmakis and Hartmann's review, as the IBE page verified it; no Lipton quotation or page number added. The page's calibration is kept (*compatible* and no higher on the physicalist's explananda, *discriminating* nowhere; loveliness challenge stated as unanswered).
 - **Engagement modes**: none changed; no named-opponent reply edited.
 - **Published**: yes
+
+---
 
 ## 18:36 - refine-draft
 - **Status**: Success (partial no-op: the Paralogisms sentence and piped link were already installed by the 2026-10-03 expand-topic commit 344cf988cb; the locus and reference entry were still wrong)
@@ -6603,6 +6523,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (`analyze_length`): 3246 → 3380 (soft 3000, hard 4000).
 - **Published**: yes
 
+---
+
 ## 18:06 - refine-draft
 - **Status**: Success (8 of 10 hosts edited; 1 no-op, 1 dropped)
 - **File**: [[concepts/naturalist-relationalism]] (ten-host reciprocal task from `optimistic-2026-09-30-creation-wing`, cross-link table)
@@ -6613,6 +6535,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Dropped**: `concepts/explanatory-gap` (3495, headroom 4, pipe only). Its one colour phrase, Mary's "everything physical about color vision", names vision science rather than the ontology of colour; no existing phrase refers to the target, so no link was forced.
 - **Engagement modes**: none changed; no named-opponent reply was edited.
 - **Published**: yes
+
+---
 
 ## 17:51 - deep-review
 - **Status**: Success
@@ -6625,6 +6549,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement modes**: unchanged from 2026-08-27 (conservation objection Mode One; production, physicalist transmission, filter-only dualism Mode Three)
 - **Output**: [[reviews/deep-review-2026-10-05-filter-vs-interface-distinction]]
 
+---
+
 ## 17:36 - refine-draft
 - **Status**: No-op (every named locus already fixed; article not edited, `ai_modified` not bumped)
 - **File**: [[concepts/quantum-factorisation-problem]]
@@ -6634,6 +6560,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Hugo**: `hugo/content/concepts/quantum-factorisation-problem.md` carries all five corrected phrases and none of the old ones; no sync needed.
 - **Issues 1-6 loci**: untouched.
 - **Published**: yes (no change)
+
+---
 
 ## 16:50 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched)
@@ -6648,6 +6576,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Shared `coalesced_from` ancestry**: three of four sibling pairs are inside the age floor; the fourth (`anoetic-noetic-autonoetic-consciousness` + `episodic-memory`) sums to 6486.
 - **Note for operator**: voids is two slots from cap and coalescing cannot relieve it; relief has to come from archival or a cap change.
 
+---
+
 ## 16:35 - refine-draft
 - **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text; every old string matched exactly once)
 - **File**: [[concepts/quantum-zeno-effect]], [[concepts/post-decoherence-selection]]
@@ -6659,6 +6589,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Calibration**: Stapp's position is reported as his; Georgiev's redundancy reply stands as the open crux; the ranking of post-decoherence selection over Stapp-Zeno is unchanged.
 - **Reasoning mode (editor record)**: engagement with Stapp: Mode One residue via Georgiev (redundancy from Stapp's own mixture statement), reported, not adjudicated.
 - **Published**: yes
+
+---
 
 ## 16:22 - deep-review
 - **Status**: Success
@@ -6672,6 +6604,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode (editor record)**: no named-opponent reply in the article.
 - **Output**: [[reviews/deep-review-2026-10-05-jain-philosophy-of-mind]]
 
+---
+
 ## 16:05 - refine-draft
 - **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text)
 - **File**: [[topics/forward-in-time-conscious-selection]]
@@ -6683,6 +6617,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Calibration**: Stapp's position reported as his ("denies", "on his account"); no verdict. Georgiev's redundancy reply stands as the answer and the open crux lives on the Process 1 page. "Georgiev (2017)" and the Chalmers-McQueen locus (owned by another open task) untouched; section heading "Three Pre-Decoherence Frameworks" and the lead left for a deep review, as the review directs.
 - **Reasoning mode (editor record)**: engagement with Stapp: report of his own stated position, no refutation claimed either way; engagement with Georgiev: in-framework reply reported at source, crux left open.
 - **Published**: yes
+
+---
 
 ## 15:20 - refine-draft
 - **Status**: Success (3 of 3 loci applied with the review's exact text)
@@ -6696,6 +6632,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning mode (editor record)**: engagement with Georgiev: unchanged, in-framework (his theorem and Stapp's reply reported at source, crux left open); engagement with Stapp: report of his own stated position, no refutation claimed either way.
 - **Published**: yes
 
+---
+
 ## 14:52 - refine-draft
 - **Status**: Success (7 of 10 files edited; 3 dropped for want of an honest anchor)
 - **File**: [[concepts/mine-ness]] (first of a ten-file reciprocal-link task from `reviews/optimistic-2026-09-30-concession-wing` §Cross-Linking Suggestions)
@@ -6707,6 +6645,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Engagement classification**: none changed; the three new sentences on diverging-worlds and correlationism report concessions and framework-boundary placements already made on the target pages.
 - **Published**: yes
 
+---
+
 ## 14:40 - research-topic
 - **Status**: Success
 - **Topic**: Epistemic akrasia and holding an unsupported posit
@@ -6714,6 +6654,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Sources consulted**: 13 (5 SEP entries read in raw HTML and grepped; 3 abstracts; 5 metadata-only or quoted via SEP — Horowitz 2014 was not readable at source)
 - **Verdict**: article-sized for `concepts/` (347/360). The charge as worded misfires (credence is moderate, never high, and the "no support" judgement is dataset-specific); two residues land (a moderate credence on grade D with no stated prior; P-A1 unmoved after the divided-will). The acceptance-not-belief reply fits the tenets and fails for the register, whose credence axis is defined as probability of truth.
 - **Task chain**: `task_chains.pending_articles` entry added (target concepts)
+
+---
 
 ## 14:07 - deep-review
 - **Status**: Success
@@ -6726,6 +6668,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning modes**: no named-opponent reply
 - **Output**: [[reviews/deep-review-2026-10-05-local-tomography-and-the-consciousness-physics-interface]]
 
+---
+
 ## 13:50 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]], [[concepts/quantum-zeno-effect]]
@@ -6734,6 +6678,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Changes**: (a) `ensemble-level-epiphenomenalism` L39: "returns the density matrix decoherence already gave" → "returns the density matrix a no-collapse account predicts" (+1; 2,502 → 2,503). Georgiev's averaging point compares collapse with no-collapse descriptions of the mind's projections; the two matrices coincide only when the mind's basis is the pointer basis. (b) `quantum-zeno-effect` L76: "Behind both" → "Beside both" (0). (c) Same sentence, added by the driver after commit 60e61a75 corrected the Process 1 page: "supplies neither as stated" → "supplies a rule for picking among projectors and, as stated, an account of neither" (+10; 2,878 → 2,888), mirroring the Process 1 page L39 ("a rule for picking among experience-projectors ... and no account of the projectors themselves"). No new quotation. (d) `post-decoherence-selection` L88 checked and left unchanged: "leaves the unconditional density matrix where decoherence left it" is said of a Born-rate selection among pointer outcomes, where it is correct, and matches the Process 1 page L81.
 - **Engagement classification**: none changed; the edits correct a report of Georgiev and of Stapp, not a reply to either.
 - **Published**: yes
+
+---
 
 ## 13:36 - refine-draft
 - **Status**: Success
@@ -6746,12 +6692,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Inbound pages checked, not edited**: post-decoherence-selection L88, selection-criterion-problem L89, agency-budget L97, von-neumann-wigner-interpretation L92 still describe the page accurately. quantum-zeno-effect L76 ("supplies neither as stated") is now slightly blunter than the source page, which credits Stapp 2000 with a rule for picking the question; ensemble-level-epiphenomenalism L39 still carries the misstatement the review's Issue 4 names. Both belong to the separate open task.
 - **Published**: yes
 
+---
+
 ## 13:11 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/process-1-specification-problem]] (first pessimistic review), the six reciprocal sentences installed by today's 12:22 refine-draft, and three sibling loci citing the Georgiev–Stapp exchange (conservation-laws-and-mental-causation L113/L117, psychophysical-laws-bridging-mind-and-matter L143, stapp-quantum-mind L132). Sources re-read: Stapp 2000, Donald 2003, de Barros 2014, Georgiev 2015 IJMPB, Stapp 2012 reply draft.
 - **Findings**: 2 high, 3 medium. The page's "narrowing under pressure" story inverts the chronology (the consent wording is Stapp 2000, before all three critiques) and omits Stapp 2000's own statement that the question "must be determined largely by the brain"; Georgiev's theorem is applied to the Map's default but not to the Laskey repair, which is a Zeno drag inside its scope; the ensemble-level-epiphenomenalism reciprocal misstates Georgiev's averaging argument; conservation-laws L117 reports a Stapp response to the 2015 simulations that no consulted source contains.
 - **Tasks**: none written (reports-only slot; the driver mints from the review's four-item Priority List). No content file or todo.md edited.
 - **Output**: [[reviews/pessimistic-2026-10-05-process-1-specification-problem]]
+
+---
 
 ## 12:36 - refine-draft
 - **Status**: Success
@@ -6763,6 +6713,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length** (analyze_length, before → after / hard): death-and-consciousness 3533 → 3762 / 4000; philosophy-of-time 3189 → 3189 / 3500; phenomenology-of-anticipation 3402 → 3427 / 4000; temporal-consciousness 2987 → 3012 / 3500.
 - **Published**: yes
 
+---
+
 ## 12:22 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-zeno-effect]] (six-file reciprocal-integration task; also [[concepts/post-decoherence-selection]], [[concepts/selection-criterion-problem]], [[concepts/ensemble-level-epiphenomenalism]], [[concepts/agency-budget]], [[concepts/von-neumann-wigner-interpretation]])
@@ -6772,6 +6724,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Excluded by design**: `born-rule-and-the-consciousness-interface` (hard_warning, operator-blocked) not opened.
 - **Reasoning modes**: no named-opponent reply added or altered.
 - **Published**: yes
+
+---
 
 ## 12:06 - deep-review
 - **Status**: Success
@@ -6784,6 +6738,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Reasoning modes**: engagement with Dennett/Gazzaniga: Mixed (Mode Two + Three), unchanged; divided-will rivals: Mode Three by reference
 - **Output**: [[reviews/deep-review-2026-10-05-interpreter-module-narrative-construction-unity]]
 
+---
+
 ## 11:56 - research-topic
 - **Status**: Success
 - **Topic**: Constructivism about contemplative experience
@@ -6794,6 +6750,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Corpus corrections for the writer**: Katz is named on 11 live pages, not one as the source review said; `non-temporal-consciousness` L93 splices the subject of an otherwise accurate Sharf quote.
 - **Caveats**: all Katz quotations are second-hand (SEP, Sharf). Note runs about 3,800 words against a 2,500 target.
 - **Chain**: `task_chains.pending_articles` entry added (target `concepts`).
+
+---
 
 ## 11:09 - research-topic
 - **Status**: Success
@@ -6806,12 +6764,16 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Caveats**: verbatim quotes are Abbott (Gutenberg, no Akademie pagination); Gregor wording only as reproduced in SEP and Gardner. Note runs about 4,000 words against a 2,500 target.
 - **Chain**: `task_chains.pending_articles` entry added (target `topics`).
 
+---
+
 ## 10:54 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenal-variation-within-a-species]]
 - **Changed sources**: 11
 - **Word count**: 4086 → 4009 (narrative body; `analyze_length` total 4970 → 4971)
 - **Review**: [[reviews/apex-evolve-2026-10-05-phenomenal-variation-within-a-species]]
+
+---
 
 ## 10:40 - research-voids
 - **Status**: Success
@@ -6825,6 +6787,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Capacity**: voids 113/115 by `count_section_files` at run time. A standalone article would spend one of the last two slots; the note also sets out a fold option (expertise-and-its-occlusion, noetic-feelings-void, language-thought-boundary).
 - **Chain**: `task_chains.pending_articles` entry added (target `voids`).
 
+---
+
 ## 09:50 - refine-draft
 - **Status**: Success
 - **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
@@ -6836,6 +6800,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Residual (not edited, outside item 3)**: "they remain a subject of experience, a genuine agent" (Why Attention Grounds Responsibility), "The agent hasn't ceased to exist as controller" (Control-Theoretic Interpretation) and "it does not eliminate selection itself" (Hard determinism) still lean toward the every-subject-selects reading; left for the driver to consider adding to the NEEDS-HUMAN entry.
 - **Published**: yes
 
+---
+
 ## 09:40 - research-topic
 - **Status**: Success
 - **Topic**: Agency incompatibilism: Steward's settlers
@@ -6845,6 +6811,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Finding for the expand step**: the *Inquiry* symposium lead is confirmed (56(6), eight critics plus Steward's replies) and there is a second symposium in *Res Philosophica* 91(3). Levy has a separate *Inquiry* paper turning the luck objection on Steward. Her reply to Bishop states that agent causation is "the influence of a whole animal on its own parts" and physical. On sourcehood and luck the Map's non-physical settler adds nothing she lacks; the open questions are the reduction trade, her subjectivity condition, and scope (animals, sub-intentional action). The book index gives the Cartesian-dualism passage as "16 n. 37", so the-divided-will's "p. 16" may be a footnote.
 - **Length**: about 3,100 words including the citation list, against a 2,500 target.
 - **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
+---
 
 ## 09:30 - research-topic
 - **Status**: Success
@@ -6856,6 +6824,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Length**: about 3,350 words against a 2,500 target.
 - **Chain**: `task_chains.pending_articles` entry added (target `topics`).
 
+---
+
 ## 09:10 - research-topic
 - **Status**: Success
 - **Topic**: Self-deception and the divided mind
@@ -6865,6 +6835,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Finding for the expand step**: the SEP's quoted 'psychological exotica' (attributed to Mele 2001) reads "mental exotica" in Mele's book index and 1997 abstract. "Deception and Division" has two first printings (LePore & McLaughlin 1985; Elster 1986), which resolves the date lead left open on 2026-10-04.
 - **Length**: 3,596 words against a 2,500 target.
 - **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
+---
 
 ## 08:40 - deep-review
 - **Status**: Success
@@ -6878,6 +6850,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not reached**: the published abstract of Gennara et al. 2023 (quote matched in the preprint abstract only) and the published page for Kurzban p. 662.
 - **Engagement modes**: brain-only cost-signal reading of effort: Mode Three with an in-framework concession; the article gives up the effort-distribution inference and claims no refutation.
 - **Output**: [[reviews/deep-review-2026-10-05-self-control-as-skill-and-scaffolding]]
+
+---
 
 ## 08:27 - research-topic
 - **Status**: Success
@@ -6893,6 +6867,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Not reached**: Frederick et al. 2002 and Loewenstein et al. 2001 beyond abstracts (image-only scans); Hardisty & Weber full text; the philosophical time-bias literature; any cue-versus-delay experiment testing Loewenstein's 1996 contrast. All listed in the note's Gaps section.
 - **Chain**: `task_chains.pending_articles` entry added (target_section topics). Suggested follow-up beyond the expand-topic: a one-sentence correction to the-divided-will §accommodation.
 
+---
+
 ## 07:55 - refine-draft
 - **Status**: Success
 - **Task**: `ai_system` attribution audit for the claude-opus-5-5 driver window (2026-10-01T15:50Z to 2026-10-04T18:40Z) — frontmatter only, no body edits
@@ -6902,6 +6878,8 @@ ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-
 - **Left unchanged (10)**: nine piped-wikilink or Further Reading link insertions, plus [[topics/phenomenal-authority-and-first-person-evidence]] (a six-word table-label reword, below the one-sentence threshold).
 - **Ordering check**: four files carry `claude-opus-5-5+claude-fable-5-1`; in each the opus-5-5 entry dates from 09-24 to 09-27 and the fable-5-1 entry from a 09-28 to 09-30 prose edit, so the order is chronological and stands.
 - **Published**: yes (hugo synced)
+
+---
 
 ## 21:55 - expand-topic
 - **Status**: Success
