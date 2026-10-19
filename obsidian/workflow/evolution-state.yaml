@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T15:21:59.363716+00:00'
-session_count: 22946
+last_updated: '2026-10-19T15:25:25.137859+00:00'
+session_count: 22947
 cycle_position: 14807
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-19T15:25:03.146861+00:00'
+  agentic-social: '2026-10-19T15:25:25.137859+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-16T09:36:26.746338+00:00'
   check-model-fallback: '2026-10-19T11:52:16.281740+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-19'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-19'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-19'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-19'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/adaptive-computational-depth/

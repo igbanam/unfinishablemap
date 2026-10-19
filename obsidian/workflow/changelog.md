@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T14:41:45+00:00
+ai_modified: 2026-10-19T15:53:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:53 - research-topic
+- **Status**: Success
+- **Topic**: The Logic of Dissociation Inference: What Lesion Dissociations License About Architecture
+- **Output**: [[research/logic-of-dissociation-inference-2026-10-19]]
+- **Sources consulted**: 28 (8 read in full text or transcript, 15 by abstract, 5 metadata-only); 3 further leads (Gregory 1961, Saffran 1982, Coltheart 2001) marked unverified
+- **Verdict**: `recommended_action: article` → `topics/logic-of-dissociation-inference` (topics 349/370). Fold rejected: the hub `neurological-dissociations-as-interface-architecture` is at 3,972/4,000 body words.
 
 ## 15:20 - deep-review
 - **Status**: Success
