@@ -2,9 +2,9 @@
 title: "Neural Correlates of Consciousness"
 description: "Brain activity correlating with conscious experience. Correlation is not identity: NCC findings are compatible with dualism, physicalism, and filter theory."
 created: 2026-01-14
-modified: 2026-10-06
+modified: 2026-10-19
 human_modified: null
-ai_modified: 2026-10-06T21:38:00+00:00
+ai_modified: 2026-10-19T09:12:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ Koch et al. (2016) define the NCC as "the minimum neuronal mechanisms jointly su
 
 ## The Posterior Cortical Hot Zone
 
-One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Ventral occipital lesions can produce severe colour-vision deficits (cerebral achromatopsia), though these are "often incomplete" (Bouvier & Engel 2006); stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [[global-workspace-theory|GNWT proponents]] (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The wider theory landscape splits similarly: [[higher-order-theories]] look prefrontal, [[attention-schema-theory]] to an attention model in temporoparietal cortex, while [[recurrent-processing-theory]] and [[attended-intermediate-representations-theory]] keep the correlate in sensory cortex.
+One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Ventral occipital lesions can produce severe colour-vision deficits (cerebral achromatopsia), though these are "often incomplete" (Bouvier & Engel 2006); stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [[global-workspace-theory|GNWT proponents]] (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The prefrontal no-report evidence is itself mixed: in macaques, feature-selective prefrontal populations track internally generated percept switches without report, and decoding survives suppression of the eye movements used to infer the percept (Kapoor et al. 2022). The wider theory landscape splits similarly: [[higher-order-theories]] look prefrontal, [[attention-schema-theory]] to an attention model in temporoparietal cortex, [[recurrent-processing-theory]] and [[attended-intermediate-representations-theory]] to sensory cortex.
 
 ## The COGITATE Experiment
 
@@ -217,6 +217,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Dunham, W. (2025, May 1). Scientists explore where consciousness arises in the brain. *Reuters*. https://kfgo.com/2025/05/01/scientists-explore-where-consciousness-arises-in-the-brain/ (syndicated text)
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf (author's eprint)
 1. Josipovic, Z. (2019). Nondual Awareness: Consciousness-as-such as Non-representational Reflexivity. *Progress in Brain Research*, 244, 273-298.
+1. Kapoor, V., et al. (2022). Decoding internally generated transitions of conscious contents in the prefrontal cortex without subjective reports. *Nature Communications*, 13, 1535. https://doi.org/10.1038/s41467-022-28897-2 (abstract)
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17(5), 307-321. https://doi.org/10.1038/nrn.2016.22 (Key Points, abstract)
 1. Laukkonen, R.E., Friston, K.J., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296 (abstract)
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf (full text)

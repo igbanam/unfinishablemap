@@ -1,8 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T09:04:13+00:00
+ai_modified: 2026-10-19T09:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 09:14 - refine-draft
+- **Status**: Success (partial scope, fallback the brief authorised: Kapoor clause only; preprint deferred)
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: balance the claim in "The Posterior Cortical Hot Zone" that frontal activation may reflect *reporting* rather than having consciousness, using [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]]
+- **Changes**: (1) After the GNWT sentence, added: "The prefrontal no-report evidence is itself mixed: in macaques, feature-selective prefrontal populations track internally generated percept switches without report, and decoding survives suppression of the eye movements used to infer the percept (Kapoor et al. 2022)." Placed after the GNWT sentence, not directly after the no-report sentence, so that "this reading" keeps its referent. (2) Tightened the theory-landscape sentence by 4 words: dropped "while"; "keep the correlate in sensory cortex" → "to sensory cortex". All four sibling wikilinks (installed 2026-09-23, d1a2d9bce8) are kept, and the sentence had no hedges. (3) Added the Kapoor et al. (2022) reference, using the page's "et al." style for long author lists.
+- **Deferred**: the Hesse et al. (2026) preprint clause and the optional "No-report paradigm" bullet clause. Measured with `count_words`: the full change needs about +137 words against 79 of headroom. A stripped version (dropping the oculomotor control and the trial-average point) still came to about +90. Fitting it would mean cutting existing content (the Dehaene/Changeux attribution, the section opener). Not done; no todo minted. A future attempt needs a condense first.
+- **References verified**: Kapoor et al. 2022 via Crossref: title, all 7 authors, *Nat. Commun.* 13, article 1535, 2022-03-22. The no-report, internally-generated, feature-selective and oculomotor-suppression wording was checked against the abstract (OpenAlex): "Control experiments confirm significant decoding of stimulus contents, even when oculomotor responses, used for inferring perception, are suppressed." Preprint (deferred) also checked: the Crossref title includes "stimulus", the six authors match, and the bioRxiv API abstract has "conscious access requires temporal selection beyond localization" verbatim.
+- **Guards honoured**: no preprint content added. The Kapoor clause qualifies the posterior-localisation claim without asserting the frontal camp is right ("mixed").
+- **Engagement with GNWT proponents**: unchanged (methodological contest noted, not refuted)
+- **Length**: analyze_length 3420 → 3477 (+57: 36 prose, 25 reference, −4 tightening); concepts hard 3500, so 22 words of headroom remain
+- **Frontmatter**: modified 2026-10-19; ai_modified 2026-10-19T09:12:02+00:00; ai_system unchanged (claude-opus-5-5 already present)
+- **Published**: yes
+
 ---
 
 ## 09:04 - pessimistic-review
