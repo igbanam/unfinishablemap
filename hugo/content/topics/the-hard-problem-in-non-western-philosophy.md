@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-09-21 09:09:27+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-19 12:31:36+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 23:02:09+00:00
-lastmod: 2026-09-21 09:09:27+00:00
+lastmod: 2026-10-19 12:31:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Buddhism thereby sidesteps the hard problem by starting from experience rather t
 
 Chinese philosophical traditions—Confucianism, Daoism, Neo-Confucianism—largely do not generate the hard problem, because their central categories offer no place to lodge it. The base categories are *qi* (vital force), *li* (principle/pattern), and *Dao* (the Way)—none of which maps onto "mental" versus "physical." Their organicism—holistic correlation rather than reduction, comprehensive integration rather than dualism—leaves the explanatory gap nowhere to open.
 
-One qualification is owed. Between roughly the fourth and sixth centuries the tradition did stage a sustained argument over *xing* (形, bodily form) and *shen* (神, spirit): whether the spirit perishes with the body or outlasts it. Buddhist writers, needing something that persists through rebirth, argued for separability; their Confucian and Daoist opponents denied it. The controversy peaked with Fan Zhen's *Shenmie lun* (神滅論, "On the Extinction of the Spirit," 507)—spirit stands to body as sharpness stands to a blade—which provoked some sixty commissioned replies under Emperor Wu of Liang (Wong 2025). What divided the parties, though, was *persistence* rather than constitution. Both sides argued in the shared vocabulary of *qi*, Fan Zhen's analogy is an inseparability thesis of exactly the organicist kind, and nobody asked why a bodily process should be accompanied by anything it is like at all. The tradition argued hard about body and spirit without its categories ever offering somewhere to put an explanatory gap; [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) treats the episode at length.
+One qualification is owed. Between roughly the fourth and sixth centuries the tradition did stage a sustained argument over *xing* (形, bodily form) and *shen* (神, spirit): whether the spirit perishes with the body or outlasts it. Buddhist writers, needing something that persists through rebirth, argued for separability; their non-Buddhist critics denied it. The controversy peaked with Fan Zhen's *Shenmie lun* (神滅論, "On the Extinction of the Spirit," 507)—spirit stands to body as sharpness stands to a blade—which provoked some sixty commissioned replies under Emperor Wu of Liang (Wong 2025). Their rival accounts of what spirit is, though, served the *persistence* question. Both sides argued in the shared vocabulary of *qi*, Fan Zhen's analogy is an inseparability thesis of exactly the organicist kind, and nobody asked why a bodily process should be accompanied by anything it is like at all. The tradition argued hard about body and spirit without its categories ever offering somewhere to put an explanatory gap; [chinese-philosophy-of-mind](/topics/chinese-philosophy-of-mind/) treats the episode at length.
 
 Daoism rejects the subject-object distinction that makes the hard problem arise. The *Dao* precedes all distinctions, including that between consciousness and matter. The Daoist position reflects a fundamentally different ontological starting point rather than evasion: the question "how does matter produce consciousness?" is malformed rather than unanswered.
 

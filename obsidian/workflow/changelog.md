@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T13:54:58+00:00
+ai_modified: 2026-10-19T14:31:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:31 - deep-review
+- **Status**: Success
+- **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]
+- **Selection**: scorer's #1 (`topics/acquaintance-without-causation`) skipped as edited today; this was #2 (score 99), no open Active task, body changed by two 2026-10-12 refines since the 07-17 review, and a new dependency ([[concepts/lawful-appearance-problem]]) landed after it
+- **Word count**: 3028 → 3026 (-2; length-neutral, topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 3 (ref 9 wrong companion title; ref 10 wrong pseudonym Oquatre-six → Oquatre-sept; opening quote elided a parenthetical without an ellipsis)
+- **Medium issues addressed**: 4 (historical "tend to have a trajectory" rescoped to the one supporting case, James; MWI-analogy section now names the Map's own narrower appearance debt per lawful-appearance-problem; "forces both poles to be real" heading softened to match its paragraph's concession; "densely populated" → "recognised dualist occupants")
+- **Enhancements made**: 2, plus 3 low fixes (two "This is not X; it is Y" constructions removed; dangling "such an expansion" antecedent; "lower-left edge" → "lower edge")
+- **Citation ledger**: all 10 references re-verified at source (the 06-08 ledger had mis-certified ref 8). Kastrup anti-dualism via Google Books PT249; James "mother sea" grepped in the archive.org raw text; Szanyi 2024 via SEP meta tags. Engagements: Kastrup Mode Three, MWI Mode Three
+- **Output**: [[reviews/deep-review-2026-10-19-q3-q4-sliding-boundary-and-transparency-problem]]
 
 ## 13:54 - refine-draft
 - **Status**: Success
