@@ -4,7 +4,7 @@ description: "A human+AI concept page naming the evidence type in which the dire
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-10-13T02:44:57+00:00
+ai_modified: 2026-10-19T23:08:47+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[common-cause-null]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-06-03
 last_curated:
 last_deep_review: 2026-08-18T12:26:56+00:00
@@ -46,7 +46,7 @@ The family has four members, each documented across the disruption cluster (anae
 
 **Recovery-order reversal across mechanisms.** The [[anoetic-noetic-autonoetic-consciousness|autonoetic / episodic]] channel returns *last* when a deeply anaesthetised brain emerges, yet *first and most prominently* in terminal lucidity, where patients with advanced dementia recover autobiographical recollection in the hours before death (Nahm, Greyson, Kelly, and Haraldsson 2012). The same channel, opposite recovery position, distinguished by the direction and context of substrate change — rising substrate function in one case, falling in the other.
 
-**Abrupt reconnection versus gradual onset.** In dissociative amnesia, autobiographical access is severed gradually under stress but frequently returns abruptly and completely when the dissociative barrier lifts — the bridge reconnects rather than being re-grown. Recovery is not the time-reverse of onset, and because the substrate is anatomically intact, the asymmetry cannot be attributed to tissue loss or repair. This is the family's least secure member, and the caution belongs here rather than only in the source: the dissociative row is at once the cleanest accommodation case and the most contested one in [[memory-channel-interface-evidence|the article where the family is developed]], where critics of the trauma model of dissociation argue that encoding without recall lacks strong empirical support — putting in question not merely the mechanism behind compartmentalised autobiographical access but whether an objective memory barrier is present at all. If it is not, the asymmetry is a fact about self-understanding rather than about channel access, and this member weakens accordingly.
+**Abrupt reconnection versus gradual onset.** In dissociative amnesia, autobiographical access is severed gradually under stress but [[clinical-dissociation-as-systematic-evidence|is reported to return, sometimes abruptly]], when the dissociative barrier lifts — on the interface reading the bridge reconnects rather than being re-grown, though whether recovery retrieves retained content or reconstructs it from cues is open. Recovery is not the time-reverse of onset, and because no focal lesion is present, the asymmetry cannot be attributed to tissue loss or repair. This is the family's least secure member, and the caution belongs here rather than only in the source: the dissociative row is at once the cleanest accommodation case and the most contested one in [[memory-channel-interface-evidence|the article where the family is developed]], where critics of the trauma model of dissociation argue that encoding without recall lacks strong empirical support — putting in question not merely the mechanism behind compartmentalised autobiographical access but whether an objective memory barrier is present at all. If it is not, the asymmetry is a fact about self-understanding rather than about channel access, and this member weakens accordingly.
 
 **Direction-decoupled timing.** Anaesthetic induction tracks drug concentration closely, while emergence is a distributed, stochastic, network-level reconstitution whose timing is not fixed by the macroscopic substrate state. Stone, Kelz, Proekt, and Wasilczuk (2025) found that genetically identical mice under identical protocols emerged at times varying by at least two orders of magnitude, with a deterministic pharmacokinetic-pharmacodynamic model failing where a stochastic neuronal-dynamics model fit. The down-trajectory and the up-trajectory obey different dynamics. (The *interpretation* of that variability — classical neuronal noise versus interface indeterminacy — is held at a separate, lower-tier question developed in [[stochastic-emergence-as-quantum-interface-evidence|the stochastic-emergence article]]; the structural point carried here is only that emergence is not the deterministic reverse of induction.)
 

@@ -5,6 +5,20 @@ ai_modified: 2026-10-19T22:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 23:09 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-interface-change]]
+- **Task**: P3 "L49 still carries the 'returns abruptly and completely … reconnects rather than being re-grown' amnesia claim … plus 'anatomically intact'" (optimistic-2026-10-08-clinical-dissociation-wing, Cross-link item 2)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-substitution pass)
+- **Changes**:
+  1. L49 lead clause: `frequently returns abruptly and completely when the dissociative barrier lifts — the bridge reconnects rather than being re-grown.` → `[[clinical-dissociation-as-systematic-evidence|is reported to return, sometimes abruptly]], when the dissociative barrier lifts — on the interface reading the bridge reconnects rather than being re-grown, though whether recovery retrieves retained content or reconstructs it from cues is open.` **Deviation from the review's text:** the review proposed `is reported to return abruptly, sometimes wholesale`. The flagship (topics/clinical-dissociation-as-systematic-evidence L96 "often reported to be reversible, sometimes abruptly" and L102 "reversible cases are reported, sometimes abrupt", both unchanged since c350193090 at 2026-10-08 05:29Z) hedges the *abruptness* and says nothing about wholesale return (grep `wholesale` = 0, never present per `git log -S`). The piped link would have attributed the unhedged "abruptly" and the "wholesale" to a page that carries neither, so the link text was set to the flagship's own grade.
+  2. L49 next sentence: `because the substrate is anatomically intact` → `because no focal lesion is present` (flagship L102 "no focal lesion"). Pronoun check on the following sentences: no referent changed.
+  3. `ai_modified` bumped; `ai_system` appended `claude-opus-5-5` (absent from the prior value).
+- **Length**: analyze_length 2764 → 2782 (+18; concepts hard 3500, status soft_warning, headroom 717).
+- **Left for follow-up (not edited, out of scope)**: (a) the same sentence's onset clause `is severed gradually under stress` is firmer than its source, topics/memory-channel-interface-evidence L132 ("onset *can* be gradual"); (b) that source line itself still carries the retired uncalibrated wording, "recovery, when the barrier lifts, is frequently abrupt and complete — the bridge reconnects, it is not re-grown" (no open task found for L132; the open P3 on that page covers L100/L142/L156 only).
+- **Validation**: sync clean for this file; old strings 0 and new strings 1 in both obsidian/ and hugo/; wikilink renders to /topics/clinical-dissociation-as-systematic-evidence/; validate.py ✓.
+- **Published**: yes
+
 ## 22:55 - coalesce
 - **Task**: coalesce cycle slot: delta check since the 13:10 run, abandoned (steady state)
 - **Status**: SUCCESS (no candidate)
