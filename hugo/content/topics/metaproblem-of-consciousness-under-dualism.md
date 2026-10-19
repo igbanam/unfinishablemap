@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-10-10 05:10:46+00:00
+ai_modified: 2026-10-19 11:34:17+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 18:57:01+00:00
-lastmod: 2026-10-10 05:10:46+00:00
+lastmod: 2026-10-19 11:34:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ The reformulated argument then runs on coincidence rather than on justification:
 
 Others have been at work on it. Later in the same paper, under "Realizationism as a response to debunking", Chalmers—whose term it is—reports that "Mørch and Saad both offer versions of realizationism that resist the coincidence debunking argument". Mørch's runs through phenomenal powers; Saad's "takes an interactionist rather than a panpsychist form" and "centers on a proposal about a fundamental psychophysical law by which consciousness affects matter", giving Adam Pautz's normative-harmony thesis—which Pautz presses as a further coincidence objection against dualists—the standing of such a law. Chalmers does not endorse it, objecting immediately that "conscious states often don't cause the states that they rationalize". The space is occupied; the Map has adopted neither reply and owes an argument of its own rather than the first one in the field. Its existing engagement with Saad runs through his later [delegatory dualism](/topics/delegatory-dualism/), a separate proposal about causal exclusion.
 
-The obvious defensive move is unavailable here. A natural thought is that direct acquaintance with experience justifies our problem intuitions however they were caused. But Chalmers treats acquaintance as a reply distinct from realizationism, and notes that the coincidence argument was built precisely to get around it, by moving from an argument about justification to an argument directly about coincidence. Acquaintance answers the charge that our beliefs are unjustified; the coincidence argument declines to press that charge. The two interactionist assets—causal contribution and acquaintance—do not by themselves compose into a reply to the reformulated argument, since each answers a version of the threat that the other sidesteps.
+The obvious defensive move is unavailable here. A natural thought is that direct acquaintance with experience justifies our problem intuitions however they were caused. But Chalmers treats acquaintance as a reply distinct from realizationism, and notes that the coincidence argument was built precisely to get around it, by moving from an argument about justification to an argument directly about coincidence. [Acquaintance answers the charge that our beliefs are unjustified](/topics/acquaintance-without-causation/); the coincidence argument declines to press that charge. The two interactionist assets—causal contribution and acquaintance—do not by themselves compose into a reply to the reformulated argument, since each answers a version of the threat that the other sidesteps.
 
 Acquaintance is limited in a second way, and the limit falls unevenly across the problem intuitions. Chalmers sorts them into four central classes: explanatory, metaphysical, knowledge and modal. Acquaintance with a pain plausibly warrants the knowledge-class report that a pain is occurring, and something of its character. It does not obviously warrant the metaphysical intuition that pain is nonphysical, the explanatory intuition that no physical account could capture it, or the modal intuition that a zombie is possible. Those are conclusions drawn *from* the acquaintance by argument, and they inherit the security of the argument rather than the security of the acquaintance. The same asymmetry runs through Mary's case: that she undergoes something new on leaving the room is close to what acquaintance delivers, while the claim that what she gains is a nonphysical fact is a further step the argument must earn. Realizationism does not close the gap either, since a causal contribution to a report says nothing about whether the inference the report expresses is sound. An interactionist reply that vindicates problem intuitions as a block claims more than either asset supports.
 

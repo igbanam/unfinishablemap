@@ -1,8 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T11:10:04+00:00
+ai_modified: 2026-10-19T11:34:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 11:34 - expand-topic
+- **Status**: Success
+- **Topic**: Acquaintance without causation: acquaintance secures knowing without causal traffic, so self-stultification survives only on the use and voice channels, at a content-efficacy cost
+- **Output**: [[topics/acquaintance-without-causation]]
+- **Word count**: 2,947 by `analyze_length` (status ok; topics soft 3,000, hard 4,000); prose ~2,650, Further Reading + References ~300
+- **Based on research**: yes, [[research/acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16]] (Verdict (a)); its eight-section outline followed (lead; the premise vs the Map's acquaintance pages; Chalmers 1996 to 2003; origins of the causal premise incl. De Brigard; three channels; two epiphenomenalisms; efficacy-of-evidence premise and its cost; Relation to Site Perspective)
+- **Section headroom**: topics 348/370 by `count_section_files` at 11:23Z, before creation
+- **Quotes**: 51 quoted strings machine-checked. Every external quote counts 1 in a source re-fetched this run (Chalmers 1996 archive.org OCR; Chalmers 2003 consc.net preprint, preprint pagination; De Brigard 2014 Duke PDF; SEP "Epiphenomenalism" rev. 2023 §2.4; Jackson 1982 JSTOR scan); every Map-page quote counts 1 in the live page. Page-straddling sentences quoted as single-page substrings (De Brigard pp. 123–124; Chalmers 2003 pp. 31–32); Jackson's "t o" scan split avoided by quoting the clean substring.
+- **Cite-only (no quotes)**: Yetter-Chappell 2022, Bayne 2001, Shoemaker 1975, Mørch 2017 (Crossref metadata; Mørch's abstract read via OpenAlex). Not cited: the note's unverified leads (Robinson 2006, Pauen, Staudacher, Nagasawa, Baysan, Kirk). Dropped while trimming: Moore 2012 and Robinson 2013 (metadata-verified but carrying no argument). Dennett and Robinson's 1982 reconstruction are named without a year because unread.
+- **Author stance**: Chalmers 2003 explicitly not endorsing epiphenomenalism (n. 16); De Brigard 2014 defends the objection against Robinson's common-cause view, concedes thesis (A) (pp. 123–124), compares with identity theory (n. 6), sets Chalmers aside (n. 8); Robinson (SEP author) epiphenomenalist-friendly; Jackson 1982 epiphenomenalist scoped to the physical; Mørch 2017 panpsychist, stated in-text as no ally; Yetter-Chappell characterised only by her title's claim, and the hub's assertion account is flagged as the Map's reading.
+- **Calibration**: the lead states the result as a repair of the Map's own argument with an open content-efficacy debt (Tenet 3 "express its content" clause, `^tenet-3-standing`); no claim that self-stultification refutes epiphenomenalism; the externalist-parity reply is flagged as the Map's own.
+- **Reciprocal links** (zero-word piped links, gate counts unchanged): `concepts/phenomenal-acquaintance` on "reliably produces accurate reports" (3,031/3,500) and `topics/metaproblem-of-consciousness-under-dualism` on "Acquaintance answers the charge that our beliefs are unjustified" (3,919/4,000). Skipped by instruction: `concepts/self-stultification`, `topics/self-stultification-as-master-argument` (its P3 is still pending) and `tenets/tenets.md`.
+- **Coordination**: the master-page P3 Yetter-Chappell concession is not duplicated; the article cites the hub's section and adds the channel analysis.
+- **Apex sources**: none list the new article.
+
 ---
 
 ## 11:10 - optimistic-review

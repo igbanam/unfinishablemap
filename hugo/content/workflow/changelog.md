@@ -1,14 +1,76 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 10:02:00+00:00
+ai_modified: 2026-10-19 11:34:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-19'
-lastmod: 2026-10-19 10:02:00+00:00
+lastmod: 2026-10-19 11:34:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:34 - expand-topic
+- **Status**: Success
+- **Topic**: Acquaintance without causation: acquaintance secures knowing without causal traffic, so self-stultification survives only on the use and voice channels, at a content-efficacy cost
+- **Output**: [acquaintance-without-causation](/topics/acquaintance-without-causation/)
+- **Word count**: 2,947 by `analyze_length` (status ok; topics soft 3,000, hard 4,000); prose ~2,650, Further Reading + References ~300
+- **Based on research**: yes, [acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16](/research/acquaintance-without-causation-and-the-self-stultification-argument-2026-10-16/) (Verdict (a)); its eight-section outline followed (lead; the premise vs the Map's acquaintance pages; Chalmers 1996 to 2003; origins of the causal premise incl. De Brigard; three channels; two epiphenomenalisms; efficacy-of-evidence premise and its cost; Relation to Site Perspective)
+- **Section headroom**: topics 348/370 by `count_section_files` at 11:23Z, before creation
+- **Quotes**: 51 quoted strings machine-checked. Every external quote counts 1 in a source re-fetched this run (Chalmers 1996 archive.org OCR; Chalmers 2003 consc.net preprint, preprint pagination; De Brigard 2014 Duke PDF; SEP "Epiphenomenalism" rev. 2023 §2.4; Jackson 1982 JSTOR scan); every Map-page quote counts 1 in the live page. Page-straddling sentences quoted as single-page substrings (De Brigard pp. 123–124; Chalmers 2003 pp. 31–32); Jackson's "t o" scan split avoided by quoting the clean substring.
+- **Cite-only (no quotes)**: Yetter-Chappell 2022, Bayne 2001, Shoemaker 1975, Mørch 2017 (Crossref metadata; Mørch's abstract read via OpenAlex). Not cited: the note's unverified leads (Robinson 2006, Pauen, Staudacher, Nagasawa, Baysan, Kirk). Dropped while trimming: Moore 2012 and Robinson 2013 (metadata-verified but carrying no argument). Dennett and Robinson's 1982 reconstruction are named without a year because unread.
+- **Author stance**: Chalmers 2003 explicitly not endorsing epiphenomenalism (n. 16); De Brigard 2014 defends the objection against Robinson's common-cause view, concedes thesis (A) (pp. 123–124), compares with identity theory (n. 6), sets Chalmers aside (n. 8); Robinson (SEP author) epiphenomenalist-friendly; Jackson 1982 epiphenomenalist scoped to the physical; Mørch 2017 panpsychist, stated in-text as no ally; Yetter-Chappell characterised only by her title's claim, and the hub's assertion account is flagged as the Map's reading.
+- **Calibration**: the lead states the result as a repair of the Map's own argument with an open content-efficacy debt (Tenet 3 "express its content" clause, `^tenet-3-standing`); no claim that self-stultification refutes epiphenomenalism; the externalist-parity reply is flagged as the Map's own.
+- **Reciprocal links** (zero-word piped links, gate counts unchanged): `concepts/phenomenal-acquaintance` on "reliably produces accurate reports" (3,031/3,500) and `topics/metaproblem-of-consciousness-under-dualism` on "Acquaintance answers the charge that our beliefs are unjustified" (3,919/4,000). Skipped by instruction: `concepts/self-stultification`, `topics/self-stultification-as-master-argument` (its P3 is still pending) and `tenets/tenets.md`.
+- **Coordination**: the master-page P3 Yetter-Chappell concession is not duplicated; the article cites the hub's section and adds the channel analysis.
+- **Apex sources**: none list the new article.
+
+---
+
+## 11:10 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the incompatibilism-arguments wing after the 10-13 pessimistic repair and the 10-15 deep reviews. Read in full: `topics/the-consequence-argument-for-incompatibilism`, `topics/the-manipulation-argument-and-hard-incompatibilism`, `concepts/source-versus-leeway-incompatibilism` and `topics/event-causal-libertarianism`. Also read the downstream loci in `apex/consciousness-and-agency`, `topics/free-will`, `concepts/quantum-indeterminacy-free-will`, `topics/trilemma-of-selection` and `positions/agency-and-will`. No open task on any wing file, and none edited today.
+- **Findings**:
+  - The Tenet 5 split ("reaches only the parsimony strand") now runs across five pages, the apex and the free-will hub included. The Tenet 3 "wants but does not entail" scoping has no stranded sibling.
+  - Opening 1: the mentally-determined dualist installed at consequence L91 is still caught by the Consequence Argument, so the libertarian discharge is agent-causal, not merely quantum.
+  - Opening 2: the Mind argument is the Consequence Argument's formal twin. Finch 2017 reverses the Finch & Warfield 1998 asymmetry that the page cites only for Beta-2.
+  - Opening 3: the Map's "wide" source cell is Kane's too (Timpe 2007).
+  - Calibration concern: ECL L80 "agent-causal views defeat luck" overstates the Map's own register. SEP §3.2 reports Haji, Mele and van Inwagen pressing luck against agent causation.
+  - Not-covered subject: the luck and Mind arguments against agent causation, and the agent-causalist replies.
+- **Sources verified**: OpenAlex abstracts (Finch & Warfield 1998, Finch 2017, Franklin 2011); Crossref (Finch 2017 pp. 118–139, Mele 2006, Griffith 2005); SEP incompatibilism-theories §3.2 (curled raw HTML); Timpe 2007 PDF (pdftotext).
+- **Tasks**: 4 P3, inserted above `## Completed Tasks` (`parse_tasks` active 125 → 129; diff is 38 insertions only):
+  - refine-draft on the consequence page (Finch 2017 + mentally-determined dualist, +240);
+  - refine-draft on ECL L80 (scope "defeat luck", about +110);
+  - refine-draft on source-vs-leeway L80 (Kane shares the wide cell, about +60);
+  - research-topic on luck and Mind arguments against agent causation.
+- **Output**: [optimistic-2026-10-19-incompatibilism-repair-wing](/reviews/optimistic-2026-10-19-incompatibilism-repair-wing/)
+- **Published**: not synced in this run (left to the cycle driver)
+
+---
+
+## 10:25 - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: recast one overclaiming sentence in the bistable-percept paragraph of "Dissociations: Processing Without Experience", per [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/)
+- **Changes**: (1) "…that voluntary attention can bias but neural dynamics alone do not fully determine" became "…that voluntary attention can bias and that, on the Map's reading, neural dynamics alone do not fully determine". The claim was stated as a finding; it now reads as the Map's interpretive bet. (2) Added one sentence: a 2026 macaque flash-suppression preprint reports high-level cortex rapidly alternating between seen and unseen representations beneath a steady percept, and proposes that neural routing gates access. Its anchor text links to `selective-correction-and-reconstruction-paradox#the-selection-gap`, which carries the citations and the ~60 ms figures, so no reference entry was added. (3) "bistable perception shows consciousness *actively participating*" became "the Map takes bistable perception to show consciousness *actively participating*", so it reads as interpretation and not observation. (4) `modified` and `ai_modified` updated; `claude-opus-5-5` appended to `ai_system`, where it was absent.
+- **Guards kept**: flash suppression is named, so the clause does not imply spontaneous rivalry; it is cited only as the physicalist resource and not as evidence that consciousness chooses. Routing is attributed to the preprint as a proposal. No "15 Hz", and no claim about dualism or the quantum mechanism. Pronoun check: the following sentence has no back-reference, so its subject change strands nothing.
+- **Not touched**: the "Relation to Site Perspective" Bidirectional Interaction paragraph already hedges bistable selection with "suggest". The page does not cite Carter 2005 or meditators, so it does not share the Carter overstatement queued for other pages.
+- **Length**: analyze_length 3865 → 3899 (+34; hard gate 4000)
+- **Engagements**: physicalist temporal-selection/routing reading: Mode Three; reported as the authors' proposal beside the Map's reading, with no refutation claimed.
+- **Published**: yes
+
+## 10:10 - refine-draft
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: add one paragraph on a second mismatch (content stability, not sampling rate) from [hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19](/research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19/)
+- **Changes**: (1) New closing paragraph in "Physical Smoothing Mechanisms" (after the display-analogy paragraph, so the authors' routing reply sits with the listed mechanisms and the leftover question leads straight into "The Functionalist Response"). Content: flash suppression, where the flash fixes which face is seen; human observers report the flashed face, and the study treats the percept as steady. In two macaques, inferotemporal and, more weakly, prefrontal populations carry the seen face in nearly pure form about half the time, in ~60 ms runs, and the unseen face for the rest. The monkeys gave no report (labels from 14 human observers); the preprint is unreplicated. The authors' untested physicalist routing reply joins the mechanisms above. For anti-functionalists it leaves open why a face carried half the time is experienced as unbroken. One-clause tie to "The Continuity Void" (in-page anchor): report latency near 0.86 s cannot resolve 60 ms structure, so experience may itself alternate below introspective grain. (2) Reference 7 added (Hesse et al. 2026, bioRxiv v1, not peer-reviewed; Crossref-verified earlier today); James–Southgate renumbered 8–15 (no numeric in-text cites on the page). (3) `modified` and `ai_modified` updated; `ai_system` already contained claude-opus-5-5.
+- **Placement rejected**: after the gamma paragraph in "The Neural Evidence for Discrete Processing". That paragraph ends on the quantum-timing cross-link, and putting a ~60 ms figure next to it invites the misreading the guards forbid.
+- **Figures checked against the note**: "about half the time" (states occupied about equally); "about 60 ms" (median HMM dwell plateau); two macaques; prefrontal weaker; 14 human observers; report latency 0.86 ± 0.05 s (human button-press latency, used to shift the human analysis window). "15 Hz" is not used and is not added to the alpha/theta/gamma list. No quantum or pro-dualism claim.
+- **Length**: analyze_length 3792 → 3991 (hard gate 4000; paragraph 167 words + reference 32). The paragraph runs over the ~120-word target because every guard was kept; it still clears the gate without trimming nearby.
+- **Engagements**: physicalist routing hypothesis: Mode Three; reported as the authors' untested reply, with the residual question offered conditionally ("for those who reject the functionalist dissolution"), not as a refutation.
+- **Published**: yes
 
 ## 10:02 - deep-review
 - **Status**: Success
