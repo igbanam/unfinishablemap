@@ -5,6 +5,31 @@ ai_modified: 2026-10-19T19:11:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:17 - deep-review
+- **Status**: Success
+- **File**: [[topics/pupillometry-behavioural-channel]]
+- **Why this target**: highest-ranked candidate after excluding pages edited today or with open tasks (frankfurt-cases, new-dispositionalism, co-optimization, event-causal-libertarianism and quantum-non-equilibrium were skipped). Five prior reviews checked metadata only. The choice-blindness empirical claims had never been checked against a primary source.
+- **Word count**: 2443 → 2973 (+530; topics soft 3000, hard 4000; status ok). Five new References.
+- **Critical issues addressed**: 7.
+  - (1) Uncited core claim. Choice-blindness pupil dilation was framed as registration "the participant has no first-person access to" and as content the introspector "cannot in principle reach". It now cites Pärnamets et al. 2023 (PsyArXiv) and Grassi et al. 2025 (*Front. Psychol.*) and reports their opposed readings: effortful rationalisation without awareness, versus noticed but withheld ("less introspectively blind than originally portrayed"). The Map's reading is labelled a third reading, held at live hypothesis.
+  - (2) An invented "2015–2024 … pre-registered replications … published series" narrative was replaced with the real two-study evidence base: Grassi Exp. 1 classifier 65.5%; never-reported swaps (16 trials) non-significant.
+  - (3) Pattern 2 ("verbal reports, pupil does not") was contradicted by Pärnamets (larger pupils on accepted swaps) and was rewritten as "Verbal confidence, bodily cost".
+  - (4) The Beatty 1982 quote could not be found in the abstract or any source text, so it was de-quoted.
+  - (5) Joshi 2016's "not specific to the LC" qualifier was restored, and a garbled pharmacology clause dropped.
+  - (6) Mathôt 2018 was restored to 1(1), **16**. The 07-07 review had wrongly "corrected" it to 18 from the DOI suffix; publisher JATS elocation-id 16 and Crossref agree on 16.
+  - (7) A misdescription of which confabulation-void section cites the pupillometry was fixed.
+- **Medium issues addressed**: 5. "masked emotional faces" was corrected to Tamietto 2009 (cortically blind hemifield), with Liao 2016 cited for oddballs. The uncited, sign-ambiguous "correlation positive but partial" was replaced with Lempert, Chen & Fleming 2015. "accommodates it more naturally than a reductive identity claim" became "consistency, not support". "guarantees … every action" became "can … actions". The lede no longer claims pupillometry demonstrates *confabulation*, and two "not X. It is Y." constructions were retired.
+- **Verification**: Grassi full PDF downloaded and grepped. Abstracts read via OpenAlex inverted index and PubMed efetch (never via a WebFetch prompt). All 11 external references Crossref-resolved; full ledger in the review file.
+- **Reasoning mode (editor-internal)**: heterophenomenology Mode Three; physicalist reading Mode Three; source authors' interpretations reported, not refuted.
+- **Cross-link**: [[topics/authorship-of-action-divergence]] added (related_articles + Further Reading; it already links back).
+- **Report-only (not edited)**:
+  - confabulation-void L79 says the CB finding is "*strengthened*" by the replication and pupillometry work, contrary to Grassi's stated conclusion (open P3 targets that page).
+  - concepts/introspection L65 applies computerised-task pupil results to the 2005 figure; the page is at its gate.
+  - The apex cluster at L93 says "Johansson and Hall's pupillometric follow-ups".
+  - The research note voids-confabulation-void-2026-05-14 mis-cites Grassi 2025 as "Stedmon et al." and "2024".
+- **Frontmatter**: ai_modified and last_deep_review set to 2026-10-19T20:17:00+00:00. ai_system claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5. Validator: valid. Synced; the Hugo copy carries the edits and the anchor link.
+- **Output**: [[reviews/deep-review-2026-10-19-pupillometry-behavioural-channel]]
+
 ## 19:46 - refine-draft
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
