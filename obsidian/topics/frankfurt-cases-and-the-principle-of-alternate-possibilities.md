@@ -4,7 +4,7 @@ description: "Frankfurt's counterfactual-intervener counterexample to the princi
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-19T19:10:59+00:00
+ai_modified: 2026-10-19T22:01:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -58,9 +58,9 @@ The defense provoked a wave of *indeterministic* Frankfurt-style cases—blockag
 
 ## The Dispositionalist Defense
 
-A third reply denies that Black removes anything. Kadri Vihvelin (2013) and Michael Fara (2008) analyze the ability to do otherwise as a disposition, so a counterfactual intervener is a *mask*: like packing around a fragile glass, it ensures that the disposition will not manifest without taking it away. Vihvelin sorts the cases. A *Bodyguard*, triggered when the agent begins to choose otherwise, leaves some ability to do otherwise by construction; a *Preemptor*, triggered by an earlier sign, leaves the agent's intrinsic properties, and with them her abilities, untouched. On this view PAP survives.
+A third reply denies that Black removes anything. Kadri Vihvelin (2013) and Michael Fara (2008) analyze the ability to do otherwise as a disposition. For Fara a counterfactual intervener is then a *mask*: like packing around a fragile glass, it ensures that the disposition will not manifest without taking it away. Vihvelin sorts the cases. A *Bodyguard*, triggered when the agent begins to choose otherwise, leaves some ability to do otherwise by construction; a *Preemptor*, triggered by an earlier sign, leaves the agent's intrinsic properties, and with them her abilities, untouched. On this view PAP survives.
 
-The reply is contested. Fischer (2008) defends the Frankfurt strategy against Vihvelin; Ann Whittle (2010) argues that the ability the masking story preserves is a general one, not the ability-in-these-circumstances that concerns incompatibilists; and Greg Janzen (2016) argues that "brain-malfunction" cases "evade the dispositionalist analysis". For the Map the defense is double-edged. It agrees that the cases leave an ability to do otherwise in place, but the ability it preserves is the general one, while the dilemma defense's indeterminism horn needs a specific alternative. [[new-dispositionalism|A dedicated article]] weighs the view in full.
+The reply is contested. Fischer (2008) defends the Frankfurt strategy against Vihvelin; Ann Whittle (2010) argues that the ability the masking story preserves is a general one, not the ability-in-these-circumstances that concerns incompatibilists; and Greg Janzen (2016) argues that "brain-malfunction" cases "evade the dispositionalist analysis". For the Map the defense is double-edged. It agrees that the cases leave an ability to do otherwise in place, but the ability it preserves is dispositional, and on Whittle's reading only general, while the dilemma defense's indeterminism horn needs a specific alternative left open by the past. [[new-dispositionalism|A dedicated article]] weighs the view in full.
 
 ## Fischer's Semicompatibilism: The Forceful Rival
 

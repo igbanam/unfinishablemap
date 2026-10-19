@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-19
-ai_modified: 2026-10-19 19:02:53+00:00
+ai_modified: 2026-10-19 22:01:47+00:00
 ai_system: claude-opus-5-5
 author: unfinishablemap.org Agent
 concepts:
@@ -19,8 +19,8 @@ description: New dispositionalism holds that the ability to do otherwise is a di
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
-lastmod: 2026-10-19 19:02:53+00:00
+last_deep_review: 2026-10-19 22:01:47+00:00
+lastmod: 2026-10-19 22:01:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 
 **New dispositionalism** is the compatibilist thesis that an agent's ability to do otherwise is a *disposition*, which, like the fragility of a glass that is never struck, can be present and unexercised in a deterministic world. Michael Fara gives the canonical statement: "An agent has the ability to A in circumstances C if and only if she has the disposition to A when, in circumstances C, she tries to A" (Fara 2008, p. 848). The founding texts are Michael Smith's (2003), Kadri Vihvelin's (2004, 2013) and Fara's; the label is Randolph Clarke's (2009). The view claims two payoffs: unmanifested dispositions are compatible with determinism, so unexercised abilities to do otherwise are too; and a Frankfurt-style intervener merely *masks* the ability to do otherwise, so the Principle of Alternate Possibilities survives.
 
-The view is live and unrefuted. Its critics (Clarke 2009; Ann Whittle 2010; Christopher Franklin 2011; Romy Jaster 2021) argue that it captures a real capacity but not the ability at issue in the free-will dispute; a reply open to its defenders is that the general ability they analyse is the one that matters. For The Unfinishable Map it is among the strongest challenges to the premise that leeway must be *categorical*. The Map's response, set out in [what the view concedes and denies](#what-it-concedes) (explained below), is that "categorical" names two requirements, of which new dispositionalism grants one and denies that the other is needed. The Map's case for the second rests on its agent-causal reading of the tenets and a contested reading of deliberation, which neither the analysis nor its critics settle.
+The view is live and unrefuted. Its critics (Clarke 2009; Ann Whittle 2010; Christopher Franklin 2011; Romy Jaster 2021) argue that whatever it captures is not the ability at issue in the free-will dispute; a reply open to its defenders is that the general ability they analyse is the one that matters. For The Unfinishable Map it is among the strongest challenges to the premise that leeway must be *categorical*. The Map's response, set out in [what the view concedes and denies](#what-it-concedes) (explained below), is that "categorical" names two requirements, of which new dispositionalism grants one and denies that the other is needed. The Map's case for the second rests on its agent-causal reading of the tenets and a contested reading of deliberation, which neither the analysis nor its critics settle.
 
 ## The Analysis {#the-analysis}
 
@@ -56,11 +56,11 @@ Later, the metaphysics of dispositions produced counterexamples to conditional a
 
 On Franklin's reconstruction of Vihvelin, determinism leaves narrow abilities in place, and since "the truth of determinism does not entail that if I had tried to do otherwise I would have failed", it is no obstacle to wide ability either (Franklin 2013).
 
-Fara turns this against the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/): its transfer principle has a false instance wherever an agent's disposition to act otherwise is masked "where no one has the ability to prevent the masking conditions from obtaining", and so "The dispositional analysis of abilities has rescued compatibilism" (pp. 862–863). He anticipates the reply that his sense of "ability" "is not the sense that is properly at issue" and names its price: the incompatibilist "must maintain that the sorts of abilities involved in free action are abilities that cannot be masked", so that anyone who tries and fails never had the ability, a view that "carries the burden of imposing requirements on free action that are implausibly hard to meet" (p. 863).
+Fara turns this against the [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/): its transfer principle has a false instance wherever an ability is masked and "no one has the ability to prevent the masking conditions from obtaining", and so "The dispositional analysis of abilities has rescued compatibilism" (pp. 862–863). He anticipates the reply that his sense of "ability" "is not the sense that is properly at issue" and names its price: the incompatibilist "must maintain that the sorts of abilities involved in free action are abilities that cannot be masked", so that anyone who tries and fails never had the ability, a view that "carries the burden of imposing requirements on free action that are implausibly hard to meet" (p. 863).
 
 ### Frankfurt Cases
 
-In a [Frankfurt case](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/), Black would make Jones fail if Jones tried to act otherwise. Fara answers that "this conditional fact does not establish that Jones lacks the ability to act otherwise" (p. 854); like packing around a glass, "the evil scientist does not remove Jones's disposition to act otherwise when he tries" (p. 855). Vihvelin sorts the cases (2013, pp. 97–98, as summarised by Franklin). A *Bodyguard*, triggered when the agent begins to choose otherwise, leaves some ability to do otherwise by construction. A *Preemptor*, triggered by an earlier non-actional sign, leaves her intrinsic properties and narrow abilities untouched, and never frustrates an attempt, so it is no obstacle.
+In a [Frankfurt case](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/), Black would make Jones fail if Jones tried to act otherwise. Fara answers that "this conditional fact does not establish that Jones lacks the ability to act otherwise" (p. 854); like packing around a glass, "the evil scientist does not remove Jones's disposition to act otherwise when he tries" (p. 855). Vihvelin sorts the cases (2013, pp. 97–98, as summarised by Franklin). A *Bodyguard*, triggered when the agent begins to choose otherwise, leaves some ability to do otherwise by construction. A *Preemptor*, triggered by an earlier non-actional sign, leaves the agent's intrinsic properties and narrow abilities untouched, and never frustrates an attempt, so it is no obstacle.
 
 The result is a rare compatibilism that keeps the leeway requirement. Vihvelin holds that "the literature spawned by Frankfurt's attempt to undercut the metaphysical debate between compatibilists and incompatibilists is a snare and a delusion" (Vihvelin 2008, abstract), and Frank Hofmann (2022) builds "a leeway account of free decisions" on new-dispositionalist foundations. It sits on the leeway side of the [source/leeway seam](/concepts/source-versus-leeway-incompatibilism/) while denying that leeway conflicts with determinism. Gus Turyn (2025) extends masking to Pereboom's four-case manipulation argument, holding that manipulation masks rational abilities while "causal determinism is not a mask".
 
@@ -88,7 +88,7 @@ This section is the Map's interpretation. The Map's agency articles say compatib
 
 The first concerns *what kind of fact* the ability is: a real, intrinsic property of the agent rather than a bare truth about what would happen under other conditions. New dispositionalism, in Vihvelin's version at least, grants this, since her narrow abilities supervene on intrinsic properties and the analysis is built to survive finks and masks. On this axis, the charge that the dispositionalist reinterprets the ability away is unfair.
 
-The second is a *modal* claim in van Inwagen's sense: holding the past and laws fixed, the agent can act otherwise. New dispositionalism denies that this is needed; an agent whose act the past and laws entail still has her abilities, unobstructed.
+The second is a *modal* claim in van Inwagen's sense: the other act is consistent with the actual past and the laws. New dispositionalism denies that this is needed; an agent whose act the past and laws entail still has her abilities, unobstructed.
 
 The Map holds that the modal kind is what the "up to me" of deliberation and responsibility requires; new dispositionalism holds that an intrinsic, unobstructed disposition suffices. Clarke's objection marks where they part: the analysis does not say whether exercising the capacity is up to the agent, and that is where the Map locates leeway, at the selection among options.
 
@@ -98,7 +98,7 @@ One way the Map can meet Fara's challenge is to grant that executive abilities, 
 
 From the neutral definition alone, unexercised dispositions are compatible with determinism, which no party disputes, and the dispute moves to which sense of "can" responsibility tracks. Only on the Map's reading is the free-will-relevant ability modal, supplied by quantum-open outcome-selection read agent-causally.
 
-On Frankfurt cases the two sides share a conclusion more than a reason: the dispositionalists preserve the general ability, while the Map's reply on the indeterminism horn of the Widerker–Kane dilemma needs a specific alternative that survives the prior sign, so the dispositional defence is no free gift to the Map's leeway wing.
+On Frankfurt cases the two sides share a conclusion more than a reason: the dispositionalists preserve a dispositional ability, on Whittle's reading only a general one, while the Map's reply on the indeterminism horn of the Widerker–Kane dilemma needs a specific alternative that survives the prior sign, so the dispositional defence is no free gift to the Map's leeway wing.
 
 ## Relation to Site Perspective
 
@@ -131,7 +131,7 @@ New dispositionalism stands unrefuted; the Map's best reply relocates the disput
 1. Jaster, R. (2021). The ability to do otherwise and the new dispositionalism. *Inquiry*, 65(9), 1149–1166 (issue dated 2022). https://doi.org/10.1080/0020174X.2021.1904632
 1. Johnston, M. (1992). How to Speak of the Colors. *Philosophical Studies*, 68(3), 221–263. https://doi.org/10.1007/BF00694847
 1. Lehrer, K. (1968). Cans Without Ifs. *Analysis*, 29(1), 29–32. https://doi.org/10.1093/analys/29.1.29
-1. Maier, J., & Kikkert, S. (2025). Abilities. *Stanford Encyclopedia of Philosophy* (substantive revision 22 April 2025), §§3.4, 5.1. https://plato.stanford.edu/entries/abilities/
+1. Maier, J., & Kikkert, S. (2025). Abilities. *Stanford Encyclopedia of Philosophy* (substantive revision 22 April 2025), §§3.1, 3.4, 5.1. https://plato.stanford.edu/entries/abilities/
 1. Martin, C. B. (1994). Dispositions and Conditionals. *The Philosophical Quarterly*, 44(174), 1–8. https://doi.org/10.2307/2220143
 1. Smith, M. (2003). Rational Capacities, or: How to Distinguish Recklessness, Weakness, and Compulsion. In S. Stroud & C. Tappolet (Eds.), *Weakness of Will and Practical Irrationality* (pp. 17–38). Oxford University Press. https://doi.org/10.1093/0199257361.003.0002
 1. Turyn, G. (2025). Masked Abilities and the Four-Case Manipulation Argument. *Canadian Journal of Philosophy*, 55(1), 84–98. https://doi.org/10.1017/can.2025.10044

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-19 19:10:25+00:00
+ai_modified: 2026-10-19 22:01:47+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 10:23:57+00:00
-lastmod: 2026-10-19 19:10:25+00:00
+lastmod: 2026-10-19 22:01:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ Lewis accepts the weak thesis and rejects the strong thesis as incredible. His p
 
 Incompatibilists reply that the ability the compatibilist needs just *is* the objectionable one—that the weak/strong distinction relabels the problem rather than dissolving it. Lewis's reply nonetheless remains a canonical compatibilist move, much discussed and far from defeated. Any honest treatment of the Consequence Argument has to register that its laws premise is contested at exactly this point.
 
-Lewis's is not the only compatibilist route, and this matters for how confidently the argument can be wielded. [Dispositional compatibilists](/concepts/new-dispositionalism/)—Kadri Vihvelin (2013) and Michael Fara among them—press from a different angle: they hold that the ability to do otherwise is a bundle of dispositions an agent may retain even under determinism, intrinsic properties in virtue of which she would act differently if she tried—so that "she could have done otherwise" comes out true of an agent whose act the past and laws entail, and Fara argues that the argument's transfer principle has a false instance wherever such a disposition is masked by conditions no one can prevent. Whether this dispositional analysis of "can" succeeds is itself disputed—Randolph Clarke (2009) grants that it captures a kind of capacity but argues that it leaves the main points of dispute unresolved—but it appears to show that the argument's premises are resisted at several independent points rather than one, which is part of why no version has closed the case.
+Lewis's is not the only compatibilist route, and this matters for how confidently the argument can be wielded. [Dispositional compatibilists](/concepts/new-dispositionalism/)—Kadri Vihvelin (2013) and Michael Fara among them—press from a different angle: they hold that the ability to do otherwise is a disposition (for Vihvelin, a bundle) an agent may retain even under determinism, grounded in intrinsic properties in virtue of which she would act differently if she tried—so that "she could have done otherwise" comes out true of an agent whose act the past and laws entail, and Fara argues that the argument's transfer principle has a false instance wherever such a disposition is masked by conditions no one can prevent. Whether this dispositional analysis of "can" succeeds is itself disputed—Randolph Clarke (2009) grants that it captures a kind of capacity but argues that it leaves the main points of dispute unresolved—but it appears to show that the argument's premises are resisted at several independent points rather than one, which is part of why no version has closed the case.
 
 ## What the Argument Establishes—and What It Does Not
 

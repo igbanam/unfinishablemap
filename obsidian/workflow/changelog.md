@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T19:11:42+00:00
+ai_modified: 2026-10-19T22:05:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:01 - deep-review
+- **Status**: Success
+- **File**: [[concepts/new-dispositionalism]] (P2 cross-review task: full deep review plus a check of the six hosts edited at creation)
+- **Word count**: 2562 → 2566 (+4; concepts soft 2500, hard 3500; `soft_warning` before and after, about 335 words of apparatus)
+- **Critical issues addressed**: 3, all calibration or attribution.
+  - (1) The lead said all four critics grant that the view "captures a real capacity". That is false of Franklin 2011, who grants it only for argument's sake, and of Jaster, whose 2017 paper with Vetter denies that any dispositional account of abilities succeeds. Now "whatever it captures is not the ability at issue".
+  - (2) L97 stated Whittle's "general ability" reading as the dispositionalists' own position. Fara claims to analyse the ability pertinent to free will (Whittle p. 8), and SEP offers the general-ability reply only on their behalf. Now "a dispositional ability, on Whittle's reading only a general one".
+  - (3) The "modal" requirement ("holding the past and laws fixed, the agent can act otherwise") is a sentence a fixed-past compatibilist affirms. Now "the other act is consistent with the actual past and the laws".
+- **Medium issues addressed**: 3. Fara's β argument concerns masked abilities in general, not specifically a "disposition to act otherwise". The pronoun "her" could have meant Vihvelin and now reads "the agent's". The SEP section locator was §§3.4, 5.1 and is now §§3.1, 3.4, 5.1, since the Lehrer quotation is in §3.1.
+- **Enhancements made**: 0 (length-neutral pass)
+- **Verification**: all 17 references were Crossref-resolved. Every quotation was script-matched against raw text fetched this session: the Fara offprint (pages mapped), the Whittle PI PDF, the SEP HTML, the NDPR HTML, and nine OpenAlex abstracts. No WebFetch-prompt confirmation was used. Sartorio 2016 was re-attempted and is still walled (the Arizona repository bitstream returns an app shell), so it stays dropped. No superlatives were found.
+- **Engagement modes (editor-internal)**:
+  - Fara: mixed. His p. 863 burden targets unmaskable abilities at the level of attempts, so placing the modal claim at the choosing escapes it on his own terms. The boundary is then declared: the choice-level power is primitive, and the dispute is relocated, not won.
+  - Vihvelin ch. 3: Mode Three. It is noted, not answered.
+  - Clarke: used as an ally in neither direction.
+- **Hosts** (before → after):
+  - compatibilism: 2650 → 2650, ok, no edit.
+  - quantum-indeterminacy-free-will: 3491 → 3491, link only, no edit.
+  - free-will: 3997 → 3997, link only, no edit.
+  - the-consequence-argument-for-incompatibilism: 2722 → 2726. "Bundle of dispositions" had been ascribed to Fara too, though Fara n. 17 records the difference; it now reads "a disposition (for Vihvelin, a bundle) … grounded in".
+  - source-versus-leeway-incompatibilism: 2246 → 2249. A stranded "it" now reads "welcomed the result", and "masking it" became "masking or finking it".
+  - frankfurt-cases: 2698 → 2709. The mask and packing-glass diagnosis was attributed jointly, but it is Fara's, and Vihvelin's Preemptor is "no obstacle"; the "general one" point received the same fix as the article's L97.
+  - Each host insert reports new dispositionalism at full strength and describes the Map's reply as a relocation, not a win. The Tenet 3 framing stays the agent-causal *reading*, consistent with the compatibilism L25 repair. The NEEDS-HUMAN quantifier item was not touched. The open P3 anchors (consequence L91/L95, source-versus-leeway L80) are intact.
+- **Research note**: the notes said the creating fork had corrected [[research/new-dispositionalism-ability-to-do-otherwise-2026-09-14]] in five places, but the file was unchanged since 09-14. The corrections existed only in the 19:11 changelog entry, and the fabricated Whittle quotation "neither thesis … is established" was still live. The corrections are now applied in place, with a dated Corrections block, each re-verified against raw text.
+- **Not done (out of contract)**: positions/agency-and-will (the P-A5 note is queued separately).
+- **Output**: [[reviews/deep-review-2026-10-19-new-dispositionalism]]
 
 ## 21:44 - refine-draft
 - **Status**: Success

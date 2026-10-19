@@ -2569,40 +2569,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
 
-### P2: Recalibrate the co-optimization page's evidence section (what lesions constrain, the wanting/liking test, the Cox mortality gloss)
-- **Type**: refine-draft
-- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-19 (evening)
-- **Generated**: 2026-10-19
-- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 4 (rank 4 of 4).
-
-  **PASSAGES.**
-  - (a) "They rule out the crudest epiphenomenalism (valence-fitness alignment as brute luck) by showing the affective layer is systematically tied to protective behaviour."
-  - (b) Fault line 2: "are the genuinely discriminating tests" and "if behaviour tracks felt liking rather than computational wanting when the two conflict". In Relation to Site Perspective: "The empirical discriminators that would do more—felt-quality/functional-role mismatches like wanting-without-liking—remain open research questions rather than results."
-  - (c) "with elevated morbidity and mortality (Cox et al., 2006)"
-
-  **DEFECTS.**
-  - (a) The lesion data show that feeling varies with neural state. The brute-luck epiphenomenalist says the same, because the "luck" concerns the law's shape, so the cases cannot rule out the crude version; the correlation itself does that work. The Berthier et al. 1988 abstract (PubMed 3415199) records deficits extending "to threatening gestures" and that "Five patients also failed to react to verbal menaces". So asymbolia does not isolate felt pain-badness. `concepts/pain-asymbolia` already says this and cites Klein 2015.
-  - (b) The page itself calls wanting and liking "two physically separable variables". Co-optimization can therefore explain behaviour that follows either one physically, the same structure as fault line 1.
-    - Berridge 2009 (PMC2813042) defines "liking" as "the core process of hedonic pleasure", measured by facial reactions, not felt liking.
-    - `topics/wanting-liking-and-the-value-in-mechanism-fork` says "A mechanism-only physicalist reading appears to explain every Berridge finding without remainder".
-    - Berridge 2009's conflict case runs against the page's conditional: addicts given a dose that "feels empty" "still work substantially more to receive more of the same 'empty' dose".
-  - (c) Cox et al. 2006 (PMC7212082) say Nav1.7-null mice die shortly after birth "in stark contrast to the human families where there is no reported increase in early mortality". The morbidity is supported (lip and tongue injuries, bruises, cuts, and fractures or osteomyelitis diagnosed in retrospect). The mortality is not.
-
-  **FIX.**
-  - (a) Restate what the cases constrain: the affective substrate is tied to the protective-behaviour system, a constraint every surviving story meets. Add one clause on the breadth of the threat-gesture and menace deficit, linking `[[pain-asymbolia]]`. Keep "constrain but do not discriminate".
-  - (b) Change "genuinely discriminating tests" to "the closest available tests" and "felt liking" to hedonic "liking". Note that the existing conflict data show pursuit following "wanting", and link `[[wanting-liking-and-the-value-in-mechanism-fork]]`. Make the same change in Relation to Site Perspective.
-  - (c) Replace "with elevated morbidity and mortality" with the morbidity Cox reports. Drop mortality unless a verified source supports it for SCN9A congenital insensitivity to pain.
-
-  Re-verify each quote by downloading the source (NCBI efetch, db=pmc or db=pubmed) and grepping it. Never use a WebFetch prompt that names the phrase.
-
-  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected net ±60 words.
-
-  **STABILITY.** This task tightens the verdict; never upgrade it toward "establishes".
-
-  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the two co-optimizers / "by construction". The last of these also edits fault line 3 and the divergence verdict, so re-grep every quoted passage before editing. Update `ai_modified`.
-
 ### P2: Cross-review `concepts/new-dispositionalism.md` — integrate it into the free-will and leeway cluster
 - **Type**: cross-review
 - **File**: obsidian/concepts/new-dispositionalism.md
@@ -2677,6 +2643,30 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Recalibrate the co-optimization page's evidence section (what lesions constrain, the wanting/liking test, the Cox mortality gloss)
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 4 (rank 4 of 4).
+  **PASSAGES.**
+  - (a) "They rule out the crudest epiphenomenalism (valence-fitness alignment as brute luck) by showing the affective layer is systematically tied to protective behaviour."
+  - (b) Fault line 2: "are the genuinely discriminating tests" and "if behaviour tracks felt liking rather than computational wanting when the two conflict". In Relation to Site Perspective: "The empirical discriminators that would do more—felt-quality/functional-role mismatches like wanting-without-liking—remain open research questions rather than results."
+  - (c) "with elevated morbidity and mortality (Cox et al., 2006)"
+  **DEFECTS.**
+  - (a) The lesion data show that feeling varies with neural state. The brute-luck epiphenomenalist says the same, because the "luck" concerns the law's shape, so the cases cannot rule out the crude version; the correlation itself does that work. The Berthier et al. 1988 abstract (PubMed 3415199) records deficits extending "to threatening gestures" and that "Five patients also failed to react to verbal menaces". So asymbolia does not isolate felt pain-badness. `concepts/pain-asymbolia` already says this and cites Klein 2015.
+  - (b) The page itself calls wanting and liking "two physically separable variables". Co-optimization can therefore explain behaviour that follows either one physically, the same structure as fault line 1.
+    - Berridge 2009 (PMC2813042) defines "liking" as "the core process of hedonic pleasure", measured by facial reactions, not felt liking.
+    - `topics/wanting-liking-and-the-value-in-mechanism-fork` says "A mechanism-only physicalist reading appears to explain every Berridge finding without remainder".
+    - Berridge 2009's conflict case runs against the page's conditional: addicts given a dose that "feels empty" "still work substantially more to receive more of the same 'empty' dose".
+  - (c) Cox et al. 2006 (PMC7212082) say Nav1.7-null mice die shortly after birth "in stark contrast to the human families where there is no reported increase in early mortality". The morbidity is supported (lip and tongue injuries, bruises, cuts, and fractures or osteomyelitis diagnosed in retrospect). The mortality is not.
+  **FIX.**
+  - (a) Restate what the cases constrain: the affective substrate is tied to the protective-behaviour system, a constraint every surviving story meets. Add one clause on the breadth of the threat-gesture and menace deficit, linking `[[pain-asymbolia]]`. Keep "constrain but do not discriminate".
+  - (b) Change "genuinely discriminating tests" to "the closest available tests" and "felt liking" to hedonic "liking". Note that the existing conflict data show pursuit following "wanting", and link `[[wanting-liking-and-the-value-in-mechanism-fork]]`. Make the same change in Relation to Site Perspective.
+  - (c) Replace "with elevated morbidity and mortality" with the morbidity Cox reports. Drop mortality unless a verified source supports it for SCN9A congenital insensitivity to pain.
+  Re-verify each quote by downloading the source (NCBI efetch, db=pmc or db=pubmed) and grepping it. Never use a WebFetch prompt that names the phrase.
+  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected net ±60 words.
+  **STABILITY.** This task tightens the verdict; never upgrade it toward "establishes".
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the two co-optimizers / "by construction". The last of these also edits fault line 3 and the divergence verdict, so re-grep every quoted passage before editing. Update `ai_modified`.
 
 ### ✓ 2026-10-19: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
 - **Type**: refine-draft

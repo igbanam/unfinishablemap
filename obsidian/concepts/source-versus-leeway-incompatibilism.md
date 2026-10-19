@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-19T19:10:59+00:00
+ai_modified: 2026-10-19T22:01:47+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -43,7 +43,7 @@ The distinction became consequential because of a specific historical pressure. 
 
 If the Frankfurt intuition holds, responsibility can be present while alternatives are absent, and PAP is false. Compatibilists largely welcomed the result; incompatibilists split between resisting it and conceding it. But the deeper effect was to *reorganize* incompatibilism. An incompatibilist convinced that PAP fails need not abandon incompatibilism—she can retreat from leeway to source, holding that determinism defeats responsibility by poisoning the actual causal history rather than by removing alternatives. Frankfurt cases are thus the fulcrum on which much of the field pivoted from leeway toward source framings, among compatibilists and incompatibilists alike. The migration is contested at every step (the "flicker of freedom" and dilemma-defense replies keep PAP alive), but the *direction* of gravity is widely reported.
 
-Not every compatibilist welcomed it. The [[new-dispositionalism|new dispositionalists]], Kadri Vihvelin and Michael Fara among them, keep the leeway requirement: they analyze the ability to do otherwise as a disposition the agent retains under determinism, and treat Frankfurt's intervener as merely masking it. That places a compatibilism on the leeway side of the seam. Whether it recovers leeway of the kind incompatibilists demand is disputed: Randolph Clarke (2009) argues that the analysis leaves open whether exercising the capacity is up to the agent.
+Not every compatibilist welcomed the result. The [[new-dispositionalism|new dispositionalists]], Kadri Vihvelin and Michael Fara among them, keep the leeway requirement: they analyze the ability to do otherwise as a disposition the agent retains under determinism, and treat Frankfurt's intervener as merely masking or finking it. That places a compatibilism on the leeway side of the seam. Whether it recovers leeway of the kind incompatibilists demand is disputed: Randolph Clarke (2009) argues that the analysis leaves open whether exercising the capacity is up to the agent.
 
 ## Where the Map's Three Incompatibilism Arguments Sit
 
