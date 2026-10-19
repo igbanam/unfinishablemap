@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T12:57:55+00:00
+ai_modified: 2026-10-19T13:10:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:10 - coalesce
+- **Task**: coalesce cycle slot: candidate search, abandoned (steady state; first slot since the 2026-10-16T04:35Z delta check)
+- **Status**: SUCCESS (no candidate)
+- **Selection**: `count_section_files` gating counts: concepts 359/370 (97.0%, most pressured), topics 349/370 (raw 348 plus the `non-temporal-consciousness.refinement-log.md` sidecar, which was dropped before any pairing), voids 113/125. Pool delta since 10-16T04:35Z (`git log --diff-filter=ADR`): one addition, `topics/acquaintance-without-causation` (created today, ineligible); no removals or renames. Eligibility per the driver: `created` on or before 2026-09-19 and no open Active-Tasks entry whose `File:` targets the article (127 open tasks parsed, 86 targeted files excluded). Recent refine/review edits did not disqualify, unlike the 10-15/10-16 screens. Eligible: concepts 293, topics 290, voids 96. Body-only `analyze_length`, gate `>=` (concepts 3500 / topics 4000 / voids 3000).
+- **Whole-pool result**: topics 0 feasible pairs of 41,905; voids 0 of 4,560; concepts 142 of 42,778, all built from the same sub-1800w tail as before (`mind-arena` 1380, `phenomenal-depth` 1475, `status-of-content` 1497, `phenomenal-presentation` 1572, ...). Dropping the recency-edit rule brought in no new related feasible pair. The top feasible concepts pairs are the ones declined 10-08/10-15 (`phenomenal-depth`+`phenomenal-presentation`, `causal-powers`+`mind-arena`, `content-externalism`+`status-of-content`, `adaptive-computational-depth`+`phenomenal-depth`).
+- **Read on content (5 groups, all declined)**:
+  1. `topics/the-cognitive-immune-system-and-immunological-selfhood` (2319) + `topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question` (2196) = 4515 vs 4000. This was the topics near-feasible leader, never read before. It is a deliberate series: the immune page L35 calls itself "the fourth sibling in a cluster of non-neural competency cases" (bioelectric, plant, ENS, immune). It covers a different system (self/non-self with zero neurons) from the ENS page (where the interface sits, given a 500M-neuron second brain).
+  2. `topics/consciousness-and-the-problem-of-other-properties` (2112) + `topics/modal-structure-of-phenomenal-properties` (2404) = 4516, with mutual links. One is about epistemic access (which properties other minds instantiate) and the other about modal metaphysics (Kripke, conceivability). The split is signed at modal-structure L135: "this article supplies its formal modal backbone".
+  3. `topics/phenomenology-of-attention-to-absence` (2286) + `phenomenology-of-linguistic-failure` (2189) = 4475, and the same page + `consciousness-and-the-phenomenology-of-place` (2467) = 4753. These are three different phenomena (perceived absence, word failure, place-atmosphere). Each is cited as a "sibling case", not as an overlap.
+  4. `concepts/phenomenal-depth` + `concepts/phenomenal-presentation` (3047, the top feasible concepts pair), plus the near-feasible `phenomenal-overflow` + `phenomenal-presentation` (3781). Re-confirmed that both splits are still signed in text: presentation L54 `**Versus [[phenomenal-depth]].**` and L56 `**Versus [[phenomenal-overflow]].**`.
+  5. `voids/interested-party-void` (1732) + `voids/thrownness-void` (1770) = 3502 vs 3000. This was the voids near-feasible leader, never read before. Investigator stake-bias and inaccessible origin conditions are distinct voids. Neither links to the other, and the pair is 17% over the gate.
+- **Finding**: unchanged. The pool is exhausted by role granularity and by length. No section is at cap (11/21/12 slots).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 12:57 - refine-draft
 - **Status**: Success
