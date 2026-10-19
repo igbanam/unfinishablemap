@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-16T11:23:31.002943+00:00'
-session_count: 22915
-cycle_position: 14786
+last_updated: '2026-10-16T11:47:08.663502+00:00'
+session_count: 22916
+cycle_position: 14787
 last_runs:
   add-highlight: '2026-10-16T08:10:44.660939+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-16T04:32:03.940392+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-16T07:07:37.524767+00:00'
+  deep-review: '2026-10-16T11:47:08.663502+00:00'
   embed-videos: '2026-10-16T09:19:24.178139+00:00'
   expand-topic: '2026-10-14T22:44:29.767549+00:00'
   harvest-research-subjects: '2026-10-16T07:24:49.556364+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 676
-  reviews_completed: 8014
+  reviews_completed: 8015
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-16'
-  outcome: success
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-10-16'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-16'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-16'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
