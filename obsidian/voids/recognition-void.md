@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-10-19T18:17:56+00:00
 last_deep_review: 2026-07-18T17:19:24+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-22
 last_curated:
 ---
@@ -115,7 +115,7 @@ Strictly speaking, no fully reliable direct method exists. To directly observe h
 
 The Recognition Void engages multiple [[tenets]].
 
-**[[tenets#^dualism|Dualism]]** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems — perceptual identification and affective familiarity coming apart under selective lesion. Whether that fractionation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
+**[[tenets#^dualism|Dualism]]** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation establishes that recognition [[logic-of-dissociation-inference|fractionates into separately damageable sub-systems]] — perceptual identification and affective familiarity coming apart under selective lesion. Whether that fractionation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness bears on the [[what-voids-reveal|convergence argument]]: if absent cognitive capabilities produce no signal, the convergence of multiple void families on the consciousness-physics interface cannot be dismissed merely because some failures go undetected. That does not raise it to framework-independent evidence, though: under the common-cause null the convergence remains a coherence property of the Map's self-image rather than independent confirmation, and inventory blindness only blocks one deflationary move against it.
 

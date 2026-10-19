@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-06 20:19:30+00:00
+ai_modified: 2026-10-19 18:17:56+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 20:37:04+00:00
-lastmod: 2026-10-06 20:19:30+00:00
+lastmod: 2026-10-19 18:17:56+00:00
 modified: *id001
 related_articles:
 - '[[anarchic-hand-and-action-ownership]]'
@@ -79,7 +79,7 @@ Guillot (2017) argues that "for-me-ness" has covered three features, with "no co
 
 Three consequences follow. First, on Guillot's terms the live dispute concerns mineness, though Lane denies more: on Zahavi and Kriegel's report he allows "an utterly trivial sense in which the first-person perspective is retained even in pathological cases" but holds that it has "no bearing on the issue of for-me-ness" (2016, p. 44).
 
-Second, the double dissociation the Map's articles cite, thought insertion keeping ownership and losing agency while [depersonalisation](/concepts/depersonalisation/) does the reverse, holds only on the agency reading. On ownership-loss readings both conditions lose mineness; on Guillot's they differ in me-ness; on added-element readings thought insertion subtracts nothing.
+Second, the [double dissociation](/topics/logic-of-dissociation-inference/) the Map's articles cite, thought insertion keeping ownership and losing agency while [depersonalisation](/concepts/depersonalisation/) does the reverse, holds only on the agency reading. On ownership-loss readings both conditions lose mineness; on Guillot's they differ in me-ness; on added-element readings thought insertion subtracts nothing.
 
 Third, the Map needs Guillot's vocabulary. [mine-ness](/concepts/mine-ness/) glosses mine-ness as Zahavi's for-me-ness and treats it as separable, while [self-and-self-consciousness](/concepts/self-and-self-consciousness/) holds that "no genuinely anonymous experiences exist". With one word for both features, Guillot's inserted thought counts against the second claim; with her three, the claims are consistent: for-me-ness universal, mineness general but able to lapse.
 

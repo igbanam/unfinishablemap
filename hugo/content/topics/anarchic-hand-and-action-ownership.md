@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-09-10 17:48:43+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-19 18:17:56+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-09 07:39:52+00:00
-lastmod: 2026-09-10 17:48:43+00:00
+lastmod: 2026-10-19 18:17:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The dimension anarchic hand isolates is the one Haggard (2017) makes central: th
 
 The converse case is the one the terminology has already isolated. In alien hand what fails is the sense that the limb belongs to the patient, while the patient's authorship of what the limb does is not what is in question—the disowned thing is the limb, not the act. Read together, the two signs give a genuine double dissociation, each component of the ordinary bundle surviving the loss of the other, rather than the single dissociation anarchic hand supplies on its own.
 
-That double dissociation is the structural point. If authorship and ownership can come apart in either direction, felt authorship cannot be a raw datum read directly off the fact that *my* body moved; it is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
+That [double dissociation](/topics/logic-of-dissociation-inference/) is the structural point. If authorship and ownership can come apart in either direction, felt authorship cannot be a raw datum read directly off the fact that *my* body moved; it is a constructed signal—something the system computes and can fail to compute—layered on top of ownership rather than identical with it. Anarchic hand is where that construction becomes visible by breaking.
 
 The authorship signal can break in two directions, and anarchic hand shows only one of them. Here it is *withheld*: the movement occurs and nothing marks it as willed. The [left-hemisphere interpreter](/concepts/interpreter-module-narrative-construction-unity/) shows the complementary failure, *fabricating* a fluent and confident account of why an action was performed when the narrating system neither initiated it nor has access to its real cause. The two cases bracket the same constructed signal from opposite sides—withheld from a movement the person's own body made, supplied for a choice the narrating system never made—and that pairing is harder to explain if felt authorship were simply read off the fact of one's own movement.
 

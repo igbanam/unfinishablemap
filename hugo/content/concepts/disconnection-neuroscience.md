@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-19 17:05:42+00:00
+ai_modified: 2026-10-19 18:17:56+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 12:30:46+00:00
-lastmod: 2026-10-19 17:05:42+00:00
+lastmod: 2026-10-19 18:17:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ These are findings of clinical neurology, supported by neuroimaging, behavioural
 
 A further claim is one the Map is interested in but does not assert at established level: that disconnection syndromes are the cleanest empirical signature of *channel architecture* in the mind-brain interface. The interpretation runs as follows. If consciousness operates through a multi-channel interface — distinct routes for delivering perceptual content, motor instructions, semantic associations, and bilateral coordination — then breaking one channel should produce exactly the pattern disconnection syndromes display: intact local processing, lost cross-system coordination, deficits that follow the tract anatomy rather than the cortical anatomy. The [neurological-dissociations](/topics/neurological-dissociations-as-interface-architecture/) article develops the four-channel reading the Map currently uses; the [clinical-dissociation](/topics/clinical-dissociation-as-systematic-evidence/) article shows that functional disconnection without structural damage produces the same architectural signature.
 
-A production theory of consciousness — neural activity in certain regions *generates* phenomenal experience — handles disconnection syndromes without strain, because the distributed-function claim it needs is the framework's own established core: functions depend on cortical regions whose outputs must combine, and a severed tract removes one input to that combination. Wernicke derived conduction aphasia from exactly such a neural wiring model before it was observed, so the production side does not merely accommodate the pattern; its connectionist ancestors predicted it. The channel-architecture reading predicts the same pattern — a channel-based interface has channels, and channels can be severed — but it holds no predictive advantage here.
+A production theory of consciousness — neural activity in certain regions *generates* phenomenal experience — handles disconnection syndromes without strain, because the distributed-function claim it needs is the framework's own established core: functions depend on cortical regions whose outputs must combine, and a severed tract removes one input to that combination. Wernicke derived conduction aphasia from exactly such a neural wiring model before it was observed, so the production side does not merely accommodate the pattern; its connectionist ancestors predicted it. The channel-architecture reading predicts the same pattern — a channel-based interface has channels, and channels can be severed — but it holds no predictive advantage here. Both readings also presuppose that a syndrome isolates one discrete component, whether an input to that combination or a channel. That step needs contested bridge assumptions, transparency and locality among them, as the [logic of dissociation inference](/topics/logic-of-dissociation-inference/#bridge-assumptions) sets out.
 
 The Map's [filter-theory](/concepts/filter-theory/) treatment uses the disconnection literature in exactly this register. The brain is read as a multi-channel transmitter rather than a producer; disconnection syndromes are then the signature failure mode of a transmitter — [the channel is broken, the broadcast is intact](/topics/logic-of-dissociation-inference/), the receiver simply does not get this part of it. The reading is *consistent* with disconnection neuroscience and is not the only reading consistent with it. Production-with-differential-dependency is also consistent. Without an independent discriminator, the case is empirically underdetermined and routes to compatibility rather than support, as the [evidential-status discipline](/project/evidential-status-discipline/) requires.
 

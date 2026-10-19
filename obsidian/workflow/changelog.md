@@ -5,6 +5,22 @@ ai_modified: 2026-10-19T18:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 18:18 - deep-review
+- **Status**: Success
+- **File**: [[topics/logic-of-dissociation-inference]]
+- **Why this target**: P2 cross-review queue task (expand-topic chain successor). First review of the article, created 17:06Z.
+- **Word count**: 3071 → 3262 (+191; topics soft_warning, hard 4000). Prose 2541 → 2664, apparatus 551 → 622 (three new References).
+- **Critical issues addressed**: 5. These are reading-fidelity defects; all 58 quotes were verbatim-correct, each re-grepped against the raw source it is attributed to. (1) Shallice 1991 "three ways to choose among architectures" dropped his next sentence, "To my knowledge no attempt has been made to distinguish between rival architectures along these lines"; restored. (2) Davies 2010 "Given such assumptions" qualifier on lesion location restored. (3) Bullinaria & Chater 1995 generalised beyond their rule/exception networks and dropped "in this context"; rescoped. (4) L80 "defenders and critics alike treat the inference as abductive" was unsupported for Caramazza ("valid inferences ... given certain assumptions"), Coltheart and B&C; replaced with "none holds that a dissociation by itself entails a component". (5) Van Orden et al.'s "predicated on modularity being true" is attributed in their abstract TO Shallice 1988, yet the article set it against Shallice; now "Citing Shallice (1988)", with Shallice 1988 added to References.
+- **Medium issues addressed**: 6. Gregory "classic statement" → "whom Shallice cites"; Shallice's lapse rescoped to Chapters 12–16 ("consciousness among them"); "the field's leading methodologist" → "one of"; transparency gloss de-duplicated from the subtractivity gloss; Carrera & Tononi comparator ("than the focal form"); the ambiguous "The criterion".
+- **Open items**: (1) LNM specificity: hedged three-sentence addition citing van den Heuvel et al. 2026 (*Nat Neurosci* 29(5):1237–1247, Crossref; OpenAlex abstract, raw quote "the same nonspecific properties") and the Boes/Fox reply preprint Siddiqi et al. 2026 (bioRxiv 10.64898/2026.02.24.707529, Crossref `posted-content`). It adds that the diaschisis evidence predates the method. (2) disconnection-neuroscience sentence installed (1880 → 1919). (3) Zero-word hosts: blindsight L68, recognition-void L118, thought-insertion L78, anarchic-hand L68 (all +0). Skipped capgras (defers the double dissociation to recognition-void), apex/cross-modal-capability-division (over hard) and anosognosia (data report only).
+- **Hub check**: the hub's L49/L172/L198 anchored links match the article's tiers. Both `{#three-tiers}` and `{#bridge-assumptions}` are unchanged and present in the Hugo copy. Hub not edited.
+- **Citation ledger**: 25 external references, all Crossref-resolved (author, year, venue, volume, issue, pages) and real-correct; inline and References paired. The direction checks for Machery, B&C, Price & Friston and Phillips vs Michel & Lau show no inversions. Full ledger in the review file.
+- **Reasoning-mode (editor-internal)**: engagement with the functionalist reading: Mode Three. Both readings presuppose tier three, and the article declares that neither gains. No label leakage.
+- **Follow-up minted**: P3 refine-draft for tier-three double-dissociation phrasings in recognition-void L118, capgras L37, blindsight L68 and anarchic-hand L88.
+- **Report-only**: disconnection-neuroscience L65 says "four-channel reading", while the hub says six channels (possibly four channel groups); not changed.
+- **Frontmatter**: ai_modified 2026-10-19T18:17:56+00:00 on all six edited files. last_deep_review set on the article. ai_system +claude-opus-5-5 on recognition-void and anarchic-hand only; it was already present on the other four. Validator: all six valid. Synced; the Hugo copies carry the edits and links.
+- **Output**: [[reviews/deep-review-2026-10-19-logic-of-dissociation-inference]]
+
 ## 18:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]
