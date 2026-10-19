@@ -1,8 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19 08:35:25+00:00
+ai_modified: 2026-10-19 08:44:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 08:44 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: correct the stale IT "winner-take-all" claim in "The Selection Gap" against [[research/hesse-2026-rapid-alternation-of-conscious-and-suppressed-representations-2026-10-19]], and name the authors' temporal-routing proposal as the main rival in "Selection Under Ambiguity"
+- **Changes**: (1) The Selection Gap: IT clause re-sourced from Blake & Logothetis 2002 to the primary Sheinberg & Logothetis 1997 and kept under "In monkeys reporting rivalry"; "nearly all fire only when their preferred stimulus is perceived" recalibrated to the abstract's "contingent on perceptual dominance" (Hesse & Tsao 2020 note responses were "not eliminated" in S&L's own Fig. 5); Blake & Logothetis 2002 retained for the V1/early-extrastriate clause and at L67. (2) Added the no-report correction (Hesse & Tsao 2020: single IT face-patch cells multiplex the percept and the suppressed stimulus, decodable on single trials) and the preprint finding (slope 0.23; ~60 ms states, near-pure seen-face vs almost equally faithful unseen-face representations), with guards inline (not peer-reviewed, two macaques, percepts labelled from human reports, flash suppression). (3) Rewrote "The discreteness thus has a neural correlate in later-stage winner-take-all resolution" as "On this evidence, winner-take-all exclusivity holds at most within those ~60 ms epochs; over any longer timescale high-level representation is not exclusive, and the gap moves to the step from alternating, non-exclusive representation to exclusive experience"; next sentence's orphaned "that resolution" → "a perceptual switch". (4) L65: one clause naming Hesse et al.'s (2026) temporal selection with dynamic routing as the main rival reading, attributed to them and marked physicalist, with an anchor to The Selection Gap. (5) References 7, 8 and 16 added, list renumbered alphabetically.
+- **Framing choice**: did NOT write that report causes the 1997 vs 2020 difference. Hesse & Tsao 2020 (author response) say "we do not think that the multiplexing happens only if reports are demanded"; the text says no-report recordings "revise" the picture. Also avoided "same face-patch system" for Sheinberg & Logothetis, who recorded IT/STS "in a less specifically targeted manner" (Hesse & Tsao 2020).
+- **Guards honoured**: nothing says consciousness selects, chooses or biases on this evidence; no "15 Hz" or oscillation language; no claim of support for dualism or the quantum mechanism; "Hesse" = Janis K. Hesse.
+- **References verified**: Crossref for all three (eLife 9:e58360, Hesse & Tsao; PNAS 94(7):3408–3413, Sheinberg & Logothetis; preprint doi:10.64898/2026.10.15.759299, six authors as listed). Preprint title carries "stimulus" ("…conscious and suppressed stimulus representations…"), absent from the task brief; verified form used. "Almost all" confirmed against the S&L abstract (OpenAlex); the 2020 abstract and full text confirmed via Europe PMC; slope 0.23 and "purely representing" confirmed in the preprint PDF.
+- **Length**: analyze_length 2838 → 3062 (+224 net: 76 reference words, 148 prose), against a target of ~150; concepts hard 3500, so 438 words of headroom remain
+- **Published**: yes
+
 ---
 
 ## 08:35 - research-topic

@@ -2,9 +2,9 @@
 title: "Selective Correction and the Reconstruction Paradox"
 description: "The brain handles sensory signals in three modes—silent correction, faithful transmission, and conscious selection under ambiguity—an architecture that reformulates the hard problem at the perceptual level."
 created: 2026-03-12
-modified: 2026-10-10
+modified: 2026-10-19
 human_modified:
-ai_modified: 2026-10-10T12:42:40+00:00
+ai_modified: 2026-10-19T08:42:34+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[curated-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-03-23
 last_curated:
 last_deep_review: 2026-10-10T12:42:40+00:00
@@ -62,7 +62,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 ## Selection Under Ambiguity
 
-A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. The Necker cube reverses its apparent orientation every few seconds without any change in the retinal image. Rubin's face-vase figure alternates between two mutually exclusive interpretations. In binocular rivalry, when different images are presented to each eye, consciousness sees one image at a time, switching unpredictably rather than blending.
+A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them — though the main rival reading, proposed by Hesse et al. (2026), is a physicalist account of exactly this step as temporal selection, with one state's content dynamically routed downstream (see [[#the-selection-gap|below]]). The Necker cube reverses its apparent orientation every few seconds without any change in the retinal image. Rubin's face-vase figure alternates between two mutually exclusive interpretations. In binocular rivalry, when different images are presented to each eye, consciousness sees one image at a time, switching unpredictably rather than blending.
 
 These phenomena share a structure: the sensory input is constant, the brain generates at least two viable reconstructions, and consciousness experiences only one at a time. The alternation is not random noise. Voluntary attention can bias which interpretation dominates and extend how long it persists, though it cannot prevent switching entirely (Leopold & Logothetis, 1999; Blake & Logothetis, 2002). Tibetan Buddhist monks practising one-point (focused-attention) meditation held a single percept markedly longer, the most experienced for an entire five-minute trial (Carter et al., 2005). These findings suggest that the selection process is partially but not fully under conscious control: consciousness influences which reconstruction prevails without dictating the outcome absolutely.
 
@@ -70,7 +70,7 @@ This third category is distinctive because consciousness is neither passive reci
 
 ### The Selection Gap
 
-Spiking models built on mutual inhibition and neural adaptation reproduce the statistical distribution of dominance durations (Laing & Chow, 2002) — they explain the *timing* of switches. In monkeys reporting rivalry, most neurons in V1 and early extrastriate cortex modulate only modestly relative to the perceptual change, and almost none fall silent when their stimulus is suppressed; in inferotemporal cortex, nearly all fire only when their preferred stimulus is perceived, a stage past the resolution of the conflict (Blake & Logothetis, 2002). The [[phenomenal-consciousness|phenomenal experience]] is largely exclusive — one image or the other, not a blend — though a new percept typically spreads across the figure in a wave rather than replacing the old one like a snapshot. The discreteness thus has a neural correlate in later-stage winner-take-all resolution. What the models leave open is why there is something it is like to undergo that resolution as a gestalt change rather than a state transition occurring in the dark — the hard problem at perceptual grain, which the computational models describe without explaining.
+Spiking models built on mutual inhibition and neural adaptation reproduce the statistical distribution of dominance durations (Laing & Chow, 2002) — they explain the *timing* of switches. In monkeys reporting rivalry, most neurons in V1 and early extrastriate cortex modulate only modestly relative to the perceptual change, and almost none fall silent when their stimulus is suppressed (Blake & Logothetis, 2002); in inferotemporal (IT) cortex, almost all were contingent on perceptual dominance, apparently a stage past the resolution of the conflict (Sheinberg & Logothetis, 1997). No-report recordings in IT face patches revise this: single cells multiplex the conscious percept and the suppressed stimulus, which is decodable on single trials (Hesse & Tsao, 2020). A 2026 flash-suppression preprint from the same lab (not peer-reviewed; two macaques; percepts labelled from human reports) adds that trial-averaged IT modulation is weak (slope 0.23) because the population alternates, in states lasting about 60 ms, between a nearly pure representation of the seen face and an almost equally faithful one of the unseen face (Hesse et al., 2026). The [[phenomenal-consciousness|phenomenal experience]] is largely exclusive — one image or the other, not a blend — though a new percept typically spreads across the figure in a wave rather than replacing the old one like a snapshot. On this evidence, winner-take-all exclusivity holds at most within those ~60 ms epochs; over any longer timescale high-level representation is not exclusive, and the gap moves to the step from alternating, non-exclusive representation to exclusive experience. What the models leave open is why there is something it is like to undergo a perceptual switch as a gestalt change rather than a state transition occurring in the dark — the hard problem at perceptual grain, which the computational models describe without explaining.
 
 ## The Computational Account
 
@@ -134,10 +134,13 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency-opacit
 4. Clark, A. (2023). *The Experience Machine: How Our Minds Predict and Shape Reality*. Penguin.
 5. Fodor, J. (1983). *The Modularity of Mind*. MIT Press.
 6. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
-7. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
-8. Laing, C.R. & Chow, C.C. (2002). "A spiking neuron model for binocular rivalry." *Journal of Computational Neuroscience*, 12(1), 39–53.
-9. Leopold, D.A. & Logothetis, N.K. (1999). "Multistable phenomena: changing views in perception." *Trends in Cognitive Sciences*, 3(7), 254–264.
-10. McCauley, R.N. & Henrich, J. (2006). "Susceptibility to the Müller-Lyer illusion, theory-neutral observation, and the diachronic penetrability of the visual input system." *Philosophical Psychology*, 19(1), 79–101.
-11. Pylyshyn, Z. (1984). *Computation and Cognition*. MIT Press.
-12. Pylyshyn, Z. (1999). "Is vision continuous with cognition? The case for cognitive impenetrability of visual perception." *Behavioral and Brain Sciences*, 22(3), 341–365.
-13. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
+7. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
+8. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.
+9. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
+10. Laing, C.R. & Chow, C.C. (2002). "A spiking neuron model for binocular rivalry." *Journal of Computational Neuroscience*, 12(1), 39–53.
+11. Leopold, D.A. & Logothetis, N.K. (1999). "Multistable phenomena: changing views in perception." *Trends in Cognitive Sciences*, 3(7), 254–264.
+12. McCauley, R.N. & Henrich, J. (2006). "Susceptibility to the Müller-Lyer illusion, theory-neutral observation, and the diachronic penetrability of the visual input system." *Philosophical Psychology*, 19(1), 79–101.
+13. Pylyshyn, Z. (1984). *Computation and Cognition*. MIT Press.
+14. Pylyshyn, Z. (1999). "Is vision continuous with cognition? The case for cognitive impenetrability of visual perception." *Behavioral and Brain Sciences*, 22(3), 341–365.
+15. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
+16. Sheinberg, D.L. & Logothetis, N.K. (1997). "The role of temporal cortical areas in perceptual organization." *PNAS*, 94(7), 3408–3413.
