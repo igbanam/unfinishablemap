@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T18:02:00+00:00
+ai_modified: 2026-10-19T18:37:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:37 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/co-optimization-reply-to-the-correlation-problem]] (2244 words; topics hard 4000, headroom 1755). Picked as the oldest eligible page with zero pessimistic-review mentions by content, excluding files edited today and files with open Active-Tasks entries. It had three prior deep reviews and an unchanged body since 2026-06-08.
+- **Findings** (verified at source):
+  1. The pairing dilemma omits the reference-fixing reply in the page's own cited source (Robinson's SEP, §2.2, reply (II)), and the position is never attributed.
+  2. The economy point charges co-optimization with a psychophysical debt that standard interactionism shares. Mørch 2017's abstract index confirms the "fatal… for any standard version of non-epiphenomenalism such as physicalism and interactionism" verdict, Zietsch 2024 agrees, and so does the Map's own inheritance-problem page.
+  3. Two opponents (property-dualist epiphenomenalist and constitutive physicalist) run under one name. "Same behaviour by construction" holds only against the second, and the description and lead mislabel the position "physicalist".
+  4. The evidence section overstates what lesions rule out and calls wanting/liking "genuinely discriminating". Berridge 2009 defines "liking" as "the core process of hedonic pleasure", and its empty-dose case runs against the page's conditional. Cox 2006 reports "no reported increase in early mortality", against the page's "elevated morbidity and mortality".
+- **Tasks minted**: 4 P2 refine-draft on the same file, each carrying coordination notes. Spillover string-siblings (valence-and-conscious-selection L182, pain-consciousness-and-causal-power L160, inheritance-problem L68/L146) are flagged in the report and not tasked.
+- **Output**: [[reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem]]
 
 ## 18:18 - deep-review
 - **Status**: Success
