@@ -2569,48 +2569,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
 
-### P2: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
-- **Type**: refine-draft
-- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-19 (evening)
-- **Generated**: 2026-10-19
-- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 2 (rank 2 of 4).
-
-  **PASSAGES** (Relation to Site Perspective):
-  - "since interactionism explains the alignment directly: valence tracks fitness because valence drives the behaviour, and selection shapes valence through that causal channel"
-  - "Whether that debt is worse than interactionism's own commitment to [a quantum interaction channel](/tenets/#minimal-quantum-interaction) is exactly the kind of question this tenet says simplicity cannot adjudicate on its own."
-  - the necessity horn's cost: "it reintroduces a brute psychophysical regularity at the level the [hard problem](/topics/hard-problem-of-consciousness/) already flagged as resistant to physical explanation"
-
-  **DEFECT.** Standard interactionism needs psychophysical laws too:
-  - an outbound law (felt badness pushes toward avoidance rather than approach), which faces the same necessity-or-indifference choice;
-  - an inbound law (these neural states present these feelings), which carries harmony's contingency.
-
-  Sources:
-  - Mørch, H. H. (2017). "The Evolutionary Argument for Phenomenal Powers." *Philosophical Perspectives*, 31(1), 293–316, doi 10.1111/phpe.12096. Abstract verified via the OpenAlex inverted index on 2026-10-19. It concludes that some criticisms "are indeed fatal to the argument if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". It restores the argument only for the phenomenal-powers view, on which phenomenal properties necessitate their effects "in virtue of how they feel".
-  - Zietsch, B. P. (2024). "Resolving the Evolutionary Paradox of Consciousness." *Phenomenology and the Cognitive Sciences*, doi 10.1007/s11097-024-09978-7. Abstract verified. It argues that physicalism, dualism and panpsychism all fail to explain the correlations "via adaptation".
-  - The Map's own `topics/inheritance-problem-for-the-psychophysical-law` (created 2026-10-13) accepts this. The inbound law "keeps its contingency, and Cutter and Crummett's challenge applies to it in full". Phenomenal powers removes "at most, the arbitrariness of the outbound law". Reading Mørch inside interactionism is "the Map's construction".
-
-  So the economy point holds only on the phenomenal-powers outbound law, and the brute-regularity cost is currently charged to one side only.
-
-  **FIX.**
-  1. In Relation to Site Perspective, make the advantage explicitly conditional on the phenomenal-powers reading. Cite Mørch 2017 and link `[[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]]`; confirm the `{#harmony}` anchor still exists.
-  2. Say that the inbound harmony debt is common to both views.
-  3. Recast the Occam paragraph's comparison. The difference is the epiphenomenalist's need for a harmoniously SHAPED inbound law, set against the interactionist's outbound law plus the quantum channel.
-  4. Soften "explains the alignment directly" to the conditional form.
-
-  Add Mørch 2017 (and Zietsch 2024 if used) to References. Copy the metadata from the inheritance page's References, which match the verified records.
-
-  **HEADROOM.** 2244 on 2026-10-19 (hard − 1 − count = 1755). Expected +100–180 words.
-
-  **STABILITY.** Never upgrade toward "establishes". This task makes the Map's own side MORE modest, which is consistent with the page's purpose.
-
-  **SPILLOVER** (do not edit; report in the changelog and mint a follow-up if warranted): two passages become one-sided once this lands.
-  - `topics/valence-and-conscious-selection` L182: "pays for its parsimony with an unexplained psychophysical necessity".
-  - `topics/pain-consciousness-and-causal-power` L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance".
-
-  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, the two co-optimizers / "by construction", and the evidence-section recalibration. Re-grep every quoted passage before editing. Update `ai_modified`.
-
 ### P2: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
 - **Type**: refine-draft
 - **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
@@ -2713,6 +2671,35 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 2 (rank 2 of 4).
+  **PASSAGES** (Relation to Site Perspective):
+  - "since interactionism explains the alignment directly: valence tracks fitness because valence drives the behaviour, and selection shapes valence through that causal channel"
+  - "Whether that debt is worse than interactionism's own commitment to [a quantum interaction channel](/tenets/#minimal-quantum-interaction) is exactly the kind of question this tenet says simplicity cannot adjudicate on its own."
+  - the necessity horn's cost: "it reintroduces a brute psychophysical regularity at the level the [hard problem](/topics/hard-problem-of-consciousness/) already flagged as resistant to physical explanation"
+  **DEFECT.** Standard interactionism needs psychophysical laws too:
+  - an outbound law (felt badness pushes toward avoidance rather than approach), which faces the same necessity-or-indifference choice;
+  - an inbound law (these neural states present these feelings), which carries harmony's contingency.
+  Sources:
+  - Mørch, H. H. (2017). "The Evolutionary Argument for Phenomenal Powers." *Philosophical Perspectives*, 31(1), 293–316, doi 10.1111/phpe.12096. Abstract verified via the OpenAlex inverted index on 2026-10-19. It concludes that some criticisms "are indeed fatal to the argument if it is understood, as it traditionally has been, as an argument for any standard version of non-epiphenomenalism such as physicalism and interactionism". It restores the argument only for the phenomenal-powers view, on which phenomenal properties necessitate their effects "in virtue of how they feel".
+  - Zietsch, B. P. (2024). "Resolving the Evolutionary Paradox of Consciousness." *Phenomenology and the Cognitive Sciences*, doi 10.1007/s11097-024-09978-7. Abstract verified. It argues that physicalism, dualism and panpsychism all fail to explain the correlations "via adaptation".
+  - The Map's own `topics/inheritance-problem-for-the-psychophysical-law` (created 2026-10-13) accepts this. The inbound law "keeps its contingency, and Cutter and Crummett's challenge applies to it in full". Phenomenal powers removes "at most, the arbitrariness of the outbound law". Reading Mørch inside interactionism is "the Map's construction".
+  So the economy point holds only on the phenomenal-powers outbound law, and the brute-regularity cost is currently charged to one side only.
+  **FIX.**
+  1. In Relation to Site Perspective, make the advantage explicitly conditional on the phenomenal-powers reading. Cite Mørch 2017 and link `[[inheritance-problem-for-the-psychophysical-law#harmony|psychophysical harmony]]`; confirm the `{#harmony}` anchor still exists.
+  2. Say that the inbound harmony debt is common to both views.
+  3. Recast the Occam paragraph's comparison. The difference is the epiphenomenalist's need for a harmoniously SHAPED inbound law, set against the interactionist's outbound law plus the quantum channel.
+  4. Soften "explains the alignment directly" to the conditional form.
+  Add Mørch 2017 (and Zietsch 2024 if used) to References. Copy the metadata from the inheritance page's References, which match the verified records.
+  **HEADROOM.** 2244 on 2026-10-19 (hard − 1 − count = 1755). Expected +100–180 words.
+  **STABILITY.** Never upgrade toward "establishes". This task makes the Map's own side MORE modest, which is consistent with the page's purpose.
+  **SPILLOVER** (do not edit; report in the changelog and mint a follow-up if warranted): two passages become one-sided once this lands.
+  - `topics/valence-and-conscious-selection` L182: "pays for its parsimony with an unexplained psychophysical necessity".
+  - `topics/pain-consciousness-and-causal-power` L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance".
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, the two co-optimizers / "by construction", and the evidence-section recalibration. Re-grep every quoted passage before editing. Update `ai_modified`.
 
 ### ✓ 2026-10-19: Add Robinson's reference-fixing reply as a third option in the co-optimization dilemma, and attribute the position
 - **Type**: refine-draft
