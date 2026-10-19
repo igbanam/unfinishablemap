@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T22:45:30+00:00
+ai_modified: 2026-10-19T22:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:55 - coalesce
+- **Task**: coalesce cycle slot: delta check since the 13:10 run, abandoned (steady state)
+- **Status**: SUCCESS (no candidate)
+- **Delta since 13:10Z** (base `7f8a9fe3aa`): two additions, `topics/logic-of-dissociation-inference` and `concepts/new-dispositionalism`, both created today and so ineligible. No removals or renames. `count_section_files`: concepts 360/370 (97.3%, most pressured), topics 350/370 (raw 349 plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before any pairing), voids 113/125. The whole-pool rerun (body-only `analyze_length`, gate `>=`, created on or before 2026-09-19, no open `File:` target; 133 open tasks, 95 targeted files) found topics 0 feasible pairs of 41,328, voids 0 of 4,465, and concepts 141 of 42,778. None of these pairs became feasible through today's edits (each pair was compared with its base-commit lengths). Open-task closures since 13:10 freed `concepts/selective-correction-and-reconstruction-paradox`, `topics/curated-mind` and `topics/claude-constitution-consciousness-uncertainty` (`acquaintance-without-causation` was also freed but is still under the age floor). The three freed articles are the only new candidates.
+- **Read on content (3 groups, all declined)**:
+  1. `topics/curated-mind` (2982) + `concepts/selective-correction-and-reconstruction-paradox` (3074) = 6056 vs topics 4000. They link to each other and both became eligible today. Their relationship is parent and extension, and both Further Reading lists say so: the concept is "the three-mode taxonomy this article extends across modalities", and curated-mind is the "three-mode taxonomy extended across body schema, memory, and self-model". The concept has the perceptual mechanism: the selection gap, precision weighting and cognitive impenetrability. The topic has the presupposition argument (an inference to the best explanation) plus the body-schema, memory and anosognosia cases. Overlap is limited to the lead recap, Carter 2005, the illusionist reply and diachronic penetration. A merge would mean cutting at least 34% of two articles that have had 15 deep reviews between them. The concept is also already a four-way coalesce product.
+  2. `topics/claude-constitution-consciousness-uncertainty` (3506). It has 494 words of headroom under 4000. Every topical partner is already at or near the gate (`ethics-of-possible-ai-consciousness` 4469, `anti-correlation-probes-for-ai-consciousness` 3983, `dualism-as-ai-risk-mitigation` 3807), and each one cites it as a case-study "exhibit".
+  3. `topics/presentiment-and-retrocausality` (1990, the smallest eligible topic, never read by a coalesce run) + `topics/parapsychology-firewall` (2151) = 4141, 3.5% over. The firewall is the `File:` target of an open P3 refine-draft (the Maier 2018 preregistration follow-up), so it is ineligible. On content they are also distinct: one is a literature review plus the physics-versus-parapsychology and Libet distinctions, the other is the three-constraint falsification argument, and they share one paragraph. The other partner, `concepts/retrocausality` (3171, sum 5161), is a secondary file on an open P3 radical-pair task.
+- **Finding**: unchanged. The pool is exhausted by role granularity and by length. No section is at cap (10/20/12 slots).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 22:45 - refine-draft
 - **Status**: Success
