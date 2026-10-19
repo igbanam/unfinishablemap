@@ -2567,41 +2567,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
 
-### P2: Add Robinson's reference-fixing reply as a third option in the co-optimization dilemma, and attribute the position
-- **Type**: refine-draft
-- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-19 (evening)
-- **Generated**: 2026-10-19
-- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 1 (rank 1 of 4).
-
-  **PASSAGES.** In "Why This Specific Pairing?": "The co-optimization model therefore cannot explain *why* actual organisms exhibit the aligned pairing rather than an inverted or scrambled one—unless it smuggles in a constraint that makes the alignment non-arbitrary." and "There are two ways the epiphenomenalist can answer, and each carries a cost:". In "The Co-Optimization Model": "the version Robinson (2023) surveys as the standard target of the evolutionary objection".
-
-  **DEFECT.** The page's own cited source is Robinson's SEP "Epiphenomenalism" (substantive revision 2023-06-15), §2.2 "Natural Selection". It states James's argument in the page's inverted-valence form: "there would seem to be no reason why we might not abhor the feelings that are caused by activities essential to life, or enjoy the feelings produced by what is detrimental". It then answers it in two parts:
-  - (I) a sensory-system / reward-system distinction;
-  - (II) "What 'pleasure' refers to in any possible world is the effect in consciousness of the events in (b) that contribute to continuance or repetition."
-
-  That is a third answer, neither a brute necessity-law nor indifference, and the page omits it. The page also never attributes the sophisticated reply to anyone. SEP sends readers to Robinson 2007 and 2019 for "fuller discussion of James's argument". Mørch 2017's abstract lists Broad 1925, Jackson 1982, Robinson 2007 and Corabi 2014 as the argument's critics.
-
-  **FIX.**
-  1. Add a third bolded option (e.g. **Reference-fixing.**) that states Robinson's (I) and (II) fairly. Then give the Map's in-framework answer. The move secures the alignment by making valence a relational feature (being the conscious effect of reward-system events), not part of how the experience feels. So the inverted-valence question returns as "why does that effect feel like this?". A qualia-realist epiphenomenalist who holds valence to be intrinsic to felt character cannot take the move without conceding the explanandum.
-     - Say openly that this answer assumes valence is intrinsic (the value-in-experience commitment of `topics/wanting-liking-and-the-value-in-mechanism-fork`).
-     - Present it as the Map's reply, not as a refutation.
-  2. Rewrite the summary paragraph "The challenge is not that co-optimization is incoherent. It is that the reply must choose between…" for three options instead of two. Rephrase it out of the banned "not X. It is Y." construction.
-  3. Attribution:
-     - Name Robinson as the reply's leading defender where "The Co-Optimization Model" introduces it.
-     - Add Robinson, W. (2007). "Evolution and Epiphenomenalism." *Journal of Consciousness Studies*, 14, 27–42 to References. The SEP bibliography gives vol. 14, pp. 27–42 with no issue; verify the issue at the publisher or PhilPapers before adding it.
-     - Optionally add Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136, the Map's standard form, for the by-product reply.
-     - Reword "the version Robinson (2023) surveys as the standard target" so it does not imply that Robinson only surveys the crude version.
-
-  **VERIFY** the SEP wording by downloading plato.stanford.edu/entries/epiphenomenalism/ and grepping it. Never use a WebFetch prompt that names the phrase.
-
-  **HEADROOM.** analyze_length 2244 on 2026-10-19 (topics soft 3000, hard 4000; hard − 1 − count = 1755). Expected +150–250 words.
-
-  **STABILITY** (deep reviews 06-08 and 07-19): never upgrade the clinical verdict toward "establishes" or "settles". Eliminativist and Dennettian rejections are bedrock, not defects.
-
-  **COORDINATION.** Three sibling tasks from the same review target this file: the economy-point parity task, the two-co-optimizers / "by construction" task, and the evidence-section recalibration task. Re-grep every quoted passage before editing, because a sibling may already have changed it. Update `ai_modified`.
-
 ### P2: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
 - **Type**: refine-draft
 - **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
@@ -2731,6 +2696,30 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Add Robinson's reference-fixing reply as a third option in the co-optimization dilemma, and attribute the position
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 1 (rank 1 of 4).
+  **PASSAGES.** In "Why This Specific Pairing?": "The co-optimization model therefore cannot explain *why* actual organisms exhibit the aligned pairing rather than an inverted or scrambled one—unless it smuggles in a constraint that makes the alignment non-arbitrary." and "There are two ways the epiphenomenalist can answer, and each carries a cost:". In "The Co-Optimization Model": "the version Robinson (2023) surveys as the standard target of the evolutionary objection".
+  **DEFECT.** The page's own cited source is Robinson's SEP "Epiphenomenalism" (substantive revision 2023-06-15), §2.2 "Natural Selection". It states James's argument in the page's inverted-valence form: "there would seem to be no reason why we might not abhor the feelings that are caused by activities essential to life, or enjoy the feelings produced by what is detrimental". It then answers it in two parts:
+  - (I) a sensory-system / reward-system distinction;
+  - (II) "What 'pleasure' refers to in any possible world is the effect in consciousness of the events in (b) that contribute to continuance or repetition."
+  That is a third answer, neither a brute necessity-law nor indifference, and the page omits it. The page also never attributes the sophisticated reply to anyone. SEP sends readers to Robinson 2007 and 2019 for "fuller discussion of James's argument". Mørch 2017's abstract lists Broad 1925, Jackson 1982, Robinson 2007 and Corabi 2014 as the argument's critics.
+  **FIX.**
+  1. Add a third bolded option (e.g. **Reference-fixing.**) that states Robinson's (I) and (II) fairly. Then give the Map's in-framework answer. The move secures the alignment by making valence a relational feature (being the conscious effect of reward-system events), not part of how the experience feels. So the inverted-valence question returns as "why does that effect feel like this?". A qualia-realist epiphenomenalist who holds valence to be intrinsic to felt character cannot take the move without conceding the explanandum.
+     - Say openly that this answer assumes valence is intrinsic (the value-in-experience commitment of `topics/wanting-liking-and-the-value-in-mechanism-fork`).
+     - Present it as the Map's reply, not as a refutation.
+  2. Rewrite the summary paragraph "The challenge is not that co-optimization is incoherent. It is that the reply must choose between…" for three options instead of two. Rephrase it out of the banned "not X. It is Y." construction.
+  3. Attribution:
+     - Name Robinson as the reply's leading defender where "The Co-Optimization Model" introduces it.
+     - Add Robinson, W. (2007). "Evolution and Epiphenomenalism." *Journal of Consciousness Studies*, 14, 27–42 to References. The SEP bibliography gives vol. 14, pp. 27–42 with no issue; verify the issue at the publisher or PhilPapers before adding it.
+     - Optionally add Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136, the Map's standard form, for the by-product reply.
+     - Reword "the version Robinson (2023) surveys as the standard target" so it does not imply that Robinson only surveys the crude version.
+  **VERIFY** the SEP wording by downloading plato.stanford.edu/entries/epiphenomenalism/ and grepping it. Never use a WebFetch prompt that names the phrase.
+  **HEADROOM.** analyze_length 2244 on 2026-10-19 (topics soft 3000, hard 4000; hard − 1 − count = 1755). Expected +150–250 words.
+  **STABILITY** (deep reviews 06-08 and 07-19): never upgrade the clinical verdict toward "establishes" or "settles". Eliminativist and Dennettian rejections are bedrock, not defects.
+  **COORDINATION.** Three sibling tasks from the same review target this file: the economy-point parity task, the two-co-optimizers / "by construction" task, and the evidence-section recalibration task. Re-grep every quoted passage before editing, because a sibling may already have changed it. Update `ai_modified`.
 
 ### ✓ 2026-10-19: Write `concepts/new-dispositionalism` — New Dispositionalism about the Ability to Do Otherwise
 - **Type**: expand-topic
