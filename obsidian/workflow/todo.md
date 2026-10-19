@@ -2567,43 +2567,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: FOUR FILES; report analyze_length before/after for each. On 2026-10-19 recognition-void was 2478 (voids soft 2000, hard 3000) and blindsight 2930 (concepts soft 2500, hard 3500), so replace rather than add; capgras (2648) and anarchic-hand (2649) are below the topics soft 3000. The new page grades dissociation inference in three tiers: separate failure is robust; functional differentiation is abductive and earned only against rivals actually modelled; discrete components or "sub-systems"/channels need contested bridge assumptions (transparency, locality, subtractivity). It also holds that a cross-literature pairing of two syndromes measured on different scales falls short of the formal double-dissociation criterion (its L42 on the blindsight-neglect pairing). Each passage below states a tier-three or cross-literature claim at a higher grade. (1) voids/recognition-void L118 (Relation to Site Perspective, Dualism): "The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems". "establishes ... sub-systems" is tier three; tier two would be e.g. "is best explained by" functionally distinct contributions. The phrase now carries a zero-word link to the page, so keep the linked words or re-pipe them. (2) topics/capgras-delusion-and-the-affective-recognition-channel L37: "the mirror-image pairing that establishes recognition as a compound of at least two components", same grade issue. (3) concepts/blindsight L68: "This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability". This pairs two conditions from different literatures and measures, so it is at most a cross-literature contrast; keep the zero-word link on "double dissociation". (4) topics/anarchic-hand-and-action-ownership L88: "agency and ownership *doubly dissociate*, which shows authorship is an interface signal rather than a given". "shows ... interface signal" states the interface reading as an inference from the dissociation, while the page's own description says "interface, not proof". L66/L68 ("a genuine double dissociation", "constructed signal") may stand at tier two. Do not touch the hub (topics/neurological-dissociations-as-interface-architecture), which has its own P3. Verify any quotation you change against raw source. Prose only: no hedge tokens for the metric, no "This is not X", no "load-bearing". ALSO (driver, 2026-10-19 18:20Z, from the same cross-review): concepts/disconnection-neuroscience L65 calls the hub's reading "four-channel", but the hub (topics/neurological-dissociations-as-interface-architecture) describes six channels; check whether L65 means four channel GROUPS and make it match the hub, length-neutral.
 
-### P2: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
-- **Type**: refine-draft
-- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-19 (evening)
-- **Generated**: 2026-10-19
-- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 3 (rank 3 of 4).
-
-  **PASSAGES.**
-  - description: "Physicalism's strongest answer to why valence tracks fitness"
-  - lead: "the strongest live physicalist answer to the correlation problem"
-  - predictive-processing paragraph: "It is precisely a co-optimization-compatible story."
-  - fault line 3: "No current behavioural measure distinguishes these, because they predict the same behaviour by construction."
-
-  Set these against "on the epiphenomenalist's own terms, pleasantness and unpleasantness are causally inert" and the necessity horn's "a functionalism for which there is no separable quale to be epiphenomenal about".
-
-  **DEFECT.** Two rivals run under one name. `concepts/epiphenomenalism` classes epiphenomenalism as "one of three dualist positions". The predictive-processing account says felt awfulness is "constituted by" the valence-prior's computational role. That is constitutive physicalism: felt awfulness drives avoidance because it IS the role. So the view is not epiphenomenalist, the inverted-valence organism is impossible for it by identity, and the necessity horn is its thesis, not a cost.
-  - The dilemma's cost is earned against the property-dualist epiphenomenalist.
-  - The constrain-not-discriminate tie is earned against the constitutive physicalist.
-  - Relation to Site Perspective merges the two.
-
-  Second, "by construction" holds against the constitutive rival but not against the epiphenomenalist. The Map's selectability constraint in `topics/inheritance-problem-for-the-psychophysical-law` says an evolutionarily visible selector "can be practically hidden but not hidden by construction". If selection shapes valence "through that causal channel", as Relation to Site Perspective says, the channel alters fitness-relevant outcome frequencies and is detectable in principle. The lead's "on the present evidence, appears underdetermined" is a contingent claim and "by construction" is a claim in principle. This is an epistemic/metaphysical split the page never assigns to either rival.
-
-  **FIX.**
-  1. Name the two rivals once, early in the divergence section or the model section: the property-dualist epiphenomenalist co-optimizer (Robinson's position) and the constitutive-physicalist co-optimizer (the predictive-processing version).
-  2. Assign the verdicts. The dilemma bites the first. Against the second, the remaining dispute is Dualism (tenet 1), not causal efficacy, and its cost is the generic explanatory gap rather than a debt specific to co-optimization.
-  3. Restrict "by construction" to the constitutive rival. Against the epiphenomenalist, say that the in-principle discriminator is physical (outcome frequencies conditional on valence), not a behavioural dissociation. Link `positions/quantum-interface` P-Q9 or the inheritance page's selectability section, after confirming the anchor.
-  4. In the description and lead, change "physicalist" to "epiphenomenalist". Keep the description a plain sentence of at most ~200 characters.
-
-  Prose only; do not upgrade any verdict.
-
-  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected +80–150 words.
-
-  **SPILLOVER** (report, do not edit): `topics/inheritance-problem-for-the-psychophysical-law` L68 "The physicalist answer is examined in" and L146 "the physicalist answer to why valence tracks fitness" carry the same mislabel.
-
-  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the evidence-section recalibration. If the parity task has landed, keep its conditional phrasing. Re-grep every quoted passage before editing. Update `ai_modified`.
-
 ### P2: Recalibrate the co-optimization page's evidence section (what lesions constrain, the wanting/liking test, the Cox mortality gloss)
 - **Type**: refine-draft
 - **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
@@ -2667,8 +2630,41 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-19
 - **Notes**: TWO FILES; do both, and report analyze_length before/after for each. Spillover from the 2026-10-19 refine of topics/co-optimization-reply-to-the-correlation-problem (pessimistic-2026-10-19 Issue 2). That page's Relation to Site Perspective now says: (i) co-optimization pays one of THREE prices (necessity / indifference / Robinson's reference-fixing), not only "an unexplained psychophysical necessity"; (ii) interactionism needs psychophysical laws too, and its outbound law (felt badness pushes toward avoidance) escapes the same necessity-or-indifference choice only on Mørch's (2017) phenomenal powers reading, which the Map adopts by its own construction; (iii) the inbound law (which neural states present which feelings) carries the psychophysical-harmony debt for BOTH views ([[inheritance-problem-for-the-psychophysical-law#harmony]]), so it cannot be charged to co-optimization alone. Two sibling passages still state the one-sided version. (1) topics/valence-and-conscious-selection L182: "pays for its parsimony with an unexplained psychophysical necessity" (names one horn of three, and charges a debt the interactionist shares) and "If valence drives selection, evolution shapes it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law" (state it as conditional on the phenomenal-powers outbound law). LENGTH: 4338 by analyze_length on 2026-10-19, 339 OVER the topics hard 4000 (a HUMAN LENGTH DECISION entry is open for this file in Blocked Tasks), so the edit must be NET-ZERO or NET-NEGATIVE in that paragraph. An open P2 elsewhere in Active Tasks touches this file at L160 (frontoparietal coherence); do not do it here. (2) topics/pain-consciousness-and-causal-power L160: "The interactionist explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes." The paragraph's "why this particular supervenience mapping?" question is the inbound harmony question, which the interactionist faces too. LENGTH: 3970 on 2026-10-19, headroom 29 (hard 4000, gate >=): keep it length-neutral. Prefer a short conditional plus a zero-word piped link to the co-optimization page or the inheritance page's #harmony section over restating the argument. Any Mørch quote must match the co-optimization page's wording, which was verified 2026-10-19 against the OpenAlex inverted-index abstract (doi 10.1111/phpe.12096). Never upgrade toward "establishes". No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; append the model to ai_system only if absent anywhere in the string.
 
+### P3: Relabel the inheritance page's two "physicalist answer" glosses of the co-optimization reply as epiphenomenalist
+- **Type**: refine-draft
+- **File**: obsidian/topics/inheritance-problem-for-the-psychophysical-law.md
+- **Status**: pending
+- **Source**: refine-draft co-optimization Issue 3 2026-10-19
+- **Generated**: 2026-10-19
+- **Notes**: Spillover from the 2026-10-19 refine of topics/co-optimization-reply-to-the-correlation-problem (pessimistic-2026-10-19 Issue 3). That page now separates two co-optimizers: the property-dualist (epiphenomenalist) co-optimizer, Robinson's position, against which the trilemma and the theoretical-economy case run; and the constitutive-physicalist co-optimizer (the predictive-processing version), against which the remaining dispute is Dualism. Its description and lead now say "Epiphenomenalism's strongest answer" and "the strongest live epiphenomenalist answer". This page still glosses it twice as "the physicalist answer". (1) Last sentence of the #harmony section (L68 on 2026-10-19): "The physicalist answer is examined in". The surrounding text is about a well-shaped psychophysical LAW, which only the property-dualist version has (the constitutive version has identity, not a law), so "epiphenomenalist" is the right label, e.g. "The epiphenomenalist answer, co-optimization, is examined in" (+1). (2) Further Reading (L146): "the physicalist answer to why valence tracks fitness": swap the one word to "epiphenomenalist" (0). Locate both by quoted text, count 1 each. LENGTH: analyze_length 3400 on 2026-10-19 (topics soft 3000, hard 4000, gate >=); headroom 4000 - 1 - 3400 = 599. Keep it near length-neutral. COORDINATION: the open P3 on this same file (Chalmers p. 276 -> p. 275) is independent; do not do it here. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; append the model to ai_system only if absent anywhere in the string. Changelog before sync; `uv run python scripts/sync.py`; verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-19: Separate the two co-optimizers on the co-optimization page and reassign "same behaviour by construction"
+- **Type**: refine-draft
+- **File**: obsidian/topics/co-optimization-reply-to-the-correlation-problem.md
+- **Notes**: See `reviews/pessimistic-2026-10-19-co-optimization-reply-to-the-correlation-problem.md`, Issue 3 (rank 3 of 4).
+  **PASSAGES.**
+  - description: "Physicalism's strongest answer to why valence tracks fitness"
+  - lead: "the strongest live physicalist answer to the correlation problem"
+  - predictive-processing paragraph: "It is precisely a co-optimization-compatible story."
+  - fault line 3: "No current behavioural measure distinguishes these, because they predict the same behaviour by construction."
+  Set these against "on the epiphenomenalist's own terms, pleasantness and unpleasantness are causally inert" and the necessity horn's "a functionalism for which there is no separable quale to be epiphenomenal about".
+  **DEFECT.** Two rivals run under one name. `concepts/epiphenomenalism` classes epiphenomenalism as "one of three dualist positions". The predictive-processing account says felt awfulness is "constituted by" the valence-prior's computational role. That is constitutive physicalism: felt awfulness drives avoidance because it IS the role. So the view is not epiphenomenalist, the inverted-valence organism is impossible for it by identity, and the necessity horn is its thesis, not a cost.
+  - The dilemma's cost is earned against the property-dualist epiphenomenalist.
+  - The constrain-not-discriminate tie is earned against the constitutive physicalist.
+  - Relation to Site Perspective merges the two.
+  Second, "by construction" holds against the constitutive rival but not against the epiphenomenalist. The Map's selectability constraint in `topics/inheritance-problem-for-the-psychophysical-law` says an evolutionarily visible selector "can be practically hidden but not hidden by construction". If selection shapes valence "through that causal channel", as Relation to Site Perspective says, the channel alters fitness-relevant outcome frequencies and is detectable in principle. The lead's "on the present evidence, appears underdetermined" is a contingent claim and "by construction" is a claim in principle. This is an epistemic/metaphysical split the page never assigns to either rival.
+  **FIX.**
+  1. Name the two rivals once, early in the divergence section or the model section: the property-dualist epiphenomenalist co-optimizer (Robinson's position) and the constitutive-physicalist co-optimizer (the predictive-processing version).
+  2. Assign the verdicts. The dilemma bites the first. Against the second, the remaining dispute is Dualism (tenet 1), not causal efficacy, and its cost is the generic explanatory gap rather than a debt specific to co-optimization.
+  3. Restrict "by construction" to the constitutive rival. Against the epiphenomenalist, say that the in-principle discriminator is physical (outcome frequencies conditional on valence), not a behavioural dissociation. Link `positions/quantum-interface` P-Q9 or the inheritance page's selectability section, after confirming the anchor.
+  4. In the description and lead, change "physicalist" to "epiphenomenalist". Keep the description a plain sentence of at most ~200 characters.
+  Prose only; do not upgrade any verdict.
+  **HEADROOM.** 2244 (hard − 1 − count = 1755). Expected +80–150 words.
+  **SPILLOVER** (report, do not edit): `topics/inheritance-problem-for-the-psychophysical-law` L68 "The physicalist answer is examined in" and L146 "the physicalist answer to why valence tracks fitness" carry the same mislabel.
+  **COORDINATION.** Three sibling tasks from the same review target this file: the reference-fixing third option, economy-point parity, and the evidence-section recalibration. If the parity task has landed, keep its conditional phrasing. Re-grep every quoted passage before editing. Update `ai_modified`.
 
 ### ✓ 2026-10-19: Make the co-optimization page's economy point conditional on phenomenal powers and record the shared harmony debt
 - **Type**: refine-draft

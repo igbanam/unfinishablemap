@@ -5,6 +5,35 @@ ai_modified: 2026-10-19T19:11:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:01 - refine-draft
+- **Status**: Success
+- **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
+- **Task**: pessimistic-2026-10-19 Issue 3 (rank 3 of 4): separate the two co-optimizers and reassign "same behaviour by construction".
+- **Original score**: n/a (`scripts/curate.py` absent); the review's Issue 3 was the brief.
+- **Word count**: 2916 → 3247 (+331; topics soft 3000, hard 4000; status soft_warning; hard-limit headroom 752). Over the task's +80–150 estimate. Most of the excess is the two honesty clauses in fault line 3, the Born-preservation condition and the closure caveat. One tightening pass cut 28 words.
+- **Changes**:
+  - Description: "Physicalism's strongest answer … A human+AI examination of where it bites—and where it doesn't." → "Epiphenomenalism's strongest answer to why valence tracks fitness says selection-optimized neural systems co-produce matching feelings, and the clinical evidence constrains it without refuting it." (one sentence, 196 chars).
+  - Lead: "strongest live physicalist answer" → "strongest live epiphenomenalist answer". The second paragraph's "strongest physicalist move" carried the same mislabel and now reads "epiphenomenalist".
+  - Model section: new paragraph naming the two rivals. The property-dualist co-optimizer is Robinson's position, epiphenomenalism proper. concepts/epiphenomenalism L223 ("one of three dualist positions") is paraphrased as "classes among the dualist positions", not quoted. The constitutive-physicalist co-optimizer is the predictive-processing version; for it the inverted organism is impossible by identity. The paragraph states that the trilemma is pressed against the first only.
+  - Necessity horn: "edges toward a functionalism" → "edges toward the constitutive rival's functionalism".
+  - Predictive-processing paragraph: "It is precisely a co-optimization-compatible story." → "It is the constitutive-physicalist co-optimizer's story, and for these cases it predicts what the epiphenomenalist version predicts."
+  - Fault line 3, constitutive rival: "by construction" now applies only here. Both sides hold that avoidance follows felt awfulness, so no behavioural measure separates them.
+  - Fault line 3, property-dualist epiphenomenalist: the tie is "only contingent". The interactionist explanation of the alignment needs a selector evolution can see. The new text quotes the inheritance page's selectability constraint, "can be practically hidden but not hidden by construction" (verbatim at its L120), and adds that page's caveat (L41) that the strictest Born-preservation reading forbids such a selector. The in-principle discriminator is physical, not behavioural: outcome frequencies that, conditioned on felt valence, depart from what the physical state alone assigns. Like P-Q9's intention-conditioned test, it is untested at a brain-internal grain; P-Q9 is written as a bare ID and autolinks.
+  - Fault line 3, closure caveat: such a departure would also break the closure the constitutive rival assumes, as part of the Map's general dispute with physicalism. Without this clause the text would imply the constitutive rival is immune in principle.
+  - RtSP: "Co-optimization is the most disciplined way" → "The property-dualist co-optimizer offers the most disciplined way".
+  - RtSP: new paragraph on the constitutive rival. The trilemma has no purchase, because the necessity horn is that view's thesis. The remaining dispute is Dualism, and its cost is the general explanatory gap, which is not peculiar to co-optimization. The paragraph scopes the rest of the section to the property-dualist co-optimizer.
+  - RtSP: "a real cost to co-optimization—the position must posit … close to functionalism" → "a real cost to that co-optimizer—it must posit … close to the constitutive rival's functionalism".
+  - RtSP: "equally consistent with the predictive-processing co-optimization reading" → "equally consistent with either co-optimizer's reading".
+  - RtSP closing summary: "settled" dropped, per the review's language table. The economy case is assigned to the property-dualist form, and a new sentence reads "In its constitutive form it escapes that case, and the dispute is over Dualism."
+  - Fault line 1: "the felt layer is load-bearing" → "the felt layer is doing the work" (review language table). The page now has no "load-bearing".
+- **Verdicts assigned**: The property-dualist co-optimizer gets the trilemma and the conditional theoretical-economy case. Its tie with interactionism is contingent, and an in-principle physical discriminator exists. The constitutive-physicalist co-optimizer gets no trilemma; its dispute with the Map is Dualism (tenet 1), its cost is the generic explanatory gap, and the behavioural tie holds by construction. No verdict was upgraded, and "constrain but do not discriminate" is intact.
+- **Issues 1 and 2 preserved**: the three horns, the Robinson reference-fixing paragraph, the Mørch/Zietsch conditional, the shared inbound-harmony paragraph and the Occam ledger are unchanged apart from the scoping edits above.
+- **Left alone (Issue 4 scope)**: divergence-verdict sentence (a); fault line 2's "genuinely discriminating" and "felt liking"; the RtSP wanting-without-liking sentence; the Cox mortality gloss.
+- **Reasoning mode (editor-internal)**: engagement with the constitutive physicalist (predictive processing): Mode Three. The boundary at Dualism is marked honestly, and the explanatory gap is named as the generic physicalist cost rather than offered as an in-framework refutation. Engagement with the property-dualist co-optimizer in fault line 3: Mode One. It uses that position's own commitments (closure plus inert valence) to state the in-principle physical test it must predict null.
+- **Task minted**: P3 refine-draft "Relabel the inheritance page's two "physicalist answer" glosses of the co-optimization reply as epiphenomenalist" (inheritance-problem-for-the-psychophysical-law L68 and L146; 3400 words, headroom 599). Inserted on the exact `## Completed Tasks` line; parse_tasks active count went 131 → 132.
+- **Frontmatter**: ai_modified set from `date -u`; ai_system already carries claude-opus-5-5 (unchanged). Validator: valid.
+- **Published**: yes
+
 ## 20:26 - refine-draft
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
