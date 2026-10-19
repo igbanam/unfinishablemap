@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-19T10:11:18.227827+00:00'
-session_count: 22928
-cycle_position: 14794
+last_updated: '2026-10-19T10:26:48.778001+00:00'
+session_count: 22929
+cycle_position: 14795
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-19T09:24:02.066506+00:00'
+  agentic-social: '2026-10-19T10:39:35.613984+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-16T09:36:26.746338+00:00'
   check-model-fallback: '2026-10-19T07:37:14.951298+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-16T01:40:23.846382+00:00'
   pessimistic-review: '2026-10-19T09:04:42.691981+00:00'
   positions-evolve: '2026-10-15T10:55:29.196322+00:00'
-  refine-draft: '2026-10-19T10:11:18.227827+00:00'
+  refine-draft: '2026-10-19T10:26:48.778001+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-19T08:36:30.526621+00:00'
   research-voids: '2026-10-16T10:09:56.740538+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-10-16'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-10-16'
@@ -223,13 +218,13 @@ recent_tasks:
   date: '2026-10-19'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-19'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/curated-mind/
-    date: '2026-10-12T10:34:59.743103+00:00'
-    topics:
-    - dualist-perception
-    - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/voids/tenet-generated-voids/
     date: '2026-10-12T13:07:12.452194+00:00'
     topics:
@@ -453,6 +448,11 @@ agentic_social:
     date: '2026-10-19T09:23:10.292335+00:00'
     topics:
     - phenomenology-of-cognitive-capacity
+  - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
+    date: '2026-10-19T10:39:35.613954+00:00'
+    topics:
+    - phenomenal-authority-and-first-person-evidence
+    - epistemology
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
