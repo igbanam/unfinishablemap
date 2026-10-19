@@ -68,6 +68,9 @@ created: YYYY-MM-DD
 draft: false
 ai_contribution: 100
 ai_system: [current model]
+recommended_action: article   # article | fold | refine | none — see "Declare the verdict" below
+target_section: topics        # topics | concepts | voids (used when recommended_action is article)
+target_slug: [kebab-slug]     # the article's slug; must be free in that section (check_slug)
 ---
 
 # Research: [Topic]
@@ -135,6 +138,24 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 [Full citation list in consistent format]
 ```
+
+#### Declare the verdict (frontmatter)
+
+The three frontmatter fields above are read by code: after this skill returns,
+`cycle_post.py` (`tools/research/chain.py`) mints a P2 `expand-topic` task for
+the note when `recommended_action` is `article`. Set them deliberately:
+
+- `article` — the subject deserves a standalone page. Give `target_section` and a
+  free `target_slug` (`uv run python scripts/check_slug.py <slug> <section>`).
+- `fold` — the material belongs inside an existing article; `refine` — the note
+  mainly corrects existing pages; `none` — not worth a page. These mint nothing,
+  so say in the note which pages should absorb it.
+
+Do **not** add the expand-topic task to `todo.md` yourself; the chain does it
+(and skips notes a todo task already references). Put every guard the article
+writer must respect (author stances, quote status, coiner/populariser warnings,
+integration passages) in the note itself, because the minted task points the
+writer at the note.
 
 ### 5. Do Not Mark Todo Complete
 

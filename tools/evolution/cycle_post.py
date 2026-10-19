@@ -44,6 +44,7 @@ from tools.evolution.task_selector import (  # noqa: E402
     load_todo,
     mark_task_completed,
 )
+from tools.research.chain import chain_new_research_notes  # noqa: E402
 from tools.todo.processor import parse_tasks  # noqa: E402
 
 STATE_PATH = REPO_ROOT / "obsidian" / "workflow" / "evolution-state.yaml"
@@ -393,6 +394,26 @@ def main() -> int:
                 f"marked todo task completed "
                 f"(line {args.queue_task_line}): {completed_title}",
             )
+
+    # --- Research -> expand-topic chain -------------------------------------
+    # Deterministic: the research-topic fork writes the note but cannot be
+    # trusted to mint the follow-on task, and replenish's unconsumed_research
+    # source rarely fires. See tools/research/chain.py.
+    if args.kind == "queue" and success and args.skill == "research-topic":
+        try:
+            caps = {
+                "topics": state.section_caps.max_topics,
+                "concepts": state.section_caps.max_concepts,
+                "voids": state.section_caps.max_voids,
+            }
+            results = chain_new_research_notes(caps, now.date().isoformat())
+            if not results:
+                emit("warning", "research-topic succeeded but no new research note found")
+            for r in results:
+                level = "warning" if "no recommended_action" in r.reason else "info"
+                emit(level, f"research chain: {r.note}: {r.reason}")
+        except Exception as e:
+            emit("warning", f"research chain error (non-fatal): {e}")
 
     # --- Cycle-position bookkeeping ----------------------------------------
     cycle_complete_now = False
