@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 14:00:07+00:00
+ai_modified: 2026-10-20 14:18:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 14:00:07+00:00
+lastmod: 2026-10-20 14:18:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:17 - deep-review
+- **Status**: Success
+- **File**: [event-causal-libertarianism](/topics/event-causal-libertarianism/)
+- **Word count**: 2581 → 2818 (+237; topics soft 3000, hard 4000)
+- **Critical issues addressed**: 2. (1) L64 filed E. J. Lowe among agent-causal libertarians. SEP §1 files his free-will account with the non-causal theories, and the *NDPR* and *Philosophy in Review* reviews of *Personal Agency* say the same: volitions are uncaused, plus substance causation. He now sits at the non-causal/agent-causal border. (2) L80 "agent-causal views defeat luck" → "answer its disappearing-agent form", with the rollback form pressed against them (van Inwagen 2000; Mele 2006), the agent-causalist reply, and the Map's owed primitive ([free-will](/topics/free-will/)). This discharges the open P3 "L80 says 'agent-causal views defeat luck'".
+- **Medium issues addressed**: 5. L42 restores SEP's "simplest" qualifier. L76 replaces an unsourced Clarke/Mele "grant" with SEP's effort-freedom reply. L80 now states causal pluralism's interdependence in both directions. L88 scopes the interface to *part* of an answer to the intelligibility objection (where, not whether). L68 says Ginet's actish quality grounds activeness, not freedom.
+- **Enhancements made**: 5. Bold removed from "torn decisions" (Balaguer's term). Kane "Most" → "Many … may". The rollback is attributed to van Inwagen. Franklin 2011 added to the live event-causal replies. Five references added (Ginet 1990, Lowe 2008, van Inwagen 2000, Mele 2006, Franklin 2011), all checked at Crossref.
+- **Reasoning mode**: Pereboom, Mode Three (unchanged). Event-causal wing, Mode Three. Luck against agent causation (van Inwagen, Mele), Mode Three by concession.
+- **Output**: [deep-review-2026-10-20-event-causal-libertarianism](/reviews/deep-review-2026-10-20-event-causal-libertarianism/)
 
 ## 14:00 - refine-draft
 - **Status**: Success
