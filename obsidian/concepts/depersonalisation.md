@@ -2,9 +2,9 @@
 title: "Depersonalisation and the Separability of For-Me-Ness"
 description: "A human+AI home page for the Map's most-cited clinical datum: what depersonalisation disorder documents, the four rival readings of what comes apart, and why the result is a defensible architecture claim with no metaphysical significance yet."
 created: 2026-10-01
-modified: 2026-10-02
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-04T01:30:16+00:00
+ai_modified: 2026-10-20T01:37:05+00:00
 last_deep_review: 2026-10-01T07:47:30+00:00
 draft: false
 topics:
@@ -54,7 +54,7 @@ That something comes apart is not in dispute. What it is divides the literature 
 
 The neurobiological account that framed the modern literature treats the subtraction as emotional. Sierra and Berrios (1998, abstract) proposed a corticolimbic model on which a prefrontal mechanism inhibits the amygdala, producing "dampened autonomic output, hypoemotionality, and lack of emotional coloring that would in turn, be reported as feelings of 'unreality or detachment.'" Sierra and David (2011, abstract) updated it to a fronto-limbic suppressive mechanism that "disables the process by which perception and cognition normally become emotionally coloured, giving rise to a subjective feeling of 'unreality'"; Medford (2012, abstract) names the reduced emotional responsivity "de-affectualization". No for-me-ness component is posited: "unreality" is how a system reports uncoloured perception.
 
-Gerrans (2019, abstract) is the predictive-coding descendant. On his account "The 'self' to which experience is attributed is a predictive model made by the mind to explain the modulation of affect", and when the world stops producing predicted affect the system must explain the "unpredicted absence of feeling". The subtraction is still affective; the sense of absence is the model's inference from it. The reading grants separability — of affect from content — under a different description, and closes the significance question by construction. Its pressure points are Knappik's observation (below) that "a breakdown of affective feelings can leave the other factors intact" in post-traumatic numbing, and the factor analysis itself, in which emotional numbing is one domain of four rather than the root of the other three.
+Gerrans (2019, abstract) is the predictive-coding descendant. On his account "The 'self' to which experience is attributed is a predictive model made by the mind to explain the modulation of affect", and when the world stops producing predicted affect the system must explain the "unpredicted absence of feeling". The subtraction is still affective; the sense of absence is the model's inference from it. The reading grants separability — of affect from content — under a different description, and closes the significance question by construction. Its pressure points are Knappik's observation (below) that "a breakdown of affective feelings can leave the other factors intact" in [[dissociative-subtype-of-ptsd|post-traumatic numbing]], and the factor analysis itself, in which emotional numbing is one domain of four rather than the root of the other three.
 
 ### Billon: The Lack of Subjective Character
 

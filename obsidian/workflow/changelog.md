@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T00:45:39+00:00
+ai_modified: 2026-10-20T01:39:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:39 - expand-topic
+- **Status**: Success
+- **Topic**: The Dissociative Subtype of PTSD and the Overmodulation Model
+- **Output**: [[concepts/dissociative-subtype-of-ptsd]]
+- **Word count**: 3256 by `analyze_length` (concepts `soft_warning`, 130% of 2500; hard 3500, headroom 243). Prose 2197 (target 1800-2200); Further Reading 74; references 980 (28 entries). The excess over soft is entirely apparatus. Section count 360/370 before the write, 361 after.
+- **Based on research**: yes, [[research/dissociative-subtype-of-ptsd-2026-10-09]] (Recommended Next Step option (a); 8-section outline followed)
+- **Verdict**: runs against the Map's trauma reading. The model is the best-specified production account of trauma-provoked depersonalisation and moves the trauma-selectivity point to the rival (scoped to depersonalisation/derealisation; amnesia and DID not examined). The bare Dualism thesis is untouched. The rival's circuitry failures are stated as giving the Map nothing. The three co-optation traps are kept.
+- **Verification**: all 26 external references Crossref-resolved (metadata matched the note). Every quotation was grep-checked by script against raw text: PubMed abstracts (20 papers); full texts of Dimitrova 2023 and Huntjens 2022 (Europe PMC XML); Eder-Moreau 2022 for the DSM-5 specifier wording; Brewin 2025 (PMC blocked, so the UCL accepted manuscript via pdftotext); Reinders 2022 reply (Amsterdam UMC PDF); Shaw 2023 (OpenAlex preprint abstract, labelled as such). Crossref confirms Lanius 2010 cites Sierra & Berrios 1998 and that Knappik's reference list includes Frewen 2015. No title-only source is cited.
+- **References dropped from the note**: Griffin 1997, Hopper 2007, Lanius 2012/2018, Cavicchioli 2023, Klimova 2013, Misitano 2024, Hansen 2017, Wolf 2012/2016/2023, Zoet 2018 (title-only), Daniels 2015/2016/2019, Ross 2024, Chalavi 2015a, Irle 2009 (title-only), Logue 2018, Gilbertson 2002, Ben-Zion 2023, Hakamata 2022, Vermetten 2006, Zheng 2025, Muehlhausen 2021, Steuwe 2012, Blevins 2014, Brake 2025.
+- **Integration**: zero-word piped links. `concepts/depersonalisation` L57 "post-traumatic numbing" (3498 -> 3498). `topics/clinical-dissociation-as-systematic-evidence` "Trauma Connection" "an affective-salience physicalism" (4688 -> 4688). Both anchors were re-located by text at count 1. Outbound links: depersonalisation, mine-ness, metacognitive-access-versus-retention, clinical-dissociation-as-systematic-evidence, architecture-vs-significance-two-tier-discount, conversion-disorder-as-consciousness-side-fault, plus logic-of-dissociation-inference (driver addition a). The `metacognitive-access-versus-retention` L131 Huntjens qualifier was already installed, so it was not re-edited.
+- **Not done (out of contract)**: cross-review (the driver queues it); `task_chains.pending_cross_reviews` not written; todo.md untouched. Apex check: no apex entry lists the new page, so no apex-evolve task is owed.
 
 ## 00:45 - refine-draft
 - **Status**: Success
