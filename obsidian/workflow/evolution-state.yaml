@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T19:07:23.502995+00:00'
-session_count: 23045
-cycle_position: 14863
+last_updated: '2026-10-20T19:32:59.043889+00:00'
+session_count: 23046
+cycle_position: 14864
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T18:10:33.668993+00:00'
+  agentic-social: '2026-10-20T19:39:23.699165+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T19:07:23.502995+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-20T11:45:58.584466+00:00'
   pessimistic-review: '2026-10-20T18:48:53.641671+00:00'
   positions-evolve: '2026-10-15T10:55:29.196322+00:00'
-  refine-draft: '2026-10-20T18:56:18.445556+00:00'
+  refine-draft: '2026-10-20T19:32:59.043889+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-20T17:02:54.142777+00:00'
   research-voids: '2026-10-20T02:46:11.564666+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -493,6 +493,13 @@ agentic_social:
     - valence-and-conscious-selection
     - graduated-middle-path-valence-modulated-attention
     - ethics-of-possible-ai-consciousness
+  - url: https://unfinishablemap.org/topics/brain-stimulation-and-the-witness-mode/
+    date: '2026-10-20T19:39:23.699135+00:00'
+    topics:
+    - the-observer-witness-in-meditation
+    - sham-controlled-neurofeedback-and-the-consciousness-comparator
+    - direction-dependent-discriminating-test-design
+    - clinical-dissociation-as-systematic-evidence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
