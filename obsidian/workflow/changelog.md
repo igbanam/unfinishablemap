@@ -5,6 +5,20 @@ ai_modified: 2026-10-19T22:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 00:03 - deep-review
+- **Status**: Success
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Selection**: the top eligible candidate (67.7, 105 days since review). Three candidates were skipped: frankfurt-cases and co-optimization (edited 2026-10-19) and event-causal-libertarianism (open todo task). No open task targets this page. All 8 prior reviews were read and their stability notes respected.
+- **Word count**: 3179 → 3221 (+42; topics hard 4000, soft_warning)
+- **Critical issues addressed**: 3. (1) The Rochat neonate finding was inverted: "preferential response to self-touch" became "rooting less to their own touch than to an experimenter's". Rochat & Hespos 1997 abstract and Rochat 2003 PDF p.722, both grepped. Also dropped "basic affective states", since Rochat's only neonatal emotion item is imitation, which is social. (2) Winawer 2007 was misdescribed as "faster than English speakers ... shape perceptual experience". It is now the within-language category advantage, absent in English speakers and abolished by verbal interference, concluding "shape perceptual discrimination online" (OpenAlex abstract verbatim). The sibling clause now reads "carve colour discrimination differently across languages". (3) The closing developmental paragraph flatly asserted "The neonate has phenomenal experience", contradicting the plank's own under-determination caveat. It now says the evidence is consistent with the asymmetry but leaves phenomenality open. The dissolution paragraph now routes the priority weight to the transcendental argument plus the developmental and phylogenetic evidence. "This is not merely a thought experiment" was removed.
+- **Medium issues addressed**: 3. The Schachter–Singer symptom list ("focused attention" is not in the 1962 paper; PDF grepped) is now "pounding heart, trembling hands, flushed face". The flat claim that dreamless sleep ends phenomenal consciousness is now hedged as "contested", linked to [[sleep-and-consciousness]]. The Gallagher 2000 subtitle was restored (Crossref).
+- **Enhancements made**: 2 (a same-page named anchor for the transcendental-argument forward reference; a cross-link to sleep-and-consciousness)
+- **Citations**: 15 references in the per-cite ledger. 14 have correct metadata and 1 had wrong metadata (Gallagher subtitle). Three had correct metadata but misdescribed results: Rochat, Winawer and Schachter–Singer.
+- **Engagement modes**: constructionist Mode Three; Metzinger Mode Two with a Mode Three residue marker; illusionist/anatta regress Mode Three. All unchanged.
+- **Sibling sweep**: the defects appear on this page only. The apex self-construction-constructor is correct in direction.
+- **Sync**: Hugo synced. All four new phrases are present in the Hugo copy, and both new links resolve: `#the-dependence-runs-one-way` and `/concepts/sleep-and-consciousness/`.
+- **Output**: [[reviews/deep-review-2026-10-20-social-construction-of-self-vs-phenomenal-self]]
+
 ## 23:24 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]

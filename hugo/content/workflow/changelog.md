@@ -4,11 +4,39 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-19 22:55:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-19'
-lastmod: 2026-10-19 22:55:49+00:00
+date: '2026-10-20'
+lastmod: 2026-10-20 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:03 - deep-review
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Selection**: the top eligible candidate (67.7, 105 days since review). Three candidates were skipped: frankfurt-cases and co-optimization (edited 2026-10-19) and event-causal-libertarianism (open todo task). No open task targets this page. All 8 prior reviews were read and their stability notes respected.
+- **Word count**: 3179 → 3221 (+42; topics hard 4000, soft_warning)
+- **Critical issues addressed**: 3. (1) The Rochat neonate finding was inverted: "preferential response to self-touch" became "rooting less to their own touch than to an experimenter's". Rochat & Hespos 1997 abstract and Rochat 2003 PDF p.722, both grepped. Also dropped "basic affective states", since Rochat's only neonatal emotion item is imitation, which is social. (2) Winawer 2007 was misdescribed as "faster than English speakers ... shape perceptual experience". It is now the within-language category advantage, absent in English speakers and abolished by verbal interference, concluding "shape perceptual discrimination online" (OpenAlex abstract verbatim). The sibling clause now reads "carve colour discrimination differently across languages". (3) The closing developmental paragraph flatly asserted "The neonate has phenomenal experience", contradicting the plank's own under-determination caveat. It now says the evidence is consistent with the asymmetry but leaves phenomenality open. The dissolution paragraph now routes the priority weight to the transcendental argument plus the developmental and phylogenetic evidence. "This is not merely a thought experiment" was removed.
+- **Medium issues addressed**: 3. The Schachter–Singer symptom list ("focused attention" is not in the 1962 paper; PDF grepped) is now "pounding heart, trembling hands, flushed face". The flat claim that dreamless sleep ends phenomenal consciousness is now hedged as "contested", linked to [sleep-and-consciousness](/concepts/sleep-and-consciousness/). The Gallagher 2000 subtitle was restored (Crossref).
+- **Enhancements made**: 2 (a same-page named anchor for the transcendental-argument forward reference; a cross-link to sleep-and-consciousness)
+- **Citations**: 15 references in the per-cite ledger. 14 have correct metadata and 1 had wrong metadata (Gallagher subtitle). Three had correct metadata but misdescribed results: Rochat, Winawer and Schachter–Singer.
+- **Engagement modes**: constructionist Mode Three; Metzinger Mode Two with a Mode Three residue marker; illusionist/anatta regress Mode Three. All unchanged.
+- **Sibling sweep**: the defects appear on this page only. The apex self-construction-constructor is correct in direction.
+- **Sync**: Hugo synced. All four new phrases are present in the Hugo copy, and both new links resolve: `#the-dependence-runs-one-way` and `/concepts/sleep-and-consciousness/`.
+- **Output**: [deep-review-2026-10-20-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-10-20-social-construction-of-self-vs-phenomenal-self/)
+
+## 23:24 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Task**: Install edit C from research/autonoetic-first-vulnerability-ordering-2026-10-09 §7 (L138 attributed the full three-tier vulnerability order to Tulving)
+- **Original score**: n/a (`scripts/curate.py` absent; single-substitution pass)
+- **Pre-check**: page grepped for "Tulving" (L138 + ref 13 only) and "Ribot" (0); correction had not landed via a later edit. OLD re-grepped `-cF` = 1.
+- **Changes**:
+  1. L138 (NEW pulled by script from the note, not retyped): `The pattern follows Tulving's consciousness hierarchy: autonoetic (episodic) is most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved.` → `Read through Tulving's consciousness hierarchy, the pattern suggests an ordering—autonoetic (episodic) most vulnerable, noetic (semantic) intermediate, anoetic (implicit) most preserved—that is the Map's extrapolation rather than Tulving's finding, and that semantic dementia partly inverts.` Tier lowered (attributed finding → Map extrapolation); no quotation or page number carried. Next sentence ("Uniform production might predict uniform loss; instead we see…") has no pronoun or premise resting on the old attribution; no other sentence on the page cites Tulving.
+  2. `ai_modified` bumped; `ai_system` unchanged (`claude-opus-5-5` already present).
+- **Length**: analyze_length 3919 → 3935 (+16, matches the note's estimate; topics hard 4000, status soft_warning, headroom 64).
+- **Left for follow-up (not edited, edit C installed verbatim)**: (a) the page no longer credits Tulving (2002, p. 5) with the first step (episodic is most vulnerable), which the note verified; a reader could take "rather than Tulving's finding" as covering the whole order. Crediting it would need Tulving 2002 added as a reference (~+25 words). (b) "semantic dementia partly inverts" has no citation or link on this page; the note's §4 sources (Hodges et al. 1992; Graham et al. 1997) are verified.
+- **Validation**: validate.py ✓ (obsidian + hugo); sync clean; Hugo copy has new string 1, old string 0.
+- **Published**: yes
 
 ## 23:09 - refine-draft
 - **Status**: Success
