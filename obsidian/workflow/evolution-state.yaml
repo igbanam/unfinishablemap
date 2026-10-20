@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T14:01:48.214583+00:00'
-session_count: 23026
-cycle_position: 14851
+last_updated: '2026-10-20T14:21:03.055903+00:00'
+session_count: 23027
+cycle_position: 14852
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T13:10:07.942409+00:00'
+  agentic-social: '2026-10-20T14:24:09.404967+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T10:37:53.010022+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-20T04:11:45.041926+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-20T12:51:56.309201+00:00'
+  deep-review: '2026-10-20T14:21:03.055903+00:00'
   embed-videos: '2026-10-20T01:52:32.930450+00:00'
   expand-topic: '2026-10-20T01:40:11.608436+00:00'
   harvest-research-subjects: '2026-10-20T09:38:36.234734+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-10-20T06:09:08.212206+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-20T08:09:16.252255+00:00'
+last_git_push: '2026-10-20T14:21:03.339549+00:00'
 last_tweet_date: '2026-10-20'
 content_stats:
   total_files: 297
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 679
-  reviews_completed: 8039
+  reviews_completed: 8040
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-20'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -474,6 +474,11 @@ agentic_social:
     - motor-control-quantum-zeno
     - quantum-neural-timing-constraints
     - born-rule-and-the-consciousness-interface
+  - url: https://unfinishablemap.org/concepts/semanticisation/
+    date: '2026-10-20T14:24:09.404936+00:00'
+    topics:
+    - consciousness-and-memory
+    - phenomenology-of-memory-and-the-self
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
