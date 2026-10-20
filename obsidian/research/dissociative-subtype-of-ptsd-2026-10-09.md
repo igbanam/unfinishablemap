@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - The Dissociative Subtype of PTSD and the Overmodulation Model"
 created: 2026-10-09
-modified: 2026-10-09
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-09T14:03:01+00:00
+ai_modified: 2026-10-20T10:37:10+00:00
 draft: false
 description: "Research note on the DSM-5 dissociative subtype of PTSD and Lanius's overmodulation model: what held, what failed, how it bears on the Map's depersonalisation readings, the trauma confound behind DID hippocampal findings, and a recommended concepts page."
 topics:
@@ -194,7 +194,7 @@ None of these is contradicted below. What follows is the attribution question: i
 - the one DID/DA-without-PTSD group shows none;
 - the early-adversity association holds without any diagnosis.
 
-The DID-specific residue is the within-DID correlation between CA1 volume and self-reported amnesia, r ≈ −0.40 after an a priori re-analysis, in one sample of 32. Its measure is self-report, which the Map's own four-level page treats as level-3 evidence. The test both sides call for, PTSD with and without dissociative amnesia, has not been run (none found).
+The DID-specific residue is the within-DID correlation between CA1 volume and self-reported amnesia, r ≈ −0.40 after an a priori re-analysis, in one sample of 32. Its measure is self-report, which the Map's own four-level page treats as level-3 evidence. The test Reinders et al. (2022) recommend in reply, PTSD with and without dissociative features, has not been run (none found); Huntjens et al. make no such call (corrected 2026-10-20 deep review).
 
 **A secondary finding (out of scope; grep-validated live).** `clinical-phenomenology-and-altered-experience` L125 cites Vermetten et al. 2006 for "smaller hippocampal and amygdalar volumes" in DID. The larger later study from the Reinders cohort found "Analyses of covariance did not show volumetric differences between the DID and control groups" for the amygdala (Reinders et al. 2022, *BJPsych Open* 8(2):e70, n = 32 vs 42; abstract). The amygdala half of the L125 clause has a larger null against it. The hippocampal half stands. That page has 288 words of headroom.
 
@@ -231,7 +231,7 @@ The DID-specific residue is the within-DID correlation between CA1 volume and se
 
 ### Is the DID hippocampal difference DID's?
 - **Sides**: Dimitrova/Reinders (CA1 as a candidate amnesia biomarker in DID) versus Huntjens/Otgaar (PTSD and self-report confounds; multiple testing).
-- **Current state**: group difference replicated; specificity untested; both sides call for a PTSD with/without dissociative amnesia study.
+- **Current state**: group difference replicated; specificity untested; Reinders et al. (2022) recommend a PTSD with/without dissociative features study.
 
 ## Historical Timeline
 
@@ -267,7 +267,7 @@ When writing the article, follow `obsidian/project/writing-style.md` (front-load
 - **Shaw et al. 2023**: only the 2022 PsyArXiv preprint abstract was read. The published *Nature Mental Health* abstract was not retrievable (no Crossref or OpenAlex abstract), so the published wording may differ.
 - **Title or metadata only**: Irle et al. 2009 (letter), Zoet et al. 2018, Spiegel et al. 2013 (*Annu Rev Clin Psychol* 9:299–326), both corrigenda.
 - **DSM-5 specifier**: the full specifier text is not verified beyond the depersonalisation clause and the opening of the derealisation clause (two transcriptions). DSM-5-TR retention was not verified.
-- **No study found** testing CA1 or hippocampal volume against *objective* inter-identity amnesia, or comparing PTSD with and without dissociative amnesia; both sides of the 2022 exchange call for the latter.
+- **No study found** testing CA1 or hippocampal volume against *objective* inter-identity amnesia, or comparing PTSD with and without dissociative features; Reinders et al.'s 2022 reply recommends the latter (Huntjens et al. do not).
 - **Not pursued**: kappa-opioid pharmacology evidence beyond the 2018 review; the ketamine/cannabis state-dissociation comparison (Brake et al. 2025, *Biol Psychiatry Glob Open Sci* 5(4):100521, abstract only), which found the largest baseline state dissociation "in the dissociative and complex subtypes of posttraumatic stress disorder" and induced effects for ketamine and cannabis "exceeding baseline state dissociation in PTSD-DC". That bears on `pharmacological-dissociation-as-evidence` and the harvester's open ketamine research subject; it is a lead, not checked. Also not pursued: a link from the defence cascade to FND.
 - **Mutluer et al. 2018** (no hippocampus–dissociation correlation in PTSD) is known only through Dimitrova et al.'s introduction.
 

@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:35 - deep-review
+- **Status**: Success
+- **File**: [dissociative-subtype-of-ptsd](/concepts/dissociative-subtype-of-ptsd/) (never reviewed; created 01:40Z today)
+- **Word count**: 3256 → 3281 (+25; concepts `soft_warning`, hard 3500)
+- **Critical issues addressed**: 5. (1) L87 attribution error. "Both sides call for a study of PTSD with and without dissociative amnesia" is false for Huntjens 2022 (full text has no such call); only Reinders 2022 recommend it, as "PTSD with and without dissociative features". Now attributed to Reinders. (2) L48 Lebois superlative: "largest prospective study to date" dropped the source's own "biomarker study of persistent dissociation" scope; the claim was also uncurrent, so the superlative is dropped. (3) L60 Shaw superlative: the source says "largest ROI-to-ROI analysis performed on a PTSD population", not "largest whole-brain resting-state study"; dropped. (4) Calibration: the ledger's autonomic null (Beutler 2022) targets the passive-defence hypoarousal marker, yet L91 stated the defence cascade as fact and said the literature "closes" the question. Now "tips it against the Map. On the rival's account, the protectiveness is…", with "Passive defence predicts hypoarousal, but…" in the ledger. The verdict still goes to the rival. (5) Lead "predicts that datum" → "reaches" (accommodation; matches L93).
+- **Medium issues addressed**: 5. The 70%/30% quotations are now attributed to Lanius 2002 (they read as 2010's). "2002 pilot" → "2002 study". Hoeboer is scoped to psychotherapy. Chiba's overmodulated pole is avoidance, not dissociation. "localist" → "type-specific", to avoid a clash with Lotfinia's "cannot be localized".
+- **Enhancements made**: 2 zero-word links ([predictive-processing](/concepts/predictive-processing/), [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) on "four-level dissociation chain")
+- **Verification**: all 26 DOIs resolved at Crossref. 24 PubMed abstracts and 6 full texts (Brewin UCL AAM, Dimitrova, Huntjens, Eder-Moreau, Lanius 2010 author manuscript, Reinders repository PDF) were fetched raw; every quotation was script-matched, with a negative control. Per-cite ledger is in the review.
+- **Engagement modes**: overmodulation model, Mode Three for the bare-Dualism residue, with honest concession on trauma-selectivity. All three co-optation traps are intact.
+- **Side lead (not edited)**: [dissociative-subtype-of-ptsd-2026-10-09](/research/dissociative-subtype-of-ptsd-2026-10-09/) L197/L234/L270 carry the same "both sides call for" error.
+- **Output**: [deep-review-2026-10-20-dissociative-subtype-of-ptsd](/reviews/deep-review-2026-10-20-dissociative-subtype-of-ptsd/)
+
 ## 09:59 - refine-draft
 - **Status**: Success
 - **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
