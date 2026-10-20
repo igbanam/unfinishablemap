@@ -2,9 +2,9 @@
 title: "Consciousness-Selecting Neural Patterns"
 description: "Consciousness selects which quantum possibilities become actual neural patterns. Three forward-in-time frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — show how selection operates at quantum indeterminacies where physics leaves outcomes open."
 created: 2026-01-16
-modified: 2026-01-16
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-09-27T16:06:15+00:00
+ai_modified: 2026-10-20T12:27:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ coalesced_from:
   - "/concepts/non-retrocausal-conscious-selection/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-15T09:13:22+00:00
@@ -119,7 +119,7 @@ The most serious empirical challenge comes from [[decoherence]]. Tegmark (2000) 
 
 The Map's response: Frankish's move works for misrepresentations about external objects, but consciousness is distinctive. The representation "I am phenomenally conscious" is about the representational state itself. A functional state representing itself as phenomenal must either (a) be phenomenal, vindicating the regress, or (b) be systematically wrong about its own nature in a way no other functional state is. Option (b) is coherent but requires explaining why this class of self-representations is uniquely unreliable—a burden illusionists have not, in the Map's assessment, discharged. Dennett's user-illusion account (the self as a "centre of narrative gravity," consciousness as a brain-built interface that misrepresents its own workings) is the most developed attempt to shoulder it; the Map judges it insufficient because it explains misrepresentation of *what the brain is doing* without explaining how a representation could be wrong about its own phenomenal character specifically—the unique case the regress turns on.
 
-**The phenomenology of effort persists.** Deliberately maintaining attention against distraction—reading a difficult text in a noisy room—involves experienced effort, consistent with what the Zeno mechanism predicts. The experience of effort isn't explained by denying it exists.
+**Effort is common ground.** Illusionists explain rather than deny the seeming of effort, which [active inference](#the-active-inference-rival) can model. Whether anything felt remains to be explained is the hard problem: a framework-boundary dispute, not a refutation.
 
 **Selection has measurable effects.** Schwartz's OCD research found cognitive-behavioural therapy produced decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though only 18 participants, no independent same-method replication (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). Calling selection "illusory" doesn't eliminate the phenomenon needing explanation.
 
@@ -143,7 +143,7 @@ Consciousness-selecting neural patterns implements three of the Map's five tenet
 
 **Minimal Quantum Interaction**: Selection operates at quantum indeterminacies without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]—no mysterious forces, just selection where physics leaves room. Consciousness shapes which pre-existing possibility actualizes.
 
-**Bidirectional Interaction**: Selection is the downward direction of bidirectional causation. Physical states influence consciousness (perception, sensation); consciousness influences physical outcomes (selection). The mechanism specifies *how* bidirectional interaction works.
+**Bidirectional Interaction**: Selection is the downward direction of bidirectional causation. Physical states influence consciousness (perception, sensation); consciousness influences physical outcomes (selection).
 
 **Dualism**: Selection presupposes consciousness is distinct from physical processes. If consciousness were just another physical process, "selection" would be ordinary physical causation; the framework requires that something non-physical—the conscious subject—does the selecting.
 

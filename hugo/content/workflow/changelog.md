@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 12:11:28+00:00
+ai_modified: 2026-10-20 12:28:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 12:11:28+00:00
+lastmod: 2026-10-20 12:28:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:28 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted outer-review fix
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §6 "Frankish and Dennett" (Opus 5.5 full-site audit)
+- **Changes**:
+  - L122, the illusionism "Four Responses" item: "**The phenomenology of effort persists.** … consistent with what the Zeno mechanism predicts. The experience of effort isn't explained by denying it exists." now reads "**Effort is common ground.** Illusionists explain rather than deny the seeming of effort, which active inference (anchor-linked to `#the-active-inference-rival`) can model. Whether anything felt remains to be explained is the hard problem: a framework-boundary dispute, not a refutation." The old reply answered a view no illusionist holds. The Zeno-prediction clause is removed: L108 concedes a twelve-order timescale gap, and L86's active-inference rival accommodates the same seeming, so it was not differential evidence. Persistence is not offered as evidence, which keeps this item consistent with today's `arguments/materialism-argument` L70.
+  - L146 (Bidirectional Interaction, Relation to Site Perspective) trim: removed "The mechanism specifies *how* bidirectional interaction works." The sentence contradicted L108 ("rather than a complete account of *how*") and was already flagged by [tenet-check-2026-09-28](/reviews/tenet-check-2026-09-28/) Family S ("against its own L172, [P-Q10](/positions/quantum-interface/#p-q10)"). Before removal, guard checks were run: a grep of `reviews/` found only that defect flag, and `git log -S` traces it to the 2026-01-16 expand-topic only.
+  - Frontmatter: `modified` 2026-10-20; `ai_modified` 2026-10-20T12:27:13+00:00; `ai_system` appended `+claude-opus-5-5`.
+- **Engagement**: illusionism (Frankish/Dennett), effort item: Mode Three. Illusionism is not defective on its own terms here, since the precision-weighting account predicts the seeming. The residue is the hard problem, marked as framework-boundary.
+- **Sources verified**: Sandved-Smith et al. 2021 full text (PMC8396119). The paper casts mental action as "the deployment of precision". "Effort" appears once, as a phenomenological marker of mental action ("a subjective sense of effort", citing Metzinger and Wiese 2017), not as a modelled quantity. So the new L122 says active inference "can model" the seeming and does not credit the paper with modelling effort. The issue number 2021(1) is confirmed at Crossref; PubMed prints 2021(2).
+- **Length**: 3506 → 3498 (prose 2833 → 2825; apparatus 673 unchanged; concepts hard ceiling 3500, gate `>=`). L122 36 → 35 words; L146 trim −7.
+- **Leads (not actioned)**:
+  - L86 "mental effort is precision-weighting on that control" over-attributes to Sandved-Smith, whose model is mental action as precision deployment.
+  - L124 "Calling selection 'illusory' doesn't eliminate the phenomenon" may carry the same strawman, since illusionists keep functional selection.
+  - L62 "supplies first-person evidence for this mechanism" is in tension with the new L122 (tenet-check 2026-09-28 flagged it too).
+  - `archive/topics/consciousness-and-creative-distinctiveness.md` L140 still carries "specifies *how* bidirectional" (archive policy is still open).
+  - `concepts/epistemic-emotions` L147 "solves the problem by denying it exists" is a looser sibling of the same pattern.
+  - The HUMAN-LENGTH-DECISION todo entry for this file may now be moot, at 3498.
+- **Published**: yes
 
 ## 12:11 - refine-draft
 - **Status**: Success
