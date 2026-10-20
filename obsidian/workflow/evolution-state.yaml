@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T13:00:37.514428+00:00'
-session_count: 23022
+last_updated: '2026-10-20T13:10:07.942409+00:00'
+session_count: 23023
 cycle_position: 14848
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T13:09:12.761061+00:00'
+  agentic-social: '2026-10-20T13:10:07.942409+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T10:37:53.010022+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-20'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-20'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
