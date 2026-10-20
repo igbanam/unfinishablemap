@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T14:18:53+00:00
+ai_modified: 2026-10-20T14:39:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:39 - refine-draft
+- **Status**: Success
+- **File**: [[apex/moral-architecture-of-consciousness]]
+- **Source**: outer review 2026-10-20 (ChatGPT 5.6 Sol Pro full-site audit), §2.6 "The compensation ledger has an unaddressed distributive ethics" and improvement 24. `apex/born-preserving-causal-efficacy` L101 says value-sensitive applied articles "inherit rather than discharge" the outcome-luck consequence. This page inherited the mechanism debt at L140 and called valence a "selection currency" at L144 without mentioning that consequence.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - New paragraph after the L144 value-sensitive-horn paragraph. It names the compensation consequence, linked to born-preserving's `#where-a-selection-could-show-if-anywhere-the-conditional-signature` section. "The compensation consequence." is a bold run-in under that H2; the anchor is present in the built HTML. It raises the reviewer's three open questions: whether the offset is intrapersonal, interpersonal, temporal, contextual or global; whether one subject may bear another's compensating disadvantage; and what fairness condition governs it. It marks this as a debt the architecture inherits rather than answers. Verbatim from born-preserving L101 (each grep-checked): "someone or somewhen else", "hidden statistical externalities"; "conservation law on outcome-luck" is used unquoted.
+  - Kept separate from the `concepts/agency-budget` re-weighting dependency. The new debt is over outcomes; agency-budget's is a law re-tuning conditionals to each context's intention mix, which is one of its two options, hence "may need". A one-clause cross-reference to agency-budget was added.
+  - Pronoun check: the closing "It is a ledger over outcomes" had a weak antecedent (it could be read as "the architecture"), so it was rewritten as "The debt runs over outcomes".
+  - Frontmatter: `modified` 2026-10-20, `ai_modified` set from `date -u`. `ai_system` already held claude-opus-5-5.
+- **Calibration**: the paragraph is conditional on both value-sensitive selection and an exact *unconditioned* marginal ("while the unconditioned marginal stays Born-exact"). That is the pooled reading. The blocked 2026-10-14 P-Q2 "every publicly conditionable context" reading was not propagated. The paragraph concedes nothing past born-preserving L101, and the low-credence verdict on the horn stays at L140 directly above.
+- **Length**: `analyze_length` 4452 → 4569 (+117). Apex hard limit is 5000, leaving 430 words of headroom.
+- **Reasoning mode**: n/a (no named opponent; this records an internal debt).
+- **Published**: yes (synced)
 
 ## 14:17 - deep-review
 - **Status**: Success
