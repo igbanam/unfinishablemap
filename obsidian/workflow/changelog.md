@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T18:28:22+00:00
+ai_modified: 2026-10-20T18:48:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:48 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/causal-exclusion-argument]] (2841 words by analyze_length; concepts soft 2500 / hard 3500; `soft_warning`; headroom 658). No drafts exist. Selected under the not-yet-reviewed rule: zero hits by content across all `pessimistic-*` reviews (140 of 893 live articles have zero), no Active-Tasks mention, last edited 2026-09-15, not touched today, not named by today's outer-review synthesis or tenet check. It is the Map's canonical page on the objection Tenet 3 most needs to answer. The stability notes of its three prior deep reviews (07-13, 07-20, 08-17) were honoured.
+- **Top findings**: (1) Route 3 (L79) and the Relation section (L88) answer closure stated as sufficiency only ("There is nothing to exclude"), although L88 concedes closure "holds only *probabilistically*". The sibling `concepts/causal-closure` L138, rewritten today, grants chance-fixing closure under exact Born preservation. This page has 0 hits for "chance" and "Born", so it is an unpropagated instance of outer-review clusters 2 and 3. (2) L77 inverts Saad: "denies only *observational* closure", where Saad 2025's abstract (Crossref, read raw) and the Map's `observational-closure` L32 both say the view *keeps* observational closure. The cite also has no year and no References entry. (3) L65 promises a reason "below" that L69 never gives, which collides with route 2's Vaassen interventionism. (4) L92 calls drainage "a clean case" for Tenet 5 although L57 records Kim's reply as contested.
+- **Lead, not adjudicated**: 13 sibling lines use "no sufficient physical cause" or "nothing to exclude" phrasing. 8 carry no chance/Born/P-Q3 token on the same line (line-level upper bound).
+- **Reports only**: no articles edited; no todo.md tasks added (the driver mints from the review's What to Fix First list, +147 words in total, 511 headroom after).
+- **Output**: [[reviews/pessimistic-2026-10-20-causal-exclusion-argument]]
 
 ## 18:28 - refine-draft
 - **Status**: Success
