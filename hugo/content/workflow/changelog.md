@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 07:14:07+00:00
+ai_modified: 2026-10-20 07:27:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 07:14:07+00:00
+lastmod: 2026-10-20 07:27:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:27 - refine-draft
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §5, §6, recommendation (a)2
+- **Original score**: 7/10 (four verified source-fidelity defects; `scripts/curate.py` is absent, so no tool score)
+- **Length**: 3476 → 3473 (`analyze_length`, arguments hard 3500). Net −3.
+- **Changes**:
+  - (1) L70 Frankish: deleted "If Frankish is right, phenomenal seeming should dissolve under sustained attention to its underlying mechanism the way other rich illusions do; it does not, even for philosophers who fully accept illusionism intellectually." It attributed to illusionism a prediction the illusion problem denies (`concepts/illusionism` L67, L123), and perceptual illusions persist under full knowledge of their mechanism. New text: "Persistence of the seeming under full acceptance of illusionism decides nothing, since a rich illusion and a veridical seeming predict it equally; the reply rests on the missing vantage point." No Frankish quotation added.
+  - (2) Closure section: heading "Quantum Mechanics Is Not Causally Closed" → "Quantum Mechanics Is Not Causally Closed at the Token Level" (old text kept as a grep-able prefix; 0 inbound anchor links in obsidian/hugo/archive, slug and heading-text dialects both checked). Trimmed the Stapp sentence and the "Whether Stapp's specific proposal…" lead-in ("Whether or not he was right", where he = Wigner). Installed the qualifier: "What fails, on single-outcome indeterministic readings, is token-level determination of outcomes; Born-preserving selection leaves chance-fixing [closure](/concepts/causal-closure/) (Papineau's formulation, as quoted by Lowe 2000) intact, so the Map's reading sits close to epiphenomenalism ([the mechanism debt](/positions/quantum-interface/#mechanism-debt))." References: removed Stapp (2007) (orphaned by the trim, 0 remaining mentions) and added Lowe (2000).
+  - (3) L100: "(femtosecond timescales)" → "(10⁻¹³ to 10⁻²⁰ seconds)".
+  - (4) L124: dropped "Discovery of quantum coherence effects in neural tissue relevant to information processing" from expected findings. The lead post-decoherence route (tenets L71) does not depend on it.
+  - Frontmatter: `modified` 2026-10-20; `ai_system` appended `claude-opus-5-5` (the token was absent).
+- **Reasoning mode**: engagement with Frankish (L70): Mode Two. It keeps the vantage-point argument, which turns on the independent vantage that the representational account's own error-detection model assumes, and honestly marks the persistence datum as neutral rather than using it as a refutation. Engagement with the closure physicalist (closure section): mixed. Mode One against sufficiency closure, since the physics physicalism defers to supplies no sufficient cause of which outcome occurs. Then Mode Three: chance-fixing closure is conceded intact, and the residue is marked as the mechanism debt rather than dissolved.
+- **Verification**: illusionism L67/L123, free-will L139 ("Born-preserving selection leaves probabilistic closure intact"), positions/quantum-interface `^mechanism-debt` ("sits genuinely close to epiphenomenalism") and the chance-fixing research note L75/L83 were all read at source. Lowe (2000) metadata was checked against Crossref (10.1017/s003181910000067x: Philosophy 75(4) 571–585). The Tegmark range is verbatim in the arXiv quant-ph/9907009 abstract ("~10^{-13}-10^{-20} seconds"). Brief correction: research note `illusionism-functional-seeming-2026-03-28` L85 ("persists regardless of what one comes to believe about its reality") sits under the Kammerer (2022) entry, not a Frankish one. The new text attributes "rich illusion" to no one.
+- **Untouched by brief**: L102 "coherence times of 10⁻⁷ seconds may suffice" (review rec. (a)2, first clause); L68 Dennett contemplative "dissolution test" (review §6 Churchland paragraph); `arguments/arguments.md` L31 "Quantum mechanics is not causally closed in the way materialism requires". No open task covers any of the three.
+- **Published**: yes (synced to hugo; every edit confirmed in `hugo/content/arguments/materialism-argument.md`)
 
 ## 07:14 - refine-draft
 - **Status**: Success
