@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T22:16:17+00:00
+ai_modified: 2026-10-20T22:39:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:39 - refine-draft
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Source**: [[reviews/optimistic-2026-10-20-parity-wing]] Priority List item 1
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - L85: "Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience." → "Interactionist dualism avoids the panpsychist form of the combination difficulty, since matter lacks experience, but owes a [[nondualistic-interactionism|structurally related]] account of how one subject comes to couple to many neural events." The OLD and NEW strings were pulled from the review by script, and the OLD string matched once. The new clause agrees with the apex's own L81 ("regardless of one's starting ontology"), with `emergent-dualism` L82 (the Map "*relocates* that burden rather than discharging it") and with `nondualistic-interactionism` L97 ("faces a structurally related question"). It adds the apex's first link to that page.
+  - Length trim, L155: the sentence "What emerges from synthesis is a unified perspective that individual treatments cannot provide." was cut (13 words). It has been there since the page was created (`git log -S`), and no review, todo or skill quotes it, so it guards nothing. The cut leaves the 07-25 stability guards alone (the Bergson no-"an" form and Whitehead's "Category of the Ultimate"), and also the L67 non-divisibility sentence from the Whitehead fix in `dc5fd21d98`.
+- **Pronoun check**: the next sentence ("The Map argues that quantum mechanics…") has no pronoun. The paragraph after the cut opens with "Process philosophy offers…".
+- **Word count**: 4082 → 4081 (−1; apex soft 4000, hard 5000). The edit is length-neutral, in line with the 07-25 note.
+- **Frontmatter**: `modified` 2026-05-01 → 2026-10-20; `ai_modified` → 2026-10-20T22:39:04+00:00; `ai_system` gains "+claude-opus-5-5".
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 22:15 - deep-review
 - **Status**: Success

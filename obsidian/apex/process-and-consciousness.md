@@ -2,9 +2,9 @@
 title: "Process and Consciousness"
 description: "Reality as becoming, not being. Whitehead and Bergson's process frameworks illuminate the Map's five tenets—from irreducibility to temporal agency."
 created: 2026-01-31
-modified: 2026-05-01
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-14T21:51:17+00:00
+ai_modified: 2026-10-20T22:41:34+00:00
 last_deep_review: 2026-07-25T16:18:53+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated: null
 
@@ -82,7 +82,7 @@ The philosophical tradeoff is clear. Process philosophy avoids the *interaction 
 
 The difficulty may be structural rather than merely unsolved. Three independent responses to the Special Composition Question—van Inwagen's life criterion, Merricks's eliminativism, and McQueen and Tsuchiya's integrated-information criterion—land near consciousness, though only Merricks names it; the step to consciousness is the Map's own, so the [[composition-and-consciousness|convergence]] is suggestive rather than probative. If consciousness is what makes a composite real, then asking how non-conscious (or merely micro-conscious) parts compose a conscious whole inverts the explanatory order. Phenomenal non-compositionality may be categorical, not contingent.
 
-Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
+Interactionist dualism avoids the panpsychist form of the combination difficulty, since matter lacks experience, but owes a [[nondualistic-interactionism|structurally related]] account of how one subject comes to couple to many neural events. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
 
 ## Minimal Interaction and Creative Novelty
 
@@ -152,7 +152,7 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 ## Synthesis: What Process Philosophy Offers the Map
 
-Individual source articles establish separate components: [[process-philosophy]] explains Whitehead's framework; [[temporal-consciousness]] presents Bergson's durée alongside the neuroscience of temporal binding and the specious present; [[panpsychism]] explores the view that experience is ubiquitous; [[unity-of-consciousness|phenomenal unity]] analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
+Individual source articles establish separate components: [[process-philosophy]] explains Whitehead's framework; [[temporal-consciousness]] presents Bergson's durée alongside the neuroscience of temporal binding and the specious present; [[panpsychism]] explores the view that experience is ubiquitous; [[unity-of-consciousness|phenomenal unity]] analyses the subsumptive character of unified experience.
 
 Process philosophy offers the Map conceptual resources without ontological commitment. One can draw on Whitehead's account of how experience relates to time, creativity, and causation without accepting panpsychism, and on Bergson's argument that lived duration cannot be reduced to sequences of static states without accepting [[the-steelman-for-process-monism|process monism]].
 
@@ -160,7 +160,7 @@ The resources run deeper than individual arguments. Process philosophy explains 
 
 This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities.
 
-The Map draws on process philosophy without adopting its ontology. By maintaining a genuine mind-matter distinction, it avoids the combination problem; by engaging seriously with process thought, it inherits a rich vocabulary for time, causation, and experience that pure substance metaphysics lacks. Process philosophy is a fellow traveller, not a destination.
+The Map draws on process philosophy without adopting its ontology. By maintaining a genuine mind-matter distinction, it avoids the panpsychist combination problem, though it owes the coupling account noted above; by engaging seriously with process thought, it inherits a rich vocabulary for time, causation, and experience that pure substance metaphysics lacks. Process philosophy is a fellow traveller, not a destination.
 
 What process philosophy ultimately offers is a vision of reality where consciousness fits. Not as an anomaly to be explained away, not as an embarrassment to scientific naturalism, but as paradigmatic of what reality fundamentally involves: becoming, creativity, experience, time. The Map charts different territory, but it travels through a landscape that process philosophy helped to reveal.
 
