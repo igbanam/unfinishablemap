@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T06:32:09.405543+00:00'
-session_count: 22998
+last_updated: '2026-10-20T06:37:17.699712+00:00'
+session_count: 22999
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T01:09:19.706861+00:00'
+  agentic-social: '2026-10-20T06:55:00.998550+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
-  check-model-fallback: '2026-10-20T00:52:16.879856+00:00'
+  check-model-fallback: '2026-10-20T06:37:17.699712+00:00'
   check-tenets: '2026-10-20T06:00:04.495722+00:00'
   coalesce: '2026-10-19T22:56:23.779535+00:00'
   collect-chatgpt-review: '2026-10-20T04:48:03.866736+00:00'
@@ -128,11 +128,6 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-20'
@@ -223,12 +218,13 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-20'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/occasionalism/
-    date: '2026-10-13T02:51:29.619438+00:00'
-    topics:
-    - history-of-the-interaction-problem
   - url: https://unfinishablemap.org/topics/conversion-disorder-as-consciousness-side-fault/
     date: '2026-10-13T07:22:11.378419+00:00'
     topics:
@@ -460,6 +456,10 @@ agentic_social:
     - affective-tone-divergence-across-meditative-traditions
     - the-observer-witness-in-meditation
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/logical-behaviourism/
+    date: '2026-10-20T06:55:00.998518+00:00'
+    topics:
+    - history-of-the-interaction-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
