@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T06:31:21+00:00
+ai_modified: 2026-10-20T07:14:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:14 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/libet-experiments]]
+- **Source**: [[reviews/outer-review-2026-10-20-claude-opus-5-5]] §5, §6, recommendation (a)1
+- **Original score**: 7/10 (four verified source-fidelity defects; `scripts/curate.py` is absent, so no tool score)
+- **Length**: 3498 → 3497 (`analyze_length`, concepts hard 3500). Net −1.
+- **Changes**:
+  - (1) L61 Schurger: replaced the invented urge-probe description ("interrupting participants randomly and asking if they felt an urge… subjective urges correlated with neural fluctuation levels") with the real design and confirmed prediction: the task was interrupted at unpredictable moments, and fast responses were preceded by a slow negative-going deflection "beginning well before the interruption itself", even when the subject was not preparing to move at that moment. The paragraph's first two sentences ("spontaneous actions should take longer when initiated from lower baseline… This prediction was confirmed") were folded in. They restated the same interruption prediction but misattached it to spontaneous actions, and the abstract names only one confirmed prediction. No click detail and no urge-probe study were added (the full text is behind captcha; Parés-Pujolràs 2019 left out as unverified).
+  - (2) L65 Maoz: "RPs for arbitrary donation choices" → "RPs for arbitrary choices that did not affect the donation". Kept the verbatim "strikingly absent".
+  - (3) L161 Maoz: "found no RP" → "found the RP absent or strongly reduced". Same-file siblings: lead L37 "found it absent" → "found it absent or strongly reduced", and L183 "which the RP does not track" → "which the RP barely tracks".
+  - (4) L139–L143 illusionism: deleted "The illusionist cannot coherently claim to have *reasoned* to their position" and its string-sibling "Dennett's arguments… merely *seemed* like reasoning but weren't". Both made the same unscoped claim. Added a scope sentence: illusionism denies phenomenal properties, not reasoning, so the charge holds only granting phenomenal realism, which Frankish rejects; the disagreement sits at the framework boundary. This matches `concepts/illusionism` and `arguments/materialism-argument`. The L143 pronoun "avoids this" became "escapes the charge", since its antecedent had moved.
+  - Optional: L127 dropped "entirely" from "may sidestep decoherence entirely".
+- **Reasoning mode**: engagement with illusionism (Frankish/Dennett): Mode Three. The self-stultification charge needs phenomenal realism, which the illusionist denies, so it is marked as a framework boundary rather than as an in-framework refutation. The Map's commitment is held openly at L143. No debt-assignment clause was added because of the 1-word budget.
+- **Verification**: Schurger 2012 abstract retrieved as raw text from Europe PMC REST (PMID 22869750) and NCBI efetch (PMC3479453). The "Fast responses… beginning well before the interruption itself, even when the subject was not preparing to move at that particular moment" text is verbatim; the abstract contains no urge probe. PNAS and PMC full text are blocked by Cloudflare or captcha. Maoz 2019 full-text XML from Europe PMC (PMC6809608): "strikingly absent" ×1 (abstract), "both NPOs received an equal donation of $500, irrespective of subjects' key presses" ×1 (methods), and "absent, or at least significantly reduced, for deliberate decisions" ×1 (author impact statement). All grep-verified.
+- **Untouched by brief**: L91 (Schultze-Kraft), L185 (Filevich caveat)
+- **Published**: yes (synced to hugo; every edit confirmed in `hugo/content/concepts/libet-experiments.md`)
 
 ## 06:31 - literature-drift-review
 - **Status**: Success

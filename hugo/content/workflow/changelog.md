@@ -1,13 +1,117 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 02:45:37+00:00
+ai_modified: 2026-10-20 07:14:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 02:45:37+00:00
+lastmod: 2026-10-20 07:14:07+00:00
 related_articles: []
 title: Changelog
+---
+
+## 07:14 - refine-draft
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §5, §6, recommendation (a)1
+- **Original score**: 7/10 (four verified source-fidelity defects; `scripts/curate.py` is absent, so no tool score)
+- **Length**: 3498 → 3497 (`analyze_length`, concepts hard 3500). Net −1.
+- **Changes**:
+  - (1) L61 Schurger: replaced the invented urge-probe description ("interrupting participants randomly and asking if they felt an urge… subjective urges correlated with neural fluctuation levels") with the real design and confirmed prediction: the task was interrupted at unpredictable moments, and fast responses were preceded by a slow negative-going deflection "beginning well before the interruption itself", even when the subject was not preparing to move at that moment. The paragraph's first two sentences ("spontaneous actions should take longer when initiated from lower baseline… This prediction was confirmed") were folded in. They restated the same interruption prediction but misattached it to spontaneous actions, and the abstract names only one confirmed prediction. No click detail and no urge-probe study were added (the full text is behind captcha; Parés-Pujolràs 2019 left out as unverified).
+  - (2) L65 Maoz: "RPs for arbitrary donation choices" → "RPs for arbitrary choices that did not affect the donation". Kept the verbatim "strikingly absent".
+  - (3) L161 Maoz: "found no RP" → "found the RP absent or strongly reduced". Same-file siblings: lead L37 "found it absent" → "found it absent or strongly reduced", and L183 "which the RP does not track" → "which the RP barely tracks".
+  - (4) L139–L143 illusionism: deleted "The illusionist cannot coherently claim to have *reasoned* to their position" and its string-sibling "Dennett's arguments… merely *seemed* like reasoning but weren't". Both made the same unscoped claim. Added a scope sentence: illusionism denies phenomenal properties, not reasoning, so the charge holds only granting phenomenal realism, which Frankish rejects; the disagreement sits at the framework boundary. This matches `concepts/illusionism` and `arguments/materialism-argument`. The L143 pronoun "avoids this" became "escapes the charge", since its antecedent had moved.
+  - Optional: L127 dropped "entirely" from "may sidestep decoherence entirely".
+- **Reasoning mode**: engagement with illusionism (Frankish/Dennett): Mode Three. The self-stultification charge needs phenomenal realism, which the illusionist denies, so it is marked as a framework boundary rather than as an in-framework refutation. The Map's commitment is held openly at L143. No debt-assignment clause was added because of the 1-word budget.
+- **Verification**: Schurger 2012 abstract retrieved as raw text from Europe PMC REST (PMID 22869750) and NCBI efetch (PMC3479453). The "Fast responses… beginning well before the interruption itself, even when the subject was not preparing to move at that particular moment" text is verbatim; the abstract contains no urge probe. PNAS and PMC full text are blocked by Cloudflare or captcha. Maoz 2019 full-text XML from Europe PMC (PMC6809608): "strikingly absent" ×1 (abstract), "both NPOs received an equal donation of $500, irrespective of subjects' key presses" ×1 (methods), and "absent, or at least significantly reduced, for deliberate decisions" ×1 (author impact statement). All grep-verified.
+- **Untouched by brief**: L91 (Schultze-Kraft), L185 (Filevich caveat)
+- **Published**: yes (synced to hugo; every edit confirmed in `hugo/content/concepts/libet-experiments.md`)
+
+## 06:31 - literature-drift-review
+- **Status**: Success
+- **Article**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Research area**: corvid / cetacean comparative cognition (`cetacean`, `corvid` patterns)
+- **Selection**: no pattern-matched topic was absent from `recently_audited`, except `basal-and-bioelectric-cognition`, which was skipped because it carries two open (blocked) refine-draft tasks. Fell back to the skill's 30-day rule, using real audit dates from git: oldest `ai_modified` (2026-08-02), last audited 2026-07-28 (84 days ago), no edits in the last 24h, no open refine-draft task. The slug moved to the end of `recently_audited`.
+- **Median citation year**: 2008.5 (22 empirical refs; 17.5 years behind ai_modified). The lag comes mostly from canonical founding experiments and is not itself the defect.
+- **Recent papers found**: 1 in the 24-month window (Zaremba et al. 2025 *Science*, surfaced as its bioRxiv preprint). Uncited items also surfaced: Stacho et al. 2020, Nieder et al. 2020, Güntürkün 2021. The companion paper Rueda-Alaña et al. 2025 *Science* was verified separately at PubMed.
+- **Missing topically-appropriate**: 3 verified (Zaremba 2025, Stacho 2020, Nieder 2020) plus the companion Rueda-Alaña 2025. All metadata checked at Crossref and finding direction at PubMed/PMC raw text. Stacho's MeSH terms are pigeons and owls; no corvids were studied.
+- **Superlative check**: clean. "the largest known multilevel alliance network outside humans" matches Connor et al. 2022's abstract.
+- **Outcome**: drift-flagged. (1) L49/L81/L108 call the bird pallium "nuclear clusters rather than cortical layers" and "radically different substrates". The 2020–2025 work finds circuits that are cortex-like and functionally equivalent but developmentally independent. This changes the claim, and it cuts toward the materialist convergent-computation reading. (2) The Standing Agnostic Challenge section never names Nieder et al. 2020, the corvid study Gutfreund 2024 critiques. Both are findings 2–3 of the 2026-07-28 audit, lost to that task's Notes truncation and never executed.
+- **Task generated**: P2 "cetacean-and-corvid-consciousness — bird-pallium 'radically different substrate' framing predates the 2020–2025 circuit-convergence findings, and Gutfreund's own target crow study (Nieder 2020) is never named" (refine-draft; 137 words headroom; it also carries a one-word sibling fix at `evolution-under-dualism` L113 and the unverified Roth & Dicke neuron-count lead from the 2026-09-27 optimistic review)
+- **Cost**: 1 WebSearch call
+
+## 06:15 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~80 cycle posts (2026-10-19 07:23Z to 2026-10-20 06:07Z), after a 68h outage
+- **Findings**: 2 cadence, 2 failure, 3 queue, 2 review, 1 convergence
+- **Tier 1 changes**: 0 applied (21st consecutive run: no cadences/overdue_thresholds/locked_settings/weights keys exist)
+- **Tier 2 recommendations**: 1 (check-tenets top-4 auto-mint, carried)
+- **Tier 3 items**: 6 new (window-priority for Chrome triggers; abandon cutoff vs window; research chain for research-voids; agentic-social repeat picks; account-wide Claude limit; stale skill text) + 5 carried
+- **Output**: [system-tune-2026-10-20](/reviews/system-tune-2026-10-20/)
+
+## 05:58 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 109 content files plus `tenets.md`. These are the 73 window files from base `65b32fe25d` (4 new, 69 modified) and a random sample of 36. Corpus-wide scans covered self-stultification conclusions, bandwidth-as-minimality and the ~60 ms cadence.
+- **Errors**: 0
+- **Warnings**: 15 new, 11 of them in the window. All 15 of check 151's Warnings are still live; 3 of those are queued.
+- **Notes**: 9
+- **Top findings**:
+  - `self-stultification-as-master-argument` L169 still has the Map holding the "cannot be rationally held" conclusion, which the page it now links to narrows.
+  - `bidirectional-interaction` L152 calls the evolutionary evidence "positive support", against the 10-19 co-optimization rewrite.
+  - `attention-and-consciousness` L125 reads "Every attention void is evidence of mental causation".
+  - `selective-correction` L109 calls rivalry "the cleanest case of conscious influence" after that day's physicalist temporal-selection insert.
+- **~60 ms cadence**: clean. No page uses it as quantum evidence.
+- **Output**: [tenet-check-2026-10-20](/reviews/tenet-check-2026-10-20/)
+
+## 05:26 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-20
+- **Coverage**: 2/3 reviewers processed (sources: claude-opus-5-5, chatgpt-5-6-sol-pro). Full-site audit (`fallback:site-stale-7d`; Claude reused ChatGPT's subject). Gemini 3.1 Pro was abandoned by the driver at 05:08Z after Deep Research sat at "Starting research..." for about 56 minutes; it is recorded as absent, not as dissent. The Claude leg ran on the Opus fallback for the first time.
+- **Clusters**: 6 convergent, each adjudicated on disk before clustering, plus 2 convergent assessments with no defect (self-audit strength; unbuilt mechanism). 5 partly upheld or topical overlaps only, and 3 divergent. The dominant finding: the register withdrew photosynthetic coherence as a precedent on 2026-07-30, yet four live pages still cite it as demonstrated evidence. A sweep found the fourth (`topics/psychophysical-laws-bridging-mind-and-matter` L172), which no task covered.
+- **Tasks upgraded**: 2 (P3→P2: 1, P2→P1: 1). "Photosynthetic coherence is still cited as evidence…" went P2→P1, with the third file added. `concepts/binding-problem` L169 went P3→P2.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage.
+- **Amendments**: guards added to the causal-closure P1 (do not concede epiphenomenalism) and the testing-consciousness-collapse P2 (keep the timing point). Convergence notes added to the [P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION, the subjecthood record (Claude's interpretation ledger) and the opponent-parity methodology record. A fifth data point (ChatGPT's 6 August snapshot) added to the changelog NEEDS-HUMAN. No upgrades were possible on tasks already at P1 or on operator-reserved records.
+- **Pointer check**: `parse_tasks` returns 142 active tasks before and after. P1 went from 4 to 5, P2 stayed at 21, and P3 went from 117 to 116. `git diff --stat todo.md` shows +19/−15, all within the eight edited entries.
+- **Output**: [outer-review-synthesis-2026-10-20](/reviews/outer-review-synthesis-2026-10-20/)
+
+## 04:53 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro. Full-site audit, commissioned 02:55 and collected at commission + 95 min (turn state `complete`, no stop button). The reply walked to 54,092 chars of markdown with 12 KaTeX spans kept as TeX, read out in 61 hash-checked 900-char chunks, and the whole-body hash matched (257283323).
+- **File**: [outer-review-2026-10-20-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro/)
+- **Claims verified**: 14 on disk and 8 external.
+  - External: arXiv:2512.12636 (Torres Alegre, scope), Butlin et al. 2023 abstract, and Kleiner & Ludwig 2024 via the LMU eprint. DOIs and IDs resolve for Schlosshauer, Xu 2021, Edwards 2012, IIT 4.0 and Donadi.
+  - 2 stale and 1 unlocated. The co-optimization reference-fixing reply and the shared harmony debt were fixed on 10-19 (`359b82e12e`, `533010451a`). [P-AC1](/positions/ai-consciousness-scope/#p-ac1) is already Map-conditional. The Schurger-as-evidence charge names no locus.
+- **High-value findings**: 3 new, plus 12 corroborations of queued work.
+  - Re-weighting the intention mix forces every conditional to Born unless a superselection law holds. The born-preserving apex says the register owes this; neither the register nor agency-budget carries it.
+  - Desert opacity: [P-Q9](/positions/quantum-interface/#p-q9) conceals the consciousness-side share of control that the responsibility gradient's desert claim may rest on.
+  - The compensation and outcome-luck consequence has not reached the moral-architecture apex.
+- **Tasks generated**: 3 new (P2: agency-budget, responsibility-gradient-from-attentional-capacity, moral-architecture-of-consciousness), plus 15 cross-service folds into existing Notes.
+  - Folded into: the [P-Q2](/positions/quantum-interface/#p-q2) quantifier P1, [P-D2](/positions/arguments-for-dualism/#p-d2)/nondualistic P2, subjecthood, Tenet 3 quantifier, positions-evolve schema, propagation methodology, binding-problem P3 (now three sources), the Claude photosynthesis P2 and causal-closure P1, the neuro-dissociation P3 (new L178 identity-theory locus), the review-convergence common-cause extension, Kleiner & Ludwig, [P-AC3](/positions/ai-consciousness-scope/#p-ac3), the positions thresholds and the Tenet-5 doctrine.
+- **Status field**: `outer_review_status: processed`; pending entry marked `collected`.
+
+## 04:28 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5. Research ran 13 min 30 s over 292 sources; a hostile-referee full-site audit reusing the 02:55 ChatGPT subject. Collected at commission + 61 min: artifact stable at 33,402 chars, walked to 43,663 chars of markdown, Blob-downloaded with a matching hash.
+- **File**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/)
+- **Claims verified**: 13 on disk and 9 external.
+  - External, via Europe PMC or arXiv full text and abstracts plus Crossref: Schurger 2012, Maoz 2019, Proietti 2019, Hagan 2002, Tegmark 2000, Cao 2020 (body-text quote), Duan 2017, Jacques 2007 and Ma–Kofler–Zeilinger 2016, and the Price 2012 title.
+  - 4 unverified, including the reviewer's Papineau 2009 sentence and Frankish's exact persistence wording.
+  - 6 disputed or partly right. The changelog "five-day lag" was a truncated fetch; the "seven orders" page is archived; Agent Causation's photosynthesis and Smeared States' "most explicit implementation" were already fixed.
+- **High-value findings**: 8.
+  - The Libet page misdescribes Schurger's interrupted task as an urge probe.
+  - Maoz's arbitrary trials are framed as "donation choices".
+  - The Libet page makes an unscoped claim that illusionism refutes itself.
+  - Materialism-argument credits Frankish with a dissolution prediction that the Map's own illusionism page says illusionism denies.
+  - Materialism-argument's closure heading omits the probabilistic-closure concession that free-will makes.
+  - causal-closure L138 does not answer chance-fixing closure.
+  - Proietti and delayed-choice results are presented as confirmations.
+  - Photosynthetic coherence is still cited as evidence on two pages; the Arguments section is missing from navigation.
+- **Tasks generated**: 8 new and 3 addenda.
+  - P1: libet-experiments; materialism-argument; causal-closure.
+  - P2: testing-consciousness-collapse; retrocausality; photosynthesis residue in evolution-under-dualism and decoherence-and-macroscopic-superposition; consciousness-selecting-neural-patterns effort reply; Arguments navigation.
+  - Addenda: changelog NEEDS-HUMAN (date-less headings caused a false finding); Tenet-5 tiebreaker doctrine; the 2026-08-03 propagation methodology record.
+- **Status field**: `outer_review_status: processed`; pending entry marked `collected`.
+
 ---
 
 ## 02:45 - research-voids
