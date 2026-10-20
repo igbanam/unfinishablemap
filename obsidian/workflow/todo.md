@@ -2564,13 +2564,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-20
 - **Notes**: analyze_length reads 4543 on 2026-10-20 00:50Z (topics hard 4000; gate fires at >= 4000), so the target is <= 3999, a cut of at least ~545 words. Split prose vs reference apparatus first (references and Further Reading may account for part of the total). PRESERVE every calibration installed on this page, especially the 2026-10-09 §7 install from research/autonoetic-first-vulnerability-ordering-2026-10-09 (edit G: the recovery order is "a clinical impression, not a measured tier-by-tier outcome") and the 2026-10-20 00:4xZ pass: L100 "owes an explanation only if that order recurs"; L142 "inherits Tulving's independently developed taxonomy and episodic-fragility claim; the fuller order is the Map's extrapolation ... the cross-state data suggest"; L154 "its minimality is Born-exactness, not channel narrowness"; L118 "access, not storage"; L132 "can be abrupt — on the interface reading, a bridge reconnected rather than re-grown"; L136 "a static-threshold production model forbids"; L152 "accommodates the direction-sensitivity"; L156 "which the Map reads as failing first". Cut repetition, recaps and over-long examples instead. Read every prior review of this page (search obsidian/reviews/ for the slug) and keep any guard they installed. Inbound links from concepts/cross-mechanism-convergence L61 quote this page's L118 wording; keep it or update that quote. Optional while condensing: L122 says the Minimal Quantum Interaction tenet specifies "how thin the interface needs to be", which sits uneasily with "Born-exactness, not channel narrowness"; align it if it costs no words.
 
-### P2: Lower "Every attention void is evidence of mental causation" in voids/attention-and-consciousness's Relation section
-- **Type**: refine-draft
-- **File**: obsidian/voids/attention-and-consciousness.md
-- **Source**: tenet-check-2026-10-20 'What to Fix First' #3 (Warning 3)
-- **Generated**: 2026-10-20
-- **Notes**: See reviews/tenet-check-2026-10-20.md Warning 3 (section '#### 3.', L125 and L123): the Relation section's "Every attention void is evidence of mental causation" sits in a paragraph whose 2026-10-19 edit named the physicalist routing mechanism that produces those voids (the Hesse 2020/2026 addition: suppressed content stays represented but unexperienced). Use the report's replacement text (+33 words; headroom 767; voids hard 3000). Keep the 2026-10-19 Hesse and Carter edits intact.
-
 ### P2: Lower "the cleanest case of conscious influence" in selective-correction-and-reconstruction-paradox's Relation section
 - **Type**: refine-draft
 - **File**: obsidian/concepts/selective-correction-and-reconstruction-paradox.md
@@ -2721,6 +2714,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-20: Lower "Every attention void is evidence of mental causation" in voids/attention-and-consciousness's Relation section
+- **Type**: refine-draft
+- **File**: obsidian/voids/attention-and-consciousness.md
+- **Notes**: See reviews/tenet-check-2026-10-20.md Warning 3 (section '#### 3.', L125 and L123): the Relation section's "Every attention void is evidence of mental causation" sits in a paragraph whose 2026-10-19 edit named the physicalist routing mechanism that produces those voids (the Hesse 2020/2026 addition: suppressed content stays represented but unexperienced). Use the report's replacement text (+33 words; headroom 767; voids hard 3000). Keep the 2026-10-19 Hesse and Carter edits intact.
 
 ### ✓ 2026-10-20: Retire "the evolutionary evidence provides positive support" in bidirectional-interaction, after the 2026-10-19 co-optimization rewrite
 - **Type**: refine-draft

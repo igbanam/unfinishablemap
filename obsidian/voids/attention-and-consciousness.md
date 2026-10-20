@@ -2,9 +2,9 @@
 title: "Attention and the Voids of Consciousness"
 description: "Attending generates unattendable territory as a structural necessity. Disordered attention creates epistemological voids that may be permanently unmappable."
 created: 2026-01-29
-modified: 2026-10-19
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-19T09:41:16+00:00
+ai_modified: 2026-10-20T15:23:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,9 +120,9 @@ On the Map's [[medium-status-voids-in-cognition|medium-status voids cluster]], a
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** receives support from both directions. Neural mechanisms explain *how* attention creates voids — lateral inhibition, biased competition, executive gating, and the downstream routing that physicalists invoke for suppressed content that stays represented but unexperienced. Such mechanisms do not explain *why* there is something it is like to have content excluded from awareness. The suppressive dark has phenomenal character. And the disorder-based void is itself a *consequence* of dualism: precisely because consciousness is distinct from its interface, the question of how to access consciousness through a faulty interface becomes pressing. A materialist who identifies consciousness with attention faces no such question — and thereby misses the epistemological depth.
+**[[tenets#^dualism|Dualism]]** is engaged from both directions, as coherence rather than support. Neural mechanisms explain *how* attention creates voids — lateral inhibition, biased competition, executive gating, and the downstream routing that physicalists invoke for suppressed content that stays represented but unexperienced. Such mechanisms do not explain *why* there is something it is like to have content excluded from awareness. The suppressive dark has phenomenal character. And the disorder-based void is itself a *consequence* of dualism: precisely because consciousness is distinct from its interface, the question of how to access consciousness through a faulty interface becomes pressing. A materialist who identifies consciousness with attention faces no such question — and thereby misses the epistemological depth.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains support from voluntary attention. We *choose* what to attend to (at least partially). This choice produces the void — consciousness directing physical processing toward some targets necessarily directs it away from others. Every attention void is evidence of mental causation. When attention is disordered, the range and reliability of conscious action are restricted without being eliminated — though we cannot determine how *much* restriction any given disorder imposes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is engaged by voluntary attention. We *choose* what to attend to (at least partially). This choice produces the void — consciousness directing physical processing toward some targets necessarily directs it away from others. On the Map's reading every attention void is mental causation at work; the biased-competition and gating mechanisms named above yield the same voids on a physicalist account, so the voids fit the tenet without evidencing it. When attention is disordered, the range and reliability of conscious action are restricted without being eliminated — though we cannot determine how *much* restriction any given disorder imposes.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly implicated. Attention voids suggest consciousness is structured by mechanisms that systematically hide aspects of reality. Our preference for simple theories may reflect what survives the attentional filter — not what is real but what is attendable. And the simple account of attention disorders ("just brain dysfunction") obscures the epistemological void at the centre: what appears to be a straightforward neurological explanation dissolves under closer inspection into a tangle of indistinguishable possibilities.
 

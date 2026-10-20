@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T15:09:22+00:00
+ai_modified: 2026-10-20T15:24:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:24 - refine-draft
+- **Status**: Success
+- **File**: [[voids/attention-and-consciousness]]
+- **Source**: tenet-check 2026-10-20, Warning 3 (`reviews/tenet-check-2026-10-20.md` §"#### 3."). Refine 7d39202d99 (10-19) added the physicalist routing account (suppressed content that stays represented but unexperienced) to L123 and left both Relation-section "support" verdicts. On a physicalist account the same mechanisms produce every attention void, so "Every attention void is evidence of mental causation" (L125) claimed more than the page can back.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes** (the report's exact replacements, pulled from the review file by script; each OLD string matched exactly once):
+  - L123: "**[[tenets#^dualism|Dualism]]** receives support from both directions." → "... is engaged from both directions, as coherence rather than support." (+5)
+  - L125 opening: "gains support from voluntary attention." → "is engaged by voluntary attention." (0)
+  - L125: "Every attention void is evidence of mental causation." → "On the Map's reading every attention void is mental causation at work; the biased-competition and gating mechanisms named above yield the same voids on a physicalist account, so the voids fit the tenet without evidencing it." (+28)
+  - Antecedent check passed with no adjustment. L123 names "biased competition" and "executive gating" (the gating grep also hit "investigating" at L137, which is not a real match). Both are on the page above L125.
+  - Pronoun check: in L123, "Such mechanisms" still refers to "Neural mechanisms". In L125, "This choice" still refers to "We *choose*", and the new "it" refers to "the tenet". The next sentence ("When attention is disordered") has no pronoun.
+  - The 2026-10-19 Hesse edits (L67 and the L123 routing clause) are untouched. The page has no Carter text: 0 hits, against a positive control of 3 Hesse hits.
+  - Frontmatter: `modified` 2026-10-20; `ai_modified` set from `date -u`; `ai_system` unchanged (it already contains `claude-opus-5-5`).
+- **Calibration**: no concession to epiphenomenalism. Only the evidential claim is weakened; the Map's reading ("mental causation at work") is kept. This matches `concepts/bidirectional-interaction` L152 as rewritten today ("fits the tenet without discriminating it").
+- **Length**: `analyze_length` 2232 → 2265 (+33). The voids hard limit is 3000, so 734 words of headroom remain.
+- **Reasoning mode**: engagement with the physicalist account of attention voids is Mode Three at both L123 and L125. The page marks the voids, and the hard-problem residue, as fitting the tenet and the physicalist account alike, and does not claim to refute physicalism within its own framework.
+- **Published**: yes (synced)
 
 ## 15:09 - refine-draft
 - **Status**: Success
