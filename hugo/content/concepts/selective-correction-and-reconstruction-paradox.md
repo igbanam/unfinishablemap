@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-10-19 14:41:45+00:00
+ai_modified: 2026-10-20 15:40:23+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-12
-date: &id001 2026-10-19
+date: &id001 2026-10-20
 description: The brain handles sensory signals in three modes—silent correction, faithful
   transmission, and conscious selection under ambiguity—an architecture that reformulates
   the hard problem at the perceptual level.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 12:42:40+00:00
-lastmod: 2026-10-19 14:41:45+00:00
+lastmod: 2026-10-20 15:40:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,9 +110,9 @@ Cognitive impenetrability is closely related to [phenomenal transparency](/conce
 
 **[Dualism](/tenets/#dualism)**: The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) interprets the three-mode architecture as evidence about the structure of the mind-body interface. If consciousness is not reducible to neural processing, then the brain's mode-switching describes how two ontologically distinct domains exchange information. Autonomous correction represents the brain's editorial layer. Faithful transmission is where sensory reality crosses to consciousness with minimal mediation. Selection under ambiguity is where the interface becomes bidirectional within a single perceptual event.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness receives information from the brain through the curated feed but cannot penetrate back into modular processing synchronically — in real time, through the same channels. Its causal influence operates at a different level — potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation. This accounts for why consciousness can know an illusion is false without being able to correct the experience. Bistable rivalry provides the cleanest case of conscious influence: the meditation findings indicate that the degree of conscious influence on perception is not fixed but trainable. The [attention as interface](/concepts/attention-as-interface/) hypothesis connects this to precision weighting: attention may be the mechanism through which consciousness exerts both its slow, cumulative influence on perceptual modules and its faster influence on selection under ambiguity.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness receives information from the brain through the curated feed but cannot penetrate back into modular processing synchronically — in real time, through the same channels. Its causal influence operates at a different level — potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation. This accounts for why consciousness can know an illusion is false without being able to correct the experience. On the Map's reading bistable rivalry is the cleanest case of conscious influence, and the meditation findings suggest that influence is trainable; attention's top-down biasing and the temporal-selection account above explain both physically, so the case fits the tenet without evidencing it. The [attention as interface](/concepts/attention-as-interface/) hypothesis connects this to precision weighting: attention may be the mechanism through which consciousness exerts both its slow, cumulative influence on perceptual modules and its faster influence on selection under ambiguity.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The channels run in both directions but with different bandwidth and different access points. Perceptual reconstruction selection may be quantum-level selection operating at the macroscopic level of competing perceptual hypotheses, where underlying quantum indeterminacies are amplified through the brain's hierarchical predictive architecture into perceptually distinct outcomes. This is speculative — the link between quantum-level selection and perceptual-level alternation remains unestablished — but the structure is suggestive.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The channels run in both directions with different access points; the tenet's minimality is fixed by its Rules-out clause, not bandwidth. Perceptual reconstruction selection may be quantum-level selection operating at the macroscopic level of competing perceptual hypotheses, where underlying quantum indeterminacies are amplified through the brain's hierarchical predictive architecture into perceptually distinct outcomes. This is speculative — the link between quantum-level selection and perceptual-level alternation remains unestablished — and the fit is structural, not evidential.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The [filter theory](/concepts/filter-theory/) of consciousness offers a complementary lens. If the brain partially filters rather than generates consciousness, the three-mode architecture describes the filter's operation: autonomous correction is the filter at work, editing signals before they reach the conscious subject; faithful transmission is where the filter steps aside; selection under ambiguity is where the filter alternates between candidates. The simplest computational account — three processing modes — omits the most distinctive datum: the qualitative experiential difference between receiving an edited feed, receiving raw signal, and watching a percept settle. If [cognitive closure](/concepts/mysterianism/) marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
 

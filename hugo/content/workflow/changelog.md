@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 15:24:10+00:00
+ai_modified: 2026-10-20 15:39:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 15:24:10+00:00
+lastmod: 2026-10-20 15:39:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:39 - refine-draft
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Source**: tenet-check 2026-10-20, Warning 4 (`reviews/tenet-check-2026-10-20.md` §"#### 4."). The Relation section still called rivalry "the cleanest case of conscious influence". Two 2026-10-19 refines never reached it: 7eb80c6b42 put Hesse et al. 2026 at L65 and L73, and 6153be7790 corrected Carter 2005 at L67.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes** (the report's exact replacements, pulled from the review file by script; each OLD string matched exactly once):
+  - L109: "Bistable rivalry provides the cleanest case of conscious influence: the meditation findings indicate that the degree of conscious influence on perception is not fixed but trainable." → "On the Map's reading bistable rivalry is the cleanest case of conscious influence, and the meditation findings suggest that influence is trainable; attention's top-down biasing and the temporal-selection account above explain both physically, so the case fits the tenet without evidencing it." (+16 by whitespace split; the report says +15)
+  - L111: "The channels run in both directions but with different bandwidth and different access points." → "The channels run in both directions with different access points; the tenet's minimality is its Rules-out clause, not bandwidth." (+5)
+  - Antecedent check: "the temporal-selection account above" points to L65 ("is a physicalist account of exactly this step as temporal selection", 1 hit). This is the only "temporal selection" phrase on the page.
+  - Rules-out check: tenets.md L69 says Tenet 2's minimality is "fixed by the Rules-out clause below", and L85 is that clause. The new L111 wording compresses "is fixed by" to "is", which is accurate in substance.
+  - Pronoun check: "both" refers to rivalry's conscious influence and its trainability. "it" refers to "the tenet". The next sentence's "this" still means conscious influence on rivalry, as its colon gloss shows. In L111, "the tenet's"/"its" refer to Tenet 2, and "This is speculative" still refers to the quantum-selection proposal.
+  - Left as instructed: L111's "but the structure is suggestive" (1 hit).
+  - The 2026-10-19 edits are intact, at 1 hit each: the L65 Hesse sentence, L67 "Half the Tibetan Buddhist monks…", and the L73 "(Hesse et al., 2026)" and "states lasting about 60 ms".
+  - Frontmatter: `modified` 2026-10-20; `ai_modified` set from `date -u`; `ai_system` unchanged (it already contains `claude-opus-5-5`).
+- **Calibration**: no concession to epiphenomenalism. "On the Map's reading" keeps the tenet's claim; only the evidential claim is weakened. This matches today's sibling fixes: `voids/attention-and-consciousness` L125 ("fit the tenet without evidencing it") and `concepts/bidirectional-interaction` L152 ("fits the tenet without discriminating it").
+- **Length**: `analyze_length` 3074 → 3095 (+21). The concepts hard limit is 3500, so 404 words of headroom remain.
+- **Reasoning mode**: engagement with the physicalist temporal-selection / top-down-attention account is Mode Three at L109. The page marks the rivalry case as fitting the tenet and the physicalist account alike, and does not refute the rival inside its own framework. L111 is a calibration correction, not an opponent reply.
+- **Published**: yes (synced)
 
 ## 15:24 - refine-draft
 - **Status**: Success
