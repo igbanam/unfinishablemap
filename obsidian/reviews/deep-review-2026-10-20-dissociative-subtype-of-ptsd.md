@@ -3,7 +3,7 @@ title: "Deep Review - The Dissociative Subtype of PTSD and the Overmodulation Mo
 created: 2026-10-20
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T10:35:22+00:00
+ai_modified: 2026-10-20T10:55:29+00:00
 draft: false
 topics: []
 concepts: []
@@ -116,3 +116,28 @@ Every DOI was resolved at Crossref. Abstracts for 24 papers were fetched raw fro
 - The rival's circuitry failures give the Map nothing ("messier, not absent"). Do not re-flag this as under-crediting the Map.
 - The physicalist complaint that the bare-Dualism residue is an appeal to the explanatory gap is a framework-boundary disagreement, not a defect.
 - The Shaw 2023 quotation is flagged as preprint wording. Re-verify it against the published abstract if one becomes retrievable, but it is not a defect.
+
+## Cross-review (integration), 2026-10-20 ~10:55Z
+
+Integration-only pass, run as the expand-topic chain successor. The content fixes above were not reopened, and no second citation pass was run. The three co-optation traps (L100–102) and the verdict ("tips it against the Map"; "messier, not absent"; bare Dualism untouched) were re-read and are intact. The page body is unchanged, so `ai_modified` and `last_deep_review` keep their 10:33Z values.
+
+**Inbound links (before → after: 2 → 3)**
+
+- Existing, `[[concepts/depersonalisation]]` L57, anchor "post-traumatic numbing" (3,498 / 3,500, link-only). It matches page L80, which locates the numbing point in this field. It is not cited as Map support. Untouched.
+- Existing, `[[topics/clinical-dissociation-as-systematic-evidence]]` L147, anchor "an affective-salience physicalism" (4,688, over the 4,000 hard threshold, link-only). It points at the rival account. Untouched. A lead is noted below.
+- **Installed**, `[[concepts/metacognitive-access-versus-retention]]` L131: `[[dissociative-subtype-of-ptsd#the-hippocampal-question|not shown to be specific to DID]]` (3,216 → 3,216, +0). The host sentence already states the PTSD confound on Dimitrova 2023, and it is the confound that the page's Hippocampal Question section develops ("That rung stands; its specificity does not"). The link carries a specificity *caveat*, not support for the Map. Spot-check of the host's dependency: Dimitrova 2023 at PubMed (PMID 34165068) has "32 with DID and 43 matched healthy controls". 29 co-morbid plus 3 remitted equals 32, so the host's "Every patient… current or remitted PTSD" holds. The slug-dialect anchor was used because `count_words` splits on whitespace, and the heading-text form would add 2 words.
+
+**Candidates rejected**
+
+- `concepts/mine-ness` (3,499 / 3,500): no trauma, PTSD or subtype text. Its depersonalisation and Knappik passages (L72, L92) concern *what* comes apart, which page L82 leaves untouched.
+- `topics/conversion-disorder-as-consciousness-side-fault` (3,814): the only dissociation passage (L115) is about FND comorbidity rates. The coupling-not-disconnection point is the page's own outbound link (L102) and has no host text there.
+- `project/architecture-vs-significance-two-tier-discount` (3,612, over hard): its depersonalisation text (L41, L67) concerns mine-ness separability, not the subtype.
+- `topics/clinical-dissociation-as-systematic-evidence` L88 (the Sierra–Berrios corticolimbic model): DPDR-specific, and the flagship already links the page at L147.
+- `concepts/depersonalisation` L55 (Sierra–Berrios): excluded by the brief (touch only L57).
+- `topics/clinical-phenomenology-and-altered-experience` (3,711): its depersonalisation section (L105) has no trauma content.
+- `topics/phenomenology-of-forgetting` L79/L131 and `concepts/mental-imagery` L65: the PTSD mentions concern memory suppression and flashbacks, not the dissociative subtype.
+- `project/evidential-status-discipline` L283: about the flagship's DID atrophy claim, not the subtype.
+
+**Outbound / Further Reading.** Every inbound host (depersonalisation, the flagship, metacognitive) is already linked from the page's body and Further Reading, so no reciprocal is missing and the page was not edited.
+
+**Lead (not actioned).** The flagship L147's closing clause, "which framework earns it the clinical data do not settle", now understates this page for depersonalisation and derealisation, where the subtype literature tips the point to the rival. The clause is accurate only for amnesia and DID, which are not examined here. The host is over its hard threshold, so any rescoping must be length-neutral (a refine-draft clause swap). It must also respect this page's calibration: scope the open choice to amnesia and DID, and do not restate it as settled for the Map.

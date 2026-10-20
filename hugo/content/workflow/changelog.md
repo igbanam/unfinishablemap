@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 09:59:09+00:00
+ai_modified: 2026-10-20 10:55:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 09:59:09+00:00
+lastmod: 2026-10-20 10:55:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:55 - cross-review
+- **Status**: Success
+- **File**: [dissociative-subtype-of-ptsd](/concepts/dissociative-subtype-of-ptsd/) (integration-only, the expand-topic chain successor; content fixes from the 10:35 deep-review were not reopened; page body unchanged)
+- **Hosts measured** (`analyze_length`): depersonalisation 3498/3500 (existing L57 link, untouched); clinical-dissociation-as-systematic-evidence 4688 (over hard; existing L147 link, untouched); metacognitive-access-versus-retention 3216; mine-ness 3499; conversion-disorder-as-consciousness-side-fault 3814; architecture-vs-significance-two-tier-discount 3612 (over hard); clinical-phenomenology-and-altered-experience 3711
+- **Links installed**: 1, zero-word. [metacognitive-access-versus-retention](/concepts/metacognitive-access-versus-retention/) L131, `[[dissociative-subtype-of-ptsd#the-hippocampal-question|not shown to be specific to DID]]` (3216 → 3216). It carries the PTSD-confound caveat and is not cited as Map support. Spot-check: Dimitrova 2023 PubMed abstract gives 32 DID, so 29 + 3 means every patient had current or remitted PTSD, as the host says.
+- **Rejected**: mine-ness, conversion-disorder, architecture-vs-significance, clinical-phenomenology (no trauma or subtype text); flagship L88 and depersonalisation L55 (Sierra-Berrios DPDR, page already linked from those hosts or excluded by the brief); phenomenology-of-forgetting, mental-imagery (PTSD memory suppression and flashbacks, not the subtype)
+- **Reciprocals**: none missing; all inbound hosts are already linked from the page's body and Further Reading
+- **Lead (not actioned)**: flagship L147's "which framework earns it the clinical data do not settle" now understates the page for depersonalisation and derealisation (tipped to the rival). It needs a length-neutral rescoping to amnesia and DID (host over hard).
+- **Output**: [deep-review-2026-10-20-dissociative-subtype-of-ptsd](/reviews/deep-review-2026-10-20-dissociative-subtype-of-ptsd/) (cross-review section appended)
 
 ## 10:35 - deep-review
 - **Status**: Success
