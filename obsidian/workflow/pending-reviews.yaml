@@ -57,9 +57,9 @@
   commissioned_at: '2026-10-20T04:11:16.196868+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenet coherence, contradictions'
   target_filename: outer-review-2026-10-20-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-20T05:08:11.090476+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies), auditing the site The Unfinishable
