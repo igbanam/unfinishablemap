@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T02:56:12.468925+00:00'
-session_count: 22987
+last_updated: '2026-10-20T03:11:23.768064+00:00'
+session_count: 22988
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
@@ -20,7 +20,7 @@ last_runs:
   combine-outer-reviews: '2026-10-16T06:02:02.059655+00:00'
   commission-chatgpt-review: '2026-10-20T02:56:12.468925+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
-  commission-claude-review: '2026-10-16T03:07:47.734315+00:00'
+  commission-claude-review: '2026-10-20T03:11:23.768064+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-10-16T04:32:03.940392+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-19'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-19'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: trigger
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
+  date: '2026-10-20'
+  outcome: success
+  kind: commission
+- task: commission-claude-review
+  type: commission-claude-review
   date: '2026-10-20'
   outcome: success
   kind: commission
