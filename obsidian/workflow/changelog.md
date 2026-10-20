@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T13:42:44+00:00
+ai_modified: 2026-10-20T14:00:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Source**: outer review 2026-10-20 (ChatGPT 5.6 Sol Pro full-site audit), §2.5 "desert-opacity problem" and improvement 23. On the Map, desert that depends on the consciousness-side contribution is publicly underdetermined, which goes further than saying responsibility is hard to assess. No page connected P-Q9 concealment to responsibility.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - New paragraph after the L146 measurability reply separates *capacity* (what the proxies measure and the gradient grades; a physical duplicate shares it) from *exercise* (how much of that capacity consciousness contributed on the occasion). It cites P-Q9 as the Map's model (`[[positions/quantum-interface#^p-q9|P-Q9]]`, rendering to `/positions/quantum-interface/#p-q9`) and scopes it: P-Q9's residue channels test ensemble statistics or mechanism, not one agent's contribution to one act.
+  - Which reading the page rests on was decided from its own text. The grade rests on capacity: L61 says "The gradient concerns capacity" and does not excuse a lapse when capacity is intact, L85 says "Desert scales with this effective capacity", and L148/L152 concede the physicalist runs the same gradient. The cost is now stated: public assessability is bought by grading what a duplicate shares. The L140 surplus ("a weight of desert that deterministic frameworks cannot ground") rests on exercise. That surplus alone is publicly underdetermined on any occasion, and the Strawsonian practice the page borrows at L144 tracks perceived capacity, so blame and law can apply the grade but cannot check that desert case by case.
+  - Frontmatter: `modified` 2026-10-20, `ai_modified` refreshed. `ai_system` already held claude-opus-5-5.
+- **Calibration**: no wording says "in principle undetectable". The opacity is limited to the exercise reading and to one occasion, and P-Q9's open residue channels are acknowledged. The agency-budget L79 line ("no publicly conditioned test can witness it") was deliberately not used, because it reads stronger than P-Q9's conditional-statistical channel. P-Q2's 10-14 reading is not adopted.
+- **Length**: `analyze_length` 3077 → 3195 (+118). Topics hard limit is 4000, leaving 805 words of headroom.
+- **Reasoning mode**: n/a (anonymous measurability objection; no named opponent).
+- **Published**: yes (synced; the paragraph and its three links, `#stability`, `/positions/quantum-interface/#p-q9` and `#against-binary-responsibility`, are present in `hugo/content/topics/responsibility-gradient-from-attentional-capacity.md`)
 
 ## 13:42 - refine-draft
 - **Status**: Success

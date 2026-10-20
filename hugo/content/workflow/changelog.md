@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 13:25:36+00:00
+ai_modified: 2026-10-20 14:00:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 13:25:36+00:00
+lastmod: 2026-10-20 14:00:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:00 - refine-draft
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Source**: outer review 2026-10-20 (ChatGPT 5.6 Sol Pro full-site audit), §2.5 "desert-opacity problem" and improvement 23. On the Map, desert that depends on the consciousness-side contribution is publicly underdetermined, which goes further than saying responsibility is hard to assess. No page connected [P-Q9](/positions/quantum-interface/#p-q9) concealment to responsibility.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - New paragraph after the L146 measurability reply separates *capacity* (what the proxies measure and the gradient grades; a physical duplicate shares it) from *exercise* (how much of that capacity consciousness contributed on the occasion). It cites [P-Q9](/positions/quantum-interface/#p-q9) as the Map's model (`[[positions/quantum-interface#^p-q9|P-Q9]]`, rendering to `/positions/quantum-interface/#p-q9`) and scopes it: [P-Q9](/positions/quantum-interface/#p-q9)'s residue channels test ensemble statistics or mechanism, not one agent's contribution to one act.
+  - Which reading the page rests on was decided from its own text. The grade rests on capacity: L61 says "The gradient concerns capacity" and does not excuse a lapse when capacity is intact, L85 says "Desert scales with this effective capacity", and L148/L152 concede the physicalist runs the same gradient. The cost is now stated: public assessability is bought by grading what a duplicate shares. The L140 surplus ("a weight of desert that deterministic frameworks cannot ground") rests on exercise. That surplus alone is publicly underdetermined on any occasion, and the Strawsonian practice the page borrows at L144 tracks perceived capacity, so blame and law can apply the grade but cannot check that desert case by case.
+  - Frontmatter: `modified` 2026-10-20, `ai_modified` refreshed. `ai_system` already held claude-opus-5-5.
+- **Calibration**: no wording says "in principle undetectable". The opacity is limited to the exercise reading and to one occasion, and [P-Q9](/positions/quantum-interface/#p-q9)'s open residue channels are acknowledged. The agency-budget L79 line ("no publicly conditioned test can witness it") was deliberately not used, because it reads stronger than [P-Q9](/positions/quantum-interface/#p-q9)'s conditional-statistical channel. [P-Q2](/positions/quantum-interface/#p-q2)'s 10-14 reading is not adopted.
+- **Length**: `analyze_length` 3077 → 3195 (+118). Topics hard limit is 4000, leaving 805 words of headroom.
+- **Reasoning mode**: n/a (anonymous measurability objection; no named opponent).
+- **Published**: yes (synced; the paragraph and its three links, `#stability`, `/positions/quantum-interface/#p-q9` and `#against-binary-responsibility`, are present in `hugo/content/topics/responsibility-gradient-from-attentional-capacity.md`)
+
+## 13:42 - refine-draft
+- **Status**: Success
+- **File**: [agency-budget](/concepts/agency-budget/)
+- **Source**: outer review 2026-10-20 (ChatGPT 5.6 Sol Pro full-site audit), §2.2 and improvement 4: if outsiders can re-weight P(C | X) while the conditionals stay fixed, exact preservation forces every conditional to Born. `apex/born-preserving-causal-efficacy` L95–L99 already ran the argument and named the companion-law debt, but the debt had not reached this page.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes**:
+  - "What the Budget Does Not Establish" (`{#what-it-does-not-establish}`): new second paragraph flagging a second dependency beside the L87 privacy one. A coupling fixes both marginals, so the consistency result holds for one conscious-state distribution. Re-weighting needs no access to C, so privacy does not block it, and a stacked ensemble forces P(o | c, X) = q(o | X). A nonzero budget therefore needs either psychophysical superselection (the apex's verbatim "companion law over the distribution of conscious reasons") or a compensation law that re-tunes the conditionals to each context's intention mix. The paragraph links the apex section by its slug anchor, `#where-a-selection-could-show-if-anywhere-the-conditional-signature`, which was confirmed as an h2 id in the built `hugo/public` page.
+  - L38: "arbitrarily" is now scoped to "a fixed distribution of conscious states", with a forward link `[[#what-it-does-not-establish|explained below]]`. "it" became "selection" so the pronoun binds correctly after the inserted clause.
+  - Frontmatter: `modified` 2026-10-20, `ai_modified` refreshed, `ai_system` +claude-opus-5-5.
+- **Calibration**: the change is a dependency, not a refutation; "The coupling arithmetic stands; the Map has written neither law." [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier is not settled, the 10-14 reading is not propagated (L34 is unchanged), and the register is not edited.
+- **Length**: `analyze_length` 2612 → 2752 (+140: the paragraph is about 121 words and L38 grew by 19). Concepts hard limit is 3500, leaving 747 words of headroom. The install ran over the 80–120 target because the formula tokens are counted as words.
+- **Reasoning mode**: n/a (no named-opponent reply).
+- **Published**: yes (synced; the new text and both anchors are present in `hugo/content/concepts/agency-budget.md`)
 
 ## 13:25 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-19 22:55 run, then a widened near-miss screen. Abandoned (steady state).

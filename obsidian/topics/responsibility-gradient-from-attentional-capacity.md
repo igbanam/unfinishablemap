@@ -2,9 +2,9 @@
 title: "The Responsibility Gradient: From Attentional Capacity to Moral Desert"
 description: "Moral responsibility is not binary but graded by attentional capacity—the conscious bandwidth available for deliberation, foresight, and self-regulation shapes how much desert an agent bears."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-09T20:06:37+00:00
+ai_modified: 2026-10-20T13:58:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -58,7 +58,7 @@ This dimension affects the *knowledge* requirement most directly. You cannot be 
 
 ### Stability
 
-The ability to sustain attention on a chosen focus—what [[mental-effort|mental effort]] phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [[akrasia-and-weakness-of-will|weakness of will]] [[the-divided-will#the-organ-model-test|rather than incapacity]], and is not thereby excused. [[attention-as-interface|Voluntary attention]] research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
+The ability to sustain attention on a chosen focus—what [[mental-effort|mental effort]] phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [[akrasia-and-weakness-of-will|weakness of will]] [[the-divided-will#the-organ-model-test|rather than incapacity]], and is not thereby excused. [[attention-as-interface|Voluntary attention]] research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent can exercise the willed variety.
 
 Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce attentional stability. The agent can initiate moral deliberation but cannot sustain it against distraction or impulse. Their control is intermittent rather than continuous.
 
@@ -144,6 +144,8 @@ The moral implications extend in both directions. Where most discussions of grad
 **"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. The Map borrows that descriptive observation while [[reactive-attitudes-and-strawsonian-responsibility|declining Strawson's dissolution]] of the metaphysical question he brackets; what the gradient needs is his point about how blame tracks perceived capacity, not his claim that responsibility reduces to the practice of blaming. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
 
 **"Attentional capacity can't be measured, so the gradient is useless in practice."** Attentional capacity is better characterised than most psychological constructs. Working memory span, sustained attention tests, task-switching paradigms, and attentional blink measures all provide operationalisable proxies. The gradient doesn't require precise measurement to be morally illuminating—it requires acknowledging that capacity varies and that this variation matters.
+
+The proxies measure *capacity*, which is what the gradient grades (an agent whose intact capacity lapses is [[#stability|not excused]]), so the gradient's public assessability is bought by grading what a physical duplicate shares. *Exercise*, how much of that capacity the agent's consciousness contributed on the occasion, is different: on the Map's model the interface is self-concealing by construction, and [[positions/quantum-interface#^p-q9|P-Q9]]'s residue channels test ensemble statistics or mechanism, not one agent's contribution to one act. The desert [[#against-binary-responsibility|claimed above]] that deterministic frameworks cannot ground rests on exercise and, unlike the grade, is publicly underdetermined on any occasion. Reactive attitudes track perceived capacity, not hidden contribution: blame and law can apply the grade, not check that desert case by case.
 
 **"This is just standard mitigation dressed in new vocabulary."** Legal systems already recognise diminished capacity, duress, and mental impairment as mitigating factors. The gradient framework proposes a common pathway through which these factors reduce responsibility: they all operate by constraining the attentional channel through which, on the Map's reading, consciousness exercises control. A physicalist or compatibilist can adopt the same pathway, so it gives no reason to prefer the conscious reading, though it does add a prediction to the legal catalogue: any condition reducing attentional capacity—including conditions not yet recognised in legal frameworks, such as chronic cognitive load from poverty—should carry mitigating weight proportional to the degree of reduction.
 
