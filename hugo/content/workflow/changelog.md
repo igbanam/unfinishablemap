@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 17:49:13+00:00
+ai_modified: 2026-10-20 18:03:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 17:49:13+00:00
+lastmod: 2026-10-20 18:03:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:03 - refine-draft
+- **Status**: Success
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) (+ one-word sibling fix in [evolution-under-dualism](/topics/evolution-under-dualism/))
+- **Original score**: n/a (literature-drift task; no curate review run, `scripts/curate.py` absent)
+- **Source**: literature-drift-review 2026-10-20 todo task (no separate review file was written; the task notes are the audit record). Findings 1, 2, 3 executed; carried lead 4 checked and applied.
+- **Word count**: cetacean 3862 → 3988 (analyze_length, topics 3000/4000; soft_warning before and after; prose 3086 → 3129, Further Reading 108 → 108, References 668 → 751). evolution-under-dualism 3785 → 3785.
+- **Changes**: (1) Avian pallium framing: L49 now scopes the nuclear-cluster description to gross anatomy; L81 "radically different substrates (nuclear pallial circuits, …)" → "substrates radically different in gross anatomy (nuclear pallium, …)"; L108 replaces the "given how radically different the substrates are … long-range-integration property" sentence with Rueda-Alaña et al. 2025 (chick, gecko, mouse: functionally equivalent pallial sensory circuits built from neurons generated at different developmental times and places, read by the authors as convergent high-order sensory processing), stating that independent origin supports the three-lineage premise while circuit-level equivalence strengthens the materialist's specification, not the amplification hypothesis. Written "avian", never "corvid": none of the papers studied corvids. (2) Standing Agnostic Challenge now names Gutfreund's first test case, Nieder et al. 2020 (crow pallial neurons tracking the birds' reports of stimulus presence), with Gutfreund's verbatim reply "the crows do not report their subjective experiences, rather they make a behavioral decision"; the existing Gutfreund quote now sits in its source context (it is from the same Nieder critique). (3) evolution-under-dualism L113 "the corvid pallium" → "the avian pallium" (Stacho 2020 studied pigeons and owls); its "(see cetacean-and-corvid-consciousness)" pointer is now true. (4) Roth & Dicke lead HELD: Table 1 gives bottlenose dolphin 5800 million cortical neurons vs man 11 500 (false killer whale 10 500). L47 "cortical-neuron counts approaching the human range" → "half the human cortical-neuron count (false killer whale: near parity; …)"; "Cortical-neuron parity" → "Cortical-neuron near-parity".
+- **Trims paying for additions** (each grepped in reviews/ and `git log -S`; none is a prior review's guard): L98 "the evidence for modest ratcheting … weaker than for human cumulative culture" (Gunasekaram sentence carries the calibration); L98 axis list → "four-axis" (detail lives in the linked article); L104 "The disagreement at this point is genuine and is not refuted; it is named." (boundary still marked twice in the same paragraph); L146 duplicate microtubule sentence folded into the next ("candidate" kept); L150 "each branch has its own actualised outcome, and" (the branch-relative reply is stated in the paragraph's first sentence); L152 repeated tenet wikilink → "this tenet". Net prose +43; most growth is the two new references.
+- **Verification**: Rueda-Alaña (22 authors), Nieder (3), Stacho, Zaremba printed from PubMed efetch XML (PMIDs 39946453, 32973028, 32973004, 39946461) and matched at Crossref; neither new paper is in PMC, so paraphrases rest on the PubMed abstracts. Gutfreund quote grep-verified in the PMC11496166 full text. Roth & Dicke Table 1: publisher routes (cell.com, ScienceDirect, Elsevier API) all refused; read from the facsimile image of the typeset table hosted by BioNumbers (BNID 106135, "p.251 table 1").
+- **Calibration**: five-tier placements unchanged (realistic possibility, contested; live hypothesis); no evidence grade raised; Prior 2008, MSR re-framing, Taylor & Jelbert and Vanhooland text untouched; the 23 older citations not re-swept.
+- **Engagement modes** (editor-internal): materialist convergent computation: Mixed, unchanged (the new L108 sentence concedes ground to the rival inside the comparative evidence; the L106 bridge argument stands); Gutfreund: reported, not rebutted.
+- **Published**: yes
 
 ## 17:49 - deep-review
 - **Status**: Success

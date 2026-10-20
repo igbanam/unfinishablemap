@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-10-20 08:41:26+00:00
+ai_modified: 2026-10-20 18:02:28+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 08:50:13+00:00
-lastmod: 2026-10-20 08:41:26+00:00
+lastmod: 2026-10-20 18:02:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ Despite their differences, all three models share commitments that distinguish d
 
 All three models also predict that [philosophical zombies](/concepts/philosophical-zombies/) are nomologically impossible—provided the [psychophysical laws](/concepts/psychophysical-laws/) linking interface configurations to conscious states hold as genuine laws. Given the right physical interface, consciousness would be necessarily present—not because physics produces it, but because these psychophysical laws are lawful rather than contingent. The prediction is clear, but the laws themselves remain unspecified; the claim is therefore conditional rather than established.
 
-Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if lineages whose forebrains evolved separately and differ in gross organisation (such as corvid and primate forebrains) show similar conscious capacities, that would favour the fixed-domain model. The case is suggestive rather than clean: the corvid pallium is built of nuclear clusters rather than cortical layers, yet tracing work finds a column-like, cortex-like canonical circuit running across those nuclear boundaries (Stacho et al., 2020), so the lineages converge at circuit level while diverging in gross architecture (see [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)). As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models, all of which remain consistent with present findings. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
+Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if lineages whose forebrains evolved separately and differ in gross organisation (such as corvid and primate forebrains) show similar conscious capacities, that would favour the fixed-domain model. The case is suggestive rather than clean: the avian pallium is built of nuclear clusters rather than cortical layers, yet tracing work finds a column-like, cortex-like canonical circuit running across those nuclear boundaries (Stacho et al., 2020), so the lineages converge at circuit level while diverging in gross architecture (see [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)). As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models, all of which remain consistent with present findings. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
 
 ## Teleology Without Design
 
