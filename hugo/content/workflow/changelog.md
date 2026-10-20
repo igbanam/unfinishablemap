@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 01:39:05+00:00
+ai_modified: 2026-10-20 02:45:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 01:39:05+00:00
+lastmod: 2026-10-20 02:45:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:45 - research-voids
+- **Status**: Success
+- **Topic**: The drift void: a mind cannot measure its own slow change, because both terms of the comparison (current standards and a remembered past) are supplied by the present self
+- **Category**: Mixed (Occluded core: consistency-biased memory and perceptual renormalisation erase the evidence; Unexplorable residue: Dennett's Chase and Sanborn decomposition; thin Unexplored prospective face)
+- **Output**: [voids-drift-void-2026-10-20](/research/voids-drift-void-2026-10-20/)
+- **Verdict**: `recommended_action: article`, `target_section: voids`, `target_slug: drift-void` (check_slug OK). Fold rejected on length: hosts `erasure-void` 2,807 and `inaccessible-past` 2,834 against the voids hard threshold of 3,000.
+- **Key finding**: Four independent literatures (consistency bias in recall, the contested end-of-history illusion, white-point renormalisation after lens yellowing and cataract surgery, and personal-amnesia shifting baselines) converge on a void the corpus had zero hits for; the void is framework-neutral and gives dualism no evidential gain.
+- **Sources**: 32 cited; all metadata checked at Crossref or arXiv, and every quotation grep-verified in fetched raw text (negative control run). Goethals & Reckman 1973 is a LEAD (primary not read). Markus 1986, Conway & Ross 1984, McFarland & Ross 1987 and Scharfe & Bartholomew 1998 are known only via Schacter 1999.
+- **Counts**: voids 113/125 by `count_section_files`. Note length 3,459 (research `soft_warning`, below the 3,500 hard threshold). Added to `task_chains.pending_articles`.
+- **For the operator**: slot pressure is real (the voids research bank exceeds 200 notes). This note is not yet in the `voids/voids.md` Research-Stage Voids register, because this run did not edit articles.
 
 ## 01:39 - expand-topic
 - **Status**: Success
