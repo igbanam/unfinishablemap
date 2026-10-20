@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-12 07:13:43+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-20 12:11:28+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-indeterminacy-free-will]]'
@@ -20,7 +20,7 @@ concepts:
 - '[[introspection]]'
 - '[[prebiotic-collapse]]'
 created: 2026-01-07
-date: &id001 2026-02-28
+date: &id001 2026-10-20
 description: 'Backward causation in time-symmetric quantum mechanics. On retrocausal
   interpretations, the Libet problem dissolves: consciousness can select outcomes
   despite neural activity preceding awareness.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-10-12 07:13:43+00:00
+lastmod: 2026-10-20 12:11:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,11 +55,11 @@ The retrocausal response: temporal precedence does not establish causal priority
 
 ## Retrocausality in Physics
 
-Retrocausality has serious proponents and empirical grounding in physics.
+Retrocausality has serious proponents in physics, and a formal motivation in time-symmetric dynamics.
 
-**Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how T-symmetry operates across physics domains, and [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
+**Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. Huw Price (2012) argues that time-symmetry implies retrocausality only under certain assumptions about quantum ontology, which some interpretations reject. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how T-symmetry operates across physics domains, and [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
 
-**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. Vedovato et al. (2017) extended this over thousands of kilometres via a satellite delayed-choice experiment. Wheeler extended this cosmologically in his [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/)—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#1-wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
+**Wheeler's delayed-choice**: In Jacques et al. (2007), a random number generator chose whether to close a two-path interferometer only after the photon had entered it; the results matched standard quantum mechanics. Such tests rule out a photon adapting its wave or particle behaviour to the apparatus in advance (Ma, Kofler & Zeilinger 2016); that the later choice *determines* the earlier behaviour is one interpretation of the result, the retrocausal one. Vedovato et al. (2017) extended the test over thousands of kilometres via a satellite link. Wheeler extended the idea cosmologically in his [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/)—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#1-wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
 **The transactional interpretation**: [Cramer's interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
 
@@ -154,7 +154,7 @@ Retrocausality connects to all five tenets:
 
 **[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, its relationship to those processes requires explanation. Retrocausality shows how consciousness can causally influence neural activity even when that activity precedes conscious awareness in the linear temporal sequence. The dualist commitment that consciousness is something over and above the brain gains coherence when the temporal relationship between them is understood retrocausally.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Retrocausality operates specifically at the quantum level—at measurement events where indeterminacy resolves into definite outcomes. The transactional interpretation makes minimal assumptions: physics already contains time-symmetric equations, and retrocausality follows from taking that symmetry seriously. Consciousness doesn't add exotic causal powers; it participates in quantum processes that already have retrocausal structure. This aligns with the tenet's emphasis on the smallest possible interface.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Retrocausality operates specifically at the quantum level—at measurement events where indeterminacy resolves into definite outcomes. The tenet's minimality is empirical constraint, not simplicity: no detectable energy injection, Born-statistics violation or conservation-law violation. Selecting a whole history, prior neural states included, is a large-scope reading, admissible only if it meets those constraints. Consciousness doesn't add exotic causal powers; on TI, it participates in quantum processes that already have retrocausal structure.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
 
@@ -186,14 +186,16 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Jacques, V., Wu, E., Grosshans, F., Treussart, F., Grangier, P., Aspect, A., & Roch, J.-F. (2007). Experimental realization of Wheeler's delayed-choice gedanken experiment. *Science*, 315(5814), 966-968.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
 1. Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. arXiv:1610.04609. Published in *Probing the Meaning of Quantum Mechanics* (World Scientific, 2019).
 1. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+1. Ma, X.-S., Kofler, J., & Zeilinger, A. (2016). Delayed-choice gedanken experiments and their realizations. *Reviews of Modern Physics*, 88(1), 015005.
 1. Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
 1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
-1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+1. Price, H. (2012). Does time-symmetry imply retrocausality? How the quantum world says "Maybe"? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.

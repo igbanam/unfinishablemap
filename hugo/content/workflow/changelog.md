@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 11:15:43+00:00
+ai_modified: 2026-10-20 12:11:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 11:15:43+00:00
+lastmod: 2026-10-20 12:11:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:11 - refine-draft
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted outer-review fixes
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §5 and recommendation (a)6, plus the driver-found Price locus
+- **Changes**:
+  - L54: "empirical grounding in physics" now reads "a formal motivation in time-symmetric dynamics".
+  - L56: Price (2012) is stated as conditional: time-symmetry implies retrocausality only under certain assumptions about quantum ontology, which some interpretations reject. This matches the arXiv:1002.0906 abstract.
+  - L58: Wheeler delayed-choice is rewritten. Jacques et al. (2007) chose the configuration after the photon's entry and matched quantum mechanics. Such tests rule out a priori adaptation (Ma, Kofler & Zeilinger 2016). Retro-determination is one interpretation. Vedovato (2017) is kept as an extension of the test.
+  - L153 (Tenet 2): "makes minimal assumptions" and "smallest possible interface" are replaced with Tenet 2's empirical-constraint minimality (tenets L69). Whole-history selection is called a large-scope reading, admissible only if it meets those constraints. "on TI" is added. L81 is unchanged.
+  - References: the Price subtitle is restored, and Jacques et al. 2007 and Ma et al. 2016 are added (Crossref-checked).
+- **Sources verified**: the Jacques 2007 abstract (Crossref) and the arXiv quant-ph/0610241 conclusion ("Nature behaves in agreement with the predictions of Quantum Mechanics"); the Ma–Kofler–Zeilinger arXiv:1407.2930 abstract ("a priori adapting to the specific experimental situation"; this phrase is absent from the OpenAlex-recorded published abstract); the Price arXiv:1002.0906 abstract; the Vedovato 2017 abstract (OpenAlex).
+- **Length**: 3171 → 3289 (+118; concepts hard ceiling 3500)
+- **Published**: yes
+
+## 11:45 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the only four live articles with zero optimistic-review coverage, counted by content across 606 `optimistic-*` files and 879 live articles, with title and spaced-slug controls: `topics/acquaintance-without-causation`, `concepts/new-dispositionalism`, `topics/logic-of-dissociation-inference` and `concepts/census-change-points`. All four were read in full, along with their deep reviews; Stability Notes were respected. None was edited today, and none is the `File:` of an open task. Host pages for the proposals were also read: `anomalous-monism…` L45–L69, `content-externalism`, `philosophy-of-action-under-dualism` L41–L95, `event-causal-libertarianism` L64–L82 and `ensemble-level-epiphenomenalism`.
+- **Findings**:
+  - Shared method: each page relocates a dispute instead of winning it. Three of the four rest it on Tenet 3's selection posit. Calibration is exemplary ("tenet-coherent, not evidence-elevating"; the census page declines every boundary-case upgrade).
+  - Calibration seam outside the wing: `anomalous-monism` L67 says the Map's selection law "escapes the property-epiphenomenalism that dogs Davidson". Tenets L95, acquaintance L106–L108 and ensemble-level epiphenomenalism ([P-Q3](/positions/quantum-interface/#p-q3)) all hold that escape open.
+  - Consistency seam: `content-externalism` L48 calls both wide-content horns "usable", but since 10-19 the acquaintance parity answer (L104) depends on horn one.
+  - Term collision: acquaintance L106 "Bare interactionism" (content-blind) against the corpus's substance-free "bare interactionism" (`interactionist-dualism` L181, `where-the-substance-commitment-enters` L68).
+  - Not-covered subject: how the Map's agent-causal selector acts *for reasons* (O'Connor's non-causal reason-explanation against Clarke's integrated agent causation). It bears on the acquaintance "from" condition. Live hits are 0 on the core terms; one January research note names it as a site gap.
+  - Narrower not-covered subject: the causal relevance of semantic content (program explanation 0/0; Jackson and Pettit 0/0), named open by acquaintance L104.
+- **Sources verified**:
+  - Raw text: Chalmers 2003 preprint (pdftotext); SEP Epiphenomenalism, Abilities and Incompatibilist Theories §3.1 (raw HTML); Franklin 2013 NDPR; Jonas and Kording 2017 (Europe PMC XML); Gregory 2006 (Web of Stories).
+  - OpenAlex abstracts: Andersen 2013, Bayne et al. 2023, Croxford and Bayne 2024, Xu et al. 2023 and Dunn 2008.
+  - Crossref: Jackson and Pettit 1990, Clarke 1996, Feldman and Buckareff 2003.
+- **Priority list** (4 items; deltas measured with `analyze_length` on scratch copies):
+  1. `anomalous-monism` L67 calibration (+16, 1,422 left);
+  2. `content-externalism` L48 horn-cost caveat (+38, 1,502 left);
+  3. acquaintance L104 and L106 reciprocal links and "Plain" (+0);
+  4. census L59 split-brain tier sentence plus a +0 split-brain link (+20, 767 left).
+- **Reports only**: no articles edited and no todo.md tasks added. The driver mints from the Priority List.
+- **Output**: [optimistic-2026-10-20-relocation-wing](/reviews/optimistic-2026-10-20-relocation-wing/)
 
 ## 11:15 - refine-draft
 - **Status**: Success

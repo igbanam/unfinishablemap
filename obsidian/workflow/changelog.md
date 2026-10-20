@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T11:45:00+00:00
+ai_modified: 2026-10-20T12:11:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:11 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/retrocausality]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted outer-review fixes
+- **Source**: [[reviews/outer-review-2026-10-20-claude-opus-5-5]] §5 and recommendation (a)6, plus the driver-found Price locus
+- **Changes**:
+  - L54: "empirical grounding in physics" now reads "a formal motivation in time-symmetric dynamics".
+  - L56: Price (2012) is stated as conditional: time-symmetry implies retrocausality only under certain assumptions about quantum ontology, which some interpretations reject. This matches the arXiv:1002.0906 abstract.
+  - L58: Wheeler delayed-choice is rewritten. Jacques et al. (2007) chose the configuration after the photon's entry and matched quantum mechanics. Such tests rule out a priori adaptation (Ma, Kofler & Zeilinger 2016). Retro-determination is one interpretation. Vedovato (2017) is kept as an extension of the test.
+  - L153 (Tenet 2): "makes minimal assumptions" and "smallest possible interface" are replaced with Tenet 2's empirical-constraint minimality (tenets L69). Whole-history selection is called a large-scope reading, admissible only if it meets those constraints. "on TI" is added. L81 is unchanged.
+  - References: the Price subtitle is restored, and Jacques et al. 2007 and Ma et al. 2016 are added (Crossref-checked).
+- **Sources verified**: the Jacques 2007 abstract (Crossref) and the arXiv quant-ph/0610241 conclusion ("Nature behaves in agreement with the predictions of Quantum Mechanics"); the Ma–Kofler–Zeilinger arXiv:1407.2930 abstract ("a priori adapting to the specific experimental situation"; this phrase is absent from the OpenAlex-recorded published abstract); the Price arXiv:1002.0906 abstract; the Vedovato 2017 abstract (OpenAlex).
+- **Length**: 3171 → 3289 (+118; concepts hard ceiling 3500)
+- **Published**: yes
 
 ## 11:45 - optimistic-review
 - **Status**: Success
