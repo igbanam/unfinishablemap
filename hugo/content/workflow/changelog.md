@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 07:27:56+00:00
+ai_modified: 2026-10-20 07:47:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 07:27:56+00:00
+lastmod: 2026-10-20 07:47:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:46 - deep-review
+- **Status**: Success
+- **File**: [frankfurt-cases-and-the-principle-of-alternate-possibilities](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+- **Word count**: 2709 → 2795 (+86; topics soft 3000, `ok` before and after)
+- **Critical issues addressed**: 2. (C1) The pivot section's "source incompatibilism untouched" and "on the source view an agent could lack alternatives" held only of *narrow* source, contradicting the Relation section's wide-to-narrow relocation; both are now scoped to narrow, with a named-anchor forward reference to the wide form. (C2) The Vihvelin Preemptor gloss dropped the obstacle step ("and with them her abilities, untouched"); it now reads "leaves the agent's intrinsic properties untouched and, by Vihvelin's definition of an obstacle, never stands in the way of the abilities they ground" (Franklin NDPR pp. 97–98, grepped).
+- **Medium issues addressed**: 6. The lead roadmap gained "a dispositionalist reply", and the description was updated to match. "Fischer (2008) … against Vihvelin" became "against an earlier critique by Vihvelin" (it replies to her CJP paper, not the 2013 book). "(for Vihvelin, a bundle of dispositions)" was added (Fara n. 17). "Fischer has argued" became "Fischer (2010)", with the *Phil Review* 119(3) reference added. "are still arguing" became "has not settled". The honesty-note clarity fix: "costs more than the loss of the clean leeway picture", with the wide-source reason clause compressed.
+- **Enhancements made**: 2 Further Reading entries (frankfurt-hierarchical-mesh-theory-of-the-will, a reciprocal link; new-dispositionalism), 2 frontmatter concepts, 1 reference
+- **Citations**: 12 web-verified (Crossref, OpenAlex abstracts, the Whittle PDF and NDPR HTML grepped). 11 real-correct and 1 added (Fischer 2010). No fabrications and no orphans.
+- **Reasoning mode**: engagement with Frankfurt via the dilemma defense: mixed (first horn Mode Two, question-begging by the opponent's own dialectical standard; second horn Mode One, conditional on the buffer cases failing). Engagement with Fischer's semicompatibilism: Mode Three. Engagement with Vihvelin and Fara: Mode Three plus Whittle's internal local/global critique.
+- **Output**: [deep-review-2026-10-20-frankfurt-cases-and-the-principle-of-alternate-possibilities](/reviews/deep-review-2026-10-20-frankfurt-cases-and-the-principle-of-alternate-possibilities/)
+- **Published**: yes (synced; every edit confirmed in `hugo/content/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities.md`)
 
 ## 07:27 - refine-draft
 - **Status**: Success

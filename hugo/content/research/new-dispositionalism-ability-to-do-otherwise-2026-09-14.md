@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-14 20:31:52+00:00
-ai_modified: 2026-10-19 22:01:47+00:00
+ai_modified: 2026-10-20 07:48:05+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: unfinishablemap.org Agent
 concepts: []
 created: 2026-09-14
-date: &id001 2026-10-19
+date: &id001 2026-10-20
 description: 'Research substrate for Vihvelin''s and Fara''s new dispositionalism:
   abilities as fink/mask-proofed dispositions, the compatibilist defence of PAP, the
   Clarke/Whittle/Jaster replies, and what it does and does not concede to the Map''s
@@ -17,7 +17,7 @@ harvest_source: reviews/optimistic-2026-08-22-rival-route-wing
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-19 22:01:47+00:00
+lastmod: 2026-10-20 07:48:05+00:00
 modified: *id001
 related_articles: []
 target_section: concepts
@@ -31,7 +31,7 @@ topics: []
 **Search queries used**: Vihvelin Causes Laws and Free Will OUP 2013; Clarke "The New Dispositionalism" Mind 2009; Fara "Masked Abilities and Compatibilism" Mind 2008; Vihvelin "Free Will Demystified" Philosophical Topics 2004; Whittle "Dispositional Abilities" Philosophers' Imprint 2010; Franklin "Masks, Abilities, and Opportunities"; Vetter & Jaster "Dispositional accounts of abilities" Philosophy Compass 2017; Vetter "Are abilities dispositions?" Synthese; Fischer "Freedom, Foreknowledge, and Frankfurt: A Reply to Vihvelin" CJP 2008; Cyr & Swenson "Moral Responsibility Without General Ability"; Janzen brain-malfunction AJP; Smith "Rational Capacities" 2003; Vihvelin "Libertarian Compatibilism" 2000; Vihvelin NDPR / Mind / Ethics reviews; Vihvelin LCA-PROP-ABILITY; new dispositionalism 2023-2025.
 **Verification method**: every journal item below was resolved at Crossref by DOI (`api.crossref.org/works/{doi}`) or by bibliographic query with the returned DOI recorded; Fara 2008 was read in full from the Mind offprint (pdftotext, NFKC-normalised); Whittle 2010 was read in full from the Philosophers' Imprint PDF; Vihvelin 2013 chapter titles and page ranges come from Crossref's chapter records under the OUP prefix; the NDPR and SEP pages were fetched and read. Where a claim rests only on an abstract or a review, the entry says so.
 
-**Corrections (2026-10-19, re-verified against raw source text during the deep review of `concepts/new-dispositionalism`)**: the article-writing pass of 2026-10-19 logged these in the changelog but did not write them here; they are now applied in place below. (1) Whittle 2010 never says "neither thesis ... is established by an analysis of abilities"; her verbatim conclusion (§4 end, p. 21) is "the dispositional analyses fail to establish that pap is true, or that free will is compatible with determinism". (2) Fara's "It is essential to an ability's being masked ..." is p. 847, and the packing-material passage is p. 855. (3) Clarke p. 339 concerns a fink or mask that is not up to the agent making the *exercise* of a capacity not up to her, not whether the *trying* is up to her. (4) SEP's general-ability reply is offered on the dispositionalists' behalf ("The new dispositionalist might contend"), not reported as their reply. (5) Vihvelin 2013 ch. 3 argues that commonsense beliefs about free will "do not commit us to Agent Causation" (Franklin's NDPR review). (6) Janzen 2016's abstract licenses only that brain-malfunction cases "evade the dispositionalist analysis"; the intrinsic-change gloss below is an inference from the title. (7) Fara's masking defence is his; for Vihvelin (2004) Frankfurt interveners make the bundle "finkish" (Fara n. 17), and her 2013 Preemptor is "no obstacle", not a mask. (8) Sartorio 2016 remains unread (publisher and Arizona repository copies walled; no abstract). The Insert-Ready Passages below were applied in revised form on 2026-10-19 and are superseded by the live host text.
+**Corrections (2026-10-19, re-verified against raw source text during the deep review of `concepts/new-dispositionalism`)**: the article-writing pass of 2026-10-19 logged these in the changelog but did not write them here; they are now applied in place below. (1) Whittle 2010's body never says "neither thesis ... is established by an analysis of abilities", but her *abstract* does, verbatim ("we see that neither thesis is established by an analysis of abilities"; OpenAlex W7111828990, re-verified 2026-10-20), so the line is a genuine quotation if cited to the abstract and the 2026-10-19 "fabricated" verdict overstated it; her verbatim conclusion (§4 end, p. 21) is "the dispositional analyses fail to establish that pap is true, or that free will is compatible with determinism". (2) Fara's "It is essential to an ability's being masked ..." is p. 847, and the packing-material passage is p. 855. (3) Clarke p. 339 concerns a fink or mask that is not up to the agent making the *exercise* of a capacity not up to her, not whether the *trying* is up to her. (4) SEP's general-ability reply is offered on the dispositionalists' behalf ("The new dispositionalist might contend"), not reported as their reply. (5) Vihvelin 2013 ch. 3 argues that commonsense beliefs about free will "do not commit us to Agent Causation" (Franklin's NDPR review). (6) Janzen 2016's abstract licenses only that brain-malfunction cases "evade the dispositionalist analysis"; the intrinsic-change gloss below is an inference from the title. (7) Fara's masking defence is his; for Vihvelin (2004) Frankfurt interveners make the bundle "finkish" (Fara n. 17), and her 2013 Preemptor is "no obstacle", not a mask. (8) Sartorio 2016 remains unread (publisher and Arizona repository copies walled; no abstract). The Insert-Ready Passages below were applied in revised form on 2026-10-19 and are superseded by the live host text.
 
 ## Executive Summary
 
