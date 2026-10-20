@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 17:22:32+00:00
+ai_modified: 2026-10-20 17:49:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 17:22:32+00:00
+lastmod: 2026-10-20 17:49:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:49 - deep-review
+- **Status**: Success
+- **File**: [ontic-structural-realism](/concepts/ontic-structural-realism/)
+- **Selection**: the selector's top pick, `topics/agent-causation-and-acting-for-reasons` (score 100, created today), was skipped because its queued P2 cross-review already asks for a full deep-review pass. This was the next candidate (score 69; last reviewed 2026-09-05; changed since in the 09-07 refine-draft, the 09-08 DOI fix, the 10-12 mad-dog parallel and the 10-13 structuralism link).
+- **Word count**: 3301 → 3350 (+49; analyze_length, concepts 2500/3500/5000, soft_warning before and after; body prose 2853, apparatus 520)
+- **Critical issues addressed**: 1. The article claimed in three places (L37, L51, L105) that no OSR theorist carries the thesis across to experience, and that "only the joining is unpublished". Ladyman's own SEP entry, the source of the article's census, says "Tegmark (2008) explicitly embraces a Pythagorean form of OSR". Tegmark's paper (arXiv raw-grep) places the MUH in the "'ontic' version of universal structural realism", makes observers "self-aware substructures", and holds that their "subjective perceptions" are derivable in principle, while never arguing this for phenomenal character ("experience" 0, "qualia" 0). All four loci were rescoped (join "published only in outline"; L59 "sketched by Tegmark but not argued"; the falsifier "mostly failed"), and reference 25 was appended.
+- **Medium issues addressed**: 2. (a) The Fink & Lee gloss: "volume … whose 'ontic structuralists' hold" became "count 'ontic structuralists' … among structuralism's varieties", matching the raw galley's taxonomic "As examples …". (b) Six page-history phrases ("an earlier version of this page said otherwise", "this page had supposed undrawn", and others) were restated as present-tense claims or cut. The retraction record is kept in "What Would Change This View".
+- **Enhancements made**: 1 (Tegmark added to the sourcing-gaps ledger: arXiv text only; later consciousness papers unread)
+- **Verification**: raw-grep at source for Lyre (PMC9396309, 9 spans), Loorits (PMC3957492, 4 spans plus author-stance), Kleiner and Fink & Lee (PhiMiSci galleys, reading-order extraction), SEP *Structural Realism* (census re-measured exactly; revision 18 May 2023), and Tegmark 2008 (arXiv 0704.0646; Crossref 38(2) 101–150). Chalmers 2012 pp. 412–422 confirmed via Fink & Lee's reference list and the PhilArchive record. Kleiner and Fink & Lee have Crossref `issued` dates in 2026 but publisher year 2025, vol. 6; the publisher form is kept.
+- **Engagement modes** (editor-internal): Tegmark — Mode Three (named as the rival's sketch, not refuted); Lyre — Mode One (unchanged); Kleiner — Mode Three (unchanged).
+- **Output**: [deep-review-2026-10-20-ontic-structural-realism](/reviews/deep-review-2026-10-20-ontic-structural-realism/)
 
 ## 17:22 - expand-topic
 - **Status**: Success
