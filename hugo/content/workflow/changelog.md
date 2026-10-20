@@ -1,14 +1,57 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 20:42:33+00:00
+ai_modified: 2026-10-20 21:41:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 20:42:33+00:00
+lastmod: 2026-10-20 21:41:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:41 - positions-evolve
+- **Status**: Success (update; [P-A2](/positions/agency-and-will/#p-a2) and [P-A6](/positions/agency-and-will/#p-a6) attribution correction)
+- **Positions touched**: [agency-and-will](/positions/agency-and-will/) [P-A2](/positions/agency-and-will/#p-a2), [P-A6](/positions/agency-and-will/#p-a6). No credence, grade, status or dependency change: the Map's agent-caused-volition view stands, and only its attribution to Lowe changes.
+  - [P-A2](/positions/agency-and-will/#p-a2): immanent causation now "in Chisholm's sense" in the Calibration and Asserts lines (was "Chisholm's and Lowe's sense"). Depends on keeps "substance causation (Lowe 2008)".
+  - [P-A6](/positions/agency-and-will/#p-a6): "closest to E. J. Lowe" → "borrowing E. J. Lowe's volitionist structure but making the volition agent-caused, which Lowe denies". Depends on: "Lowe's critique of the causal closure of the physical" → "…of the closure argument for physicalism". Would shift if aligned to match.
+  - One dated `Updated 2026-10-20` line per position. Last reviewed left unchanged, following the 10-08 and 09-28 narrow-update precedent.
+- **Dependent page**: [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/) L76 bullet re-quoted to "in Chisholm's sense" and "takes only substance causation from Lowe".
+- **Sources verified** (raw text, no WebFetch prompt):
+  - Griffith 2009 NDPR HTML, 1 hit each: "uncaused volitions and denies that reasons are causes"; "cannot cause their own volitions on pain of regress (7)"; "agents do not cause actions"; "One might expect a rejection of closure, but Lowe doesn't take this route".
+  - OpenAlex book abstract: "challenging the cogency of the causal closure argument for physicalism in all of its forms".
+- **Length** (analyze_length): register 3724 → 3781, hard_warning, critical 4000; the two notes account for ~46 of the +57. Article 3022 → 3026.
+- **Cascade**: [P-A6](/positions/agency-and-will/#p-a6)'s Depends on ([P-A1](/positions/agency-and-will/#p-a1), [P-A2](/positions/agency-and-will/#p-a2), [P-A4](/positions/agency-and-will/#p-a4)) is unchanged. No position lists [P-A6](/positions/agency-and-will/#p-a6) as a dependency.
+- **Leads (not edited)**:
+  - [four-category-ontology](/concepts/four-category-ontology/) L57 says Lowe's volition "still has an *agent*-cause", against Lowe 2008: 7. That page is in [P-A2](/positions/agency-and-will/#p-a2)'s Argued in.
+  - [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) L128 and [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) L156 have agents causing *actions* on Lowe's framework; Griffith: "agents do not cause actions".
+  - [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) L29 "closest to E. J. Lowe's non-Cartesian substance dualism" is defensible given L77.
+  - The research note agent-causation-and-acting-for-reasons-2026-10-20 L41/L47/L140/L314 still quotes the old [P-A2](/positions/agency-and-will/#p-a2) wording (historical).
+- **Output**: no commit (orchestrator handles git).
+
+## 21:12 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four October pages whose optimistic-review hits are all mentions, not reviews (content-counted across 607 `optimistic-*` files and 874 live articles; the only zero-hit page, `topics/agent-causation-and-acting-for-reasons`, was created today): `concepts/miswanting`, `topics/mad-dog-everettianism`, `concepts/doxastic-voluntarism` and `concepts/nondualistic-interactionism`. All four were read in full, with their deep-review Stability Notes. None was edited today, and none is the `File:` of an open task. Today's earlier targets (relocation wing) were not repeated.
+- **Findings**:
+  - Shared method (parity discipline): each page finds a rival the Map's own argument cannot exclude, and says what that costs the Map. Examples: the value-blind rival "predicts every reversal here"; the factorisation debt reaches the Map's selection menu; evaluative control is "fully compatible with physicalism"; Griffin passes every register test that selects the Map's dualism. Hardline Empiricist praise throughout, and no Process-Philosopher slippage.
+  - Seams outside the wing, on older pages that still claim what these decline: `apex/process-and-consciousness` L85 ("avoids the combination difficulty entirely", against its own L81 and `emergent-dualism` L82); `hard-problem-of-consciousness` L223 ("selects dualism"); `post-decoherence-selection` L51 (einselection with no system/environment split); `william-james-consciousness` L144/L148 ("Forced" treated as met, which `pragmatism` L54 and `pragmatisms-path` L59 retracted).
+  - Coordination: the blocked P2 on [P-D2](/positions/arguments-for-dualism/#p-d2) (todo L2177) says "the register is the only locus left inconsistent". Four article-level restatements exist (hard-problem L223, ignorance-hypothesis L70, convergence-argument L149, materialism-argument L131).
+  - Not-covered subject: alief and acting against one's belief (Gendler 2008; implicit attitudes; in-between belief). It is the case doxastic-voluntarism L107's back-end speculation predicts. "alief" has 1 incidental hit live and 1 in research; "implicit attitude" 0 live; controls: "Gendler" 8 live, "belief" 208 live.
+- **Sources verified** (raw text, `str.count` on NFKC):
+  - Griffin 1998, hosted full text (8 quotes);
+  - Chalmers 2003 (consc.net HTML);
+  - Carroll 2022, Stoica 2022, Soulas et al. 2025 and Stoica 2026 (arXiv PDFs);
+  - SEP *Doxastic Voluntarism*;
+  - Charpentier et al. 2016 (Europe PMC XML);
+  - Kermer et al. 2006 and Anvari et al. 2021 (OpenAlex abstracts).
+  - Hieronymi, Ney, Kim and Gilbert & Wilson were not re-verified and are not praised.
+- **Priority list** (4 items; deltas measured with `analyze_length` on scratch copies under `obsidian/<section>/`):
+  1. `apex/process-and-consciousness` L85: "entirely" → the panpsychist form plus a structurally related coupling debt, with a pipe to `nondualistic-interactionism`. +12, leaving 905.
+  2. `hard-problem-of-consciousness` L223: "selects dualism among them" → "… only with further premises against Griffin's process interactionism …". +20, leaving 251. May ride with the [P-D2](/positions/arguments-for-dualism/#p-d2) P2.
+  3. `post-decoherence-selection` L51: einselection "defined relative to a system/environment split", with pipes to `mad-dog-everettianism` and `quantum-factorisation-problem`; next "It explains" → "Decoherence also explains". +33, leaving 250.
+  4. `william-james-consciousness` L144/L148/L150: Forced marked contested; "isn't irrational faith—it's" removed; pipe to `doxastic-voluntarism`; forcedness caveat with an anchor link to `pragmatism#James's Expansion`. +43, leaving 737.
+- **Output**: [optimistic-2026-10-20-parity-wing](/reviews/optimistic-2026-10-20-parity-wing/)
+- **Content modified**: none (reports-only; no todo.md edits).
 
 ## 20:42 - refine-draft
 - **Status**: Success

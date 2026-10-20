@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T21:12:00+00:00
+ai_modified: 2026-10-20T21:41:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:41 - positions-evolve
+- **Status**: Success (update; P-A2 and P-A6 attribution correction)
+- **Positions touched**: [[positions/agency-and-will]] P-A2, P-A6. No credence, grade, status or dependency change: the Map's agent-caused-volition view stands, and only its attribution to Lowe changes.
+  - P-A2: immanent causation now "in Chisholm's sense" in the Calibration and Asserts lines (was "Chisholm's and Lowe's sense"). Depends on keeps "substance causation (Lowe 2008)".
+  - P-A6: "closest to E. J. Lowe" → "borrowing E. J. Lowe's volitionist structure but making the volition agent-caused, which Lowe denies". Depends on: "Lowe's critique of the causal closure of the physical" → "…of the closure argument for physicalism". Would shift if aligned to match.
+  - One dated `Updated 2026-10-20` line per position. Last reviewed left unchanged, following the 10-08 and 09-28 narrow-update precedent.
+- **Dependent page**: [[topics/agent-causation-and-acting-for-reasons]] L76 bullet re-quoted to "in Chisholm's sense" and "takes only substance causation from Lowe".
+- **Sources verified** (raw text, no WebFetch prompt):
+  - Griffith 2009 NDPR HTML, 1 hit each: "uncaused volitions and denies that reasons are causes"; "cannot cause their own volitions on pain of regress (7)"; "agents do not cause actions"; "One might expect a rejection of closure, but Lowe doesn't take this route".
+  - OpenAlex book abstract: "challenging the cogency of the causal closure argument for physicalism in all of its forms".
+- **Length** (analyze_length): register 3724 → 3781, hard_warning, critical 4000; the two notes account for ~46 of the +57. Article 3022 → 3026.
+- **Cascade**: P-A6's Depends on (P-A1, P-A2, P-A4) is unchanged. No position lists P-A6 as a dependency.
+- **Leads (not edited)**:
+  - [[concepts/four-category-ontology]] L57 says Lowe's volition "still has an *agent*-cause", against Lowe 2008: 7. That page is in P-A2's Argued in.
+  - [[apex/phenomenology-mechanism-bridge]] L128 and [[concepts/mental-causation-and-downward-causation]] L156 have agents causing *actions* on Lowe's framework; Griffith: "agents do not cause actions".
+  - [[topics/philosophy-of-action-under-dualism]] L29 "closest to E. J. Lowe's non-Cartesian substance dualism" is defensible given L77.
+  - The research note agent-causation-and-acting-for-reasons-2026-10-20 L41/L47/L140/L314 still quotes the old P-A2 wording (historical).
+- **Output**: no commit (orchestrator handles git).
 
 ## 21:12 - optimistic-review
 - **Status**: Success

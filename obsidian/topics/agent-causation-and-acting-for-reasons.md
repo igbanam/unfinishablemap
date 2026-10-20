@@ -4,7 +4,7 @@ description: "Human+AI analysis of how an agent-caused choice is made for a reas
 created: 2026-10-20
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T20:04:27+00:00
+ai_modified: 2026-10-20T21:40:24+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -73,7 +73,7 @@ The Map has adopted none of the three answers, and its pages use pieces of each.
 
 - [[agent-teleology]] says the gazelle's reason "is a conscious state that causally contributes to the outcome": the integrated answer, with the reason-state as a partial cause.
 - [[trilemma-of-selection]], [[reasons-responsiveness]] and [[agent-causation]] answer the luck objection by saying that selection on reasons makes the choice contrastively explicable. Clarke's contrastive reason-explanation of undetermined choice is causal: he argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), while the abstract of O'Connor's chapter calls his link "non-contrastive".
-- The [[positions/agency-and-will#^p-a2|agency register]] (P-A2) grounds authorship in immanent causation "in Chisholm's and Lowe's sense". On the free-will entry's classification Chisholm denies reasons a direct causal role, and Lowe denies that the agent causes her volitions at all.
+- The [[positions/agency-and-will#^p-a2|agency register]] (P-A2) grounds authorship in immanent causation "in Chisholm's sense" and takes only substance causation from Lowe, who denies that the agent causes her volitions at all. On the free-will entry's classification Chisholm denies reasons a direct causal role.
 - [[philosophy-of-action-under-dualism]] borrows Davidson's causal skeleton and Lowe's volitionist structure but makes the volition agent-caused, which Lowe denies. Lowe accepts the skeleton's downstream half, from willing to movement, and rejects its upstream half, from reasons to choice.
 
 These pieces make different choices in different places, and no Map text yet says which governs the "for" in "selects for reasons".
