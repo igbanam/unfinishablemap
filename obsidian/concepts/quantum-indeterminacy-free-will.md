@@ -2,9 +2,9 @@
 title: "Quantum Indeterminacy and Free Will"
 description: "How quantum indeterminacy opens space for libertarian free will, and why the luck objection loses force within—though only within—the Map's dualist framework."
 created: 2026-01-18
-modified: 2026-08-21
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-19T19:10:02+00:00
+ai_modified: 2026-10-20T19:30:25+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -88,7 +88,7 @@ Alfred Mele sharpened this into **present luck** (nothing about the agent explai
 
 **Event-causal libertarianism** (Kane, Balaguer, Ekstrom) has mental events cause actions through nondeterministic processes. Kane locates indeterminacy in the *effort of will* during "self-forming actions", where the agent is torn between incompatible options and makes effort toward each. His condition of *plural voluntary control* requires that whichever way the choice resolves, the agent brings it about voluntarily, rationally and intentionally; such actions form character, making agents ultimately responsible for later choices flowing from it. Kane's 2024 *Complex Tapestry of Free Will* incorporates agent-causal elements, arguing that free action requires agents "exercising teleological guidance control"—a naturalistic hybrid, rivalling the Map's dualist account of agency. The standing criticism: even if the agent wanted both A and B, nothing about the agent explains why effort A won, and the dual-efforts reply relocates the question without answering it. See [[event-causal-libertarianism]].
 
-**Agent-causal libertarianism** (the Map's wing, with Chisholm, O'Connor and Lowe) has the agent, as a persisting substance, directly cause actions. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event); Lowe argued all causation is fundamentally substance causation, with event causation a derivative shorthand. Critics find this unsatisfying, since "the agent caused it" appears to name the explanandum rather than supply an explanans. Agent-causalists answer that demanding further explanation already assumes event-causal reduction, and that if agent causation is sui generis the explanatory buck stops at the agent. The exchange can feel like an impasse—which is where the Map's framework tries to add content. See [[agent-causation]].
+**Agent-causal libertarianism** (the Map's wing, with Chisholm and O'Connor) has the agent, as a persisting substance, directly cause actions. Lowe, a border case with uncaused volitions, argued all causation is fundamentally substance causation, with event causation a derivative shorthand; Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). Critics find this unsatisfying, since "the agent caused it" appears to name the explanandum rather than supply an explanans. Agent-causalists answer that demanding further explanation already assumes event-causal reduction, and that if agent causation is sui generis the explanatory buck stops at the agent. The exchange can feel like an impasse—which is where the Map's framework tries to add content. See [[agent-causation]].
 
 ## Why the Map's Framework Addresses the Luck Objection
 
