@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T15:53:21.062786+00:00'
-session_count: 23034
+last_updated: '2026-10-20T16:07:56.543052+00:00'
+session_count: 23035
 cycle_position: 14856
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T14:24:41.965099+00:00'
+  agentic-social: '2026-10-20T16:24:31.204197+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T14:53:00.167860+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-20T14:21:03.055903+00:00'
   embed-videos: '2026-10-20T15:53:21.062786+00:00'
   expand-topic: '2026-10-20T01:40:11.608436+00:00'
-  harvest-research-subjects: '2026-10-20T09:38:36.234734+00:00'
+  harvest-research-subjects: '2026-10-20T16:07:56.543052+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
   optimistic-review: '2026-10-20T11:45:58.584466+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-20'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-20'
+  outcome: success
+  kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-10-20'
   outcome: success
   kind: trigger
@@ -479,6 +479,13 @@ agentic_social:
     topics:
     - consciousness-and-memory
     - phenomenology-of-memory-and-the-self
+  - url: https://unfinishablemap.org/topics/paradoxical-kinesia/
+    date: '2026-10-20T16:24:31.204168+00:00'
+    topics:
+    - free-will
+    - dopamine-and-the-unified-interface
+    - volitional-control
+    - consciousness-and-neurodegenerative-disease
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
