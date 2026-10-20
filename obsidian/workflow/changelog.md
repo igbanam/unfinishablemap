@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T00:12:26+00:00
+ai_modified: 2026-10-20T00:27:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:27 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Task**: Verify the L124–126 "O'Connor-Wong and the Map's Framework" characterisation ("aligns closely"; "acknowledge that strongly emergent properties require something outside the purely physical domain") against O'Connor & Wong (2005). Source: left-open item 1 of reviews/deep-review-2026-10-09-emergent-dualism.
+- **Original score**: n/a (`scripts/curate.py` absent; verification pass)
+- **Verification**: Crossref confirms the reference (DOI 10.1111/j.0029-4624.2005.00543.x, *Noûs* 39(4):658–678, Dec 2005). Text was read in full from the authors' final preprint (MetaphEm_final, 2004; the archived SEP Summer 2020 entry links it), via the Wayback copy, and grepped. The archived SEP O'Connor & Wong revision (3 June 2015) was also grepped. Findings: (a) the closure denial is accurate. "Is ... physics more generally, on the present picture -- causally closed? Clearly, the answer is No". The authors also say their rejection of closure "is more qualified" than traditional dualism's. (b) "Outside the purely physical domain" overstates them. Emergent properties are "nonstructural properties of composite individuals" that "arise from and are sustained by underlying microstructures", and they appear "only in physical systems achieving some specific threshold of organized complexity". They criticise substance dualism, including its emergentist version. (c) They are not naturalists in a sense that would deny any overlap with the Map: they call their view "the emergentist property dualism envisioned here", and they say the evidence "strongly favors a dualist direction". (d) "Leave the locus abstract" was imprecise. What they actually leave open is the generating dynamics ("a matter for empirical theory, not a priori analysis").
+- **Changes**: (1) L124: "aligns closely with the Map's framework" → "shares much with the Map's framework, including an explicit, if qualified, denial of causal closure". (2) L126 rewritten: emergent properties are now described as basic properties of composite physical systems, caused and sustained by their microstructure ("emergentist property dualism", quoted verbatim), with the dynamics left to empirical theory. The non-physical, co-fundamental locus is now attributed to the Map ("co-fundamental rather than generated from below", matching L109).
+- **Pronoun/referent check**: L124 "Their structural triggering conditions" still resolves to O'Connor and Wong. The old L126 "where that something operates" was replaced by "where it operates" (it = consciousness). L130 has no dependency.
+- **Engagement modes**: n/a (exposition of an allied position, not a reply to an opponent)
+- **Not edited (reported)**: (a) L87 quotes "fundamentally novel". That string is in neither the preprint nor the archived SEP; the preprint says "a fundamentally new kind of feature", and "genuinely novel causal powers" is Kim's phrase, which O&W quote. The same quote appears in `concepts/causal-closure` L160. (b) "latent dispositions (triggered only ...)" is O&W's wording for the rival micro-dispositional strategy they argue against. `topics/the-strong-emergence-of-consciousness` L131 attributes "latent dispositions become active" to O&W. Their own view does posit a micro-level disposition "to give rise to an emergent property under suitable circumstances". (c) research/emergent-dualism-2026-07-12 L153 was deliberately left alone. The research notes for emergence and downward causation from 2026-01-15 repeat "aligns closely". They are historical records and were not edited.
+- **Length** (analyze_length; gate fires at >=): 2926 → 2954 (+28; concepts hard 3500; soft_warning; 545 headroom).
+- **Frontmatter**: `ai_modified` → 2026-10-20T00:26:04+00:00; `claude-opus-5-5` appended to `ai_system` (it was absent).
+- **Validation**: validate.py Invalid 0; sync clean. The Hugo copy has the new strings and none of the old ones.
+- **Published**: yes
 
 ## 00:12 - refine-draft
 - **Status**: Success

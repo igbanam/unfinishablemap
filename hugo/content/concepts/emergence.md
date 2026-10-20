@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-07-28 15:13:54+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-20 00:26:04+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[bi-aspectual-ontology]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:24:36+00:00
-lastmod: 2026-07-28 15:13:54+00:00
+lastmod: 2026-10-20 00:26:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,9 +125,9 @@ What the Map *does* provide that classical emergentism lacked is a principled an
 
 ## O'Connor-Wong and the Map's Framework
 
-O'Connor and Wong's account of emergent properties with novel causal powers aligns closely with the Map's framework. Their structural triggering conditions parallel how quantum indeterminacies in neural systems provide openings for consciousness to act—though whether such indeterminacy survives neural-scale decoherence is the central physical objection, addressed in [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/).
+O'Connor and Wong's account of emergent properties with novel causal powers shares much with the Map's framework, including an explicit, if qualified, denial of causal closure. Their structural triggering conditions parallel how quantum indeterminacies in neural systems provide openings for consciousness to act—though whether such indeterminacy survives neural-scale decoherence is the central physical objection, addressed in [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/).
 
-The difference: O'Connor and Wong acknowledge that strongly emergent properties require something outside the purely physical domain—their emergentism explicitly denies causal closure—but leave the locus abstract. The Map identifies where that something operates—quantum indeterminacies—and surveys candidate [coupling mechanisms](/concepts/psychophysical-laws/), even though the specific coupling law remains open.
+The difference: for O'Connor and Wong, emergent properties are basic properties of composite physical systems, caused and sustained by their microstructure—a view they describe as an "emergentist property dualism"—and the generating dynamics are left to empirical theory. The Map treats consciousness as co-fundamental rather than generated from below, identifies where it operates—quantum indeterminacies—and surveys candidate [coupling mechanisms](/concepts/psychophysical-laws/), even though the specific coupling law remains open.
 
 ## Comparing Challenges
 
