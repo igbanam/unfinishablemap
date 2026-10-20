@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-06 23:21:26+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-10-20 20:25:15+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/reductionism/
@@ -23,7 +23,7 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[parsimony-epistemology]]'
 created: 2026-01-19
-date: &id001 2026-06-17
+date: &id001 2026-10-20
 description: Reductionism succeeds across science—temperature, life, heredity all
   reduce—yet fails categorically at consciousness. From Nagel's bridge laws to Kim's
   functional-reduction concession, why mind is the singular exception.
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:56:56+00:00
-lastmod: 2026-10-06 23:21:26+00:00
+lastmod: 2026-10-20 20:25:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -161,7 +161,7 @@ The "future science" analogy is also misleading on its own terms. Past reduction
 
 Consciousness is first-personal. It has an intrinsic qualitative character—what Thomas Nagel (1974) called the "something it is like." No structural, functional, or relational description captures this, because such descriptions concern *form*—how elements relate—while experience has *content*: what it is like from the inside. The gap between form and content is conceptual, not empirical; more data cannot close it because data is itself structural. This is the same fault Locke tried to mark with the [primary/secondary-quality distinction](/topics/primary-secondary-quality-boundary/), whose own boundary, like this gap, admits no clean criterion.
 
-The reply presupposes a residue — content left over once form has been described. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so on its strongest reading there is no residue to omit and this argument does not land. That reading is a composite the Map assembles, joining a thesis about the ontology of physics to a claim about phenomenal character that has its own literature; only the joining is unpublished. What it removes is this route to the conclusion, not the dualist conclusion itself.
+The reply presupposes a residue — content left over once form has been described. [Ontic structural realism](/concepts/ontic-structural-realism/) holds that relational structure is what fundamentally exists, so on its strongest reading there is no residue to omit and this argument does not land. That reading is a composite the Map assembles, joining a thesis about the ontology of physics to a claim about phenomenal character that has its own literature; Tegmark (2008) asserts the joining in outline but does not argue it for experience. What the composite removes is this route to the conclusion, not the dualist conclusion itself.
 
 This diagnosis is a claim about category, distinct from [mysterianism](/concepts/mysterianism/)'s claim that the problem is permanently unsolvable by us: reductionism fails for consciousness because phenomenal qualities belong to a different category than the structural-functional properties it handles. Asking reductionism to explain qualia is like asking geometry to explain colour—the tools are wrong for the domain. Mysterianism nonetheless offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a closable gap.
 
@@ -252,3 +252,5 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) converges from a furth
 15. Polger, T.W. & Shapiro, L.A. (2016). *The Multiple Realization Book*. Oxford University Press.
 
 16. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (Eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
+
+17. Tegmark, M. (2008). The Mathematical Universe. *Foundations of Physics*, 38(2), 101-150. https://doi.org/10.1007/s10701-007-9186-9

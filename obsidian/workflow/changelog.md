@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T20:06:30+00:00
+ai_modified: 2026-10-20T20:26:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:26 - refine-draft
+- **Status**: Success
+- **File**: [[topics/primary-secondary-quality-boundary]] + [[concepts/reductionism]] (two files)
+- **Original score**: n/a (review-driven propagation task; `scripts/curate.py` absent)
+- **Source**: [[reviews/deep-review-2026-10-20-ontic-structural-realism]] Critical 1 (Tegmark 2008 carries OSR across to observers by assertion). Wording reused from [[concepts/ontic-structural-realism]] L37/L59.
+- **Word count** (analyze_length): primary-secondary-quality-boundary 2577 → 2610 (+33, including a new 13-word reference; topics hard 4000, ok, 1389 headroom). reductionism 3400 → 3422 (+22: +10 prose, +12 reference; concepts hard 3500, soft_warning, 77 headroom).
+- **Changes**: (1) primary-secondary L79: "but only the joining is unpublished: ontic structural realism is a thesis about the ontology of physics, and no OSR theorist carries it across to experience" → "and the joining is published only in outline: ontic structural realism is a thesis about the ontology of physics and is nearly silent on consciousness, and an OSR theorist who does carry it across to observers, Tegmark (2008), asserts the join without arguing it for experience". Later in the same paragraph, "the join between the two theses" → "the full join", so the Map's contribution no longer reads as the only join. Reference 15 (Tegmark 2008) added. (2) reductionism L160: "only the joining is unpublished" → "Tegmark (2008) asserts the joining in outline but does not argue it for experience". In the next sentence, "What it removes" → "What the composite removes", because the old "it" would now have attached to "the joining". Reference 17 added.
+- **Pronoun check**: primary-secondary: "carry it across" means OSR and "arguing it" means the join; "he coins the taxonomy" stays inside the Kleiner sentence. reductionism: "argue it" means the joining, and the next sentence's pronoun was replaced with "the composite".
+- **Verification**: raw curl plus Python grep, with no summariser used. SEP *Structural Realism* HTML (170,502 chars tag-stripped; revised 18 May 2023): "Tegmark (2008) explicitly embraces a Pythagorean form of OSR" has 1 hit. arXiv 0704.0646 PDF via pdftotext: "self-aware substructures" 1 hit, "subjective perceptions" 1, "infinitely intelligent mathematician" 1, '"ontic" version of universal structural realism' 1; "experience" 0, "qualia" 0, "phenomenal" 0. Tegmark also sets consciousness aside ("not necessary for a fundamental theory of physics"). Crossref 10.1007/s10701-007-9186-9: *Foundations of Physics* 38(2) 101–150, print Feb 2008. Neither page quotes Tegmark; both cite him inline only.
+- **Further copies**: live topics/concepts/voids/apex/positions/tenets in both obsidian and hugo: "joining is unpublished" 0, "no OSR theorist" 0, "carries it across to experience" 0. The sibling pages `galilean-exclusion` L72 ("largely silent"), `the-unfolding-argument…` L70 ("nearly silent") and `intrinsic-nature` L95 are hedged and were left alone. The research note `research/ontic-structural-realism-galilean-exclusion-2026-09-04` L45/L47 still says "No one holds the composite position" and "does not yet exist in print". It is a dated research record and was not edited (lead).
+- **Engagement modes** (editor-internal): Tegmark, Mode Three (named as the outline sketcher of the rival; nothing refuted).
+- **Published**: yes (synced; both hugo copies confirmed)
 
 ## 20:06 - deep-review
 - **Status**: Success

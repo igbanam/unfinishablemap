@@ -2,9 +2,9 @@
 title: "The Primary/Secondary-Quality Boundary as the Universal-Gap Fault-Line"
 description: "A human+AI consolidation of why Locke's primary/secondary-quality line admits no clean criterion—and why that same instability recurs as the explanatory and universal hard-problem gap."
 created: 2026-06-18
-modified: 2026-06-18
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-09-30T13:22:06+00:00
+ai_modified: 2026-10-20T20:25:15+00:00
 draft: false
 topics:
   - "[[emergence-as-universal-hard-problem]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[methodology-of-consciousness-research]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-06-18
 last_curated:
 last_deep_review: 2026-09-07T12:53:11+00:00
@@ -76,7 +76,7 @@ One position slips the charge. The stipulation diagnosis assumes a residue the c
 
 Against that position the Map argues on other ground, chiefly Newman's problem — and the ground is narrower than parity. Newman's 1928 objection to Russell was that structure alone fixes little more than cardinality, so a purely structural claim is either trivially satisfied or must import a non-structural fact about which relations are the real ones; Demopoulos and Friedman revived it in 1985 and drew the sharper consequence, that on a structure-only account almost nothing beyond cardinality is open to discovery. The objection was raised against *epistemic* structuralism, which is the Map's own commitment, and the Map cannot press it as though it were exempt. What it yields is an asymmetry in available replies rather than a refutation: the epistemic structural realist can locate the individuator in the nature beneath the structure, whereas the ontic reading, having denied any such nature, must find one inside structure or do without. That is a reply, and it leaves the Map owing an account of its own individuator that it does not have. [[ontic-structural-realism#newman|The structural-realism article]] sets the exchange out in full.
 
-Two cautions travel with the pointer. The strongest reading is a composite the Map assembles, but only the joining is unpublished: ontic structural realism is a thesis about the ontology of physics, and no OSR theorist carries it across to experience. The ontic claim about *phenomenal* character has its own literature and its own name. Kleiner (2025) transposes the epistemic/ontic fork onto the phenomenal and calls the second branch ontic phenomenal structural realism, on which "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" — he coins the taxonomy in the course of an argument about Newman's problem rather than declaring an allegiance, and it is Loorits who asserts the metaphysics outright. What the Map supplies is the join between the two theses, not either thesis. And what the composite would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
+Two cautions travel with the pointer. The strongest reading is a composite the Map assembles, and the joining is published only in outline: ontic structural realism is a thesis about the ontology of physics and is nearly silent on consciousness, and an OSR theorist who does carry it across to observers, Tegmark (2008), asserts the join without arguing it for experience. The ontic claim about *phenomenal* character has its own literature and its own name. Kleiner (2025) transposes the epistemic/ontic fork onto the phenomenal and calls the second branch ontic phenomenal structural realism, on which "phenomenal structures are ontologically basic: non-structural features of phenomenal character, such as intrinsic qualities, do not in fact exist" — he coins the taxonomy in the course of an argument about Newman's problem rather than declaring an allegiance, and it is Loorits who asserts the metaphysics outright. What the Map supplies is the full join between the two theses, not either thesis. And what the composite would remove is this defensive argument, not the dualist conclusion — an ontology with no quiddities in matter leaves open whether experience is exhausted by structure.
 
 ## Relation to Site Perspective
 
@@ -127,3 +127,5 @@ This article connects to two of the Map's [[tenets]] at calibrated strength.
 13. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
 
 14. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+
+15. Tegmark, M. (2008). The Mathematical Universe. *Foundations of Physics*, 38(2), 101–150. https://doi.org/10.1007/s10701-007-9186-9
