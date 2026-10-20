@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T01:52:32.930450+00:00'
-session_count: 22984
+last_updated: '2026-10-20T02:20:45.287062+00:00'
+session_count: 22985
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-20T01:09:19.706861+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
-  check-links: '2026-10-16T09:36:26.746338+00:00'
+  check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T00:52:16.879856+00:00'
   check-tenets: '2026-10-15T20:40:31.869989+00:00'
   coalesce: '2026-10-19T22:56:23.779535+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-19'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-19'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-20'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-20'
   outcome: success
   kind: trigger
@@ -506,6 +506,8 @@ queue_status:
     unconsumed_research: 3
 task_chains:
   pending_articles:
+  - research_file: obsidian/research/voids-drift-void-2026-10-20.md
+    target_section: voids
   - research_file: obsidian/research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15.md
     target_section: topics
   - research_file: obsidian/research/boltzmann-brains-and-the-theory-of-consciousness-as-a-cosmological-parameter-2026-10-15.md
