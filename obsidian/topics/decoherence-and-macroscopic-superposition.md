@@ -2,9 +2,9 @@
 title: "Decoherence and Macroscopic Superposition"
 description: "The quantum-classical boundary keeps receding. Hot cat states, nanoparticle interference, and biological quantum effects challenge assumptions about where coherence ends."
 created: 2026-01-27
-modified: 2026-01-27
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-07-22T17:16:52+00:00
+ai_modified: 2026-10-20T08:41:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,13 +22,13 @@ related_articles:
   - "[[topics/animal-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-07-19T01:16:52+00:00
 ---
 
-Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin, matter-wave interference in 7,000-atom nanoparticles, and quantum coherence in photosynthetic complexes all demonstrate that the warm-macro-therefore-classical assumption is empirically false as a categorical claim. The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
+Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin and matter-wave interference in 7,000-atom nanoparticles both demonstrate that the warm-macro-therefore-classical assumption is empirically false as a categorical claim. Biology's record is weaker and has been revised: the long-lived coherence once reported in [[#photosynthesis|photosynthetic complexes]] has been withdrawn (explained below). The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
 
 ## The Original Thought Experiment
 
@@ -76,13 +76,13 @@ But the result challenges the intuition that temperature *alone* determines the 
 
 ## Biological Quantum Effects
 
-Perhaps most surprisingly, quantum effects operate in warm, wet biological systems—precisely the conditions where they were thought impossible.
+Biology is where boundary claims have been most surprising and most often revised. Quantum coherence does occur in warm, wet biological systems, but the cases differ sharply in how long it lasts and whether it does any work.
 
 ### Photosynthesis
 
-When light strikes chlorophyll, the resulting excitation must reach reaction centres with remarkable efficiency (~99%). In 2007, researchers demonstrated quantum coherence in energy transfer through the Fenna-Matthews-Olson complex of green sulphur bacteria.
+When light strikes chlorophyll, the resulting excitation must reach reaction centres with remarkable efficiency (~99%). In 2007, Engel and colleagues reported long-lived electronic quantum coherence playing a part in energy transfer through the Fenna-Matthews-Olson complex of green sulphur bacteria, measured at 77 kelvin, and the result was widely read as evolution exploiting coherence.
 
-Subsequent work has substantially revised the initial claims. The long-lived oscillatory signals first read as electronic coherence are now widely attributed to vibrational (vibronic) motion of the pigment-protein scaffold rather than to long-lived electronic superposition; coherence times are shorter than first reported, and the efficiency enhancement may be smaller than hoped. But the demonstration established a crucial point: quantum effects *can* operate in biological conditions. The categorical objection—"warm systems cannot exhibit quantum behaviour"—is empirically false.
+That reading has since been withdrawn. The long-lived oscillatory signals first read as electronic coherence are now widely attributed to vibrational (vibronic) motion of the pigment-protein scaffold rather than to long-lived electronic superposition. Duan et al. (2017), working at ambient temperature in aqueous solution, found the electronic coherence itself decaying within about 60 femtoseconds, with no hint of any biofunctional role. What survives is modest. Short-lived electronic coherence does occur in a warm protein, which is enough to refute the crudest categorical objection—"warm systems cannot exhibit quantum behaviour"—but the orthodox picture of light harvesting already expected coherence this brief, and such coherence shows no sign of doing any work. Photosynthesis is therefore no precedent for functional quantum coherence in biology.
 
 ### Avian Magnetoreception
 
@@ -160,6 +160,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] is
 
 1. Arndt, M., & Hornberger, K. (2014). Testing the limits of quantum mechanical superpositions. *Nature Physics*, 10, 271-277.
 1. Babcock, N.S. et al. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *Journal of Physical Chemistry B*, 128(17), 4035-4046.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1245.
 1. Hackermuller, L. et al. (2004). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.

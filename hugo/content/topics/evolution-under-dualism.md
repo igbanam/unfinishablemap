@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-10-13 00:32:19+00:00
+ai_modified: 2026-10-20 08:41:26+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-02-12
-date: &id001 2026-10-13
+date: &id001 2026-10-20
 description: Natural selection works the same whether physicalism or dualism is true—but
   dualism changes what evolution means. Three models of what 'evolves' yield different
   predictions about animal minds and human uniqueness.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 08:50:13+00:00
-lastmod: 2026-10-13 00:32:19+00:00
+lastmod: 2026-10-20 08:41:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ The [evolutionary case for mental causation](/topics/evolutionary-case-for-menta
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-biology-and-neural-mechanisms/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has found evidence that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. No coherence-time calculation currently supports the neural cases, however, which distinguishes them from these established biological examples. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-biology-and-neural-mechanisms/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has found evidence that avian magnetoreception exploits quantum spin effects in a warm environment—the [leading account](/concepts/radical-pair-magnetoreception/) of the bird compass, though still unsettled in vivo. Photosynthesis, long cited beside it, no longer serves as a precedent: its electronic coherence decays within about 60 femtoseconds at ambient temperature and shows no biofunctional role (Duan et al., 2017). No coherence-time calculation currently supports the neural cases, however, which distinguishes them from the magnetoreception case. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
 
 **Attentional systems**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds are consistent with selection for richer conscious access to neural content. Computational accounts explain attentional complexity in terms of information processing demands, and the interface hypothesis does not predict features that those accounts cannot also accommodate—but the sophistication of attention is what both accounts would expect if consciousness plays a functional role.
 
@@ -195,6 +195,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
+1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Stacho, M., Herold, C., Rook, N., Wagner, H., Axer, M., Amunts, K., & Güntürkün, O. (2020). A cortex-like canonical circuit in the avian forebrain. *Science*, 369(6511), eabc5534. https://doi.org/10.1126/science.abc5534

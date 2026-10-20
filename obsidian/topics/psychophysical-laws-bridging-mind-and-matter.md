@@ -2,9 +2,9 @@
 title: "Psychophysical Laws: Bridging Mind and Matter"
 description: "If consciousness is distinct, laws must bridge mind and matter. Chalmers frames the upward leg; downward-selection candidates are not yet fully specified."
 created: 2026-01-26
-modified: 2026-02-07
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-11T23:51:08+00:00
+ai_modified: 2026-10-20T08:41:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-07
 last_curated:
 last_deep_review: 2026-07-16T02:31:00+00:00
@@ -169,7 +169,7 @@ Any quantum approach faces the objection that warm biological systems destroy qu
 
 **Disputed timescales.** Tegmark's (2000) calculations remain widely accepted. However, Hagan, Hameroff and Tuszyński (2002) challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing.
 
-**Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer.
+**Biological quantum effects exist.** On the leading [[radical-pair-magnetoreception|radical-pair account]], avian magnetoreception maintains spin coherence for microseconds in warm tissue.
 
 **Decoherence doesn't solve the measurement problem.** Even after preferred bases are selected through environmental interaction, something must determine *which* outcome occurs. Physics provides probability distributions without explaining why *this* particular result actualizes. That gap remains.
 

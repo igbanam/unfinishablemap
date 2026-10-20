@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-10-11 23:51:08+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-20 08:41:26+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/chalmers-psychophysical-coupling/
@@ -29,14 +29,14 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[tenet-falsification-conditions]]'
 created: 2026-01-26
-date: &id001 2026-02-07
+date: &id001 2026-10-20
 description: If consciousness is distinct, laws must bridge mind and matter. Chalmers
   frames the upward leg; downward-selection candidates are not yet fully specified.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 02:31:00+00:00
-lastmod: 2026-10-11 23:51:08+00:00
+lastmod: 2026-10-20 08:41:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -172,7 +172,7 @@ Any quantum approach faces the objection that warm biological systems destroy qu
 
 **Disputed timescales.** Tegmark's (2000) calculations remain widely accepted. However, Hagan, Hameroff and Tuszyński (2002) challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing.
 
-**Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer.
+**Biological quantum effects exist.** On the leading [radical-pair account](/concepts/radical-pair-magnetoreception/), avian magnetoreception maintains spin coherence for microseconds in warm tissue.
 
 **Decoherence doesn't solve the measurement problem.** Even after preferred bases are selected through environmental interaction, something must determine *which* outcome occurs. Physics provides probability distributions without explaining why *this* particular result actualizes. That gap remains.
 

@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 07:58:45+00:00
+ai_modified: 2026-10-20 08:41:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 07:58:45+00:00
+lastmod: 2026-10-20 08:41:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:41 - refine-draft
+- **Status**: Success
+- **Files**: [evolution-under-dualism](/topics/evolution-under-dualism/), [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/), [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) (TL;DR, §4 row 1), [outer-review-2026-10-20-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro/) §5.3, [outer-review-synthesis-2026-10-20](/reviews/outer-review-synthesis-2026-10-20/) cluster 1 (P2→P1)
+- **Original score**: n/a (`scripts/curate.py` absent). Verified defect: three pages still cited photosynthetic coherence as live or functional evidence after its withdrawal as a precedent (`positions/quantum-interface-calibration-history`, 2026-07-30).
+- **Source check**: Duan et al. (2017) abstract pulled raw from Europe PMC: "at ambient temperature in aqueous solution", "rapidly decaying electronic quantum coherence on a timescale of 60 fs", "give no hint that electronic quantum coherence plays any biofunctional role", and the short-lived coherence is "the orthodox view". Engel et al. (2007) abstract: "remarkably long-lived electronic quantum coherence playing an important part in energy transfer", measured "at 77 K". Metadata: PNAS 114(32):8493-8498.
+- **Length** (`analyze_length`; topics hard 4000): evolution-under-dualism 3699 → 3785 (+86, of which ~40 is the new Duan reference); decoherence-and-macroscopic-superposition 3183 → 3330 (+147, ~40 of it the reference); psychophysical-laws 3498 → 3496.
+- **Changes**:
+  - (1) evolution-under-dualism L131: photosynthesis dropped from "exploit quantum effects"; magnetoreception now graded the [leading account](/concepts/radical-pair-magnetoreception/), "though still unsettled in vivo" (matching [P-Q8](/positions/quantum-interface/#p-q8)); one sentence records the photosynthesis withdrawal (Duan 2017). "These established biological examples" became "the magnetoreception case", so the referent survives and "established" is gone. Duan 2017 added to References.
+  - (2) decoherence-and-macroscopic-superposition L31: photosynthesis removed from the "demonstrate" list (two physics items remain), plus a front-loaded sentence saying biology's record is weaker and the long-lived photosynthetic claim was withdrawn, with an anchor to the section. L79 section lead: "quantum effects operate ... where they were thought impossible" became "coherence does occur ... but the cases differ sharply in how long it lasts and whether it does any work". L83–85 Photosynthesis section: "researchers demonstrated" became "Engel and colleagues reported ... measured at 77 kelvin"; "the demonstration established a crucial point" was replaced by the Duan result. What survives is that short-lived coherence occurs in a warm protein, which refutes only the crudest categorical objection, was already the orthodox expectation, and shows no sign of doing work, so it is "no precedent for functional quantum coherence in biology". Duan 2017 added to References; Engel 2007 kept as history.
+  - (3) psychophysical-laws L172: "Photosynthesis exploits quantum coherence for energy transfer." deleted rather than replaced. Under "considerations [that] moderate this concern", a ~60 fs coherence would confirm the objection's femtosecond timescale, not moderate it. Magnetoreception kept and hedged: "On the leading [radical-pair account](/concepts/radical-pair-magnetoreception/), ...".
+- **Reasoning mode**: n/a (an empirical-claim correction; no named-opponent reply was edited).
+- **Not touched**: `concepts/binding-problem` L169 (own P3), `concepts/libet-experiments` L129 and `voids/amplification-void` L45 (out of scope per task). Magnetoreception "demonstration/established" wording at decoherence L93, L113 and L139 left unchanged (out of the photosynthesis scope; reported as a lead).
+- **Published**: yes (synced; new text confirmed in all three `hugo/content/topics/` copies, old photosynthesis loci absent, both new wikilinks and the `#photosynthesis` anchor resolve)
 
 ## 07:58 - refine-draft
 - **Status**: Success
