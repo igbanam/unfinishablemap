@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T20:26:35+00:00
+ai_modified: 2026-10-20T20:42:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:42 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-exclusion-argument]]
+- **Original score**: n/a (review-driven task; `scripts/curate.py` absent)
+- **Source**: [[reviews/pessimistic-2026-10-20-causal-exclusion-argument]] What to Fix First items 1–4, plus issues 5–7 (words allowed). Wording aligned with [[concepts/causal-closure]] L138 and [[arguments/materialism-argument]] L98.
+- **Word count** (analyze_length): 2841 → 3051 (+210: items 1–4 +154, issues 5–7 +56; concepts hard 3500, soft_warning, 448 headroom).
+- **Changes**: (1) route 3 scoped to closure stated as sufficiency; chance-fixing closure conceded under exact Born preservation (link to causal-closure, no new Papineau quote); "whether settling counts as causing" marked open via `positions/quantum-interface#^mechanism-debt`. Relation/Tenet 2 now says selection does not escape chance-fixing closure and records the P-Q3 epiphenomenalism pressure as open; "positive answer to premise 2" → "answer to premise 2's sufficiency clause". (2) Saad polarity fixed: "denies only *observational* closure (Saad)" → "keeps only [[observational-closure|observational closure]] (Saad 2025)"; Saad 2025 References entry added. (3) L65 "interventionist rescues below" scoped to realization-based ones, Vaassen's dualist interventionism (route 2) excepted. (4) Tenet 5 drainage: "shows … a clean case" → "would show …", Kim's reply named as contested, "a candidate case …, not a clean one". Verb-strength only; the Tenet 5 tiebreaker doctrine (NEEDS-HUMAN 2026-09-19) is untouched. (5) Route 3 now carries "on single-outcome indeterministic readings"; new Tenet 4 line in the Relation section (route 3 presupposes a single outcome; Everett denies it). (6) Under the "Reductionist / eliminativist" heading, one sentence: eliminativists deny premise 1. (7) L86: "the first incompatible with Tenet 1, the second with …".
+- **Deviations from the review's replacement text** (pronoun/referent checks): 1a "that route 4 prices" → ", a bill route 4 does not pay" (route 4's paragraph says Gibb's route does not pay P-Q3); 1b "It does not escape" → "Such selection does not escape" ("It" would have bound to "closure"); "the register" → "the positions register"; 4 "This is a candidate case" → "Drainage is thus a candidate case" ("This" would have bound to Kim's reply). Commas added after "sufficiency" and "if it holds".
+- **Verification**: all 6 review "current" strings occurred exactly once (scripted extraction from the review file). Saad 2025 re-checked at Crossref API (raw JSON): title "A dualist theory of experience", *Philosophical Studies* 182(3-4): 939-967, 2025; abstract "(2) ensure that experiences do not cause observable violations of the causal closure of the physical domain". `concepts/observational-closure` L32/L46 and `topics/delegatory-dualism` L68–L132 agree (Saad keeps Observational Closure and does not require universal Closure). Hugo build to scratch: the links render as `/positions/quantum-interface/#mechanism-debt` (target `id="mechanism-debt"` present), `/concepts/observational-closure/`, `/tenets/#no-many-worlds` and `/concepts/many-worlds/`.
+- **Engagement modes** (editor-internal): chance-fixing exclusionist, Mode Three (whether settling is causing is marked as a framework boundary, not refuted); Kim's drainage reply, reported as contested (no refutation claimed); eliminativist, Mode Three (premise-1 denial stated, not argued against).
+- **Leads not acted on**: L63 "which is what the physicalist picture denies" names no critic; L55 "for a non-partisan reader, the most telling"; L78 Kroedel/Vaassen/Mills/Lowe have no years; the review's Tegmark (amplification pointer) and Popper (horn (a) pointer) suggestions; the review's propagation lead of 8 "no sufficient physical cause" lines without a chance/Born/P-Q3 qualifier (an upper bound, unverified).
+- **Published**: yes (synced; hugo copy confirmed)
 
 ## 20:26 - refine-draft
 - **Status**: Success
