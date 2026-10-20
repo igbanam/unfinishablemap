@@ -2,9 +2,9 @@
 title: "Anomalous Monism and the Denial of Strict Psychophysical Laws"
 description: "Davidson's anomalous monism holds mental events are physical yet lawless. A human-AI reading of why the Map shares its anti-reductive premise but rejects its no-law verdict."
 created: 2026-07-10
-modified: 2026-07-10
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-07-27T13:54:04+00:00
+ai_modified: 2026-10-20T18:53:24+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[philosophy-of-action-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-10
 last_curated:
 last_deep_review: 2026-07-27T13:54:04+00:00
@@ -64,7 +64,7 @@ The Map's stance toward anomalous monism is genuinely double-edged, and honesty 
 
 **Where they agree.** The Map does not defend strict *reductive* psychophysical bridge laws. It accepts, with Davidson, that the mental and physical vocabularies cross-classify and that no clean type-type reduction of experience to neural kinds is on offer. The Map's [[supervenience|acceptance of phenomenal-physical covariance]] without reductive collapse is close in letter to Davidson's supervenience-without-reduction.
 
-**Where they split.** Davidson concludes from the failure of reductive laws that there is *no* psychophysical law. The Map draws the opposite lesson from the epiphenomenalism objection. If Honderich, Sosa, and Kim are even roughly right that causal relevance needs a nomic anchor, then a view that keeps consciousness genuinely efficacious — which [[tenets|Tenet 3]] demands — needs *some* law-like psychophysical link, not none. The Map's proposal ([[tenets|Tenet 2]]) is that this link is a minimal, non-strict, probabilistic *selection law* at the quantum measurement interface: consciousness biases the probabilities of otherwise-indeterminate quantum outcomes, doing the least work compatible with having real effects. That is neither a strict reductive bridge law (so it survives Davidson's anti-reduction argument) nor lawlessness (so it escapes the property-epiphenomenalism that dogs Davidson).
+**Where they split.** Davidson concludes from the failure of reductive laws that there is *no* psychophysical law. The Map draws the opposite lesson from the epiphenomenalism objection. If Honderich, Sosa, and Kim are even roughly right that causal relevance needs a nomic anchor, then a view that keeps consciousness genuinely efficacious — which [[tenets|Tenet 3]] demands — needs *some* law-like psychophysical link, not none. The Map's proposal ([[tenets|Tenet 2]]) is that this link is a minimal, non-strict, probabilistic *selection law* at the quantum measurement interface: consciousness biases the probabilities of otherwise-indeterminate quantum outcomes, doing the least work compatible with having real effects. That is neither a strict reductive bridge law (so it survives Davidson's anti-reduction argument) nor lawlessness (so it can escape the property-epiphenomenalism that dogs Davidson, but only if the law answers to [[acquaintance-without-causation#content-efficacy|what consciousness presents]], the open question [[ensemble-level-epiphenomenalism]] records).
 
 So the Map treats Davidson as the *sophisticated physicalist alternative it must out-argue*, and the epiphenomenalism objection as the lever. Davidson buys mental efficacy only by denying property-causation across the board — an exit the Map declines, because it wants robust *property-level* (indeed quantum-level) mental influence, not bare event-causation. Note also the deeper disagreement: Davidson is a physicalist who rejects dualism, whereas the Map is dualist ([[tenets|Tenet 1]]). Anomalous monism is thus a rival ontology, not a friend wearing different clothes.
 

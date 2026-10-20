@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T18:48:11+00:00
+ai_modified: 2026-10-20T18:55:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:55 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]
+- **Original score**: n/a (review-driven task; `scripts/curate.py` absent)
+- **Source**: [[reviews/optimistic-2026-10-20-relocation-wing]], Priority List item 1. OLD/NEW strings pulled from the review by script; OLD matched exactly once.
+- **Word count**: 2061 → 2077 (+16, analyze_length; concepts soft 2500 / hard 3500; ok before and after).
+- **Changes**: L67 parenthetical "(so it escapes the property-epiphenomenalism that dogs Davidson)" became conditional: "can escape … but only if the law answers to what consciousness presents, the open question ensemble-level-epiphenomenalism records". It now links [[acquaintance-without-causation#content-efficacy]] and [[ensemble-level-epiphenomenalism]] (the page's first link to either). The edit weakens the claim: the escape is no longer stated as achieved, which matches tenets.md L95 ("a posit the interface argument leaves open") and acquaintance L106–L108 (content-blind interactionism does no better than epiphenomenalism; the Map's content clause is a posit). Tenet 3's content-efficacy posit stays open.
+- **Pronoun check**: "That" and both uses of "it" still refer to the selection law; "the law" is explicit; the next paragraph opens "So the Map…", so nothing is left without a referent.
+- **Engagement modes** (editor-internal): Davidson standoff unchanged (the 07-27 stability note treats it as bedrock); the edit changes only how firmly the Map states its own escape.
+- **Verification**: synced; a scratch Hugo build has `id="content-efficacy"` on the acquaintance page, and both links resolve on the built anomalous-monism page.
+- **Published**: yes
 
 ## 18:48 - pessimistic-review
 - **Status**: Success
