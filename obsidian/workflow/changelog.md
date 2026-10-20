@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T09:07:00+00:00
+ai_modified: 2026-10-20T09:24:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:24 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/binding-problem]]
+- **Source**: [[reviews/tenet-check-2026-10-15]] Warning 2 (replacement strings), corroborated by [[reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro]] §4 row 8, §5.3, improvement 17 and [[reviews/outer-review-2026-10-20-claude-opus-5-5]]; raised P3→P2 by [[reviews/outer-review-synthesis-2026-10-20]] cluster 1
+- **Original score**: n/a (`scripts/curate.py` absent). Verified defect: L169 said avian magnetoreception and photosynthesis "demonstrate evolution can harness quantum coherence". Photosynthesis was withdrawn by P-Q8 (`positions/quantum-interface` L135, "no longer supports the claim"), and the compass is "leading but unsettled" at tenets.md L79. Both were read at source before editing.
+- **Length** (`analyze_length`; concepts hard 3500): 3370 → 3388 (+18, as the review specified; 111 below the ceiling).
+- **Changes** (the review's exact strings, pulled from the review file by script; each old string matched exactly once):
+  - (1) L169, last sentence: "Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence." → "Avian magnetoreception's leading but unsettled radical-pair model is the one surviving precedent that warm biology can host functional quantum effects; photosynthesis no longer serves ([[positions/quantum-interface#^p-q8|P-Q8]])." (+11). "Demonstrate" is gone, and photosynthesis is withdrawn rather than offered as a precedent. The compass grading uses the wording of tenets.md L79 and agrees in substance with today's installs at `psychophysical-laws-bridging-mind-and-matter` L172 and `evolution-under-dualism` L131.
+  - (2) L167: "The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia." → "The quantum model predicted this, though the result also admits a classical reading and has not been independently replicated." (+3). This matches the 10-14 `apex/process-and-consciousness` L103 recalibration.
+  - (3) L172, opening: "Two lines carry weight—pharmacological predictions confirmed, imaging signatures detected—and" → "Two lines carry weight—a pharmacological prediction met, imaging signatures reported, neither independently replicated—and" (+4).
+- **Extra fix**: none. The review's L169 string already met the driver's criteria (no "demonstrate", photosynthesis withdrawn, compass graded leading but unsettled, no Xu 2021 claim added).
+- **Pronoun check**: L167 "this" still refers to the delayed-anaesthesia result. L169 introduces no pronoun. L172 "they" still refers to "Two lines". No repair was needed.
+- **Calibration**: all three edits weaken claims; none strengthens one. Rung: compatible.
+- **Reasoning mode**: n/a (an empirical-grading correction; no named-opponent reply was edited).
+- **Not touched**: the L165 frame "toward direct support" and the L172 tail "classical theories must now explain these specific patterns" (the review gave no strings; reported as leads). The three topics pages from commit 740a7002 were also left alone, per the task.
+- **Published**: yes (synced; see the Hugo verification)
 
 ## 09:07 - pessimistic-review
 - **Status**: Success
