@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T15:39:19+00:00
+ai_modified: 2026-10-20T17:03:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:03 - research-topic
+- **Status**: Success
+- **Topic**: Agent causation and acting for reasons (how agent-caused choices are made *for* reasons: O'Connor's non-causal account, Clarke's integrated view, Lowe's uncaused volitions)
+- **Output**: [[research/agent-causation-and-acting-for-reasons-2026-10-20]]
+- **Verdict**: recommended_action `article` → `topics/agent-causation-and-acting-for-reasons` (slug free; topics 350/370)
+- **Sources consulted**: 24 (SEP incompatibilism and Free Will entries raw; Crossref/OpenAlex abstracts for O'Connor 2000, Clarke 2003/2005/2011, Lowe 2008, Martinez 2024, Taggart 2021; NDPR reviews by Carlsson and Griffith raw; Fischer, Buckareff and Matheson reviews as PDF; Google Books snippets of O'Connor 2000 and Clarke 2003; Clarke CV)
+- **Key findings**: Lowe posits uncaused volitions and denies that reasons are causes (Griffith, NDPR, raw), so the Map's "close to Lowe" hybrid and its causal skeleton pull apart at the reasons-to-choice link. Clarke holds the integrated view adequate only if substance causation is possible, and judges it probably impossible. The Map holds pieces of all three options without choosing. Side-finding (lead): `concepts/agent-causation` L83 is a third Lowe misattribution site outside the queued P2.
 
 ## 15:39 - refine-draft
 - **Status**: Success
