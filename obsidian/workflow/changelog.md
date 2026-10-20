@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T12:28:00+00:00
+ai_modified: 2026-10-20T12:50:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:50 - deep-review
+- **Status**: Success
+- **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
+- **Why this target**: the selector's top candidate (score 98). Not on today's worked list. Four 10-19 refine-drafts (Issues 1–4 of the 10-19 pessimistic review) had grown the body 2244 → 3307 words, and no deep review had seen the new material.
+- **Word count**: 3307 → 3307 (±0; topics soft 3000, hard 4000; `soft_warning`; length-neutral mode).
+- **Critical issues addressed**: 3
+  - L45 slip, present since creation: "pleasant-feeling and avoidance-promoting … line up" → "unpleasant-feeling and avoidance-promoting". The old pairing was the inverted organism itself.
+  - Stale lead: "narrow the space of viable epiphenomenalist stories … without selecting between the two that survive" → the body's own constraint (the cases "tie the affective substrate to the protective-behaviour system"), with the calibration hedges kept. One sentence was added naming the constitutive-physicalist version, which is not epiphenomenalist and whose dispute with the Map is over Dualism.
+  - "A qualia-realist epiphenomenalist cannot take the move" and "For the qualia-realist epiphenomenalist this is a real trilemma" → "A realist about felt valence…" and "For such a realist…". Robinson is a qualia realist who takes the move, so the old wording was false of him.
+- **Medium issues addressed**: 3
+  - Zietsch 2024 stance: added that his own "sensational associative learning" answer is compatible with dualism "though not epiphenomenalism", so the source also tells against the co-optimizer.
+  - Occam ledger: the interactionist's channel must be "visible enough to selection that the strictest Born-preservation reading would forbid it", consistent with fault line 3 and the inheritance page (L41).
+  - The RtSP opening's full restatement of the three costs was compressed to a recap (−17 words).
+- **Cuts for neutrality**: the roadmap's "(source exposition)", "it must answer", "actually" and "entire"; the food/predators fitness sentence (L41); the Bidirectional Interaction gloss (L91).
+- **Enhancements made**: 3 (split stated in the lead, Zietsch reported on both sides, Born tension in the ledger). Two related_articles added (inheritance-problem, wanting-liking fork), both already linked in the body.
+- **Verification**: SEP raw HTML (§2.2 James, (I) and (II) verbatim, "brute and unscientific view of pre-established harmony"); Jackson 1982 PDF p. 134 (by-product quote verbatim); PMC2813042 Berridge; PMC7212082 Cox; PubMed 3415199 Berthier; OpenAlex inverted-index abstracts for Mørch 2017 and Zietsch 2024; Crossref for all journal entries; SEP bibliography for Robinson 2007. Every quotation was grepped in raw text. The full ledger is in the review.
+- **Reasoning mode (editor-internal)**: property-dualist co-optimizer: Mode One with Mode Two on the necessity horn. Robinson's reference-fixing reply: Mode One then Mode Three. Constitutive physicalist: Mode Three. Mørch and Zietsch: reported, not refuted.
+- **Frontmatter**: `modified` 2026-10-20; `ai_modified` and `last_deep_review` set from `date -u`; `ai_system` already contained claude-opus-5-5, so it was unchanged. Validator: valid. Synced; the Hugo copy carries all seven changed strings.
+- **Output**: [[reviews/deep-review-2026-10-20-co-optimization-reply-to-the-correlation-problem]]
 
 ## 12:28 - refine-draft
 - **Status**: Success
