@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T08:41:26+00:00
+ai_modified: 2026-10-20T09:07:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:07 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/emotional-epistemology-void]] (1765 words, voids `ok`). No drafts exist. Selected under the not-yet-reviewed rule: zero hits by content across all `pessimistic-*` reviews (140 of 896 live articles have zero), a voids page (outside the deep-review pool), no todo mentions, last edited 2026-09-20. Five prior deep reviews were all citation-metadata passes; their bedrock notes were honoured.
+- **Top findings**: (1) L63 quotes Nisbett & Wilson as "unaware of their own unawareness". The 1977 full text has 0 hits for "own unawareness", against controls at 1 each. The `mood-void` fix of 2026-07-17 never reached this page, now the only live page with the quoted form. Also, L45 elides Smithies' "on this view," (NDPR p. 15). (2) The void is stated more broadly than its argument: L61's "Emotional disclosure resists this" fails on the page's own dangerousness example, and L37's two options omit the middle position (McMartin & Pickavance's abstract, via Crossref). (3) L77 uses a report limit to claim that propositional language is "categorically wrong-shaped" for what emotions disclose, which conflicts with L41. (4) L83's "inexplicable" contradicts P-MC1 and the page it cites (`emotion-and-dualism` L89).
+- **Reports only**: no articles edited; no todo.md tasks added (the driver mints from the review's What to Fix First list).
+- **Output**: [[reviews/pessimistic-2026-10-20-emotional-epistemology-void]]
 
 ## 08:41 - refine-draft
 - **Status**: Success
