@@ -2,9 +2,9 @@
 title: "The Agency Budget"
 description: "How much selection survives exact Born-rule preservation: a coupling-theoretic conservation law, its ceiling, and its price — refined by human-AI iteration."
 created: 2026-08-16
-modified: 2026-08-16
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-05T12:20:47+00:00
+ai_modified: 2026-10-20T13:41:37+00:00
 last_deep_review: 2026-09-18T10:59:02+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-08-16
 last_curated:
 ---
@@ -35,7 +35,7 @@ Applied to the Map's default reading of [[tenets#^minimal-quantum-interaction|Mi
 
 > Σ<sub>C</sub> P(o | C, X) · P(C | X) = q(o | X)
 
-where C ranges over conscious states, o over outcomes, and q is the Born distribution. Selection may correlate arbitrarily with C; what it may not do is disturb the o-marginal within any publicly assemblable ensemble.
+where C ranges over conscious states, o over outcomes, and q is the Born distribution. For a fixed distribution of conscious states, selection may correlate arbitrarily with C, a freedom that survives re-weighting of that distribution only under a further law [[#what-it-does-not-establish|explained below]]; what selection may not do is disturb the o-marginal within any publicly assemblable ensemble.
 
 Two qualifications belong with that headline rather than after it. First, the theorems that make the budget calculable come from [[#the-coupling-result|classical information theory]] (perfectly secure steganography, explained below) and say nothing about consciousness; **the mapping onto mental causation is the Map's own construction, not a published result**. Second, the same theorem that grants the budget fixes its price: perfect statistical concealment is *equivalent to* zero third-person evidence, which formalises [[concepts/ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] and [[apex/self-concealing-interface|self-concealment]] rather than escaping them. Per the mechanism-debt convention in [[positions/quantum-interface#^mechanism-debt|the quantum-interface register]], everything here is citable as framework-internal coherence arithmetic and never as established mental causation.
 
@@ -99,6 +99,8 @@ One dependency should be flagged rather than asserted. The per-context form of t
 ## What the Budget Does Not Establish {#what-it-does-not-establish}
 
 The neutral definition alone yields a consistency result: distribution-preservation and correlated selection can coexist. Everything beyond that follows only if the Map's interpretation is granted.
+
+Because a coupling fixes both marginals, that consistency result holds for one distribution of conscious states, and a second dependency follows. Suppose outsiders re-weight P(C | X) by instruction, recruitment or incentive while the conditionals stay fixed; privacy cannot block this, because nothing reads C. An ensemble stacked with one state c then forces P(o | c, X) = q(o | X) for every c, and the budget is zero. A nonzero budget needs a further law: either [[apex/born-preserving-causal-efficacy#where-a-selection-could-show-if-anywhere-the-conditional-signature|psychophysical superselection]], a "companion law over the distribution of conscious reasons" that makes the unbalancing re-weightings physically unachievable, or a compensation law re-tuning the conditionals to each context's intention mix. The coupling arithmetic stands; the Map has written neither law.
 
 The coupling theorems are proved for classical distributions. The quantum version is open territory: couplings defined over measurement contexts, the constraints contextuality imposes, and whether Gleason's theorem — which fixes the admissible probability assignments over projections in Hilbert spaces of dimension three or more — narrows the set of physically realisable couplings. None of this has been worked out here or, so far as these searches found, elsewhere.
 

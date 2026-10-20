@@ -1,22 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-10-05 12:20:47+00:00
-ai_system: claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-20 13:41:37+00:00
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/ensemble-level-epiphenomenalism]]'
 - '[[concepts/causal-consistency-constraint]]'
 - '[[concepts/selection-criterion-problem]]'
 created: 2026-08-16
-date: &id001 2026-08-16
+date: &id001 2026-10-20
 description: 'How much selection survives exact Born-rule preservation: a coupling-theoretic
   conservation law, its ceiling, and its price — refined by human-AI iteration.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 10:59:02+00:00
-lastmod: 2026-10-05 12:20:47+00:00
+lastmod: 2026-10-20 13:41:37+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -38,7 +38,7 @@ Applied to the Map's default reading of [Minimal Quantum Interaction](/tenets/#m
 
 > Σ<sub>C</sub> P(o | C, X) · P(C | X) = q(o | X)
 
-where C ranges over conscious states, o over outcomes, and q is the Born distribution. Selection may correlate arbitrarily with C; what it may not do is disturb the o-marginal within any publicly assemblable ensemble.
+where C ranges over conscious states, o over outcomes, and q is the Born distribution. For a fixed distribution of conscious states, selection may correlate arbitrarily with C, a freedom that survives re-weighting of that distribution only under a further law [explained below](#what-it-does-not-establish); what selection may not do is disturb the o-marginal within any publicly assemblable ensemble.
 
 Two qualifications belong with that headline rather than after it. First, the theorems that make the budget calculable come from [classical information theory](#the-coupling-result) (perfectly secure steganography, explained below) and say nothing about consciousness; **the mapping onto mental causation is the Map's own construction, not a published result**. Second, the same theorem that grants the budget fixes its price: perfect statistical concealment is *equivalent to* zero third-person evidence, which formalises [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) and [self-concealment](/apex/self-concealing-interface/) rather than escaping them. Per the mechanism-debt convention in [the quantum-interface register](/positions/quantum-interface/#mechanism-debt), everything here is citable as framework-internal coherence arithmetic and never as established mental causation.
 
@@ -102,6 +102,8 @@ One dependency should be flagged rather than asserted. The per-context form of t
 ## What the Budget Does Not Establish {#what-it-does-not-establish}
 
 The neutral definition alone yields a consistency result: distribution-preservation and correlated selection can coexist. Everything beyond that follows only if the Map's interpretation is granted.
+
+Because a coupling fixes both marginals, that consistency result holds for one distribution of conscious states, and a second dependency follows. Suppose outsiders re-weight P(C | X) by instruction, recruitment or incentive while the conditionals stay fixed; privacy cannot block this, because nothing reads C. An ensemble stacked with one state c then forces P(o | c, X) = q(o | X) for every c, and the budget is zero. A nonzero budget needs a further law: either [psychophysical superselection](/apex/born-preserving-causal-efficacy/#where-a-selection-could-show-if-anywhere-the-conditional-signature), a "companion law over the distribution of conscious reasons" that makes the unbalancing re-weightings physically unachievable, or a compensation law re-tuning the conditionals to each context's intention mix. The coupling arithmetic stands; the Map has written neither law.
 
 The coupling theorems are proved for classical distributions. The quantum version is open territory: couplings defined over measurement contexts, the constraints contextuality imposes, and whether Gleason's theorem — which fixes the admissible probability assignments over projections in Hilbert spaces of dimension three or more — narrows the set of physically realisable couplings. None of this has been worked out here or, so far as these searches found, elsewhere.
 

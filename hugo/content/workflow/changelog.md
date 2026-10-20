@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 12:59:21+00:00
+ai_modified: 2026-10-20 13:25:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 12:59:21+00:00
+lastmod: 2026-10-20 13:25:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:25 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 2026-10-19 22:55 run, then a widened near-miss screen. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 361/370 (97.6%, the most pressured), topics 350/370 (349 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 22:55 (base `2a91230490`)**: one addition, `concepts/dissociative-subtype-of-ptsd`, created today and so ineligible. No removals or renames. No article was created between 2026-09-15 and 09-20, so nothing crossed the 30-day floor (created on or before 2026-09-20) since the last run. The 22 content files touched today (the driver's list plus `git log --since` today) were excluded.
+- **Strict gate** (body-only `analyze_length`, summed body under the hard threshold with the `>=` gate): topics 0 of 50,086 pairs; smallest eligible sum 1990 + 2112 = 4102, over 4000. Voids 0 of 5,151; smallest eligible sum 1530 + 1732 = 3262, over 3000. Concepts 147 of 49,770. Of those 147, 3 have any body link and 1 is mutual. All 3 were declined before, and their carve-outs are still in the text: `causal-powers` + `mind-arena` (3494 of 3500, `## Distinguishing the Mind-Arena from Related Map Terms`), `phenomenal-depth` + `phenomenal-presentation` (3047, presentation L54 `**Versus [[phenomenal-depth]].**`), and `adaptive-computational-depth` + `phenomenal-depth` (3425; the only link is one-way, at depth L72, which calls it "a physical analogue").
+- **Widened screen** (summed body under 110% of hard, so a merge could cut overlap): 16 linked pairs, 8 of them mutual. Six repeat earlier declines whose boundary text is still live: depth/overflow (depth "related to but distinct from"), overflow/presentation (L56 `**Versus [[phenomenal-overflow]].**`), the reciprocal four-category/where-the-substance-commitment-enters division of labour (L89 "this article supplies *what that subject is*" ↔ L87; the latter is itself a consolidation product, L30), the grain-mismatch ← Sellars source hand-off, and parapsychology-firewall/presentiment-and-retrocausality (declined 10-19). The two pairs not judged before were read and declined:
+  1. `concepts/phenomenal-depth` (1475) + `concepts/visual-consciousness` (2172) = 3647, 4.2% over 3500. General and special case: depth is cross-modal (`## Depth Across Sensory Modalities`, with vision as one "Perceptual depth" instance at L54), while visual-consciousness covers one modality's structure, binding, blindsight and NCCs. No headings overlap.
+  2. `concepts/self-model-theory-of-subjectivity` (1819) + `concepts/yogacara-alaya-vijnana-storehouse-consciousness` (1897) = 3716, 6.2% over. Both pages define the relation as "cousin", from opposite sides (SMT L63 "the naturalist cousin of *anattā*", saying "The divergence is instructive"; Yogacara L83 "a virtual self-model where Yogacara has a conditioned continuum"). These are the two poles of a deliberate comparison, and merging them collapses the contrast. No headings overlap.
+- **Open tasks**: no open todo `File:` line targets any of the 8 candidate pages.
+- **Finding**: unchanged. Length makes merges impossible in topics and voids. In concepts, every linked pair is a carve-out or a cross-tradition comparison that both sides acknowledge. Cap relief would have to come from `/archive`, `/condense` or a cap raise (9/20/12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 12:59 - refine-draft
 - **Status**: Success
