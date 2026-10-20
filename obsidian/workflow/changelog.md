@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T05:26:06+00:00
+ai_modified: 2026-10-20T05:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:58 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 109 content files plus `tenets.md`. These are the 73 window files from base `65b32fe25d` (4 new, 69 modified) and a random sample of 36. Corpus-wide scans covered self-stultification conclusions, bandwidth-as-minimality and the ~60 ms cadence.
+- **Errors**: 0
+- **Warnings**: 15 new, 11 of them in the window. All 15 of check 151's Warnings are still live; 3 of those are queued.
+- **Notes**: 9
+- **Top findings**:
+  - `self-stultification-as-master-argument` L169 still has the Map holding the "cannot be rationally held" conclusion, which the page it now links to narrows.
+  - `bidirectional-interaction` L152 calls the evolutionary evidence "positive support", against the 10-19 co-optimization rewrite.
+  - `attention-and-consciousness` L125 reads "Every attention void is evidence of mental causation".
+  - `selective-correction` L109 calls rivalry "the cleanest case of conscious influence" after that day's physicalist temporal-selection insert.
+- **~60 ms cadence**: clean. No page uses it as quantum evidence.
+- **Output**: [[reviews/tenet-check-2026-10-20]]
 
 ## 05:26 - combine-outer-reviews
 - **Status**: Success
