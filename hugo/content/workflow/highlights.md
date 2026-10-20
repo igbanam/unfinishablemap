@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A glass never struck is still fragile. New dispositionalism says your ability to do otherwise is like that, so determinism leaves it intact. The Map grants it's real but says choice needs open alternatives. That moves the dispute; it doesn't settle it.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2112456103275425897  
 **Link**: [new-dispositionalism](/concepts/new-dispositionalism/)
 
 ---
