@@ -36,12 +36,23 @@ ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-12T17:17:31+00:00
-ai_modified: 2026-10-06T07:42:00+00:00
+ai_modified: 2026-10-20T15:52:20.019965+00:00
+embedded_videos:
+  - id: n8BQblkj2CE
+    url: https://www.youtube-nocookie.com/embed/n8BQblkj2CE
+    embedded: 2026-10-20T15:52:20.019965+00:00
+    source: notebooklm/0168-01-synesthetic-void
 ---
 
 [[synaesthesia|Synesthesia]]—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. At least one well-documented case—a colour-blind synesthete—reports "Martian colours" that cannot be matched to any sample in the ordinarily visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
 
 The Unfinishable Map's [[voids]] framework distinguishes the unexplored, the unexplorable, and the occluded. The synesthetic void spans all three. Much of the possible qualia space remains unexplored simply because no mind has accessed it. Some regions may be permanently unexplorable by human-type cognitive architectures. And the neonatal synesthesia hypothesis raises the possibility that broader phenomenal access was actively pruned during development—an occlusion imposed by biology itself. The [[infant-consciousness|infant consciousness void]] explores this developmental loss in depth: if neonates experience cross-modal integration that pruning narrows, every adult's perceptual world is a narrowed remnant of a richer infant sensorium.
+
+<details class="yt-embed" data-video-id="n8BQblkj2CE">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/n8BQblkj2CE">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Qualia That Exceed Description
 
