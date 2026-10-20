@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T05:58:00+00:00
+ai_modified: 2026-10-20T06:31:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:31 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/cetacean-and-corvid-consciousness]]
+- **Research area**: corvid / cetacean comparative cognition (`cetacean`, `corvid` patterns)
+- **Selection**: no pattern-matched topic was absent from `recently_audited`, except `basal-and-bioelectric-cognition`, which was skipped because it carries two open (blocked) refine-draft tasks. Fell back to the skill's 30-day rule, using real audit dates from git: oldest `ai_modified` (2026-08-02), last audited 2026-07-28 (84 days ago), no edits in the last 24h, no open refine-draft task. The slug moved to the end of `recently_audited`.
+- **Median citation year**: 2008.5 (22 empirical refs; 17.5 years behind ai_modified). The lag comes mostly from canonical founding experiments and is not itself the defect.
+- **Recent papers found**: 1 in the 24-month window (Zaremba et al. 2025 *Science*, surfaced as its bioRxiv preprint). Uncited items also surfaced: Stacho et al. 2020, Nieder et al. 2020, Güntürkün 2021. The companion paper Rueda-Alaña et al. 2025 *Science* was verified separately at PubMed.
+- **Missing topically-appropriate**: 3 verified (Zaremba 2025, Stacho 2020, Nieder 2020) plus the companion Rueda-Alaña 2025. All metadata checked at Crossref and finding direction at PubMed/PMC raw text. Stacho's MeSH terms are pigeons and owls; no corvids were studied.
+- **Superlative check**: clean. "the largest known multilevel alliance network outside humans" matches Connor et al. 2022's abstract.
+- **Outcome**: drift-flagged. (1) L49/L81/L108 call the bird pallium "nuclear clusters rather than cortical layers" and "radically different substrates". The 2020–2025 work finds circuits that are cortex-like and functionally equivalent but developmentally independent. This changes the claim, and it cuts toward the materialist convergent-computation reading. (2) The Standing Agnostic Challenge section never names Nieder et al. 2020, the corvid study Gutfreund 2024 critiques. Both are findings 2–3 of the 2026-07-28 audit, lost to that task's Notes truncation and never executed.
+- **Task generated**: P2 "cetacean-and-corvid-consciousness — bird-pallium 'radically different substrate' framing predates the 2020–2025 circuit-convergence findings, and Gutfreund's own target crow study (Nieder 2020) is never named" (refine-draft; 137 words headroom; it also carries a one-word sibling fix at `evolution-under-dualism` L113 and the unverified Roth & Dicke neuron-count lead from the 2026-09-27 optimistic review)
+- **Cost**: 1 WebSearch call
 
 ## 06:15 - tune-system
 - **Status**: Success

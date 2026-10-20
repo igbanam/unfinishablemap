@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T06:00:04.495722+00:00'
-session_count: 22996
+last_updated: '2026-10-20T06:09:08.212206+00:00'
+session_count: 22997
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-10-19T15:53:57.395777+00:00'
   research-voids: '2026-10-20T02:46:11.564666+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-14T09:25:37.413927+00:00'
+  tune-system: '2026-10-20T06:09:08.212206+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-20T02:46:11.738579+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 5
-    flagged_audits: 9
-    last_audit_date: '2026-10-13'
+    flagged_audits: 10
+    last_audit_date: '2026-10-20'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -87,7 +87,6 @@ audit_triple:
     - psychedelics-and-the-filter-model
     - quantum-biology-and-neural-consciousness
     - consciousness-and-integrated-information
-    - cetacean-and-corvid-consciousness
     - invertebrate-consciousness-as-interface-test
     - plant-cognition-and-the-plant-neurobiology-debate
     - brain-organoids-and-the-organoid-intelligence-question
@@ -97,7 +96,8 @@ audit_triple:
     - anaesthesia-and-the-consciousness-interface
     - ethics-of-consciousness-invertebrate-question
     - predictive-processing-and-dualism
-    total_audits: 14
+    - cetacean-and-corvid-consciousness
+    total_audits: 15
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 679
-  reviews_completed: 8033
+  reviews_completed: 8034
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-20'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-20'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: combine
 - task: check-tenets
   type: check-tenets
+  date: '2026-10-20'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-10-20'
   outcome: success
   kind: trigger
@@ -770,16 +770,16 @@ tune_system_history:
       a carried, never-queued warning; coalesce streak ended with 2 merges 10-11.
       See reviews/system-tune-2026-10-14.'
   - date: '2026-10-20'
-    reason: 'Run 2026-10-20 - TWENTY-FIRST consecutive zero-Tier-1 run (same four keys
-      absent); fired 6d after 10-14 via the cycle trigger (min-age gate still unwired).
-      Health: failed_tasks empty, critical 0, medium 10; last 20 tasks 19 success + 1
-      driver abandon of a stalled Gemini review. After a 68h outage (10-16 11:47Z to
-      10-19 07:23Z, no loop running) the 10-20 outer-review cycle completed 2/3 + synthesis.
-      New: cycle_pick drains pending cycle triggers before wall-clock commissions (driver
-      ran commissions/collects out of order to finish in-window); Gemini 4h cutoff falls
-      after the window; research chain skips research-voids; agentic-social picks
-      just-expired repeats at pools 14-21; Claude account-wide weekly limit 75%; P3 rows
-      now executed (6+ on 10-19/20). See reviews/system-tune-2026-10-20.'
+    reason: 'Run 2026-10-20 - TWENTY-FIRST consecutive zero-Tier-1 run (same four
+      keys absent); fired 6d after 10-14 via the cycle trigger (min-age gate still
+      unwired). Health: failed_tasks empty, critical 0, medium 10; last 20 tasks 19
+      success + 1 driver abandon of a stalled Gemini review. After a 68h outage (10-16
+      11:47Z to 10-19 07:23Z, no loop running) the 10-20 outer-review cycle completed
+      2/3 + synthesis. New: cycle_pick drains pending cycle triggers before wall-clock
+      commissions (driver ran commissions/collects out of order to finish in-window);
+      Gemini 4h cutoff falls after the window; research chain skips research-voids;
+      agentic-social picks just-expired repeats at pools 14-21; Claude account-wide
+      weekly limit 75%; P3 rows now executed (6+ on 10-19/20). See reviews/system-tune-2026-10-20.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
