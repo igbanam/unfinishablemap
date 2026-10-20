@@ -3,9 +3,9 @@
   commissioned_at: '2026-10-20T02:55:45.837943+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenet coherence, contradictions'
   target_filename: outer-review-2026-10-20-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-20T04:36:25.235535+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a full-site audit of The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy-of-mind site built on five tenets: dualism, minimal quantum

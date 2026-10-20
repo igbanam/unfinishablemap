@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T04:11:45.041926+00:00'
-session_count: 22990
+last_updated: '2026-10-20T04:29:23.827409+00:00'
+session_count: 22991
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-10-15T20:40:31.869989+00:00'
   coalesce: '2026-10-19T22:56:23.779535+00:00'
   collect-chatgpt-review: '2026-10-16T04:07:29.597482+00:00'
-  collect-claude-review: '2026-10-15T05:14:30.697503+00:00'
+  collect-claude-review: '2026-10-20T04:29:23.827409+00:00'
   collect-gemini-review: '2026-10-16T05:34:50.442328+00:00'
   combine-outer-reviews: '2026-10-16T06:02:02.059655+00:00'
   commission-chatgpt-review: '2026-10-20T02:56:12.468925+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 679
-  reviews_completed: 8029
+  reviews_completed: 8030
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-19'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-19'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: commission
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-10-20'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/occasionalism/

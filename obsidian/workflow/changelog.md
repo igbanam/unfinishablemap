@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T04:28:38+00:00
+ai_modified: 2026-10-20T04:53:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:53 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro. Full-site audit, commissioned 02:55 and collected at commission + 95 min (turn state `complete`, no stop button). The reply walked to 54,092 chars of markdown with 12 KaTeX spans kept as TeX, read out in 61 hash-checked 900-char chunks, and the whole-body hash matched (257283323).
+- **File**: [[reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 14 on disk and 8 external.
+  - External: arXiv:2512.12636 (Torres Alegre, scope), Butlin et al. 2023 abstract, and Kleiner & Ludwig 2024 via the LMU eprint. DOIs and IDs resolve for Schlosshauer, Xu 2021, Edwards 2012, IIT 4.0 and Donadi.
+  - 2 stale and 1 unlocated. The co-optimization reference-fixing reply and the shared harmony debt were fixed on 10-19 (`359b82e12e`, `533010451a`). P-AC1 is already Map-conditional. The Schurger-as-evidence charge names no locus.
+- **High-value findings**: 3 new, plus 12 corroborations of queued work.
+  - Re-weighting the intention mix forces every conditional to Born unless a superselection law holds. The born-preserving apex says the register owes this; neither the register nor agency-budget carries it.
+  - Desert opacity: P-Q9 conceals the consciousness-side share of control that the responsibility gradient's desert claim may rest on.
+  - The compensation and outcome-luck consequence has not reached the moral-architecture apex.
+- **Tasks generated**: 3 new (P2: agency-budget, responsibility-gradient-from-attentional-capacity, moral-architecture-of-consciousness), plus 15 cross-service folds into existing Notes.
+  - Folded into: the P-Q2 quantifier P1, P-D2/nondualistic P2, subjecthood, Tenet 3 quantifier, positions-evolve schema, propagation methodology, binding-problem P3 (now three sources), the Claude photosynthesis P2 and causal-closure P1, the neuro-dissociation P3 (new L178 identity-theory locus), the review-convergence common-cause extension, Kleiner & Ludwig, P-AC3, the positions thresholds and the Tenet-5 doctrine.
+- **Status field**: `outer_review_status: processed`; pending entry marked `collected`.
 
 ## 04:28 - collect-claude-review + outer-review
 - **Status**: Success
