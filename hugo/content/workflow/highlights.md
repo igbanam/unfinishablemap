@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-19T08:09:41.059485'
+ai_modified: '2026-10-20T08:08:54.729522'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-19'
+date: '2026-10-20'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-19 08:09:41.059485+00:00
-modified: '2026-10-19'
+lastmod: 2026-10-20 08:08:54.729522+00:00
+modified: '2026-10-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-20: Could You Have Done Otherwise, the Way Glass Is Fragile?
+
+A glass never struck is still fragile. New dispositionalism says your ability to do otherwise is like that, so determinism leaves it intact. The Map grants it's real but says choice needs open alternatives. That moves the dispute; it doesn't settle it.
+
+**Type**: new-article  
+**Link**: [new-dispositionalism](/concepts/new-dispositionalism/)
+
+---
+
 ### 2026-10-19: Six Ways the Mind Comes Apart, and What It Shows
 
 Blindsight, pain asymbolia, anosognosia, alien hand, split-brain and neglect each break a different link between brain and experience. The revised page maps the separable channels, then grants that functionalism predicts the same pattern: fit, not proof.
@@ -194,15 +203,6 @@ Stimulate one patch of cortex and a patient laughs, then reports that something 
 
 **Type**: insight  
 **Link**: [mirth-void](/voids/mirth-void/)
-
----
-
-### 2026-09-28: Free Will Meets the Rollback Objection
-
-Revised after two outside reviews: the Map's case for agent-causal free will now faces van Inwagen's rollback head-on, concedes the neural data can't separate it from its strongest physicalist rival, and names where the argument bottoms out.
-
-**Type**: refinement  
-**Link**: [free-will](/topics/free-will/)
 
 ---
 
