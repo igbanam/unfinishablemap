@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-10-20 17:18:08+00:00
+ai_modified: 2026-10-20 20:04:27+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,8 @@ description: 'Human+AI analysis of how an agent-caused choice is made for a reas
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-20 17:18:08+00:00
+last_deep_review: 2026-10-20 20:04:27+00:00
+lastmod: 2026-10-20 20:04:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,11 +37,11 @@ topics:
 
 The Unfinishable Map holds that a conscious agent settles which of several physically open outcomes becomes actual, and that she does so *for reasons*. Agent-causal libertarianism has a standing difficulty with that phrase. If the agent, rather than her recognising a reason, causes the choice, something else must make it a choice made for *this* reason rather than another she also had. The literature offers three worked answers. On the non-causal answer (Roderick Chisholm, Timothy O'Connor), reasons do not cause the choice; in O'Connor's version they explain the agent-caused intention through its content and causally shape the agent's propensities. On Randolph Clarke's integrated answer, the agent and her having reasons are joint causes of the choice, though Clarke doubts that the substance causation it needs is possible. On E. J. Lowe's answer, free volitions are uncaused and the operative reason is the one the agent chose to act on.
 
-This article sets out the three answers and their costs, and records that the Map holds pieces of all three without having chosen. It adds one observation of its own, in [the section on the Map's selector](#the-integrated-shape) (explained below): the Map's default selection, which keeps public outcome statistics Born-exact, already has the shape of Clarke's view. The article does not establish that the Map's selection is in fact guided by reasons. That would need the thesis that token-level selection is genuinely causal, which the Map cites only as a coherence result inside its own framework ([the mechanism debt](/positions/quantum-interface/#mechanism-debt)).
+This article sets out the three answers and their costs, and records that the Map holds pieces of all three without having chosen. It adds one observation of its own, in [the section on the Map's selector](#the-integrated-shape) (explained below): the Map's default selection, which keeps public outcome statistics Born-exact, already has the shape of Clarke's view wherever the agent's reasons are realised in brain states. The article does not establish that the Map's selection is in fact guided by reasons. That would need the thesis that token-level selection is genuinely causal, which the Map cites only as a coherence result inside its own framework ([the mechanism debt](/positions/quantum-interface/#mechanism-debt)).
 
 ## The Problem: Which Reason Was Operative? {#the-problem}
 
-Donald Davidson (1963) argued that reasons explain actions by causing them. An agent often has several reasons that would each rationalise what she does, yet acts on only one, and Davidson held that only a causal relation marks the difference: the operative reason is the one that caused the act.
+Donald Davidson (1963) argued that reasons explain actions by causing them. An agent often has several reasons that would each rationalise what she does, yet may act on only one, and Davidson held that only a causal relation marks the difference: the operative reason is the one that caused the act.
 
 Agent-causal libertarians cannot take this answer over unchanged. "Standard agent-causal views deny that events such as the agent's recognizing certain reasons cause any free action (or whatever event the agent directly causes when she acts freely)" (Clarke, Capes and Swenson 2021, §3.1). If the agent alone causes the choice, Davidson's criterion is unavailable. The free-will entry, co-written by O'Connor, names the cost: such libertarians "must explain how reasons can explain and motivate action without causing it; and this has turned out to be no easy task" (O'Connor and Franklin 2022, §2).
 
@@ -54,7 +55,7 @@ The free-will entry places Chisholm and O'Connor (2000, ch. 5) among agent-causa
 
 Reasons are not idle, though. The same abstract adds "a causal notion of 'structured propensities'" to explain why some undetermined actions are likelier than others, and John Martin Fischer reports O'Connor treating reasons as "structuring conditions on purposive action" (Fischer 2001, citing O'Connor 2000: 95). Andrei Buckareff reads the chapter as non-causal: "The reasons direct action, but they do not cause the action" (Buckareff 2003). Both readings hold: reasons do not cause the choice, but they causally shape the agent's tendency to make it.
 
-The incompatibilism entry records two objections. Richard Feldman and Buckareff (2003) argue that the content requirement is unnecessary, since a desire can truly explain a decision whose intention is not about it. The second is that a feature of the effect, the intention's content, carries the explanation while the reason causes nothing; the entry traces this to the requirement "that only the agent cause what is directly agent-caused in a free action" (§3.1). O'Connor, for his part, is no substance dualist: "agent-causal theories do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent" (O'Connor 2011, abstract).
+The incompatibilism entry records two objections. Richard Feldman and Buckareff (2003) argue that the content requirement is unnecessary, since a desire can truly explain a decision whose intention is not about it. The second is that a feature of the effect, the intention's content, carries the explanation while the reason causes nothing; the entry traces this to the requirement "that only the agent cause what is directly agent-caused in a free action" (§3.1). O'Connor's agent causation does not rest on substance dualism: "agent-causal theories do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent" (O'Connor 2011, abstract).
 
 ### The Integrated Answer: Two Causes of One Choice {#integrated}
 
@@ -66,7 +67,7 @@ Clarke is the view's architect, not its advocate. His chapter 9 judges that it a
 
 ### The Uncaused-Volition Answer {#uncaused-volition}
 
-Lowe's *Personal Agency* (2008) defends a non-Cartesian substance dualism and a substance-based account of causation on which rational agents are "unmoved movers, or initiators of new causal chains" (book abstract). Yet Lowe does not hold that agents cause their free volitions. Meghan Griffith's review is explicit: "Like some noncausalists, Lowe posits uncaused volitions and denies that reasons are causes"; because agents cause by acting, they "cannot cause their own volitions on pain of regress" (citing Lowe 2008: 7); and "As uncaused acts, volitions are not even partly caused by reasons" (Griffith 2009). The incompatibilism entry files Lowe with the non-causal theories (§1), and Lowe places his view "midway between volitionism and classical agent causalism" (Lowe 2008, ch. 8 abstract).
+Lowe's *Personal Agency* (2008) defends a non-Cartesian substance dualism and a substance-based account of causation on which rational agents are "unmoved movers, or initiators of new causal chains" (book abstract). Yet Lowe does not hold that agents cause their free volitions. Meghan Griffith's review is explicit: "Like some noncausalists, Lowe posits uncaused volitions and denies that reasons are causes"; because agents cause by acting, they "cannot cause their own volitions on pain of regress" (citing Lowe 2008: 7); and "As uncaused acts, volitions are not even partly caused by reasons" (Griffith 2009). The incompatibilism entry files Lowe with the non-causal theories (§1), and Lowe places his view "midway between volitionism and classical agent causalism" (Lowe 2008, ch. 7 abstract).
 
 Lowe's reply to Davidson is that "the reason for which the agent acted is the reason which the agent chose to act upon" (Lowe 2008: 183, as quoted in Griffith 2009). Choosing fixes the operative reason. And free choices lack objective probabilities: "With chance events we can assign objective probabilities. We cannot do so with free choices" (Griffith 2009, summarising Lowe 2008: 190–195).
 
@@ -75,13 +76,13 @@ Lowe's reply to Davidson is that "the reason for which the agent acted is the re
 The Map has adopted none of the three answers, and its pages use pieces of each.
 
 - [agent-teleology](/concepts/agent-teleology/) says the gazelle's reason "is a conscious state that causally contributes to the outcome": the integrated answer, with the reason-state as a partial cause.
-- [trilemma-of-selection](/topics/trilemma-of-selection/), [reasons-responsiveness](/concepts/reasons-responsiveness/) and [agent-causation](/concepts/agent-causation/) answer the luck objection by saying that selection on reasons makes the choice contrastively explicable. The literature's contrastive reason-explanation of undetermined choice is causal: Clarke argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), while the abstract of O'Connor's chapter calls his link "non-contrastive".
+- [trilemma-of-selection](/topics/trilemma-of-selection/), [reasons-responsiveness](/concepts/reasons-responsiveness/) and [agent-causation](/concepts/agent-causation/) answer the luck objection by saying that selection on reasons makes the choice contrastively explicable. Clarke's contrastive reason-explanation of undetermined choice is causal: he argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), while the abstract of O'Connor's chapter calls his link "non-contrastive".
 - The [agency register](/positions/agency-and-will/#p-a2) ([P-A2](/positions/agency-and-will/#p-a2)) grounds authorship in immanent causation "in Chisholm's and Lowe's sense". On the free-will entry's classification Chisholm denies reasons a direct causal role, and Lowe denies that the agent causes her volitions at all.
-- [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) borrows Davidson's causal skeleton and models the basic act on Lowe's volitions. Lowe accepts the skeleton's downstream half, from willing to movement, and rejects its upstream half, from reasons to choice.
+- [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) borrows Davidson's causal skeleton and Lowe's volitionist structure but makes the volition agent-caused, which Lowe denies. Lowe accepts the skeleton's downstream half, from willing to movement, and rejects its upstream half, from reasons to choice.
 
 These pieces make different choices in different places, and no Map text yet says which governs the "for" in "selects for reasons".
 
-## The Map's Selector Has the Integrated Shape {#the-integrated-shape}
+## Where the Map's Selector Has the Integrated Shape {#the-integrated-shape}
 
 This section is the Map's own analysis, not a claim any source above makes.
 
@@ -99,13 +100,13 @@ The two routes can coexist, and no Map text says which carries the reasons. The 
 
 The integrated answer gives the Map event-causal reason-explanation, including the contrastive kind its luck reply uses. On the Map's reading it also opens a reply to Derk Pereboom's wild-coincidences objection. Pereboom (2014) argues that if agent-causes settled outcomes governed by physical statistics, the long-run match between free choices and those statistics would be a coincidence. If the frequencies are the reason-events' own propensities, the agent's settling has no frequency of its own to match. Published replies contest the objection on other grounds (Runyan 2018; Taggart 2021), and on the Map's present texts the cost stays undischarged, as [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) records. Three costs stand against these gains.
 
-1. **No extra control over the event-cause.** Carlsson objects that the "integrated account does not provide for any more control over the occurrence of the action-causing events, than does an event-causal account" (Carlsson 2004). If the reasons fix the probabilities, the agent's distinctive contribution is the settling alone. The Map's case against [event-causal-libertarianism](/topics/event-causal-libertarianism/) would then rest on origination, on Clarke's claim that agent causation secures "greater control than can be secured by any event-causal libertarian account" (Clarke 2003, ch. 9), and not on contrastive explicability, which event-causal libertarians already have. That fits the event-causal article's verdict that agent-causal views answer the disappearing-agent form of the luck objection, not luck as such. It makes the wild-coincidence reply and this objection two faces of one trade: the less the agent shifts the frequencies, the less there is to coincide and the less control she adds.
+1. **No extra control over the event-cause.** Carlsson objects that the "integrated account does not provide for any more control over the occurrence of the action-causing events, than does an event-causal account" (Carlsson 2004). If the reasons fix the probabilities, the agent's distinctive contribution is the settling alone. The Map's case against [event-causal-libertarianism](/topics/event-causal-libertarianism/) would then rest on origination, on the "greater control than can be secured by any event-causal libertarian account" that Clarke credits to the integrated view only if it is possible (Clarke 2003, ch. 9), and not on contrastive explicability, which event-causal libertarians already have. That fits the event-causal article's verdict that agent-causal views answer the disappearing-agent form of the luck objection, not luck as such. The wild-coincidence reply and this objection are then two faces of one trade: the less the agent shifts the frequencies, the less there is to coincide and the less control she adds.
 2. **Partial reasons and competing causes.** If the reasons are necessary but not sufficient, "The most we can say is that the agent acted partly for reasons" (Carlsson 2004). With two distinct causes, the free-will entry asks whether the agent might cause one decision while her reasons "simultaneously cause an incompatible decision" (O'Connor and Franklin 2022, §2). On the Map's architecture the reasons only weight the options, so the second worry may not arise; that reply is the Map's, and untested.
 3. **The probability objection.** Among Clarke's grounds for doubting substance causation is that "any cause must be of a category individuals of which can affect the probabilities of their effects before those effects occur" (Clarke 2003: 203, as quoted in Carlsson 2004), which substances, being undated, seem unable to do. An agent-cause that leaves the probabilities to the reason-events falls under that exclusion, so the integrated Map would have to reject the premise. It has not yet argued against it.
 
 ### The Non-Causal Answer {#costs-non-causal}
 
-Keeping the agent as the sole cause fits [P-A2](/positions/agency-and-will/#p-a2)'s appeal to Chisholm and avoids competing causes. It costs the contrastive luck reply its natural support, since O'Connor's link is non-contrastive by design, so the Map would need a non-causal ground for that reply or would drop it. It owes answers to both objections above, and the wild-coincidence cost stays where it is.
+Keeping the agent as the sole cause fits [P-A2](/positions/agency-and-will/#p-a2)'s appeal to Chisholm and avoids competing causes. It costs the contrastive luck reply its natural support, since O'Connor's link is non-contrastive by design, so the Map would need a non-causal ground for that reply or would drop it. It owes answers to the two objections to O'Connor above, and the wild-coincidence cost stays where it is.
 
 ### Lowe's Answer {#costs-lowe}
 
@@ -115,9 +116,9 @@ Lowe's answer is the cleanest: choosing fixes the operative reason, and no event
 
 The Map's commitment to the efficacy of reasons comes from the tenet's clause that consciousness biases indeterminacy "toward patterns that express its content". If the reasons an agent recognises belong to that content, their content makes a difference to which outcome becomes actual.
 
-It does not come from the efficacy-of-evidence premise in [the acquaintance article](/topics/acquaintance-without-causation/#content-efficacy). That premise is stated for "a downstream belief, inference or assertion" held or made *from* evidence, and says nothing about choices made *for* reasons. Extending it to choice would be a parity step the Map has not taken, and Lowe's thesis that reasons for action "must differ fundamentally from those that properly qualify as reasons for belief" (Lowe 2008, ch. 11 abstract) is one principled ground for declining it. At most, the premise adds parity pressure toward a causal "for".
+It does not come from the efficacy-of-evidence premise in [the acquaintance article](/topics/acquaintance-without-causation/#content-efficacy). That premise is stated for "a downstream belief, inference or assertion" held or made *from* evidence, and says nothing about choices made *for* reasons. Extending it to choice would be a parity step the Map has not taken, and Lowe's thesis that reasons for action "must differ fundamentally from those that properly qualify as reasons for belief" (Lowe 2008, ch. 10 abstract) is one principled ground for declining it. At most, the premise adds parity pressure toward a causal "for".
 
-The clause narrows the options without deciding among them. All three answers give recognised reasons some role in what becomes actual: as partial causes, as structuring conditions on a propensity, or as the content of an uncaused choice. The clause rules out only a selection to which what consciousness presents makes no difference, the bare interactionism the acquaintance article finds no better than epiphenomenalism at using and voicing experience.
+The clause narrows the options without deciding among them. All three answers give recognised reasons some role in what becomes actual: as partial causes, as structuring conditions on a propensity, or as the content of an uncaused choice. The clause clearly rules out only a selection to which what consciousness presents makes no difference, the bare interactionism the acquaintance article finds no better than epiphenomenalism at using and voicing experience.
 
 ## Relation to Site Perspective
 

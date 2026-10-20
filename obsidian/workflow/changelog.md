@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T19:31:18+00:00
+ai_modified: 2026-10-20T20:06:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:06 - deep-review
+- **Status**: Success
+- **File**: [[topics/agent-causation-and-acting-for-reasons]] (+ [[research/agent-causation-and-acting-for-reasons-2026-10-20]] chapter-number and closure fixes)
+- **Selection**: selector top pick `concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws` (106) skipped as worked today (refine-draft 18:53Z); this article next (100, never reviewed). Discharges the queued P2 cross-review.
+- **Word count**: 2996 → 3022 (+26, analyze_length; topics soft 3000 / hard 4000; soft_warning, 978 under hard)
+- **Critical issues addressed**: 3 — lead's unqualified "already has the shape of Clarke's view" scoped to brain-realised reasons (heading now "Where the Map's Selector Has the Integrated Shape", anchor unchanged); Clarke's ch. 9 "aim to secure" + "Assuming that all it requires is possible" restored on the greater-control claim; Lowe 2008 chapters off by one (ch. 8→7, ch. 11→10; unnumbered Introduction pp. 1–16, confirmed by Griffith "Chapter 3"/"Chapter 7" and SEP "chs. 6–9")
+- **Medium issues addressed**: 6 — philosophy-of-action-under-dualism bullet updated to the 19:30Z Lowe P2 (volition agent-caused, which Lowe denies); "The literature's" contrastive claim narrowed to Clarke's; O'Connor "is no substance dualist" → "agent causation does not rest on substance dualism"; L116 "clearly rules out only" (consistency with L108's open Lowe question); two ambiguous antecedents; Davidson "may act on only one"
+- **Enhancements made**: 0 (no new material)
+- **Verification**: 33 external quoted spans grep-verified in fresh raw text (SEP ×2, Crossref abstracts, NDPR ×2, Fischer and Buckareff PDFs), 7 Map-internal spans and all anchors verified; 16 references Crossref/publisher-checked, no orphans. Clarke p. 221 snippet not quoted (0 hits); Google Books re-check inconclusive (control returned 0 after rate-limit).
+- **Engagement modes** (editor-internal): Pereboom, Mode Three (cost undischarged); Carlsson, accepted as costs; Clarke's probability premise, Mode Three ("has not yet argued against it"); Feldman–Buckareff, reported as owed.
+- **Integration**: all 9 inbound links resolve in Hugo; nothing added.
+- **Output**: [[reviews/deep-review-2026-10-20-agent-causation-and-acting-for-reasons]]
 
 ## 19:31 - refine-draft
 - **Status**: Success

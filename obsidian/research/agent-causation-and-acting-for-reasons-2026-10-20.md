@@ -3,7 +3,7 @@ title: "Research Notes - Agent Causation and Acting for Reasons"
 created: 2026-10-20
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T17:01:39+00:00
+ai_modified: 2026-10-20T20:04:51+00:00
 draft: false
 recommended_action: article
 target_section: topics
@@ -69,7 +69,7 @@ The subject is uncovered and article-sized. The Map says throughout its agency c
   1. Ch. 9 abstract (raw): "Assuming that all it requires is possible, an integrated agent-causal view succeeds at this goal and adequately characterizes free will."
   2. Ch. 10 ("Substance and Cause") abstract (raw): "it is concluded that there are, on balance, good reasons to reject this possibility."
   3. Book abstract (raw): "if both free will and moral responsibility are incompatible with determinism, then there is no adequate account of free will."
-  4. Snippet, p. 221 (Conclusion): "If that is so, then, given broad incompatibilism, it appears that free will is impossible."
+  4. Snippet, p. 221 (Conclusion): "If that is so, then, given broad incompatibilism, it appears that free will is impossible." (Snippet not re-verified in the 2026-10-20 deep review: the search-within endpoint was rate-limited and its control query also returned 0. The article does not quote it.)
   5. Carlsson (raw): "Clarke finds good, although not decisive, reasons to reject the possibility of such causation. He concludes that the possibility of free will is doubtful, given broad incompatibilism."
   6. Clarke 2011, "Alternatives for Libertarians" (abstract, raw): "concludes on a skeptical note about the viability of libertarian accounts of free will generally."
 
@@ -84,10 +84,10 @@ The subject is uncovered and article-sized. The Map says throughout its agency c
   - "Lowe distances himself from agent causalism by asserting that agents do not cause actions. Instead, free actions are completely uncaused acts of will. Because all agents cause by acting, they cannot cause their own volitions on pain of regress (7)."
   - "As uncaused acts, volitions are not even partly caused by reasons."
 - **Lowe's answer to Davidson's problem** (Griffith, raw): "Lowe responds that 'the reason for which the agent acted is the reason which the agent chose to act upon' (183)." This is a third non-causal answer, alongside O'Connor's and McCann's.
-- **Reasons externalism.** Book abstract (Crossref, raw): reasons for action are "mind-independent worldly entities rather than the beliefs and desires of agents". Ch. 11 abstract: reasons for action are "needs rather than facts", and they differ fundamentally from reasons for belief. Ch. 8 abstract: the view "falls midway between volitionism and classical agent causalism".
+- **Reasons externalism.** Book abstract (Crossref, raw): reasons for action are "mind-independent worldly entities rather than the beliefs and desires of agents". Ch. 10 abstract: reasons for action are "needs rather than facts", and they differ fundamentally from reasons for belief. Ch. 7 abstract: the view "falls midway between volitionism and classical agent causalism". (Chapter numbers corrected 2026-10-20: the Introduction, pp. 1–16, is unnumbered, so Crossref's DOI suffix `.003.000N` is ch. N−1. Griffith's "Chapter 3" and "Chapter 7 … (151-154)" and the SEP's "chs. 6–9" for the action theory all confirm this.)
 - **No objective probabilities for free choices** (Griffith, raw): "With chance events we can assign objective probabilities. We cannot do so with free choices (190-195)."
 - **What pulls apart, precisely.**
-  - Lowe keeps *downstream* mental causation. Agents cause action-results by willing, and ch. 2's abstract calls mental causation "distinctively intentional causation". So `philosophy-of-action-under-dualism` L89's minimum ("some version of 'mental states cause movements' must be true") is compatible with Lowe.
+  - Lowe keeps *downstream* mental causation. Agents cause action-results by willing, and ch. 1's abstract calls mental causation "distinctively intentional causation". So `philosophy-of-action-under-dualism` L89's minimum ("some version of 'mental states cause movements' must be true") is compatible with Lowe.
   - Lowe denies the *upstream* link, reasons → choice, which is the half of Davidson's skeleton that L43 introduces through the one-operative-reason argument. L89 also calls the standard story "structurally welcome—so far as its causal claim goes", and that causal claim is upstream: reasons cause actions.
   - L95's hybrid ("The agent-substance originates … what she originates is a volition") contradicts Lowe outright, since on Lowe nothing originates the volition.
   - Lowe's denial of objective probabilities for free choices also sits badly with the Map's default Born-preserving selection (P-Q2), which gives choices Born probabilities.
@@ -122,7 +122,7 @@ The subject is uncovered and article-sized. The Map says throughout its agency c
 
 The reviewer guessed: *on the efficacy-of-evidence premise, the Map's agency cluster is committed to an integrated agent-causal account, or owes a non-causal reading of "for".* That holds in substance. Three refinements:
 
-1. **The premise is theoretical, not practical.** `acquaintance-without-causation` L102 states it for "a downstream belief, inference or assertion" held or made *from* evidence. Extending it to choices made *for* reasons is a parity step that page never takes. A non-causal "for" next to a causal "from" can also be made principled: Lowe argues that reasons for action and reasons for belief differ in kind (ch. 11 abstract). The same commitment arrives independently, though, through the tenet text itself: Bidirectional Interaction has consciousness biasing quantum indeterminacy "toward patterns that express its content" (`tenets` L91, quoted at `acquaintance-without-causation` L108 as what makes the Map's interactionism content-efficacious). If recognised reasons are part of that content, their content is efficacious in the selection. The antecedent of the conditional should therefore be the content clause, with the efficacy premise as a parity reinforcement.
+1. **The premise is theoretical, not practical.** `acquaintance-without-causation` L102 states it for "a downstream belief, inference or assertion" held or made *from* evidence. Extending it to choices made *for* reasons is a parity step that page never takes. A non-causal "for" next to a causal "from" can also be made principled: Lowe argues that reasons for action and reasons for belief differ in kind (ch. 10 abstract). The same commitment arrives independently, though, through the tenet text itself: Bidirectional Interaction has consciousness biasing quantum indeterminacy "toward patterns that express its content" (`tenets` L91, quoted at `acquaintance-without-causation` L108 as what makes the Map's interactionism content-efficacious). If recognised reasons are part of that content, their content is efficacious in the selection. The antecedent of the conditional should therefore be the content clause, with the efficacy premise as a parity reinforcement.
 2. **The disjunction has a third option.** Between Clarke (reason-events co-cause the choice) and full non-causalism (Lowe; Ginet; McCann; O'Connor's explanatory link) sits O'Connor's *structured propensity*: reasons causally structure the agent's propensity to cause one intention rather than another without causing the choice. Whether that satisfies "causally contribute to producing it" is the open question the article should answer. Steward's settling-the-residue model is a fourth variant (lead).
 3. **The Map's current text already holds incompatible pieces.** See the next section. So the Map does not merely *owe* a choice. It has made several choices, in different places.
 
@@ -183,7 +183,7 @@ The reviewer guessed: *on the efficacy-of-evidence premise, the Map's agency clu
 - **URL**: https://ndpr.nd.edu/reviews/personal-agency-the-metaphysics-of-mind-and-action/ (curled raw)
 - **Type**: Review
 - **Key points**: see Q3. Griffith also presses the control objection to uncaused choices.
-- **Tenet alignment**: Lowe aligns with Dualism (non-Cartesian substance dualism) and rejects closure-based physicalism, but his non-causal volitionism conflicts with the Map's reading of selection as caused by the agent.
+- **Tenet alignment**: Lowe aligns with Dualism (non-Cartesian substance dualism) and rejects the causal closure argument for physicalism while accepting a moderately strong closure principle (ch. 2 abstract; Griffith: "One might expect a rejection of closure, but Lowe doesn't take this route"), but his non-causal volitionism conflicts with the Map's reading of selection as caused by the agent.
 
 ### Fischer, review of O'Connor 2000, *Mind* 110(438) (2001): 526–531
 - **URL**: https://andrewmbailey.com/jmf/Review_Oconnor.pdf (JSTOR copy; pdftotext; some spaces collapsed)
@@ -224,7 +224,7 @@ The reviewer guessed: *on the efficacy-of-evidence premise, the Map's agency clu
 
 ### Uncaused volition with substance causation (Lowe 2008)
 - **Core claim**: volitions are uncaused, spontaneous exercises of a rational two-way power "performed in the light of reason". Reasons are worldly items (needs). The operative reason is the one the agent chose to act on.
-- **Relation to tenets**: the closest metaphysical cousin of the Map (non-Cartesian substance dualism, an attack on closure), but non-causal on exactly the link this note concerns, and it denies objective probabilities for free choices.
+- **Relation to tenets**: the closest metaphysical cousin of the Map (non-Cartesian substance dualism, an attack on the causal closure argument but not on closure itself), but non-causal on exactly the link this note concerns, and it denies objective probabilities for free choices.
 
 ### Non-causal libertarianism (Ginet; McCann; Goetz)
 - **Core claim**: concurrent intention content (Ginet), or intention-content that reflects the reason's goals (McCann), fixes the "for".
