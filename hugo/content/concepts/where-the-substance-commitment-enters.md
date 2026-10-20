@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-08 09:35:25+00:00
+ai_modified: 2026-10-20 21:56:31+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[dualism]]'
 - '[[disguised-property-dualism]]'
 created: 2026-05-27
-date: &id001 2026-05-27
+date: &id001 2026-10-20
 description: The Map's substance-leaning enters via agent causation and indexical
   identity, not via the Dualism tenet. A diagnostic for which arguments need a persisting
   subject.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-10-08 09:35:25+00:00
+lastmod: 2026-10-20 21:56:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ So when an article on the [binding problem](/concepts/binding-problem/), the [kn
 
 ## Why Agent Causation Needs a Persisting Subject
 
-The lean enters one layer down, at the agent-causal commitment. [Agent causation](/concepts/agent-causation/)—the position the Map adopts for [free will](/topics/free-will/)—holds that the agent, *as a persisting substance*, directly causes actions. In Roderick Chisholm's terms this is *immanent* causation (the agent causes the event) as opposed to *transeunt* causation (events cause events). E.J. Lowe reaches the same requirement by a more radical route, and declines Chisholm's contrast on the way: rather than grant event causation in the inanimate domain and treat agent causation as a *sui generis* phenomenon restricted to rational beings, he holds that all causation is causation by substances, with rational free agents occupying a special place in that order as "unmoved movers, or initiators of new causal chains" (*Personal Agency*, 12). Either way a volition has no *event*-cause but does have an *agent*-cause, and what does the causing is a substance.
+The lean enters one layer down, at the agent-causal commitment. [Agent causation](/concepts/agent-causation/)—the position the Map adopts for [free will](/topics/free-will/)—holds that the agent, *as a persisting substance*, directly causes actions. In Roderick Chisholm's terms this is *immanent* causation (the agent causes the event) as opposed to *transeunt* causation (events cause events). E.J. Lowe reaches the same requirement by a more radical route, and declines Chisholm's contrast on the way: rather than grant event causation in the inanimate domain and treat agent causation as a *sui generis* phenomenon restricted to rational beings, he holds that all causation is causation by substances, with rational free agents occupying a special place in that order as "unmoved movers, or initiators of new causal chains" (*Personal Agency*, 12). Lowe holds the agent's volition itself uncaused: agents cause their bodily movements by willing, and since they cause only by acting, an agent-caused volition would start a regress (Lowe 2008: 7). The Map [departs from him here](/topics/philosophy-of-action-under-dualism/), making the volition agent-caused and so denying that premise. Either way, what does the causing is a substance.
 
 That structure needs a subject who persists across the causing and exercises the power. A property-only reading—on which mental properties [supervene](/concepts/supervenience/) on a physical substrate without any substance bearing them—struggles to supply it. If there is no thing that does the causing, only properties co-occurring with neural events, then "the agent originated the action" loses its referent; what is left looks like event causation under another name. This is why agent causation, specifically, recruits a substance-bearing reading. The requirement is the agent-causal claim's, not the tenet's.
 

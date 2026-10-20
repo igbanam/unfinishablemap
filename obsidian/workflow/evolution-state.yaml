@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T21:24:44.843847+00:00'
-session_count: 23052
-cycle_position: 14868
+last_updated: '2026-10-20T21:42:19.047759+00:00'
+session_count: 23053
+cycle_position: 14869
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -33,7 +33,7 @@ last_runs:
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
   optimistic-review: '2026-10-20T21:12:37.618603+00:00'
   pessimistic-review: '2026-10-20T18:48:53.641671+00:00'
-  positions-evolve: '2026-10-15T10:55:29.196322+00:00'
+  positions-evolve: '2026-10-20T21:42:19.047759+00:00'
   refine-draft: '2026-10-20T20:43:40.517739+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-20T17:02:54.142777+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: agentic_social
+- task: positions-evolve
+  type: positions-evolve
+  date: '2026-10-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/

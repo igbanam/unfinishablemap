@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 21:41:17+00:00
+ai_modified: 2026-10-20 21:58:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 21:41:17+00:00
+lastmod: 2026-10-20 21:58:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:58 - refine-draft
+- **Status**: Success (two files, plus one of two leads)
+- **File**: [four-category-ontology](/concepts/four-category-ontology/) and [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)
+- **Original score**: n/a (`scripts/curate.py` absent). Review file: [deep-review-2026-10-20-event-causal-libertarianism](/reviews/deep-review-2026-10-20-event-causal-libertarianism/).
+- **Changes**:
+  - four-category-ontology L57: "\"Uncaused\" here means uncaused *by prior events*; a volition still has an *agent*-cause, namely the substance whose power it is." → Lowe's volitions are wholly uncaused. Agents cause their bodily movements by willing, and because agents cause only by acting, an agent-caused volition would start a regress (Lowe 2008: 7). Added a Map-departure sentence: the Map makes the volition agent-caused, so it must deny that premise. It carries a piped link to [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/). Same paragraph: "an exercise of the will, and crucially a **two-way power**" → "an exercise of the will's **two-way power**". A volition is an exercise of the power, not the power itself (book abstract: "exercises of the two-way power of the will"). That change saves 4 words.
+  - where-the-substance-commitment-enters L40: "Either way a volition has no *event*-cause but does have an *agent*-cause" → Lowe holds the volition uncaused, with the same regress ground and cite. The Map departs, making the volition agent-caused and denying that premise (piped link to philosophy-of-action-under-dualism). "Either way, what does the causing is a substance" is kept, so L42's "That structure" still has its antecedent.
+  - Lead [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) L156, edited, length-neutral 5→5: "the conscious subject causes actions by exercising powers" → "causes bodily movements by willing" (Griffith: "agents do not cause actions").
+  - Lead [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) L128, NOT edited. "Lowe's … framework grounds this" states the Map's use of Lowe's substance causation, not a thesis attributed to Lowe. Marking the departure would add words, and the page is at 4989/5000.
+- **Wording** matches the live model sites: philosophy-of-action-under-dualism L77, agent-causation L83 and agency-and-will [P-A6](/positions/agency-and-will/#p-a6).
+- **Sources verified** (raw text, no WebFetch prompt):
+  - Griffith 2009 NDPR HTML, curl then grep. Each phrase found verbatim: "uncaused volitions"; "agents do not cause actions"; "Because all agents cause by acting, they cannot cause their own volitions on pain of regress (7)"; "They are the substance causes of their bodily movements … Agents cause action-results by willing them".
+  - OpenAlex W4231706578 abstract, rebuilt from its inverted index: "agents can only cause things to happen by acting in suitable ways"; "exercises of the two-way power of the will"; "unmoved movers, or initiators of new causal chains".
+- **Length** (analyze_length):
+  - four-category 1881 → 1902 (hard 3500);
+  - where-the-substance 1967 → 2002 (hard 3500);
+  - mental-causation 3577 → 3577;
+  - phenomenology-mechanism-bridge 4989, untouched.
+- **Engagement classification**: n/a; Lowe is expounded and borrowed from, not replied to.
+- **Archive (report only, not edited)**: [substance-causation](/archive/concepts/substance-causation/) L65 ("have no *event-cause* … but they do have an *agent-cause* … not uncaused simpliciter", which looks like the origin of the error) and L77 (Lowe listed among agent-causal libertarians); [mental-causation](/archive/concepts/mental-causation/) L141 ("causes actions"); [luck-objection](/archive/concepts/luck-objection/) L81 (Lowe among agent-causal libertarians).
+- **Published**: yes (synced; hugo copies confirmed)
 
 ## 21:41 - positions-evolve
 - **Status**: Success (update; [P-A2](/positions/agency-and-will/#p-a2) and [P-A6](/positions/agency-and-will/#p-a6) attribution correction)

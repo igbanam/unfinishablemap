@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-14 12:09:02+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-10-20 21:56:31+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/mental-causation/
@@ -36,14 +36,14 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[selection-only-mind-influence]]'
 created: 2026-01-15
-date: &id001 2026-05-05
+date: &id001 2026-10-20
 description: How mental states cause physical effects despite Kim's exclusion argument.
   Downward causation acts at quantum indeterminacies collapse readings leave open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-20 21:56:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ The Map specifies *where* downward causation operates and *why* physical laws ar
 
 ## Agent Causation and Mental Causation
 
-The exclusion argument assumes event causation—events causing events according to laws. [Agent causation](/concepts/agent-causation/) offers a different model: substances (agents) causing events through exercise of causal powers. E.J. Lowe argued all causation is fundamentally [substance causation](/concepts/agent-causation/#substance-causation-the-metaphysical-foundation); the conscious subject causes actions by exercising powers, not as one event producing another. Lowe's own [four-category route](/concepts/four-category-ontology/) takes the *fact-causation* branch: consciousness fixes *which kind* of movement occurs, structuring facts about kinds while making no token difference to the physical event-chain, so no gap in physics is required. The Map takes the opposite, *difference-making* branch—a minimal, statistically undetectable token difference at degenerate quantum outcomes—because a purely structuring cause risks collapsing into the epiphenomenalism it rejects. The [world-to-mind direction of fit](/concepts/direction-of-fit/) of intentions makes vivid what such a substance does: it holds a representation of a not-yet-actual state and brings that state about, a literal directedness the exclusion argument's event-causal framing renders metaphorical. If consciousness is such a substance acting at quantum indeterminacies, the exclusion argument's framework simply doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) and [volition](/concepts/phenomenology-of-choice-and-volition/) supports this—effort feels like *doing* something, and willing reveals distinguishable components (initiation, sustained control, effort, veto) each tracking genuine causal engagement. Whitehead's "actual occasions" complement the model, and the [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) of Indian, African, and Western traditions adds further support.
+The exclusion argument assumes event causation—events causing events according to laws. [Agent causation](/concepts/agent-causation/) offers a different model: substances (agents) causing events through exercise of causal powers. E.J. Lowe argued all causation is fundamentally [substance causation](/concepts/agent-causation/#substance-causation-the-metaphysical-foundation); the conscious subject causes bodily movements by willing, not as one event producing another. Lowe's own [four-category route](/concepts/four-category-ontology/) takes the *fact-causation* branch: consciousness fixes *which kind* of movement occurs, structuring facts about kinds while making no token difference to the physical event-chain, so no gap in physics is required. The Map takes the opposite, *difference-making* branch—a minimal, statistically undetectable token difference at degenerate quantum outcomes—because a purely structuring cause risks collapsing into the epiphenomenalism it rejects. The [world-to-mind direction of fit](/concepts/direction-of-fit/) of intentions makes vivid what such a substance does: it holds a representation of a not-yet-actual state and brings that state about, a literal directedness the exclusion argument's event-causal framing renders metaphorical. If consciousness is such a substance acting at quantum indeterminacies, the exclusion argument's framework simply doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) and [volition](/concepts/phenomenology-of-choice-and-volition/) supports this—effort feels like *doing* something, and willing reveals distinguishable components (initiation, sustained control, effort, veto) each tracking genuine causal engagement. Whitehead's "actual occasions" complement the model, and the [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) of Indian, African, and Western traditions adds further support.
 
 ### The Interface Question
 
