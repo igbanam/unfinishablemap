@@ -2,9 +2,9 @@
 title: "Bidirectional Interaction"
 description: "Consciousness and matter causally influence each other. This tenet distinguishes interactionist dualism from epiphenomenalism and grounds free will."
 created: 2026-01-23
-modified: 2026-01-24
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-05T23:23:56+00:00
+ai_modified: 2026-10-20T15:08:48+00:00
 last_deep_review: 2026-07-30T21:01:20+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 ---
@@ -114,7 +114,7 @@ The [[baseline-cognition|baseline cognition hypothesis]] observes that great ape
 
 ### Evolutionary Convergence
 
-The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise selection would have nothing to act on. The [[consciousness-as-amplifier|intelligence amplifier thesis]] develops this by noting that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
+The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise selection would have nothing to act on. The [[consciousness-as-amplifier|intelligence amplifier thesis]] develops this by noting that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would need a psychophysical law that selection cannot see—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
 
 The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof. Evolution favoured organisms whose consciousness provided functional advantages. This evolutionary argument is reinforced by the [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]]—Indian, African, and Western traditions near-independently concluded that consciousness is causally efficacious through philosophical argument and contemplative investigation, not just evolutionary reasoning.
 
@@ -149,7 +149,7 @@ The self-stultification argument presses epiphenomenalism hard for anyone reason
 
 The quantum framework makes bidirectional interaction physically possible without violating conservation laws. Before quantum mechanics, the interaction problem seemed unsolvable. Now we have at least a coherent story—speculative, but not incoherent.
 
-The evolutionary evidence provides positive support. Consciousness tracks adaptive significance too systematically to be causally inert.
+The evolutionary evidence fits the tenet without discriminating it: an epiphenomenalist [[co-optimization-reply-to-the-correlation-problem|co-optimizer]] explains the tracking too.
 
 Together with Minimal Quantum Interaction, this tenet commits the Map to [[interactionist-dualism]]—the position that mind and body are distinct yet causally connected, with the connection occurring at quantum indeterminacies in neural systems. It also grounds the Map's approach to [[topics/free-will|free will]]: if consciousness selects among quantum-indeterminate neural outcomes, human decisions need not be fully determined by prior physical causes.
 

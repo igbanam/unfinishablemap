@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 14:39:45+00:00
+ai_modified: 2026-10-20 15:09:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 14:39:45+00:00
+lastmod: 2026-10-20 15:09:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:09 - refine-draft
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Source**: tenet-check 2026-10-20, Warning 2 (`reviews/tenet-check-2026-10-20.md` §"#### 2."). The canonical Tenet 3 page called the evolutionary evidence "positive support" (L152) and kept the coincidence framing (L117). The 2026-10-19 co-optimization rewrite had retired both.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Changes** (the report's exact replacements, pulled from the review file by script; each OLD string matched exactly once):
+  - L152: "The evolutionary evidence provides positive support. Consciousness tracks adaptive significance too systematically to be causally inert." → "The evolutionary evidence fits the tenet without discriminating it: an epiphenomenalist [co-optimizer](/topics/co-optimization-reply-to-the-correlation-problem/) explains the tracking too." (0 words)
+  - L117: "this systematic correlation would be a remarkable coincidence" → "this systematic correlation would need a psychophysical law selection cannot see" (+3)
+  - Consistency with the co-optimization page as deep-reviewed today at 12:48Z: no adjustment needed. "Epiphenomenalist co-optimizer" picks out the property-dualist version only, which matches the page's new split (the constitutive-physicalist version is not epiphenomenalist). "Explains the tracking" matches its L93 ("while still explaining the correlation"). "A psychophysical law selection cannot see" matches its L101 (an inbound law that must be "harmoniously *shaped*… although selection cannot see the feeling"). The shared inbound debt is not charged to epiphenomenalism alone, because the distinctive cost named is the law's invisibility to selection.
+  - Pronoun check: L152's "it" refers to "the tenet", and L154's "this tenet" still refers to Bidirectional Interaction. L117's "this systematic correlation" still refers to the preceding pleasure/pain sentence. The em-dash clause still elaborates the head, and L119's "The interactionist alternative" and "this counts" are unaffected.
+  - Frontmatter: `modified` 2026-10-20; `ai_modified` set from `date -u`; `ai_system` gained `+claude-opus-5-5` (it was absent before).
+- **Calibration**: no concession to epiphenomenalism. Only the evidential claim is weakened, and Tenet 3 stands as a tenet (L146: "a foundational tenet, not a derived conclusion").
+- **Length**: `analyze_length` 3494 → 3497 (+3). The concepts hard limit is 3500 and the gate fires at `>=`, so 2 words of headroom remain.
+- **Reasoning mode**: engagement with the epiphenomenalist co-optimizer is mixed. L117 is Mode Two: it names the harmoniously shaped law that the inert view helps itself to. L152 is Mode Three: it marks the evidence as fitting both views and does not refute the rival.
+- **Published**: yes (synced)
 
 ## 14:39 - refine-draft
 - **Status**: Success
