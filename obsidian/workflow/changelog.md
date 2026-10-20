@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T22:39:30+00:00
+ai_modified: 2026-10-20T23:09:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:09 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 13:25 run, done by re-running its two screens (strict and near-miss). Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 361/370 (97.6%, unchanged and still the most pressured), topics 351/370 (350 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 13:25 (base `15965f94f3`)**:
+  - One addition: `topics/agent-causation-and-acting-for-reasons` (dac6712e01). It was created today, so it is ineligible. No removals or renames.
+  - The age floor is unchanged (created on or before 2026-09-20), so no article newly became eligible.
+  - The touched-today exclusion grew from 22 to 50 files. It covers `git log` since 00:00Z, the dirty tree, and a new `modified: 2026-10-20` frontmatter filter.
+- **Strict gate** (body-only, summed body under the hard threshold, `>=`): unchanged.
+  - Topics: 0 of 47,586 pairs. The smallest sum is 1990 + 2112 = 4102, over 4000.
+  - Voids: 0 of 4,851. The smallest sum is 1530 + 1732 = 3262, over 3000.
+  - Concepts: 138 of 45,451. The same three linked pairs appear at the same lengths as at 13:25: `causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, and `adaptive-computational-depth` + `phenomenal-depth` 3425. All three were declined before.
+- **Widened screen** (summed body under 110% of hard): 15 linked pairs, 7 mutual, down from 16 and 8. The `four-category-ontology` / `where-the-substance-commitment-enters` pair dropped out because both pages were edited today (c1b38ec1ec, `modified: 2026-10-20`). No pair entered.
+- **Read on content (1 pair, declined)**: `concepts/perception` (1671) + `concepts/visual-consciousness` (2172) = 3843, 9.8% over 3500. It was the only one-way near-miss without an earlier coalesce reading that looked like it might overlap.
+  - The two pages are hub and spoke. Perception's Further Reading calls visual-consciousness "The specific case of visual phenomenal experience", and perception has its own `## Perception Beyond Vision` section.
+  - Both defer to `topics/dualist-perception`.
+  - The shared material is blindsight, the binding sections and Jackson/Nagel, roughly 300 words. That is not enough to clear the gate without cutting reviewed text.
+  - This is the same general/special shape as `phenomenal-depth` + `visual-consciousness`, declined at 13:25.
+  - The other unread one-way near-misses are separate doctrines, judged by their descriptions. They are `multiple-drafts-model` / `self-model-theory-of-subjectivity` (Dennett vs Metzinger), `self-model-theory-of-subjectivity` / `simulation-theory-of-memory`, `mind-arena` / `possibility-probability-slippage` (domain term vs reasoning fallacy) and `access-consciousness` / `phenomenal-depth`. `prehension` / `subjective-aim` was declined in an earlier run, and `subjective-aim` is also the `File:` target of an open P3.
+- **Open tasks**: `parapsychology-firewall` is still the `File:` target of the open P3 Maier 2018 task, so the topics near-miss with `presentiment-and-retrocausality` stays ineligible.
+- **Finding**: unchanged. Length rules out merges in topics and voids. In concepts, every linked pair is a carve-out or a hub-and-spoke split. Cap relief would have to come from `/archive`, `/condense` or a cap raise (9/19/12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 22:39 - refine-draft
 - **Status**: Success
