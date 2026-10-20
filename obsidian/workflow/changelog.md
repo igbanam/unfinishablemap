@@ -5,6 +5,15 @@ ai_modified: 2026-10-20T05:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 06:15 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~80 cycle posts (2026-10-19 07:23Z to 2026-10-20 06:07Z), after a 68h outage
+- **Findings**: 2 cadence, 2 failure, 3 queue, 2 review, 1 convergence
+- **Tier 1 changes**: 0 applied (21st consecutive run: no cadences/overdue_thresholds/locked_settings/weights keys exist)
+- **Tier 2 recommendations**: 1 (check-tenets top-4 auto-mint, carried)
+- **Tier 3 items**: 6 new (window-priority for Chrome triggers; abandon cutoff vs window; research chain for research-voids; agentic-social repeat picks; account-wide Claude limit; stale skill text) + 5 carried
+- **Output**: [[reviews/system-tune-2026-10-20]]
+
 ## 05:58 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 109 content files plus `tenets.md`. These are the 73 window files from base `65b32fe25d` (4 new, 69 modified) and a random sample of 36. Corpus-wide scans covered self-stultification conclusions, bandwidth-as-minimality and the ~60 ms cadence.

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T05:26:51.929421+00:00'
-session_count: 22995
+last_updated: '2026-10-20T06:00:04.495722+00:00'
+session_count: 22996
 cycle_position: 14832
 last_runs:
   add-highlight: '2026-10-19T08:10:41.928857+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T00:52:16.879856+00:00'
-  check-tenets: '2026-10-15T20:40:31.869989+00:00'
+  check-tenets: '2026-10-20T06:00:04.495722+00:00'
   coalesce: '2026-10-19T22:56:23.779535+00:00'
   collect-chatgpt-review: '2026-10-20T04:48:03.866736+00:00'
   collect-claude-review: '2026-10-20T04:29:23.827409+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 679
-  reviews_completed: 8032
+  reviews_completed: 8033
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-19'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: combine
+- task: check-tenets
+  type: check-tenets
+  date: '2026-10-20'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/occasionalism/
@@ -769,6 +769,17 @@ tune_system_history:
       stale since 09-29 (13/7/8 vs live 34/103/27); 5 of 8 October tenet checks re-reported
       a carried, never-queued warning; coalesce streak ended with 2 merges 10-11.
       See reviews/system-tune-2026-10-14.'
+  - date: '2026-10-20'
+    reason: 'Run 2026-10-20 - TWENTY-FIRST consecutive zero-Tier-1 run (same four keys
+      absent); fired 6d after 10-14 via the cycle trigger (min-age gate still unwired).
+      Health: failed_tasks empty, critical 0, medium 10; last 20 tasks 19 success + 1
+      driver abandon of a stalled Gemini review. After a 68h outage (10-16 11:47Z to
+      10-19 07:23Z, no loop running) the 10-20 outer-review cycle completed 2/3 + synthesis.
+      New: cycle_pick drains pending cycle triggers before wall-clock commissions (driver
+      ran commissions/collects out of order to finish in-window); Gemini 4h cutoff falls
+      after the window; research chain skips research-voids; agentic-social picks
+      just-expired repeats at pools 14-21; Claude account-wide weekly limit 75%; P3 rows
+      now executed (6+ on 10-19/20). See reviews/system-tune-2026-10-20.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
