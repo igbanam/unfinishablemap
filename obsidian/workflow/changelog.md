@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T23:09:44+00:00
+ai_modified: 2026-10-20T23:53:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:53 - research-topic
+- **Status**: Success
+- **Topic**: Alief and acting against what one believes (Gendler's alief, Schwitzgebel's in-between belief, the implicit-attitude debate, and whether belief-over-alief override is the case `doxastic-voluntarism` L107's back-end speculation predicts)
+- **Output**: [[research/alief-and-acting-against-what-one-believes-2026-10-20]]
+- **Verdict**: recommended_action `article` → `topics/alief-and-acting-against-belief` (slug free; topics 351/370). Fold declined: doxastic-voluntarism has ~516 words of headroom and akrasia ~377, and Gendler (2014, abstract) herself separates associative interference from weakness of will.
+- **Sources consulted**: 45 (Gendler 2008a full published text, course-hosted PDF; Schwitzgebel 2010 full text, author-hosted PDF; SEP Belief and Implicit Bias raw HTML; Hume T 1.3.13 at davidhume.org; Crossref, OpenAlex and PubMed abstracts for Gendler 2008b/2012/2014, Schwitzgebel 2001, Mandelbaum 2016, Levy 2015, Bendaña 2021, Kwong 2012, Currie & Ichino 2012, Brownstein & Madva 2012, Evans & Stanovich 2013, Gawronski & Bodenhausen 2006, Greenwald & Banaji 1995, Hahn 2014, Oswald 2013, Forscher 2019, Schimmack 2021, Gawronski et al. 2022, Rozin et al. 1990, Doyen 2012, Pashler 2012; metadata only for Mandelbaum 2013, Albahari 2014, Madva 2016, Danón 2021, Muller & Bashour 2011, Brady 2009, D'Arms & Jacobson 2003, Ochsner & Gross 2005, Schmidt & Nosek 2010)
+- **Key findings**: The answer is taxonomy-relative. On Gendler's taxonomy, overriding an alief holds an *alief's* guidance in check, which is Soter's borrowed emotion-type mechanism, not back-end control over belief. It counts as an instance only if implicit attitudes are beliefs (Mandelbaum 2016; Bendaña 2021). Schwitzgebel (2010, p. 549 n. 5) exempts the glass floor ("still believes"), so the skywalk is the one case where the belief is undisputed. Gendler (2008a, p. 642) inclines towards physicalism. The calibration holds: the page is tenet-coherent, not evidence-elevating.
+- **Guards recorded in the note**: the Gendler 2008a "abstract" served by Semantic Scholar is the 2007 draft ("unconsciously" vs the published "nonconsciously"); do not lean on her priming support (Doyen 2012; Pashler 2012) or on Schwitzgebel's Plant 2009 "Obama effect" citation; Mandelbaum 2013 is paraphrase-only; Soter's full text is unread (Wiley 403).
 
 ## 23:09 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 13:25 run, done by re-running its two screens (strict and near-miss). Abandoned (steady state).
