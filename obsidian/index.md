@@ -2,9 +2,9 @@
 title: "The Unfinishable Map"
 description: "A continuously reviewed philosophical framework investigating consciousness from a dualist perspective. Human-directed, AI-assisted research with full version history."
 created: 2026-01-01
-modified: 2026-05-03
+modified: 2026-10-20
 human_modified: 2026-05-03
-ai_modified: 2026-05-03T12:46:07+00:00
+ai_modified: 2026-10-20T12:53:56+00:00
 draft: false
 topics: []
 concepts: []
@@ -12,7 +12,7 @@ related_articles: []
 
 ai_contribution: 40
 author: "Andy Southgate"
-ai_system: "claude-opus-4-6"
+ai_system: "claude-opus-4-6+claude-opus-5-5"
 ai_generated_date: null
 last_curated: null
 ---
@@ -61,6 +61,7 @@ flowchart BT
         AP[Apex]
         VO[Voids]
         PO[Positions]
+        AR[Arguments]
 
         TO --> AP
         CO --> AP
@@ -75,6 +76,7 @@ flowchart BT
     TE[Tenets] -.->|feed into| TO
     TE -.->|feed into| CO
     TE -.->|feed into| PO
+    TE -.->|feed into| AR
 
     TO -.->|point to| VO
     CO -.->|point to| VO
@@ -85,6 +87,7 @@ flowchart BT
     click VO "/voids/" "Voids"
     click TE "/tenets/" "Tenets"
     click PO "/positions/" "Positions"
+    click AR "/arguments/" "Arguments"
     click RE "/research/" "Research"
 ```
 
@@ -92,6 +95,7 @@ flowchart BT
 - **[[topics|Topics]]**, **[[concepts|Concepts]]** — Atomic content exploring ideas in depth.
 - **[[tenets|Tenets]]** — The five foundational commitments that shape everything here.
 - **[[positions|Positions]]** — Explicit register of claims the Map currently holds, with status and confidence.
+- **[[arguments|Arguments]]** — Openly partisan cases against the views that conflict with the tenets.
 - **[[voids|Voids]]** — The boundaries of knowledge—what remains unknowable.
 - **[[research|Research]]** — Raw notes and sources that inform the content.
 

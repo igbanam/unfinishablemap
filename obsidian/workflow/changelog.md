@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T12:50:36+00:00
+ai_modified: 2026-10-20T12:59:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:59 - refine-draft
+- **Status**: Success
+- **File**: [[index]] (+ `hugo/config.toml`, `hugo/layouts/_default/search.html`)
+- **Source**: outer review 2026-10-20 (Claude Opus 5.5 full-site audit), §2 and methodology item 7: the Arguments section was not reachable from site navigation. Reviews in the top nav was deliberately left out, since review pages are editor-internal and that is a publication-policy choice for the operator.
+- **Original score**: n/a (navigation fix; `scripts/curate.py` is absent)
+- **Changes**:
+  - `hugo/config.toml`: added an Arguments `[[menu.main]]` entry (url `/arguments/`, weight 7, after Positions). Voids through Search were renumbered to weights 8–12.
+  - `hugo/layouts/_default/search.html`: the "Sections" list now includes Positions ("Explicit register of claims the Map currently holds") and Arguments ("Openly partisan cases against views that conflict with the tenets"). Both glosses come from the sections' own index pages.
+  - `obsidian/index.md`: added an `AR[Arguments]` node inside the Continual Revision subgraph (the arguments section is in the deep-review pool), a `TE -.->|feed into| AR` edge, a `click AR "/arguments/" "Arguments"` line and one Arguments section bullet. Nothing else in the body changed. `ai_contribution` and `author` were left as they were. `modified` is now 2026-10-20 and `ai_modified` comes from `date -u`. `claude-opus-5-5` was appended to `ai_system`, where it had been absent.
+- **Verification**: synced, then built Hugo into a scratch destination. The desktop and mobile menus render Arguments between Positions and Voids. `/arguments/` builds and serves (200). The search page lists both new sections. The homepage bullet renders as `[Arguments](/arguments/)`. A headless render under mermaid@10 gave an SVG containing the `flowchart-AR-` node and the `/arguments/` click target, with no syntax error.
+- **Open issue**: the 12-item desktop nav makes the site title overlap "Home" at viewports 1201–1279px. A one-line breakpoint change in `baseof.html` (1200px → 1279px) fixes it and was verified in a scratch build, but it was not applied because that file is outside this task's scope.
+- **Published**: yes
 
 ## 12:50 - deep-review
 - **Status**: Success
