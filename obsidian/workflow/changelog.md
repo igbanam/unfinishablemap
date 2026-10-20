@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T04:53:00+00:00
+ai_modified: 2026-10-20T05:26:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:26 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-20
+- **Coverage**: 2/3 reviewers processed (sources: claude-opus-5-5, chatgpt-5-6-sol-pro). Full-site audit (`fallback:site-stale-7d`; Claude reused ChatGPT's subject). Gemini 3.1 Pro was abandoned by the driver at 05:08Z after Deep Research sat at "Starting research..." for about 56 minutes; it is recorded as absent, not as dissent. The Claude leg ran on the Opus fallback for the first time.
+- **Clusters**: 6 convergent, each adjudicated on disk before clustering, plus 2 convergent assessments with no defect (self-audit strength; unbuilt mechanism). 5 partly upheld or topical overlaps only, and 3 divergent. The dominant finding: the register withdrew photosynthetic coherence as a precedent on 2026-07-30, yet four live pages still cite it as demonstrated evidence. A sweep found the fourth (`topics/psychophysical-laws-bridging-mind-and-matter` L172), which no task covered.
+- **Tasks upgraded**: 2 (P3→P2: 1, P2→P1: 1). "Photosynthetic coherence is still cited as evidence…" went P2→P1, with the third file added. `concepts/binding-problem` L169 went P3→P2.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage.
+- **Amendments**: guards added to the causal-closure P1 (do not concede epiphenomenalism) and the testing-consciousness-collapse P2 (keep the timing point). Convergence notes added to the P-Q2 HUMAN DECISION, the subjecthood record (Claude's interpretation ledger) and the opponent-parity methodology record. A fifth data point (ChatGPT's 6 August snapshot) added to the changelog NEEDS-HUMAN. No upgrades were possible on tasks already at P1 or on operator-reserved records.
+- **Pointer check**: `parse_tasks` returns 142 active tasks before and after. P1 went from 4 to 5, P2 stayed at 21, and P3 went from 117 to 116. `git diff --stat todo.md` shows +19/−15, all within the eight edited entries.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-20]]
 
 ## 04:53 - collect-chatgpt-review + outer-review
 - **Status**: Success
