@@ -1,14 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 09:24:47+00:00
+ai_modified: 2026-10-20 09:59:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 09:24:47+00:00
+lastmod: 2026-10-20 09:59:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:59 - refine-draft
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Source**: [optimistic-2026-10-16-self-stultification-repair-wing](/reviews/optimistic-2026-10-16-self-stultification-repair-wing/) (the L49/L75/L167/References strings) plus the add-on [tenet-check-2026-10-20](/reviews/tenet-check-2026-10-20/) Warning 1 (L169/L165 strings, pulled from the review file by script), which was promoted P3→P2 by the driver.
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Length** (`analyze_length`, topics hard 4000): 3473 → 3583 (+110; 416 below the ceiling). Breakdown: L75 +59, References +21, L167 +0 and +3, L49 +4, L169 +18, L165 +5.
+- **Changes** (each OLD string was asserted to match exactly once before replacement):
+  - (1) L75, appended after "can be exhaustively physical rather than refuting epiphenomenalism outright.": "A second escape runs through acquaintance, which [needs no causal traffic](/topics/acquaintance-without-causation/) whether the knower is physical or, as on Yetter-Chappell's (2022) [dualism about subjects](/concepts/self-stultification/#dualism-all-the-way-down), non-physical. The argument then bites at most on reasoning from experience or voicing it, and favours the Map's interactionism only if consciousness acts in virtue of its content, an open posit." This is re-based on `acquaintance-without-causation` L39/L88/L108. The narrowing now covers the property dualist's physical knower as well as Yetter-Chappell's subject, and it names the content-efficacy debt. The task's original sentence, which narrowed only against Yetter-Chappell and only to "cannot be rationally *asserted*", was not used. Yetter-Chappell is credited with the route only; the narrowed conclusion is the Map's.
+  - (2) References: Yetter-Chappell (2022), *Synthese* 200(2), Article 99, doi 10.1007/s11229-022-03654-6, added after Sellars (the metadata was Crossref-verified in the origin review).
+  - (3) L167: "uniquely resistant" → "unusually resistant".
+  - (4) L167: "to argue against it, one must engage…" → "on its reading, to argue against it one must engage…".
+  - (5) L49: "that makes the position impossible to hold rationally." → "that, where it goes through, makes the position impossible to hold rationally." The superlative "single most powerful argument" was left untouched (deep-review 2026-06-06).
+  - (6) L169: "The Map holds that conclusion not because" → "The Map holds only the narrower conclusion that such a theory is not reasoned or voiced from its evidence, and holds even that not because".
+  - (7) L165: "but rationally untenable." → "but, where the argument's premises hold, rationally untenable."
+- **Pronoun check**:
+  - L75: "which" → acquaintance; "it" → experience; "its content" → consciousness.
+  - L169: "such a theory" → "a theory that lands on epiphenomenalism"; "blocks it" → the argument.
+  - L167: "its reading" / "against it" / "it defends" → self-stultification.
+  - L49: "where it goes through" → the self-defeat.
+  - No repair was needed.
+- **Calibration**: every edit narrows or hedges a claim; none strengthens one. Self-stultification is nowhere presented as refuting epiphenomenalism (tenets.md L101). "It seems devastating against epiphenomenalism" (L127) was not altered.
+- **Reasoning mode**:
+  - Engagement with the epiphenomenalist (acquaintance reply, Chalmers-style and Yetter-Chappell): Mode Three, with a concession. The knowing channel is granted, and the residue (use/voice plus the content-efficacy debt) is marked as the boundary rather than as a refutation.
+  - L169: Mode Three. The narrowed conclusion is held as a comparative judgement, not as an in-framework refutation.
+- **Leads, not fixed**:
+  - Same page: L149 ("Epiphenomenalism might be correct despite being impossible to rationally believe… A position that cannot be rationally held…") and the L49 closing sentence ("any theory that severs consciousness from its own rational grounds cannot be rationally endorsed") still carry the classic conclusion unhedged.
+  - `concepts/self-stultification` L45 and L167 state "cannot be rationally held" unhedged, and its Dualism All the Way Down section (L181) narrows only against Yetter-Chappell.
+- **Published**: yes (synced; both new links render: /topics/acquaintance-without-causation/ and /concepts/self-stultification/#dualism-all-the-way-down)
 
 ## 09:24 - refine-draft
 - **Status**: Success
