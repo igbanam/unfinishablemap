@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T21:58:04+00:00
+ai_modified: 2026-10-20T22:16:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:15 - deep-review
+- **Status**: Success
+- **File**: [[topics/akrasia-and-weakness-of-will]]
+- **Selection**: selector's #1 [[concepts/four-category-ontology]] and #2 [[concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws]] both carry `modified: 2026-10-20`, so they were skipped as touched today. This article was #3 (score 69). It had not been deep-reviewed since the 10-04 outer-review rewrite (+1,043 words, 14 new References entries).
+- **Word count**: 3620 → 3622 (+2), soft_warning, so the pass ran length-neutral (hard 4000).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+  - L82 Friese 2017: "a small effect (g = 0.30" → "a small-to-medium effect (g = 0.30", which is the abstract's own label.
+  - L90: "Building on a phenomenon Watson identified, Gorman" → "…Watson identified (1975, p. 20), Gorman". The sentence follows "Watson (1977)", and the SEP cites Watson 1975, p. 20.
+- **Low issues addressed**: 2
+  - L72: "the SEP finds made explicit in" → "the SEP finds clearer in" (SEP n. 11: "emerges with greater clarity").
+  - Davidson 1978 now precedes 1980 in References.
+- **Verification**: all 26 References entries ledgered against the publisher of record (Crossref and OpenAlex). Every quoted span was grep-verified in raw curl-fetched text: the SEP entry and notes, Ross *NE* VII, Holton's MIT book page and his 2003 PDF. The SEP misprints Gorman 2019 ("View") and Arpaly 2000 ("Better"); the article's "Account" and "Best" are correct.
+- **Engagement modes** (editor-internal):
+  - Socratic/Harean denial: Mode Three.
+  - Distributed-architecture rival: Mixed (concessions plus a bedrock declaration).
+  - Physicalist functional reading: Mode Three, conceded.
+  - Schapiro: two framings, not adjudicated.
+  - No label leakage.
+- **Output**: [[reviews/deep-review-2026-10-20-akrasia-and-weakness-of-will]]
+- **Model**: claude-opus-5-5
 
 ## 21:58 - refine-draft
 - **Status**: Success (two files, plus one of two leads)
