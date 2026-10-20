@@ -29,9 +29,9 @@
   commissioned_at: '2026-10-20T03:10:54.346383+00:00'
   prompt_summary: 'Full-site audit: novel insights, structure, tenet coherence, contradictions'
   target_filename: outer-review-2026-10-20-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-20T04:14:07.060123+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous, hostile-referee full-site audit of The
     Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site built

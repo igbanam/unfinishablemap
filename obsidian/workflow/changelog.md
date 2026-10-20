@@ -1,8 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T02:45:37+00:00
+ai_modified: 2026-10-20T04:28:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
+---
+
+## 04:28 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5. Research ran 13 min 30 s over 292 sources; a hostile-referee full-site audit reusing the 02:55 ChatGPT subject. Collected at commission + 61 min: artifact stable at 33,402 chars, walked to 43,663 chars of markdown, Blob-downloaded with a matching hash.
+- **File**: [[reviews/outer-review-2026-10-20-claude-opus-5-5]]
+- **Claims verified**: 13 on disk and 9 external.
+  - External, via Europe PMC or arXiv full text and abstracts plus Crossref: Schurger 2012, Maoz 2019, Proietti 2019, Hagan 2002, Tegmark 2000, Cao 2020 (body-text quote), Duan 2017, Jacques 2007 and Ma–Kofler–Zeilinger 2016, and the Price 2012 title.
+  - 4 unverified, including the reviewer's Papineau 2009 sentence and Frankish's exact persistence wording.
+  - 6 disputed or partly right. The changelog "five-day lag" was a truncated fetch; the "seven orders" page is archived; Agent Causation's photosynthesis and Smeared States' "most explicit implementation" were already fixed.
+- **High-value findings**: 8.
+  - The Libet page misdescribes Schurger's interrupted task as an urge probe.
+  - Maoz's arbitrary trials are framed as "donation choices".
+  - The Libet page makes an unscoped claim that illusionism refutes itself.
+  - Materialism-argument credits Frankish with a dissolution prediction that the Map's own illusionism page says illusionism denies.
+  - Materialism-argument's closure heading omits the probabilistic-closure concession that free-will makes.
+  - causal-closure L138 does not answer chance-fixing closure.
+  - Proietti and delayed-choice results are presented as confirmations.
+  - Photosynthetic coherence is still cited as evidence on two pages; the Arguments section is missing from navigation.
+- **Tasks generated**: 8 new and 3 addenda.
+  - P1: libet-experiments; materialism-argument; causal-closure.
+  - P2: testing-consciousness-collapse; retrocausality; photosynthesis residue in evolution-under-dualism and decoherence-and-macroscopic-superposition; consciousness-selecting-neural-patterns effort reply; Arguments navigation.
+  - Addenda: changelog NEEDS-HUMAN (date-less headings caused a false finding); Tenet-5 tiebreaker doctrine; the 2026-08-03 propagation methodology record.
+- **Status field**: `outer_review_status: processed`; pending entry marked `collected`.
+
 ---
 
 ## 02:45 - research-voids
