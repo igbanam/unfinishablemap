@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T10:55:29+00:00
+ai_modified: 2026-10-20T11:15:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:15 - refine-draft
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Source**: [[reviews/outer-review-2026-10-20-claude-opus-5-5]] §5, §6 and recommendation (a)4, with the L159 guard from [[reviews/outer-review-synthesis-2026-10-20]] (Divergence 3; ChatGPT §5.2 credits the timing point)
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Length** (`analyze_length`, topics hard 4000): 3993 → 3991 (−2; all edits are replacements). Per locus: L135 99 → 99, L159 143 → 140, L175 64 → 65.
+- **Verification**: Proietti et al. 2019 raw full text (Europe PMC fullTextXML, PMC6754223) was tag-stripped and grepped, with the title as a positive control. All three quotes are verbatim: "If one holds fast to the assumptions of locality and free choice, this result implies that quantum theory should be interpreted in an observer-dependent way"; "The related no-go theorem by Frauchiger and Renner (5) rests on different assumptions, which do not explicitly include locality"; "accepting the photons’ status as observers" (curly apostrophe in source). The body says "for the no-go theorem we tested here (4)", where ref 4 is Brukner, Entropy 20, 350 (2018). Brukner (2018) checked at Crossref (doi 10.3390/e20050350: "A No-Go Theorem for Observer-Independent Facts", Časlav Brukner, *Entropy* 20(5), 350). Tegmark quant-ph/9907009 abstract: cognitive degrees of freedom "should be thought of as a classical rather than quantum system". `tenets` L71 wording read at source: "an additional actualisation postulate".
+- **Changes**:
+  - L175 (Frauchiger-Renner section): "Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions — confirmed empirically by Proietti et al. (2019) and sharpened by Bong et al. (2020) and Steane (2025)." → FR presented as a thought-experiment derivation from "universal quantum mechanics plus agents' definite outcomes"; the resolution sentence was compressed ("consciousness-collapse, more expensively, denies…"); a closing sentence was added: "Proietti et al. (2019) instead tested Brukner's (2018) related Bell-type no-go, granting single photons observer status: given locality and free choice, observer-independent facts fail." Bong and Steane were dropped from L175. L135 still cites and describes both, and the unverified "sharpened" gloss went with them.
+  - L135: "confirmed observer-modelling tensions are empirically real" → "tested observer-independent facts with photon "observers"".
+  - L159: "operates through [[post-decoherence-selection]], which sidesteps the timescale problem entirely" → "[[post-decoherence-selection|post-decoherence selection]] concedes Tegmark's classicality, so the objection does not bite". The next sentence was compressed, with "— an additional actualisation postulate with no mechanism behind it" appended. The closing sentence became "Tegmark's calculation constrains when coherence vanishes, not what then happens to the mixture." That keeps L161's "this separation" referent.
+- **Engagement classification** (editor-internal): Tegmark is Mixed. Mode One on scope: his own calculation constrains only coherence lifetime, which post-decoherence selection does not need. Mode Three on the residue: the actualisation step is a declared postulate with no mechanism, now stated in the article. Frauchiger-Renner and Proietti are Mode Three, as interpretation-forcing results; the article no longer claims empirical confirmation.
+- **Pronoun/referent checks**: L175 "this" → the FR contradictions (S1); L159 "the objection" → paragraph-opening "The objection"; L161 "this separation" → L159's coherence-timing vs selection contrast. All hold.
+- **Follow-up (deferred for length)**: Brukner, Č. (2018). "A No-Go Theorem for Observer-Independent Facts." *Entropy*, 20(5), 350. https://doi.org/10.3390/e20050350 (Crossref-verified). It is cited inline only. The reference entry needs 13 words against 8 of headroom, and no other Map page carries it.
+- **Out of scope (untouched)**: L153 Stapp "aligns with" (adjudicated compatible).
+- **Published**: yes (synced; new text confirmed in `hugo/content/topics/testing-consciousness-collapse.md`)
 
 ## 10:55 - cross-review
 - **Status**: Success
