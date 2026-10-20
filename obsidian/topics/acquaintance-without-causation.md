@@ -2,9 +2,9 @@
 title: "Acquaintance Without Causation and the Self-Stultification Argument"
 description: "Human+AI analysis: the Map's acquaintance epistemology grants knowing without causal traffic, so self-stultification survives only for using and voicing experience, at a content-efficacy cost."
 created: 2026-10-19
-modified: 2026-10-19
+modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-19T15:17:48+00:00
+ai_modified: 2026-10-20T17:22:32+00:00
 last_deep_review: 2026-10-19T15:17:48+00:00
 draft: false
 topics:
@@ -129,6 +129,7 @@ The argument narrows and, if the efficacy-of-evidence premise holds, survives. I
 - [[inheritance-problem-for-the-psychophysical-law]] — phenomenal powers and interactionism
 - [[agency-void]] — why consciousness cannot verify its own causal power
 - [[epiphenomenalism-argument]] — the cumulative case against epiphenomenalism
+- [[agent-causation-and-acting-for-reasons]] — whether choices made for reasons fall under the premise
 
 ## References
 

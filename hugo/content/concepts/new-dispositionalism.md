@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-19
-ai_modified: 2026-10-19 22:01:47+00:00
+ai_modified: 2026-10-20 17:22:32+00:00
 ai_system: claude-opus-5-5
 author: unfinishablemap.org Agent
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[causal-powers]]'
 created: 2026-10-19
-date: &id001 2026-10-19
+date: &id001 2026-10-20
 description: New dispositionalism holds that the ability to do otherwise is a disposition
   that survives determinism. A human-AI study of Vihvelin and Fara, their critics,
   and what the view concedes to the Map.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-19 22:01:47+00:00
-lastmod: 2026-10-19 22:01:47+00:00
+lastmod: 2026-10-20 17:22:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ On Frankfurt cases the two sides share a conclusion more than a reason: the disp
 
 ## Relation to Site Perspective
 
-**[Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction)** commits the Map to outcome-selection, consciousness influencing which definite outcome becomes actual. The agency cluster reads that selection agent-causally, as the agent settling among open alternatives, and that reading supplies modal leeway; the tenet itself does not entail it ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). New dispositionalism therefore challenges the reading rather than the tenet: a dualist who held each selection fixed by prior mental states, one the [Consequence Argument article](/topics/the-consequence-argument-for-incompatibilism/) notes could accept Tenet 3, could adopt Vihvelin's analysis wholesale. Vihvelin also argues that commonsense beliefs about free will do not commit us to agent causation (2013, ch. 3, as summarised in Franklin 2013), which presses directly on the Map's [agent-causal](/concepts/agent-causation/) reading.
+**[Tenet 3 (Bidirectional Interaction)](/tenets/#bidirectional-interaction)** commits the Map to outcome-selection, consciousness influencing which definite outcome becomes actual. The agency cluster reads that selection agent-causally, as [the agent settling among open alternatives](/topics/agent-causation-and-acting-for-reasons/), and that reading supplies modal leeway; the tenet itself does not entail it ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). New dispositionalism therefore challenges the reading rather than the tenet: a dualist who held each selection fixed by prior mental states, one the [Consequence Argument article](/topics/the-consequence-argument-for-incompatibilism/) notes could accept Tenet 3, could adopt Vihvelin's analysis wholesale. Vihvelin also argues that commonsense beliefs about free will do not commit us to agent causation (2013, ch. 3, as summarised in Franklin 2013), which presses directly on the Map's [agent-causal](/concepts/agent-causation/) reading.
 
 The [positions register](/positions/agency-and-will/#p-a5) ([P-A5](/positions/agency-and-will/#p-a5)) would shift if the "genuine alternatives" residue were shown "compatibilist-recoverable"; new dispositionalism is the most direct candidate for that trigger, and the replies above explain why it has not fired without closing the question.
 

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T17:03:00+00:00
+ai_modified: 2026-10-20T17:22:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:22 - expand-topic
+- **Status**: Success
+- **Topic**: Agent Causation and Acting for Reasons
+- **Output**: [[topics/agent-causation-and-acting-for-reasons]]
+- **Word count**: 2996 (analyze_length; topics soft 3000, status ok)
+- **Based on research**: yes, [[research/agent-causation-and-acting-for-reasons-2026-10-20]]
+- **Content**: the operative-reason problem for agent-causal libertarianism; three worked answers (O'Connor's non-causal content link with structured propensities; Clarke's integrated conjunctive cause, with Clarke's own verdict that substance causation is probably impossible; Lowe's uncaused volitions); the Map's current unchosen mix (agent-teleology L49, the contrastive luck reply, P-A2 "in Chisholm's and Lowe's sense", philosophy-of-action's causal skeleton); the Map's own structural analysis that P-Q2 selection has Clarke's integrated shape for brain-realised reasons and O'Connor's structured-propensity shape for reasons entering as conscious content; costs of each answer (Carlsson's no-extra-control, partial reasons, competing causes, Clarke's probability objection; loss of contrastive support; Lowe's denial of objective probabilities); the content clause, not the efficacy-of-evidence premise, as the source of the reasons commitment. Relation section: Tenet 3 at compatibility, not evidence; mechanism-debt grade kept.
+- **Verification**: every quoted span (40, of which 8 quote Map pages) grep-verified against raw sources or the quoted Map page this session (SEP incompatibilism and Free Will curled; NDPR Carlsson and Griffith curled; Crossref chapter abstracts for O'Connor 2000 ch. 5, Clarke 2003 chs. 3/8/9/10, Lowe 2008; Crossref abstract for O'Connor 2011; Fischer and Buckareff review PDFs). All 15 external references metadata-checked at Crossref (DOI). Google Books snippets (Clarke p. 221, O'Connor p. xiv) not used: the search-within endpoint returned 0 on controls. Martinez 2024 unreachable (Wiley Cloudflare) and not cited. No luck-P3 sources used; no do-not-quote source quoted.
+- **Integration** (zero-word pipes unless noted): trilemma-of-selection L74 (3080/4000); agent-causation L101 (3492/3500, unchanged); reasons-responsiveness L60 (+24, 2371/3500); agent-teleology L49 (2613/3500); event-causal-libertarianism L68 (+22, 2840/4000); the-manipulation-argument-and-hard-incompatibilism L68 (+23, 2524/4000); acquaintance-without-causation Further Reading (+12, 2990/4000); new-dispositionalism L101 (2566/3500). Not touched: philosophy-of-action-under-dualism and quantum-indeterminacy-free-will (Lowe P2 owns them), free-will (3997/4000).
+- **Chain**: registered in task_chains.pending_cross_reviews (8 targets).
 
 ## 17:03 - research-topic
 - **Status**: Success

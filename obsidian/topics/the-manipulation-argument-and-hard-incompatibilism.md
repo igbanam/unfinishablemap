@@ -2,9 +2,9 @@
 title: "The Manipulation Argument and Hard Incompatibilism"
 description: "Pereboom's four-case manipulation argument and hard incompatibilism—the Map's most dangerous free-will opponent, which grants incompatibilism but argues the libertarian escape also fails."
 created: 2026-07-09
-modified: 2026-07-09
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-15T07:37:16+00:00
+ai_modified: 2026-10-20T17:22:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[the-consequence-argument-for-incompatibilism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-10-15T07:37:16+00:00
@@ -65,7 +65,7 @@ Hard incompatibilism is the Map's most dangerous free-will opponent precisely be
 
 The Map's reply is that its interface is a genuine **selection** mechanism, not a randomiser. On the [[the-consequence-argument-for-incompatibilism|interactionist picture]], consciousness makes a minimal, non-physical contribution at the point where an outcome becomes actual—the [[quantum-indeterminacy-free-will|post-decoherence selection]] the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets describe. The claim is that the agent *settles* which of the physically-open outcomes is realised, so what happens at the interface is the agent's doing rather than a chance fluctuation. If that claim can be made good, it is a candidate for exactly the "enhanced control" Pereboom says indeterminism cannot provide: the disappearing-agent objection assumes that where the prior states leave the outcome open, *nothing* settles it, and the Map's [[agent-causation|agent-causal]] interface is an attempt to name the something that does.
 
-This reply must be presented at its true strength, which is that of a contested bet rather than a demonstration. Pereboom's luck objection is forceful and, honestly assessed, unresolved. The Map does not have a worked model showing that a token-level bias which leaves the aggregate Born statistics undisturbed amounts to the agent's *settling* the outcome rather than merely being correlated with it; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet itself registers this as a live hypothesis pending a toy model, not an established result. And Pereboom's empirical objection to agent-causal influence—the wild-coincidences worry—is a real cost the Map's framework pays, not one it has discharged. The interface has to be reconcilable with the physical regularities we observe, and the Map's post-decoherence proposal is constructed to leave those regularities statistically intact precisely so that no detectable anomaly arises; that very feature is what makes the influence empirically hard to distinguish from chance, which is the near neighbour of Pereboom's complaint that indeterministic control is indistinguishable from luck.
+This reply must be presented at its true strength, which is that of a contested bet rather than a demonstration. Pereboom's luck objection is forceful and, honestly assessed, unresolved. The Map does not have a worked model showing that a token-level bias which leaves the aggregate Born statistics undisturbed amounts to the agent's *settling* the outcome rather than merely being correlated with it; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet itself registers this as a live hypothesis pending a toy model, not an established result. And Pereboom's empirical objection to agent-causal influence—the wild-coincidences worry—is a real cost the Map's framework pays, not one it has discharged. One route to discharging it, an integrated reading on which the frequencies are the reasons' own, [[agent-causation-and-acting-for-reasons#costs-integrated|trades it for an objection about control]]. The interface has to be reconcilable with the physical regularities we observe, and the Map's post-decoherence proposal is constructed to leave those regularities statistically intact precisely so that no detectable anomaly arises; that very feature is what makes the influence empirically hard to distinguish from chance, which is the near neighbour of Pereboom's complaint that indeterministic control is indistinguishable from luck.
 
 Where the Map does have leverage is at the level of method, and this is a [[tenets#^occams-limits|Tenet 5]] point—but it reaches only one of Pereboom's two strands. The first, that we have no positive scientific reason to posit agent causation, is a parsimony judgement, and Tenet 5 holds that simplicity is an unreliable guide to truth where our knowledge is incomplete; the mind-body interface is a paradigm case of incompleteness. So the Map can decline to treat that strand as decisive, while conceding—symmetrically, as Tenet 5 requires—that this move buys no positive support for agent causation either. It blocks that strand from being a refutation; it does not convert the Map's bet into a demonstration. The second strand, the wild coincidences, is not a parsimony argument: it says the match between free choices and physical statistics would go unexplained, and Tenet 5 does not touch it. The Map's Born-preserving design sits on exactly that horn, which is why the cost recorded above stays undischarged. The honest position is that hard incompatibilism and the Map agree on the incompatibilist premise and disagree, at the edge of what anyone can currently establish, on whether harnessed indeterminism can be control. The Map places its bet there knowingly, and grants that the opponent's hand is strong.
 

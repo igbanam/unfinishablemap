@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-20 14:17:08+00:00
+ai_modified: 2026-10-20 17:22:32+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 14:17:08+00:00
-lastmod: 2026-10-20 14:17:08+00:00
+lastmod: 2026-10-20 17:22:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Agent-causal libertarians (Roderick Chisholm and Timothy O'Connor, with Randolph
 
 ## Non-Causal Libertarianism
 
-Non-causal libertarians (Carl Ginet, Hugh McCann, Stewart Goetz) hold that free actions need not be caused by anything—neither by events nor by an agent-substance. Freedom is a *basic*, uncaused feature of action. Ginet (1990) locates an action's activeness in an "actish phenomenal quality," the intrinsic way it seems to the agent that she is directly making the action happen; McCann stresses irreducible intrinsic intentionality. E. J. Lowe sits on this wing's border with the agent-causal one: he defends substance causation and a non-Cartesian substance dualism, but holds that free volitions are uncaused, spontaneous exercises of a rational power, so the Stanford Encyclopedia files his account with the non-causal theories (Lowe 2008). This is the least populated wing, largely because it struggles with two demands: how the agent exercises *active control* (an event with the right "actish" feel could be induced by direct brain stimulation, with no genuine agency), and how an action is done *for a reason* when reason-explanation looks causal.
+Non-causal libertarians (Carl Ginet, Hugh McCann, Stewart Goetz) hold that free actions need not be caused by anything—neither by events nor by an agent-substance. Freedom is a *basic*, uncaused feature of action. Ginet (1990) locates an action's activeness in an "actish phenomenal quality," the intrinsic way it seems to the agent that she is directly making the action happen; McCann stresses irreducible intrinsic intentionality. E. J. Lowe sits on this wing's border with the agent-causal one: he defends substance causation and a non-Cartesian substance dualism, but holds that free volitions are uncaused, spontaneous exercises of a rational power, so the Stanford Encyclopedia files his account with the non-causal theories (Lowe 2008). This is the least populated wing, largely because it struggles with two demands: how the agent exercises *active control* (an event with the right "actish" feel could be induced by direct brain stimulation, with no genuine agency), and how an action is done *for a reason* when reason-explanation looks causal. Standard agent-causal views face the second demand as well, since they too deny that the agent's reasons cause the free choice ([agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/)).
 
 ## The Luck and Disappearing-Agent Objection
 

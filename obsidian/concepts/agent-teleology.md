@@ -2,9 +2,9 @@
 title: "Agent Teleology"
 description: "Agent teleology is the view that conscious beings introduce genuine purpose into an otherwise mechanistic universe. A key concept for dualist accounts of action and evolution."
 created: 2026-02-16
-modified: 2026-09-28
+modified: 2026-10-20
 human_modified:
-ai_modified: 2026-09-28T01:05:45+00:00
+ai_modified: 2026-10-20T17:22:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[self-transcendence-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-16
 last_curated:
 last_deep_review: 2026-08-24T08:20:24+00:00
@@ -46,7 +46,7 @@ Agent teleology is the thesis that conscious beings introduce genuine purpose in
 
 Teleology is goal-directedness—explanation in terms of what something is *for* rather than what caused it. Pre-Darwinian biology was pervasively teleological: the eye exists *in order to* see, the heart *in order to* pump blood. Darwin replaced this with mechanism: the eye exists because organisms with light-sensitive cells outreproduced those without. Function replaced purpose. Natural selection produces the *appearance* of design without any designer.
 
-Agent teleology does not challenge this achievement. Evolution operates mechanistically. Mutations are random. Selection is blind. No cosmic purpose guides the process. What agent teleology claims is narrower: once conscious organisms evolve, their actions are genuinely purpose-directed in a way that resists mechanistic reduction. The gazelle's flight is not merely a chain of stimulus-response events that we conveniently *describe* as purposive. If dualism is true, the gazelle acts for a reason—to survive—and that reason is a conscious state that causally contributes to the outcome.
+Agent teleology does not challenge this achievement. Evolution operates mechanistically. Mutations are random. Selection is blind. No cosmic purpose guides the process. What agent teleology claims is narrower: once conscious organisms evolve, their actions are genuinely purpose-directed in a way that resists mechanistic reduction. The gazelle's flight is not merely a chain of stimulus-response events that we conveniently *describe* as purposive. If dualism is true, the gazelle acts for a reason—to survive—and that reason is a conscious state that [[agent-causation-and-acting-for-reasons|causally contributes]] to the outcome.
 
 Three types of teleology should be distinguished:
 

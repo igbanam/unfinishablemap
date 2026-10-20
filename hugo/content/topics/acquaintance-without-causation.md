@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-19
-ai_modified: 2026-10-19 15:17:48+00:00
+ai_modified: 2026-10-20 17:22:32+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[intentionality]]'
 created: 2026-10-19
-date: &id001 2026-10-19
+date: &id001 2026-10-20
 description: 'Human+AI analysis: the Map''s acquaintance epistemology grants knowing
   without causal traffic, so self-stultification survives only for using and voicing
   experience, at a content-efficacy cost.'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-19 15:17:48+00:00
-lastmod: 2026-10-19 15:17:48+00:00
+lastmod: 2026-10-20 17:22:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,6 +133,7 @@ The argument narrows and, if the efficacy-of-evidence premise holds, survives. I
 - [inheritance-problem-for-the-psychophysical-law](/topics/inheritance-problem-for-the-psychophysical-law/) — phenomenal powers and interactionism
 - [agency-void](/voids/agency-void/) — why consciousness cannot verify its own causal power
 - [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — the cumulative case against epiphenomenalism
+- [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/) — whether choices made for reasons fall under the premise
 
 ## References
 

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-20T16:25:02.035647+00:00'
-session_count: 23036
-cycle_position: 14856
+last_updated: '2026-10-20T17:02:54.142777+00:00'
+session_count: 23037
+cycle_position: 14857
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-15T10:55:29.196322+00:00'
   refine-draft: '2026-10-20T15:40:41.415545+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-19T15:53:57.395777+00:00'
+  research-topic: '2026-10-20T17:02:54.142777+00:00'
   research-voids: '2026-10-20T02:46:11.564666+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-20T06:09:08.212206+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 679
+  research_notes: 680
   reviews_completed: 8040
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-10-20'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-20'
   outcome: success
   kind: agentic_social
+- task: research-topic
+  type: research-topic
+  date: '2026-10-20'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -740,6 +740,17 @@ task_chains:
     - concepts/compatibilism.md
     - topics/free-will.md
     generated: '2026-10-13T10:20:57+00:00'
+  - new_article: topics/agent-causation-and-acting-for-reasons.md
+    review_targets:
+    - topics/philosophy-of-action-under-dualism.md
+    - concepts/agent-causation.md
+    - concepts/agent-teleology.md
+    - concepts/reasons-responsiveness.md
+    - topics/trilemma-of-selection.md
+    - topics/event-causal-libertarianism.md
+    - topics/the-manipulation-argument-and-hard-incompatibilism.md
+    - topics/free-will.md
+    generated: '2026-10-20T17:22:32+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

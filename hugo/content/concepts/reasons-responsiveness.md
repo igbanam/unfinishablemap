@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-27 09:55:13+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-20 17:22:32+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -18,7 +18,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-02-01
-date: &id001 2026-02-01
+date: &id001 2026-10-20
 description: Reasons-responsiveness is the capacity to track normative relationships—recognizing
   that conclusions follow from premises and acting accordingly. Central to free will
   and the argument from reason.
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 20:49:58+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-10-20 17:22:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ This distinguishes the Map's framework from pure indeterminism:
 | Explanation available | None | Contrastive (why A not B) |
 | Agent's relationship | Passive recipient | Active reasoner |
 
-The agent-causal response gains traction through reasons-responsiveness. Pure agent causation—"the agent caused it"—can seem to name the explanandum rather than explain it. Adding that the agent was *responsive to reasons* provides genuine content: the agent selected based on considerations that favoured the chosen option.
+The agent-causal response gains traction through reasons-responsiveness. Pure agent causation—"the agent caused it"—can seem to name the explanandum rather than explain it. Adding that the agent was *responsive to reasons* provides genuine content: the agent selected based on considerations that favoured the chosen option. Whether those considerations cause the selection or explain it without causing it is a further question, and the Map has not settled it ([agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/)).
 
 This is where the [Compatibilist Symmetry Challenge](/concepts/compatibilist-symmetry-challenge/) cuts deepest, and Fischer-Ravizza-style sophisticated [compatibilism](/concepts/compatibilism/) is the principal in-cluster move the discipline guards against absorbing. Fischer and Ravizza (1998) developed "moderate reasons-responsiveness" as the basis of moral responsibility within a broadly compatibilist frame: the responsibility-grounding capacity is sensitivity to a relevant range of reasons, not metaphysical origination. The contrast with the Map's reading is therefore *irreducible-vs-derivative*—whether the reasons-responsive capacity is exercised by an irreducible agent or whether it emerges from prior states the agent did not author—rather than *metaphysical-vs-pragmatic*. If the deliberative phenomenology, the praise-and-blame practices, and the character-formation arc all run equivalently when reasons-responsiveness is realised by a sophisticated reasons-responsive *mechanism* rather than by genuine agent causation, the libertarian framing's distinguishing work in moral theory shrinks. The Map's reply is that libertarian agency distinguishes itself by *tenet-coherence*—it fits the dualism and bidirectional-interaction tenets the Map adopts on grounds beyond moral theory—not by unique moral explanatory power within the deliberative arc itself. The [moral architecture apex](/apex/moral-architecture-of-consciousness/#the-compatibilist-symmetry-challenge) works the same point as part of the four-pillar synthesis.
 
