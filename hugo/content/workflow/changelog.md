@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 07:47:01+00:00
+ai_modified: 2026-10-20 07:58:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 07:47:01+00:00
+lastmod: 2026-10-20 07:58:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:58 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Source**: [outer-review-2026-10-20-claude-opus-5-5](/reviews/outer-review-2026-10-20-claude-opus-5-5/) §6, [outer-review-2026-10-20-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro/) §2.1, [outer-review-synthesis-2026-10-20](/reviews/outer-review-synthesis-2026-10-20/) cluster 2; research note [interventionist-exclusion-and-chance-fixing-closure-2026-09-07](/research/interventionist-exclusion-and-chance-fixing-closure-2026-09-07/) (the deferred 2026-09-07 sibling, W37 archive L815)
+- **Original score**: n/a (`scripts/curate.py` absent). Verified defect: L138 answered a token-sufficiency principle, not chance-fixing closure; "chance-fixing" had 0 live hits.
+- **Length**: `analyze_length` 3522 (hard_warning, concepts hard 3500) → 3493 (soft_warning). Prose 3042 → 3000; Further Reading 341 → 341; References 139 → 152 (+Lowe 2000).
+- **Changes**:
+  - (1) L138 rewritten in place, 82 → 82 words. It now states chance-fixing closure ("suffice by physical law to fix the chances", Papineau's formulation as quoted by Lowe 2000, the same attribution as `arguments/materialism-argument` L98) and concedes it under exact Born preservation. It states the Map's claim as token-level, says interventionist efficacy needs mind-conditioned chances to differ (at the cost `apex/born-preserving-causal-efficacy` concedes), and otherwise marks a framework boundary with the reading close to epiphenomenalism. Links (all piped, since bare slugs render as raw slugs in hugo): `positions/quantum-interface#^mechanism-debt`, `ensemble-level-epiphenomenalism` (on "epiphenomenalism"), `born-preserving-causal-efficacy`. The `physical-completeness` body link is kept as a piped link on "ontological" (its own L102: "Structural closure holds. Ontological closure does not.").
+  - (2) Trim L120: cut "[Saad's delegatory framework](/topics/delegatory-dualism/) develops the strongest version: experiences preempt rather than overdetermine physical causation." (−14). It duplicated L140 and Further Reading. No review guard; added by the 2026-03-13 deep-review.
+  - (3) Trim L140: cut "Chess rules constrain legal moves without overdetermining which move occurs." (−10). `pessimistic-2026-03-21-b` criticised it as "an analogy, not a mechanism"; L144 keeps a chess analogy.
+  - (4) Trim L152: cut "Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip." (−19). With chance-fixing closure conceded, it overclaimed. No review guard; added by a 2026-01-22 cross-review.
+  - (5) Reference added: Lowe (2000), *Philosophy* 75(4): 571-585.
+- **Reasoning mode**: engagement with Papineau/Kim chance-fixing closure: mixed. The premise is conceded. Interventionist difference-making is used as the opponent's own standard, and the Map meets it only on the mind-conditioned branch, whose cost the apex concedes. That inherits the W37 adjudication: the stated dilemma equivocates, but the intervention-invariant repair bites. If no conditional differs, the residue is Mode Three: whether token settling is causing is a framework boundary. Epiphenomenalism is neither conceded nor denied; "close to" mirrors [P-Q3](/positions/quantum-interface/#p-q3). The prior L138 was an attempted Mode One against the wrong principle.
+- **Not touched**: L146 and the [P-Q2](/positions/quantum-interface/#p-q2) quantifier, which are blocked on a human decision (todo "HUMAN DECISION — [P-Q2](/positions/quantum-interface/#p-q2)'s Born-preservation quantifier"). The new L138 says "mind-conditioned", which holds on either option. `arguments/materialism-argument` was not edited.
+- **Published**: yes (synced; new L138 confirmed in `hugo/content/concepts/causal-closure.md` L141)
 
 ## 07:46 - deep-review
 - **Status**: Success

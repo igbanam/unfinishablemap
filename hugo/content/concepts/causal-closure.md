@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-13 03:44:03+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-20 07:58:45+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/observational-closure/
@@ -25,14 +25,14 @@ concepts:
 - '[[physical-completeness]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-14
-date: &id001 2026-02-15
+date: &id001 2026-10-20
 description: 'Causal closure claims every physical event has sufficient physical cause.
   The Map rejects this: quantum indeterminacy leaves room for consciousness to act.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-10-13 03:44:03+00:00
+lastmod: 2026-10-20 07:58:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ Bradford Saad (2025) identifies a crucial distinction—[observational-closure](
 
 Universal closure entails observational closure, but not vice versa. Physics might be incomplete in domains beyond observation—such as the consciousness-physics interface—while appearing complete where we can check. The empirical evidence only supports observational closure, exposing an equivocation in the exclusion argument: it needs universal closure, but the evidence provides only observational closure.
 
-Mental causation can satisfy observational closure through converging mechanisms: statistical invisibility within quantum noise, [causal profile matching](/concepts/delegatory-causation/) via [preemption](/concepts/delegatory-causation/), and operation only at quantum indeterminacies where physics is already incomplete. See [observational-closure](/concepts/observational-closure/) for full treatment of these mechanisms and responses to the unfalsifiability, epiphenomenalism, and domain-specification objections. The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops the strongest version: experiences preempt rather than overdetermine physical causation.
+Mental causation can satisfy observational closure through converging mechanisms: statistical invisibility within quantum noise, [causal profile matching](/concepts/delegatory-causation/) via [preemption](/concepts/delegatory-causation/), and operation only at quantum indeterminacies where physics is already incomplete. See [observational-closure](/concepts/observational-closure/) for full treatment of these mechanisms and responses to the unfalsifiability, epiphenomenalism, and domain-specification objections. The upshot: dualists need only respect observational closure, not universal closure.
 
 ### Empirical Status
 
@@ -138,9 +138,9 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 **Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Whether Bohmian mechanics faces indexical problems parallel to Many-Worlds via its empty wave packets is itself contested; the Map's disfavouring of hidden variables is a defeasible parsimony comparison that leaves that dispute open (see [Tenet 4](/tenets/#no-many-worlds)).
 
-**The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point. As [physical-completeness](/concepts/physical-completeness/) argues, the key distinction is between *structural* completeness (which physics achieves) and *ontological* completeness (which it does not) — the structural-ontological gap reframes the causal closure debate by revealing an equivocation in "physical cause."
+**The probabilistic causation response**: Chance-fixing closure holds that physical causes "suffice by physical law to fix the chances" of their effects (Papineau's formulation, as quoted by Lowe 2000). Exact Born preservation grants this. The Map's claim is token-level: consciousness settles *which* outcome is actual, an [ontological](/concepts/physical-completeness/) fact chances leave open. Interventionist efficacy needs mind-conditioned chances to differ, at a cost [Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/) concedes. Otherwise the reading sits close to [epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), and whether settling is causing marks a framework boundary ([mechanism debt](/positions/quantum-interface/#mechanism-debt)).
 
-**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes—would be complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
+**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes—would be complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
 
 **The mechanism gap**: The Map must be honest about what remains unexplained. The claim that consciousness "selects" quantum outcomes is a structural proposal—it identifies *where* in physics consciousness could act (at genuine indeterminacies) and *what constraints* it would respect (Born rule statistics, energy conservation). But *how* consciousness interfaces with quantum systems to bias individual outcomes remains unspecified. This gap is real, and the Map does not claim to have closed it.
 
@@ -151,8 +151,6 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 ### Stapp's Quantum Response
 
 [Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) offers the most detailed proposal for how consciousness operates at quantum indeterminacies. The key insight: the quantum Zeno effect allows attention to stabilize desired neural states through repeated observation, without injecting energy. Consciousness fills a genuine gap (physics specifies probabilities but not which outcome actualizes) rather than competing with physical causes. The "effort of will" that William James described corresponds to repeated quantum measurements—what attention *feels like* matches what the Zeno effect *does*.
-
-Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip.
 
 **The [decoherence challenge](/concepts/decoherence/)** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, [decoherence doesn't solve the measurement problem](/concepts/decoherence/) (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [decoherence](/concepts/decoherence/) for detailed treatment, including five responses targeting different premises of the objection.
 
@@ -233,6 +231,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 
 1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223-236. doi:10.1515/mp-2019-0026
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Lowe, E. J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(4), 571-585. https://doi.org/10.1017/s003181910000067x
 1. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis." *Frontiers in Psychology*, 9, 379. https://doi.org/10.3389/fpsyg.2018.00379
 1. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
