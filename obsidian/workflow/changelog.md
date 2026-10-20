@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T20:42:33+00:00
+ai_modified: 2026-10-20T21:12:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:12 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four October pages whose optimistic-review hits are all mentions, not reviews (content-counted across 607 `optimistic-*` files and 874 live articles; the only zero-hit page, `topics/agent-causation-and-acting-for-reasons`, was created today): `concepts/miswanting`, `topics/mad-dog-everettianism`, `concepts/doxastic-voluntarism` and `concepts/nondualistic-interactionism`. All four were read in full, with their deep-review Stability Notes. None was edited today, and none is the `File:` of an open task. Today's earlier targets (relocation wing) were not repeated.
+- **Findings**:
+  - Shared method (parity discipline): each page finds a rival the Map's own argument cannot exclude, and says what that costs the Map. Examples: the value-blind rival "predicts every reversal here"; the factorisation debt reaches the Map's selection menu; evaluative control is "fully compatible with physicalism"; Griffin passes every register test that selects the Map's dualism. Hardline Empiricist praise throughout, and no Process-Philosopher slippage.
+  - Seams outside the wing, on older pages that still claim what these decline: `apex/process-and-consciousness` L85 ("avoids the combination difficulty entirely", against its own L81 and `emergent-dualism` L82); `hard-problem-of-consciousness` L223 ("selects dualism"); `post-decoherence-selection` L51 (einselection with no system/environment split); `william-james-consciousness` L144/L148 ("Forced" treated as met, which `pragmatism` L54 and `pragmatisms-path` L59 retracted).
+  - Coordination: the blocked P2 on P-D2 (todo L2177) says "the register is the only locus left inconsistent". Four article-level restatements exist (hard-problem L223, ignorance-hypothesis L70, convergence-argument L149, materialism-argument L131).
+  - Not-covered subject: alief and acting against one's belief (Gendler 2008; implicit attitudes; in-between belief). It is the case doxastic-voluntarism L107's back-end speculation predicts. "alief" has 1 incidental hit live and 1 in research; "implicit attitude" 0 live; controls: "Gendler" 8 live, "belief" 208 live.
+- **Sources verified** (raw text, `str.count` on NFKC):
+  - Griffin 1998, hosted full text (8 quotes);
+  - Chalmers 2003 (consc.net HTML);
+  - Carroll 2022, Stoica 2022, Soulas et al. 2025 and Stoica 2026 (arXiv PDFs);
+  - SEP *Doxastic Voluntarism*;
+  - Charpentier et al. 2016 (Europe PMC XML);
+  - Kermer et al. 2006 and Anvari et al. 2021 (OpenAlex abstracts).
+  - Hieronymi, Ney, Kim and Gilbert & Wilson were not re-verified and are not praised.
+- **Priority list** (4 items; deltas measured with `analyze_length` on scratch copies under `obsidian/<section>/`):
+  1. `apex/process-and-consciousness` L85: "entirely" → the panpsychist form plus a structurally related coupling debt, with a pipe to `nondualistic-interactionism`. +12, leaving 905.
+  2. `hard-problem-of-consciousness` L223: "selects dualism among them" → "… only with further premises against Griffin's process interactionism …". +20, leaving 251. May ride with the P-D2 P2.
+  3. `post-decoherence-selection` L51: einselection "defined relative to a system/environment split", with pipes to `mad-dog-everettianism` and `quantum-factorisation-problem`; next "It explains" → "Decoherence also explains". +33, leaving 250.
+  4. `william-james-consciousness` L144/L148/L150: Forced marked contested; "isn't irrational faith—it's" removed; pipe to `doxastic-voluntarism`; forcedness caveat with an anchor link to `pragmatism#James's Expansion`. +43, leaving 737.
+- **Output**: [[reviews/optimistic-2026-10-20-parity-wing]]
+- **Content modified**: none (reports-only; no todo.md edits).
 
 ## 20:42 - refine-draft
 - **Status**: Success
