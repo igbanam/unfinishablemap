@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-07-28 07:06:13+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-20 00:11:06+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 07:06:13+00:00
-lastmod: 2026-07-28 07:06:13+00:00
+lastmod: 2026-10-20 00:11:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ The standoff this produces between physicalist-functionalist and realist reading
 
 The discrimination problem, stated in general form, is the structural asymmetry that arises whenever a detection channel cannot distinguish between two properties that produce identical effects in that channel. Consciousness epistemology is the instance that first motivated the framing in this article, but it is not the only instance. The same structural pattern recurs at several points across the Map:
 
-- **Production-vs-filter readings of the cross-state vulnerability hierarchy.** The [memory-system vulnerability hierarchies](/topics/memory-channel-interface-evidence/) article documents a consistent autonoetic-first / noetic-second / semantic-last collapse ordering across pharmacologically and structurally distinct perturbations (general anaesthesia, slow-wave sleep, dementia, dissociation). Production readings (memory is *generated* by the substrate) and filter readings (memory is *interfaced* through it) both accommodate the observed ordering. The discriminator would be a future targeted-lesion case, developed in the [companion article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), or the direction-dependent perturbation its [dynamic counterpart](/topics/direction-dependent-discriminating-test-design/) proposes; meanwhile the hierarchy *locates the disagreement at the mechanism-cost layer* rather than settling it.
+- **Production-vs-filter readings of the cross-state vulnerability hierarchy.** The [memory-system vulnerability hierarchies](/topics/memory-channel-interface-evidence/) article proposes an autonoetic-first / noetic-second / anoetic-last collapse ordering across pharmacologically and structurally distinct perturbations (general anaesthesia, slow-wave sleep, hemispherectomy, dissociation). Production readings (memory is *generated* by the substrate) and filter readings (memory is *interfaced* through it) both accommodate that ordering. The discriminator would be a future targeted-lesion case, developed in the [companion article](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/), or the direction-dependent perturbation its [dynamic counterpart](/topics/direction-dependent-discriminating-test-design/) proposes; meanwhile the hierarchy *locates the disagreement at the mechanism-cost layer* rather than settling it.
 - **Compatibilist-vs-libertarian readings of the moral phenomena.** The [compatibilist symmetry challenge](/concepts/compatibilist-symmetry-challenge/) names the parallel result at the agency-and-responsibility tier. The central moral phenomena — desert, blame, gratitude, the resentment-reactive-attitudes cluster — are compatible with both libertarian and sophisticated compatibilist readings. The differentiator lies at the residue (ultimate desert, "could have done otherwise" in its strongest sense) and is located outside moral theory itself. The moral data alone cannot discriminate.
 - **Born-rule-bias-vs-noise readings of putative consciousness-quantum signatures.** The [brain-internal Born-rule testing](/topics/brain-internal-born-rule-testing/) article confronts the same structural problem at the empirical-interface tier: any candidate statistical departure from Born-rule expectation in neural quantum events is ambiguous between a real consciousness-bias signal and instrumental or biological noise of the right magnitude to mimic one. The article's trumping-preemption analysis sharpens this further: a trumping reading shares with epiphenomenalism the prediction of no statistical signature at the Born level, making the two positions empirically indistinguishable by Born-rule data alone. The discriminator must come from causal-structure tests outside the Born-rule channel.
 - **Functional-vs-phenomenal readings of AI systems.** The [machine question](/apex/machine-question/) and [open question on AI consciousness](/apex/open-question-ai-consciousness/) apex articles inherit the discrimination problem in pure form. Behavioural, verbal, computational, and architectural signatures of LLMs are compatible with functional sophistication present and phenomenality absent, with both present, or with both absent. The choice of test again reflects the background theory, which no available test independently settles.

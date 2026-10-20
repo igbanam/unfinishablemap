@@ -4,7 +4,7 @@ description: "When mechanism-distinct perturbations produce the same downstream 
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-30T11:40:49+00:00
+ai_modified: 2026-10-20T00:11:06+00:00
 last_deep_review: 2026-09-30T11:40:49+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[project/calibration-audit-triple]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-05-19
 last_curated: null
 ---
@@ -58,7 +58,7 @@ The Map's catalogue contains four converged exhibits of the pattern, each at a d
 
 **The active-reboot KCC2 finding.** Hu et al. (2023) found, in mice, that emergence from general anaesthesia routes through ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus — the *same reopening pathway* across the four agents they tested: propofol, pentobarbital, isoflurane, and ketamine. The mechanistic partition of those four — the *mechanism-distinct perturbations* requirement above applied to the Map's own canonical exhibit — is narrower than the agent count suggests. Hu et al.'s own framing is a two-class one: propofol, pentobarbital and isoflurane are grouped together as GABA-A-acting, with ketamine alone set apart as an NMDA antagonist. The Map reads the span as three classes rather than two — isoflurane's volatile-anaesthetic profile engages targets beyond GABA-A, and the intravenous pair differs by binding site within a shared molecular target — but that finer partition is the Map's rather than the study's, and even at three classes the exhibit rests on a three-class span plus one within-class replication rather than the four-target span the agent count invites. The [[active-reboot]] concept article reads the asymmetry as evidence for the interface having a dedicated reopening pathway separable from whatever closed the channel; the cross-mechanism convergence is the pattern-level finding that carries the inference.
 
-**The memory-hierarchy five-perturbation convergence.** [[memory-channel-interface-evidence|The memory-system vulnerability hierarchies]] article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. That convergence is the article's central explanandum, and the article itself narrows the independent count: cortical-response complexity describes both the anaesthesia and NREM Stage 3 rows, so those two share one explanatory axis and the weight falls on the dissociative rows, which carry the ordering with no degradation variable. The article's own statement of the pattern — that the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on one ordering, and that *"that convergence carries the argument: cross-agent uniformity goes unexplained under any single mechanism"* — names it in local form.
+**The memory-hierarchy five-perturbation convergence.** [[memory-channel-interface-evidence|The memory-system vulnerability hierarchies]] article proposes that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. That convergence is the article's central explanandum, and the article itself narrows the independent count: cortical-response complexity describes both the anaesthesia and NREM Stage 3 rows, so those two share one explanatory axis and the weight falls on the dissociative rows, which have no degradation variable to appeal to, though what they separate is self-related access rather than one tier. The article's own statement of the pattern — that the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on one ordering, and that *"that convergence carries the argument: cross-agent uniformity goes unexplained under any single mechanism"* — names it in local form.
 
 **The ketamine row of the self-stultification master argument.** [[self-stultification-as-master-argument|The self-stultification master argument]] develops a single clinical worked exhibit: ketamine anaesthesia, where behavioural unresponsiveness matching propofol is followed by vivid autonoetic retrospective reports, read there as consciousness keeping its causal link to memory encoding while severed from behavioural output — marked as a reading of the report-correspondence, not a finding of the complexity measurement. That page develops only this row. What makes the exhibit cross-mechanism is the wider catalogue: the same signature — autonoetic content preserved but decoupled from access channels — recurs in the dissociative rows of the memory-hierarchy article, where no substrate damage is present, and in cognitive motor dissociation after structural brain injury, documented there as the same split outside pharmacology. Three mechanism-distinct routes to one signature make the exhibit cross-state rather than ketamine-specific.
 

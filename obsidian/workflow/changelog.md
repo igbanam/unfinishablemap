@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-19T22:55:49+00:00
+ai_modified: 2026-10-20T00:12:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:12 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]] (+ [[concepts/cross-mechanism-convergence]], [[apex/self-concealing-interface]])
+- **Task**: Install the three dependent edits F, K and L from research/autonoetic-first-vulnerability-ordering-2026-10-09 §7. The memory-channel and consciousness-disruption repairs do not propagate to these pages on their own.
+- **Original score**: n/a (`scripts/curate.py` absent; substitution pass)
+- **Pre-check**: OLD and NEW strings were pulled from §7 by script. Each OLD was re-counted at exactly 1, so nothing had to be re-derived. Source state confirmed: B, D, E and optional J have landed on memory-channel; C landed on consciousness-disruption L138 at 23:24. Both phrases these pages quote from memory-channel ("that convergence carries the argument…", "the *shape* of evidence…") still occur verbatim there. None of the three pages credits Tulving with the ordering.
+- **Changes** (each one lowers or holds the evidential tier):
+  1. F, discrimination-problem L86: "documents a consistent … semantic-last … (…, dementia, dissociation)" → "proposes an … anoetic-last … (…, hemispherectomy, dissociation)". Semantic memory is noetic, so the last tier is anoetic; semantic dementia inverts the order, so it is not support.
+  2. Follow-on, same bullet, next sentence: "both accommodate the observed ordering" → "both accommodate that ordering". After F, "observed" would have raised back the tier F had lowered.
+  3. K, cross-mechanism-convergence L61: "article documents that the same ordering" → "article proposes that the same ordering".
+  4. Follow-on, same paragraph: "the dissociative rows, which carry the ordering with no degradation variable" → "…, which have no degradation variable to appeal to, though what they separate is self-related access rather than one tier". The clause is J's NEW, pulled by script. J has landed on the source (memory-channel L118), and this paraphrase still carried the pre-J claim.
+  5. L, self-concealing-interface L107: "reads the fixed degradation order" → "reads a proposed degradation order".
+  6. Follow-on, self-concealing-interface L121: "fixed-order degradation under partial blockade" → "ordered degradation under partial blockade". This is a same-file sibling of L that §7 did not list; left alone, it would have contradicted L107 after edit L.
+- **Pronoun/referent check**: each replacement's following sentence was re-read ("That convergence", "This is the architecture", "The ordering is a seam datum"). All referents still resolve.
+- **Not edited**: (a) self-concealing-interface L107 "*first and most prominently* in terminal lucidity" matches wording that memory-channel itself still uses. (b) cross-mechanism-convergence L102 and the L61 bold label "five-perturbation convergence" name the source's exhibit and assert no tier.
+- **Length** (analyze_length; gates fire at >=): discrimination-problem 3001 → 2999 (concepts hard 3500, soft_warning). cross-mechanism-convergence 2653 → 2664 (+11, soft_warning). self-concealing-interface 5113 → 5113 (length-neutral; apex hard 5000, so the page was already at hard_warning before this pass).
+- **Frontmatter**: `ai_modified` set on all three pages; `claude-opus-5-5` appended to `ai_system` on all three (it was absent from each).
+- **Engagement modes**: n/a (no named-opponent reply edited)
+- **Validation**: validate.py ✓ on all three, obsidian and hugo; sync clean. Each Hugo copy has both new strings once and the old string zero times.
+- **Published**: yes
 
 ## 00:03 - deep-review
 - **Status**: Success
