@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 18:03:25+00:00
+ai_modified: 2026-10-20 18:28:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-20'
-lastmod: 2026-10-20 18:03:25+00:00
+lastmod: 2026-10-20 18:28:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:28 - refine-draft
+- **Status**: Success
+- **File**: [emotional-epistemology-void](/voids/emotional-epistemology-void/)
+- **Original score**: n/a (review-driven task; `scripts/curate.py` absent)
+- **Source**: [pessimistic-2026-10-20-emotional-epistemology-void](/reviews/pessimistic-2026-10-20-emotional-epistemology-void/), What to Fix First items 1–4. Lower-ranked Issues 5 (L67 [P-AC1](/positions/ai-consciousness-scope/#p-ac1) premise), 6 (L51/L55 history), 7 (L45 Smithies non-sequitur) and the L81/L85 counterarguments were left for a later pass; only L67's banned "This is not X" construct was fixed (word-neutral).
+- **Word count**: 1765 → 1994 (analyze_length; voids soft 2000 / hard 3000; ok before and after). The task estimated +120 words; the review strings actually add about 205, plus about 18 for the new reference.
+- **Changes**: (1) L63: the pseudo-verbatim "unaware of their own unawareness" became two quotes grep-verified in the raw 1977 PDF (pdftotext): "a priori, implicit causal theories" (abstract, p. 231) and "we feel as though we have direct access to cognitive processes" (p. 255, left column under "Why are We Unaware of Our Unawareness?"). The review's single "(1977, p. 255)" was split into per-quote page cites, since the first quote is on p. 231. Nisbett & Wilson (1977) was added as reference 7 (Crossref 10.1037/0033-295X.84.3.231: 84(3), 231–259) and the Map self-references renumbered 8–9. L45: Smithies' "on this view," restored, verbatim in Howell's NDPR review (p. 15, curled raw). (2) L61: the void is narrowed to the evaluative residue (fear/toxicology, outrage/testimony). L37: the either/or lead became three possibilities (irreplaceable access / fallible checkable evidence / illusion), and the void now lies in their indistinguishability, with a named anchor to the Verification Paradox. (3) L77: "The claim is stronger" became the stronger claim affective epistemology needs, which the articulation gap does not establish (experience exceeds report; the evaluative content may be statable). L37's "truths" is kept, consistent with the propositional reading. (4) L83: "would be inexplicable … supports" became neural correlates plus co-optimization, which the Map does not claim to have refuted ([P-MC1](/positions/arguments-for-mental-causation/#p-mc1)), and the apparent efficacy "fits the tenet's claim … that fit does not establish the claim". This is the same "fits without evidencing" family as today's bidirectional-interaction L152, attention-and-consciousness L125 and selective-correction L109 fixes. Epiphenomenalism is not conceded.
+- **Pronoun/consistency adjustments beyond the review strings**: L37 "the feeling does not reveal that either" became "nothing in the feeling exposes the illusion", because "that" had two readings. L83 "Their apparent causal efficacy" became "The feelings' …", because "their neural correlates" now intervenes, and "accompanying it; it does not establish" became "accompanying it; that fit does not establish the claim", which removes the adjacent it/it clash. L75 "captures almost nothing of what was disclosed" became "seems to capture …", so that the phenomenology report does not flatly contradict L77's new "might state in full what was disclosed".
+- **Verification**: McMartin & Pickavance abstract read raw (Crossref JATS + OpenAlex inverted index, identical): the literature treats affective states as positioning us to receive evidence or as evidence, and M&P add that they appraise it. The new lead does not attribute the middle option to them. The old quote string and "Either way"/"inexplicable" now count 0; every new string counts 1 in obsidian and in hugo after sync.
+- **Engagement modes** (editor-internal): epiphenomenalist co-optimizer (L83), Mode Three (the Map's commitment is held, and the rival is honestly marked as not refuted, per [P-MC1](/positions/arguments-for-mental-causation/#p-mc1)); materialist reliability reading (L81), framework-marked, unchanged.
+- **Published**: yes
 
 ## 18:03 - refine-draft
 - **Status**: Success
