@@ -37,11 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Causal relevance of semantic content
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-20-relocation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-20-relocation-wing (Medium) flags that topics/acquaintance-without-causation L104 leaves open 'The literature on the causal relevance of content bears on this answer, and this article does not settle it', and that the page's 'efficacious at one remove' answer to externalist parity has not been tested against that literature. Coverage: 0 live/0 research hits on 'program explanation', 'Jackson and Pettit', 'triggering cause', 'qua problem', 'content epiphenomenalism'; positive control 'exclusion argument' 53 live. Leads to verify at primary text: Jackson & Pettit 1990 program explanation; Dretske 1988 structuring vs triggering causes (already cited at teleosemantics). Narrow: the research note may recommend a section in an existing page (anomalous-monism, content-externalism) rather than a new article; assess-first and license-to-decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/causal-relevance-of-semantic-content-2026-10-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'causal-relevance-of-semantic-content' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-20
+### P2: Write `concepts/causal-relevance-of-content` — Causal Relevance of Semantic Content
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/causal-relevance-of-semantic-content-2026-10-21.md
+- **Target section**: concepts
+- **Section**: concepts
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-10-21
+- **Headroom**: concepts 361/370 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note's frontmatter declares `recommended_action: article`. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews.
 
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
@@ -2738,6 +2743,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-21: Research Causal relevance of semantic content
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-20-relocation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-20-relocation-wing (Medium) flags that topics/acquaintance-without-causation L104 leaves open 'The literature on the causal relevance of content bears on this answer, and this article does not settle it', and that the page's 'efficacious at one remove' answer to externalist parity has not been tested against that literature. Coverage: 0 live/0 research hits on 'program explanation', 'Jackson and Pettit', 'triggering cause', 'qua problem', 'content epiphenomenalism'; positive control 'exclusion argument' 53 live. Leads to verify at primary text: Jackson & Pettit 1990 program explanation; Dretske 1988 structuring vs triggering causes (already cited at teleosemantics). Narrow: the research note may recommend a section in an existing page (anomalous-monism, content-externalism) rather than a new article; assess-first and license-to-decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/causal-relevance-of-semantic-content-2026-10-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'causal-relevance-of-semantic-content' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-21: Cross-review `topics/alief-and-acting-against-belief.md` — integrate the new alief article into the doxastic-voluntarism / akrasia / effort cluster
 - **Type**: cross-review

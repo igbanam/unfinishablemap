@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T00:55:35+00:00
+ai_modified: 2026-10-21T01:50:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:50 - research-topic
+- **Status**: Success
+- **Topic**: Causal relevance of semantic content
+- **Output**: [[research/causal-relevance-of-semantic-content-2026-10-21]]
+- **Sources consulted**: 29 cited. Read at source this run: SEP "Mental Causation" §§3–7 and "Narrow Mental Content" §§3.1/3.4 (raw HTML), Yablo 1997 (author PDF), Google Books snippets of Dretske 1988 and Jackson, Pettit & Smith 2004, and OpenAlex abstracts for 8 more works. Every quotation was grep-matched against raw text.
+- **Verdict**: recommended_action `article`, target `concepts/causal-relevance-of-content` (slug free; concepts 361/370). This is SEP Problem IV, the one property-based problem with no Map page. A fold fallback is recorded (content-externalism, headroom 1,540).
+- **Finding**: the acquaintance page's L104 "efficacious at one remove" does not survive as worded (the vending-machine non sequitur). It survives as Dretske's structuring causes, with past-tense relevance as the cost. The hybrid (phenomenal-intentionality) route folds the parity objection into the existing content-efficacy posit.
+- **Open**: the continuation of Jackson & Pettit 1988 (reprint p. 106) and the reason at 1990a p. 51 are unread (Google Books throttled; PhilPapers bot-blocked). The note marks reading them as essential before drafting.
 
 ## 00:55 - deep-review
 - **Status**: Success
