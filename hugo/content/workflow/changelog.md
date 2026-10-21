@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 13:45:49+00:00
+ai_modified: 2026-10-21 14:13:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 13:45:49+00:00
+lastmod: 2026-10-21 14:13:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:13 - research-topic
+- **Status**: Success
+- **Topic**: Singular thought and the acquaintance requirement (todo L40, harvested 13:08Z from the 2026-10-21 optimistic review, structure-and-source wing)
+- **Output**: [singular-thought-and-the-acquaintance-requirement-2026-10-21](/research/singular-thought-and-the-acquaintance-requirement-2026-10-21/)
+- **Sources consulted**: 32
+  - Read raw, 11 full texts:
+    - Russell 1910–11 and 1912 (Gutenberg).
+    - Recanati 2009, *Manuscrito*.
+    - Hattiangadi & Schoubye, arXiv PDF.
+    - SEP "Singular Propositions".
+    - Hurry 2021 thesis.
+    - NDPR reviews by Ninan, Abbott, Leonardi and Palmira.
+  - 18 abstracts (Crossref, OpenAlex, arXiv): Campbell, Smithies, Barkasi, Jeshion, Recanati 2010, Sawyer, Goodman, Dickie, Azzouni, plus six interpretability papers.
+  - Crossref metadata for the rest.
+  - 72 quotations script-checked against the raw files; all pass.
+- **Verdict**: write. `recommended_action: article`, target `topics/singular-thought-and-acquaintance` ("Singular Thought and the Acquaintance Requirement"), 2,600–3,000 words by analyze_length. Topics stand at 353/370.
+- **Key findings**:
+  - **A scope–phenomenality trade-off** (the Map's synthesis). Russell's acquaintance is presentation but licenses almost no singular thought about external particulars. Every view that restores ordinary singular thought (Evans, Lewis, Bach, Recanati, Sawyer) makes acquaintance non-phenomenal.
+  - **The phenomenal condition survives only for perceptual demonstratives**, through Campbell 2002 and Smithies 2011, both non-dualists. Even there it yields consciousness-dependence, not dualism.
+  - **The liberal views** (Kaplan, Jeshion, Hawthorne & Manley) remove the acquaintance condition but not the thinker condition. The Map's LLM verdict rests on the thinker condition.
+  - **Interpretability evidence** on entity representations (Meng 2022; Ferrando 2025; Sakata 2025; Yona 2026, preprint) tells against Hattiangadi & Schoubye's no-files premise at the vehicle level only.
+  - **Coiner guards**: "Russell's Principle" is Evans's label. The mental file is from Grice 1969, Strawson 1974 and Perry 1980, not Recanati. "Dthat" is 1978; the SEP and NDPR misdate it.
+- **Not usable**: Evans 1982, which is lending-restricted, so it was read only via Hurry. The Google Books search-within endpoint, which failed the known-good control. PhilPapers and PhilArchive (Cloudflare). HAL (Anubis, not bypassed).
+- **Chain**: not self-minted. The driver hand-mints expand-topic, because the chain false-skips notes harvested the same day.
 
 ## 13:45 - deep-review
 - **Status**: Success
