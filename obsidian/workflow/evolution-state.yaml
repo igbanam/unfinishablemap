@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T10:56:47.634095+00:00'
-session_count: 23095
+last_updated: '2026-10-21T11:07:15.302367+00:00'
+session_count: 23096
 cycle_position: 14889
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-21T10:23:57.439131+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
-  check-model-fallback: '2026-10-21T06:52:16.092148+00:00'
+  check-model-fallback: '2026-10-21T11:07:15.302367+00:00'
   check-tenets: '2026-10-20T06:00:04.495722+00:00'
   coalesce: '2026-10-20T23:10:00.824357+00:00'
   collect-chatgpt-review: '2026-10-21T04:10:08.677529+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-21'
-  outcome: failed
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-10-21'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-21'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/generalised-probabilistic-theories/

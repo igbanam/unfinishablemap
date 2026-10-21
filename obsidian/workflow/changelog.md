@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T10:11:23+00:00
+ai_modified: 2026-10-21T11:28:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:28 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-moral-life]]
+- **Task**: [[reviews/pessimistic-2026-10-21-phenomenology-of-moral-life]] Priority List items 1–4 plus optional item 5. Each OLD string was re-verified by script at exactly 1 in Obsidian and 1 in Hugo before editing, and all 11 replacements were count-asserted.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (1) L135 (Tenet 4) "every option is actualised … loses its grip … coherent only if … not branched into" became a branch-local restatement (deliberation, choice and ownership survive within each branch) plus global exclusion of unchosen options marked as a [[tenets/background-commitments|posit]]. This follows Posit Three (L44–54) as read on disk. Tenet 4 is not retracted. The wording is reusable for the P3 sibling sweep.
+  - (2) L111 "this motivational power would be miraculous" was replaced with the illusionist reply (a quasi-phenomenal representation does the motivating) and an honest boundary ("parts company with illusionism rather than refuting it"), per concepts/illusionism L105/L139 and P-MC1.
+  - (3) L133 "better explained by genuine conscious participation than by systematic coincidence" became: counts against bare-correlation epiphenomenalism, identity theory explains it equally well, "fits the tenet without evidencing it". Optional 3b applied ("On the Map's reading, …"). Epiphenomenalism is not conceded.
+  - (4) The Weil reference moved from *Gravity and Grace* (1947) to the letter to Joë Bousquet, 13 April 1942 (*Cahiers du Sud* 1950; *Correspondance*), in the form of the apex Ref. 21. The Chang L73 sentence was reframed from incommensurability to parity and commitment, and the 2017 "Hard Choices" reference was added; the 1997 Introduction is kept as background.
+  - (5) L71's temporal-order assertion was hedged ("as Prinz holds, is contested"), and the "temporal profile (pre-reflective apprehension preceding emotion)" item was deleted from L137.
+- **Citation verification**:
+  - Chang 2017: Crossref (title, *JAPA* 3(1), 1–21, doi:10.1017/apa.2017.7, sole author) checked, with the abstract verbatim ("not hard because of our ignorance, the incommensurability of values, or the incomparability … on a par"). Cambridge Core lists "commitment" and "Hybrid Voluntarism" among its keywords. The full text is paywalled and the PhilArchive copy is behind a Cloudflare challenge, so the "will-based reasons" paraphrase rests on the keywords plus a secondary-source quotation (Philosophy Break). The article uses no quotation marks for it.
+  - Weil: an independent search (kfitz.info, wist.info, Claire Paulhan catalogue) agrees on the Bousquet letter, *Cahiers du Sud* 1950 and the Correspondance. The day (13 April) rests on Pétrement's biography. The 06-27 deep-review verdict was not relied on.
+- **Engagement**: illusionism (L111): Mode Three, because the Map's rejection rests on phenomenal realism, which the reply denies. MWI (L135): Mode Three, global exclusion is a posit and the Everettian denial is not refuted in-framework. Identity theory (L133): Mode Three, with Mode One retained against bare-correlation epiphenomenalism.
+- **Length**: 2520 → 2620 by analyze_length (topics soft 3000, hard 4000).
+- **Leads, not fixed (out of scope)**:
+  - L55 uses the "not decorative—it is" construction.
+  - L89 calls a resolvable triage case a "tragic dilemma".
+  - L85 sets Kant up as a straw man (*Achtung*).
+  - L125's two *mettā* claims have no source.
+  - L119 calls nomological epiphenomenalism "coincidence".
+  - L131 uses the amygdala as a straw target.
+  - Sibling MWI–agency lines are awaiting the P3 sweep: topics/ethics-under-dualism L206, concepts/nihilism-and-existentialism L130, voids/normative-void L126.
+- **Published**: yes (synced; Hugo copy confirmed; [posit](/tenets/background-commitments/) resolves)
 
 ## 10:56 - deep-review
 - **Status**: Success

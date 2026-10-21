@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-06-01 00:39:56+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-21 11:25:55+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/phenomenology-of-moral-experience/
@@ -24,7 +24,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[authentic-vs-inauthentic-choice]]'
 created: 2026-02-08
-date: &id001 2026-04-26
+date: &id001 2026-10-21
 description: The full arc of moral consciousness—from the pre-reflective strike of
   perceived wrongness through deliberative weighing of competing claims to the felt
   ownership of having chosen—and why this phenomenology matters for dualist accounts
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-27 01:34:42+00:00
-lastmod: 2026-06-01 00:39:56+00:00
+lastmod: 2026-10-21 11:25:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,9 +73,9 @@ This extends beyond negative cases. Perceiving a homeless person sleeping on a p
 
 Moral perception has a characteristic temporal profile. **The pre-reflective strike** comes first: wrongness registers before reflective engagement begins, present in experience before any reasoning about why it is wrong. Judgement articulates something already experientially present rather than producing it.
 
-**Phenomenal deepening** follows. Unlike a flash of colour, moral perception does not fully disclose its object in an instant. Sustained attention reveals how the act is wrong—the specific character of the violation, the quality of the suffering caused, the nature of the agent's disregard. Affective consolidation—outrage, compassion, indignation—typically stabilises after the initial moral apprehension rather than constituting it.
+**Phenomenal deepening** follows. Unlike a flash of colour, moral perception does not fully disclose its object in an instant. Sustained attention reveals how the act is wrong—the specific character of the violation, the quality of the suffering caused, the nature of the agent's disregard. Whether affective consolidation—outrage, compassion, indignation—follows the initial apprehension or constitutes it, as Prinz holds, is contested; introspection alone does not settle the order.
 
-When the moral situation is simple, this process terminates quickly. But when multiple moral demands present themselves simultaneously and cannot all be satisfied, the temporal arc extends into **deliberation**. The parent deciding whether to attend their child's school performance or stay at the hospital with an ailing relative does not experience two propositions to be ranked. Each obligation carries what might be called *phenomenal weight*—a felt quality of mattering that resists translation into a common metric. (A physicalist could redescribe this as differential activation of competing neural value signals; the phenomenological and neural descriptions may pick out the same process at different levels.) Ruth Chang's work on incommensurability resonates here: when values cannot be ranked on a single scale, the choice between them requires something beyond weighing—it requires the agent to *commit*.
+When the moral situation is simple, this process terminates quickly. But when multiple moral demands present themselves simultaneously and cannot all be satisfied, the temporal arc extends into **deliberation**. The parent deciding whether to attend their child's school performance or stay at the hospital with an ailing relative does not experience two propositions to be ranked. Each obligation carries what might be called *phenomenal weight*—a felt quality of mattering that resists translation into a common metric. (A physicalist could redescribe this as differential activation of competing neural value signals; the phenomenological and neural descriptions may pick out the same process at different levels.) Ruth Chang's work on hard choices resonates here: when options are on a par—comparable, though neither is better and they are not equally good—she argues that the agent can *commit*, creating will-based reasons for one of them.
 
 ## Attention in Moral Life
 
@@ -113,7 +113,7 @@ The phenomenal aftermath of choosing varies with the quality of deliberation. Wh
 
 Projectivism—the view that moral properties are projected onto the world rather than perceived in it—faces a phenomenological challenge. Moral experience does not present itself as projection. When witnessing cruelty, one experiences "this is wrong," not "I disapprove and project disapproval." The projectivist can invoke the sun analogy (we experience it as moving), but in the sun case we have independent checks; in the moral case, the phenomenal datum *is* the primary evidence.
 
-If [illusionism](/concepts/illusionism/) is correct—if phenomenal consciousness is itself an introspective illusion—moral phenomenology inherits the problem. But the motivational response is especially sharp here: people sacrifice comfort, safety, and life itself because of how moral situations feel. If felt wrongness were merely a functional state without phenomenal character, this motivational power would be miraculous.
+If [illusionism](/concepts/illusionism/) is correct—if phenomenal consciousness is itself an introspective illusion—moral phenomenology inherits the problem. But the motivational response is especially sharp here: people sacrifice comfort, safety, and life itself because of how moral situations feel. The illusionist replies that a quasi-phenomenal representation of wrongness does this motivating work. Resisting that reply means holding the felt character to be real, so here the Map parts company with illusionism rather than refuting it.
 
 ### Dual-Process Psychology and Confabulation
 
@@ -135,11 +135,11 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 
 **[Dualism](/tenets/#dualism)**: The gestalt character of moral perception—wrongness organising an entire perceptual field—resists functional reduction. No description of amygdala activation captures what it is like to perceive wrongness. The qualitative distinctness of competing moral demands in deliberation—obligation's binding character, admiration's luminosity, guilt's backward-looking weight—compounds the explanatory gap.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Moral perception depends on attentional quality that consciousness actively constitutes. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. In deliberation, the felt effort of overriding self-interest tracks real cognitive reallocation—a pattern better explained by genuine conscious participation than by systematic coincidence between phenomenology and function.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the Map's reading, moral perception depends on attentional quality that consciousness actively constitutes. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. In deliberation, the felt effort of overriding self-interest tracks real cognitive reallocation. That tracking counts against bare-correlation epiphenomenalism, but identity theory explains it equally well, as conceded above, so the pattern fits the tenet without evidencing it.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The indexical structure of moral deliberation presupposes singular outcomes. The deliberator experiences themselves as the single locus of a choice that will determine one outcome. Under many-worlds, every option is actualised, and the question "what should *I* do?" loses its grip. The phenomenology of moral gravity is coherent only if outcomes are genuinely selected, not branched into.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The indexical structure of moral deliberation presupposes singular outcomes. The deliberator experiences themselves as the single locus of a choice that will determine one outcome. A many-worlds reading can restate this deliberation branch-locally: within each branch an agent weighs the claims, chooses and owns one action, so the moral gravity survives there. What branching cannot supply is the global exclusion of the unchosen options, which the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from the phenomenology.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The most parsimonious account reduces moral experience to emotional reaction plus neural computation. But this cannot accommodate the gestalt character, the temporal profile (pre-reflective apprehension preceding emotion), the deliberative oscillation of attention, or the deepening through sustained regard. Parsimony purchased by ignoring the primary data is false economy.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The most parsimonious account reduces moral experience to emotional reaction plus neural computation. But this cannot accommodate the gestalt character, the deliberative oscillation of attention, or the deepening through sustained regard. Parsimony purchased by ignoring the primary data is false economy.
 
 ## Further Reading
 
@@ -172,6 +172,7 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 
 1. Aristotle. *Nicomachean Ethics*, Book III (deliberation and choice) and Book VI (practical wisdom).
 1. Chang, R. (1997). "Introduction." In R. Chang (Ed.), *Incommensurability, Incomparability, and Practical Reason* (pp. 1-34). Harvard University Press.
+1. Chang, R. (2017). "Hard Choices." *Journal of the American Philosophical Association*, 3(1), 1-21. https://doi.org/10.1017/apa.2017.7
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Greene, J. (2013). *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them*. Penguin Press.
@@ -183,5 +184,5 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
 1. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-1. Weil, S. (1947). *Gravity and Grace*. Routledge.
+1. Weil, S. (1942). Letter to Joë Bousquet, 13 April 1942. First published in *Cahiers du Sud* (1950); collected in *Correspondance*. Source of the "rarest and purest form of generosity" line.
 1. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
