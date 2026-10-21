@@ -1,14 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 07:29:14+00:00
+ai_modified: 2026-10-21 07:54:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 07:29:14+00:00
+lastmod: 2026-10-21 07:54:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:54 - refine-draft
+- **Status**: Success
+- **File**: [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Task**: P1 argument-calibration pass from convergent outer reviews 2026-10-21 (chatgpt + claude; synthesis clusters 2–10), items (a)–(l). Builds on the 07:29 citation pass and leaves it intact.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (a) Made the strong claim conditional on the structuralist reading at the description, L37, L45 and L69 ("hides" in place of "in principle, hidden"), and in the Hempel section. L43's assert-and-hedge sentence now reads "On the structuralist reading…".
+  - (b) Lists now say "absolutely intrinsic". Added the SEP sphericality caution (Alter and Pereboom 2023) and Pereboom's absolute/relative distinction (2015). New paragraph: the pure-powers reply (Bird 2007), and powerful qualities denying the occupant/role split, which is the Map's own property-side view (causal-powers). The siding with the quidditist now rests on the phenomenal case (the laws page's "Pandispositionalist Challenge"), with its extension to mass and charge marked as a preference.
+  - (c) Falsifier (1) now targets a structuralism that handles individuation, modality and causation without categorical natures. L89 now carries the OSR page's point that the Map "owes an account of that individuator and has none". The Newman cuts-both-ways sentence is kept verbatim.
+  - (d)(f)(g) Hempel section:
+    - The dilemma is scoped to defining "physical" by physics and is given no evidential weight on quiddities.
+    - Montero's own fn 25 ("not fatal") added.
+    - "unfalsifiable" replaced by her "impossibly vague", with the semantic charge kept apart from untestability.
+    - The closure sentence is marked as "going beyond what Montero claims"; "false" became "probably false" and "vacuous" became "as vague as the definition it borrows".
+    - Russellian-physicalist reply added (Pereboom 2015; NFM via Montero 2003 and Wilson 2006), and the conclusion scoped to non-Russellian-physicalist readings.
+    - The uncited "protomental" attributed to Montero changed to "fundamentally mental".
+    - Section's closing "structural reason" sentence cut.
+  - (e)/(l) L87 separates two identities: within a phenomenal powerful quality (which the Map relies on) and with physical quiddities (which it declines).
+    - The selection objection is presented as internal to Tenets 2–4, and SEP's replies on idleness are acknowledged.
+    - "At the intrinsic base" is fixed as the level of fundamental ontology that structure leaves out: the base is everywhere, while actuality is local to neural interfaces. This is consistent with bi-aspectual-ontology L37; no incoherence is conceded.
+  - (h) Falsifier (2) is now meetable (a pure-powers account that meets the pandispositionalist challenge). Falsifier (3) now weighs the Russellian combination problem against [P-SC2](/positions/subject-census/#p-sc2). L99 now says that constructive combination programmes exist and are contested.
+  - (i)/(k) L69 names the role-swap as the permutation premise, with Hildebrand's bare/qualitative distinction (2016); the acquaintance exception needs the qualitative form.
+  - (j) L43 says the trend to abstraction does not favour the quidditist over the structural realist, and L99's trend clause is removed.
+  - Trims to fund the above: L85 duplicate Russellian sentence and "describes all the structure and none of the intrinsic nature"; L91 condensed; void paragraph's "not X but Y" construction; two signpost sentences.
+- **New references (verified)**:
+  - Bird 2007: Crossref monograph.
+  - Pereboom 2015, pp. 300–323: Cornell preprint header and SEP bibliography. Crossref does not index the volume.
+  - Wilson 2006, Phil. Studies 131(1) 61–99: Crossref; NFM wording checked in the 2005 workshop draft.
+  - Hildebrand 2016, AJP 94(3) 516–532: Crossref and OpenAlex abstract.
+  - Montero 2003 phrases grepped verbatim in the newdualism.org copy.
+  - Mørch 2017 and Ingthorsson 2015 not used.
+- **Reasoning mode**:
+  - Pure powers: Mode Three for physical properties, with Mode One against pandispositionalism via the knowledge argument (contested).
+  - Russellian identity and selection: Mode Three, marked as internal to the Map's model.
+  - Hempel and closure: scoped. No in-framework refutation is claimed.
+  - OSR and Newman: unchanged (reply asymmetry, not refutation).
+- **Length**: analyze_length 2529 → 2965 (+436). Prose rose 2106 → 2470 (+364) and the reference apparatus 423 → 495 (+72, four new refs). Concepts hard limit is 3500.
+- **Follow-ups minted**: two P2 refine-draft tasks for the same Montero misreading on concepts/causal-closure L108 (7 words of headroom) and topics/causal-closure-debate-historical-survey L99.
+- **Published**: yes
 
 ## 07:29 - refine-draft
 - **Status**: Success
