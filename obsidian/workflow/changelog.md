@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T11:28:55+00:00
+ai_modified: 2026-10-21T12:00:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:00 - research-topic
+- **Status**: Success
+- **Topic**: Hempel's dilemma and the definition of the physical (todo L40, harvested from the 2026-10-21 ChatGPT outer review §4/§9.4; synthesis clusters 1 and 5)
+- **Output**: [[research/hempels-dilemma-and-the-definition-of-the-physical-2026-10-21]]
+- **Sources consulted**: 38 (read raw: SEP *Physicalism*, 2026 revision, §§4.1–4.7 and bibliography; Montero 2003; Wilson's 2005 draft; Gyenis 2025 arXiv; Cea Jacques 2019; Rorty's NDPR review of van Fraassen; the Routledge page for Stoljar 2010; OpenAlex/S2 abstracts for Crane & Mellor, Stoljar 2001, Ney 2008b, Tiehen, Msimang, Crook & Gillett, Firt–Hemmo–Shenker and Gyenis; Crossref metadata for all)
+- **Verdict**: write. `recommended_action: article`, target `concepts/hempels-dilemma` ("Hempel's Dilemma"), about 2,300–2,600 words by analyze_length. Concepts stand at 362/370.
+- **Key findings**:
+  - The dilemma is a problem for theory-relative definitions of "physical", not evidence for dualism, quiddities or the failure of closure.
+  - Hempel's original target was linguistic (unity-of-science) physicalism.
+  - The label's coiner is unsettled.
+  - Firt, Hemmo & Shenker (2021) extend the dilemma to dualism; Buzaglo (2024) replies.
+  - Tenet 1's physics-relative wording takes the second horn. The note proposes the no-fundamental-mentality restatement, flagged NEEDS-HUMAN for tenets.md.
+- **Not read**: Hempel 1969 and 1980 (no accessible copy); Buzaglo, Brown 2022 and Alter 2024 full texts.
+- **Chain**: not minted. The driver hand-mints the expand-topic task (same-day harvest false-skip).
 
 ## 11:28 - refine-draft
 - **Status**: Success
