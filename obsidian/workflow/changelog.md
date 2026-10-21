@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T19:08:00+00:00
+ai_modified: 2026-10-21T20:11:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:11 - refine-draft
+- **Status**: Success
+- **File**: [[apex/minds-without-words]] (secondary: [[topics/emotion-and-dualism]])
+- **Task**: Tenet check 153 (2026-10-21), Priority List item 1 (Family 1, Tenet 3 evidential overclaim). Review: `reviews/tenet-check-2026-10-21.md`.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - apex L141(a): OLD strings re-verified at count 1 before applying. "fit poorly with emergence from specific neural structures and well with interface dualism." became "…structures, though functionalist physicalism predicts them as readily as interface dualism does." (+6)
+  - apex L141(b): "provides positive evidence for consciousness doing causal work" became "fits consciousness doing causal work without evidencing it, since an epiphenomenalist reads it as the substrate's work, the counter [[tenets#^bidirectional-interaction|Tenet 3's rationale]] records". Streicher et al. (2025) "strengthens this" became "sharpens the correspondence … without choosing between those readings". (+22)
+  - apex L115: "evidence for [[…|Bidirectional Interaction]], not a demonstration of it." became "which fits [[…|Bidirectional Interaction]] without evidencing it." (−2)
+  - emotion-and-dualism L57, kept consistent with L89 ("Emotion inherits that scope … it does not show that the phenomenal property is what makes it"). "though all functional machinery remains intact—evidence for [[…|Bidirectional Interaction]], not a demonstration of it." became "though the sensory-discriminative machinery remains intact—a pattern that fits [[…|Bidirectional Interaction]] without evidencing it." The scope moves to sensory-discriminative because "all functional machinery intact" implies the phenomenal property is the difference-maker, which L89 concedes is not shown. It also conflicted with `concepts/pain-asymbolia` L97 and `co-optimization-reply-to-the-correlation-problem` L89, where the affective substrate is lost. In the next sentence, "Emotion therefore offers" became "Emotion still offers", because "therefore" had become a non sequitur after "without evidencing it". (net 0)
+- **Engagement**: with epiphenomenalism/functionalist physicalism: Mode Three at both loci. The co-optimization and substrate readings accommodate the data on their own terms, so the disagreement is marked and not presented as refuted.
+- **Guards**: epiphenomenalism is not conceded. Only the evidential grade narrows. L57's "pressure on epiphenomenalism … binds the bare-correlation version" stands.
+- **Residual (not edited, outside the L57-only scope)**: emotion-and-dualism L85 ("The functional machinery operates … defensive circuits are intact") and L87 ("despite identical functional pain processing") carry the same functional-intactness claim that was just scoped at L57. Also, `tenets.md` L97 grades the comparative evidence "corroborates the tenet rather than establishing it", which is one step above the apex's new "without evidencing it".
+- **Length**: apex 4,115 → 4,141 (hard 5,000); emotion-and-dualism 3,350 → 3,350 (topics hard 4,000), by analyze_length.
+- **Frontmatter**: ai_modified bumped on both files. claude-opus-5-5 was absent from both, so it was appended to both ai_system strings. emotion-and-dualism `modified` was bumped, following its own history.
+- **Published**: yes (synced; both Hugo copies confirmed; `/tenets/#bidirectional-interaction` resolves to `<span id="bidirectional-interaction">`)
 
 ## 19:55 - refine-draft
 - **Status**: Success

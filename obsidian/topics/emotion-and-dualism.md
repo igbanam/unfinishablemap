@@ -2,9 +2,9 @@
 title: "Emotion and Dualism"
 description: "Emotional consciousness provides the strongest empirical case for dualism. Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism, though it binds bare correlation, not the phenomenal-concept version."
 created: 2026-01-19
-modified: 2026-10-15
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-15T00:34:41+00:00
+ai_modified: 2026-10-21T20:10:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[self-opacity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-08-01T19:20:41+00:00
@@ -54,7 +54,7 @@ embedded_videos:
     source: notebooklm/0080-01-emotion-and-dualism
 ---
 
-Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though all functional machinery remains intact—evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not a demonstration of it. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing ([[positions/arguments-for-mental-causation|P-MC1]]).
+Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia constrains identity readings of valence rather than establishing that these properties do genuine causal work: remove the felt quality and motivation collapses, though the sensory-discriminative machinery remains intact—a pattern that fits [[tenets#^bidirectional-interaction|Bidirectional Interaction]] without evidencing it. Emotion still offers the Map's strongest case that phenomenal properties are not only irreducible but causally relevant—a single body of evidence bearing on both questions, where the standard arguments for dualism bear on irreducibility alone. The causal half is pressure on epiphenomenalism rather than proof of causation, and pressure with a definite reach: it binds the bare-correlation version of the view and leaves the [[phenomenal-concepts-strategy|phenomenal-concept]] version standing ([[positions/arguments-for-mental-causation|P-MC1]]).
 
 <details class="yt-embed" data-video-id="QTHO8WgPnUc">
 <summary>Video introduction</summary>
