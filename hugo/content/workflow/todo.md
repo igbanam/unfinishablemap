@@ -2902,6 +2902,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-21
 - **Notes**: Lead from the 2026-10-21 ~20:10Z refine (tenet check 153 item 1 secondary file). L57 now reads "though the sensory-discriminative machinery remains intact—a pattern that fits Bidirectional Interaction without evidencing it", because "all functional machinery intact" contradicts `concepts/pain-asymbolia` L97 and `co-optimization-reply-to-the-correlation-problem` L89 (both: the affective substrate is lost) and the page's own L89 ("does not show that the phenomenal property is what makes it"). L85 ("The functional machinery operates ... defensive circuits are intact") and L87 ("despite identical functional pain processing") carry the same intactness claim: narrow both to the sensory-discriminative component, matching L57 and apex/minds-without-words L111. Never concede epiphenomenalism; keep L57's scope sentence (bare-correlation version only). LENGTH: 3,350 by analyze_length vs topics hard 4,000; near length-neutral.
 
+### P3: `concepts/degrees-of-consciousness` L122 calls treating consciousness as "present or absent, on or off" a preference for simplicity, contradicting its own L36 ("whether a subject is present at all is a further question, left open here")
+- **Type**: refine-draft
+- **File**: obsidian/concepts/degrees-of-consciousness.md
+- **Source**: deep-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees.md`
+- **Notes**: Lead from the 2026-10-21 ~20:36Z deep review of `topics/moral-status-threshold-or-degrees`, which removed that page's claim that this page invokes Tenet 5 against treating *how much* consciousness as decisive, because L122 actually reads "The temptation to treat consciousness as binary — present or absent, on or off — reflects a preference for simplicity over accuracy." That conflicts with L36's deliberate openness about whether a subject is present at all, and with the moral-status threshold page's presence-of-a-locus threshold. Recast L122 so it targets binary treatment of DEGREE (how much / how rich) rather than of PRESENCE, consistent with L36; and per today's Tenet 5 calibration, use Tenet 5 only to constrain the Map's own reasoning, not as a refutation. LENGTH: 2,528 by analyze_length vs concepts hard 3,500; near length-neutral.
+
+### P3: `positions/moral-status` L63 registers "DeGrazia's sliding scale (2008)" as a gradualist rival of record, though DeGrazia 2008 leaves the issue open (p. 195) and DeGrazia 2012 would tentatively "drop the idea of levels of moral status"
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Source**: deep-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees.md`
+- **Notes**: Lead from the 2026-10-21 ~20:36Z deep review of `topics/moral-status-threshold-or-degrees` (raw-PDF reads of DeGrazia 2008; Crossref abstract of DeGrazia 2012). L63 lists "DeGrazia's sliding scale (2008)" among gradualist rivals of record, but DeGrazia 2008 says "an issue I leave open" (p. 195) and DeGrazia 2012 grants higher status only on a respect-based model and would tentatively "drop the idea of levels of moral status" (the topic page L75 now says so). Recharacterise or replace the rival of record (Kagan 2019 is the article's main gradualist), and check whether [P-MS1](/positions/moral-status/#p-ms1)'s gradualist-rival clause still has a proponent of record after the change. The topic page's lead should move only with the register (the deep review deliberately left it). CONSTRAINTS: register edits need a dated Updated note; moral-status is 2,821 vs positions hard 2,500, so keep the prose edit net-negative apart from the note. Do not move bands unless the rival change genuinely moves them; say why either way.
+
 ## Completed Tasks
 
 
