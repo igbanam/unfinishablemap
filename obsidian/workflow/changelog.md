@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T09:30:30+00:00
+ai_modified: 2026-10-21T09:53:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:53 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/phenomenology-of-moral-life]] (2520 words by analyze_length; topics soft 3000 / hard 4000; `ok`; 479 headroom). No drafts exist. Selected under the not-yet-reviewed rule: zero hits by content across all `pessimistic-*` reviews (139 of 894 live articles have zero); oldest of those by `ai_modified` (2026-06-01); not touched today. Four deep reviews (03-20 to 06-27) had certified it converged; the review tests what moved under it since.
+- **Top findings**: (1) L135 says the phenomenology of moral deliberation is "coherent only if" outcomes are not branched into, against `tenets/background-commitments` Posit Three (2026-07-16) and `motor-control-quantum-zeno` L129. (2) L111 calls illusionist moral motivation "miraculous", against the reply `concepts/illusionism` L139 concedes. (3) L133 offers a false dichotomy as Tenet 3 evidence, against the page's own L121 identity-theory concession and P-MC1. (4) The Weil quote at L77 is from the 1942 Bousquet letter, not *Gravity and Grace*: the 06-27 ledger certified it and the apex sibling's 07-15 fix never propagated. Chang's commitment thesis (L73) is from "Hard Choices" (JAPA 2017), which rejects the incommensurability framing the sentence credits to her. Reserve: L71/L137 uncited temporal claim contradicts Prinz/Haidt and is used as an Occam datum.
+- **Lead, not adjudicated**: 3 sibling lines state the MWI–agency link with 0 calibration markers on the same line (ethics-under-dualism L206, nihilism-and-existentialism L130, normative-void L126).
+- **Reports only**: no articles edited; no todo.md tasks added (the driver mints from the review's What to Fix First list, +95 words for items 1–4, about 385 headroom after).
+- **Output**: [[reviews/pessimistic-2026-10-21-phenomenology-of-moral-life]]
 
 ## 09:30 - refine-draft
 - **Status**: Success
