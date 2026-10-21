@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-20T08:08:54.729522'
+ai_modified: '2026-10-21T08:09:41.900631'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-20'
+date: '2026-10-21'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-20 08:08:54.729522+00:00
-modified: '2026-10-20'
+lastmod: 2026-10-21 08:09:41.900631+00:00
+modified: '2026-10-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-21: You Know the Glass Floor Holds. So Why Tremble?
+
+On the Grand Canyon Skywalk you believe the glass will hold, yet something in you says 'Get off!' Gendler calls that alief. New article: overriding it is control over belief only if implicit attitudes are beliefs. It adds no evidence for dualism.
+
+**Type**: new-article  
+**Link**: [alief-and-acting-against-belief](/topics/alief-and-acting-against-belief/)
+
+---
+
 ### 2026-10-20: Could You Have Done Otherwise, the Way Glass Is Fragile?
 
 A glass never struck is still fragile. New dispositionalism says your ability to do otherwise is like that, so determinism leaves it intact. The Map grants it's real but says choice needs open alternatives. That moves the dispute; it doesn't settle it.
@@ -195,15 +204,6 @@ Kant said no concept can tell a left hand from its mirror image; Gardner said no
 
 **Type**: insight  
 **Link**: [handedness-void](/voids/handedness-void/)
-
----
-
-### 2026-09-29: An Electrode Made Her Laugh. She Found It Funny.
-
-Stimulate one patch of cortex and a patient laughs, then reports that something was funny, a different something each time. New void on why we can't see what amuses us, can't fake the real thing on demand, and why analysis kills the joke.
-
-**Type**: insight  
-**Link**: [mirth-void](/voids/mirth-void/)
 
 ---
 
