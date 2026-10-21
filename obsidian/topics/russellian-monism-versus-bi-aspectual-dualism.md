@@ -2,9 +2,9 @@
 title: "Russellian Monism Versus Bi-Aspectual Dualism"
 description: "Russellian monism and the dual-aspect tradition approach the Map's position but stop short. Bi-aspectual dualism is the interactionist endpoint the tradition declines to take."
 created: 2026-03-22
-modified: 2026-04-27
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-03T23:54:54+00:00
+ai_modified: 2026-10-21T08:58:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Pautz (2015, 2017) argues that Russellian monism requires exactly the same "swar
 
 ### Fragmentation
 
-The Russellian research programme has splintered into incompatible variants: Strawson's panpsychism, Chalmers's panprotopsychism, Goff's cosmopsychism, Brown's (2025) "Russellian physicalism," and Hashemi's (2024) dual-aspect monism reading. These proposals share only the structuralist premise (physics describes structure, not intrinsic nature) while disagreeing on everything the premise was meant to settle. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds may make few distinctive predictions of its own. The Map's [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] tries to make this tension explicit: deflationary readings sit in the min-mind/min-physical quadrant while panpsychist variants with full scientific realism occupy the opposite max-mind/max-physical quadrant — the same label seems to span positions on opposing axes. Whether this breadth is a weakness depends on what one wants from a research programme: a defender could read it as a fertile family of related views rather than a single overcommitted theory, and the disagreement is partly about that meta-question rather than about the first-order metaphysics.
+The Russellian research programme has splintered into incompatible variants: Strawson's panpsychism, Chalmers's panprotopsychism, Goff's cosmopsychism, Brown's (2025) "Russellian physicalism," and Hashemi's (2024) dual-aspect monism reading. These proposals share three core theses (Alter & Pereboom 2023)—physics describes only structure, quiddities exist, quiddities bear on consciousness—but disagree about how. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds may make few distinctive predictions of its own. The Map's [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] tries to make this tension explicit: deflationary readings sit in the min-mind/min-physical quadrant while panpsychist variants with full scientific realism occupy the opposite max-mind/max-physical quadrant — the same label seems to span positions on opposing axes. Whether this breadth is a weakness depends on what one wants from a research programme: a defender could read it as a fertile family of related views rather than a single overcommitted theory, and the disagreement is partly about that meta-question rather than about the first-order metaphysics.
 
 ## Where Russellian Monism Presses the Map
 

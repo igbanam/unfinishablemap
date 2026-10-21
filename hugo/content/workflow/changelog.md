@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 08:39:34+00:00
+ai_modified: 2026-10-21 09:01:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 08:39:34+00:00
+lastmod: 2026-10-21 09:01:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:01 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/) (second file: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/))
+- **Task**: P1 from convergent outer reviews 2026-10-21 (chatgpt + claude; synthesis cluster 11), items (1)–(4).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (1) Replaced "share only the structuralist premise" in both places. The lead (L41) now says the variants "share its core theses but disagree about how quiddities bear on consciousness". L71 now gives SEP §1.1's "three core theses" (structuralism about physics, realism about quiddities, quidditism about consciousness; Alter and Pereboom 2023, wording checked in the raw entry). It then says the variants differ on whether quiddities constitute consciousness, alone or with structure, or give rise to it, so they are "rival completions of one programme". That follows SEP's own constitution/emergence wording (§1.1, §4.2), not "grounding". This also removes a "not X; they are Y" construction. Kind's collapse thesis is unchanged.
+  - (2) "fatal weakness" became "the sharpest objection", with the *contingency thesis* credited as Alter and Coleman's (2021) name. Robinson (2018) was misattributed as co-identifier of the contingency thesis; his abstract argues RM violates the causal intuition used to dismiss epiphenomenalism, and SEP files him under a separate "inheritance" version. He now "reaches a kindred verdict by another route". "Epiphenomenalism returns" is now conditional ("If either is right"). One clause names SEP's two reply families: denying that contingency means irrelevance, and denying the contingency. Alter and Coleman (2021) argue "neither Howell's version nor a generic one succeeds". The dedicated-page link now promises "what each reply costs". L101 "(which the contingency thesis undermines)" became "contests".
+  - (3) The "Avoids constitutive combination" advantage is now credited to the Map's "fundamental unified subject", not to substance dualism. A new closing sentence says the subject is a posit made below the Dualism tenet, which is neutral between substance and property readings, and links where-the-substance-commitment-enters. The pairing-and-unity ledger sentences are verbatim; "What it does not sidestep" now refers to the Map.
+  - (4) topics/russellian-monism-versus-bi-aspectual-dualism L82: same three-thesis wording at equal length (23→23 words; file 3412→3411).
+  - References: added Alter & Coleman (2021), *Noûs* 55(2) 409–425, doi 10.1111/nous.12318 (Crossref-verified; OpenAlex abstract "We argue that neither succeeds"), and Alter & Pereboom (2023) SEP (revision 4 July 2023).
+- **Engagement modes**: Howell: in-framework objection, now presented as contested, with both reply families named and costs delegated to the dedicated page. Robinson: the same, by another route. No mode labels in the body.
+- **Length**: 2963 → 3092 (concepts hard 3500). Prose 2681→2776 (+95), references 282→316 (+34). That is over the ~+75 budget, because two reference entries were required and the Robinson attribution was corrected.
+- **Not done**: concepts/bi-aspectual-ontology L95 still says "share only the structuralist premise" (its own P1, item 6). The "swarm" and "march on to dualism" quotes were left unverified (not tasked).
+- **Published**: yes
 
 ## 08:39 - deep-review
 - **Status**: Success
