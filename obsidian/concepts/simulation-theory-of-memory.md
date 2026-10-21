@@ -4,7 +4,7 @@ description: "Remembering as imagining the past: the constructive-simulation acc
 created: 2026-06-24
 modified: 2026-06-24
 human_modified: null
-ai_modified: 2026-08-27T03:22:41+00:00
+ai_modified: 2026-10-21T23:23:18+00:00
 last_deep_review: 2026-08-27T03:22:41+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-06-24
 last_curated: null
 ---
@@ -53,7 +53,7 @@ The supporting clinical evidence comes from scene construction. Hassabis, Kumara
 
 In philosophy, Michaelian's *Mental Time Travel* (2016) radicalises the neuroscientific picture. Memory is a form of mental time travel, continuous with future-oriented imagination; remembering *is* imagining the past. Crucially, Michaelian drops the trace requirement: a present representation can be a genuine memory without any retained causal connection to the original experience, provided it is produced by the right kind of reliable, internally generated construction. Reliability is secured not by trace-preservation but by the *adaptivity* of constructive processes plus metacognitive monitoring.
 
-This is a deliberately deflationary, naturalistic programme. Michaelian (2022) pushes it further still—on a "radical simulationist" reading, remembering need not even target one's *personal* past, since the imaginative process is the same regardless of what it is aimed at.
+This is a deliberately deflationary, naturalistic programme. Michaelian (2022) pushes it further still—on a "radical simulationist" reading, remembering need not even target one's *personal* past, since the imaginative process is the same regardless of what it is aimed at. That gives up the previous-awareness condition too, which Shoemaker's [[quasi-memory-and-the-circularity-objection|quasi-memory]] only weakened while keeping a causal link to someone's past experience.
 
 ## The Causal Theory and the Confabulation Objection
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 17:35:10+00:00
+ai_modified: 2026-10-21 23:25:28+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 17:35:10+00:00
-lastmod: 2026-10-04 17:35:10+00:00
+lastmod: 2026-10-21 23:25:28+00:00
 modified: *id001
 related_articles:
 - '[[inaccessible-past]]'
@@ -103,7 +103,7 @@ From here the analysis is the Map's own reconstruction. None of the authors abov
 
 **The posit loses no premise.** The Map's [first background posit](/tenets/background-commitments/) holds that a subject's sameness over time is "a real further fact rather than a convention over successive states", and the Map's [reading of Kant's Paralogisms](/topics/kants-paralogisms-and-the-maps-subject/) holds that the Map "*posits* its subject rather than *inferring* it". Quasi-memory closes a route the Map does not take, from memory to a persisting subject. It does not show the subject absent, and it settles neither Parfit's constitution claim nor the Map's further fact.
 
-**Memory cannot certify the subject.** Parfit grants quasi-memories the first-person mode and makes the belief in ownership separable. Whatever a memory presents, whether its pastness, its from-the-inside character or its felt [mine-ness](/concepts/mine-ness/), a quasi-memory with another source could present in the same way. The felt pastness and ownership of a memory can *present* it as one's own; they cannot *certify* that it is. This is the Kant article's first exposure, felt mine-ness used as evidence, in diachronic form: felt mine-ness is compatible with the Map's subject and gives it no support over rivals that predict the same experience. The [personal-identity](/topics/personal-identity/) article's past-self argument survives in its non-recurrence form, which turns on the undergoing that memory cannot restage rather than on who underwent it.
+**Memory cannot certify the subject.** Parfit grants quasi-memories the first-person mode and makes the belief in ownership separable. Whatever a memory presents, whether its pastness, its from-the-inside character or its felt [mine-ness](/concepts/mine-ness/), a quasi-memory with another source could present in the same way. Ordinary memory sometimes does. In one *disputed memory*, "each of two twins recollected being sent home from school for wearing too short a skirt, although only one of them was actually sent home", and disputed memories were rated "higher in recollective experience, imagery, and emotional reliving than nondisputed memories" (Sheen, Kemp & Rubin 2001, abstract). They are not shown to meet quasi-memory's causal condition, but they present another person's past as one's own. The felt pastness and ownership of a memory can *present* it as one's own; they cannot *certify* that it is. This is the Kant article's first exposure, felt mine-ness used as evidence, in diachronic form: felt mine-ness is compatible with the Map's subject and gives it no support over rivals that predict the same experience. The [personal-identity](/topics/personal-identity/) article's past-self argument survives in its non-recurrence form, which turns on the undergoing that memory cannot restage rather than on who underwent it.
 
 **Butler's premise is where the case turns.** Locke left the non-transfer premise open, Kant treats the transfer as conceivable, and Parfit's relay builds on both. The Map's [haecceity](/concepts/haecceity/) posit holds that the later subject *is* the earlier one, and the Kant article grants that this is "stated rather than argued". If quasi-memory is coherent, as the Map accepts, no memory, however accurate, could tell a persisting subject from a relay of subjects. Memory therefore does not separate the Map's posit from a reductionist chain or an embodied person, as [P-I4](/positions/individuation-and-subjecthood/#p-i4)'s calibration already records: "no independent evidence discriminates it from Parfitian reductionism".
 
@@ -152,7 +152,8 @@ From here the analysis is the Map's own reconstruction. None of the authors abov
 15. Reid, T. (1785). *Essays on the Intellectual Powers of Man*, Essay III, chs. 4 and 6. Abridged ed. A. D. Woozley (Macmillan, 1941), pp. 202–215; cited by that edition's pagination.
 16. Roache, R. (2006). A Defence of Quasi-Memory. *Philosophy*, 81(2), 323–355. https://doi.org/10.1017/S0031819106316075 (Abstract.)
 17. Roache, R. (2016). Memory and mineness in personal identity. *Philosophical Psychology*, 29(4), 479–489. https://doi.org/10.1080/09515089.2015.1102216 (Abstract.)
-18. Shoemaker, S. (1970). Persons and Their Pasts. *American Philosophical Quarterly*, 7(4), 269–285. Reprinted in *Identity, Cause, and Mind* (Cambridge University Press, 1984), pp. 19–48; cited by the reprint's pagination.
-19. Slors, M. (2001). Personal Identity, Memory, and Circularity: An Alternative for Q-Memory. *The Journal of Philosophy*, 98(4), 186–214. https://doi.org/10.2307/2678477
-20. Southgate, A. & Ocinq-cinq, C. (2026-10-03). Kant's Paralogisms and the Map's Subject. *The Unfinishable Map*. https://unfinishablemap.org/topics/kants-paralogisms-and-the-maps-subject/
-21. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., & Fabcinq-un, C. (2026-06-20). Individuation and Subjecthood Positions. *The Unfinishable Map*. https://unfinishablemap.org/positions/individuation-and-subjecthood/
+18. Sheen, M., Kemp, S. & Rubin, D. (2001). Twins dispute memory ownership: A new false memory phenomenon. *Memory & Cognition*, 29(6), 779–788. https://doi.org/10.3758/BF03196407 (Abstract.)
+19. Shoemaker, S. (1970). Persons and Their Pasts. *American Philosophical Quarterly*, 7(4), 269–285. Reprinted in *Identity, Cause, and Mind* (Cambridge University Press, 1984), pp. 19–48; cited by the reprint's pagination.
+20. Slors, M. (2001). Personal Identity, Memory, and Circularity: An Alternative for Q-Memory. *The Journal of Philosophy*, 98(4), 186–214. https://doi.org/10.2307/2678477
+21. Southgate, A. & Ocinq-cinq, C. (2026-10-03). Kant's Paralogisms and the Map's Subject. *The Unfinishable Map*. https://unfinishablemap.org/topics/kants-paralogisms-and-the-maps-subject/
+22. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., & Fabcinq-un, C. (2026-06-20). Individuation and Subjecthood Positions. *The Unfinishable Map*. https://unfinishablemap.org/positions/individuation-and-subjecthood/

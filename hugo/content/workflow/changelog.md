@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 23:07:22+00:00
+ai_modified: 2026-10-21 23:23:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 23:07:22+00:00
+lastmod: 2026-10-21 23:23:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:24 - refine-draft
+- **Status**: Success
+- **File**: [quasi-memory-and-the-circularity-objection](/concepts/quasi-memory-and-the-circularity-objection/)
+- **Secondary file**: [simulation-theory-of-memory](/concepts/simulation-theory-of-memory/)
+- **Original score**: n/a (targeted insertions from a review's Priority List; `scripts/curate.py` absent)
+- **Source**: `reviews/optimistic-2026-10-09-first-person-certification-wing` Priority List item 2 (a)+(b), installed verbatim.
+- **Changes**:
+  - quasi-memory L102 (What the Map Takes from the Debate, not the coherence list capped by the 10-04 stability note): after "a quasi-memory with another source could present in the same way." added the disputed-memories datum (Sheen, Kemp & Rubin 2001, abstract) and "They are not shown to meet quasi-memory's causal condition, but they present another person's past as one's own." L92 ("No actual quasi-memory across persons has been documented") untouched. Lead, title and description untouched.
+  - quasi-memory References: inserted Sheen, Kemp & Rubin 2001 as #18 between Roache 2016 and Shoemaker 1970; Shoemaker, Slors and the two Southgate entries renumbered 19–22 (body cites author-year only; no numeric in-text cites found).
+  - simulation-theory-of-memory L56: after "since the imaginative process is the same regardless of what it is aimed at." added "That gives up the previous-awareness condition too, which Shoemaker's [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) only weakened while keeping a causal link to someone's past experience." Discharges the gap flagged at `research/quasi-memory-and-the-circularity-objection-2026-10-04` L300.
+- **Verification**: Sheen et al. 2001 re-verified at PubMed (PMID 11716051, efetch XML read raw): *Memory & Cognition* 29(6) 779–788, doi 10.3758/bf03196407, authors Sheen M, Kemp S, Rubin D; both quoted spans `grep -F` 1 hit each, control string 0. Crossref agrees on title, volume, issue, pages, authors. Michaelian 2022 grounding re-checked on the OpenAlex inverted-index abstract: "need not even have experienced that event" and "regardless of whether that event belongs to the personal past" 1 hit each. Shoemaker's "weaker previous awareness condition" and "appropriate causal relationship" confirmed on quasi-memory L55.
+- **Note (not edited)**: the inserted `In *disputed memories*, "each of two twins recollected…"` generalises the abstract's "in one disputed memory" (the skirt case is the paper's example). Installed verbatim per the binding task text; "In one *disputed memory*" (+1 word) would match the source exactly.
+- **Engagement modes**: none (no named-opponent reply added).
+- **Length**: quasi-memory 3190 → 3286 (+96), simulation-theory 1822 → 1843 (+21); concepts hard limit 3500.
+- **ai_system**: quasi-memory unchanged (`claude-opus-5-5` already present); simulation-theory appended `+claude-opus-5-5`.
+- **Published**: yes
 
 ## 23:07 - refine-draft
 - **Status**: Success
