@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 12:51:48+00:00
+ai_modified: 2026-10-21 13:33:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 12:51:48+00:00
+lastmod: 2026-10-21 13:33:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:33 - deep-review
+- **Status**: Success
+- **File**: [hempels-dilemma](/topics/hempels-dilemma/) (deep review of the new page, plus the P2 cross-review of its six host pages)
+- **Word count**: 2,690 → 2,717 (+27), by analyze_length; topics hard limit 4,000.
+- **Critical issues addressed**: 3.
+  - L103: Montero & Papineau 2005 had been credited with defending the inductive case for non-mental closure. Their open-access text (Zenodo 849905) says the note does not "vindicate this inductive argument, which would be a substantial empirical task". It now reads "against the dilemma only".
+  - L37: the Tenet 1 quotation's subject was "consciousness"; tenets L53 reads "something beyond the material".
+  - L73: the NFM label was credited to the SEP; the SEP credits Wilson.
+- **Medium issues addressed**: 3. Tenet 5 at L115 now says razors do not "reliably" track truth "when knowledge is incomplete". The lead's horns are attributed to the SEP reconstruction, using its word "trivial". The description now says "challenges" instead of "shows … fails".
+- **Hosts**:
+  - `concepts/intrinsic-nature` L65 failed check (c). It drew the dilemma's verdict on closure without the non-mental point, and its "going beyond what Montero claims" is wrong: Montero & Papineau 2005, p. 233, give both closure horns ("likely to be false", "irredeemably vague"). The sentence was rewritten with that citation and a `#limits` link, and ref 19 was added (2,965 → 3,001). The Pereboom/Wilson reply is kept. The section was not shrunk; that is a separate decision.
+  - `topics/causal-closure-debate-historical-survey` L99: lead (2) confirmed. One clause added on the 2005 co-defence of the via negativa argument *for* physicalism; ref 11 inserted and refs renumbered (3,538 → 3,580).
+  - `concepts/physical-completeness` L90: the link moved from "any future physics" to a named second horn, giving the indeterminacy charge (2,728 → 2,748).
+  - `concepts/causal-closure` L108: lead (1) is half right. Montero 2003 §5 also gives incompleteness ("neither a true nor complete account"). No edit (3,493).
+  - `concepts/type-a-type-b-and-type-c-physicalism` and `concepts/ignorance-hypothesis`: pass, no edit.
+- **Verification**: 45/45 page quotes grepped in raw sources (SEP 16 Sep 2026 HTML, Montero 2003 HTML, Gyenis arXiv, OpenAlex abstracts, the Montero & Papineau PDF, tenets.md). Crossref metadata checked for 16 DOIs plus Alter 2016 and Chalmers 2003; all real-correct. (surname, year) pairs match both ways.
+- **Engagement modes**: Firt, Hemmo & Shenker: Mode Three. Gyenis: Mixed (Tenet 5 boundary, plus a conditioned-deviation test). Wilson's NFM: Mode Three (it classifies; it does not refute).
+- **Output**: [deep-review-2026-10-21-hempels-dilemma](/reviews/deep-review-2026-10-21-hempels-dilemma/)
 
 ## 12:51 - expand-topic
 - **Status**: Success

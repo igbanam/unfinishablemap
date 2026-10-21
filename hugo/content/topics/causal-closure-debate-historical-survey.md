@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-21 12:50:21+00:00
+ai_modified: 2026-10-21 13:33:29+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-10-21 12:50:21+00:00
+lastmod: 2026-10-21 13:33:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Three strands of contemporary philosophical criticism have put pressure on causa
 
 **Buhler's systematic critique.** Keith Buhler (2020) examined the extant arguments for causal closure and argued that none of them succeeds. Deductive arguments beg the question — they assume the physical domain is complete in order to prove that it is complete. Inductive arguments commit sampling errors: the success of physical explanation within domains we have investigated does not establish completeness across *all* domains, including the consciousness-physics interface. Even the strongest inductive conclusions remain compatible with causal openness.
 
-**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure," then asked what "physical" means in them. If it means whatever physics will account for, closure no longer tells against dualism, since a future physics might incorporate fundamental mental properties. If it means "the fundamentally nonmental," her preferred reading, a completable physics does not imply closure: "Science can be as successful as you like and CC could still be false." She judges [Hempel's dilemma](/topics/hempels-dilemma/) about physicalism (current physics yields a thesis "we cannot defend," future physics one "impossibly vague") not fatal on its own. Against Gillett and Witmer (2001), who turn it on Papineau's physiological argument, she holds that a version stated over current physiology escapes the first horn. Whether physiology strongly supports closure she finds "not entirely clear."
+**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure," then asked what "physical" means in them. If it means whatever physics will account for, closure no longer tells against dualism, since a future physics might incorporate fundamental mental properties. If it means "the fundamentally nonmental," her preferred reading, a completable physics does not imply closure: "Science can be as successful as you like and CC could still be false." She judges [Hempel's dilemma](/topics/hempels-dilemma/) about physicalism (current physics yields a thesis "we cannot defend," future physics one "impossibly vague") not fatal on its own. Against Gillett and Witmer (2001), who turn it on Papineau's physiological argument, she holds that a version stated over current physiology escapes the first horn. Whether physiology strongly supports closure she finds "not entirely clear." With Papineau (2005) she later defended the via negativa argument *for* physicalism against the dilemma, while declining to vindicate the induction itself.
 
 **Lowe's compatibility argument.** E.J. Lowe (2000) argued that standard formulations of causal closure are *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles would leave room for mind-body interaction. Separately, Pitts (2020) argues that conservation laws are local and hold only where the relevant symmetries hold, and that constant total energy for the universe as a whole requires the global sum of local conservation laws to converge, which it probably does not. Expecting conservation to hold in the brain without looking therefore assumes that interactionism is false; as Cucu and Pitts (2019) put it, "a decent objection to interactionism should be a posteriori, based on empirically studying the brain." General relativity, on Pitts's analysis, cuts the other way. Against authors who read the non-localisability of gravitational energy as a loophole, Pitts (2022) uses the generalised Bianchi identities to argue that general relativity makes Cartesian mental causation harder, forcing the simplest model of mental influence to vanish, though "the difficulty may diminish for more complicated models."
 
@@ -161,12 +161,13 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 8. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
 9. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
 10. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-11. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-12. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-13. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
-14. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-15. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
-16. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-17. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
-18. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-19. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+11. Montero, B.G. & Papineau, D. (2005). "A Defence of the Via Negativa Argument for Physicalism." *Analysis*, 65(3), 233–237. doi:10.1093/analys/65.3.233
+12. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+13. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+14. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
+15. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+16. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
+17. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+18. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+19. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+20. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/

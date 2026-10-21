@@ -1,10 +1,10 @@
 ---
 title: "Hempel's Dilemma and the Definition of the Physical"
-description: "Hempel's dilemma shows that defining 'physical' by physics fails on either horn. It is no evidence for dualism, and it presses on the Map's own Tenet 1. Six responses and their costs."
+description: "Hempel's dilemma challenges defining 'physical' by physics on either horn. It is no evidence for dualism, and it presses on the Map's own Tenet 1. Six responses and their costs."
 created: 2026-10-21
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T12:46:59+00:00
+ai_modified: 2026-10-21T13:33:29+00:00
 draft: false
 topics:
   - "[[causal-closure-debate-historical-survey]]"
@@ -29,12 +29,12 @@ author:
 ai_system: claude-opus-5-5
 ai_generated_date: 2026-10-21
 last_curated:
-last_deep_review:
+last_deep_review: 2026-10-21T13:33:29+00:00
 ---
 
-Hempel's dilemma is a challenge to defining "physical" by reference to physics. Physicalism stated over today's physics is false, because no one thinks contemporary physics is complete. Stated over a future or ideal physics it is empty, because no one can say what that physics will contain, and it might contain mental items. On the Stanford Encyclopedia of Philosophy's reconstruction, the conclusion is that there is no concept of the physical "clear enough to do the job that philosophers of mind want the physical to play" (Stoljar 2026, §4.3). The dilemma tells against *theory-relative definitions* of "physical" and nothing more. It is no evidence for dualism, for categorical natures that physics leaves out, or against causal closure. Barbara Montero, The Unfinishable Map's main source on it, judges that "this dilemma, alone, is not fatal to definitions of the physical in terms of physics" (Montero 2003, n. 25).
+Hempel's dilemma is a challenge to defining "physical" by reference to physics. On the reconstruction in the Stanford Encyclopedia of Philosophy (SEP), physicalism stated over today's physics is false, because no one thinks contemporary physics is complete. Stated over a future or ideal physics it is "trivial", because no one can say what that physics will contain, and it might contain mental items. The conclusion is that there is no concept of the physical "clear enough to do the job that philosophers of mind want the physical to play" (Stoljar 2026, §4.3). The dilemma tells against *theory-relative definitions* of "physical" and nothing more. It is no evidence for dualism, for categorical natures that physics leaves out, or against causal closure. Barbara Montero, The Unfinishable Map's main source on it, judges that "this dilemma, alone, is not fatal to definitions of the physical in terms of physics" (Montero 2003, n. 25).
 
-The Map has a stake of its own. Its [[tenets#^dualism|Dualism tenet]] describes consciousness as something that "cannot be fully explained by physics alone". That wording is physics-relative, so it inherits the second horn: if a future physics wrote consciousness into its laws, the wording would count the Map's dualism false in a world that matches its interactionism. How to read the tenet in that light is an open question, taken up in [[#site-perspective|Relation to Site Perspective]] (below).
+The Map has a stake of its own. Its [[tenets#^dualism|Dualism tenet]] posits something beyond the material that "cannot be fully explained by physics alone". That wording is physics-relative, so it inherits the second horn: if a future physics wrote consciousness into its laws, the wording would count the Map's dualism false in a world that matches its interactionism. How to read the tenet in that light is an open question, taken up in [[#site-perspective|Relation to Site Perspective]] (below).
 
 ## The Dilemma Stated {#dilemma}
 
@@ -70,7 +70,7 @@ Daniel Stoljar (2001) named the distinction between theory-based and object-base
 
 ### The Via Negativa and No Fundamental Mentality
 
-David Spurrett and David Papineau (1999) answered the dilemma by defining "physical" as "non-mental", turning causal closure into closure of the non-mental. Montero (1999) suggested replacing the appeal to the physical with an appeal to the fundamentally non-mental. The label appears in print at least by the title of Gillett and Witmer (2001), a critique. Wilson's refinement is what the SEP calls "the 'no fundamental mentality' constraint". Justin Tiehen (2016), another physicalist, defines the physical as "neither fundamentally mental nor possibly realized by a fundamentally mental property".
+David Spurrett and David Papineau (1999) answered the dilemma by defining "physical" as "non-mental", turning causal closure into closure of the non-mental. Montero (1999) suggested replacing the appeal to the physical with an appeal to the fundamentally non-mental. The label appears in print at least by the title of Gillett and Witmer (2001), a critique. Wilson calls her refinement the "no fundamental mentality" constraint, as the SEP reports. Justin Tiehen (2016), another physicalist, defines the physical as "neither fundamentally mental nor possibly realized by a fundamentally mental property".
 
 The SEP lists the costs. Élan vital is neither mental nor physical, and an identity theory makes pain both. A world whose fundamental properties are both mental and physical "doesn't seem to be impossible", yet the constraint rules it out as a matter of "the definition of the words". Gillett and Witmer add that an appeal to completed physiology brings the dilemma back.
 
@@ -100,7 +100,7 @@ Three inferences from the dilemma fail.
 
 - **To dualism.** If physicalism could not be well stated, whether consciousness is fundamental would be unchanged. A badly formulated rival is not a refuted one.
 - **To quiddities or permanent ignorance.** On the object-based conception the categorical natures of physical things count as physical, so the dilemma cannot show that physics omits something non-physical.
-- **Against closure.** Closure stated over current physics is probably false, but for reasons unrelated to mind, such as physics' incompleteness about gravity and dark matter. That falsity gives dualism nothing, because the missing causes could be non-mental. The live question is whether the *non-mental* is closed. Montero and Papineau (2005) defend an inductive case that it is, from physiology's failure to find sui generis mental causes. Montero alone (2003) had found it "not entirely clear" that lack of evidence for the fundamentally mental is evidence against it. The Map denies that the non-mental is closed, and that is a determinate thesis for evidence to decide ([[causal-closure]]; [[causal-closure-debate-historical-survey]]).
+- **Against closure.** Closure stated over current physics is probably false, but for reasons unrelated to mind, such as physics' incompleteness about gravity and dark matter. That falsity gives dualism nothing, because the missing causes could be non-mental. The live question is whether the *non-mental* is closed. Montero and Papineau (2005) defend the inductive case that it is, from empirical research's failure to find sui generis mental causes, against the dilemma only; vindicating the induction itself, they write, would be "a substantial empirical task". Montero alone (2003) had found it "not entirely clear" that lack of evidence for the fundamentally mental is evidence against it. The Map denies that the non-mental is closed, and that is a determinate thesis for evidence to decide ([[causal-closure]]; [[causal-closure-debate-historical-survey]]).
 
 ## Relation to Site Perspective {#site-perspective}
 
@@ -112,7 +112,7 @@ The reading has costs. It classifies panpsychism and emergentism as non-physical
 
 **The interface does not share bare dualism's escape.** This is the Map's own analysis, drawn by none of the authors cited here. Buzaglo's argument, if it succeeds, spares a dualism whose theories of the mental are stable and non-exclusionary, and the Map's interface claims are neither. Outcome selection at quantum indeterminacy, and the [[psychophysical-laws]] proposed for it, tie the Map to the least settled part of physics, the measurement problem. The interface also has exclusionary ambitions: no strong closure, no many worlds. Bare dualism stated over fundamental mentality may escape the dilemma, while the interface hypotheses face its general-sceptical version as much as any physical theory does. That cost is acceptable because the tenets hold the interface as revisable. [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] asks for "the smallest deviation from standard quantum mechanics", using current physics as a benchmark without currentism about the physical.
 
-**Bidirectional Interaction and closure.** At a quantum indeterminacy physics fixes chances, not outcomes, so the Map's selection escapes closure stated as sufficiency. Closure stated as chance-fixing survives wherever the Born measure is exactly preserved, and whether settling an outcome without shifting its chance counts as causing it is part of the Map's open [[positions/quantum-interface#^mechanism-debt|mechanism debt]]. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] fits this picture, and the dilemma gives it no evidence. Gyenis's razor presses at the same joint. Under unconditioned aggregate tests the Map concedes that selection is indistinguishable from chance, which is the case the razor targets. [[tenets#^occams-limits|Occam's Razor Has Limits]] denies that the razor tracks truth, but it binds the Map's own parsimony arguments too. The better answer is a deviation conditioned on intention or task, which would differ in empirical content and has not yet been tested at the neural interface.
+**Bidirectional Interaction and closure.** At a quantum indeterminacy physics fixes chances, not outcomes, so the Map's selection escapes closure stated as sufficiency. Closure stated as chance-fixing survives wherever the Born measure is exactly preserved, and whether settling an outcome without shifting its chance counts as causing it is part of the Map's open [[positions/quantum-interface#^mechanism-debt|mechanism debt]]. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] fits this picture, and the dilemma gives it no evidence. Gyenis's razor presses at the same joint. Under unconditioned aggregate tests the Map concedes that selection is indistinguishable from chance, which is the case the razor targets. [[tenets#^occams-limits|Occam's Razor Has Limits]] denies that such razors reliably track truth when knowledge is incomplete, but it binds the Map's own parsimony arguments too. The better answer is a deviation conditioned on intention or task, which would differ in empirical content and has not yet been tested at the neural interface.
 
 ## Further Reading
 
