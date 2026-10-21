@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T02:11:19.583952+00:00'
-session_count: 23066
-cycle_position: 14877
+last_updated: '2026-10-21T02:41:59.775767+00:00'
+session_count: 23067
+cycle_position: 14878
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-21T00:56:27.663976+00:00'
   embed-videos: '2026-10-20T15:53:21.062786+00:00'
-  expand-topic: '2026-10-21T00:27:18.338675+00:00'
+  expand-topic: '2026-10-21T02:41:59.775767+00:00'
   harvest-research-subjects: '2026-10-20T22:22:44.265017+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-10-20T06:09:08.212206+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-20T20:27:28.297574+00:00'
+last_git_push: '2026-10-21T02:42:00.081875+00:00'
 last_tweet_date: '2026-10-20'
 content_stats:
   total_files: 297
@@ -108,7 +108,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 352
-  concepts_written: 361
+  concepts_written: 362
   arguments_written: 5
   questions_written: 0
   voids_written: 113
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-20'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: commission
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/

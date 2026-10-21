@@ -117,3 +117,34 @@
   subject_articles:
   - concepts/intrinsic-nature.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/57542ba7-b25b-4e62-8094-92d83f6fb47a
+  commissioned_at: '2026-10-21T03:11:53.555045+00:00'
+  prompt_summary: 'Audit concepts/intrinsic-nature: claims, citations, counterargs,
+    integration'
+  target_filename: outer-review-2026-10-21-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please audit the concept article https://unfinishablemap.org/concepts/intrinsic-nature/
+    on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site
+    that defends interactionist dualism. It was last substantively modified on 2026-10-13;
+    check the changelog at https://unfinishablemap.org/workflow/changelog/ for recent
+    edits your search index may not yet reflect. The article claims physics describes
+    only relational or dispositional structure and is silent on its intrinsic categorical
+    base, and uses this to frame Russellian monism, Hempel's dilemma, the inscrutability
+    of quiddities, and where the Map locates the non-physical. Act as a hostile referee.
+    Test its claims and citations against the current literature on Russellian monism,
+    ontic structural realism and dispositional essentialism; identify strong objections
+    it omits or underplays, including pure-powers and structuralist replies; flag
+    passages whose framing presupposes the site's dualist tenets rather than arguing
+    for them; and judge its integration with the related Russellian monism and bi-aspectual
+    ontology articles. Flag stale, misattributed or unverifiable references. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site's methodology.
+  subject_type: recent
+  subject_title: Audit intrinsic-nature
+  subject_articles:
+  - concepts/intrinsic-nature.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-21-chatgpt-5-6-sol-pro.md

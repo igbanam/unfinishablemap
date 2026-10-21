@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 02:39:50+00:00
+ai_modified: 2026-10-21 03:08:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 02:39:50+00:00
+lastmod: 2026-10-21 03:08:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 03:08 - deep-review
+- **Status**: Success
+- **File**: [causal-relevance-of-content](/concepts/causal-relevance-of-content/)
+- **Selection**: the P2 cross-review task (expand-topic chain successor). First review of the page.
+- **Word count**: 2498 → 2499 (+1), analyze_length; concepts soft 2500, so the pass ran length-neutral.
+- **Critical issues addressed**: 1. The Relation-to-Site Dualism paragraph said "Dualism explains … why the Map escapes the threat from within (phenomenal character is narrow and irreducible)". That contradicted the page's own concession of WITHIN for wide content, and it credited dualism with what the hybrid's internalist half supplies. Rewritten: "the hybrid view, not dualism, puts the content clause beyond the threat from within".
+- **Medium issues addressed**: 4.
+  - Lead and parity: "every physicalist payment" → "physicalism's inheritance solutions" (SEP §6.4). The counterfactual and practice standards need no realizer.
+  - "no new/second debt" → "no new/second causal debt". The evidential-relations condition is epistemic and still open.
+  - J&P 1990 p. 201: "the difference" → "a major difference", and "historical" restored.
+  - The standards section now names the Map's choice ("the Map's answer is inclusion").
+- **Low**: Yablo "(relatively) noncommittal" restored; J&P 1988 programming definition located at pp. 393–396. Trims at L43 (−5), L74 (−1) and Occam's (−2).
+- **Citation ledger**: 17 external entries checked at Crossref or OpenAlex. Quotes were grep-matched in raw SEP HTML (both entries), Yablo's PDF and J&P 1990 (JSTOR OCR via Wayback). J&P 1988 pp. 389–397 were read as page images from the Wayback JSTOR scan, which confirms p. 389 "in part my causal past" and p. 392 "what makes it broad is irrelevant…" in J&P's own voice. Dretske 1988 p. 43 was not re-verifiable today (Google Books control query returned 0; IA item restricted), so the research note's snippet match is carried forward.
+- **Engagements**: Stich/Fodor Mode Three (concession); Dretske Mixed; J&P Mode Three (requires realization), plus J&P p. 392 used Mode-One-style against the retired "one remove" wording; explanatory practice Mode One (SEP "whether, not how"); Yablo borrowed, with the determinable route declined. No label leakage.
+- **Cross-review**:
+  - acquaintance-without-causation L104: the anchor "The literature on the causal relevance of content makes the answer conditional" → "The Map's treatment of content's causal relevance makes…" (3026 → 3025; fixes a source/Map conflation).
+  - argument-from-reason L133: new zero-word pipe on "can be causally relevant" (4003 unchanged).
+  - All 5 inbound links resolve.
+- **Leads**:
+  - acquaintance L86 (Robinson parity): no history-equals-efficacy slip. It requires the experience's character to have shaped a token chain, so history transmits status, not efficacy. No edit.
+  - naturalisation-failure L143: the tension with acquaintance L62 (Chalmers 2003 constitution under assumed epiphenomenalism) is confirmed. Candidate: "could not anchor content" → "could not make content a cause of behaviour". Report only. `intentionality` L231 carries the same over-claim.
+  - content-externalism L48 "without forcing a verdict" is now in tension with the page's WITHIN concession, for the queued P3 (todo L2605).
+- **Output**: [deep-review-2026-10-21-causal-relevance-of-content](/reviews/deep-review-2026-10-21-causal-relevance-of-content/)
 
 ## 02:39 - expand-topic
 - **Status**: Success

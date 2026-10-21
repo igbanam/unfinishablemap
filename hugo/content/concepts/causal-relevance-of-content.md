@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 02:31:57+00:00
+ai_modified: 2026-10-21 03:08:42+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,8 @@ description: 'Human-AI concept analysis: how externally fixed content could matt
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-21 02:31:57+00:00
+last_deep_review: 2026-10-21 03:08:42+00:00
+lastmod: 2026-10-21 03:08:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +37,7 @@ topics:
 
 The **causal relevance of content** is the question of whether what a mental state means makes a difference to what it causes. In neutral form, the worry is that a belief's effects on behaviour run through the intrinsic features of its vehicle, so content fixed partly by the world, as [content externalism](/concepts/content-externalism/) holds, looks causally idle. The Stanford Encyclopedia of Philosophy (SEP) files it as "Problem IV: Externalism", the fourth of four property-based problems of mental causation, beside property dualism, anomalous monism and exclusion (Robb, Heil and Gibb 2023, §7).
 
-This article sets out the problem and six response families, then gives The Unfinishable Map's conditional answer. On the Map's [hybrid view of content](#hybrid-route) (explained below), wide content includes a narrow, phenomenally constituted component, so the externalist objection adds no new debt: it folds into the existing posit that consciousness acts in virtue of what it presents. The Map's reply to the charge that its causal standard would condemn externally individuated belief holds only relative to a [chosen standard of relevance](#standards). The debt is [shared with physicalism in form but not in payment](#parity), since every physicalist payment runs through physical realization. Nothing here shows that content is efficacious or solves the externalism problem; the content clause of [Bidirectional Interaction](/tenets/#bidirectional-interaction) stays an open posit.
+This article sets out the problem and six response families, then gives The Unfinishable Map's conditional answer. On the Map's [hybrid view of content](#hybrid-route) (explained below), wide content includes a narrow, phenomenally constituted component, so the externalist objection adds no new causal debt: it folds into the existing posit that consciousness acts in virtue of what it presents. The Map's reply to the charge that its causal standard would condemn externally individuated belief holds only relative to a [chosen standard of relevance](#standards). The debt is [shared with physicalism in form but not in payment](#parity), since physicalism's inheritance solutions run through physical realization. Nothing here shows that content is efficacious or solves the externalism problem; the content clause of [Bidirectional Interaction](/tenets/#bidirectional-interaction) stays an open posit.
 
 ## The Problem {#the-problem}
 
@@ -44,7 +45,7 @@ Oscar and his intrinsic duplicate on Twin Earth differ in content, one thinking 
 
 The SEP illustrates this with an analogy credited to Dretske (1998). A coin's being a quarter "depends on its having the right sort of history", yet "This is something the vending machine cares nothing about": the coin acts "not qua quarter, but only qua possessor of a particular kind of intrinsic makeup" (§7.1). The threat is epiphenomenalism about properties: minds may be causes, yet "they are not causes as (or qua) mental" (§3).
 
-The response families divide on whether they claim for content *efficacy*, producing the effect, or a weaker *relevance* that some accounts grant without efficacy.
+The response families divide on whether they claim for content *efficacy*, producing the effect, or only a weaker *relevance*.
 
 ## Six Response Families {#response-families}
 
@@ -56,9 +57,9 @@ The response families divide on whether they claim for content *efficacy*, produ
 
 **4. Explanatory practice.** Causally relevant properties are those that figure in our best causal explanations, as content routinely does (Segal and Sober 1991; Burge 1993; SEP §7.5). The SEP objects that this "would at best seem to be addressing only the 'whether' question, not the 'how' question" (§7.5). Gabriel Segal later changed his view: assuming token physicalism, he argues that psychological properties, "along with paradigmatically causally efficacious macro-properties, such as toughness, are causally inefficacious in respect of their possessor's typical effects" (Segal 2009, abstract).
 
-**5. Program explanation (Jackson and Pettit).** Frank Jackson and Philip Pettit assume that "a materialistic account of an essentially naturalistic variety can be given of intentional states and their contents" (1990, p. 198). They hold that "we can and often do explain by citing a feature which causally *programmes* without causing" (1988, p. 392). A property programs a result when it ensures that some realizer able to produce the result is present, as fragility programs breaking while its categorical basis does the causing (pp. 394–396). So "There is nothing especially problematic about the explanatory value of broad content" (p. 397), at the price of "relevance without efficacy" (1990, p. 209), a weakening the SEP notes may seem to amount to epiphenomenalism (§6.4).
+**5. Program explanation (Jackson and Pettit).** Frank Jackson and Philip Pettit assume that "a materialistic account of an essentially naturalistic variety can be given of intentional states and their contents" (1990, p. 198). They hold that "we can and often do explain by citing a feature which causally *programmes* without causing" (1988, p. 392). A property programs a result when it ensures that some realizer able to produce the result is present, as fragility programs breaking while its categorical basis does the causing (pp. 393–396). So "There is nothing especially problematic about the explanatory value of broad content" (p. 397), at the price of "relevance without efficacy" (1990, p. 209), a weakening the SEP notes may seem to amount to epiphenomenalism (§6.4).
 
-**6. Proportionality (Yablo).** Yablo links the threat from within to exclusion through "proportionality: causes must be proportional to their effects" (1997, §3), a necessary condition only: "X does not cause Y unless it is proportional to it" (§6). He calls an attitude *thick* when its intrinsic counterpart is a determinable of it, *thin* when it is noncommittal about the thinker's internal contribution. About thick attitudes "WITHIN has a point"; "Thin attitudes have nothing to fear from WITHIN" (§16). The objection, he argues, would disqualify ordinary causes too: "all intuitive causes, intentional or not, are like this" (§19).
+**6. Proportionality (Yablo).** Yablo links the threat from within to exclusion through "proportionality: causes must be proportional to their effects" (1997, §3), a necessary condition only: "X does not cause Y unless it is proportional to it" (§6). He calls an attitude *thick* when its intrinsic counterpart is a determinable of it, *thin* when it is relatively noncommittal about the thinker's internal contribution. About thick attitudes "WITHIN has a point"; "Thin attitudes have nothing to fear from WITHIN" (§16). The objection, he argues, would disqualify ordinary causes too: "all intuitive causes, intentional or not, are like this" (§19).
 
 ## Which Standard of Relevance? {#standards}
 
@@ -71,11 +72,11 @@ The verdict depends on the standard chosen. What follows is the Map's synthesis,
 - **Program explanation** requires realization, excluding the quale and the Map's unrealized consciousness alike.
 - **Strict efficacy** is too strong. Jackson and Pettit deny it to functionalist content, and Segal to paradigm macro-properties.
 
-So a claim that content must "causally contribute" has to mean relevance, and has to say which.
+So a claim that content must "causally contribute" has to mean relevance, and has to say which; the [Map's answer](#hybrid-route) is inclusion.
 
 ## The Causal-History Reply {#causal-history-reply}
 
-A tempting answer is that wide content, being fixed by the vehicle's causal history, is efficacious at one remove. Jackson and Pettit's 1988 paper tests this by splitting the doppelganger challenge. The terse version infers from twins' agreement in behaviour and narrow states that broad content is idle, and part of their answer is history: "What makes it true that I am in a state with broad content is in part my causal past", a past that helps explain the narrow states themselves (p. 389). The substantial version charges redundancy: narrow content plus environment explains everything, so broad content has no distinctive role (pp. 389–391). Against that they deploy program explanation, first conceding that "what makes it broad is irrelevant to its effect on other states, and so to its effect on behaviour", since its causal connections are "quite invisible to the other states of mine which link my belief to behaviour" (p. 392).
+A tempting answer is that wide content, being fixed by the vehicle's causal history, is efficacious at one remove. Jackson and Pettit (1988) test this by splitting the doppelganger challenge. The terse version infers from twins' agreement in behaviour and narrow states that broad content is idle, and part of their answer is history: "What makes it true that I am in a state with broad content is in part my causal past", a past that helps explain the narrow states themselves (p. 389). The substantial version charges redundancy: narrow content plus environment explains everything, so broad content has no distinctive role (pp. 389–391). Against that they deploy program explanation, first conceding that "what makes it broad is irrelevant to its effect on other states, and so to its effect on behaviour", since its causal connections are "quite invisible to the other states of mine which link my belief to behaviour" (p. 392).
 
 On their account, history defeats the idleness inference but establishes no efficacy: that content-fixing relata caused the vehicle does not show that content made a difference, which is the vending machine's lesson. The reply survives in Dretske's structuring form at the SEP's costs, and the past-tense cost bites harder for the Map: a learning history explains why a type of state has its role, not that a given inference was drawn from its evidence now, as [the efficacy-of-evidence premise](/topics/acquaintance-without-causation/#content-efficacy) requires.
 
@@ -87,7 +88,7 @@ A wide belief then includes a narrow, phenomenally constituted component, making
 
 Jackson and Pettit note that, raised as a worry about efficacy, the problem "turns on the highly relational nature of broad content, not on its non-individualistic nature", so it reaches narrow functional content too (p. 392). On the Map's reading phenomenal character is not relational in that sense, so this form of the worry misses it. The route also separates the Map from the epiphenomenalist. On property dualism the physical vehicle does the work, and a quale merely correlated with it by law neither includes it nor is included in it, so inclusion cannot credit the quale with that work. The asymmetry rests on inclusion, not history.
 
-**What it buys.** The externalist objection adds no second debt. It reduces to Bidirectional Interaction's clause that consciousness biases outcomes "toward patterns that express its content", which the positions register records as open under [the mechanism debt](/positions/quantum-interface/#mechanism-debt).
+**What it buys.** The externalist objection adds no second causal debt. It reduces to Bidirectional Interaction's clause that consciousness biases outcomes "toward patterns that express its content", which the positions register records as open under [the mechanism debt](/positions/quantum-interface/#mechanism-debt).
 
 **What it costs.** It concedes the threat from within for wide content as such, and works only if the narrow components carry the evidential relations inference needs, which is unestablished. It inherits the contested standing of phenomenal intentionality, since "Both premises of this argument are controversial" (Brown 2022, §3.4). And it uses Yablo's inclusion only within the mental; the Map still declines his determinable route for the mind–brain relation ([causal-exclusion-argument](/concepts/causal-exclusion-argument/)).
 
@@ -95,17 +96,17 @@ Jackson and Pettit note that, raised as a worry about efficacy, the problem "tur
 
 The debt is general in form. The SEP counts externalism among features of mental properties "no less problematic than mind–body interaction is for the Cartesian dualist" (§3). Jackson and Pettit model functionalism's problem on "the familiar objection to dualism that the interactionist variety of dualism has to give way to an epiphenomenalist variety" (1990, p. 198). Physicalists owe an account of content's relevance as content too, so the debt is no evidence against dualism in particular.
 
-It is special in payment. Jackson and Pettit locate the difference between dualism and functionalism in supervenience: functional properties supervene on physiology (with environmental factors for broad roles), while the dualist's crucial properties are, in their word, emergent (1990, p. 201). The physicalist payments run through that dependence: program explanation needs realizers to program for, Yablo's determinables a physical determinate, and the subset strategy a realizer whose powers include the mental property's. Denying consciousness a physical realizer, the Map cannot pay in the shared currency. Its own payment is selection at quantum indeterminacies, where no sufficient physical cause exists to exclude it ([causal-exclusion-argument](/concepts/causal-exclusion-argument/), route 3), available but not shown to be actual.
+It is special in payment. Jackson and Pettit locate a major difference between dualism and functionalism in supervenience: functional properties supervene on physiology (with environment and history for broad roles), while the dualist's crucial properties are, in their word, emergent (1990, p. 201). Physicalism's inheritance solutions run through that dependence: program explanation needs realizers to program for, Yablo's determinables a physical determinate, and the subset strategy a realizer whose powers include the mental property's. Denying consciousness a physical realizer, the Map cannot pay in the shared currency. Its own payment is selection at quantum indeterminacies, where no sufficient physical cause exists to exclude it ([causal-exclusion-argument](/concepts/causal-exclusion-argument/), route 3), available but not shown to be actual.
 
 ## Relation to Site Perspective
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The article engages this tenet at the level of compatibility: content externalism adds no obstacle beyond the tenet's existing clause that consciousness acts in virtue of what it presents, a clause this article does not discharge.
 
-**[Dualism](/tenets/#dualism).** Dualism explains both why the Map escapes the threat from within (phenomenal character is narrow and irreducible) and why program explanation is unavailable to it (consciousness has no physical realizer).
+**[Dualism](/tenets/#dualism).** Dualism explains why program explanation is unavailable to the Map (consciousness has no physical realizer); the hybrid view, not dualism, puts the content clause beyond the threat from within.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The Map's payment is outcome selection at indeterminacies, competing with no sufficient physical cause; whether it occurs is open.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** The parity point is in this tenet's spirit: a puzzle every theory of content faces cannot be held against dualism alone, and the simplest response, Stich's verdict that content is idle, is not thereby correct.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** The parity point fits this tenet: a puzzle every theory of content faces cannot be held against dualism alone, and the simplest response, Stich's verdict that content is idle, is not thereby correct.
 
 ## Further Reading
 

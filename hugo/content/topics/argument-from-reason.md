@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-02 13:14:16+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-10-21 03:08:42+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -21,7 +21,7 @@ concepts:
 - '[[evaluative-phenomenal-character]]'
 - '[[eliminative-materialism]]'
 created: 2026-01-23
-date: &id001 2026-01-24
+date: &id001 2026-10-21
 description: If thoughts are fully explained by physical causes, no belief is rationally
   justified—including physicalism itself. A self-defeat argument for dualism.
 draft: false
@@ -33,7 +33,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:06:51+00:00
-lastmod: 2026-08-02 13:14:16+00:00
+lastmod: 2026-10-21 03:08:42+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -133,7 +133,7 @@ The Anscombe lineage matures, in contemporary philosophy of mind, into non-reduc
 
 The argument does not refute this position by appeal to a tenet; it engages it through the very debate non-reductive physicalism has had to answer internally—Jaegwon Kim's exclusion argument (*Mind in a Physical World*, 1998). Once the mental description supervenes on a physical base that already has, in Kim's phrase, all the credentials to serve as a sufficient cause, the supervenient description does no *additional* causal work; its causal completeness is inherited entirely from the base. This exposes the cost the "same event under two descriptions" reply must pay. Rational inference requires not merely that *some* description of the event is rational, but that the content and validity of a thought—the conclusion's following *qua* its following from the premises—makes a causal difference to which belief forms. The supervenience picture cannot secure that: whatever causal purchase the reasons-description has, it has by supervening on a physical base whose own causal story makes no reference to logical entailment, so qua-reasons the content adds nothing the physics did not already determine. The epiphenomenalist worry returns—now *earned* by the exclusion argument rather than assumed, as a genuine dilemma: either content-as-content does causal work the base does not, abandoning the non-competition that made the position attractive, or it does not, and the rational relevance the argument needs is exactly what the picture cannot deliver.
 
-This is not a decisive disproof. The non-reductive physicalist has replies—denying Kim's exclusion principle, or developing a compatibilist account on which a determinable's content is causally relevant in its own right (the proportionality line is one such attempt). The disagreement bottoms out in a hard question: whether content, *as content*, can be causally relevant under supervenience. The honest verdict is that the argument converts Anscombe's compatibilism into a real dilemma rather than dissolving it.
+This is not a decisive disproof. The non-reductive physicalist has replies—denying Kim's exclusion principle, or developing a compatibilist account on which a determinable's content is causally relevant in its own right (the proportionality line is one such attempt). The disagreement bottoms out in a hard question: whether content, *as content*, [can be causally relevant](/concepts/causal-relevance-of-content/) under supervenience. The honest verdict is that the argument converts Anscombe's compatibilism into a real dilemma rather than dissolving it.
 
 ## Contemporary Formulations: Reppert and Hasker
 
