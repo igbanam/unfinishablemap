@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 On the Grand Canyon Skywalk you believe the glass will hold, yet something in you says 'Get off!' Gendler calls that alief. New article: overriding it is control over belief only if implicit attitudes are beliefs. It adds no evidence for dualism.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2112818687493181787  
 **Link**: [[alief-and-acting-against-belief]]
 
 ---
