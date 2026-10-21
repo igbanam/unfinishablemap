@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T21:23:32+00:00
+ai_modified: 2026-10-21T21:48:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:48 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/mad-dog-everettianism` (2999 words by analyze_length, topics hard 4000). It had zero hits in all 625 pessimistic files, ranked by content after excluding the 58 files edited today and the slugs in 17 open P0-P2 tasks. It had the fewest review mentions of any kind (4). Reports only: no article, todo or hugo file was touched.
+- **Findings**: The quote ledger from the 10-14 deep review holds, and the Soulas et al. "physically relevant" attribution was re-verified at arXiv. Four Priority List items:
+  - (1) L73/L87 misreport `quantum-factorisation-problem`'s Level 1/Level 2 split in the Map's favour (+37/+22).
+  - (2) L85 calls a contested Tenet 5 case "clean" where qfp L100 says "conditional", widens Ney's single comparison, and turns Tenet 5's defeasible heuristic into "no evidence" (+1/+0).
+  - (3) The L36 lead's reason for "strongest" is one Wallace already meets, and L66 identifies HSF with the tenets page's deflationary *self* route (+6/+12).
+  - (4) The L83 gap is "as sharp as it can be" (low, +0).
+  - All OLD strings count 1. All items together: 3077 (+78), headroom 922.
+- **Output**: [[reviews/pessimistic-2026-10-21-mad-dog-everettianism]]
 
 ## 21:23 - refine-draft
 - **Status**: Success
