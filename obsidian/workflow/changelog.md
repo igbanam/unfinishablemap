@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T22:52:07+00:00
+ai_modified: 2026-10-21T23:07:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:07 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/unity-of-consciousness]]
+- **Original score**: n/a (targeted tenet-gloss repair; `scripts/curate.py` absent)
+- **Source**: extends `reviews/tenet-check-2026-10-07` finding 8 (Tenet 3 made to require a bearer) to this sibling page, modelled on the repair at `concepts/self-and-self-consciousness` L134.
+- **Changes**: L145 (Relation to Site Perspective, Bidirectional Interaction) — "Bidirectional interaction requires a unified agent. If consciousness were fragmented… there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is…" → "Bidirectional Interaction requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it. On that account, a fragmented consciousness… would leave no integrated subject to select among quantum possibilities. What the account requires is…". Tenet 3 now asks for availability (tenets.md L95, `^tenet-3-standing`); the unity requirement and the fragmentation argument are attributed to the interface account. "or exercise causal power" dropped as reading above L95. The akrasia qualifier and the diachronic-persistence sentence are unchanged.
+- **Tenets lines read**: tenets.md L63, L65, L67, L69, L85, L89, L91, L93, L95, L117.
+- **Other occurrences**: none. Lead (L51), Subject Unity (L67), the illusionist reply (L135) and the other tenet paragraphs (L141, L143, L147, L149) make no Tenet-3-requires-a-subject claim.
+- **Length**: 2765 → 2778 words (+13), concepts hard limit 3500.
+- **ai_system**: unchanged (`claude-opus-5-5` already present).
+- **Published**: yes
 
 ## 22:52 - deep-review
 - **Status**: Success

@@ -1537,17 +1537,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: `concepts/unity-of-consciousness` L145 — "Bidirectional interaction requires a unified agent" makes Tenet 3 require a bearer; same defect repaired on self-and-self-consciousness L134/L190 on 2026-10-09
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/unity-of-consciousness.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: refine-draft 2026-10-09 21:27Z (sibling flagged by the fork; first flagged in the tenet-check 2026-09-28 group; driver confirmed live at 21:29Z, untasked)
-- **Generated**: 2026-10-09
-- **Review file**: `reviews/tenet-check-2026-10-07.md`
-- **Headroom**: analyze_length 2,765 against concepts hard 3,500 (driver, 21:29Z).
-- **Notes**: L145 opens "**Bidirectional Interaction**: [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires a unified agent. If consciousness were fragmented… there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection…". tenets.md L95 gives Tenet 3's standing as AVAILABLE, not actual, and the tenet does not itself require a bearer or agent. Use the repair installed on `concepts/self-and-self-consciousness` L134 at 21:27Z as the model ("requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it"). Reword L145 so that Tenet 3 requires availability, and so that the unity requirement belongs to the Map's interface ACCOUNT (a locus of selection), not to the tenet. Keep the page's existing argument that a fragmented consciousness would lack such a locus, but attribute it to the account. Check the wording of tenets.md L63–L69, L85, L89–L95 and L117 before writing any tenet gloss. Find the target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC), plus-join your actual model into ai_system only if absent, sync, verify both trees.
-
 ### P3: Memory certification — add Sheen, Kemp & Rubin 2001 "disputed memories" to `concepts/quasi-memory-and-the-circularity-objection` L102 and a Michaelian-2022/quasi-memory link sentence to `concepts/simulation-theory-of-memory` L56 (TWO FILES)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quasi-memory-and-the-circularity-objection.md
@@ -2887,6 +2876,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-21: `concepts/unity-of-consciousness` L145 — "Bidirectional interaction requires a unified agent" makes Tenet 3 require a bearer; same defect repaired on self-and-self-consciousness L134/L190 on 2026-10-09
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/unity-of-consciousness.md
+- **Notes**: L145 opens "**Bidirectional Interaction**: [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires a unified agent. If consciousness were fragmented… there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection…". tenets.md L95 gives Tenet 3's standing as AVAILABLE, not actual, and the tenet does not itself require a bearer or agent. Use the repair installed on `concepts/self-and-self-consciousness` L134 at 21:27Z as the model ("requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it"). Reword L145 so that Tenet 3 requires availability, and so that the unity requirement belongs to the Map's interface ACCOUNT (a locus of selection), not to the tenet. Keep the page's existing argument that a fragmented consciousness would lack such a locus, but attribute it to the account. Check the wording of tenets.md L63–L69, L85, L89–L95 and L117 before writing any tenet gloss. Find the target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC), plus-join your actual model into ai_system only if absent, sync, verify both trees.
 
 ### ✓ 2026-10-21: `topics/split-brain-consciousness` L110 cites Marsh et al. 2021 and Beker et al. 2024 for "on objective recognition tests information transfers between them" — Marsh's own profile was largely amnesia-like and Beker is mixed; re-cite to the feigning-resistant evidence
 - **Type**: refine-draft
