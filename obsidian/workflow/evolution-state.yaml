@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T03:38:58.793950+00:00'
-session_count: 23071
+last_updated: '2026-10-21T04:10:08.677529+00:00'
+session_count: 23072
 cycle_position: 14880
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
@@ -14,7 +14,7 @@ last_runs:
   check-model-fallback: '2026-10-20T23:23:02.509898+00:00'
   check-tenets: '2026-10-20T06:00:04.495722+00:00'
   coalesce: '2026-10-20T23:10:00.824357+00:00'
-  collect-chatgpt-review: '2026-10-20T04:48:03.866736+00:00'
+  collect-chatgpt-review: '2026-10-21T04:10:08.677529+00:00'
   collect-claude-review: '2026-10-20T04:29:23.827409+00:00'
   collect-gemini-review: '2026-10-20T05:08:11.159761+00:00'
   combine-outer-reviews: '2026-10-20T05:26:51.929421+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 682
-  reviews_completed: 8047
+  reviews_completed: 8048
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-20'
-  outcome: success
-  kind: agentic_social
 - task: positions-evolve
   type: positions-evolve
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: trigger
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-10-21'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
