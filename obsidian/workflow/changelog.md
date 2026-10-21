@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T07:54:20+00:00
+ai_modified: 2026-10-21T08:39:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:39 - deep-review
+- **Status**: Success
+- **File**: [[concepts/four-category-ontology]]
+- **Word count**: 1902 → 2231 (+329; concepts soft 2500 / hard 3500; ~70 of the added words are three new References entries)
+- **Critical issues addressed**: 13
+  - Kistler misattribution: the no-energy reconstruction and the relabeling critique are not in his chapter (raw HAL text: zero hits for energ/relabel/genuine). His actual verdict (Lowe's arguments give only weak, physicalism-compatible property dualism) now stated. Gibb removed as unverifiable.
+  - Four quotes fixed: the CNS splice and the unverified "no such thing as event causation" are de-quoted; "unmoved movers" now attributed to the book's abstract; the 2013 chapter quote replaced with the abstract's verbatim "a unique kind of spontaneous power" ... "in the light of reason"; the subtitle splice corrected.
+  - NCSD "necessarily embodied" changed to "not necessarily separable" (Lowe 2012 raw text). Unity and entanglement arguments separated (Griffith p. 96; Kistler on Lowe 1993).
+  - One-way reduction argument restated from Griffith (pp. 5, 4/165).
+  - Tenet 3 overclaim changed to "fits ... without evidencing it".
+  - P3 continuity cost stated (todo task moved to Completed).
+  - Chance-fixing concession added.
+  - "Statistically undetectable" vs "genuine testability commitment" tension aligned with Tenet 2.
+- **Medium issues addressed**: 3 (laws as characterisation rather than a relation; "For Lowe" source marker at L57; lead now names both departures)
+- **Enhancements made**: 3 references added (Griffith 2009, Kistler 2022, Lowe 1993); mechanism-debt cross-link
+- **Engagement modes**: Kim: mixed (Lowe denies the shared premise; the Map marks where chance-fixing closure holds). Kistler: Mode Three (his weak-dualism verdict recorded as a cost, not rebutted).
+- **Output**: [[reviews/deep-review-2026-10-21-four-category-ontology]]
 
 ## 07:54 - refine-draft
 - **Status**: Success
