@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 20:37:56+00:00
+ai_modified: 2026-10-21 20:54:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 20:37:56+00:00
+lastmod: 2026-10-21 20:54:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:54 - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Task**: Combined pass, two queued tasks on one file. (A) Tenet check 153 (2026-10-21), Priority List item 2 (Families 2 and 7), review `reviews/tenet-check-2026-10-21.md`. (B) Optimistic 2026-10-16 self-stultification repair wing, Priority 1a, review `reviews/optimistic-2026-10-16-self-stultification-repair-wing.md`.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes** (all 10 OLD strings pulled by script and re-verified at count 1, matched by string rather than line; none failed):
+  - A1: "deny causal closure at quantum indeterminacies" became "deny causal closure, stated as sufficiency, at quantum indeterminacies" (+3).
+  - A2: after "Consciousness can cause physical events precisely where physics leaves room." appended the chance-fixing concession, linking [bias-without-deviation question](/positions/quantum-interface/#mechanism-debt) (+29).
+  - A3: "operates precisely where [causal-closure](/concepts/causal-closure/) doesn't apply" became "operates where [causal-closure](/concepts/causal-closure/) stated as sufficiency doesn't apply" (+2).
+  - A4 (No Many Worlds): "The arguments against epiphenomenalism depend on collapse being real: consciousness causes *this* outcome" became "The Map's selection reply depends on collapse being real: consciousness settles *this* outcome …", plus the sentence saying self-stultification does not depend on collapse (an Everettian dualist could grant mental causation and route it elsewhere, [Posit Three](/tenets/background-commitments/)) (+19).
+  - B1: Argument 3 conclusion "requires an unexplained coincidence" became "forgoes the natural explanation of her new abilities" (+4).
+  - B2: "posit pre-established harmony between" became "read the fit between … as a common-cause parallel" (+4). This is parallel to the planned wording for sibling `concepts/epiphenomenalism` L154, which is still unfixed and has its own queued P3 (Priority 1b).
+  - B3: Argument 4 "correct by coincidence rather than causal connection" became "correct by lawful parallel rather than causal connection, and on Premise 2 that is not knowledge" (+9).
+  - B4: in the cumulative table row, "requires unexplained correlation between phenomenal states and behavioral changes" became "forgoes the natural causal explanation of behavioral change" (−1).
+  - B5: "Arguments 2 and 3 show that epiphenomenalism requires implausible coincidences" became "are explanatory", naming the rival's common-cause and [co-optimization](/topics/co-optimization-reply-to-the-correlation-problem/) answers (+19).
+  - B6: zero-word pipe `[[evolutionary-case-for-mental-causation|this objection]]` on the William James sentence (0).
+- **Untouched by brief**: L217 ("only by brute coincidence" / "explanatory bankruptcy") still needs a separate paragraph-level rewrite, and the L93 "correlation problem" paragraph was left as it is.
+- **Engagements**: epiphenomenalist on Arguments 2 and 3: Mode Two, in which the coincidence charge is replaced by naming what the rival forgoes (the natural causal explanation), while its common-cause and co-optimization answers are stated rather than caricatured. Causal-closure reply: Mode Three, in which closure as chance-fixing is conceded to survive and the causing question is routed to the mechanism-debt crux. Everettian (No Many Worlds): Mode Three. The selection reply is scoped to collapse, and the self-stultification argument is held independent of it via Posit Three.
+- **Length**: 2950 → 3038 (+88, as briefed; arguments soft 2500 / hard 3500; headroom 461). `soft_warning`, unchanged.
+- **Verification**: sync ok. The Hugo copy carries all four new links: `/positions/quantum-interface/#mechanism-debt` (the anchor span is present in the target), `/tenets/background-commitments/`, `/topics/co-optimization-reply-to-the-correlation-problem/` and `/topics/evolutionary-case-for-mental-causation/`. The body has 0 unresolved `[[` and 0 "pre-established harmony" in either tree. `ai_system` is unchanged because claude-opus-5-5 is already present.
+- **Published**: yes
 
 ## 20:37 - deep-review
 - **Status**: Success
