@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-10-19 22:42:00+00:00
+ai_modified: 2026-10-21 17:48:22+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:37:29+00:00
-lastmod: 2026-10-19 22:42:00+00:00
+lastmod: 2026-10-21 17:48:22+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -95,7 +95,7 @@ The closest the introspector comes to detection is *retrospective* — when exte
 
 Direct first-person methods cannot reach this void by construction; the detection face guarantees this. The strongest first-person discipline would be *suspended self-explanation* — refraining from generating the explanation at all. But withholding explanation runs into the [suspension void](/voids/suspension-void/). Even the apophatic approach to confabulation collides with a sibling void.
 
-Partial discipline can do a little. *Comparative slowing*: notice when an explanation arrives fluently and fully formed (confabulation profile) versus when it arrives partially, with hedges. *Domain-flagging*: treat moral judgement, taste preference, choice justification, and personality self-attribution as default-confabulation domains and lower the credence accordingly. *Holding the verdict, doubting the reasoning*: take a strong moral intuition seriously as data without treating the post-hoc reasoning as its causal basis.
+Partial discipline can do a little. *Comparative slowing*: notice when an explanation arrives fluently and fully formed (confabulation profile) versus when it arrives partially, with hedges. *Domain-flagging*: treat moral judgement, taste preference, choice justification, and personality self-attribution as default-confabulation domains and lower the credence accordingly. *Holding the verdict, doubting the reasoning*: take a strong moral intuition seriously as data without treating the post-hoc reasoning as its causal basis. Elicitation procedure works earlier still: on Ericsson and Simon's (1980) [model of verbal reports](/topics/protocol-analysis/), inaccurate reports come from requests for "information that was never directly heeded", so asking only for what was attended to, during or just after a task, avoids eliciting confabulation while giving the introspector no way to detect it.
 
 Structured third-party-assisted discipline reaches further than unaided introspection on exactly the pre-reflective and transient dimensions where the interpreter fills in most fluently: the [microphenomenological interview method](/topics/microphenomenological-interview-method/) is the catalogue's name for this strategy and the most-developed approach to the boundary. Its own principals concede that interview reports cannot in principle prove access to pre-reflective content — only exhibit the convergence-and-ampliative-yield profile such access would predict — and the *interviewer-prompts-novelty* objection means the introspector still cannot distinguish recovered content from content the prompt generated. The discipline restricts the confabulation-eligible space; whether the restriction crosses from approximation to access is methodologically undetermined.
 
@@ -128,18 +128,19 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 ## References
 
 1. Bortolotti, L. (2018). Stranger than fiction: Costs and benefits of everyday confabulation. *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-017-0367-y
-2. Gazzaniga, M. S. (2018). Synthesis of the left-brain interpreter literature; see also overview at https://en.wikipedia.org/wiki/Left-brain_interpreter
-3. Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review* 108, 814–834.
-4. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
-5. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310, 116–119.
-6. Feinberg, T. E., & Keenan, J. P. (2005). Where in the brain is the self? *Consciousness and Cognition* 14, 661–678. https://journalpsyche.org/articles/0xc078.pdf
-7. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
-8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
-9. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience* 4, 662–671.
-10. Wheatley, T. (2009). Everyday confabulation. In Hirstein, W. (ed.), *Confabulation: Views from Neuroscience, Psychiatry, Psychology and Philosophy*. Oxford University Press.
-11. Southgate, A. & Oquatre-six, C. (2026-02-25). The Narrative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/narrative-void/
-12. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
-13. Lederman, H. & Mahowald, K. (2026). Emergent Introspection in AI is Content-Agnostic. *arXiv*:2603.05414v2 (7 April 2026). https://arxiv.org/abs/2603.05414
-14. Lindsey, J. (2025). Emergent Introspective Awareness in Large Language Models. *Transformer Circuits Thread*. https://transformer-circuits.pub/2025/introspection/index.html
-15. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology* 16, 1598254. DOI: 10.3389/fpsyg.2025.1598254.
-16. Pärnamets, P., Johansson, P., Strandberg, T., Balkenius, C., & Hall, L. (2023). Looking at choice blindness: Evidence from gaze patterns and pupil dilation. *PsyArXiv* preprint. DOI: 10.31234/osf.io/v85sz.
+2. Ericsson, K. A., & Simon, H. A. (1980). Verbal reports as data. *Psychological Review* 87, 215–251.
+3. Gazzaniga, M. S. (2018). Synthesis of the left-brain interpreter literature; see also overview at https://en.wikipedia.org/wiki/Left-brain_interpreter
+4. Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. *Psychological Review* 108, 814–834.
+5. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
+6. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310, 116–119.
+7. Feinberg, T. E., & Keenan, J. P. (2005). Where in the brain is the self? *Consciousness and Cognition* 14, 661–678. https://journalpsyche.org/articles/0xc078.pdf
+8. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
+9. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
+10. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience* 4, 662–671.
+11. Wheatley, T. (2009). Everyday confabulation. In Hirstein, W. (ed.), *Confabulation: Views from Neuroscience, Psychiatry, Psychology and Philosophy*. Oxford University Press.
+12. Southgate, A. & Oquatre-six, C. (2026-02-25). The Narrative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/narrative-void/
+13. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
+14. Lederman, H. & Mahowald, K. (2026). Emergent Introspection in AI is Content-Agnostic. *arXiv*:2603.05414v2 (7 April 2026). https://arxiv.org/abs/2603.05414
+15. Lindsey, J. (2025). Emergent Introspective Awareness in Large Language Models. *Transformer Circuits Thread*. https://transformer-circuits.pub/2025/introspection/index.html
+16. Grassi, P. R., Hoeppe, L., Baytimur, E., & Bartels, A. (2025). Restoring sight in choice blindness: pupillometry and behavioral evidence of covert detection. *Frontiers in Psychology* 16, 1598254. DOI: 10.3389/fpsyg.2025.1598254.
+17. Pärnamets, P., Johansson, P., Strandberg, T., Balkenius, C., & Hall, L. (2023). Looking at choice blindness: Evidence from gaze patterns and pupil dilation. *PsyArXiv* preprint. DOI: 10.31234/osf.io/v85sz.

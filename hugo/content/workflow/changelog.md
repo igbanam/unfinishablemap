@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 16:31:06+00:00
+ai_modified: 2026-10-21 17:51:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 16:31:06+00:00
+lastmod: 2026-10-21 17:51:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:51 - expand-topic
+- **Status**: Success
+- **Topic**: Protocol Analysis: When Verbal Reports Are Data (todo L40; the task line is left for cycle_post to mark)
+- **Output**: [protocol-analysis](/topics/protocol-analysis/)
+- **Word count**: 2,427 by analyze_length (prose 1,968, Further Reading plus 16 references 459), against topics soft 3,000 and hard 4,000. About 120 prose words over the ~1,850 brief target after three trim passes; the cut candidates left were guard-required (Level 3 breadth, reactive-not-worse, no coiner, the SEP side of the introspection dispute). Topics stood at 354/370 by `count_section_files` before the write and 355 after.
+- **Based on research**: yes, [protocol-analysis-and-verbal-reports-as-data-2026-10-21](/research/protocol-analysis-and-verbal-reports-as-data-2026-10-21/)
+- **Calibration**: a methods page, neutral between dualism and physicalism. Ericsson and Simon's "content" (information heeded in STM) is kept apart from phenomenal content in the lead, in the limits section, and in the process-content-distinction fold. The reply is stated as relocating the cause of Nisbett and Wilson's failures to procedure without moving the content/process line. Level 3 includes filtering and inference; "reactive" is shown to improve accuracy (Gagné & Smith 1962 p. 230; Fox et al. 2011). Tenet 3 is fitted, not evidenced; the epiphenomenalism sentence denies that the model's silence favours it. The information-processing framework is named from the 1980 abstract, so the authors are not conscripted.
+- **Coiners**: no inventor of thinking aloud credited ("they cite users from the 1920s onward"); the origin of the term "protocol analysis" is stated as unsettled. The do-not-characterise works (the 1984/1993 book, Wilson 1994, Ericsson 2003, White 1980, Bowles 2010) are not characterised; the 1993 book is listed only as the book edition.
+- **Quote verification**: 17 attributed quoted spans. 15 pass a normalised-substring check against raw OpenAlex abstracts (E&S 1980, Smith & Miller 1978, White 1988, Fox et al. 2011, Schooler 2011, Ericsson & Fox 2011, Schooler et al. 1993, Wilson & Schooler 1991) and the SEP Introspection HTML (curly apostrophe kept); the Ericsson & Fox title matches OpenAlex metadata; "within the theoretical framework…" appears in the abstract as the OCR-hyphenated "theoret-ical". The Fox & Charness d values and the Alogna et al. 2014 paraphrase were checked against their abstracts. Page-level paraphrases of E&S 1980 were read off the psu.edu scan at pp. 225, 227, 230 and 245–247. New metadata (Crossref): Gagné & Smith 1962 doi:10.1037/h0048703. p. 245 also shows E&S calling the 1977 content/process distinction "undefined", which the research note did not record; the article paraphrases it.
+- **Integration** (headroom = hard − 1 − total, re-measured before each edit): `process-content-distinction` fold after the calibration-claim paragraph, L95 "methodologically negotiable" scoped to report validity, Further Reading line, 2 refs (2,440 → 2,684); `contemplative-epistemology` L76 bullet and L81 sentence corrected and sourced, 1 ref (2,716 → 2,786); `apophatic-cartography-four-criteria` L63 cites Smith & Miller, White and E&S, discharging pessimistic-2026-05-16 L85, 3 refs (2,772 → 2,900); `descriptive-experience-sampling` 46-word paragraph plus ref (2,895 → 2,955, the 60-word cap); `microphenomenological-interview-method` L101 and `introspection` L81 zero-word piped links (3,899 and 3,491 unchanged); `confabulation-void` one sentence plus ref (2,754 → 2,823); `heterophenomenology` one sentence plus ref (2,901 → 2,957). Nothing was added to `introspection-architecture-independence-scoring` (over hard).
+- **Left for later**: `concepts/introspection` L71 still glosses Nisbett and Wilson's "contents" as "current phenomenal states", though their own list (E&S 1980 p. 245) is attentional and cognitive. It needs its own length-neutral refine (8 words of headroom).
+- **Cross-review**: minted a P2 cross-review task above `## Completed Tasks` and registered the article in `task_chains.pending_cross_reviews` with 8 targets.
+
+## 17:34 - research-topic
+- **Status**: Success (verdict: write; recommended_action article, topics/protocol-analysis)
+- **Topic**: Protocol analysis and verbal reports as data (Ericsson & Simon)
+- **Output**: [protocol-analysis-and-verbal-reports-as-data-2026-10-21](/research/protocol-analysis-and-verbal-reports-as-data-2026-10-21/)
+- **Sources consulted**: 24 (Ericsson & Simon 1980 read in full from scan; 12 abstracts verified via OpenAlex; Crossref metadata for all; SEP Introspection grepped)
+
+## 17:04 - positions-evolve
+- **Status**: Success (update; [P-MS1](/positions/moral-status/#p-ms1) source-reading corrections from the 16:31 deep review's leads)
+- **Positions touched**: [moral-status](/positions/moral-status/) [P-MS1](/positions/moral-status/#p-ms1), Would shift if and Calibration history line; Last reviewed → 2026-10-21 (the reply's reasoning changed, not only an attribution, so the narrow-update precedent of 10-20 does not apply). No credence, grade, maturity, status or dependency change.
+  - Agency limb: "generalised by Mogensen (*PPR*, 2025) into a pluralism on which autonomy confers status" → "and Mogensen's distinct pluralism (*PPR*, 2025), on which autonomy, a capacity for rational self-government, confers status".
+  - Reply: "plus the collapse into sentientism on views where autonomy entails phenomenal consciousness" removed; new sentence "Autonomy entailing phenomenal consciousness would preserve necessity only as a consciousness requirement, Mogensen's test case being the Vulcan above".
+  - Vulcan limb: "(2026; Shepherd 2024 takes it up)" → "(2022; …)".
+- **History file** [moral-status-calibration-history](/positions/moral-status-calibration-history/): new `Updated 2026-10-21` note; 09-06 notes corrected in place: "Lee 2025 reverses it: a good must affect…" → "Lee's speculative hypothesis reverses it: if a good must 'affect whatever property makes x a welfare subject'…"; "Kagan's robot planet, generalised by Mogensen" → "Kagan's robot planet and Mogensen's autonomy pluralism".
+- **Secondary**: [consciousness-value-connection](/concepts/consciousness-value-connection/) L130 "(2026)" → "(2022)"; its Chalmers 2026 reference annotation now names *Reality+* (2022) so the inline year resolves (−1 word). Research note [the-experience-requirement-on-well-being-2026-09-05](/research/the-experience-requirement-on-well-being-2026-09-05/) L76 "Against Bradford (fn 25)" annotated in place (body text in §2, not n. 25; cleft dropped).
+- **Vulcan date verified**: Chalmers' own "Sentience and Moral Status" preprint (consc.net, raw): "In Reality+, I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans". Published volume via Google Books search-within (`v18EEgAAQBAJ`, control "Vulcan" N=10, nonsense-phrase N=0): p. 25 "Chapter 18 of Reality+ (Chalmers 2022)", p. 29 "I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans", p. 66 (Kriegel) "(Chalmers 2022, Ch.18) calls … Vulcans". Mogensen 2025b WP: "Chalmers 2022: 343–345" (Allen Lane ed.). Shepherd 2024 (UAB repository PDF): Norton ed., Vulcans at pp. 417–419. Pages are edition-dependent and the five Reality+ Google Books ids are unsearchable (four `searchable:false`, one dead index failing a "simulation" control), so no page numbers were added. Both works exist: the case originates in 2022 and the chapter (pp. 25–40) develops it.
+- **Length** (analyze_length): register 2807 → 2821 (corrections +10 prose, −5 index-summary trim, +9 index dates and summary for the note); history 3511 → 3682 (note +169, in-place corrections +2); consciousness-value-connection 3520 → 3519; research note 9694 → 9741.
+- **Cascade**: [P-MS2](/positions/moral-status/#p-ms2) depends on [P-MS1](/positions/moral-status/#p-ms1); no band moved and the limb order is unchanged, so [P-MS2](/positions/moral-status/#p-ms2)'s "fourth limb" reference keeps its referent. Not re-audited.
+- **Leads (not edited)**: [ethics-under-dualism](/topics/ethics-under-dualism/) L109 "The philosophical Vulcan of Chalmers (2026)" carries the same dating; its following description paraphrases the 2026 chapter, so 2026 may be defensible there, but "Chalmers concludes…" reads as the origin. History L37 ("forthcoming") and L40 (the 10-06 re-date) are left as provenance; the new note records the correction.
+- **Output**: no commit (orchestrator handles git).
 
 ## 16:31 - deep-review
 - **Status**: Success

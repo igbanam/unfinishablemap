@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-10-19T22:44:00+00:00
+ai_modified: 2026-10-21T17:48:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ Metzinger's [[phenomenal-transparency-opacity-spectrum|transparency-opacity spec
 
 This distinction is crucial for the [[hard-problem-of-consciousness|hard problem]]. [[cognitive-science-of-dualism|Cognitive science itself]] depends on it: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output. Arguments for dualism don't depend on introspecting cognitive processes—they depend on recognizing that experience has a qualitative character differing from its neural correlates. [[qualia|Qualia]] are what experience *is*, not what causes experience. The [[consciousness-and-language-interface|consciousness-language interface]] complicates this: introspection is often linguistically mediated, and linguistic encoding loses content from the original phenomenal state.
 
-Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where verbal report fails.
+Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where [[protocol-analysis|verbal report fails]].
 
 ### Phenomenal Overflow: Evidence for the Distinction
 

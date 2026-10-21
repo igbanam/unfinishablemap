@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-10-21T17:48:22+00:00
 last_deep_review: 2026-07-14T20:06:29+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 ---
@@ -131,7 +131,7 @@ Three core objections:
 
 ## Limited Methodological Utility
 
-The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its philosophical framework. Collecting verbal reports systematically, treating them as data requiring explanation, and seeking neural correlates are valuable practices. Neuroscience routinely asks subjects "What do you experience?" and correlates responses with brain activity.
+The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its philosophical framework. Collecting verbal reports systematically, treating them as data requiring explanation, and seeking neural correlates are valuable practices. Neuroscience routinely asks subjects "What do you experience?" and correlates responses with brain activity. [[protocol-analysis|Protocol analysis]] takes a parallel stance from information-processing psychology: Ericsson and Simon (1980) propose "that verbal reports are data" whose generating mechanism must be modelled, and specify the conditions under which reports of attended information are valid traces of thought.
 
 What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [[methodology-of-consciousness-research|epistemic asymmetry]] tracking a real ontological asymmetry. The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
@@ -171,6 +171,8 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 
 Dennett, D. (2003). "Who's on First? Heterophenomenology Explained." *Journal of Consciousness Studies*, 10(9-10), 19-30.
+
+Ericsson, K. A., & Simon, H. A. (1980). "Verbal Reports as Data." *Psychological Review*, 87(3), 215-251.
 
 Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 

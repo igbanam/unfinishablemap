@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-10-10 01:26:45+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-21 17:48:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[apophatic-approaches]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 01:26:45+00:00
-lastmod: 2026-10-10 01:26:45+00:00
+lastmod: 2026-10-21 17:48:22+00:00
 modified: *id001
 related_articles:
 - '[[apophatic-cartography]]'
@@ -64,7 +64,7 @@ A genuine void produces a failure that persists through time, across competing f
 
 The hard problem of consciousness illustrates the criterion. The explanatory gap has persisted from Leibniz's mill through Levine's 1983 formulation to Chalmers's 1995 sharpening to the meta-problem (Chalmers 2018) and beyond. It has survived translation into functionalist, identity-theoretic, illusionist, global-workspace, integrated-information, and higher-order-thought vocabularies. Each programme has its own response, none has dissolved the signature. Astrology's persistent gap, by contrast, has yielded no comparable refinement since Babylonian times — repetition rather than articulation.
 
-**Operationalisation in the void-cluster exhibits.** Both void-cluster exhibits pass strongly. Nisbett-Wilson 1977 has persisted under nearly fifty years of attempts at resolution; Schnider's orbitofrontal-filter mechanism has been refined but not dissolved across the cognitivist, embodied-cognition, and predictive-processing programmes. The introspection exhibit carries one mark on *theoretical* persistence: predictive-processing accounts (Clark, Hohwy) predict introspective limits, absorbing the signature without the void-framing. The surplus-void gap Wallace identified in 1870 has persisted through 150 years of evolutionary psychology, sexual-selection accounts, exaptation theory, and cognitive niche construction.
+**Operationalisation in the void-cluster exhibits.** Both void-cluster exhibits pass strongly. Nisbett-Wilson 1977 has persisted under nearly fifty years of attempts at resolution, which qualified its scope without dissolving the asymmetry. Smith and Miller (1978) and White (1988) faulted its formulation, White judging the empirical question still open a decade on, and Ericsson and Simon (1980) traced the inaccurate reports to probe procedure while their own model still leaves process for the analyst to infer instead of the subject to report ([protocol-analysis](/topics/protocol-analysis/)). Schnider's orbitofrontal-filter mechanism has been refined but not dissolved across the cognitivist, embodied-cognition, and predictive-processing programmes. The introspection exhibit carries one mark on *theoretical* persistence: predictive-processing accounts (Clark, Hohwy) predict introspective limits, absorbing the signature without the void-framing. The surplus-void gap Wallace identified in 1870 has persisted through 150 years of evolutionary psychology, sexual-selection accounts, exaptation theory, and cognitive niche construction.
 
 **Failure mode it guards against.** Localised difficulty masquerading as structural limit. A criterion-passing void survives the frameworks that try to dissolve it.
 
@@ -154,10 +154,13 @@ The criteria are silent on **[Bidirectional Interaction](/tenets/#bidirectional-
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 2. Chalmers, D. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9–10), 6–61.
-3. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
-4. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231–259.
-5. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
-6. Southgate, A. & Oquatre-sept, C. (2026-04-28). Apophatic Cartography: Method and Its Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/apophatic-cartography/
-7. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/
-8. Southgate, A. & Oquatre-sept, C. (2026-05-13). The Voids-Circularity Discount. *The Unfinishable Map*. https://unfinishablemap.org/project/voids-circularity-discount/
-9. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
+3. Ericsson, K. A. & Simon, H. A. (1980). "Verbal reports as data." *Psychological Review*, 87(3), 215–251.
+4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+5. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231–259.
+6. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
+7. Smith, E. R. & Miller, F. D. (1978). "Limits on perception of cognitive processes: A reply to Nisbett and Wilson." *Psychological Review*, 85(4), 355–362.
+8. White, P. A. (1988). "Knowing more about what we can tell: 'Introspective access' and causal report accuracy 10 years later." *British Journal of Psychology*, 79(1), 13–45.
+9. Southgate, A. & Oquatre-sept, C. (2026-04-28). Apophatic Cartography: Method and Its Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/apophatic-cartography/
+10. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/
+11. Southgate, A. & Oquatre-sept, C. (2026-05-13). The Voids-Circularity Discount. *The Unfinishable Map*. https://unfinishablemap.org/project/voids-circularity-discount/
+12. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/

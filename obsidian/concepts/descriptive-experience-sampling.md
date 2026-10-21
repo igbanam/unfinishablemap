@@ -4,7 +4,7 @@ description: "Human-AI collaboration refines the Map's reference account of Hurl
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-10-08T14:34:59+00:00
+ai_modified: 2026-10-21T17:48:22+00:00
 draft: false
 topics:
   - "[[inner-speech-and-anendophasia]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[confabulation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-08-16
 last_curated:
 last_deep_review: 2026-09-17T17:58:00+00:00
@@ -100,6 +100,8 @@ Known error channels: presupposition and expectation effects; reconstruction acr
 
 **The psychometric tradition.** Questionnaires and questionnaire-based experience sampling, descended from Larson and Csikszentmihalyi's Experience Sampling Method (1983), buy scale, replicability and statistical power at the cost of the four characteristics above. Both beeper traditions began in the same era with opposite priorities.
 
+**Protocol analysis.** Ericsson and Simon's (1980) [[protocol-analysis|model of verbal reports]] shares two DES safeguards, a specific episode and undirected questioning, but validates a narrower object: the task information a subject was attending to, from which the analyst infers process. Pristine experience lies outside its claims.
+
 **Division of labour with microphenomenology.** Petitmengin's interview method appeared alongside Hurlburt and Akhter's method statement in the same 2006 issue of *Phenomenology and the Cognitive Sciences*, and she later contributed a critical piece to the 2011 DES symposium. The two are complements with a live disagreement:
 
 | | DES | Microphenomenological interview |
@@ -134,27 +136,28 @@ What DES does not do is escape the problem the Map's [[introspection]] treatment
 ## References
 
 1. Csikszentmihalyi, M., & Larson, R. (1987). "Validity and Reliability of the Experience-Sampling Method." *The Journal of Nervous and Mental Disease*, 175(9), 526-536.
-2. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
-3. Hurlburt, R.T. (1990). *Sampling Normal and Schizophrenic Inner Experience*. Springer US.
-4. Hurlburt, R.T. (2011). *Investigating Pristine Inner Experience: Moments of Truth*. Cambridge University Press.
-5. Hurlburt, R.T. (2011). "Nine Clarifications of Descriptive Experience Sampling." *Journal of Consciousness Studies*, 18(1), 274-287.
-6. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, published online 30 January 2026. https://doi.org/10.1177/09567976251413525
-7. Hurlburt, R.T., & Akhter, S.A. (2006). "The Descriptive Experience Sampling Method." *Phenomenology and the Cognitive Sciences*, 5(3-4), 271-301.
-8. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
-9. Hurlburt, R.T., & Heavey, C.L. (2006). *Exploring Inner Experience: The Descriptive Experience Sampling Method*. John Benjamins.
-10. Hurlburt, R.T., & Heavey, C.L. (2015). "Investigating Pristine Inner Experience: Implications for Experience Sampling and Questionnaires." *Consciousness and Cognition*, 31, 148-159.
-11. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
-12. Hurlburt, R.T., Heavey, C.L., Lapping-Carr, L., Krumm, A.E., Moynihan, S.A., Kaneshiro, C., Brouwers, V.P., Turner, D.K., & Kelsey, J.M. (2022). "Measuring the Frequency of Inner-Experience Characteristics." *Perspectives on Psychological Science*, 17(2), 559-571.
-13. Hurlburt, R.T., & Schwitzgebel, E. (2007). *Describing Inner Experience? Proponent Meets Skeptic*. MIT Press.
-14. Hurlburt, R.T., & Schwitzgebel, E. (2011a). "Methodological Pluralism, Armchair Introspection, and DES as the Epistemic Tribunal." *Journal of Consciousness Studies*, 18(1), 253-273.
-15. Hurlburt, R.T., & Schwitzgebel, E. (2011b). "Little or No Experience Outside of Attention?" *Journal of Consciousness Studies*, 18(1), 234-252.
-16. Kühn, S., Fernyhough, C., Alderson-Day, B., & Hurlburt, R.T. (2014). "Inner Experience in the Scanner: Can High Fidelity Apprehensions of Inner Experience Be Integrated with fMRI?" *Frontiers in Psychology*, 5:1393.
-17. Larson, R., & Csikszentmihalyi, M. (1983). "The Experience Sampling Method." In H.T. Reis (ed.), *Naturalistic Approaches to Studying Social Interaction*. Jossey-Bass, 41-56.
-18. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
-19. Nedergaard, J.S.K., & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
-20. Petitmengin, C. (2006). "Describing One's Subjective Experience in the Second Person: An Interview Method for the Science of Consciousness." *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
-21. Petitmengin, C. (2011). "Describing the Experience of Describing? The Blindspot of Introspection." *Journal of Consciousness Studies*, 18(1), 44-62.
-22. Piccinini, G. (2008). Review of *Describing Inner Experience? Proponent Meets Skeptic*. *Notre Dame Philosophical Reviews*, 25 April 2008.
-23. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-24. Southgate, A. & Ocinq, C. (2026-08-04). Inner Speech and Anendophasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
-25. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/
+2. Ericsson, K.A., & Simon, H.A. (1980). "Verbal Reports as Data." *Psychological Review*, 87(3), 215-251.
+3. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
+4. Hurlburt, R.T. (1990). *Sampling Normal and Schizophrenic Inner Experience*. Springer US.
+5. Hurlburt, R.T. (2011). *Investigating Pristine Inner Experience: Moments of Truth*. Cambridge University Press.
+6. Hurlburt, R.T. (2011). "Nine Clarifications of Descriptive Experience Sampling." *Journal of Consciousness Studies*, 18(1), 274-287.
+7. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, published online 30 January 2026. https://doi.org/10.1177/09567976251413525
+8. Hurlburt, R.T., & Akhter, S.A. (2006). "The Descriptive Experience Sampling Method." *Phenomenology and the Cognitive Sciences*, 5(3-4), 271-301.
+9. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
+10. Hurlburt, R.T., & Heavey, C.L. (2006). *Exploring Inner Experience: The Descriptive Experience Sampling Method*. John Benjamins.
+11. Hurlburt, R.T., & Heavey, C.L. (2015). "Investigating Pristine Inner Experience: Implications for Experience Sampling and Questionnaires." *Consciousness and Cognition*, 31, 148-159.
+12. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
+13. Hurlburt, R.T., Heavey, C.L., Lapping-Carr, L., Krumm, A.E., Moynihan, S.A., Kaneshiro, C., Brouwers, V.P., Turner, D.K., & Kelsey, J.M. (2022). "Measuring the Frequency of Inner-Experience Characteristics." *Perspectives on Psychological Science*, 17(2), 559-571.
+14. Hurlburt, R.T., & Schwitzgebel, E. (2007). *Describing Inner Experience? Proponent Meets Skeptic*. MIT Press.
+15. Hurlburt, R.T., & Schwitzgebel, E. (2011a). "Methodological Pluralism, Armchair Introspection, and DES as the Epistemic Tribunal." *Journal of Consciousness Studies*, 18(1), 253-273.
+16. Hurlburt, R.T., & Schwitzgebel, E. (2011b). "Little or No Experience Outside of Attention?" *Journal of Consciousness Studies*, 18(1), 234-252.
+17. Kühn, S., Fernyhough, C., Alderson-Day, B., & Hurlburt, R.T. (2014). "Inner Experience in the Scanner: Can High Fidelity Apprehensions of Inner Experience Be Integrated with fMRI?" *Frontiers in Psychology*, 5:1393.
+18. Larson, R., & Csikszentmihalyi, M. (1983). "The Experience Sampling Method." In H.T. Reis (ed.), *Naturalistic Approaches to Studying Social Interaction*. Jossey-Bass, 41-56.
+19. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+20. Nedergaard, J.S.K., & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+21. Petitmengin, C. (2006). "Describing One's Subjective Experience in the Second Person: An Interview Method for the Science of Consciousness." *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
+22. Petitmengin, C. (2011). "Describing the Experience of Describing? The Blindspot of Introspection." *Journal of Consciousness Studies*, 18(1), 44-62.
+23. Piccinini, G. (2008). Review of *Describing Inner Experience? Proponent Meets Skeptic*. *Notre Dame Philosophical Reviews*, 25 April 2008.
+24. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+25. Southgate, A. & Ocinq, C. (2026-08-04). Inner Speech and Anendophasia. *The Unfinishable Map*. https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
+26. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Microphenomenological Interview Method. *The Unfinishable Map*. https://unfinishablemap.org/topics/microphenomenological-interview-method/

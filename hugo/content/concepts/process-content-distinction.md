@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-09-17 07:06:55+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-21 17:48:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[introspection]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 07:06:55+00:00
-lastmod: 2026-09-17 07:06:55+00:00
+lastmod: 2026-10-21 17:48:22+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -65,6 +65,8 @@ Nisbett and Wilson wrote with care about scope, and the Map preserves their care
 
 Nisbett and Wilson did not say *processes are never accessible*. They said the access is unreliable in ways subjects cannot detect from inside. This is a calibration claim, not an elimination claim.
 
+The most worked-out procedural statement of where the line falls is [protocol analysis](/topics/protocol-analysis/). Ericsson and Simon (1980) model verbal reports as verbalisations of information held in short-term memory, and argue that the inaccurate reports Nisbett and Wilson assembled "result from requesting information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes." On their model, concurrent thinking aloud or immediate retrospection on a specific episode avoids that, and a meta-analysis of 94 studies found thinking aloud left task accuracy unchanged (Fox, Ericsson & Best 2011). The reply relocates the cause of the failures to procedure without moving the line: subjects report the states they attended to, and the analyst infers the process. Their "content" is task information held in memory, not phenomenal character, so the result does not reach the content-side failures listed under *What the Distinction Does Not Claim*.
+
 ## Why Content Survives the Critique
 
 The process/content distinction is what allows phenomenological evidence to remain on the table after Nisbett & Wilson, after [Dennett's heterophenomenology](/concepts/heterophenomenology/), and after the broader introspection-pessimist programme (Eric Schwitzgebel's *Perplexities of Consciousness* being the most thorough recent statement on the pessimist side).
@@ -95,7 +97,7 @@ To honour the [evidential-status discipline](/project/evidential-status-discipli
 
 - **It does not eliminate introspection's evidential value.** The distinction is a discipline, not an elimination. Content reports remain admissible evidence under the [phenomenological evidence](/concepts/phenomenological-evidence/) conditions. The pessimist programme that pushes from Nisbett-Wilson to "introspection is unreliable *tout court*" overreads the original critique.
 - **It does not guarantee content access.** Schwitzgebel's catalogue of content failures (whether we dream in colour, the character of peripheral vision, the structure of inner speech) shows the content side is not safe by default. The asymmetry is comparative, not absolute.
-- **It does not draw the line in a fixed place.** [Microphenomenological methods](/topics/microphenomenological-interview-method/) (Petitmengin 2006) extend trained access into territory that looks like process-territory from outside — the unfolding of a thought, the felt grain of attention — by structuring the elicitation conditions so that what is recovered is the experiential structure of the unfolding, not a causal explanation of it. The line between content and process is methodologically negotiable in the cases where training and elicitation protocols can sharpen access; the asymmetry persists in the untrained baseline.
+- **It does not draw the line in a fixed place.** [Microphenomenological methods](/topics/microphenomenological-interview-method/) (Petitmengin 2006) extend trained access into territory that looks like process-territory from outside — the unfolding of a thought, the felt grain of attention — by structuring the elicitation conditions so that what is recovered is the experiential structure of the unfolding, not a causal explanation of it. What is methodologically negotiable, on the best-studied evidence, is report validity: [protocol analysis](/topics/protocol-analysis/) shows that whether a report draws on memory or on inference depends on how and when it is elicited, while process itself stays a matter for third-person inference. Training and elicitation protocols can extend access in cases like these; the asymmetry persists in the untrained baseline.
 - **It does not adjudicate cognitive closure.** Colin McGinn's mysterian argument holds that the process side may be permanently inaccessible to introspection because of structural limits on human cognition, not merely contingent ones. The process/content distinction is neutral on this stronger claim: it documents the empirical asymmetry without committing to whether the asymmetry could in principle be reduced by better methods or whether it is closed off in the way McGinn describes. Microphenomenological gains (above) suggest *some* of the asymmetry is contingent; how much is an open question the distinction does not pretend to settle.
 - **It does not by itself decide dualism.** Materialists and dualists can both endorse the distinction; it is calibration craft, not metaphysics. What the distinction does in the Map's hands is preserve the evidential ground on which the dualism arguments stand, without licensing inflation of that ground beyond what the distinction underwrites.
 
@@ -113,11 +115,14 @@ The discipline is a craft of restraint. The content side carries genuine weight;
 - [source-attribution-void](/voids/source-attribution-void/) — Why mental content lacks native origin tags
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The five-tier framing this distinction calibrates first-person evidence into
 - [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) — How elicitation protocols can move the content/process line
+- [protocol-analysis](/topics/protocol-analysis/) — Ericsson and Simon's procedural account of which verbal reports are valid data
 
 ## References
 
 1. Bem, D. J. (1972). Self-perception theory. *Advances in Experimental Social Psychology*, 6, 1-62.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+1. Ericsson, K. A., & Simon, H. A. (1980). Verbal reports as data. *Psychological Review*, 87(3), 215-251.
+1. Fox, M. C., Ericsson, K. A., & Best, R. (2011). Do procedures for verbal reporting of thinking have to be reactive? A meta-analysis and recommendations for best reporting methods. *Psychological Bulletin*, 137(2), 316-344.
 1. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
 1. Lush, P. (2020). Demand characteristics confound the rubber hand illusion. *Collabra: Psychology*, 6(1), 22.
 1. Lush, P., Botan, V., Scott, R. B., Seth, A. K., Ward, J., & Dienes, Z. (2020). Trait phenomenological control predicts experience of mirror synaesthesia and the rubber hand illusion. *Nature Communications*, 11, 4853.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T17:34:26+00:00
+ai_modified: 2026-10-21T17:51:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:51 - expand-topic
+- **Status**: Success
+- **Topic**: Protocol Analysis: When Verbal Reports Are Data (todo L40; the task line is left for cycle_post to mark)
+- **Output**: [[topics/protocol-analysis]]
+- **Word count**: 2,427 by analyze_length (prose 1,968, Further Reading plus 16 references 459), against topics soft 3,000 and hard 4,000. About 120 prose words over the ~1,850 brief target after three trim passes; the cut candidates left were guard-required (Level 3 breadth, reactive-not-worse, no coiner, the SEP side of the introspection dispute). Topics stood at 354/370 by `count_section_files` before the write and 355 after.
+- **Based on research**: yes, [[research/protocol-analysis-and-verbal-reports-as-data-2026-10-21]]
+- **Calibration**: a methods page, neutral between dualism and physicalism. Ericsson and Simon's "content" (information heeded in STM) is kept apart from phenomenal content in the lead, in the limits section, and in the process-content-distinction fold. The reply is stated as relocating the cause of Nisbett and Wilson's failures to procedure without moving the content/process line. Level 3 includes filtering and inference; "reactive" is shown to improve accuracy (Gagné & Smith 1962 p. 230; Fox et al. 2011). Tenet 3 is fitted, not evidenced; the epiphenomenalism sentence denies that the model's silence favours it. The information-processing framework is named from the 1980 abstract, so the authors are not conscripted.
+- **Coiners**: no inventor of thinking aloud credited ("they cite users from the 1920s onward"); the origin of the term "protocol analysis" is stated as unsettled. The do-not-characterise works (the 1984/1993 book, Wilson 1994, Ericsson 2003, White 1980, Bowles 2010) are not characterised; the 1993 book is listed only as the book edition.
+- **Quote verification**: 17 attributed quoted spans. 15 pass a normalised-substring check against raw OpenAlex abstracts (E&S 1980, Smith & Miller 1978, White 1988, Fox et al. 2011, Schooler 2011, Ericsson & Fox 2011, Schooler et al. 1993, Wilson & Schooler 1991) and the SEP Introspection HTML (curly apostrophe kept); the Ericsson & Fox title matches OpenAlex metadata; "within the theoretical framework…" appears in the abstract as the OCR-hyphenated "theoret-ical". The Fox & Charness d values and the Alogna et al. 2014 paraphrase were checked against their abstracts. Page-level paraphrases of E&S 1980 were read off the psu.edu scan at pp. 225, 227, 230 and 245–247. New metadata (Crossref): Gagné & Smith 1962 doi:10.1037/h0048703. p. 245 also shows E&S calling the 1977 content/process distinction "undefined", which the research note did not record; the article paraphrases it.
+- **Integration** (headroom = hard − 1 − total, re-measured before each edit): `process-content-distinction` fold after the calibration-claim paragraph, L95 "methodologically negotiable" scoped to report validity, Further Reading line, 2 refs (2,440 → 2,684); `contemplative-epistemology` L76 bullet and L81 sentence corrected and sourced, 1 ref (2,716 → 2,786); `apophatic-cartography-four-criteria` L63 cites Smith & Miller, White and E&S, discharging pessimistic-2026-05-16 L85, 3 refs (2,772 → 2,900); `descriptive-experience-sampling` 46-word paragraph plus ref (2,895 → 2,955, the 60-word cap); `microphenomenological-interview-method` L101 and `introspection` L81 zero-word piped links (3,899 and 3,491 unchanged); `confabulation-void` one sentence plus ref (2,754 → 2,823); `heterophenomenology` one sentence plus ref (2,901 → 2,957). Nothing was added to `introspection-architecture-independence-scoring` (over hard).
+- **Left for later**: `concepts/introspection` L71 still glosses Nisbett and Wilson's "contents" as "current phenomenal states", though their own list (E&S 1980 p. 245) is attentional and cognitive. It needs its own length-neutral refine (8 words of headroom).
+- **Cross-review**: minted a P2 cross-review task above `## Completed Tasks` and registered the article in `task_chains.pending_cross_reviews` with 8 targets.
 
 ## 17:34 - research-topic
 - **Status**: Success (verdict: write; recommended_action article, topics/protocol-analysis)

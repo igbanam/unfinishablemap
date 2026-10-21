@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-10-04T01:09:29+00:00
+ai_modified: 2026-10-21T17:48:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,12 +73,12 @@ This maps onto Russell's distinction between knowledge by acquaintance and knowl
 
 Claire Petitmengin's microphenomenology (Petitmengin 2006) provides specific protocols that reduce confabulation:
 
-- **Present-tense attention** directs observation to current experience rather than retrospective reconstruction
+- **Evocation of a singular moment** anchors description in one specific past episode rather than in generalisations about experience
 - **Non-leading inquiry** avoids suggesting what should be found
 - **Re-enactment** engages experiential recall rather than abstract summary
 - **Process description** asks "how did this unfold?" rather than "why did this happen?"
 
-These techniques target known failure modes. Much confabulation arises from "why" questions—which invite post-hoc theorising—and from retrospective report—which introduces reconstruction error. Microphenomenology redirects attention to present phenomenal unfolding, the domain where reliability is highest.
+These techniques target known failure modes. Ericsson and Simon (1980) traced inaccurate verbal reports to requests for "information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes": "why" questions, generalisations across trials, and probes long after the episode (see [[protocol-analysis]]). Microphenomenology shares two of their safeguards, a specific episode and "how" in place of "why". Its reports nonetheless remain retrospective, sometimes of a distant moment, so evocation disciplines reconstruction error without removing it.
 
 ### Cross-Modal Verification
 
@@ -164,6 +164,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 1. Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Ericsson, K. A., & Simon, H. A. (1980). Verbal reports as data. *Psychological Review*, 87(3), 215-251.
 1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.

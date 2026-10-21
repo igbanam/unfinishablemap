@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-19 22:44:00+00:00
+ai_modified: 2026-10-21 17:48:22+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 11:35:46+00:00
-lastmod: 2026-10-19 22:44:00+00:00
+lastmod: 2026-10-21 17:48:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Metzinger's [transparency-opacity spectrum](/concepts/phenomenal-transparency-op
 
 This distinction is crucial for the [hard problem](/topics/hard-problem-of-consciousness/). [Cognitive science itself](/topics/cognitive-science-of-dualism/) depends on it: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output. Arguments for dualism don't depend on introspecting cognitive processes—they depend on recognizing that experience has a qualitative character differing from its neural correlates. [Qualia](/concepts/qualia/) are what experience *is*, not what causes experience. The [consciousness-language interface](/topics/consciousness-and-language-interface/) complicates this: introspection is often linguistically mediated, and linguistic encoding loses content from the original phenomenal state.
 
-Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where verbal report fails.
+Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history. The pupillometric channel-level finding noted above locates the dissociation on the process side, where [verbal report fails](/topics/protocol-analysis/).
 
 ### Phenomenal Overflow: Evidence for the Distinction
 

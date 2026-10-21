@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-08-16 10:15:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-21 17:48:22+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/microphenomenological-interview/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-07 00:52:00+00:00
-lastmod: 2026-08-16 10:15:00+00:00
+lastmod: 2026-10-21 17:48:22+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
@@ -102,7 +102,7 @@ Other applications follow the same pattern on less clinically dramatic terrain: 
 
 The method has real limits, and the microphenomenological community is unusually frank about them.
 
-**Retrospective reconstruction.** All reports are retrospective. Memory reconstruction and confabulation (heir to Nisbett and Wilson 1977) remain plausible sources of error. Evocation and non-leading structure address but do not eliminate this. Høffding, Martiny and Roepstorff (2022) catalogue the metaphysical, epistemological and methodological objections in detail — and answer them, concluding that phenomenological interviewing is "in no principled way less reliable or less valid" than quantitative or experimental method, and that rejecting it requires a scepticism corrosive enough to swallow the rest of consciousness science. The Map cites their catalogue rather than their verdict, which is friendlier to the method than anything argued here.
+**Retrospective reconstruction.** All reports are [retrospective](/topics/protocol-analysis/). Memory reconstruction and confabulation (heir to Nisbett and Wilson 1977) remain plausible sources of error. Evocation and non-leading structure address but do not eliminate this. Høffding, Martiny and Roepstorff (2022) catalogue the metaphysical, epistemological and methodological objections in detail — and answer them, concluding that phenomenological interviewing is "in no principled way less reliable or less valid" than quantitative or experimental method, and that rejecting it requires a scepticism corrosive enough to swallow the rest of consciousness science. The Map cites their catalogue rather than their verdict, which is friendlier to the method than anything argued here.
 
 **Reliability ceiling.** In Petitmengin, Remillieux, Cahour and Carter-Thomas's (2013) choice-blindness study, subjects helped by an elicitation interview detected that their choice had been manipulated in approximately 80% of trials, against roughly 33% without the interview — a strong result against the null hypothesis that reports are noise, but well short of perfect detection. The figure is widely cited in the secondary literature (it is the headline finding Olivares et al. (2015) review as evidence that disciplined second-person method detects manipulations above chance); no meta-analytic replication has appeared in the available record.
 
