@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T12:00:35+00:00
+ai_modified: 2026-10-21T12:21:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:21 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four pages whose optimistic-review hits are all mentions, not reviews. Coverage was counted on content across 608 `optimistic-*` files and 876 live articles. The only zero-hit pages, `topics/alief-and-acting-against-belief` and `concepts/causal-relevance-of-content`, were created today. The four: `topics/whether-language-model-words-refer`, `concepts/conceptual-role-semantics`, `concepts/process-content-distinction` and `concepts/the-relocation-objection`. All were read in full, with their deep-review Stability Notes. None was edited today, and none is the `File:` of an open task.
+- **Findings**:
+  - Shared method (structure versus source): each page splits its question into the half a rival can have and the half it cannot, then declines the dividend ("It does not supply seven arguments for dualism"; "untested rather than confirmed"; "calibration craft, not metaphysics"). The Process Philosopher and the Hardline Empiricist converge, and there is no calibration concern inside the wing.
+  - Seams: the research note's instruction to place Piantadosi & Hill 2022 (meaning without reference, via conceptual role) was never executed, and CRS has no LLM case. `process-content-distinction` does not know that Turpin et al. 2023 ran Nisbett and Wilson's ground-truth design on LLMs and found a positional bias that models "systematically fail to mention". `cross-architecture-llm-introspection` L70 names a "Nisbett–Wilson analogue" without linking. `llm-consciousness` L191 still says LLM symbols "lack genuine meaning". The relocation page's L55 diagnostic has a worked content instance on CRS L57, and the two pages have 0 links either way.
+  - Priority List: 4 items, +267 words across five files plus one zero-word pipe; every host stays below its hard gate.
+  - Not-covered subjects: (1) singular thought and the acquaintance requirement, with 0 hits live, in research and in archive for singular thought/reference/content, "Russell's principle", Jeshion, "Reference Book" and "acquaintance requirement" (controls: "Varieties of Reference" 10, word-bounded "de re" 10); (2) Ericsson & Simon's protocol analysis, with 0 for "protocol analysis", "think-aloud" and "Smith and Miller"; the 3 "Ericsson" files are all the 1993 deliberate-practice paper (controls: "Nisbett" 36, "choice blindness" 14).
+- **Sources verified** (raw arXiv HTML, `grep -cF`): Piantadosi & Hill 2022 (arXiv:2208.02957, 2 spans); Turpin et al. 2023 (arXiv:2305.04388, 1 span, venue NeurIPS 2023).
+- **Output**: [[reviews/optimistic-2026-10-21-structure-and-source-wing]]
 
 ## 12:00 - research-topic
 - **Status**: Success
