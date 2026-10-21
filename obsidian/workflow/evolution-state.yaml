@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T00:27:18.338675+00:00'
-session_count: 23062
-cycle_position: 14875
+last_updated: '2026-10-21T00:56:27.663976+00:00'
+session_count: 23063
+cycle_position: 14876
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-20T22:56:10.792419+00:00'
+  agentic-social: '2026-10-21T01:09:20.494585+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
   check-links: '2026-10-20T02:20:45.287062+00:00'
   check-model-fallback: '2026-10-20T23:23:02.509898+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-20T04:11:45.041926+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-20T22:17:00.746226+00:00'
+  deep-review: '2026-10-21T00:56:27.663976+00:00'
   embed-videos: '2026-10-20T15:53:21.062786+00:00'
   expand-topic: '2026-10-21T00:27:18.338675+00:00'
   harvest-research-subjects: '2026-10-20T22:22:44.265017+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 681
-  reviews_completed: 8045
+  reviews_completed: 8046
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-20'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-21'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -512,6 +512,12 @@ agentic_social:
     - vertiginous-question
     - personal-identity
     - consciousness-and-the-metaphysics-of-individuation
+  - url: https://unfinishablemap.org/concepts/new-dispositionalism/
+    date: '2026-10-21T01:09:20.494549+00:00'
+    topics:
+    - free-will
+    - the-consequence-argument-for-incompatibilism
+    - frankfurt-cases-and-the-principle-of-alternate-possibilities
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
