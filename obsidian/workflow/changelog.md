@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T00:24:25+00:00
+ai_modified: 2026-10-21T00:55:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:55 - deep-review
+- **Status**: Success
+- **File**: [[topics/alief-and-acting-against-belief]]
+- **Selection**: candidates #1 `concepts/four-category-ontology` and #2 `concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws` skipped (both `modified: 2026-10-20`, driver last-day rule); #3 is this article (never reviewed, score 100). The run also discharges the P2 cross-review of this page.
+- **Word count**: 3309 → 3317 (+8), analyze_length; topics soft 3000 / hard 4000, length-neutral mode.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7. (1) Lead over-concession: "the felt effort" → "when effort is felt". (2) "trembling" → "vertigo" at L36/L124, since Gendler's word is "feelings of vertigo". (3) L80 now ties the failed priming replications to the pp. 660–661 sentence they underwrite. (4) L96 Soter source/Map separation: classing aliefs among emotion-type states is marked as the Map's step. (5) L118 n. 62 is a note on Aristotle's habituation, not the enkratic agent. (6) L72 Schwitzgebel subject splice: "her contrast" → "her reasoning" / "her view". (7) L68 universal negative fenced to the cited passages.
+- **Low**: 1 dropped qualifier (L116, "ours and our ancestors'"). Trims: L104 −10, L122 −5, L44 −1.
+- **Citation ledger**: 23 external cites verified at the publisher of record (Crossref DOIs; raw-text quote match in the Gendler 2008 and Schwitzgebel 2010 PDFs, davidhume.org, SEP HTML, and Crossref/OpenAlex/Europe PMC abstracts). All real-correct. Mandelbaum 2013 abstract unavailable at every source; the article only paraphrases it (LEAD).
+- **Engagements**: dual-process rival, Mode Three (conceded; residue marked "no explanatory gap of their own"). Gendler's physicalism, Mode Three. Deflationists not engaged; the Occam's paragraph correctly declines to adjudicate.
+- **Cross-review**: akrasia L62 pipe narrowed to "masters it" (0 words; Gendler 2014 separates weakness of will from associative mediation). philosophy-of-habit-under-dualism L71 gets a zero-word "habituation" pipe. the-divided-will declined (intertemporal/akrasia family, no on-topic site). Research note L58 "trembles and clings to the rail" rewritten, and its L109 n. 62 gloss corrected.
+- **Enhancements made**: 2 (habituation cross-link pair)
+- **Output**: [[reviews/deep-review-2026-10-21-alief-and-acting-against-belief]]
 
 ## 00:24 - expand-topic
 - **Status**: Success

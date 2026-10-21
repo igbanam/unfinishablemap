@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-10-04 13:32:59+00:00
+ai_modified: 2026-10-21 00:52:58+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[delegatory-causation]]'
 - '[[attention-as-interface]]'
 created: 2026-07-07
-date: &id001 2026-07-07
+date: &id001 2026-10-21
 description: 'Habit is the interface''s delegation function: conscious selection hands
   off to cue-triggered procedure, leaving durable material traces. The Map reads that
   as Ravaisson''s descent; the evidence does not decide against a flat neural-origin
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 17:41:15+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+lastmod: 2026-10-21 00:52:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ The two overlap—Graybiel and Grafton titled a 2015 paper "The Striatum: Where 
 
 ## The Ethics of the Automatic
 
-Habit's valence is double. It enables: Aristotle makes virtue a settled state (*hexis*) acquired through habituation (*ethos*), Hume calls custom "the great guide of human life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our original nature," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
+Habit's valence is double. It enables: Aristotle makes virtue a settled state (*hexis*) acquired through [habituation](/topics/alief-and-acting-against-belief/) (*ethos*), Hume calls custom "the great guide of human life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our original nature," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
 
 ## A Cosmological Aside: Peirce, Cited and Bounded
 

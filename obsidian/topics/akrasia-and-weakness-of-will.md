@@ -4,7 +4,7 @@ description: "Acting against one's own better judgement—Socrates, Aristotle, D
 created: 2026-07-09
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T00:23:30+00:00
+ai_modified: 2026-10-21T00:52:58+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs motor-selection: expository/descriptive article (not a contested Map-claim), so strong-assertion + hedge-density checks misfire; refining would distort the exposition
 topics:
@@ -59,7 +59,7 @@ Aristotle (*Nicomachean Ethics* VII) accepts akrasia against Socrates, while try
 
 His answer runs through the **practical syllogism**. Practical reasoning moves from a universal premise (sweet things should be avoided) through a particular premise (this is a sweet thing) to an action. Aristotle argues the akratic possesses the relevant knowledge but does not have it *in active use*: under the pull of appetite or passion, the agent fails properly to grasp or deploy the particular premise that applies the universal to the situation at hand. The knowledge is present potentially but not actualised, a case of "having knowledge in a sense and yet not having it, as in the instance of a man asleep, mad, or drunk" (VII.3, 1147a).
 
-This yields a structural distinction between merely *possessing* an evaluative state and *exercising* it in the moment of action. Aristotle contrasts the akratic with the *enkratic* (continent) agent, who [[alief-and-acting-against-belief|feels the same contrary pull but masters it]], and with the temperate agent, who feels no such pull. The diagnosis carries no metaphysical commitment about the nature of mind; it is a claim about how evaluative cognition relates to what an agent actually does.
+This yields a structural distinction between merely *possessing* an evaluative state and *exercising* it in the moment of action. Aristotle contrasts the akratic with the *enkratic* (continent) agent, who feels the same contrary pull but [[alief-and-acting-against-belief|masters it]], and with the temperate agent, who feels no such pull. The diagnosis carries no metaphysical commitment about the nature of mind; it is a claim about how evaluative cognition relates to what an agent actually does.
 
 Aristotle also distinguishes "impetuosity" from "weakness" (VII.7): the weak deliberate but fail to stand by their conclusion, while the impetuous are led by emotion without deliberating, so there may be no formed all-things-considered judgement for the act to diverge from. Nor is standing firm always good. Neoptolemus, abandoning a lie Odysseus urged on him, poses the puzzle of "a good incontinence" (VII.2), which Aristotle resolves by denying the lapse was incontinence; and the "strong-headed" who cling to opinions for the pleasure of victory are "liker the incontinent than the continent man" (VII.9).
 

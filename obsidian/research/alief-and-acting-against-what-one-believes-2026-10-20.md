@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Alief and Acting Against What One Believes"
 created: 2026-10-20
-modified: 2026-10-20
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-20T23:49:23+00:00
+ai_modified: 2026-10-21T00:53:06+00:00
 draft: false
 description: "Research notes on Gendler's alief, Schwitzgebel's in-between belief and the implicit-attitude debate, and on whether acting on belief against alief is the case the Map's back-end speculation predicts."
 topics:
@@ -55,7 +55,7 @@ Works are keyed by (surname, year) throughout.
 
 ## Executive Summary
 
-Gendler (2008a, 2008b) introduced *alief*: an associative, automatic, arational state with representational, affective and behavioural content. She used it to explain **belief-discordant** behaviour, such as the visitor who believes the Grand Canyon Skywalk is safe yet trembles and clings to the rail. Three rival families of view compete with hers:
+Gendler (2008a, 2008b) introduced *alief*: an associative, automatic, arational state with representational, affective and behavioural content. She used it to explain **belief-discordant** behaviour, such as the visitor who believes the Grand Canyon Skywalk is safe yet feels vertigo on its glass floor (Gendler's phrase is "feelings of vertigo", p. 635; the woman who "didn't dare move" while grasping the glass sides is from Rothstein's dispatch, which Gendler quotes; "trembling" is Hume's and Schwitzgebel's word, not Gendler's). Three rival families of view compete with hers:
 
 - **Deflationary** views say no new kind is needed. Ordinary beliefs, desires, imaginings and sub-personal representations do the work (Kwong 2012; Currie & Ichino 2012; Mandelbaum 2013; Muller & Bashour 2011).
 - **Propositional** views say implicit attitudes are unconscious beliefs (Mandelbaum 2016; Bendaña 2021) or near-beliefs (Levy 2015, "patchy endorsements").
@@ -106,7 +106,7 @@ The decline option was considered and rejected for three reasons.
 - **Indirect cultivation**, p. 652: "if we use such tricks to cultivate beliefs, we need to cover our tracks; if we use them to cultivate aliefs, we can do so under conditions of full disclosure."
 - **The key sentence for the back-end question**, pp. 660–661, across a page break: "...it is only through a process of conscious or habit-governed inhibition that representations whose accuracy we endorse come to play a distinctive role in governing our actions."
 - **Conclusion**, p. 663: "Belief plays an important role in the ultimate regulation of behavior. But it plays a far smaller role in moment-by-moment management than philosophical tradition has tended to stress."
-- **Ethics**, p. 663 n. 62: "Aristotelian ethics is an ethics of alief, whereas Kantian ethics is an ethics of belief." This links to the akrasia page's Aristotle section and its enkratic agent.
+- **Ethics**, p. 663 n. 62: "Aristotelian ethics is an ethics of alief, whereas Kantian ethics is an ethics of belief." The note is attached to her quotation of Aristotle on forming habits "from our very youth" (NE 1103–04), so it bears on habituation rather than on the enkratic agent (correction by the 2026-10-21 deep review).
 - **Tenet alignment**: Neutral. Gendler is physicalist-leaning, and her "conscious" is a functional term.
 
 ### Gendler, T. S. (2008b). "Alief in Action (and Reaction)." *Mind & Language* 23(5): 552–585 [V-abs; body LEAD]
