@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T17:03:24+00:00
+ai_modified: 2026-10-21T17:34:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:34 - research-topic
+- **Status**: Success (verdict: write; recommended_action article, topics/protocol-analysis)
+- **Topic**: Protocol analysis and verbal reports as data (Ericsson & Simon)
+- **Output**: [[research/protocol-analysis-and-verbal-reports-as-data-2026-10-21]]
+- **Sources consulted**: 24 (Ericsson & Simon 1980 read in full from scan; 12 abstracts verified via OpenAlex; Crossref metadata for all; SEP Introspection grepped)
 
 ## 17:04 - positions-evolve
 - **Status**: Success (update; P-MS1 source-reading corrections from the 16:31 deep review's leads)
