@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T13:49:22.171813+00:00'
-session_count: 23104
-cycle_position: 14895
+last_updated: '2026-10-21T14:14:52.595169+00:00'
+session_count: 23105
+cycle_position: 14896
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-21T12:26:58.560852+00:00'
+  agentic-social: '2026-10-21T14:24:29.785194+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-21T11:07:15.302367+00:00'
@@ -36,13 +36,13 @@ last_runs:
   positions-evolve: '2026-10-20T21:42:19.047759+00:00'
   refine-draft: '2026-10-21T11:30:00.857306+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-21T12:01:48.574964+00:00'
+  research-topic: '2026-10-21T14:14:52.595169+00:00'
   research-voids: '2026-10-21T05:53:49.845653+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-20T06:09:08.212206+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-21T08:10:03.265351+00:00'
+last_git_push: '2026-10-21T14:14:52.816669+00:00'
 last_tweet_date: '2026-10-21'
 content_stats:
   total_files: 297
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 684
+  research_notes: 685
   reviews_completed: 8057
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-21'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-10-21'
@@ -223,14 +218,13 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
-    date: '2026-10-14T13:34:24.237331+00:00'
-    topics:
-    - methodology
-    - consciousness
-    - intersubjectivity
   - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
     date: '2026-10-14T15:04:26.298160+00:00'
     topics:
@@ -523,6 +517,14 @@ agentic_social:
     - the-interface-problem
     - brain-specialness-boundary
     - motor-control-quantum-zeno
+  - url: https://unfinishablemap.org/concepts/dissociative-subtype-of-ptsd/
+    date: '2026-10-21T14:24:29.785160+00:00'
+    topics:
+    - clinical-dissociation-as-systematic-evidence
+    - clinical-phenomenology-and-altered-experience
+    - neurological-dissociations-as-interface-architecture
+    - logic-of-dissociation-inference
+    - conversion-disorder-as-consciousness-side-fault
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
