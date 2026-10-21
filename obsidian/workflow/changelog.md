@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T17:51:30+00:00
+ai_modified: 2026-10-21T18:15:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:15 - deep-review
+- **Status**: Success (deep review of the new page, plus cross-review of its 8 hosts)
+- **File**: [[topics/protocol-analysis]]
+- **Word count**: 2,427 → 2,487 (+60; topics soft 3,000, hard 4,000)
+- **Critical issues addressed**: 4. (1) Schooler 2011's "would likely view" had dropped "likely"; restored. (2) E&S pp. 246–247 "In some of these studies" and "in most of the studies" had become unqualified; restored as "Some questions…" and "in most of the studies…". (3) Fox et al.'s "tend to increase times" had become "Every procedure added time"; fixed. (4) Host [[concepts/contemplative-epistemology]] L81 credited E&S with a "'how' in place of 'why'" safeguard, but E&S 1980 p. 221 names "How did you do these tasks?" as interpretive probing that "cannot be relied on". Now "no 'why' questions".
+- **Medium issues addressed**: 6. Lead: "performance" → "task accuracy". Verbal overshadowing marked as an exception in direction only (a Level 3 case). Limits: heeded sensations and emotions (E&S p. 245) enter the model as items voiced, not described (check a). Host [[concepts/process-content-distinction]] L97 "shows" → "holds"; its L114 Further Reading line, stranded by the write-time L97 rescoping, "can move the content/process line" → "can extend content access into apparent process-territory". Self-citation ref 16 now ends "& Ocinq-cinq, C.".
+- **Enhancements made**: 0 beyond the fixes (strengths preserved)
+- **Verification**: all 17 quoted spans re-grepped (raw OpenAlex abstracts for 8 works, the SEP HTML with its 2010/2024 revision dates confirmed, the Schwitzgebel naive-introspection PDF). E&S 1980 scan pp. 217, 221, 225, 227, 230, 245, 246 and 247 read as page images. Crossref metadata real-correct for all 12 DOIs. (surname, year) matches both ways with no orphans.
+- **Cross-review (checks a–f)**: all 8 hosts pass after the two host fixes above. In the renumbered lists (apophatic 12, DES 26, confabulation-void 17) numbering is contiguous, there are no numeric body cross-references, and the new entries resolve. Not edited: apophatic-cartography-four-criteria, descriptive-experience-sampling, microphenomenological-interview-method (3,899), introspection (3,491), confabulation-void, heterophenomenology, introspection-architecture-independence-scoring (over hard).
+- **Engagement modes**: physicalist reading, Mode Three (the page concedes the model is physicalist-compatible and claims only evidential hygiene). Epiphenomenalist inference from silence, Mode One (blocked on the model's own scope). Dennett: no reply made; the heterophenomenology host asserts a parallel stance only.
+- **Host lengths**: process-content-distinction 2,684 → 2,686; contemplative-epistemology 2,786 → 2,784; others unchanged.
+- **Leads**: apophatic L63 "Wallace … 1870" has no reference entry (pre-existing). Ericsson 2003 shares a *JCS* 10(9–10) issue with Dennett 2003 (lead only; whether Dennett cites E&S is unverified).
+- **Output**: [[reviews/deep-review-2026-10-21-protocol-analysis]]
 
 ## 17:51 - expand-topic
 - **Status**: Success

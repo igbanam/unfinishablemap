@@ -4,7 +4,8 @@ description: "Ericsson and Simon's protocol analysis: which verbal reports are v
 created: 2026-10-21
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T17:44:13+00:00
+ai_modified: 2026-10-21T18:15:46+00:00
+last_deep_review: 2026-10-21T18:15:46+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -30,7 +31,7 @@ last_curated:
 
 **Protocol analysis** treats what people say while working on a task as data, to be explained by a model of how the words were produced. On the model K. Anders Ericsson and Herbert A. Simon proposed (1980; book 1984, revised 1993), a verbal report is a valid trace of thought when subjects voice information they are already attending to. It fails when the question asks for something never attended to, such as a reason, an explanation or a generalisation, because the subject must then infer instead of remember. On this account the inaccurate reports Nisbett and Wilson assembled in 1977 come from delayed, general and "why" probes, not from verbal report as such. Their reply relocates the *cause* of those failures to procedure. It does not move the [[process-content-distinction|content/process line]]: subjects report what they attended to, and the analyst infers the process.
 
-The method's central prediction, that thinking aloud leaves performance unchanged, is well supported by a 2011 meta-analysis of 94 studies, with domain-limited exceptions; whether thinking aloud is introspection is disputed. "Content" here means information held in short-term memory during a task, not phenomenal character, so the method is neutral between dualism and physicalism and silent on reports of what experience is like. Its value for The Unfinishable Map is precision about which first-person reports carry evidential weight, and why.
+The method's central prediction, that thinking aloud leaves task accuracy unchanged, is well supported by a 2011 meta-analysis of 94 studies, with domain-limited exceptions; whether thinking aloud is introspection is disputed. "Content" here means information held in short-term memory during a task, not phenomenal character, so the method is neutral between dualism and physicalism and silent on reports of what experience is like. Its value for The Unfinishable Map is precision about which first-person reports carry evidential weight, and why.
 
 ## The Model: Reports With a Mechanism {#model}
 
@@ -60,7 +61,7 @@ Nisbett and Wilson (1977) argued that people often cannot report accurately on w
 
 **Scope.** Nisbett and Wilson, they complain, proposed no definite model and rested their interpretations on an undefined distinction between access to "content" and access to "process" (p. 245). Yet their own list of what people do know (the focus of attention, current sensations, emotions, evaluations, plans, and the intermediate results of mental operations) is exactly what the STM model makes reportable. One item is missing, awareness of ongoing processes, and any real disagreement lies there (p. 245).
 
-**Procedure.** Three differences separate the reviewed studies from the procedures the model recommends (pp. 246–247). The questions supplied enough background for subjects to answer from general theory, as when subjects told they had taken more shock than average were asked why. Many probes sought information never in memory: comparisons with other conditions, hypothetical cases, generalisations across trials. And the lag between process and probe was long. In the abstract's words: "The inaccurate reports found by other research are shown to result from requesting information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes."
+**Procedure.** Three differences separate the reviewed studies from the procedures the model recommends (pp. 246–247). Some questions supplied enough background for subjects to answer from general theory, as when subjects told they had taken more shock than average were asked why. Many probes sought information never in memory: comparisons with other conditions, hypothetical cases, generalisations across trials. And in most of the studies the lag between process and probe was long. In the abstract's words: "The inaccurate reports found by other research are shown to result from requesting information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes."
 
 **Conclusion.** Every inconsistency Nisbett and Wilson cite, Ericsson and Simon argue, arises where the model predicts no veridical report, so verbal reports should no longer be dismissed as "introspection" (p. 247). That is their reading of the literature, not an independent finding.
 
@@ -89,17 +90,17 @@ Did Ericsson and Simon refute Nisbett and Wilson, then? White's verdict is the f
 
 ## Reactivity: The 2011 Meta-Analysis and Its Exceptions {#reactivity}
 
-Fox, Ericsson and Best (2011) tested the level predictions in a meta-analysis of 94 studies with nearly 3,500 participants. The "think-aloud" effect size "is indistinguishable from zero (r = -.03)", even after controlling for task type, while "procedures that entail describing or explaining thoughts and actions are significantly reactive, leading to higher performance than silent control conditions." Every procedure added time. The outcome measured was task accuracy, not report validity.
+Fox, Ericsson and Best (2011) tested the level predictions in a meta-analysis of 94 studies with nearly 3,500 participants. The "think-aloud" effect size "is indistinguishable from zero (r = -.03)", even after controlling for task type, while "procedures that entail describing or explaining thoughts and actions are significantly reactive, leading to higher performance than silent control conditions." All reporting procedures tended to add time. The outcome measured was task accuracy, not report validity.
 
 The exceptions cluster where processing is non-verbal or depends on insight:
 
 - **Insight.** Schooler, Ohlsson and Brooks (1993) found that "concurrent, nondirective verbalization impaired the solving of insight problems but had no effect on noninsight problems", the strongest exception at Levels 1–2.
 - **Age.** Fox and Charness (2010), Fox being the meta-analysis's first author, found that thinking aloud *raised* older adults' scores on Raven's Matrices (d = 0.73 and 0.92 in two experiments), a reactive effect where the model predicts none.
-- **Verbal overshadowing.** Describing a robber impaired later lineup identification in a registered replication, robustly but with strong dependence on task timing (Alogna et al. 2014). This is directed description after the event, a Level 3 procedure.
+- **Verbal overshadowing.** Describing a robber impaired later lineup identification in a registered replication, robustly but with strong dependence on task timing (Alogna et al. 2014). This is directed description after the event, a Level 3 procedure, so the model expects reactivity; it is an exception in direction, since the meta-analysis found that describing raised performance.
 
 ## Is Thinking Aloud Introspection? {#introspection-dispute}
 
-The meta-analysis provoked a dispute that remains open. Schooler (2011), broadly sympathetic, suggested that William James would have seen thinking aloud as "a scientifically rigorous form of introspection", while noting that it "is less able to capture inchoate cognitions." Ericsson and Fox (2011) replied that "Thinking aloud is not a form of introspection but a qualitatively different methodology": it "involves only focusing on a challenging task while concurrently giving verbal expression to thoughts entering attention", requiring neither inner observation nor generated descriptions or explanations.
+The meta-analysis provoked a dispute that remains open. Schooler (2011), broadly sympathetic, suggested that William James would likely have seen thinking aloud as "a scientifically rigorous form of introspection", while noting that it "is less able to capture inchoate cognitions." Ericsson and Fox (2011) replied that "Thinking aloud is not a form of introspection but a qualitatively different methodology": it "involves only focusing on a challenging task while concurrently giving verbal expression to thoughts entering attention", requiring neither inner observation nor generated descriptions or explanations.
 
 Schwitzgebel's *Stanford Encyclopedia* entry on introspection discusses the protocols among introspective methods. It takes their convergence with eye movements and response latencies as support for the view that "people’s reports about their stream of thoughts often accurately reflect those thoughts", then turns at once to counter-evidence.
 
@@ -107,7 +108,7 @@ The Map does not settle the classification. On either answer, what the method vi
 
 ## What Protocol Analysis Does Not License {#limits}
 
-*Content* has two senses that must be kept apart. Ericsson and Simon's content is information: the symbols, operands and intermediate results held in STM. Discussions of introspection, the Map's included, often use *content* for phenomenal character. Protocol analysis validates reports in the first sense only. It therefore neither rebuts nor is threatened by Schwitzgebel's (2011) catalogue of introspective failure (whether people dream in colour, the character of peripheral vision, the structure of inner speech), which concerns the character of experience. Its blind spots are real as well: thinking aloud captures inchoate, non-verbal cognition poorly and can disrupt insight.
+*Content* has two senses that must be kept apart. Ericsson and Simon's content is information: the symbols, operands and intermediate results held in STM. Even the current sensations and emotions they accept as reportable (p. 245) enter the model as heeded items to be voiced, not as descriptions of what they are like. Discussions of introspection, the Map's included, often use *content* for phenomenal character. Protocol analysis validates reports in the first sense only. It therefore neither rebuts nor is threatened by Schwitzgebel's (2011) catalogue of introspective failure (whether people dream in colour, the character of peripheral vision, the structure of inner speech), which concerns the character of experience. Its blind spots are real as well: thinking aloud captures inchoate, non-verbal cognition poorly and can disrupt insight.
 
 ## Relation to Site Perspective
 
@@ -143,4 +144,4 @@ The Map does not settle the classification. On either answer, what the method vi
 13. Smith, E. R., & Miller, F. D. (1978). Limits on perception of cognitive processes: A reply to Nisbett and Wilson. *Psychological Review*, 85(4), 355–362. https://doi.org/10.1037/0033-295X.85.4.355
 14. White, P. A. (1988). Knowing more about what we can tell: 'Introspective access' and causal report accuracy 10 years later. *British Journal of Psychology*, 79(1), 13–45. https://doi.org/10.1111/j.2044-8295.1988.tb02271.x
 15. Wilson, T. D., & Schooler, J. W. (1991). Thinking too much: Introspection can reduce the quality of preferences and decisions. *Journal of Personality and Social Psychology*, 60(2), 181–192. https://doi.org/10.1037/0022-3514.60.2.181
-16. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-19). The Process/Content Distinction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/process-content-distinction/
+16. Southgate, A., Oquatre-sept, C., Ocinq, C., & Ocinq-cinq, C. (2026-05-19). The Process/Content Distinction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/process-content-distinction/

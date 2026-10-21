@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-21 17:48:22+00:00
+ai_modified: 2026-10-21 18:15:46+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:54:03+00:00
-lastmod: 2026-10-21 17:48:22+00:00
+lastmod: 2026-10-21 18:15:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Claire Petitmengin's microphenomenology (Petitmengin 2006) provides specific pro
 - **Re-enactment** engages experiential recall rather than abstract summary
 - **Process description** asks "how did this unfold?" rather than "why did this happen?"
 
-These techniques target known failure modes. Ericsson and Simon (1980) traced inaccurate verbal reports to requests for "information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes": "why" questions, generalisations across trials, and probes long after the episode (see [protocol-analysis](/topics/protocol-analysis/)). Microphenomenology shares two of their safeguards, a specific episode and "how" in place of "why". Its reports nonetheless remain retrospective, sometimes of a distant moment, so evocation disciplines reconstruction error without removing it.
+These techniques target known failure modes. Ericsson and Simon (1980) traced inaccurate verbal reports to requests for "information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes": "why" questions, generalisations across trials, and probes long after the episode (see [protocol-analysis](/topics/protocol-analysis/)). Microphenomenology shares two of their safeguards, a specific episode and no "why" questions. Its reports nonetheless remain retrospective, sometimes of a distant moment, so evocation disciplines reconstruction error without removing it.
 
 ### Cross-Modal Verification
 

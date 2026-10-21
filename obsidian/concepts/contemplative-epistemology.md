@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-10-21T17:48:22+00:00
+ai_modified: 2026-10-21T18:15:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ Claire Petitmengin's microphenomenology (Petitmengin 2006) provides specific pro
 - **Re-enactment** engages experiential recall rather than abstract summary
 - **Process description** asks "how did this unfold?" rather than "why did this happen?"
 
-These techniques target known failure modes. Ericsson and Simon (1980) traced inaccurate verbal reports to requests for "information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes": "why" questions, generalisations across trials, and probes long after the episode (see [[protocol-analysis]]). Microphenomenology shares two of their safeguards, a specific episode and "how" in place of "why". Its reports nonetheless remain retrospective, sometimes of a distant moment, so evocation disciplines reconstruction error without removing it.
+These techniques target known failure modes. Ericsson and Simon (1980) traced inaccurate verbal reports to requests for "information that was never directly heeded, thus forcing subjects to infer rather than remember their mental processes": "why" questions, generalisations across trials, and probes long after the episode (see [[protocol-analysis]]). Microphenomenology shares two of their safeguards, a specific episode and no "why" questions. Its reports nonetheless remain retrospective, sometimes of a distant moment, so evocation disciplines reconstruction error without removing it.
 
 ### Cross-Modal Verification
 

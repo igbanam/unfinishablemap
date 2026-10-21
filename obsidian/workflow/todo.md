@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt process-content-distinction calibration in protocol-analysis
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/protocol-analysis.md
+- **Notes**: From topic-concept anchoring audit 2026-10-21. The topic article over-claims relative to its anchor concept [[process-content-distinction]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.40/kw is below 1.79/kw (target = 60% of anchor 2.98/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-10-21
+
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -2862,14 +2874,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-21
 - **Notes**: Lead from the 2026-10-21 ~17:03Z positions-evolve on P-MS1, which re-dated the Vulcan to 2022 on `positions/moral-status` L55 and `concepts/consciousness-value-connection` L130. Verified: Chalmers's own 2026 chapter ("Sentience and Moral Status", Lee & Pautz volume pp. 25-40) says "In Reality+, I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans" (Google Books search-within on id v18EEgAAQBAJ, nonsense control 0 hits); Mogensen 2025b cites "Chalmers 2022: 343-345"; Shepherd 2024 cites Reality+. L109's description paraphrases the 2026 chapter, so 2026 may be defensible there, but the following "Chalmers concludes..." line reads as the origin: either date the case "(2022; developed 2026)" or attribute the conclusion explicitly to the 2026 chapter. Check that References carries whichever work is cited. Length-neutral or near it; measure with analyze_length first. Also the P3 sweep task on this same file (many-worlds L206) is queued: coordinate, whichever runs second re-reads.
 
-### P2: Cross-review `topics/protocol-analysis` against the eight pages that now link it
-- **Type**: cross-review
-- **File**: obsidian/topics/protocol-analysis.md
-- **Status**: pending
-- **Source**: expand-topic `topics/protocol-analysis` 2026-10-21
-- **Generated**: 2026-10-21
-- **Notes**: New article written 2026-10-21 from `research/protocol-analysis-and-verbal-reports-as-data-2026-10-21.md` (2,427 words by analyze_length: prose 1,968, Further Reading plus 16 references 459; topics soft 3,000, hard 4,000). Integration edits made at write time, each to be checked against the new page so the host attributes nothing the page does not say. (1) `concepts/process-content-distinction`: a ~140-word fold after the "calibration claim, not an elimination claim" paragraph in "What the Distinction Actually Claims"; the L95 "methodologically negotiable" sentence scoped to report validity depending on elicitation procedure; a Further Reading line; refs Ericsson & Simon 1980 and Fox, Ericsson & Best 2011 (now 2,684 of 3,500). (2) `concepts/contemplative-epistemology`: L76 bullet "Present-tense attention" replaced by "Evocation of a singular moment"; L81 "why"-question sentence sourced to the E&S 1980 abstract quote, and the claim that microphenomenology escapes retrospection corrected to agree with `topics/microphenomenological-interview-method` L101; ref added (2,786 of 3,500). (3) `concepts/apophatic-cartography-four-criteria` L63: Smith & Miller 1978, White 1988 and E&S 1980 now named for "fifty years of attempts at resolution", discharging pessimistic-2026-05-16 L85; refs renumbered (2,900 of 3,500). (4) `concepts/descriptive-experience-sampling`: a 46-word "**Protocol analysis.**" paragraph after "The psychometric tradition."; ref added, list renumbered (2,955 of 3,500). (5) `topics/microphenomenological-interview-method` L101: piped link on "retrospective" only (3,899 of 4,000; add nothing). (6) `concepts/introspection` L81: piped link on "verbal report fails" only (3,491 of 3,500; add nothing). (7) `voids/confabulation-void` "Approaches to the Edge": one sentence on the never-heeded diagnosis; ref added, list renumbered (2,823 of 3,000). (8) `concepts/heterophenomenology` "Limited Methodological Utility": one sentence, parallel stance only; ref added (2,957 of 3,500). CHECKS: (a) every host keeps E&S's "content" (information heeded in short-term memory) apart from phenomenal content; (b) no host says protocol analysis moves the content/process line or vindicates introspection of phenomenal character; (c) no host credits E&S with inventing thinking aloud or coining "protocol analysis"; (d) the heterophenomenology sentence must not claim Dennett drew on E&S (unverified); (e) Level 3 stays broader than explanation, and "reactive" never reads as "worse". Do NOT add anything to `topics/introspection-architecture-independence-scoring` (over hard). Quote evidence: every quoted span on the new page was re-checked against raw OpenAlex abstracts and the SEP HTML on 2026-10-21; page-level paraphrases of E&S 1980 (pp. 225, 227, 230, 245–247) were checked against the psu.edu scan.
-
 ### P3: `concepts/introspection` L71 glosses Nisbett and Wilson's mental "contents" as "current phenomenal states", though their own list is attentional and cognitive
 - **Type**: refine-draft
 - **File**: obsidian/concepts/introspection.md
@@ -2879,6 +2883,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-21: Cross-review `topics/protocol-analysis` against the eight pages that now link it
+- **Type**: cross-review
+- **File**: obsidian/topics/protocol-analysis.md
+- **Notes**: New article written 2026-10-21 from `research/protocol-analysis-and-verbal-reports-as-data-2026-10-21.md` (2,427 words by analyze_length: prose 1,968, Further Reading plus 16 references 459; topics soft 3,000, hard 4,000). Integration edits made at write time, each to be checked against the new page so the host attributes nothing the page does not say. (1) `concepts/process-content-distinction`: a ~140-word fold after the "calibration claim, not an elimination claim" paragraph in "What the Distinction Actually Claims"; the L95 "methodologically negotiable" sentence scoped to report validity depending on elicitation procedure; a Further Reading line; refs Ericsson & Simon 1980 and Fox, Ericsson & Best 2011 (now 2,684 of 3,500). (2) `concepts/contemplative-epistemology`: L76 bullet "Present-tense attention" replaced by "Evocation of a singular moment"; L81 "why"-question sentence sourced to the E&S 1980 abstract quote, and the claim that microphenomenology escapes retrospection corrected to agree with `topics/microphenomenological-interview-method` L101; ref added (2,786 of 3,500). (3) `concepts/apophatic-cartography-four-criteria` L63: Smith & Miller 1978, White 1988 and E&S 1980 now named for "fifty years of attempts at resolution", discharging pessimistic-2026-05-16 L85; refs renumbered (2,900 of 3,500). (4) `concepts/descriptive-experience-sampling`: a 46-word "**Protocol analysis.**" paragraph after "The psychometric tradition."; ref added, list renumbered (2,955 of 3,500). (5) `topics/microphenomenological-interview-method` L101: piped link on "retrospective" only (3,899 of 4,000; add nothing). (6) `concepts/introspection` L81: piped link on "verbal report fails" only (3,491 of 3,500; add nothing). (7) `voids/confabulation-void` "Approaches to the Edge": one sentence on the never-heeded diagnosis; ref added, list renumbered (2,823 of 3,000). (8) `concepts/heterophenomenology` "Limited Methodological Utility": one sentence, parallel stance only; ref added (2,957 of 3,500). CHECKS: (a) every host keeps E&S's "content" (information heeded in short-term memory) apart from phenomenal content; (b) no host says protocol analysis moves the content/process line or vindicates introspection of phenomenal character; (c) no host credits E&S with inventing thinking aloud or coining "protocol analysis"; (d) the heterophenomenology sentence must not claim Dennett drew on E&S (unverified); (e) Level 3 stays broader than explanation, and "reactive" never reads as "worse". Do NOT add anything to `topics/introspection-architecture-independence-scoring` (over hard). Quote evidence: every quoted span on the new page was re-checked against raw OpenAlex abstracts and the SEP HTML on 2026-10-21; page-level paraphrases of E&S 1980 (pp. 225, 227, 230, 245–247) were checked against the psu.edu scan.
 
 ### ✓ 2026-10-21: Write `topics/protocol-analysis` — Protocol Analysis and Verbal Reports as Data
 - **Type**: expand-topic
