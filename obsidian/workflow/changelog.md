@@ -5,6 +5,17 @@ ai_modified: 2026-10-21T10:11:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 10:56 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]
+- **Word count**: 2077 → 2487 by analyze_length (+410; concepts soft 2500, hard 3500; prose 2229, apparatus 260)
+- **Critical issues addressed**: 7. (1) Davidson was said to deny any psychophysical law; he denies only *strict* ones and allows rough heteronomic generalizations (raw "Mental Events") and hedged laws (SEP on Davidson 1993). Fixed in the lead, "Where they split", Tenet 2 and the description. (2) The Map was said to agree "with Davidson" about *experience*, though anomalous monism "does not address ... pains, tickles and the like" (SEP); a scope paragraph was added. (3) "biases the probabilities" became the P-Q2 corridor. (4) "first pressed by Honderich" became "pressed early" (SEP lists Stoutland 1980 first). (5) Honderich's pears move "the pointer to the two-pound mark" per his own text, not "one pound". (6) McLaughlin's "elsewhere" claim was replaced by the hedged-law defence in the same 1989 paper. (7) The unverifiable quote-marked "cross-classify" was replaced with Davidson's verified "disparate commitments" sentence.
+- **Medium issues addressed**: 7. Davidson's 1993 hedged-law and supervenience points; Honderich's own dilemma, with the Map taking the first horn; the Map's position in terms of Davidson's triad (gives up principle 2 for interface causation); Tenet 3 "precisely to satisfy it" made conditional; Yalowitz orphan reference now cited; Kim 1993 and Sosa 1993 references added; style fixes.
+- **Enhancements made**: 4
+- **Engagement**: Davidson: Mode One dominant (Honderich's in-physicalism dilemma; Kim 1993 on hedged laws) with declared Mode Three residue (Tenet 1).
+- **Output**: [[reviews/deep-review-2026-10-21-anomalous-monism-and-the-denial-of-strict-psychophysical-laws]]
+- **Published**: yes (synced; Hugo copy confirmed)
+
 ## 10:11 - refine-draft
 - **Status**: Success
 - **File**: [[topics/causal-closure-debate-historical-survey]]

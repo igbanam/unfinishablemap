@@ -2798,6 +2798,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-21
 - **Notes**: Leads from the 2026-10-21 ~10:09Z refine of `topics/causal-closure-debate-historical-survey` L99 (third of today's Montero fixes, after `concepts/intrinsic-nature` and `concepts/causal-closure` L108). In the research note: L102 "Once the explanatory gap is accepted, the main argument for ontological physicalism (from causation) loses force" and L145 "The explanatory gap undermines the motivation for accepting causal closure (Montero)": "explanatory gap" has 0 hits in the newdualism.org copy of Montero 2003 (`Varieties-of-Causal-Closure.htm`; browser User-Agent + Accept header). It may come from the published chapter's abstract: check the publisher abstract before deciding; if unsupported, annotate as unverified rather than delete. L101 "Lack of evidence for fundamentally mental causes does not amount to evidence against them" states as fact what she only doubts ("it is not clear that lack of evidence ... amounts to evidence"): restore her hedge. Research notes are not length-gated; annotate in place, preserving history. Sweep note: no other live article pairs Montero with Hempel/vacuity/circularity after today's three fixes.
 
+### P3: Three pages say Davidson denied *any* psychophysical laws; he denied only *strict* ones (fixed on the anomalous-monism concept page 2026-10-21)
+- **Type**: refine-draft
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Source**: deep-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/deep-review-2026-10-21-anomalous-monism-and-the-denial-of-strict-psychophysical-laws.md`
+- **Notes**: Leads from the 2026-10-21 ~10:52Z deep review of `concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws`, which corrected the page to Davidson's actual claim: "Mental Events" allows "rough heteronomic generalizations, which are lawlike", and SEP records that "Thinking Causes" (1993) allows *ceteris paribus* psychophysical laws; only STRICT psychophysical laws are denied. Propagate: (a) `topics/philosophy-of-action-under-dualism` L45 "and denied any psychophysical laws" -> "and denied strict psychophysical laws" (+1; 2,805 vs topics hard 4,000). (b) Secondary file `concepts/supervenience` L131 Further Reading label "but rejects its no-law verdict" -> re-label to match the corrected page (e.g. "but rejects its no-strict-law verdict"), near zero words (2,340 vs 3,500). (c) Secondary file `concepts/type-token-causation` L159 label "applied to Davidson's lawless mental" -> "...Davidson's strictly lawless mental" or equivalent (3,172 vs 3,500). Labels are navigation surfaces carrying claims: fix the LABEL wording. Read the corrected concept page's lead first and match its wording.
+
 ## Completed Tasks
 
 

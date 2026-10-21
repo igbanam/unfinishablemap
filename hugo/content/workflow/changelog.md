@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 09:55:12+00:00
+ai_modified: 2026-10-21 10:11:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 09:55:12+00:00
+lastmod: 2026-10-21 10:11:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:56 - deep-review
+- **Status**: Success
+- **File**: [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/)
+- **Word count**: 2077 → 2487 by analyze_length (+410; concepts soft 2500, hard 3500; prose 2229, apparatus 260)
+- **Critical issues addressed**: 7. (1) Davidson was said to deny any psychophysical law; he denies only *strict* ones and allows rough heteronomic generalizations (raw "Mental Events") and hedged laws (SEP on Davidson 1993). Fixed in the lead, "Where they split", Tenet 2 and the description. (2) The Map was said to agree "with Davidson" about *experience*, though anomalous monism "does not address ... pains, tickles and the like" (SEP); a scope paragraph was added. (3) "biases the probabilities" became the [P-Q2](/positions/quantum-interface/#p-q2) corridor. (4) "first pressed by Honderich" became "pressed early" (SEP lists Stoutland 1980 first). (5) Honderich's pears move "the pointer to the two-pound mark" per his own text, not "one pound". (6) McLaughlin's "elsewhere" claim was replaced by the hedged-law defence in the same 1989 paper. (7) The unverifiable quote-marked "cross-classify" was replaced with Davidson's verified "disparate commitments" sentence.
+- **Medium issues addressed**: 7. Davidson's 1993 hedged-law and supervenience points; Honderich's own dilemma, with the Map taking the first horn; the Map's position in terms of Davidson's triad (gives up principle 2 for interface causation); Tenet 3 "precisely to satisfy it" made conditional; Yalowitz orphan reference now cited; Kim 1993 and Sosa 1993 references added; style fixes.
+- **Enhancements made**: 4
+- **Engagement**: Davidson: Mode One dominant (Honderich's in-physicalism dilemma; Kim 1993 on hedged laws) with declared Mode Three residue (Tenet 1).
+- **Output**: [deep-review-2026-10-21-anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/reviews/deep-review-2026-10-21-anomalous-monism-and-the-denial-of-strict-psychophysical-laws/)
+- **Published**: yes (synced; Hugo copy confirmed)
+
+## 10:11 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Task**: P2 lead from the 07:50Z P1 refine of [intrinsic-nature](/concepts/intrinsic-nature/): L99 credited Montero (2003) with pressing Hempel's dilemma against closure (current physics: false; completed physics: "empty") and with the verdict that "no available definition of 'physical' supports causal closure without either circularity or vacuity".
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Montero verification**: newdualism.org copy (`papers/B.Montero/Varieties-of-Causal-Closure.htm`, browser UA + Accept header, HTTP 200), every quoted string grepped verbatim (1 hit each): "Science can be as successful as you like and CC could still be false."; "the fundamentally nonmental" (her "only useful notion of the physical" for the mind-body problem); "a theory we cannot defend" / "impossibly vague", said of physicalism; fn 25 "this dilemma, alone, is not fatal to definitions of the physical in terms of physics"; the physiological argument stated over current physiology can "still escape this horn"; "does physiology actually provide strong evidence for the causal closure of the fundamentally nonmental? And here I think the answer is not entirely clear". "circular"/"vacuity" occur 0 times; her one "vacuous" concerns quantum events. The closure application of the dilemma is Gillett and Witmer's, as she reports them ("a similar problem arises for the physiological argument for physicalism"). Gillett & Witmer (2001) verified at Crossref: *Analysis* 61(4), 302–309, doi:10.1093/analys/61.4.302.
+- **Changes**: L99 only, plus references. First sentence (credit for distinguishing CC/SCC/TCC) kept. The Hempel-on-closure horns and the "circularity or vacuity" verdict became her actual argument: over whatever physics will account for, closure no longer tells against dualism; over "the fundamentally nonmental", a completable physics does not imply closure (quote). Hempel's dilemma is scoped to physicalism with her phrases and her "not fatal on its own" (matching causal-closure L108 and intrinsic-nature L63–L65). Gillett and Witmer (2001) credited with turning it on Papineau's physiological argument; her reply (current physiology escapes the first horn) and her "not entirely clear" verdict added. Added ref 4 Gillett & Witmer (2001); refs renumbered 4–19 (no numeric in-body citations exist).
+- **Length**: 3463 → 3538 by analyze_length (topics hard 4000). Paragraph 80 → 136 words, reference +19.
+- **Lead, not fixed (research note)**: [causal-closure-debate-2026-03-19](/research/causal-closure-debate-2026-03-19/) L102 "Once the explanatory gap is accepted, the main argument for ontological physicalism (from causation) loses force" and L145 "The explanatory gap undermines the motivation for accepting causal closure (Montero)": "explanatory gap" occurs 0 times in the newdualism copy (may come from the published chapter's abstract; unverified). L101 "Lack of evidence for fundamentally mental causes does not amount to evidence against them" firms up her "it is not clear that lack of evidence ... amounts to evidence".
+- **Published**: yes (synced; Hugo copy confirmed)
 
 ## 09:55 - refine-draft
 - **Status**: Success
