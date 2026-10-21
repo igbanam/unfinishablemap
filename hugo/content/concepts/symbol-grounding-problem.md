@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-10-11 12:46:52+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-21 15:10:21+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/symbol-grounding-problem/
@@ -17,14 +17,14 @@ concepts:
 - '[[continual-learning-argument]]'
 - '[[qualia]]'
 created: 2026-01-30
-date: &id001 2026-10-11
+date: &id001 2026-10-21
 description: How symbols acquire meaning intrinsic to a system rather than parasitic
   on human interpretation. The problem reveals limits of purely computational accounts.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 04:18:28+00:00
-lastmod: 2026-10-11 12:46:52+00:00
+lastmod: 2026-10-21 15:10:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,6 +154,7 @@ The symbol grounding problem connects to all five tenets:
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Why static systems cannot be conscious (and thus lack thick grounding)
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI consciousness remains unlikely
 - [llm-consciousness](/concepts/llm-consciousness/) — Large language models and the question of understanding
+- [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) — Mental files, LLM entity representations and the thinker condition
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap meaning inherits
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information cannot generate intrinsic meaning

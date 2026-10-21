@@ -2,9 +2,9 @@
 title: "Phenomenal Acquaintance"
 description: "Phenomenal acquaintance—the direct, non-inferential relation between consciousness and its own qualities—grounds the distinctive knowledge that no third-person description can replicate."
 created: 2026-02-09
-modified: 2026-04-21
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-19T11:34:17+00:00
+ai_modified: 2026-10-21T15:09:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Russell's 1910 paper "Knowledge by Acquaintance and Knowledge by Description" dr
 
 **Knowledge by acquaintance** is direct presentation. You are acquainted with your current visual field, with warmth on your skin, with the taste in your mouth. The object is simply *there* for you—no inference, description, or concept intervenes.
 
-**Knowledge by description** operates through propositions. You know that Paris is the capital of France, that water is H₂O, that pain involves C-fibre activation. Russell's descriptive case is knowing an object as "the so-and-so"—as the unique satisfier of some property—which is how he thought we reach particulars we never encounter: Bismarck, or the man in the iron mask. Descriptive knowledge is communicable and mediated, reaching its object through properties the object satisfies rather than by presenting the object itself.
+**Knowledge by description** operates through propositions. You know that Paris is the capital of France, that water is H₂O, that pain involves C-fibre activation. Russell's descriptive case is knowing an object as "the so-and-so"—as the unique satisfier of some property—which is how he thought we reach particulars we never encounter: Bismarck, or the man in the iron mask. Because he also required acquaintance with every constituent of a proposition we understand, even our thoughts about such particulars were descriptive, the claim at the root of the debate over [[singular-thought-and-acquaintance|singular thought]]. Descriptive knowledge is communicable and mediated, reaching its object through properties the object satisfies rather than by presenting the object itself.
 
 Russell treated acquaintance as [[epistemology|epistemically]] foundational: we could not possess concepts like RED without having been acquainted with instances of redness. Descriptions point beyond themselves to what is encountered directly. The Map develops a metaphysical descendant of Russell's epistemological split—the [[constitutive-vs-referring-observation|constitutive vs referring observation]] distinction, which carries the dialectical work against introspection-scepticism that Russell's distinction alone cannot.
 

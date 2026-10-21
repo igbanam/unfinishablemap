@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-10-14 11:14:37+00:00
+ai_modified: 2026-10-21 15:10:21+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[phenomenal-acquaintance]]'
 - '[[concepts/many-worlds]]'
 created: 2026-01-27
-date: &id001 2026-02-13
+date: &id001 2026-10-21
 description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to impersonal
   description, grounding personal identity, and central to consciousness and the vertiginous
   question.
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 20:39:01+00:00
-lastmod: 2026-10-14 11:14:37+00:00
+lastmod: 2026-10-21 15:10:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -170,6 +170,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 - [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's metaphysical answer: only my experiences bear the monadic property of presence
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Direct experiential contact underlying phenomenal indexical knowledge
+- [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) — *De re* thought about particulars, as distinct from *de se* knowledge
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity poses problems for branching interpretations

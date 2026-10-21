@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-08-12 14:16:44+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-21 15:10:08+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[dualism]]'
 created: 2026-04-04
-date: &id001 2026-04-04
+date: &id001 2026-10-21
 description: If consciousness is irreducible to physics, linguistic meaning cannot
   be exhausted by syntax or function. Dualism reframes semantics, reference, and the
   limits of expression.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 22:18:10+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-10-21 15:10:08+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -99,7 +99,7 @@ If the zombie scenario reveals that functional meaning and phenomenal meaning ar
 
 The Map argues that it does, for three reasons.
 
-**Intentionality requires a subject.** [Intentionality](/concepts/intentionality/)—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. This is the [symbol-grounding-problem](/concepts/symbol-grounding-problem/) applied to language: symbols manipulated by a computational system remain ungrounded until a conscious agent anchors them in experience. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture.
+**Intentionality requires a subject.** [Intentionality](/concepts/intentionality/)—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. This is the [symbol-grounding-problem](/concepts/symbol-grounding-problem/) applied to language: symbols manipulated by a computational system remain ungrounded until a conscious agent anchors them in experience. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture. The theory of [singular thought](/topics/singular-thought-and-acquaintance/) shows where that subject enters: outside perceptual demonstratives, acquaintance is an information channel rather than a phenomenal relation, so on the Map's reading consciousness enters through the thinker, not the relation to the object.
 
 **Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. [Recursive language processing](/topics/language-recursion-and-consciousness/) reinforces this point: holding nested clauses in working memory and integrating their meanings appears to require conscious manipulation, not just pattern-matching over surface forms. The [consciousness-language interface](/topics/consciousness-and-language-interface/) operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it. The interface analysis reveals a *formatting effect*: learning concepts like *saudade* or *mono no aware* does not merely label pre-existing experiences but generates new phenomenal states unavailable before the concept was internalised. A zombie could acquire the linguistic form without the phenomenal transformation—further evidence that genuine meaning has an irreducibly conscious dimension.
 

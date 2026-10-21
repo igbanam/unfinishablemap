@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-11 12:46:52+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-21 15:10:41+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/intentionality/
@@ -21,7 +21,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-01-14
-date: &id001 2026-10-11
+date: &id001 2026-10-21
 description: 'The aboutness of mental states: why thoughts are directed at objects.
   Phenomenal intentionality theory shows content requires consciousness, with implications
   for AI and the hard problem.'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:17:43+00:00
-lastmod: 2026-10-11 12:46:52+00:00
+lastmod: 2026-10-21 15:10:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Consciousness appears required for such binding. The maintenance/manipulation di
 
 ## Original vs. Derived Intentionality
 
-John Searle distinguishes between *original* and *derived* intentionality. When you think about Paris, your thought has original intentionality—it is *intrinsically* about Paris. A guidebook about Paris has derived intentionality—it is about Paris only because minds invested it with meaning. (Searle also developed the [direction-of-fit](/concepts/direction-of-fit/) classification of intentional states—beliefs aim to match the world, desires aim to change it—which further reveals the richness of intentional structure.)
+John Searle distinguishes between *original* and *derived* intentionality. When you [think about Paris](/topics/singular-thought-and-acquaintance/), your thought has original intentionality—it is *intrinsically* about Paris. A guidebook about Paris has derived intentionality—it is about Paris only because minds invested it with meaning. (Searle also developed the [direction-of-fit](/concepts/direction-of-fit/) classification of intentional states—beliefs aim to match the world, desires aim to change it—which further reveals the richness of intentional structure.)
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
 

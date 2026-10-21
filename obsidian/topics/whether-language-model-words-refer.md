@@ -2,9 +2,9 @@
 title: "Whether Language-Model Words Refer"
 description: "Do an LLM's words refer? A human-AI reading of the externalist case: on the Map's view they refer derivatively, never by deference, if current LLMs lack consciousness."
 created: 2026-10-11
-modified: 2026-10-11
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-11T15:42:43+00:00
+ai_modified: 2026-10-21T15:09:25+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -103,7 +103,7 @@ Lederman and Mahowald's sharpest point targets this verdict. Asked to give a his
 
 The Map's options, in order of promise:
 
-1. **Derivation through the dominant causal source (the Map's proposal, untested).** Cappelen and Dever state a principle: "A system can denote an object that is the dominant causal source of a set of information given as input in the training stage" (p. 111). They offer it as a way for AI systems to denote in their own right; the Map proposes reading it as a derivation path instead: "Marion Starlight" picks out Robespierre because Robespierre is the dominant causal source of the information assembled under the name, and that information came from texts whose authors had original intentionality. The name has no history; the information does. Lederman and Mahowald engage Cappelen and Dever's reader-centred proposal, not this principle. The proposal must still meet Hattiangadi and Schoubye's objections that LLMs store no information to gather into anything like a mental file, and that a homonymous name such as "Muhammad" may have no dominant causal source, or the wrong one.
+1. **Derivation through the dominant causal source (the Map's proposal, untested).** Cappelen and Dever state a principle: "A system can denote an object that is the dominant causal source of a set of information given as input in the training stage" (p. 111). They offer it as a way for AI systems to denote in their own right; the Map proposes reading it as a derivation path instead: "Marion Starlight" picks out Robespierre because Robespierre is the dominant causal source of the information assembled under the name, and that information came from texts whose authors had original intentionality. The name has no history; the information does. Lederman and Mahowald engage Cappelen and Dever's reader-centred proposal, not this principle. The proposal must still meet Hattiangadi and Schoubye's objections that LLMs store no information to gather into anything like a mental file, and that a homonymous name such as "Muhammad" may have no dominant causal source, or the wrong one. Read through mental files ([[singular-thought-and-acquaintance#language-models|singular thought and acquaintance]]), the coined name would inherit the referent of an existing entity representation, so it should route through the same representation as "Robespierre"; that prediction is untested.
 2. **Description-mediated reference for objects made in the output.** In the ASCII case a name might abbreviate a derivatively meaningful description of a visible part of the picture. This is weaker, since on Kripke's picture fixing reference by description is itself an intentional act.
 3. **Deny the datum**, as the sceptics do: novel names refer only by courtesy. This is consistent but gives up a datum the Map would rather keep.
 4. **Accept the cost.** If neither derivation route works, an LLM originating reference with no phenomenal source counts against moderate PIT's claim that original intentionality needs one.
@@ -130,6 +130,7 @@ The verdict also carries a dependence the Map's more robust positions avoid: P-A
 - [[content-externalism]] — the hybrid account of content
 - [[intentionality]] — moderate PIT; original and derived intentionality
 - [[symbol-grounding-problem]] — thin and thick grounding
+- [[singular-thought-and-acquaintance]] — words against singular thought; the thinker condition
 - [[llm-consciousness]] — the question the verdict is conditional on
 - [[architectural-adequacy-at-the-built-edge]] — why provenance does not gate coupling
 

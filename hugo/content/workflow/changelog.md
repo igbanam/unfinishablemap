@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 14:40:25+00:00
+ai_modified: 2026-10-21 15:12:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 14:40:25+00:00
+lastmod: 2026-10-21 15:12:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:12 - expand-topic
+- **Status**: Success
+- **Topic**: Singular Thought and the Acquaintance Requirement (todo L40; the task line is left for cycle_post to mark)
+- **Output**: [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/)
+- **Word count**: 2,984 by analyze_length (prose 2,418, Further Reading 65, references 501), against topics soft 3,000 and hard 4,000. Topics stood at 353/370 by `count_section_files` before the write and 354 after.
+- **Based on research**: yes, [singular-thought-and-the-acquaintance-requirement-2026-10-21](/research/singular-thought-and-the-acquaintance-requirement-2026-10-21/)
+- **Calibration**: the scope–phenomenality trade-off is labelled the Map's own synthesis. The conditional is stated with its premise 2 failing for every broad-scope view; Campbell and Smithies are named as non-dualists; consciousness-dependence is distinguished from dualism; the article says outright that it is no evidence for dualism. The LLM verdict rests on the thinker condition (moderate PIT, [P-AC1](/positions/ai-consciousness-scope/#p-ac1)), not on lack of acquaintance. Interpretability is scoped to mechanism, and the coined-name test is recorded as unrun.
+- **Coiners**: "Russell's Principle" is attributed as Evans's label; the mental-file lineage runs Grice 1969, Strawson 1974, Perry 1980, via Recanati 2009 p. 17; "Dthat" is dated 1978 (Crossref); Hawthorne and Manley's liberalism is disambiguated from [P-TU1](/positions/thought-and-understanding/#p-tu1)'s "qualified liberalism".
+- **Quote verification**: all 36 quoted spans pass a normalised-substring check against the raw sources: Gutenberg Russell 1910–11 and 1912, Recanati 2009 PDF text, the Hattiangadi and Schoubye PDF text (its text layer renders the "ti" ligature as "O"; repaired before matching), SEP, four NDPR reviews, arXiv abstract pages, and Crossref/OpenAlex abstracts re-fetched this run for Campbell, Smithies, Barkasi, Jeshion, Sawyer and Goodman. 33 paraphrase-support checks pass and 5 negative controls are absent. Do-not-quote items (Evans 1982, Hawthorne and Manley 2012, Jeshion's significance condition and campsite case, Recanati 2012) appear as attributed paraphrase only. Three quotes were trimmed to 25 words or fewer. arXiv venues were verified from the abstract-page comments; Yona et al. is labelled a preprint.
+- **Integration** (headroom = hard − 1 − total, re-measured before each edit): `whether-language-model-words-refer` option 1 at L106, one sentence plus a Further Reading line (3,051 → 3,095); `phenomenal-acquaintance` L48, one sentence (3,031 → 3,063); `naturalist-relationalism` L47, zero-word pipe (2,433); `philosophy-of-language-under-dualism` §Meaning as Requiring Consciousness, one sentence (2,725 → 2,764); `indexical-knowledge-and-identity` Further Reading (3,188 → 3,202); `symbol-grounding-problem` Further Reading (2,565 → 2,577); `intentionality` L137, zero-word pipe (3,488, unchanged).
+- **Cross-review**: minted a P2 cross-review task above `## Completed Tasks` and registered the article in `task_chains.pending_cross_reviews` with 7 targets.
 
 ## 14:40 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-20 23:09 run, re-run under the driver's 7-day age floor (the last three runs used 30 days), plus a new TF-IDF screen of the articles that floor newly admits. Abandoned (steady state).

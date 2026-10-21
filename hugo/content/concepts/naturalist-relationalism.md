@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-14 11:34:29+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-10-21 15:09:52+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[intentionality]]'
 created: 2026-06-16
-date: &id001 2026-06-16
+date: &id001 2026-10-21
 description: Naive realism, the strongest non-dualist rival in perception, holds experience
   is a relation to mind-independent objects—engaged here as a rival the Map answers,
   not an ally.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-05 21:08:00+00:00
-lastmod: 2026-10-14 11:34:29+00:00
+lastmod: 2026-10-21 15:09:52+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -48,7 +48,7 @@ Two arguments motivate the view.
 
 **Transparency.** When you introspect a perceptual experience, you find only the worldly scene—the tomato, the table, the light—never an inner medium or mental object standing between you and the world. Relationalism takes this [transparency](/concepts/phenomenal-transparency-opacity-spectrum/) at face value: there is no inner item to find because the experience is *of* the world directly. This is the same datum representationalists cite, read in a stronger, anti-representational key.
 
-**Openness and presentation.** Perception "presents" the world as simply, blankly there, in a way that (the relationalist argues) mere representation cannot capture. A representation can misfire while its content stays intact; presentation, by contrast, brings the object itself into view. Campbell's *Reference and Consciousness* (2002) makes the relational structure of experience explain how we can think demonstratively about objects at all—the object must be *there*, in experience, to be a target of thought.
+**Openness and presentation.** Perception "presents" the world as simply, blankly there, in a way that (the relationalist argues) mere representation cannot capture. A representation can misfire while its content stays intact; presentation, by contrast, brings the object itself into view. Campbell's *Reference and Consciousness* (2002) makes the relational structure of experience explain how we can [think demonstratively about objects](/topics/singular-thought-and-acquaintance/#demonstratives) at all—the object must be *there*, in experience, to be a target of thought.
 
 Brewer frames the choice through what he calls an inconsistent triad: (I) physical objects are mind-independent; (II) physical objects are the direct objects of perception; (III) the direct objects of perception are mind-dependent. The three cannot all hold. The sense-datum tradition rejected (II), inserting mind-dependent intermediaries. Relationalism instead rejects (III): the direct objects of perception just are the mind-independent things themselves.
 

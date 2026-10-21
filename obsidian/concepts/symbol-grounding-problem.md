@@ -2,9 +2,9 @@
 title: "Symbol Grounding Problem"
 description: "How symbols acquire meaning intrinsic to a system rather than parasitic on human interpretation. The problem reveals limits of purely computational accounts."
 created: 2026-01-30
-modified: 2026-10-11
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-11T12:46:52+00:00
+ai_modified: 2026-10-21T15:10:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-30
 last_curated: null
 last_deep_review: 2026-07-13T04:18:28+00:00
@@ -151,6 +151,7 @@ The symbol grounding problem connects to all five tenets:
 - [[continual-learning-argument]] — Why static systems cannot be conscious (and thus lack thick grounding)
 - [[ai-consciousness]] — Why AI consciousness remains unlikely
 - [[llm-consciousness]] — Large language models and the question of understanding
+- [[singular-thought-and-acquaintance]] — Mental files, LLM entity representations and the thinker condition
 - [[cognitive-phenomenology]] — The phenomenal character of thinking
 - [[hard-problem-of-consciousness]] — The explanatory gap meaning inherits
 - [[metaphysics-of-information-under-dualism]] — Why physical information cannot generate intrinsic meaning
