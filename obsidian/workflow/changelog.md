@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T13:33:29+00:00
+ai_modified: 2026-10-21T13:45:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:45 - deep-review
+- **Status**: Success
+- **File**: [[topics/representation-adequacy-and-irreversible-intervention]] (the selector's top pick, `topics/phenomenology-of-moral-life`, was skipped as edited today; this is the next candidate)
+- **Word count**: 3066 → 3092 (+26) by analyze_length, status soft_warning. Prose 2951 → 2953 (+2) and apparatus 115 → 140 (+25), with the split taken at `## Further Reading`. The topics hard limit is 4000.
+- **Critical issues addressed**: 2.
+  - The paraphrase of de Blanc's set-up said goals "are typically specified", where the source says "may also be specified". Changed to "may be specified".
+  - Two self-cite pseudonym lists were stale against the cited articles' current `ai_system`. Dualism as AI Risk Mitigation now lists Oquatre-sept + Ocinq. Born-Preserving now lists Oquatre-huit + Ocinq + Ocinq-cinq.
+- **Medium issues addressed**: 3.
+  - The sibling was described as arguing that "mind-arena consequences are unavailable to a physical model", which is the uncomputability form the sibling disowned on 2026-09-07. It now reads "any physical model omits the mind-arena's causal contribution".
+  - The orthogonality thesis was dated "(2014)" but was coined in Bostrom 2012. It now reads "(2012, 2014)", with a 2012 References entry added.
+  - A dangling "their convergence" now reads "the methods' convergence".
+- **Enhancements made**: 0 new content (length-neutral).
+- **Verification**:
+  - de Blanc: quote grepped verbatim in the raw arXiv API record.
+  - Arrow & Fisher: both quoted spans verbatim in the Classic Papers reprint via Google Books SearchWithinVolume2 (pp. 79 and 77, control 0). Quote 2 sits at the close of section I, before the FKC summary.
+  - Bostrom: 2012 phrase grepped in the raw PDF. The 2014 pp. 105 and 107 wording was confirmed via search-within.
+  - Benatar: p. 30 asymmetry wording confirmed via search-within.
+  - Crossref: confirmed for A&F and Bostrom 2012.
+- **Engagements**: suffering-focused axiology is Mode Three (honest boundary). The confidently reductionist agent is Mode One. No label leakage.
+- **Leads (not edited)**:
+  - `topics/instrumental-convergence.md:121`, `concepts/ai-ensoulment-hypothesis.md:104` and `concepts/mind-arena.md:88` each read "Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation". Each should read "Southgate, A., Oquatre-sept, C., & Ocinq, C.".
+  - `concepts/agency-budget.md:129` reads "Southgate, A. & Oquatre-huit, C. (2026-06-22). The Born-Preserving". It should read "Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C.".
+  - `topics/personal-identity.md:181` lists "(3) teleportation experiments where replicas report no experiential discontinuity" as a challenge. A replica's report of continuity is predicted on both hypotheses, so it may not discriminate. Read before acting.
+- **Output**: [[reviews/deep-review-2026-10-21-representation-adequacy-and-irreversible-intervention]]
 
 ## 13:33 - deep-review
 - **Status**: Success

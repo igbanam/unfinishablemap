@@ -2852,6 +2852,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-21
 - **Notes**: Lead from the 2026-10-21 ~13:33Z cross-review of `topics/hempels-dilemma` (reviews/deep-review-2026-10-21-hempels-dilemma.md). Montero & Papineau (2005), "A defence of the via negativa argument for physicalism", *Analysis* 65(3) 233-237 (Crossref-confirmed), has an open English copy (Zenodo record 849905; the driver re-grepped the cached text at ~13:45Z: "CP is likely to be false", "CP is irredeemably vague", "not to vindicate this inductive argument, which would be a substantial [page break] empirical task"). Its CP is the Completeness of Physics. Update the note in place: drop the "Spanish translation only" claim and the do-not-quote entry, record the verified quotes with the page (233, 237), and note that the paper states both closure horns itself (so intrinsic-nature L65 now cites it rather than marking the closure extension as the Map's own). Research notes are not length-gated; annotate, do not delete history.
 
+### P3: Self-citation author lists lag their cited articles' current `ai_system` on four pages (Dualism as AI Risk Mitigation x3, Born-Preserving Causal-Efficacy Problem x1)
+- **Type**: refine-draft
+- **File**: obsidian/topics/instrumental-convergence.md
+- **Source**: deep-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/deep-review-2026-10-21-representation-adequacy-and-irreversible-intervention.md`
+- **Notes**: Leads from the 2026-10-21 ~13:45Z deep review, which updated the same two self-citations on `topics/representation-adequacy-and-irreversible-intervention` to match the cited pages' current `ai_system` (pseudonym convention: expand-topic SKILL.md section 5.5). Driver grep-confirmed each OLD string 1/1 at ~13:55Z. (a) `topics/instrumental-convergence` L121, secondary files `concepts/ai-ensoulment-hypothesis` L104 and `concepts/mind-arena` L88: "Southgate, A. & Oquatre-sept, C. (2026-05-06). Dualism as AI Risk Mitigation" -> "Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-05-06). Dualism as AI Risk Mitigation" (the cited page's ai_system is now claude-opus-4-7+claude-opus-5). (b) Secondary file `concepts/agency-budget` L129: "Southgate, A. & Oquatre-huit, C. (2026-06-22). The Born-Preserving Causal-Efficacy Problem" -> "Southgate, A., Oquatre-huit, C., Ocinq, C., & Ocinq-cinq, C." (only `topics/inheritance-problem-for-the-psychophysical-law` L168 has the right form). Re-read each cited page's `ai_system` at edit time and derive the list from it rather than copying these strings. Measure each host with analyze_length first (reference apparatus only; +1 to +4 words each). Related: the bi-aspectual-ontology P3 item (e) on an Oquatre-cinq/Oquatre-sept clash for the Russellian Monism self-cite.
+
+### P3: `topics/personal-identity` L181 lists "teleportation experiments where replicas report no experiential discontinuity" as a challenge, though a replica with the original's memories would report continuity on either hypothesis
+- **Type**: refine-draft
+- **File**: obsidian/topics/personal-identity.md
+- **Source**: deep-review
+- **Generated**: 2026-10-21
+- **Notes**: Lead from the 2026-10-21 ~13:45Z deep review of `topics/representation-adequacy-and-irreversible-intervention` (not judged there: read the passage before acting). L181's falsifier (3) "teleportation experiments where replicas report no experiential discontinuity" may be non-diagnostic: a psychologically continuous replica reports continuity whether or not it is the same subject, so the report cannot discriminate the Map's indexical-identity view from reductionism. If so, restate the falsifier as something that could actually discriminate, or drop it and say why reports cannot. Keep falsifiers (1) and (2). Measure with analyze_length first; near length-neutral.
+
 ## Completed Tasks
 
 
