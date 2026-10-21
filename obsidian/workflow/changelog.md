@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T16:31:06+00:00
+ai_modified: 2026-10-21T17:03:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:04 - positions-evolve
+- **Status**: Success (update; P-MS1 source-reading corrections from the 16:31 deep review's leads)
+- **Positions touched**: [[positions/moral-status]] P-MS1, Would shift if and Calibration history line; Last reviewed → 2026-10-21 (the reply's reasoning changed, not only an attribution, so the narrow-update precedent of 10-20 does not apply). No credence, grade, maturity, status or dependency change.
+  - Agency limb: "generalised by Mogensen (*PPR*, 2025) into a pluralism on which autonomy confers status" → "and Mogensen's distinct pluralism (*PPR*, 2025), on which autonomy, a capacity for rational self-government, confers status".
+  - Reply: "plus the collapse into sentientism on views where autonomy entails phenomenal consciousness" removed; new sentence "Autonomy entailing phenomenal consciousness would preserve necessity only as a consciousness requirement, Mogensen's test case being the Vulcan above".
+  - Vulcan limb: "(2026; Shepherd 2024 takes it up)" → "(2022; …)".
+- **History file** [[positions/moral-status-calibration-history]]: new `Updated 2026-10-21` note; 09-06 notes corrected in place: "Lee 2025 reverses it: a good must affect…" → "Lee's speculative hypothesis reverses it: if a good must 'affect whatever property makes x a welfare subject'…"; "Kagan's robot planet, generalised by Mogensen" → "Kagan's robot planet and Mogensen's autonomy pluralism".
+- **Secondary**: [[concepts/consciousness-value-connection]] L130 "(2026)" → "(2022)"; its Chalmers 2026 reference annotation now names *Reality+* (2022) so the inline year resolves (−1 word). Research note [[research/the-experience-requirement-on-well-being-2026-09-05]] L76 "Against Bradford (fn 25)" annotated in place (body text in §2, not n. 25; cleft dropped).
+- **Vulcan date verified**: Chalmers' own "Sentience and Moral Status" preprint (consc.net, raw): "In Reality+, I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans". Published volume via Google Books search-within (`v18EEgAAQBAJ`, control "Vulcan" N=10, nonsense-phrase N=0): p. 25 "Chapter 18 of Reality+ (Chalmers 2022)", p. 29 "I analyzed affective sentientism using a thought-experiment involving philosophical Vulcans", p. 66 (Kriegel) "(Chalmers 2022, Ch.18) calls … Vulcans". Mogensen 2025b WP: "Chalmers 2022: 343–345" (Allen Lane ed.). Shepherd 2024 (UAB repository PDF): Norton ed., Vulcans at pp. 417–419. Pages are edition-dependent and the five Reality+ Google Books ids are unsearchable (four `searchable:false`, one dead index failing a "simulation" control), so no page numbers were added. Both works exist: the case originates in 2022 and the chapter (pp. 25–40) develops it.
+- **Length** (analyze_length): register 2807 → 2821 (corrections +10 prose, −5 index-summary trim, +9 index dates and summary for the note); history 3511 → 3682 (note +169, in-place corrections +2); consciousness-value-connection 3520 → 3519; research note 9694 → 9741.
+- **Cascade**: P-MS2 depends on P-MS1; no band moved and the limb order is unchanged, so P-MS2's "fourth limb" reference keeps its referent. Not re-audited.
+- **Leads (not edited)**: [[topics/ethics-under-dualism]] L109 "The philosophical Vulcan of Chalmers (2026)" carries the same dating; its following description paraphrases the 2026 chapter, so 2026 may be defensible there, but "Chalmers concludes…" reads as the origin. History L37 ("forthcoming") and L40 (the 10-06 re-date) are left as provenance; the new note records the correction.
+- **Output**: no commit (orchestrator handles git).
 
 ## 16:31 - deep-review
 - **Status**: Success
