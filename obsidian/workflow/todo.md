@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write `topics/agency-incompatibilism` — Agency Incompatibilism and Steward's Settlers
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/agency-incompatibilism-stewards-settlers-2026-10-05.md
+- **Target section**: topics
+- **Section**: topics
+- **Status**: pending
+- **Source**: research-chain (auto-minted by cycle_post after research-topic)
+- **Generated**: 2026-10-21
+- **Headroom**: topics 355/370 at mint (count_section_files). Re-measure before writing; stop at the cap.
+- **Notes**: The note declares no `recommended_action`; read its recommendation first, and if it advises a fold or refinement rather than a standalone article, do that instead (as refine-draft) and say so. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews. DRIVER ADD-ON (2026-10-21 ~00:05Z on 10-22): minted by hand. This research note (2026-10-05, harvested from optimistic-2026-10-04 agency-and-akrasia wing) sat in task_chains.pending_articles without ever becoming a task (pending_articles is write-only); flagged by reviews/optimistic-2026-10-21-scorekeeping-wing.md. Slug: `agency-incompatibilism` (shorter than the note stem; confirm free with check_slug). Coverage: 'agency incompatibilism' 0 live hits; 'Steward' real hits only in the-divided-will. Neighbours to link and stay consistent with: topics/source-versus-leeway-incompatibilism, the-consequence-argument-for-incompatibilism, the-manipulation-argument-and-hard-incompatibilism, the-divided-will, agent-causation-and-acting-for-reasons. CALIBRATION: Steward is a naturalist (top-down causation by a physical whole, animal settlers); do NOT recruit her as a dualist; state where the Map's non-physical agent departs from her; Tenet 3 claims fit the tenet without evidencing it; record her luck concession accurately. Verify every quote at source (the note is 16 days old).
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -2862,6 +2873,38 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-21
 - **Review file**: `reviews/deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness.md`
 - **Notes**: Leads from the 2026-10-21 ~22:48Z deep review of `concepts/islamic-sufi-philosophy-of-consciousness`. (a) L118 "Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes": the holism is Jamali, Golshani & Jamali's inference (Heliyon 2019, e02130), not Avicenna's own doctrine; rescope to "the holistic governance Jamali et al. read into Avicenna" or equivalent, matching the corrected concept page L47. Measure with analyze_length first; near length-neutral. (b) Secondary file `research/interaction-problem-non-western-philosophy-2026-02-17.md` L99 still carries the al-Ghazali quote "so utterly different in their essences that one cannot affect the other" (pessimistic-2026-10-12 finding B6, never queued; the 2026-10-14 refine removed the same string from the concept page as not verbatim in any al-Ghazali translation). Annotate in place as unverified/misattributed; do not delete research history.
+
+### P2: `concepts/cessation-versus-plenitude` L51 treats the Christian beatific vision as a contemplative-practice report and calls plenitude "attested across unconnected traditions"; the beatific vision is doctrine about the blessed after death
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cessation-versus-plenitude.md
+- **Source**: optimistic-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/optimistic-2026-10-21-scorekeeping-wing.md`
+- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 1 (a calibration defect, so P2). Aquinas ST I q.12 a.11: God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life" (review checked raw New Advent text; re-grep it). Apply the review's replacement: use the Map's own Sufi *fana'* placement instead, drop "unconnected", add the Aquinas reference (new ref 5). +86 (prose +65, ref +21); 2,267 vs concepts hard 3,500. Optional zero-word companion: a piped link from `topics/cross-traditional-convergence-on-consciousness-irreducibility` L148 (3,995/4,000: ZERO words only; use the SLUG-form anchor, the heading-text form measured +5). Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
+
+### P3: `topics/agent-causation-and-acting-for-reasons` L75 asks which reason was acted on but never meets akrasia, where `the-divided-will` shows the contrastive luck reply fails; `the-divided-will` L109 reply (a) does not link Lowe's uncaused-volition answer
+- **Type**: refine-draft
+- **File**: obsidian/topics/agent-causation-and-acting-for-reasons.md
+- **Source**: optimistic-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/optimistic-2026-10-21-scorekeeping-wing.md`
+- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 2. TWO FILES: (a) agent-causation-and-acting-for-reasons L75 +20, link to [[the-divided-will#luck-objection|...]] (3,026 vs topics hard 4,000); (b) secondary file `topics/the-divided-will` L109 +13, reply (a) gains a link to the Lowe answer (`#uncaused-volition` on the target the review names) (3,074 vs 4,000). Lowe's volitions are uncaused and he does not reject closure (settled 2026-10-20/21): keep that exact. Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
+
+### P3: `concepts/rival-explanations-of-the-explanatory-gap` L101 omits the content-efficacy condition: judgments count as voiced from experience only if consciousness produces them in virtue of what it presents
+- **Type**: refine-draft
+- **File**: obsidian/concepts/rival-explanations-of-the-explanatory-gap.md
+- **Source**: optimistic-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/optimistic-2026-10-21-scorekeeping-wing.md`
+- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 3. +25, importing the acquaintance article's `#content-efficacy` condition (it RAISES the bar for dualism and changes no score or tier). 3,046 vs concepts hard 3,500. Read the acquaintance page's content-efficacy section on disk first so the sentence attributes nothing it does not say. Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
+
+### P3: `voids/interoceptive-void` L63 omits Laurin 2026's trauma-depersonalisation model; `concepts/dissociative-subtype-of-ptsd` has only 3 inbound links
+- **Type**: refine-draft
+- **File**: obsidian/voids/interoceptive-void.md
+- **Source**: optimistic-review
+- **Generated**: 2026-10-21
+- **Review file**: `reviews/optimistic-2026-10-21-scorekeeping-wing.md`
+- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 4. +33: a paraphrase of Laurin 2026 with a link to [[dissociative-subtype-of-ptsd]]. 2,690 vs voids hard 3,000 (309 headroom). Verify Laurin 2026 at Crossref/source before paraphrasing; keep the dissociative-subtype page's verdict that the trauma point goes to the rival. Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
 
 ## Completed Tasks
 

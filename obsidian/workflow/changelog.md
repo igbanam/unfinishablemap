@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T23:23:18+00:00
+ai_modified: 2026-10-21T23:55:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:55 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four pages whose optimistic-review hits are all mentions, not reviews. Coverage was counted on content across 609 `optimistic-*` files and 879 live pages; the only zero-hit pages (`topics/hempels-dilemma`, `topics/singular-thought-and-acquaintance`) were created today. The four: `topics/agent-causation-and-acting-for-reasons` (its single hit is the 10-20 exclusion note), `concepts/dissociative-subtype-of-ptsd`, `concepts/rival-explanations-of-the-explanatory-gap` and `concepts/cessation-versus-plenitude`. All were read in full with their deep-review Stability Notes. None was edited today, and none is the `File:` of an open P0–P2 task. `concepts/primitive-identities-and-strong-necessities` (all-mention, 163 headroom) is deferred.
+- **Findings**:
+  - Shared shape (scorekeeping): each page scores the Map against a rival and records the loss. The subtype page gives the trauma-selectivity point to the overmodulation model; the gap comparison gives Type-B the one empirical criterion and leaves the tier at *compatible*; the agent-causation page's integrated shape is "no evidence for the integrated view"; the cessation page calls tenet-coherence "tenet-register support; it is not evidence-register support". Process Philosopher and Hardline Empiricist converge on three pages.
+  - One calibration concern: cessation L51 counts the beatific vision (doctrine about the blessed; Aquinas ST I q.12 a.11, verified raw) as a contemplative "data point" and calls the plenitude pole "attested across unconnected traditions". Routed to a refine-draft (item 1), not an expansion.
+  - Seams: agent-causation never meets akrasia (0 hits), where `the-divided-will` L103 shows the contrastive luck reply fails; rival-explanations L101 lacks the acquaintance article's content-efficacy condition; the subtype page has 3 inbound links.
+  - Priority List: 4 items, +177 words across five files (21 reference apparatus); every host stays below its hard gate. Plus a measured +0 pipe on `cross-traditional-convergence-on-consciousness-irreducibility` L148 (3,995/4,000), which has 0 mentions of cessation/nirodha/plenitude.
+  - Expansion: (1) Steward's agency incompatibilism — researched 2026-10-05, never written; `pending_articles` entry orphaned, no expand-topic task (mint expand, not research); live "agency incompatibilism" 0, "Steward" 1 real live page (`the-divided-will`, control). (2) NOT COVERED: peritraumatic dissociation and the "protective" reading — 0 live hits for "peritraumatic", "peri-traumatic", "Briere", "Marmar", "Ozer et al"; archive 0; controls "PTSD" 5 live files, "peritraumatic" 1 research hit.
+- **Sources verified**: Aquinas ST I q.12 a.11 (New Advent raw HTML, 1 span); Ozer et al. 2003 and Briere, Scott & Weathers 2005 (Crossref metadata; OpenAlex abstracts, 1 span each); Lensvelt-Mulders et al. 2008 (Crossref metadata only).
+- **Output**: [[reviews/optimistic-2026-10-21-scorekeeping-wing]]
 
 ## 23:24 - refine-draft
 - **Status**: Success
