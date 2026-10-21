@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T14:13:59+00:00
+ai_modified: 2026-10-21T14:40:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:40 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 2026-10-20 23:09 run, re-run under the driver's 7-day age floor (the last three runs used 30 days), plus a new TF-IDF screen of the articles that floor newly admits. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 362/370 (97.8%, the most pressured), topics 353/370 (352 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 23:09 (base `888aaeb943`)**: three additions, `topics/alief-and-acting-against-belief`, `concepts/causal-relevance-of-content` and `topics/hempels-dilemma`. All three were created today, so they are ineligible. No removals or renames. Excluded as touched today: 29 files (the driver's eight plus `git log` since 00:00Z and the dirty tree).
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold, `>=`): topics 0 of 56,616 pairs (smallest sum 1990 + 2112 = 4102); voids 0 of 6,328 (1530 + 1732 = 3262); concepts 139 of 58,996. The linked concepts pairs are the same three as at 23:09, all declined before with their carve-outs still live: `causal-powers` + `mind-arena` 3494 (`## Distinguishing the Mind-Arena from Related Map Terms`), `phenomenal-depth` + `phenomenal-presentation` 3047, `adaptive-computational-depth` + `phenomenal-depth` 3425.
+- **Widened screen** (under 110% of hard): 15 linked pairs, 7 mutual. The set is identical to 23:09, pair for pair. The shorter floor admitted 65 more articles (created 2026-09-21 to 10-14), and none of them entered either list. Their median length is 2997 words, so any pairing exceeds the hard threshold.
+- **Newcomer screen** (TF-IDF cosine for each of the 65 against all 827 articles; frontmatter, headings, wikilinks and reference apparatus stripped; vocabulary limited to terms in 2-8% of documents; calibration: the parked self-stultification pair scores 0.396 on this recipe). Two pairs reach 0.43 or above. Both were read and declined:
+  1. `topics/paradoxical-kinesia` (2408) + `topics/outcome-devaluation-and-dual-task-costs-in-parkinsons` (3998) = 6406, 0.493. This is a question and its answer: kinesia "named two tests", and the other page's Further Reading lists kinesia as "the page that named these two tests". Kinesia's lead and L53/L57 already carry the follow-up's verdict, propagated back. That propagation is a health signal, not duplication. The sum is over topics critical (6000), and the follow-up is the `File:` target of an open P3 (L85/L93).
+  2. `concepts/zeno-dynamics-on-a-decohered-mixture` (2630) + `concepts/process-1-specification-problem` (3086) = 5716, 0.43. Both were touched by the 2026-10-14T23:27 deep-review commit (`53a5a6fb6c`), which is inside the 7-day floor. The split is also signed: the specification page hands the redundancy horn to the Zeno page ("the dispute moves to the grain"), and the Zeno page defers the projector debt back to it. The sum is 63% over concepts hard, and the Zeno page appears in four open P3s.
+  - The next newcomer pair, `seemings` + `phenomenal-conservatism` (0.388, 5810), divides the work by role: the mental state against the epistemic principle. Seemings defers to it as "The epistemology that makes seemings basic".
+- **Finding**: unchanged. Length rules out merges in topics and voids. In concepts, every linked pair is a carve-out or a hub-and-spoke split. The newly admitted newcomers pair only in signed question-and-answer or concept-and-principle splits, all over the length gate. Cap relief would have to come from `/archive`, `/condense` or a cap raise (8/17/12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 14:13 - research-topic
 - **Status**: Success
