@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T09:53:00+00:00
+ai_modified: 2026-10-21T09:55:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:55 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Task**: P2 lead from the 07:50Z P1 refine of [[concepts/intrinsic-nature]]: L108 credited Montero (2003) with calling closure over completed physics "vacuous" and closed on "unfalsifiable in principle".
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Montero verification**: newdualism.org copy (`papers/B.Montero/Varieties-of-Causal-Closure.htm`, browser UA + Accept header, HTTP 200), grepped verbatim: the horns are "a theory we cannot defend" / "a theory that is impossibly vague; for who knows what future physics will bring", said of physicalism; her only "vacuous" is "CC becomes vacuously true of a large part, perhaps the whole part, of the world" (quantum events); fn 25 "this dilemma, alone, is not fatal to definitions of the physical in terms of physics"; current physics is "most likely, neither a true nor complete account" (supports "probably false").
+- **Changes**: L108 only. "closure is false" became "probably false". "the claim is vacuous since we cannot know..." became "in Montero's phrase about physicalism, 'impossibly vague': its content waits on a physics no one can yet specify, which might include mental causation" (her phrase is marked as said of physicalism, with the closure application left to the Map, in line with intrinsic-nature's settled wording). Dropped "unfalsifiable in principle", which mixed an epistemic charge into the semantic one. Added her fn-25 verdict, "not fatal on its own". Hempel's dilemma is still named with no new reference. Montero 2003 has a References entry (ref 1).
+- **Length**: 3493 → 3493 by analyze_length (concepts hard 3500); paragraph 61 → 61 words.
+- **Lead, not fixed (scope/length)**: L63 "**Completeness version (Montero):** Every physical event has a physical cause" is not her formulation. Her CC is "every physical phenomenon that has a sufficient cause has a sufficient physical cause", which is in effect the L61 "Moderate version" left unattributed.
+- **Published**: yes (synced; Hugo copy confirmed)
 
 ## 09:53 - pessimistic-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-20 07:58:45+00:00
+ai_modified: 2026-10-21 09:54:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,14 +25,14 @@ concepts:
 - '[[physical-completeness]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-01-14
-date: &id001 2026-10-20
+date: &id001 2026-10-21
 description: 'Causal closure claims every physical event has sufficient physical cause.
   The Map rejects this: quantum indeterminacy leaves room for consciousness to act.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-10-20 07:58:45+00:00
+lastmod: 2026-10-21 09:54:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
-Montero (2003) presses a deeper problem: defining "physical" itself. If it means what current physics describes, closure is false—current physics is incomplete. If it means what a completed future physics describes, the claim is vacuous since we cannot know whether that physics will include or exclude mental causation (Hempel's dilemma). The principle may be not merely unproven but unfalsifiable in principle.
+Montero (2003) presses a deeper problem: defining "physical" itself (Hempel's dilemma). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
 
 ### Observational vs Universal Closure
 

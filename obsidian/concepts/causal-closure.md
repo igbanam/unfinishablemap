@@ -2,9 +2,9 @@
 title: "Causal Closure of the Physical"
 description: "Causal closure claims every physical event has sufficient physical cause. The Map rejects this: quantum indeterminacy leaves room for consciousness to act."
 created: 2026-01-14
-modified: 2026-10-20
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-20T07:58:45+00:00
+ai_modified: 2026-10-21T09:54:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
-Montero (2003) presses a deeper problem: defining "physical" itself. If it means what current physics describes, closure is false—current physics is incomplete. If it means what a completed future physics describes, the claim is vacuous since we cannot know whether that physics will include or exclude mental causation (Hempel's dilemma). The principle may be not merely unproven but unfalsifiable in principle.
+Montero (2003) presses a deeper problem: defining "physical" itself (Hempel's dilemma). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
 
 ### Observational vs Universal Closure
 

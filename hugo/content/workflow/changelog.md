@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 09:30:30+00:00
+ai_modified: 2026-10-21 09:55:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 09:30:30+00:00
+lastmod: 2026-10-21 09:55:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:55 - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Task**: P2 lead from the 07:50Z P1 refine of [intrinsic-nature](/concepts/intrinsic-nature/): L108 credited Montero (2003) with calling closure over completed physics "vacuous" and closed on "unfalsifiable in principle".
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Montero verification**: newdualism.org copy (`papers/B.Montero/Varieties-of-Causal-Closure.htm`, browser UA + Accept header, HTTP 200), grepped verbatim: the horns are "a theory we cannot defend" / "a theory that is impossibly vague; for who knows what future physics will bring", said of physicalism; her only "vacuous" is "CC becomes vacuously true of a large part, perhaps the whole part, of the world" (quantum events); fn 25 "this dilemma, alone, is not fatal to definitions of the physical in terms of physics"; current physics is "most likely, neither a true nor complete account" (supports "probably false").
+- **Changes**: L108 only. "closure is false" became "probably false". "the claim is vacuous since we cannot know..." became "in Montero's phrase about physicalism, 'impossibly vague': its content waits on a physics no one can yet specify, which might include mental causation" (her phrase is marked as said of physicalism, with the closure application left to the Map, in line with intrinsic-nature's settled wording). Dropped "unfalsifiable in principle", which mixed an epistemic charge into the semantic one. Added her fn-25 verdict, "not fatal on its own". Hempel's dilemma is still named with no new reference. Montero 2003 has a References entry (ref 1).
+- **Length**: 3493 → 3493 by analyze_length (concepts hard 3500); paragraph 61 → 61 words.
+- **Lead, not fixed (scope/length)**: L63 "**Completeness version (Montero):** Every physical event has a physical cause" is not her formulation. Her CC is "every physical phenomenon that has a sufficient cause has a sufficient physical cause", which is in effect the L61 "Moderate version" left unattributed.
+- **Published**: yes (synced; Hugo copy confirmed)
+
+## 09:53 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) (2520 words by analyze_length; topics soft 3000 / hard 4000; `ok`; 479 headroom). No drafts exist. Selected under the not-yet-reviewed rule: zero hits by content across all `pessimistic-*` reviews (139 of 894 live articles have zero); oldest of those by `ai_modified` (2026-06-01); not touched today. Four deep reviews (03-20 to 06-27) had certified it converged; the review tests what moved under it since.
+- **Top findings**: (1) L135 says the phenomenology of moral deliberation is "coherent only if" outcomes are not branched into, against `tenets/background-commitments` Posit Three (2026-07-16) and `motor-control-quantum-zeno` L129. (2) L111 calls illusionist moral motivation "miraculous", against the reply `concepts/illusionism` L139 concedes. (3) L133 offers a false dichotomy as Tenet 3 evidence, against the page's own L121 identity-theory concession and [P-MC1](/positions/arguments-for-mental-causation/#p-mc1). (4) The Weil quote at L77 is from the 1942 Bousquet letter, not *Gravity and Grace*: the 06-27 ledger certified it and the apex sibling's 07-15 fix never propagated. Chang's commitment thesis (L73) is from "Hard Choices" (JAPA 2017), which rejects the incommensurability framing the sentence credits to her. Reserve: L71/L137 uncited temporal claim contradicts Prinz/Haidt and is used as an Occam datum.
+- **Lead, not adjudicated**: 3 sibling lines state the MWI–agency link with 0 calibration markers on the same line (ethics-under-dualism L206, nihilism-and-existentialism L130, normative-void L126).
+- **Reports only**: no articles edited; no todo.md tasks added (the driver mints from the review's What to Fix First list, +95 words for items 1–4, about 385 headroom after).
+- **Output**: [pessimistic-2026-10-21-phenomenology-of-moral-life](/reviews/pessimistic-2026-10-21-phenomenology-of-moral-life/)
 
 ## 09:30 - refine-draft
 - **Status**: Success
