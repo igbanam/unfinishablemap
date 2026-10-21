@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T21:48:33+00:00
+ai_modified: 2026-10-21T21:53:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:53 - refine-draft
+- **Status**: Success
+- **File**: [[topics/mad-dog-everettianism]]
+- **Task**: Pessimistic review 2026-10-21, Priority List items 1–4 (item 4 optional, applied). Review `reviews/pessimistic-2026-10-21-mad-dog-everettianism.md`.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: read on disk before editing. qfp L76 has the Level 1 "booked for completeness, not as a liability" and "a Soulas-style uniqueness theorem would rescue the bipartition for everyone", then the Level 2 "which split the einselected menu belongs to … no Level 1 result supplies that. This is the page's finding." qfp L80 has "The parity weakens the indexical *argument* on both sides". qfp L100 has "gets a conditional case". The Level 1/Level 2 split dates from d9e823d34e (2026-09-30). tenets.md L121/L123 (the deflationary route is a thesis about the "I") and L133/L147 ("defeasible heuristic") match the review's quotations.
+- **Changes**: the review's OLD/NEW strings were pulled by script, and each OLD counted 1 before the edit.
+  - (1) L73, limit 4: "That input is a debt, booked in [[quantum-factorisation-problem]] … equally factorisation-relative." became a shared Level-1 input ("costs the Map nothing Everett does not also pay"), the Map-only Level-2 debt (which split is the paired subject's), and the parity reaching the indexical argument on both sides. The two guarded sentences ("Reading B therefore cannot become…"; "Every view that takes the structure as input…") follow verbatim. L87: "owes the split HSF tries to derive" became "owes an account of which split its menu belongs to and which subsystem is the subject's, a debt that even a successful derivation of the split would leave open".
+  - (2) L85: "clean case" became "conditional case"; "simpler than its rivals" became "simpler than configuration-space wavefunction realism"; "the austerity is no evidence for HSF, and the Map cannot count it against HSF either" became "the Map cannot treat the austerity as decisive evidence for HSF, nor count it against HSF". The two-direction symmetry ratified by tenet-check 10-14 is kept.
+  - (3) L36: "nor even the space they occupy" added. L66: "Joined to a view on which the "I" is such a pattern," added before "HSF is the deflationary route…".
+  - (4) L83: "as sharp as it can be" became "as conspicuous as it can be".
+  - Engagement with the Everettian (Wallace/Saunders branch-relative indexicality): Mode 3 for the Wallace-style reply and a conditional Mode 1 for Reading B against HSF; unchanged by this pass. No new Ney characterisation was added (Ney 2023 is behind a Springer login wall).
+- **Length**: 2,999 → 3,077 (+78) by analyze_length, as the review predicted. soft_warning against topics soft 3,000 has no consequence; headroom under hard 4,000 is 922.
+- **Residual (not edited)**: Further Reading L92 still glosses qfp as "the factorisation debt shared by Everettians and the Map's mechanism", which describes only the Level-1 half that the body now separates from the Map-only debt. It was outside the tasked strings and is left for the driver.
+- **Frontmatter**: ai_modified 2026-10-21T21:53:12+00:00; ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes (synced)
 
 ## 21:48 - pessimistic-review
 - **Status**: Success

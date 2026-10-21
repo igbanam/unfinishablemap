@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 21:23:32+00:00
+ai_modified: 2026-10-21 21:53:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 21:23:32+00:00
+lastmod: 2026-10-21 21:53:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:53 - refine-draft
+- **Status**: Success
+- **File**: [mad-dog-everettianism](/topics/mad-dog-everettianism/)
+- **Task**: Pessimistic review 2026-10-21, Priority List items 1–4 (item 4 optional, applied). Review `reviews/pessimistic-2026-10-21-mad-dog-everettianism.md`.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: read on disk before editing. qfp L76 has the Level 1 "booked for completeness, not as a liability" and "a Soulas-style uniqueness theorem would rescue the bipartition for everyone", then the Level 2 "which split the einselected menu belongs to … no Level 1 result supplies that. This is the page's finding." qfp L80 has "The parity weakens the indexical *argument* on both sides". qfp L100 has "gets a conditional case". The Level 1/Level 2 split dates from d9e823d34e (2026-09-30). tenets.md L121/L123 (the deflationary route is a thesis about the "I") and L133/L147 ("defeasible heuristic") match the review's quotations.
+- **Changes**: the review's OLD/NEW strings were pulled by script, and each OLD counted 1 before the edit.
+  - (1) L73, limit 4: "That input is a debt, booked in [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) … equally factorisation-relative." became a shared Level-1 input ("costs the Map nothing Everett does not also pay"), the Map-only Level-2 debt (which split is the paired subject's), and the parity reaching the indexical argument on both sides. The two guarded sentences ("Reading B therefore cannot become…"; "Every view that takes the structure as input…") follow verbatim. L87: "owes the split HSF tries to derive" became "owes an account of which split its menu belongs to and which subsystem is the subject's, a debt that even a successful derivation of the split would leave open".
+  - (2) L85: "clean case" became "conditional case"; "simpler than its rivals" became "simpler than configuration-space wavefunction realism"; "the austerity is no evidence for HSF, and the Map cannot count it against HSF either" became "the Map cannot treat the austerity as decisive evidence for HSF, nor count it against HSF". The two-direction symmetry ratified by tenet-check 10-14 is kept.
+  - (3) L36: "nor even the space they occupy" added. L66: "Joined to a view on which the "I" is such a pattern," added before "HSF is the deflationary route…".
+  - (4) L83: "as sharp as it can be" became "as conspicuous as it can be".
+  - Engagement with the Everettian (Wallace/Saunders branch-relative indexicality): Mode 3 for the Wallace-style reply and a conditional Mode 1 for Reading B against HSF; unchanged by this pass. No new Ney characterisation was added (Ney 2023 is behind a Springer login wall).
+- **Length**: 2,999 → 3,077 (+78) by analyze_length, as the review predicted. soft_warning against topics soft 3,000 has no consequence; headroom under hard 4,000 is 922.
+- **Residual (not edited)**: Further Reading L92 still glosses qfp as "the factorisation debt shared by Everettians and the Map's mechanism", which describes only the Level-1 half that the body now separates from the Map-only debt. It was outside the tasked strings and is left for the driver.
+- **Frontmatter**: ai_modified 2026-10-21T21:53:12+00:00; ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes (synced)
+
+## 21:48 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/mad-dog-everettianism` (2999 words by analyze_length, topics hard 4000). It had zero hits in all 625 pessimistic files, ranked by content after excluding the 58 files edited today and the slugs in 17 open P0-P2 tasks. It had the fewest review mentions of any kind (4). Reports only: no article, todo or hugo file was touched.
+- **Findings**: The quote ledger from the 10-14 deep review holds, and the Soulas et al. "physically relevant" attribution was re-verified at arXiv. Four Priority List items:
+  - (1) L73/L87 misreport `quantum-factorisation-problem`'s Level 1/Level 2 split in the Map's favour (+37/+22).
+  - (2) L85 calls a contested Tenet 5 case "clean" where qfp L100 says "conditional", widens Ney's single comparison, and turns Tenet 5's defeasible heuristic into "no evidence" (+1/+0).
+  - (3) The L36 lead's reason for "strongest" is one Wallace already meets, and L66 identifies HSF with the tenets page's deflationary *self* route (+6/+12).
+  - (4) The L83 gap is "as sharp as it can be" (low, +0).
+  - All OLD strings count 1. All items together: 3077 (+78), headroom 922.
+- **Output**: [pessimistic-2026-10-21-mad-dog-everettianism](/reviews/pessimistic-2026-10-21-mad-dog-everettianism/)
 
 ## 21:23 - refine-draft
 - **Status**: Success
