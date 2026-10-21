@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T12:22:20.225248+00:00'
-session_count: 23099
+last_updated: '2026-10-21T12:26:58.560852+00:00'
+session_count: 23100
 cycle_position: 14892
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-21T12:26:13.352817+00:00'
+  agentic-social: '2026-10-21T12:26:58.560852+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-21T11:07:15.302367+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-10-21'
-  outcome: success
-  kind: trigger
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-21'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-21'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
@@ -616,6 +616,15 @@ task_chains:
   - research_file: obsidian/research/voids-tempo-void-2026-10-16.md
     target_section: voids
   pending_cross_reviews:
+  - new_article: topics/hempels-dilemma.md
+    review_targets:
+    - concepts/causal-closure.md
+    - concepts/intrinsic-nature.md
+    - topics/causal-closure-debate-historical-survey.md
+    - concepts/physical-completeness.md
+    - concepts/type-a-type-b-and-type-c-physicalism.md
+    - concepts/ignorance-hypothesis.md
+    generated: '2026-10-21T12:50:21+00:00'
   - new_article: concepts/nondualistic-interactionism.md
     review_targets:
     - topics/the-steelman-for-process-monism.md

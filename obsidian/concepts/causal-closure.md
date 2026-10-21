@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-21T09:54:14+00:00
+ai_modified: 2026-10-21T12:50:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
-Montero (2003) presses a deeper problem: defining "physical" itself (Hempel's dilemma). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
+Montero (2003) presses a deeper problem: defining "physical" itself ([[hempels-dilemma|Hempel's dilemma]]). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
 
 ### Observational vs Universal Closure
 

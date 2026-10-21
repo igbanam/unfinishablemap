@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T12:21:34+00:00
+ai_modified: 2026-10-21T12:51:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:51 - expand-topic
+- **Status**: Success
+- **Topic**: Hempel's Dilemma and the Definition of the Physical (todo L40; section override concepts→topics per the harvest rationale; topics 352/370 re-measured at 12:44Z)
+- **Output**: [[topics/hempels-dilemma]]
+- **Word count**: 2,690 by analyze_length (prose 2,215; Further Reading 21; references 454). Topics soft 3,000 / hard 4,000.
+- **Based on research**: yes, [[research/hempels-dilemma-and-the-definition-of-the-physical-2026-10-21]]
+- **Quotations**: all 43 quoted strings grep-verified against the cached raw sources (SEP *Physicalism* 2026 text, Montero 2003 HTML, Gyenis arXiv text, OpenAlex abstracts, tenets.md) after quote/dash/whitespace normalisation; "explanatory gap" confirmed absent from Montero 2003 with positive controls. Crossref corrected two of my own draft errors before publication (Buzaglo is David, Tiehen is Justin).
+- **Integration**: zero-word piped links to `topics/hempels-dilemma` in `concepts/causal-closure` L108, `concepts/intrinsic-nature` L63, `topics/causal-closure-debate-historical-survey` L99, `concepts/physical-completeness` L90, `concepts/type-a-type-b-and-type-c-physicalism` L73, `concepts/ignorance-hypothesis` L110 (every host length unchanged).
+- **Chain**: P2 cross-review task minted above Completed Tasks; registered in `task_chains.pending_cross_reviews`. Tenet 1 exposure stated as an open question only; `tenets.md` untouched (NEEDS-HUMAN doctrine task already open).
 
 ## 12:21 - optimistic-review
 - **Status**: Success

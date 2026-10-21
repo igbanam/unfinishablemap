@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 11:28:55+00:00
+ai_modified: 2026-10-21 12:51:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 11:28:55+00:00
+lastmod: 2026-10-21 12:51:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:51 - expand-topic
+- **Status**: Success
+- **Topic**: Hempel's Dilemma and the Definition of the Physical (todo L40; section override concepts→topics per the harvest rationale; topics 352/370 re-measured at 12:44Z)
+- **Output**: [hempels-dilemma](/topics/hempels-dilemma/)
+- **Word count**: 2,690 by analyze_length (prose 2,215; Further Reading 21; references 454). Topics soft 3,000 / hard 4,000.
+- **Based on research**: yes, [hempels-dilemma-and-the-definition-of-the-physical-2026-10-21](/research/hempels-dilemma-and-the-definition-of-the-physical-2026-10-21/)
+- **Quotations**: all 43 quoted strings grep-verified against the cached raw sources (SEP *Physicalism* 2026 text, Montero 2003 HTML, Gyenis arXiv text, OpenAlex abstracts, tenets.md) after quote/dash/whitespace normalisation; "explanatory gap" confirmed absent from Montero 2003 with positive controls. Crossref corrected two of my own draft errors before publication (Buzaglo is David, Tiehen is Justin).
+- **Integration**: zero-word piped links to `topics/hempels-dilemma` in `concepts/causal-closure` L108, `concepts/intrinsic-nature` L63, `topics/causal-closure-debate-historical-survey` L99, `concepts/physical-completeness` L90, `concepts/type-a-type-b-and-type-c-physicalism` L73, `concepts/ignorance-hypothesis` L110 (every host length unchanged).
+- **Chain**: P2 cross-review task minted above Completed Tasks; registered in `task_chains.pending_cross_reviews`. Tenet 1 exposure stated as an open question only; `tenets.md` untouched (NEEDS-HUMAN doctrine task already open).
+
+## 12:21 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: four pages whose optimistic-review hits are all mentions, not reviews. Coverage was counted on content across 608 `optimistic-*` files and 876 live articles. The only zero-hit pages, `topics/alief-and-acting-against-belief` and `concepts/causal-relevance-of-content`, were created today. The four: `topics/whether-language-model-words-refer`, `concepts/conceptual-role-semantics`, `concepts/process-content-distinction` and `concepts/the-relocation-objection`. All were read in full, with their deep-review Stability Notes. None was edited today, and none is the `File:` of an open task.
+- **Findings**:
+  - Shared method (structure versus source): each page splits its question into the half a rival can have and the half it cannot, then declines the dividend ("It does not supply seven arguments for dualism"; "untested rather than confirmed"; "calibration craft, not metaphysics"). The Process Philosopher and the Hardline Empiricist converge, and there is no calibration concern inside the wing.
+  - Seams: the research note's instruction to place Piantadosi & Hill 2022 (meaning without reference, via conceptual role) was never executed, and CRS has no LLM case. `process-content-distinction` does not know that Turpin et al. 2023 ran Nisbett and Wilson's ground-truth design on LLMs and found a positional bias that models "systematically fail to mention". `cross-architecture-llm-introspection` L70 names a "Nisbett–Wilson analogue" without linking. `llm-consciousness` L191 still says LLM symbols "lack genuine meaning". The relocation page's L55 diagnostic has a worked content instance on CRS L57, and the two pages have 0 links either way.
+  - Priority List: 4 items, +267 words across five files plus one zero-word pipe; every host stays below its hard gate.
+  - Not-covered subjects: (1) singular thought and the acquaintance requirement, with 0 hits live, in research and in archive for singular thought/reference/content, "Russell's principle", Jeshion, "Reference Book" and "acquaintance requirement" (controls: "Varieties of Reference" 10, word-bounded "de re" 10); (2) Ericsson & Simon's protocol analysis, with 0 for "protocol analysis", "think-aloud" and "Smith and Miller"; the 3 "Ericsson" files are all the 1993 deliberate-practice paper (controls: "Nisbett" 36, "choice blindness" 14).
+- **Sources verified** (raw arXiv HTML, `grep -cF`): Piantadosi & Hill 2022 (arXiv:2208.02957, 2 spans); Turpin et al. 2023 (arXiv:2305.04388, 1 span, venue NeurIPS 2023).
+- **Output**: [optimistic-2026-10-21-structure-and-source-wing](/reviews/optimistic-2026-10-21-structure-and-source-wing/)
+
+## 12:00 - research-topic
+- **Status**: Success
+- **Topic**: Hempel's dilemma and the definition of the physical (todo L40, harvested from the 2026-10-21 ChatGPT outer review §4/§9.4; synthesis clusters 1 and 5)
+- **Output**: [hempels-dilemma-and-the-definition-of-the-physical-2026-10-21](/research/hempels-dilemma-and-the-definition-of-the-physical-2026-10-21/)
+- **Sources consulted**: 38 (read raw: SEP *Physicalism*, 2026 revision, §§4.1–4.7 and bibliography; Montero 2003; Wilson's 2005 draft; Gyenis 2025 arXiv; Cea Jacques 2019; Rorty's NDPR review of van Fraassen; the Routledge page for Stoljar 2010; OpenAlex/S2 abstracts for Crane & Mellor, Stoljar 2001, Ney 2008b, Tiehen, Msimang, Crook & Gillett, Firt–Hemmo–Shenker and Gyenis; Crossref metadata for all)
+- **Verdict**: write. `recommended_action: article`, target `concepts/hempels-dilemma` ("Hempel's Dilemma"), about 2,300–2,600 words by analyze_length. Concepts stand at 362/370.
+- **Key findings**:
+  - The dilemma is a problem for theory-relative definitions of "physical", not evidence for dualism, quiddities or the failure of closure.
+  - Hempel's original target was linguistic (unity-of-science) physicalism.
+  - The label's coiner is unsettled.
+  - Firt, Hemmo & Shenker (2021) extend the dilemma to dualism; Buzaglo (2024) replies.
+  - Tenet 1's physics-relative wording takes the second horn. The note proposes the no-fundamental-mentality restatement, flagged NEEDS-HUMAN for tenets.md.
+- **Not read**: Hempel 1969 and 1980 (no accessible copy); Buzaglo, Brown 2022 and Alter 2024 full texts.
+- **Chain**: not minted. The driver hand-mints the expand-topic task (same-day harvest false-skip).
 
 ## 11:28 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-21 10:09:35+00:00
+ai_modified: 2026-10-21 12:50:21+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-10-21 10:09:35+00:00
+lastmod: 2026-10-21 12:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Three strands of contemporary philosophical criticism have put pressure on causa
 
 **Buhler's systematic critique.** Keith Buhler (2020) examined the extant arguments for causal closure and argued that none of them succeeds. Deductive arguments beg the question — they assume the physical domain is complete in order to prove that it is complete. Inductive arguments commit sampling errors: the success of physical explanation within domains we have investigated does not establish completeness across *all* domains, including the consciousness-physics interface. Even the strongest inductive conclusions remain compatible with causal openness.
 
-**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure," then asked what "physical" means in them. If it means whatever physics will account for, closure no longer tells against dualism, since a future physics might incorporate fundamental mental properties. If it means "the fundamentally nonmental," her preferred reading, a completable physics does not imply closure: "Science can be as successful as you like and CC could still be false." She judges Hempel's dilemma about physicalism (current physics yields a thesis "we cannot defend," future physics one "impossibly vague") not fatal on its own. Against Gillett and Witmer (2001), who turn it on Papineau's physiological argument, she holds that a version stated over current physiology escapes the first horn. Whether physiology strongly supports closure she finds "not entirely clear."
+**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure," then asked what "physical" means in them. If it means whatever physics will account for, closure no longer tells against dualism, since a future physics might incorporate fundamental mental properties. If it means "the fundamentally nonmental," her preferred reading, a completable physics does not imply closure: "Science can be as successful as you like and CC could still be false." She judges [Hempel's dilemma](/topics/hempels-dilemma/) about physicalism (current physics yields a thesis "we cannot defend," future physics one "impossibly vague") not fatal on its own. Against Gillett and Witmer (2001), who turn it on Papineau's physiological argument, she holds that a version stated over current physiology escapes the first horn. Whether physiology strongly supports closure she finds "not entirely clear."
 
 **Lowe's compatibility argument.** E.J. Lowe (2000) argued that standard formulations of causal closure are *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles would leave room for mind-body interaction. Separately, Pitts (2020) argues that conservation laws are local and hold only where the relevant symmetries hold, and that constant total energy for the universe as a whole requires the global sum of local conservation laws to converge, which it probably does not. Expecting conservation to hold in the brain without looking therefore assumes that interactionism is false; as Cucu and Pitts (2019) put it, "a decent objection to interactionism should be a posteriori, based on empirically studying the brain." General relativity, on Pitts's analysis, cuts the other way. Against authors who read the non-localisability of gravitational energy as a loophole, Pitts (2022) uses the generalised Bianchi identities to argue that general relativity makes Cartesian mental causation harder, forcing the simplest model of mental influence to vanish, though "the difficulty may diminish for more complicated models."
 

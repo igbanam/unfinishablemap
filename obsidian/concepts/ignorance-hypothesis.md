@@ -4,7 +4,7 @@ description: "Stoljar's ignorance hypothesis: we lack non-experiential truths re
 created: 2026-10-03
 modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-07T23:14:31+00:00
+ai_modified: 2026-10-21T12:50:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ What follows is the Map's own analysis, drawn by neither Stoljar nor Chalmers. T
 
 **[[tenets#^dualism|Dualism]].** Tenet 1 is the commitment the hypothesis denies and the operative exclusion. The view accepts the reality of experience and denies its irreducibility, so against it Tenet 1 stands as a commitment the premise-sharing cluster must earn, while the hypothesis supplies a standing account of why that cluster might fail.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The hypothesis needs no gap in causal closure. A defender can absorb a future physics with novel structure, but a physics whose laws mention consciousness would take the fourth route, where the Map's interface sits.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The hypothesis needs no gap in causal closure. A defender can absorb a future physics with novel structure, but [[hempels-dilemma|a physics whose laws mention consciousness]] would take the fourth route, where the Map's interface sits.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** The tenet gains no purchase: on the hypothesis, consciousness does whatever causal work its physical basis does, so the selection step has nothing to exclude.
 

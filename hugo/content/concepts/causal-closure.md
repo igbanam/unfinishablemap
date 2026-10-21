@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-21 09:54:14+00:00
+ai_modified: 2026-10-21 12:50:21+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 03:24:48+00:00
-lastmod: 2026-10-21 09:54:14+00:00
+lastmod: 2026-10-21 12:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
-Montero (2003) presses a deeper problem: defining "physical" itself (Hempel's dilemma). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
+Montero (2003) presses a deeper problem: defining "physical" itself ([Hempel's dilemma](/topics/hempels-dilemma/)). Stated over current physics, closure is probably false—current physics is incomplete. Stated over a completed physics, it is, in Montero's phrase about physicalism, "impossibly vague": its content waits on a physics no one can yet specify, which might include mental causation. She judges the dilemma not fatal on its own.
 
 ### Observational vs Universal Closure
 

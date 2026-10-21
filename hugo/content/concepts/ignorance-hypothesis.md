@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-07 23:14:31+00:00
+ai_modified: 2026-10-21 12:50:21+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 16:17:52+00:00
-lastmod: 2026-10-07 23:14:31+00:00
+lastmod: 2026-10-21 12:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ What follows is the Map's own analysis, drawn by neither Stoljar nor Chalmers. T
 
 **[Dualism](/tenets/#dualism).** Tenet 1 is the commitment the hypothesis denies and the operative exclusion. The view accepts the reality of experience and denies its irreducibility, so against it Tenet 1 stands as a commitment the premise-sharing cluster must earn, while the hypothesis supplies a standing account of why that cluster might fail.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The hypothesis needs no gap in causal closure. A defender can absorb a future physics with novel structure, but a physics whose laws mention consciousness would take the fourth route, where the Map's interface sits.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The hypothesis needs no gap in causal closure. A defender can absorb a future physics with novel structure, but [a physics whose laws mention consciousness](/topics/hempels-dilemma/) would take the fourth route, where the Map's interface sits.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The tenet gains no purchase: on the hypothesis, consciousness does whatever causal work its physical basis does, so the selection step has nothing to exclude.
 

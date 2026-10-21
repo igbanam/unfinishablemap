@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-21 07:50:55+00:00
+ai_modified: 2026-10-21 12:50:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:00+00:00
-lastmod: 2026-10-21 07:50:55+00:00
+lastmod: 2026-10-21 12:50:21+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -65,7 +65,7 @@ The bearer premise has a second rival, which rejects it outright. Pure-powers th
 
 ## Hempel's Dilemma and What "Physical" Means
 
-The distinction bears on a problem about the word *physical* itself. Carl Hempel's dilemma (Hempel 1980) asks what "physical" means in claims like "everything is physical." If it means *what current physics describes*, the claim is probably false, since current physics is incomplete and acknowledged to be so. If it means *what a completed future physics will describe*, the claim is, in Montero's phrase, "impossibly vague" (Montero 2003): the charge is not that it cannot be tested but that its content waits on a physics no one can yet specify, which might include fundamentally mental properties.
+The distinction bears on a problem about the word *physical* itself. [Carl Hempel's dilemma](/topics/hempels-dilemma/) (Hempel 1980) asks what "physical" means in claims like "everything is physical." If it means *what current physics describes*, the claim is probably false, since current physics is incomplete and acknowledged to be so. If it means *what a completed future physics will describe*, the claim is, in Montero's phrase, "impossibly vague" (Montero 2003): the charge is not that it cannot be tested but that its content waits on a physics no one can yet specify, which might include fundamentally mental properties.
 
 The dilemma is a problem for defining "physical" by reference to physics, and it gives no independent evidence that physics omits quiddities; Montero judges it not fatal on its own even to such definitions. Russellian physicalists add that quiddities may themselves be physical (Pereboom 2015), and on readings of "physical" built on a no-fundamental-mentality condition (Montero 2003; Wilson 2006), non-mental quiddities can count. On readings that are not Russellian-physicalist, and granting the structuralist reading of physics, neither horn reaches quiddities: "everything is physical" is then either a claim about structure (true but partial) or a claim about a complete ontology that structural physics is in no position to underwrite. The Map extends this to the [causal-closure principle](/concepts/causal-closure/), going beyond what Montero claims: stated over current physics, closure is probably false, and stated over a completed physics it is as vague as the definition it borrows.
 

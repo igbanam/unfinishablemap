@@ -4,7 +4,7 @@ description: "Chalmers's three physicalist replies to the explanatory gap, route
 created: 2026-10-02
 modified: 2026-10-09
 human_modified:
-ai_modified: 2026-10-09T23:04:27+00:00
+ai_modified: 2026-10-21T12:50:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ Chalmers argues that the type-C view is "inherently unstable": it "must collapse
 1. Closure by better reasoning, showing that explaining the functions explains everything, is type-A.
 2. Materialism held without any implication from physics to consciousness is type-B.
 3. Closure by a complete physics that includes the intrinsic natures of physical things is type-F.
-4. Closure by future physics "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
+4. Closure by [[hempels-dilemma|future physics]] "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
 
 Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result. The third route is also less of a defeat than it sounds: Chalmers files views that expand "our view of the physical base to include underlying intrinsic properties", Daniel Stoljar's among them, under type F, which from one perspective "can be seen as a sort of materialism". Stoljar's later [[ignorance-hypothesis|ignorance hypothesis]] (2006), which traces the problem to ignorance of relevant physical facts, keeps the type-C hope alive in physicalist terms.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-02
-ai_modified: 2026-10-09 23:04:27+00:00
+ai_modified: 2026-10-21 12:50:21+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 12:15:57+00:00
-lastmod: 2026-10-09 23:04:27+00:00
+lastmod: 2026-10-21 12:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ Chalmers argues that the type-C view is "inherently unstable": it "must collapse
 1. Closure by better reasoning, showing that explaining the functions explains everything, is type-A.
 2. Materialism held without any implication from physics to consciousness is type-B.
 3. Closure by a complete physics that includes the intrinsic natures of physical things is type-F.
-4. Closure by future physics "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
+4. Closure by [future physics](/topics/hempels-dilemma/) "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
 
 Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result. The third route is also less of a defeat than it sounds: Chalmers files views that expand "our view of the physical base to include underlying intrinsic properties", Daniel Stoljar's among them, under type F, which from one perspective "can be seen as a sort of materialism". Stoljar's later [ignorance hypothesis](/concepts/ignorance-hypothesis/) (2006), which traces the problem to ignorance of relevant physical facts, keeps the type-C hope alive in physicalist terms.
 
