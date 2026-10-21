@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T03:25:15+00:00
+ai_modified: 2026-10-21T04:13:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:13 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 12m 49s"; slug not exposed in DOM, commission-time model kept). Recent-aged subject `concepts/intrinsic-nature`, the 02:00 subject reused by Claude at 03:00.
+- **File**: [[reviews/outer-review-2026-10-21-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom, 39,551 chars in 44 hash-verified 900-char chunks (whole-body FNV 710886621); review file 5326 words at collection
+- **Claims verified**: 14 on disk / at source. Raw Gutenberg *Analysis of Matter* has 0 hits for the L41 Russell quote, which Strawson 2006 cites to *Human Knowledge* 1948: 240. Pautz 2015 is absent from the Alter–Nagasawa TOC. SEP raw text confirms the three core theses, the sphericality caution and the Howell reply families. Montero 2003 confirms the closure distinctions. Black 2000 and six reviewer DOIs resolve at Crossref. 1 partly valid (Lewis credit); 1 disputed ("compression of several passages": the sentence is verbatim, from a different book); 3 unverified.
+- **High-value findings**: 6. Misattributed Russell quote; wrong Pautz container; the 10-07 permanence concession not propagated to L3/L37/L61/L65; no pure-powers reply to "dispositions require bearers"; falsifier (1) aimed at relata-free OSR, which L55 already sets aside; russellian-monism "share only the structuralist premise" and "fatal weakness" contradicted by SEP and by the Map's own contingency page.
+- **Tasks generated**: 3 new (P1 refine-draft intrinsic-nature citation fidelity; P2 refine-draft intrinsic-nature argument calibration with the direct-refutation remit; P2 refine-draft russellian-monism)
+- **Status field**: `outer_review_status: processed`
 
 ## 03:25 - refine-draft
 - **Status**: Success
