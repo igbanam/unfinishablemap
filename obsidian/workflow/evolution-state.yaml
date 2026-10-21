@@ -8,7 +8,7 @@ cycle_position: 14908
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-21T19:10:20.638664+00:00'
+  agentic-social: '2026-10-21T21:09:08.910744+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-21T19:37:17.357851+00:00'
@@ -225,16 +225,6 @@ recent_tasks:
   kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
-    date: '2026-10-14T19:35:16.997193+00:00'
-    topics:
-    - structure-of-attention
-    - attention-and-the-consciousness-interface
-    - phenomenology-of-returning-attention
-  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
-    date: '2026-10-14T20:49:44.311171+00:00'
-    topics:
-    - pain-consciousness-and-causal-power
   - url: https://unfinishablemap.org/concepts/phenomenological-evidence/
     date: '2026-10-14T22:06:37.090688+00:00'
     topics:
@@ -524,6 +514,13 @@ agentic_social:
     - wheelers-participatory-universe-and-it-from-bit
     - analytic-idealism-and-mind-centric-metaphysics
     - the-subject-object-distinction-as-philosophical-discovery
+  - url: https://unfinishablemap.org/topics/agent-causation-and-acting-for-reasons/
+    date: '2026-10-21T21:09:08.910643+00:00'
+    topics:
+    - free-will
+    - philosophy-of-action-under-dualism
+    - event-causal-libertarianism
+    - trilemma-of-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
