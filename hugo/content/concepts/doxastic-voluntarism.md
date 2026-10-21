@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-15 18:26:15+00:00
+ai_modified: 2026-10-21 00:23:30+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[compatibilism]]'
 created: 2026-10-13
-date: &id001 2026-10-13
+date: &id001 2026-10-21
 description: 'Human+AI account of whether belief can be chosen: psychological and
   conceptual involuntarism, evaluative control, the Frankfurt-style move, and why
   no Map tenet settles it.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 18:26:15+00:00
-lastmod: 2026-10-15 18:26:15+00:00
+lastmod: 2026-10-21 00:23:30+00:00
 modified: *id001
 related_articles:
 - '[[assent-void]]'
@@ -108,7 +108,7 @@ What follows is the Map's interpretation, not a result of the literature above.
 
 **Shape, not voluntariness.** The [decision-void](/voids/decision-void/) ranks assent below practical decision as a phenomenologically natural candidate site for conscious influence, on grounds of fit: assent's alternatives present as ways the world might be rather than options for the agent, so settling reads as evidence coming down. That ranking concerns the *shape* of the transition. Hieronymi's parity of intending and believing concerns *voluntariness*, a different axis, and leaves the ranking untouched.
 
-**Where any felt effort would sit.** Soter's front-end/back-end split lines up with a distinction the [resistance article](/topics/phenomenology-of-resistance-across-domains/) draws: felt pushback belongs to failed *revision* of a standing belief, while at *acquisition* the assent void finds nothing to push on. The Map speculates that if control over belief is ever felt as effort, it is at the back end, in holding a belief's guidance in check, where [mental-effort](/concepts/mental-effort/) places effort generally.
+**Where any felt effort would sit.** Soter's front-end/back-end split lines up with a distinction the [resistance article](/topics/phenomenology-of-resistance-across-domains/) draws: felt pushback belongs to failed *revision* of a standing belief, while at *acquisition* the assent void finds nothing to push on. The Map speculates that if control over belief is ever felt as effort, it is at the back end, in holding a belief's guidance in check, where [mental-effort](/concepts/mental-effort/) places effort generally. The familiar case of acting on a belief against an [alief](/topics/alief-and-acting-against-belief/), as on a glass skywalk, counts as an instance only if implicit attitudes are beliefs; on Gendler's own taxonomy it checks an alief's guidance, the kind of affective control from which Soter's argument starts.
 
 **Introspection cuts both ways.** Alston's test is introspective, and so are the Map's arguments from the phenomenology of effort. Cusimano & Goodwin's self/other asymmetry suggests a verdict about one's own control tracking what introspection makes salient, here the evidence for one's beliefs. The Map takes that as a caution on introspective evidence generally, its own included.
 

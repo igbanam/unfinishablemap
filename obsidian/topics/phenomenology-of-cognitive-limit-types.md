@@ -2,9 +2,9 @@
 title: "The Phenomenology of Cognitive Limit Types"
 description: "Human+AI systematic mapping of how different cognitive limits feel from the inside—frustration, satisfaction, illusory comprehension, and finer signatures that diagnose what kind of boundary consciousness has encountered."
 created: 2026-03-17
-modified: 2026-03-17
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-12T10:27:29+00:00
+ai_modified: 2026-10-21T00:23:30+00:00
 last_deep_review: 2026-10-12T10:27:29+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-capacity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
 ---
@@ -62,7 +62,7 @@ Equally compelling arguments for incompatible conclusions produce paralysis rath
 
 ### Epistemic Vertigo
 
-Destabilisation at the meta-level — questioning whether your questioning is reliable, doubting whether your doubts are well-founded. Unlike aporia's paralysis, vertigo involves *oscillation*: each attempt to stabilise generates new instability. Duncan Pritchard (2020) describes it as "a response to one's overall rational position which is in a sense phobic" — an alief rather than a belief, which on his account can persist even after a fully adequate response has shown the provoking sceptical paradox to be illusory. Vertigo can therefore outlast any genuine obstacle. The Map nonetheless reads it as a signal of approach to self-referential limits where cognition turns on itself recursively, a diagnostic use Pritchard does not make. It appears characteristically when examining the reliability of introspection, the foundations of logic, or one's own consciousness.
+Destabilisation at the meta-level — questioning whether your questioning is reliable, doubting whether your doubts are well-founded. Unlike aporia's paralysis, vertigo involves *oscillation*: each attempt to stabilise generates new instability. Duncan Pritchard (2020) describes it as "a response to one's overall rational position which is in a sense phobic" — [[alief-and-acting-against-belief|an alief]] rather than a belief, which on his account can persist even after a fully adequate response has shown the provoking sceptical paradox to be illusory. Vertigo can therefore outlast any genuine obstacle. The Map nonetheless reads it as a signal of approach to self-referential limits where cognition turns on itself recursively, a diagnostic use Pritchard does not make. It appears characteristically when examining the reliability of introspection, the foundations of logic, or one's own consciousness.
 
 ### Systematic Illusion
 

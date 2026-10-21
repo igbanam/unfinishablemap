@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20T23:53:10+00:00
+ai_modified: 2026-10-21T00:24:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:24 - expand-topic
+- **Status**: Success
+- **Topic**: Alief and Acting Against What One Believes
+- **Output**: [[topics/alief-and-acting-against-belief]]
+- **Word count**: 3309 (analyze_length, topics soft 3000 / hard 4000, status soft_warning). Split: prose about 2,690, Further Reading 109, References 533 (24 entries). Prose sits inside the 2,000–2,800 brief; the soft overrun is the reference apparatus.
+- **Based on research**: yes, [[research/alief-and-acting-against-what-one-believes-2026-10-20]]
+- **Content**: Gendler's alief and the precipice cases (Skywalk; Hume T 1.3.13.9–10; Rozin 1990); three rival families (deflationary; implicit attitudes as beliefs; Schwitzgebel's in-between, with his p. 549 n. 5 exemption of the glass floor); a short empirical section (dual-process template as the rival; implicit-measure record; priming non-replications flagged, not leaned on); a three-row table answering whether acting on belief against alief is back-end control (no on Gendler's taxonomy, yes only on the belief reading, neither for Juliet on the in-between reading); the noticing condition; Gendler's p. 651 involuntarism parity.
+- **Calibration**: tenet-coherent, not evidence-elevating. Bidirectional Interaction named as the tenet engaged, at the compatibility rung; MQI and No Many Worlds stated as not engaged. Gendler's physicalism (2008a p. 642) stated; Soter not said to discuss alief.
+- **Verification**: all quoted spans grep-verified against raw sources this session. Gendler 2008a full text (course PDF, page locators re-checked), Schwitzgebel 2010 full text (author PDF, pp. 532/539/540/549 re-checked), Hume at davidhume.org, SEP Belief and Implicit Bias raw HTML, and Crossref/OpenAlex/PubMed abstracts for every abstract quote. All 20 DOIs resolved at Crossref (the two SEP entries checked at plato.stanford.edu); keys checked on (surname, year) in both directions. Gendler is cited as 2008 in the article because 2008b is not cited.
+- **Integration**: doxastic-voluntarism L107 (+1 sentence, 3028/3500); akrasia-and-weakness-of-will L62 (zero-word pipe on the enkratic agent, 3622/4000); phenomenology-of-cognitive-limit-types L65 (zero-word pipe on Pritchard's "an alief", 2656/4000); mental-effort L50 (zero-word pipe, 3348/3500); phenomenology-of-resistance-across-domains L63 (+1 sentence, inverse case, 3239/4000); self-control-as-skill-and-scaffolding L46 (+1 sentence on Gendler's "full disclosure" point, plus a Gendler 2008 reference, 2938/3500). volitional-control was not touched.
+- **Chain**: registered in task_chains.pending_cross_reviews (8 targets, including the-divided-will and philosophy-of-habit-under-dualism, which were not edited).
 
 ## 23:53 - research-topic
 - **Status**: Success

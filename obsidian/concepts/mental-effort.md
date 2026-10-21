@@ -2,9 +2,9 @@
 title: "Mental Effort"
 description: "Why controlling attention feels like work—and what this widely-shared phenomenology reveals about consciousness influencing matter."
 created: 2026-01-14
-modified: 2026-10-04
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-21T00:23:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -47,7 +47,7 @@ last_curated: null
 last_deep_review: 2026-07-30T14:52:44+00:00
 ---
 
-Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [[evidential-status-discipline]]).
+Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that [[alief-and-acting-against-belief|overriding impulses requires work]]—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [[evidential-status-discipline]]).
 
 See [[attentional-economics]] for how this effort phenomenology fits within a broader framework where agency is the allocation of scarce attentional resources.
 

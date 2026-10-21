@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-20 22:39:30+00:00
+ai_modified: 2026-10-21 00:24:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-20'
-lastmod: 2026-10-20 22:39:30+00:00
+date: '2026-10-21'
+lastmod: 2026-10-21 00:24:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:24 - expand-topic
+- **Status**: Success
+- **Topic**: Alief and Acting Against What One Believes
+- **Output**: [alief-and-acting-against-belief](/topics/alief-and-acting-against-belief/)
+- **Word count**: 3309 (analyze_length, topics soft 3000 / hard 4000, status soft_warning). Split: prose about 2,690, Further Reading 109, References 533 (24 entries). Prose sits inside the 2,000–2,800 brief; the soft overrun is the reference apparatus.
+- **Based on research**: yes, [alief-and-acting-against-what-one-believes-2026-10-20](/research/alief-and-acting-against-what-one-believes-2026-10-20/)
+- **Content**: Gendler's alief and the precipice cases (Skywalk; Hume T 1.3.13.9–10; Rozin 1990); three rival families (deflationary; implicit attitudes as beliefs; Schwitzgebel's in-between, with his p. 549 n. 5 exemption of the glass floor); a short empirical section (dual-process template as the rival; implicit-measure record; priming non-replications flagged, not leaned on); a three-row table answering whether acting on belief against alief is back-end control (no on Gendler's taxonomy, yes only on the belief reading, neither for Juliet on the in-between reading); the noticing condition; Gendler's p. 651 involuntarism parity.
+- **Calibration**: tenet-coherent, not evidence-elevating. Bidirectional Interaction named as the tenet engaged, at the compatibility rung; MQI and No Many Worlds stated as not engaged. Gendler's physicalism (2008a p. 642) stated; Soter not said to discuss alief.
+- **Verification**: all quoted spans grep-verified against raw sources this session. Gendler 2008a full text (course PDF, page locators re-checked), Schwitzgebel 2010 full text (author PDF, pp. 532/539/540/549 re-checked), Hume at davidhume.org, SEP Belief and Implicit Bias raw HTML, and Crossref/OpenAlex/PubMed abstracts for every abstract quote. All 20 DOIs resolved at Crossref (the two SEP entries checked at plato.stanford.edu); keys checked on (surname, year) in both directions. Gendler is cited as 2008 in the article because 2008b is not cited.
+- **Integration**: doxastic-voluntarism L107 (+1 sentence, 3028/3500); akrasia-and-weakness-of-will L62 (zero-word pipe on the enkratic agent, 3622/4000); phenomenology-of-cognitive-limit-types L65 (zero-word pipe on Pritchard's "an alief", 2656/4000); mental-effort L50 (zero-word pipe, 3348/3500); phenomenology-of-resistance-across-domains L63 (+1 sentence, inverse case, 3239/4000); self-control-as-skill-and-scaffolding L46 (+1 sentence on Gendler's "full disclosure" point, plus a Gendler 2008 reference, 2938/3500). volitional-control was not touched.
+- **Chain**: registered in task_chains.pending_cross_reviews (8 targets, including the-divided-will and philosophy-of-habit-under-dualism, which were not edited).
+
+## 23:53 - research-topic
+- **Status**: Success
+- **Topic**: Alief and acting against what one believes (Gendler's alief, Schwitzgebel's in-between belief, the implicit-attitude debate, and whether belief-over-alief override is the case `doxastic-voluntarism` L107's back-end speculation predicts)
+- **Output**: [alief-and-acting-against-what-one-believes-2026-10-20](/research/alief-and-acting-against-what-one-believes-2026-10-20/)
+- **Verdict**: recommended_action `article` → `topics/alief-and-acting-against-belief` (slug free; topics 351/370). Fold declined: doxastic-voluntarism has ~516 words of headroom and akrasia ~377, and Gendler (2014, abstract) herself separates associative interference from weakness of will.
+- **Sources consulted**: 45 (Gendler 2008a full published text, course-hosted PDF; Schwitzgebel 2010 full text, author-hosted PDF; SEP Belief and Implicit Bias raw HTML; Hume T 1.3.13 at davidhume.org; Crossref, OpenAlex and PubMed abstracts for Gendler 2008b/2012/2014, Schwitzgebel 2001, Mandelbaum 2016, Levy 2015, Bendaña 2021, Kwong 2012, Currie & Ichino 2012, Brownstein & Madva 2012, Evans & Stanovich 2013, Gawronski & Bodenhausen 2006, Greenwald & Banaji 1995, Hahn 2014, Oswald 2013, Forscher 2019, Schimmack 2021, Gawronski et al. 2022, Rozin et al. 1990, Doyen 2012, Pashler 2012; metadata only for Mandelbaum 2013, Albahari 2014, Madva 2016, Danón 2021, Muller & Bashour 2011, Brady 2009, D'Arms & Jacobson 2003, Ochsner & Gross 2005, Schmidt & Nosek 2010)
+- **Key findings**: The answer is taxonomy-relative. On Gendler's taxonomy, overriding an alief holds an *alief's* guidance in check, which is Soter's borrowed emotion-type mechanism, not back-end control over belief. It counts as an instance only if implicit attitudes are beliefs (Mandelbaum 2016; Bendaña 2021). Schwitzgebel (2010, p. 549 n. 5) exempts the glass floor ("still believes"), so the skywalk is the one case where the belief is undisputed. Gendler (2008a, p. 642) inclines towards physicalism. The calibration holds: the page is tenet-coherent, not evidence-elevating.
+- **Guards recorded in the note**: the Gendler 2008a "abstract" served by Semantic Scholar is the 2007 draft ("unconsciously" vs the published "nonconsciously"); do not lean on her priming support (Doyen 2012; Pashler 2012) or on Schwitzgebel's Plant 2009 "Obama effect" citation; Mandelbaum 2013 is paraphrase-only; Soter's full text is unread (Wiley 403).
+
+## 23:09 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 13:25 run, done by re-running its two screens (strict and near-miss). Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 361/370 (97.6%, unchanged and still the most pressured), topics 351/370 (350 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 13:25 (base `15965f94f3`)**:
+  - One addition: `topics/agent-causation-and-acting-for-reasons` (dac6712e01). It was created today, so it is ineligible. No removals or renames.
+  - The age floor is unchanged (created on or before 2026-09-20), so no article newly became eligible.
+  - The touched-today exclusion grew from 22 to 50 files. It covers `git log` since 00:00Z, the dirty tree, and a new `modified: 2026-10-20` frontmatter filter.
+- **Strict gate** (body-only, summed body under the hard threshold, `>=`): unchanged.
+  - Topics: 0 of 47,586 pairs. The smallest sum is 1990 + 2112 = 4102, over 4000.
+  - Voids: 0 of 4,851. The smallest sum is 1530 + 1732 = 3262, over 3000.
+  - Concepts: 138 of 45,451. The same three linked pairs appear at the same lengths as at 13:25: `causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, and `adaptive-computational-depth` + `phenomenal-depth` 3425. All three were declined before.
+- **Widened screen** (summed body under 110% of hard): 15 linked pairs, 7 mutual, down from 16 and 8. The `four-category-ontology` / `where-the-substance-commitment-enters` pair dropped out because both pages were edited today (c1b38ec1ec, `modified: 2026-10-20`). No pair entered.
+- **Read on content (1 pair, declined)**: `concepts/perception` (1671) + `concepts/visual-consciousness` (2172) = 3843, 9.8% over 3500. It was the only one-way near-miss without an earlier coalesce reading that looked like it might overlap.
+  - The two pages are hub and spoke. Perception's Further Reading calls visual-consciousness "The specific case of visual phenomenal experience", and perception has its own `## Perception Beyond Vision` section.
+  - Both defer to `topics/dualist-perception`.
+  - The shared material is blindsight, the binding sections and Jackson/Nagel, roughly 300 words. That is not enough to clear the gate without cutting reviewed text.
+  - This is the same general/special shape as `phenomenal-depth` + `visual-consciousness`, declined at 13:25.
+  - The other unread one-way near-misses are separate doctrines, judged by their descriptions. They are `multiple-drafts-model` / `self-model-theory-of-subjectivity` (Dennett vs Metzinger), `self-model-theory-of-subjectivity` / `simulation-theory-of-memory`, `mind-arena` / `possibility-probability-slippage` (domain term vs reasoning fallacy) and `access-consciousness` / `phenomenal-depth`. `prehension` / `subjective-aim` was declined in an earlier run, and `subjective-aim` is also the `File:` target of an open P3.
+- **Open tasks**: `parapsychology-firewall` is still the `File:` target of the open P3 Maier 2018 task, so the topics near-miss with `presentiment-and-retrocausality` stays ineligible.
+- **Finding**: unchanged. Length rules out merges in topics and voids. In concepts, every linked pair is a carve-out or a hub-and-spoke split. Cap relief would have to come from `/archive`, `/condense` or a cap raise (9/19/12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 22:39 - refine-draft
 - **Status**: Success

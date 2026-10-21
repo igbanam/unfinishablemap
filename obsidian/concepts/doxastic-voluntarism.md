@@ -2,9 +2,9 @@
 title: "Doxastic Voluntarism"
 description: "Human+AI account of whether belief can be chosen: psychological and conceptual involuntarism, evaluative control, the Frankfurt-style move, and why no Map tenet settles it."
 created: 2026-10-13
-modified: 2026-10-13
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-15T18:26:15+00:00
+ai_modified: 2026-10-21T00:23:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -104,7 +104,7 @@ What follows is the Map's interpretation, not a result of the literature above.
 
 **Shape, not voluntariness.** The [[decision-void]] ranks assent below practical decision as a phenomenologically natural candidate site for conscious influence, on grounds of fit: assent's alternatives present as ways the world might be rather than options for the agent, so settling reads as evidence coming down. That ranking concerns the *shape* of the transition. Hieronymi's parity of intending and believing concerns *voluntariness*, a different axis, and leaves the ranking untouched.
 
-**Where any felt effort would sit.** Soter's front-end/back-end split lines up with a distinction the [[phenomenology-of-resistance-across-domains|resistance article]] draws: felt pushback belongs to failed *revision* of a standing belief, while at *acquisition* the assent void finds nothing to push on. The Map speculates that if control over belief is ever felt as effort, it is at the back end, in holding a belief's guidance in check, where [[mental-effort]] places effort generally.
+**Where any felt effort would sit.** Soter's front-end/back-end split lines up with a distinction the [[phenomenology-of-resistance-across-domains|resistance article]] draws: felt pushback belongs to failed *revision* of a standing belief, while at *acquisition* the assent void finds nothing to push on. The Map speculates that if control over belief is ever felt as effort, it is at the back end, in holding a belief's guidance in check, where [[mental-effort]] places effort generally. The familiar case of acting on a belief against an [[alief-and-acting-against-belief|alief]], as on a glass skywalk, counts as an instance only if implicit attitudes are beliefs; on Gendler's own taxonomy it checks an alief's guidance, the kind of affective control from which Soter's argument starts.
 
 **Introspection cuts both ways.** Alston's test is introspective, and so are the Map's arguments from the phenomenology of effort. Cusimano & Goodwin's self/other asymmetry suggests a verdict about one's own control tracking what introspection makes salient, here the evidence for one's beliefs. The Map takes that as a caution on introspective evidence generally, its own included.
 

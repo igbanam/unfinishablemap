@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-14 12:09:02+00:00
+ai_modified: 2026-10-21 00:23:30+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,14 +24,14 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[concepts/cognitive-phenomenology]]'
 created: 2026-01-14
-date: &id001 2026-10-04
+date: &id001 2026-10-21
 description: Why controlling attention feels like work—and what this widely-shared
   phenomenology reveals about consciousness influencing matter.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-21 00:23:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ topics:
 - '[[bandwidth-of-consciousness]]'
 ---
 
-Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [evidential-status-discipline](/project/evidential-status-discipline/)).
+Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that [overriding impulses requires work](/topics/alief-and-acting-against-belief/)—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/), not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [evidential-status-discipline](/project/evidential-status-discipline/)).
 
 See [attentional-economics](/concepts/attentional-economics/) for how this effort phenomenology fits within a broader framework where agency is the allocation of scarce attentional resources.
 
