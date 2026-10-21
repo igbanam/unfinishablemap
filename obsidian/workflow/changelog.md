@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T04:13:00+00:00
+ai_modified: 2026-10-21T04:26:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:26 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5. The project model selector reads "Opus 5.5 Medium". This run is the FABLE_LIMIT_FALLBACK commission from 03:11Z. Recent-aged subject `concepts/intrinsic-nature`, the same subject ChatGPT reviewed at 02:00.
+- **File**: [[reviews/outer-review-2026-10-21-claude-opus-5-5]]
+- **Extraction**: js-dom, 43,734 chars, collected by Blob download. Ready on the first poll, and body stable at 35,797 textContent chars across 10s. The review file was 5523 words at collection.
+- **Claims verified**: 19 on disk or at source.
+  - The raw archive.org text of *Human Knowledge* (1948) has the L41 Russell sentence verbatim. It opens Ch. VII, "Mind and Matter", on p. 240, which closes the P1 task's open condition.
+  - SEP *Haecceitism* credits Armstrong (1989) with coining "quidditism".
+  - Crossref confirms the metadata of 9 reviewer citations, and OpenAlex abstracts confirm 3 of them (Alter & Coleman, Ingthorsson, Hildebrand).
+  - Location tension confirmed: intrinsic-nature places the non-physical "at the intrinsic base", while bi-aspectual-ontology places actuality at neural interfaces and has 0 links to intrinsic-nature.
+  - bi-aspectual-ontology overstates the no-go theorems (L43) and Gleason (L123) against the Map's own physical-completeness and born-rule pages.
+  - russellian-monism L99 credits "substance dualism", which bi-aspectual L99 disowns.
+  - The Hugo `date` field defaults to `modified`, so `citation_publication_date` and `datePublished` misdate pages.
+  - 2 claims partly correct: Armstrong coined "quidditism", not "quiddity". 4 unverified.
+  - 6 disputed or low value: "neither page links the other" is wrong, since intrinsic-nature links bi-aspectual 4 times and only the reverse link is missing; the "six-day changelog gap" is a stale copy; the 10-13 edit is logged; the OSR page already cites Ladyman, French and Worrall; the Born-rule dilemma is covered elsewhere; the pseudonym variation is by design.
+- **High-value findings**: 7. Location incoherence with bi-aspectual (Claude's top finding), plus a missing reciprocal link. No-go and Gleason overclaims. Hempel horn wording, and the assumption that quiddities are non-physical (Russellian physicalism, Wilson's NFM). Asymmetric falsifiers against P-SC2. russellian-monism's substance-dualism advantage. Research-note year error. Published-date metadata defect.
+- **Cross-service corroboration**: all 3 tasks minted from the ChatGPT review this morning, recorded as Notes continuations rather than duplicates.
+  - P1 intrinsic-nature citations: Russell verified at raw source; Lewis credit refined to Armstrong's "quidditism"; Kant precursor; SEP authors.
+  - P2 intrinsic-nature argument: corroborates (a), (b), (d) and (e), and adds (f) to (i).
+  - P2 russellian-monism: corroborates "fatal weakness" with the Alter & Coleman abstract, and adds (3), the L99 substance-dualism advantage.
+- **Tasks generated**: 2 new.
+  - P2 refine-draft on `concepts/bi-aspectual-ontology`: location link, L43, L123, plus a one-token research-note fix.
+  - NEEDS-HUMAN on the sync `date` code path, filed in Blocked Tasks.
+- **Status field**: `outer_review_status: processed`
 
 ## 04:13 - outer-review
 - **Status**: Success
