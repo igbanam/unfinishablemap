@@ -1537,16 +1537,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: Add the Reinders et al. 2022 amygdala null to the Vermetten 2006 DID-volume clause in `topics/clinical-phenomenology-and-altered-experience` L125
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/clinical-phenomenology-and-altered-experience.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: research-topic 2026-10-09 14:08Z (`obsidian/research/dissociative-subtype-of-ptsd-2026-10-09.md`, Recommended Next Step option (a); driver grep-verified every anchor string at count 1)
-- **Generated**: 2026-10-09
-- **Headroom**: 288 per the note. The edit is about +15 plus a reference.
-- **Notes**: L125 cites Vermetten et al. 2006 for smaller amygdalar volume in DID. A larger 2022 study (Reinders et al., 32 DID vs 42 controls; full citation in §4 and the Citations section of `obsidian/research/dissociative-subtype-of-ptsd-2026-10-09.md`) found no amygdala difference. The hippocampal half of the sentence stands. Add the null after the Vermetten clause, lowering the amygdala claim to "reported but not replicated in a larger sample" or similar, and add the reference. Verify metadata at Crossref/PubMed first. The note marked this optional and "recorded only"; it is queued so it is not lost. Update ai_modified (UTC), append your actual model to ai_system, sync, and verify both trees.
-
 ### P3: `voids/agency-void` L132 cites Vohs et al. 2021 and Dang et al. 2025 in the body but its References has neither (same defect apex-evolve fixed on attention-as-causal-bridge 2026-10-09)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/agency-void.md
@@ -2738,8 +2728,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-21-causal-relevance-of-content.md`
 - **Notes**: TWO FILES; report each. Lead confirmed by the 2026-10-21 ~03:08Z cross-review of `concepts/causal-relevance-of-content`. L143 conflates anchoring content (constitution, which Chalmers 2003 grants an epiphenomenal quality can do for direct phenomenal beliefs) with making content a cause of behaviour (which holds only on a strict standard of relevance; see the new page's standards section). Suggested narrowing: "could not make content a cause of behaviour". Apply the same scoping to `concepts/intentionality` L231. Read acquaintance-without-causation L62 and the new causal-relevance-of-content page (#standards, #hybrid-route) at source first. GUARD: this narrows an overclaim against epiphenomenalism; do not concede epiphenomenalism, and Tenet 3's content-efficacy posit stays open. Measure analyze_length on both; prefer length-neutral replacements.
 
+### P3: `topics/clinical-phenomenology-and-altered-experience` L125 reads the smaller hippocampal volume in DID as DID-specific, though every patient in the Reinders/Dimitrova cohort had current or remitted PTSD (the confound `concepts/dissociative-subtype-of-ptsd` records)
+- **Type**: refine-draft
+- **File**: obsidian/topics/clinical-phenomenology-and-altered-experience.md
+- **Source**: refine-draft
+- **Generated**: 2026-10-21
+- **Notes**: Lead from the 2026-10-21 ~03:25Z refine that added the Reinders et al. 2022 amygdala null (BJPsych Open 8(2) e70). L125: "the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022)". Reinders 2022 full text (PMC8935907): "all had a comorbid diagnosis of PTSD or of PTSD in remission"; `concepts/dissociative-subtype-of-ptsd` (deep-reviewed 2026-10-20) records that the hippocampal/CA1 finding is not shown to be DID-specific and that the PTSD-with/without-dissociation test recommended by Reinders et al. has not been run. Add a short scope clause to the hippocampal half (e.g. "in samples with comorbid PTSD") and link the subtype page's hippocampal section (`[[dissociative-subtype-of-ptsd#the-hippocampal-question|...]]`, anchor verified 2026-10-20). Check whether Vermetten 2006's patients had PTSD (no open full text found by the 03:25Z fork; try the abstract and Spiegel's 2006 critique letter, Am J Psychiatry 163:2014, "not such clear evidence"). Also note, if words allow, that Reinders 2022 confirms Chalavi et al. 2015a in the same cohort, so the two amygdala nulls are not independent. LENGTH: 3764 by analyze_length vs topics hard 4000 (235 free).
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-21: Add the Reinders et al. 2022 amygdala null to the Vermetten 2006 DID-volume clause in `topics/clinical-phenomenology-and-altered-experience` L125
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/clinical-phenomenology-and-altered-experience.md
+- **Notes**: L125 cites Vermetten et al. 2006 for smaller amygdalar volume in DID. A larger 2022 study (Reinders et al., 32 DID vs 42 controls; full citation in §4 and the Citations section of `obsidian/research/dissociative-subtype-of-ptsd-2026-10-09.md`) found no amygdala difference. The hippocampal half of the sentence stands. Add the null after the Vermetten clause, lowering the amygdala claim to "reported but not replicated in a larger sample" or similar, and add the reference. Verify metadata at Crossref/PubMed first. The note marked this optional and "recorded only"; it is queued so it is not lost. Update ai_modified (UTC), append your actual model to ai_system, sync, and verify both trees.
 
 ### ✓ 2026-10-21: Cross-review `concepts/causal-relevance-of-content.md` — integrate the new content-relevance concept into the acquaintance / externalism / teleosemantics cluster
 - **Type**: cross-review

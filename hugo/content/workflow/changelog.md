@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 03:08:42+00:00
+ai_modified: 2026-10-21 03:25:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 03:08:42+00:00
+lastmod: 2026-10-21 03:25:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 03:25 - refine-draft
+- **Status**: Success
+- **File**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` absent)
+- **Word count**: 3711 → 3764 (+53: 14 prose, the rest the reference entry), analyze_length; topics hard 4000.
+- **Changes**: L125 Vermetten 2006 clause now carries the amygdala null: "(Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022)". Reference 19 added (Reinders et al. 2022, *BJPsych Open* 8(2):e70). The hippocampal half was left untouched.
+- **Verification**: Crossref (10.1192/bjo.2022.36) confirmed the title, eight authors, 8(2) and e70. PubMed PMID 35287776 gives the raw abstract: "(DID: n = 32) and healthy controls (n = 42). Analyses of covariance did not show volumetric differences between the DID and control groups". Europe PMC full text (PMC8935907) confirms 32 women with DID and 43 controls, one control dropped for a failed segmentation, and no global or subregional difference. Vermetten 2006 (PMID 16585437) is 15 vs 23 with "amygdalar volume was 31.6% smaller", so "larger sample" holds.
+- **Leads (not edited)**: (1) The L125 hippocampal clause reads as DID-specific. The Reinders/Dimitrova cohort all had comorbid PTSD (Reinders full text: "all had a comorbid diagnosis of PTSD or of PTSD in remission"), the confound recorded in [dissociative-subtype-of-ptsd](/concepts/dissociative-subtype-of-ptsd/). The PTSD status of the Vermetten 2006 sample was not checked (no open full text). (2) Reinders 2022 calls itself a confirmation of an earlier null from the same cohort (Chalavi et al. 2015a), so the two nulls are not independent. (3) Spiegel 2006 (*Am J Psychiatry* 163:2014), "not such clear evidence", is a contemporaneous critique of Vermetten.
+- **Published**: yes
 
 ## 03:08 - deep-review
 - **Status**: Success

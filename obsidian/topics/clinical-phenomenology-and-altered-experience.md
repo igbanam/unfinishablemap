@@ -2,9 +2,9 @@
 title: "Clinical Phenomenology and Altered Experience"
 description: "Psychiatric disruption as a natural experiment on experience: its selective pattern tests some theories of consciousness and fits the Map's interface model without settling interface versus production."
 created: 2026-03-03
-modified: 2026-10-02
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-02T20:31:40+00:00
+ai_modified: 2026-10-21T03:24:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Clinical cases can discriminate among rival theories of consciousness that make 
 
 If consciousness is identical to brain activity, then every experiential change should have a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even sophisticated identity theory most sharply through [[clinical-dissociation-as-systematic-evidence|dissociative identity disorder]], which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [[consciousness-disruption-and-the-mind-brain-interface|Cognitive motor dissociation]] presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
+Clinical phenomenology challenges even sophisticated identity theory most sharply through [[clinical-dissociation-as-systematic-evidence|dissociative identity disorder]], which produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report smaller hippocampal and amygdalar volumes (Vermetten et al. 2006; the amygdalar difference did not replicate in a larger sample, Reinders et al. 2022) and identity-state-dependent patterns of brain activation (Reinders et al. 2014; Vissia et al. 2022), so DID has neural correlates; they are graded differences, nothing like the destruction of a discrete module, while the reported fragmentation reaches selfhood itself—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [[consciousness-disruption-and-the-mind-brain-interface|Cognitive motor dissociation]] presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways, but it has a well-mapped cortical substrate (below).
 
 ### What Functionalism Predicts
 
@@ -207,3 +207,4 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 16. Billon, A. (2016). Making Sense of the Cotard Syndrome: Insights from the Study of Depersonalisation. *Mind & Language*, 31(3), 356–391.
 17. Franzova, E., Shen, Q., Doyle, K., et al. (2023). Injury patterns associated with cognitive motor dissociation. *Brain*, 146(11), 4645–4658. https://doi.org/10.1093/brain/awad197
 18. Vermetten, E., Schmahl, C., Lindner, S., Loewenstein, R. J., & Bremner, J. D. (2006). Hippocampal and amygdalar volumes in dissociative identity disorder. *American Journal of Psychiatry*, 163(4), 630–636. https://doi.org/10.1176/ajp.2006.163.4.630
+19. Reinders, A. A. T. S., Dimitrova, L. I., Schlumpf, Y. R., Vissia, E. M., Nijenhuis, E. R. S., Jäncke, L., Chalavi, S., & Veltman, D. J. (2022). Normal amygdala morphology in dissociative identity disorder. *BJPsych Open*, 8(2), e70. https://doi.org/10.1192/bjo.2022.36
