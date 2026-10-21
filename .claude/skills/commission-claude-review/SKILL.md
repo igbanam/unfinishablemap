@@ -99,7 +99,7 @@ JSON.stringify({
 
 If logged out, **emit literal line** `LOGIN_REQUIRED: claude session expired` and stop. The dispatcher sets a 24h backoff via `last_runs["commission-claude-review-blocked-until"]`.
 
-Keep `fableLimit` for Step 2.5. Once the account has hit the weekly limit, the banner is already on the project page **before** anything is typed (verified 2026-10-19), so this is the normal detection point. The first hit of a week may only surface after submit — Step 5 catches that.
+Keep `fableLimit` for Step 2.5. Once the account has hit the weekly limit, the banner is on the project page **before** anything is typed, but only **while Fable is the selected model** (verified 2026-10-19 and 2026-10-21). If an earlier fallback left Opus selected, the banner is absent on load even though the limit is in force; Step 2.5 re-checks after selecting Fable. The first hit of a week may only surface after submit — Step 5 catches that.
 
 ## Step 2.5: Select the reviewer model
 
@@ -129,6 +129,8 @@ The Fable entry is **unusable** if it is disabled or its text contains "unavaila
 - If no entry matches the target family (and, for a Fable target, no usable Opus entry either), press Escape and bail: no acceptable model.
 
 Do not touch the "Effort" or "More models" entries.
+
+**Re-check the banner after selecting Fable.** If the target was Fable and you just switched to it (it was not already checked), re-run the Step 2 `fableLimit` test. The limit banner only renders while Fable is selected, so a selector left on Opus by an earlier fallback hides it until now (2026-10-21: no banner on load, Fable selected, banner appeared only on submit, orphaning a chat). If `fableLimit` is now true, reopen the selector and choose **Opus** instead, then continue. This avoids the Step 5 restart and the orphaned chat.
 
 Re-read `[data-testid="model-selector-dropdown"]` text and confirm it contains the target family word. Capture it as `model_text` — Steps 3 and 8 reuse it. If it does not match, bail before submitting.
 
