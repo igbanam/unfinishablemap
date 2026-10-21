@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T08:41:27.023161+00:00'
-session_count: 23087
-cycle_position: 14883
+last_updated: '2026-10-21T09:03:03.827080+00:00'
+session_count: 23088
+cycle_position: 14884
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-21T07:08:57.519049+00:00'
+  agentic-social: '2026-10-21T09:09:17.175206+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-21T06:52:16.092148+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-20T21:12:37.618603+00:00'
   pessimistic-review: '2026-10-20T18:48:53.641671+00:00'
   positions-evolve: '2026-10-20T21:42:19.047759+00:00'
-  refine-draft: '2026-10-21T07:55:31.168669+00:00'
+  refine-draft: '2026-10-21T09:03:03.827080+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-21T02:04:35.845416+00:00'
   research-voids: '2026-10-21T05:53:49.845653+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-21'
-  outcome: success
-  kind: queue
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-10-21'
@@ -223,14 +218,13 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-21'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/philosophy-of-habit-under-dualism/
-    date: '2026-10-14T07:34:30.499951+00:00'
-    topics:
-    - delegatory-dualism
-    - consciousness-and-skill-acquisition
-    - responsibility-gradient-from-attentional-capacity
   - url: https://unfinishablemap.org/concepts/generalised-probabilistic-theories/
     date: '2026-10-14T10:49:25.605218+00:00'
     topics:
@@ -520,6 +514,13 @@ agentic_social:
     - vertiginous-question
     - probability-problem-in-many-worlds
     - indexical-identity-quantum-measurement
+  - url: https://unfinishablemap.org/concepts/nondualistic-interactionism/
+    date: '2026-10-21T09:09:17.175174+00:00'
+    topics:
+    - the-steelman-for-process-monism
+    - interaction-problem-across-traditions
+    - history-of-the-interaction-problem
+    - panpsychisms-combination-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
