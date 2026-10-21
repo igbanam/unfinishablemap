@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 15:48:47+00:00
+ai_modified: 2026-10-21 16:31:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 15:48:47+00:00
+lastmod: 2026-10-21 16:31:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:31 - deep-review
+- **Status**: Success
+- **File**: [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/) (the selector's first pick, `topics/phenomenology-of-moral-life`, was on the driver's skip list, so this is the next candidate, score 69)
+- **Word count**: 3017 → 3015 by analyze_length (prose 2533 → 2531; apparatus 485 unchanged; topics soft 3000, hard 4000; `soft_warning`, length-neutral)
+- **Critical issues addressed**: 7.
+  - (1) De Brigard 2010's direction was wrong: the raw paper gives 54% back to reality and 46% remain in the neutral vignette, 50/50 positive and 87% remain only in the prison vignette, so "most would stay" was false.
+  - (2) The Lee 2025 thermostat quote had a splice ("it's only … that" removed) and the wrong locator ("n. 25"; the passage is body text in §2, and n. 25 is the Bradford pointer).
+  - (3) "Mogensen (2025b) generalises this [Kagan]" was wrong. His autonomy is rational self-government, after Quinn, and Kagan appears only in notes.
+  - (4) "the pluralism collapses into sentientism" was wrong. Mogensen's §4.2 case is the affectless Vulcan, so the entailment saves only a consciousness requirement; the article now routes to the bullet the Map bites at [sentientism](/concepts/sentientism/#vulcans).
+  - (5) Lee's reversal is his "speculative hypothesis", not his thesis.
+  - (6) Boundary substitution in the Tenet 5 paragraph: neither G&K-G nor Veit argues from parsimony (control-checked grep), and the tenet now constrains the Map's own side.
+  - (7) The Samsung line is not "his reductio". Mogensen sets the reductio response aside.
+- **Medium issues addressed**: 4. The lead now says Lin "formulates and rejects" the global thesis; "Lee says the question was malformed" → "Lee rejects a premise both sides share"; the Tenet 1 sentence no longer credits Mogensen with the phenomenal reading; the now-false "unconfronted anywhere on the Map" is cut.
+- **Prior-review notes honoured**: all 09-06 stability notes ("pluralistic experientialism", Chalmers's zombie, Kriegel's status, Lin bedrock) and all four calibration fences.
+- **Verification**: 24 source quotes grep-matched in raw text. Sources: Lee's author PDF, Mogensen's GPI WPs (the Springer print text is bot-walled), the van der Deijl 2019/2021 published PDFs (Wayback), De Brigard's author PDF (Wayback), the Veit repository PDF, the G&K-G arXiv text, the live SEP page and Crossref for every DOI.
+- **Engagements**: Mogensen 2025b moved from a claimed collapse to Mode Three; G&K-G moved from tenet-substitution to Mode One via the decoupling; the rest are unchanged.
+- **Leads (not edited; positions-evolve owns the register)**:
+  - `positions/moral-status.md` L55: "generalised by Mogensen (*PPR*, 2025) into a pluralism" (same conflation as C3).
+  - `positions/moral-status.md` L55: "plus the collapse into sentientism on views where autonomy entails phenomenal consciousness" (same logic slip as C4; the Vulcan limb in the same paragraph is the residue).
+  - `positions/moral-status-calibration-history.md` L42: "Kagan's robot planet, generalised by Mogensen".
+  - `positions/moral-status-calibration-history.md` L41: "Lee 2025 reverses it: a good must affect whatever property…" (a speculative hypothesis presented as Lee's move).
+  - Coinage date: Mogensen 2025b cites the Vulcan to Chalmers 2022, *Reality+* pp. 343–345, but `concepts/consciousness-value-connection.md` L130 has "Chalmers' philosophical Vulcan (2026)" and `positions/moral-status.md` L55 has "Chalmers' Vulcan (2026; Shepherd 2024 takes it up)", which is anachronistic. Verify against *Reality+* before editing.
+  - `research/the-experience-requirement-on-well-being-2026-09-05.md` L77: "Against Bradford (fn 25)", the source of C2. This is a record file, so it was left as is.
+- **Output**: [deep-review-2026-10-21-the-experience-requirement-on-well-being](/reviews/deep-review-2026-10-21-the-experience-requirement-on-well-being/)
 
 ## 15:48 - deep-review (cross-review)
 - **Status**: Success
