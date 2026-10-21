@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T01:50:00+00:00
+ai_modified: 2026-10-21T02:39:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:39 - expand-topic
+- **Status**: Success
+- **Topic**: Causal Relevance of Semantic Content
+- **Output**: [[concepts/causal-relevance-of-content]]
+- **Word count**: 2,498 by `analyze_length` (status ok; concepts soft 2,500). Prose about 2,100, references and Further Reading about 400.
+- **Based on research**: yes, [[research/causal-relevance-of-semantic-content-2026-10-21]]
+- **Doppelganger passage**: read at the primary (Jackson & Pettit 1988, *Mind* 97, via a Wayback copy of Pettit's Princeton PDF, journal pp. 389–397). The history reply ("in part my causal past", p. 389) is their answer to the *terse* challenge only. For the substantial (redundancy) challenge they concede that "what makes it broad is irrelevant to its effect on other states" (p. 392) and fall back on program explanation (p. 397). This is a published objection to "fixed by causal history, so efficacious at one remove". The 1990 paper was also read at the primary: the "major difference" reason is supervenience (p. 201).
+- **Integration**: acquaintance-without-causation L104 (the "one remove" clause replaced with the hybrid route; link on "The literature on the causal relevance of content"; "does not settle it" kept; 2,990 → 3,026, under the 4,000 hard limit). Zero-word pipes added at content-externalism L48 ("content's causal purchase"; the queued P3 sentence is not applied), teleosemantics L54 (*Explaining Behavior*) and content-specificity-of-mental-causation L63.
+- **References**: 17 external entries checked at Crossref, OpenAlex or the SEP bibliography, plus 2 self-citations.
 
 ## 01:50 - research-topic
 - **Status**: Success

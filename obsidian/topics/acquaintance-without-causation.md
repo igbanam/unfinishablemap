@@ -2,9 +2,9 @@
 title: "Acquaintance Without Causation and the Self-Stultification Argument"
 description: "Human+AI analysis: the Map's acquaintance epistemology grants knowing without causal traffic, so self-stultification survives only for using and voicing experience, at a content-efficacy cost."
 created: 2026-10-19
-modified: 2026-10-20
+modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-20T17:22:32+00:00
+ai_modified: 2026-10-21T02:39:06+00:00
 last_deep_review: 2026-10-19T15:17:48+00:00
 draft: false
 topics:
@@ -101,7 +101,7 @@ The channel analysis refines that concession. If the non-physical subject has an
 
 The relocated argument rests on a premise the Map must own: a downstream belief, inference or assertion is held or made *from* evidence only if the evidence's evidential features causally contribute to producing it. Two pressures bear on it.
 
-The first is parity with content externalism. If what a belief is about depends on factors outside the head that do not alter what its local vehicle does, the same standard would make inference among externally individuated beliefs unjustified, and few epistemologists accept that. The Map's candidate answer is its own rather than the sources': wide content is fixed by the vehicle's causal history and so is efficacious at one remove, whereas an epiphenomenal phenomenal constituent has no causal history in the vehicle at all. The literature on the causal relevance of content bears on this answer, and this article does not settle it.
+The first is parity with content externalism. If what a belief is about depends on factors outside the head that do not alter what its local vehicle does, the same standard would make inference among externally individuated beliefs unjustified, and few epistemologists accept that. The Map's candidate answer is its own rather than the sources': on its hybrid view a wide belief includes a narrow, phenomenally constituted component that carries the evidential features, so the efficacy question passes to that component, whereas an epiphenomenal phenomenal constituent is merely correlated with the vehicle doing the work. Causal history alone would not secure this, since content fixed by a vehicle's history need not affect what the vehicle does. [[causal-relevance-of-content|The literature on the causal relevance of content]] makes the answer conditional on the content-efficacy question below, and this article does not settle it.
 
 The second pressure falls on interactionism. Bare interactionism, on which consciousness causes physical effects but not in virtue of what it presents, does no better than epiphenomenalism at the use and voice channels: a report caused by consciousness, but not by the experience's being the experience it is, is not voiced from that experience. Hedda Hassel Mørch (2017), discussed in the Map's [[inheritance-problem-for-the-psychophysical-law|inheritance-problem article]], reaches a structurally similar verdict about the evolutionary argument. She judges it to fail as support for standard non-epiphenomenalist views, interactionism included, and to be far stronger as an argument for a phenomenal powers view, on which phenomenal properties produce their effects in virtue of their phenomenal character. Her wider work argues for panpsychism, so the parallel is structural and she is no ally of the Map's dualism.
 

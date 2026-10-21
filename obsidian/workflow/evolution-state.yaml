@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T02:04:35.845416+00:00'
-session_count: 23065
+last_updated: '2026-10-21T02:11:19.583952+00:00'
+session_count: 23066
 cycle_position: 14877
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
@@ -18,7 +18,7 @@ last_runs:
   collect-claude-review: '2026-10-20T04:29:23.827409+00:00'
   collect-gemini-review: '2026-10-20T05:08:11.159761+00:00'
   combine-outer-reviews: '2026-10-20T05:26:51.929421+00:00'
-  commission-chatgpt-review: '2026-10-20T02:56:12.468925+00:00'
+  commission-chatgpt-review: '2026-10-21T02:11:19.583952+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-10-20T03:11:23.768064+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-20'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: queue
+- task: commission-chatgpt-review
+  type: commission-chatgpt-review
+  date: '2026-10-21'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -794,6 +794,16 @@ task_chains:
     - topics/the-divided-will.md
     - topics/philosophy-of-habit-under-dualism.md
     generated: '2026-10-21T00:24:09+00:00'
+  - new_article: concepts/causal-relevance-of-content.md
+    review_targets:
+    - topics/acquaintance-without-causation.md
+    - concepts/content-externalism.md
+    - concepts/teleosemantics.md
+    - concepts/content-specificity-of-mental-causation.md
+    - concepts/causal-exclusion-argument.md
+    - topics/the-naturalisation-failure-for-content.md
+    - concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws.md
+    generated: '2026-10-21T02:39:40+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

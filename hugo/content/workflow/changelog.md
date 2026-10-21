@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 00:55:35+00:00
+ai_modified: 2026-10-21 02:39:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 00:55:35+00:00
+lastmod: 2026-10-21 02:39:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:39 - expand-topic
+- **Status**: Success
+- **Topic**: Causal Relevance of Semantic Content
+- **Output**: [causal-relevance-of-content](/concepts/causal-relevance-of-content/)
+- **Word count**: 2,498 by `analyze_length` (status ok; concepts soft 2,500). Prose about 2,100, references and Further Reading about 400.
+- **Based on research**: yes, [causal-relevance-of-semantic-content-2026-10-21](/research/causal-relevance-of-semantic-content-2026-10-21/)
+- **Doppelganger passage**: read at the primary (Jackson & Pettit 1988, *Mind* 97, via a Wayback copy of Pettit's Princeton PDF, journal pp. 389–397). The history reply ("in part my causal past", p. 389) is their answer to the *terse* challenge only. For the substantial (redundancy) challenge they concede that "what makes it broad is irrelevant to its effect on other states" (p. 392) and fall back on program explanation (p. 397). This is a published objection to "fixed by causal history, so efficacious at one remove". The 1990 paper was also read at the primary: the "major difference" reason is supervenience (p. 201).
+- **Integration**: acquaintance-without-causation L104 (the "one remove" clause replaced with the hybrid route; link on "The literature on the causal relevance of content"; "does not settle it" kept; 2,990 → 3,026, under the 4,000 hard limit). Zero-word pipes added at content-externalism L48 ("content's causal purchase"; the queued P3 sentence is not applied), teleosemantics L54 (*Explaining Behavior*) and content-specificity-of-mental-causation L63.
+- **References**: 17 external entries checked at Crossref, OpenAlex or the SEP bibliography, plus 2 self-citations.
+
+## 01:50 - research-topic
+- **Status**: Success
+- **Topic**: Causal relevance of semantic content
+- **Output**: [causal-relevance-of-semantic-content-2026-10-21](/research/causal-relevance-of-semantic-content-2026-10-21/)
+- **Sources consulted**: 29 cited. Read at source this run: SEP "Mental Causation" §§3–7 and "Narrow Mental Content" §§3.1/3.4 (raw HTML), Yablo 1997 (author PDF), Google Books snippets of Dretske 1988 and Jackson, Pettit & Smith 2004, and OpenAlex abstracts for 8 more works. Every quotation was grep-matched against raw text.
+- **Verdict**: recommended_action `article`, target `concepts/causal-relevance-of-content` (slug free; concepts 361/370). This is SEP Problem IV, the one property-based problem with no Map page. A fold fallback is recorded (content-externalism, headroom 1,540).
+- **Finding**: the acquaintance page's L104 "efficacious at one remove" does not survive as worded (the vending-machine non sequitur). It survives as Dretske's structuring causes, with past-tense relevance as the cost. The hybrid (phenomenal-intentionality) route folds the parity objection into the existing content-efficacy posit.
+- **Open**: the continuation of Jackson & Pettit 1988 (reprint p. 106) and the reason at 1990a p. 51 are unread (Google Books throttled; PhilPapers bot-blocked). The note marks reading them as essential before drafting.
 
 ## 00:55 - deep-review
 - **Status**: Success

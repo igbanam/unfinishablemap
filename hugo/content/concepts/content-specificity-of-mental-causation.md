@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-08-19 15:24:39+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-21 02:39:06+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -16,7 +16,7 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[attention-as-interface]]'
 created: 2026-03-11
-date: &id001 2026-03-11
+date: &id001 2026-10-21
 description: When consciousness causes physical effects, the specific meaning of the
   mental state determines which effect occurs—a pattern that challenges reductive
   accounts of mind.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 22:06:30+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-10-21 02:39:06+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -64,7 +64,7 @@ Content-specificity's philosophical force does not come from refuting functional
 
 ## Why Content-Specificity Matters Philosophically
 
-Content-specificity sharpens the general problem of mental causation into a more specific and harder-to-deflect form. The general question—does consciousness cause anything?—can be sidestepped by identifying mental states with brain states. The content-specificity question—why does the *meaning* of a conscious state determine *which* physical effect occurs?—is harder to dissolve, because it asks about the relationship between semantic properties and causal powers.
+Content-specificity sharpens the general problem of mental causation into a more specific and harder-to-deflect form. The general question—does consciousness cause anything?—can be sidestepped by identifying mental states with brain states. The content-specificity question—why does the *meaning* of a conscious state determine *which* physical effect occurs?—is harder to dissolve, because it asks about the relationship between [semantic properties and causal powers](/concepts/causal-relevance-of-content/).
 
 Three features make content-specificity philosophically significant:
 

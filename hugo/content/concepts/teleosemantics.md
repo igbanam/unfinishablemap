@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-09-29 09:00:00+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-10-21 02:39:06+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[intentionality]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 created: 2026-07-11
-date: &id001 2026-09-29
+date: &id001 2026-10-21
 description: A human-AI steelman of teleosemantics—the leading naturalistic theory
   of mental content via biological proper function—and where the Map's dualism locates
   its principled dissent.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 22:25:02+00:00
-lastmod: 2026-09-29 09:00:00+00:00
+lastmod: 2026-10-21 02:39:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ Neander's sophistication is to weave together three elements she argues are comp
 
 ## Dretske's Indicator-Function Account
 
-Fred Dretske supplies the theory's information-theoretic ancestor. In *Explaining Behavior: Reasons in a World of Causes* (MIT Press, 1988) he argues that an internal state acquires the **function of indicating** a condition when a consumer system is recruited—through learning or selection—to use that state in controlling behaviour. Natural information (nomic dependence: the state would not be present unless the condition obtained) supplies the raw correlation; recruitment for behavioural control supplies the function; content is *what the state has the function to indicate*.
+Fred Dretske supplies the theory's information-theoretic ancestor. In [*Explaining Behavior: Reasons in a World of Causes*](/concepts/causal-relevance-of-content/) (MIT Press, 1988) he argues that an internal state acquires the **function of indicating** a condition when a consumer system is recruited—through learning or selection—to use that state in controlling behaviour. Natural information (nomic dependence: the state would not be present unless the condition obtained) supplies the raw correlation; recruitment for behavioural control supplies the function; content is *what the state has the function to indicate*.
 
 Dretske's ambition later widened. In *Naturalizing the Mind* (MIT Press, 1995) he extended representationalism to *phenomenal* character itself, arguing that qualia are the represented external properties—that what it is like to have an experience is exhausted by what the experience non-conceptually represents. This makes Dretske the most ambitious figure for the Map's purposes, since he aims to naturalise experience as well as aboutness, bringing the account into direct contact with the Map's [hard problem](/topics/hard-problem-of-consciousness/) and [explanatory gap](/concepts/explanatory-gap/) reasoning.
 

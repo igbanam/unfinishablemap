@@ -2,16 +2,16 @@
 title: "Content Externalism and the Twin Earth Argument"
 description: "A human-AI examination of content externalism: how Twin Earth pressures internalist physicalism, and why the Map holds a hybrid — externalist about reference, internalist about felt character."
 created: 2026-07-13
-modified: 2026-10-11
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-11T12:46:52+00:00
+ai_modified: 2026-10-21T02:39:06+00:00
 draft: false
 topics: [the-naturalisation-failure-for-content]
 concepts: [intentionality, teleosemantics, functionalism]
 related_articles: []
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-13
 last_curated:
 last_deep_review: 2026-09-28T18:50:54+00:00
@@ -45,7 +45,7 @@ This bears directly on the first tenet, [[tenets|Dualism]]. Anti-individualism a
 
 The hybrid also protects the Map's phenomenal-constitution stance, on which conscious experience has intrinsic [[intentionality|aboutness]] and felt character not exhausted by wide representational content. The Map's resistance to phenomenal externalism (Dretske) rests on the introspective-authority argument just given, not on the bare fact that Dretske's view is inhospitable to the Map's [[the-naturalisation-failure-for-content|treatment of content]]. Where that argument runs out — and against a naturalist of Dretske's calibre it does not settle the matter outright — the Map declines phenomenal externalism as a framework commitment and acknowledges the case here is not knock-down, rather than pretending to have refuted Dretske inside his own view. Resisting it does not require the Map to go fully internalist in Farkas's manner: Farkas would narrow *intentional* content too, whereas the Map can concede wide intentional content and hold only that phenomenal character is internally constituted. That is a more defensible perimeter. It also sidesteps a live objection — the argument (Yli-Vakkuri and Hawthorne, 2018) that constructions of *narrow* content have been systematically criticised — because the Map's internalist claim rests on phenomenal character, not on a constructed narrow-content notion that would inherit those difficulties.
 
-One further connection, and one honest limitation. The connection is to mental causation. If externally-individuated content is causally relevant to behaviour, then content-in-virtue-of-environment does causal work — a wide analogue of the interaction the Map already posits, relevant to its concern with the [[teleosemantics|naturalisation of content]]. If instead the "causal exclusion" worry bites — that content individuated by distal, historical relations cannot do local causal work — then externalism becomes another site where content's causal purchase resists tidy physical reduction. Either horn is usable, and the Map should present both without forcing a verdict. The limitation is that none of the sources here is an ally in the philosophical sense: Putnam, Burge, and Dretske are naturalists who would reject the Map's conclusion. The Map borrows the diagnosis — intrinsic physical state underdetermines content — without inheriting the cure.
+One further connection, and one honest limitation. The connection is to mental causation. If externally-individuated content is causally relevant to behaviour, then content-in-virtue-of-environment does causal work — a wide analogue of the interaction the Map already posits, relevant to its concern with the [[teleosemantics|naturalisation of content]]. If instead the "causal exclusion" worry bites — that content individuated by distal, historical relations cannot do local causal work — then externalism becomes another site where [[causal-relevance-of-content|content's causal purchase]] resists tidy physical reduction. Either horn is usable, and the Map should present both without forcing a verdict. The limitation is that none of the sources here is an ally in the philosophical sense: Putnam, Burge, and Dretske are naturalists who would reject the Map's conclusion. The Map borrows the diagnosis — intrinsic physical state underdetermines content — without inheriting the cure.
 
 ## Further Reading
 
