@@ -2811,6 +2811,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   Rejected from Claude's report: the charge that this page cites "Cutter (2020)". The reviewer itself found the live page already fixed.
   Length: 2952 by analyze_length, against a concepts hard limit of 3500 (547 headroom). Budget about +120. If (1) becomes an argument rather than a link, apply the direct-refutation discipline in natural journal-quality prose, with no mode labels in the article body.
 
+### P3: `concepts/mental-causation-and-downward-causation` L111/L115 state closure only as sufficiency and L200 says consciousness acts "through biasing probabilities", the two seams the 2026-10-21 apex pass repaired on `apex/phenomenology-mechanism-bridge`
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mental-causation-and-downward-causation.md
+- **Source**: apex-evolve
+- **Generated**: 2026-10-21
+- **Notes**: Lead from the 2026-10-21 ~06:10Z apex-evolve on `apex/phenomenology-mechanism-bridge`. (a) L111 "Since Kim's argument depends on physical causes being *sufficient*" and L115 "there is no sufficient physical cause to be excluded by" answer closure only in its sufficiency form; add the chance-fixing concession installed elsewhere today (a closure principle stated as "every physical effect has a physical cause that fixes its chance" is untouched by indeterminism, so the quantum opening defeats only the sufficiency reading). (b) L200 "through biasing probabilities" conflicts with P-Q2 (Born-preservation, credence high: selection within a Born-preserving corridor, not shifting the statistics); recast as selecting among outcomes physics leaves open without altering their long-run frequencies, linking [[positions/quantum-interface|P-Q2]]. Read the apex's repaired Level Two/Three wording first and match it. LENGTH: 3,577 by analyze_length vs concepts hard 3,500 — ALREADY OVER the gate; edits must be net-negative (trim at least as much as is added; split prose vs reference apparatus before briefing). GUARD: do not concede epiphenomenalism or retract the Map's reply to Kim; only the scope of the reply narrows.
+
 ## Completed Tasks
 
 

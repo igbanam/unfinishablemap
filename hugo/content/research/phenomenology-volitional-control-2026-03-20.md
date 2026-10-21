@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-20 00:31:00+00:00
+ai_modified: 2026-10-21 06:26:47+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 concepts: []
 created: 2026-03-20
-date: '2026-08-20'
+date: '2026-10-21'
 draft: false
-lastmod: 2026-08-20 00:31:00+00:00
+lastmod: 2026-10-21 06:26:47+00:00
 related_articles: []
 title: Research Notes - Phenomenology of Volitional Control
 ---
@@ -171,7 +171,7 @@ The Libet experiments (1983) launched a still-active debate about whether consci
 ### Is the Readiness Potential Evidence of Unconscious Decision?
 - **Sides**: Traditional interpretation (RP = unconscious decision) vs. Schurger et al. (RP = stochastic noise accumulation)
 - **Core disagreement**: Whether the RP reflects goal-directed preparation or random neural fluctuations reaching a threshold
-- **Current state**: Shifting toward Schurger's interpretation. A 2021 meta-analysis found the evidence for RP-precedes-intention is "uncertain and based on only a small number of studies." The field increasingly treats Libet's original conclusion as overstated.
+- **Current state**: Shifting toward Schurger's interpretation. A 2021 meta-analysis (Braun, Wessler & Friese 2021) found the overall temporal pattern "largely consistent with the one found by Libet and colleagues", but the crucial RP-to-intention comparison rested on only six studies and carried "a high degree of uncertainty" (abstract wording, PubMed 34119525; an earlier quoted phrase here, "uncertain and based on only a small number of studies", is not in the abstract and was removed 2026-10-21). The field increasingly treats Libet's original conclusion as overstated.
 
 ### Does Conscious Veto Require Its Own Unconscious Initiation?
 - **Sides**: Critics argue the veto itself must be unconsciously initiated (infinite regress); defenders argue the veto is a distinct process
