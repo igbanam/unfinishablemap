@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-10-08T10:26:57+00:00
+ai_modified: 2026-10-21T21:23:32+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -191,31 +191,33 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 2. Berntsen, D. (2010). "The Unbidden Past: Involuntary Autobiographical Memories as a Basic Mode of Remembering." *Current Directions in Psychological Science*, 19(3), 138–142.
 3. Clark, D.A., & Rhyno, S. (2005). "Unwanted Intrusive Thoughts in Nonclinical Individuals." In D.A. Clark (Ed.), *Intrusive Thoughts in Clinical Disorders*. Guilford.
 4. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
-5. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
-6. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional Binding Is Driven by the Mere Presence of an Action and Not by Motor Prediction." *PLoS ONE*, 7(1), e29557.
-7. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
-8. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573.
-9. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
-10. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
-11. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-12. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). "An Opportunity Cost Model of Subjective Effort and Task Performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
-13. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
-14. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
-15. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
-16. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-17. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
-18. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). "Effortless Control: Executive Attention and Conscious Feeling of Mental Effort Are Dissociable." *Neuropsychologia*, 43(9), 1318–1328.
-19. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
-20. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
-21. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
-22. Rasmussen, A.S., & Berntsen, D. (2011). "The Unpredictable Past: Spontaneous Autobiographical Memories Outnumber Autobiographical Memories Retrieved Strategically." *Consciousness and Cognition*, 20(4), 1842–1846.
-23. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
-24. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
-25. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
-26. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-27. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
-28. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-29. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-30. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
-31. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
-32. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.
+5. Dang, J., et al. (2025). "Revisiting Ego Depletion: Evidence from Multi-Lab Collaborations." *Journal of Pacific Rim Psychology*, 19. https://doi.org/10.1177/18344909251386084
+6. De Brigard, F. (2014). "In Defence of the Self-Stultification Objection." *Journal of Consciousness Studies*.
+7. Desantis, A., Hughes, G., & Waszak, F. (2012). "Intentional Binding Is Driven by the Mere Presence of an Action and Not by Motor Prediction." *PLoS ONE*, 7(1), e29557.
+8. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
+9. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573.
+10. Haggard, P., Clark, S., & Kalogeras, J. (2002). "Voluntary Action and Conscious Awareness." *Nature Neuroscience*, 5(4), 382–385.
+11. Inzlicht, M., & Schmeichel, B.J. (2012). "What Is Ego Depletion? Toward a Mechanistic Revision of the Resource Model of Self-Control." *Perspectives on Psychological Science*, 7(5), 450–463.
+12. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+13. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). "An Opportunity Cost Model of Subjective Effort and Task Performance." *Behavioral and Brain Sciences*, 36(6), 661–679.
+14. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
+15. Libet, B. et al. (1983). "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity." *Brain*, 106(3), 623–642.
+16. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
+17. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+18. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
+19. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). "Effortless Control: Executive Attention and Conscious Feeling of Mental Effort Are Dissociable." *Neuropsychologia*, 43(9), 1318–1328.
+20. Nolen-Hoeksema, S., Wisco, B.E., & Lyubomirsky, S. (2008). "Rethinking Rumination." *Perspectives on Psychological Science*, 3(5), 400–424.
+21. Owen, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
+22. Radomsky, A.S., et al. (2014). "Part 1—You Can Run but You Can't Hide: Intrusive Thoughts on Six Continents." *Journal of Obsessive-Compulsive and Related Disorders*, 3(3), 269–279.
+23. Rasmussen, A.S., & Berntsen, D. (2011). "The Unpredictable Past: Spontaneous Autobiographical Memories Outnumber Autobiographical Memories Retrieved Strategically." *Consciousness and Cognition*, 20(4), 1842–1846.
+24. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
+25. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement." *PNAS*, 109(42), E2904–E2913.
+26. Seghezzi, S., Parés-Pujolràs, E., & Haggard, P. (2025). "Intentional binding decreases during learning: implications for sense of agency." *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251349521
+27. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+28. Vohs, K.D., et al. (2021). "A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect." *Psychological Science*, 32(10), 1566–1581. https://doi.org/10.1177/0956797621989733
+29. Wang, D.A., Hagger, M.S., & Chatzisarantis, N.L.D. (2020). "Ironic Effects of Thought Suppression: A Meta-Analysis." *Perspectives on Psychological Science*, 15(3), 778–793.
+30. Wegner, D.M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+31. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+32. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+33. Wen, W., & Imamizu, H. (2022). "The sense of agency in perception, behaviour and human–machine interactions." *Nature Reviews Psychology*, 1, 211–222.
+34. Westbrook, A., & Braver, T.S. (2016). "Dopamine Does Double Duty in Motivating Cognitive Effort." *Neuron*, 89(4), 695–710.

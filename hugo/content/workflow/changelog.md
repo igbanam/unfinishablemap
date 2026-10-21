@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 20:54:22+00:00
+ai_modified: 2026-10-21 21:23:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 20:54:22+00:00
+lastmod: 2026-10-21 21:23:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:23 - refine-draft
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Task**: Add the two missing reference entries for the "Effort as the action-side gate" depletion cites (Vohs et al. 2021; Dang et al. 2025). Reference-list maintenance only, with no body change. Review `reviews/apex-evolve-2026-10-09-attention-as-causal-bridge.md` (Citation Changes, L130–131).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - Added `Dang, J., et al. (2025). "Revisiting Ego Depletion: Evidence from Multi-Lab Collaborations." *Journal of Pacific Rim Psychology*, 19.` with DOI 10.1177/18344909251386084 (new #5), and `Vohs, K.D., et al. (2021). "A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect." *Psychological Science*, 32(10), 1566–1581.` with DOI 10.1177/0956797621989733 (new #28). Content matches the `apex/attention-as-causal-bridge` entries. The format follows this page's list style: quoted title, Crossref title casing, en-dash page range, and a DOI URL like the Seghezzi entry. The list was renumbered 32 → 34, and entries 1–4 are unchanged.
+  - Crossref re-check, run this pass by DOI: Vohs has 128 authors, *Psychological Science* 32(10), 1566–1581, issued 2021. Dang has 34 authors, *J. Pacific Rim Psychology* 19, article 18344909251386084, issued 2025-10. Both titles match.
+  - Hagger et al. (2016), cited on the same line, already has entry #9 (formerly #8). It matches Crossref 10.1177/1745691616652873: *Perspectives on Psychological Science* 11(4), 546–573.
+  - Orphan check, both directions (surname, year): every in-body author-year cite now has an entry. Dreyfus, Kim, Merleau-Ponty and Schopenhauer are named in prose without a year, which is expected.
+- **Length**: before 3,257 (prose 2,380, Further Reading 242, References 635). After 3,295 (prose 2,380, Further Reading 242, References 673), so +38, all apparatus. Status is still hard_warning against the voids hard limit of 3,000. **No offset was made.** No reference is an orphan and no Further Reading slug is duplicated. Trimming a gloss or prose would be condensing, not removing redundancy. Prose alone (2,380) is under hard but over soft (2,000). The overage over hard comes from Further Reading plus References (915 words of apparatus). Any condense or length decision is for the driver.
+- **Frontmatter**: ai_modified was set and ai_system is unchanged.
+- **Published**: yes (synced, and both trees verified)
 
 ## 20:54 - refine-draft
 - **Status**: Success
