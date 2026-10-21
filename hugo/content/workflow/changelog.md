@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 22:12:41+00:00
+ai_modified: 2026-10-21 22:52:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 22:12:41+00:00
+lastmod: 2026-10-21 22:52:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:52 - deep-review
+- **Status**: Success
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Selection**: the selector's first pick, `topics/phenomenology-of-moral-life`, was edited today and has an open task, so it was skipped; this was the next candidate (score 69). The page is only a secondary file of the P3 Family-3 sweep. Its L103 OLD string `consciousness biasing quantum probability distributions.` was kept verbatim for that task.
+- **Word count**: 2541 → 2765 (+224; prose about 2277 → 2402, reference apparatus about 267 → 370), against the concepts hard limit of 3500.
+- **Critical issues addressed**: 6
+  - L47/L103: Avicenna's "holistic, not-at-a-point" causation came from Jamali, Golshani & Jamali's Bohmian model and was attributed to Avicenna. Their Heliyon paper reaches it by inference ("Therefore, the effects of mind on matter cannot be at a special space-time point"). Now labelled as their inference; Tenet 2 recast as "suggestive at most", with a link to the Bohm determinism-versus-selection tension.
+  - L83: Bisṭāmī "…I and He were one" is absent from Nicholson 1907 and 1914, Arberry 1950 and Arberry's Attar. Replaced with Nicholson 1907 p. 391 verbatim ("I came forth from Bayazid-ness as a snake from its skin. Then I looked. I saw that lover, beloved, and love are one"), plus his "not above suspicion" caution.
+  - L63: the Qur'an 89:27–28 rendering matched none of 17 English translations. Replaced with Arberry 1955 verbatim.
+  - L51: the Ṣadrā formula is verbatim in Kalin 2010 pp. 274–275 (Google Books search-within) and is now credited to him. Transliteration *jismānī…rūḥānī* corrected to *jismāniyyat al-ḥudūth rūḥāniyyat al-baqā'*.
+  - L91: *waḥdat al-wujūd* was called "his doctrine", but Chittick's SEP entry says he "never uses the expression". Fixed.
+  - L105: Tenet 3 "strongest case" / "experiential evidence" changed to "clearest statement" / "fits the tenet without evidencing it".
+- **Medium issues addressed**: 5. Flying Man "demonstrates"/"proof" changed to Adamson's *tanbīh* "pointer" (Aeon 2016-09-09, verified at aeon.co). *Munqidh* "*murāqaba*" dropped, since Watt's translation has only "recollection". L65 "not theoretical postulates but…" and L85 "consistently report" de-asserted. "Determines brain states" changed to "governs the body". An unsourced "noted by scholars" was trimmed.
+- **Citation ledger**: 8 inline (surname, year) pairs, matched both ways. Added: Arberry 1955, Chittick 2008/2025 (SEP), Jamali 2019b (Heliyon 5(7) e02130), Kalin 2010, Nicholson 1907. Jamali 2019 relabelled 2019a with its DOI; Adamson's URL and date added. Every new quotation was grep-verified once in raw source text. Superlative sweep empty.
+- **Engagement modes**: none (comparative exposition, no named-opponent reply).
+- **Leads (other pages; not edited)**:
+  - `topics/interaction-problem-across-traditions` L70: carries the same Avicenna holism ("the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance…"). Its quotes "bottom-up preparing influence" and "top-down actualizing effect" are unverified, because Preprints.org returns 403. The same page repeats "Avicenna's holistic governance" at L48, L122 and L130. It has an open P3 task (L132).
+  - `topics/history-of-the-interaction-problem` L118: "the same insight that Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes".
+  - `research/interaction-problem-non-western-philosophy-2026-02-17` L99: still carries the misattributed al-Ghazālī quote "so utterly different in their essences that one cannot affect the other" (B6 from the 10-12 pessimistic review; still unqueued).
+- **Output**: [deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness](/reviews/deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness/)
 
 ## 22:12 - refine-draft
 - **Status**: Success
