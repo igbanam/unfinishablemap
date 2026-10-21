@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-10-10T06:23:50+00:00
+ai_modified: 2026-10-21T10:09:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ Three strands of contemporary philosophical criticism have put pressure on causa
 
 **Buhler's systematic critique.** Keith Buhler (2020) examined the extant arguments for causal closure and argued that none of them succeeds. Deductive arguments beg the question — they assume the physical domain is complete in order to prove that it is complete. Inductive arguments commit sampling errors: the success of physical explanation within domains we have investigated does not establish completeness across *all* domains, including the consciousness-physics interface. Even the strongest inductive conclusions remain compatible with causal openness.
 
-**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure." She further pressed Hempel's dilemma: if "physical" means what current physics describes, then causal closure looks false (current physics is incomplete). If "physical" means what a future completed physics describes, the claim looks empty — we cannot know whether that physics will include or exclude mental causation. On Montero's analysis, no available definition of "physical" supports causal closure without either circularity or vacuity.
+**Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure," then asked what "physical" means in them. If it means whatever physics will account for, closure no longer tells against dualism, since a future physics might incorporate fundamental mental properties. If it means "the fundamentally nonmental," her preferred reading, a completable physics does not imply closure: "Science can be as successful as you like and CC could still be false." She judges Hempel's dilemma about physicalism (current physics yields a thesis "we cannot defend," future physics one "impossibly vague") not fatal on its own. Against Gillett and Witmer (2001), who turn it on Papineau's physiological argument, she holds that a version stated over current physiology escapes the first horn. Whether physiology strongly supports closure she finds "not entirely clear."
 
 **Lowe's compatibility argument.** E.J. Lowe (2000) argued that standard formulations of causal closure are *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles would leave room for mind-body interaction. Separately, Pitts (2020) argues that conservation laws are local and hold only where the relevant symmetries hold, and that constant total energy for the universe as a whole requires the global sum of local conservation laws to converge, which it probably does not. Expecting conservation to hold in the brain without looking therefore assumes that interactionism is false; as Cucu and Pitts (2019) put it, "a decent objection to interactionism should be a posteriori, based on empirically studying the brain." General relativity, on Pitts's analysis, cuts the other way. Against authors who read the non-localisability of gravitational energy as a loophole, Pitts (2022) uses the generalised Bianchi identities to argue that general relativity makes Cartesian mental causation harder, forcing the simplest model of mental influence to vanish, though "the difficulty may diminish for more complicated models."
 
@@ -151,18 +151,19 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223–236. doi:10.1515/mp-2019-0026
 2. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95–121.
 3. Gibb, S.C. (2010). "Closure Principles and the Laws of Conservation of Energy and Momentum." *Dialectica*, 64(3), 363–384.
-4. Kim, J. (1993). *Supervenience and Mind: Selected Philosophical Essays*. Cambridge University Press.
-5. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
-6. List, C. & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy*, 106(9), 475–502.
-7. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
-8. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
-9. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-10. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-11. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-12. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
-13. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-14. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
-15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-16. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
-17. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-18. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+4. Gillett, C. & Witmer, D.G. (2001). "A 'Physical' Need: Physicalism and the Via Negativa." *Analysis*, 61(4), 302–309. doi:10.1093/analys/61.4.302
+5. Kim, J. (1993). *Supervenience and Mind: Selected Philosophical Essays*. Cambridge University Press.
+6. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
+7. List, C. & Menzies, P. (2009). "Nonreductive Physicalism and the Limits of the Exclusion Principle." *Journal of Philosophy*, 106(9), 475–502.
+8. Loewer, B. (2007). "Mental Causation, or Something Near Enough." In B.P. McLaughlin & J.D. Cohen (Eds.), *Contemporary Debates in Philosophy of Mind* (pp. 243–265). Blackwell.
+9. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
+10. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+11. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+12. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
+13. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
+14. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+15. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
+16. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+17. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+18. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+19. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
