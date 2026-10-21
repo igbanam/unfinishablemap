@@ -155,8 +155,8 @@
     integration'
   target_filename: outer-review-2026-10-21-gemini-3-1-pro.md
   status: pending
-  collect_attempts: 0
-  last_attempt_at: null
+  collect_attempts: 1
+  last_attempt_at: '2026-10-21T04:39:26.057032+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
