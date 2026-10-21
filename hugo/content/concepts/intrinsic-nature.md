@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-13 08:31:25+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-21 07:27:50+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[russellian-monism]]'
@@ -14,7 +14,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[phenomenal-acquaintance]]'
 created: 2026-05-27
-date: &id001 2026-10-13
+date: &id001 2026-10-21
 description: Physics describes only relational structure and is silent on the intrinsic
   categorical base—the quiddities that instantiate it. This distinction grounds Russellian
   monism, generates the inscrutability problem, and marks where the Map locates the
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:00+00:00
-lastmod: 2026-10-13 08:31:25+00:00
+lastmod: 2026-10-21 07:27:50+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -37,13 +37,13 @@ topics:
 - '[[dualism]]'
 ---
 
-The *intrinsic nature* of the physical is what matter is in itself, as opposed to what it does. Physics describes matter relationally and structurally—mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions, a particle by its dispositions to affect other particles. None of this says what *bears* these dispositions. The intrinsic nature is the categorical base that instantiates the relational structure physics maps. The distinction is Bertrand Russell's (1927) and Arthur Eddington's (1928). The term for the intrinsic properties themselves—*quiddities*, the "whatness" of fundamental entities, the qualities in virtue of which they enter into the relations physics describes—is a later import into the debate, standardly credited to Lewis (2009).
+The *intrinsic nature* of the physical is what matter is in itself, as opposed to what it does. Physics describes matter relationally and structurally—mass by its gravitational and inertial behaviour, charge by its electromagnetic interactions, a particle by its dispositions to affect other particles. None of this says what *bears* these dispositions. The intrinsic nature is the categorical base that instantiates the relational structure physics maps. In its modern form the distinction is Bertrand Russell's (1927) and Arthur Eddington's (1928). The term for the intrinsic properties themselves—*quiddities*, the "whatness" of fundamental entities, the qualities in virtue of which they enter into the relations physics describes—is a later import into the debate: Armstrong (1989) seems to have coined *quidditism*, Black (2000) argued against that view by name, and Lewis (2009) is a standard source.
 
 The distinction matters because physics appears constitutively unable to reach it. Structural description is the method of physics, and structure all it can express. This generates three downstream problems that recur across the Map: the **inscrutability problem** (we cannot, even in principle, read off intrinsic natures from physical theory), the **Russellian opening** (if consciousness is the one intrinsic nature we know directly, perhaps intrinsic nature and consciousness coincide), and the **placement question** (where, in an ontology, does the non-physical aspect of reality live). The Map's answer to the third is that the intrinsic base is the natural home for the non-physical aspect—though, as the [Relation to Site Perspective](#relation-to-site-perspective) section explains, the Map places consciousness there as a *distinct interacting aspect* rather than identifying it with quiddities as Russellian monism does.
 
 ## The Structural/Intrinsic Distinction
 
-Russell drew the distinction sharply in *The Analysis of Matter*: physics tells us about the structure of the physical world—the pattern of relations among its parts—but is silent about the intrinsic character of whatever stands in those relations. "The physical world is only known as regards certain abstract features of its space-time structure," Russell wrote; the intrinsic character is left open. Eddington put it as a contrast between the "world of shadows" that physics symbolises and the unknown reality the symbols stand for.
+Russell drew the distinction sharply in *The Analysis of Matter*: physics tells us about the structure of the physical world—the pattern of relations among its parts—but is silent about the intrinsic character of whatever stands in those relations. In his words: "Physics, in itself, is exceedingly abstract, and reveals only certain mathematical characteristics of the material with which it deals. It does not tell us anything as to the intrinsic character of this material" (p. 10). Eddington put it as a contrast between the "world of shadows" (p. xvi) that physics symbolises and the unknown reality the symbols stand for.
 
 The core observation is robust across physics as practised. As physics has matured it has become *more* abstract and relational, not less. Quantum field theory and general relativity are triumphs of structural description; they specify the relations among quantities with extraordinary precision while saying nothing about the intrinsic nature of what is so related. A complete future physics, on this view, would be a complete account of structure—and still silent on intrinsic nature, because that silence is a feature of the method, not a deficit of current theory. That permanence is a claim about the *method* of physics rather than a theorem—[physical completeness](/concepts/physical-completeness/) calls it a bet on the method-claim, not a proof—and the [ignorance hypothesis](/concepts/ignorance-hypothesis/) is the physicalist view that bets the other way.
 
@@ -61,7 +61,7 @@ The *ontic* structural realist holds that structure is all there is—there are 
 
 ## Hempel's Dilemma and What "Physical" Means
 
-The distinction sharpens a problem about the word *physical* itself. Carl Hempel's dilemma asks what "physical" means in claims like "everything is physical." If it means *what current physics describes*, the claim is false—current physics is incomplete and acknowledged to be so. If it means *what a completed future physics will describe*, the claim is unfalsifiable, because we cannot now know what a completed physics will contain; it might include mental or protomental properties (Montero 2003).
+The distinction sharpens a problem about the word *physical* itself. Carl Hempel's dilemma (Hempel 1980) asks what "physical" means in claims like "everything is physical." If it means *what current physics describes*, the claim is false—current physics is incomplete and acknowledged to be so. If it means *what a completed future physics will describe*, the claim is unfalsifiable, because we cannot now know what a completed physics will contain; it might include mental or protomental properties (Montero 2003).
 
 The intrinsic-nature distinction explains *why* the dilemma has force. Both horns concern physics' relational-structural description. Neither horn touches quiddities, because no physics—present or completed—delivers intrinsic natures by the structural method. So "everything is physical" is either a claim about structure (true but partial) or a claim about a complete ontology (which structural physics is in no position to underwrite). The [causal-closure principle](/concepts/causal-closure/) inherits the same indeterminacy: closure stated over current physics is false, and stated over completed physics is vacuous. The intrinsic-nature gap is the structural reason these debates resist resolution by appeal to "physics."
 
@@ -119,11 +119,14 @@ The second and third have not been achieved: physics has grown more relational r
 3. Langton, R. (1998). *Kantian Humility: Our Ignorance of Things in Themselves*. Oxford University Press.
 4. Lewis, D. (2009). Ramseyan humility. In D. Braddon-Mitchell & R. Nola (Eds.), *Conceptual Analysis and Philosophical Naturalism* (pp. 203-222). MIT Press.
 5. Montero, B. (2003). Varieties of causal closure. In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation* (pp. 173-187). Imprint Academic.
-6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015, "A Dilemma for Russellian Monists about Consciousness," in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*, Oxford University Press, 2015).
+6. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015, "A dilemma for Russellian monists about consciousness," unpublished manuscript, PhilPapers).
 7. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 8. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 9. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27-46. https://doi.org/10.1007/s11229-006-9076-2
 10. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-11. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
-12. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
-13. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+11. Alter, T., & Pereboom, D. (2023). Russellian Monism. *Stanford Encyclopedia of Philosophy* (substantive revision 4 July 2023). https://plato.stanford.edu/entries/russellian-monism/
+12. Armstrong, D. M. (1989). *A Combinatorial Theory of Possibility*. Cambridge University Press. https://doi.org/10.1017/CBO9781139172226
+13. Black, R. (2000). Against quidditism. *Australasian Journal of Philosophy*, 78(1), 87-104. https://doi.org/10.1080/00048400012349371
+14. Hempel, C. G. (1980). Comments on Goodman's *Ways of Worldmaking*. *Synthese*, 45(2), 193-199. https://doi.org/10.1007/BF00413558
+15. Southgate, A. & Oquatre-sept, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+16. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/

@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 06:25:04+00:00
+ai_modified: 2026-10-21 07:29:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 06:25:04+00:00
+lastmod: 2026-10-21 07:29:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:29 - refine-draft
+- **Status**: Success
+- **File**: [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Task**: P1 citation pass from convergent outer reviews 2026-10-21 (chatgpt + claude; synthesis cluster 1)
+- **Original score**: n/a (citation pass; `scripts/curate.py` absent)
+- **Changes**: (1) RUSSELL L41: the misattributed *Human Knowledge* (1948) sentence ("only known as regards…") is replaced by the verbatim *Analysis of Matter* p. 10 passage ("Physics, in itself, is exceedingly abstract … intrinsic character of this material"). It was grep-verified in the raw Gutenberg 77427 HTML (1927 Kegan Paul/Harcourt), with 1 exact hit and the page anchor between Pg 10 and Pg 11. Ref 1 kept. (2) PAUTZ ref 6: the Alter & Nagasawa container is dropped; the 2015 paper is now an "unpublished manuscript, PhilPapers", in line with the sibling pages. (3) L35 LEWIS CREDIT: "standardly credited to Lewis (2009)" now reads "Armstrong (1989) seems to have coined *quidditism*, Black (2000) argued against that view by name, and Lewis (2009) is a standard source". SEP *Haecceitism* §7.1 hedge kept. Black's paper argues against quidditism (SEP: intuitions at p. 94, a cardinality argument), so the brief's "stated the view sharply" was not used. Armstrong is not credited with "quiddity". (4) HEMPEL L59: added "(Hempel 1980)". Crossref and OpenAlex give *Synthese* 45(2), 193-199, doi 10.1007/BF00413558. Montero, already cited here, attributes the dilemma to Hempel 1980. SEP *Physicalism* §4.3 cites Hempel 1969 and 1980; its bibliography misprints the pages as 139-199. The section's argument is not expanded. (5) L35: "In its modern form" added before the Russell/Eddington credit. (6) Ref 11 now credits Alter & Pereboom (2023), substantive revision 4 July 2023 (SEP masthead and copyright line). (7) Eddington "world of shadows" (p. xvi) added. gutenberg.ca, base CUP 1929, "First Edition 1928 Reprinted 1929". New refs 12-14 are Armstrong 1989 (Crossref doi 10.1017/CBO9781139172226), Black 2000 (Crossref) and Hempel 1980 (Crossref). The Map self-cites are renumbered 15-16.
+- **Reasoning mode**: n/a. No named-opponent engagement was changed; the argument-calibration P1 task's lines were left untouched.
+- **Length**: analyze_length 2456 → 2529 (prose +40, references +36); concepts hard 3500.
+- **Published**: yes
 
 ## 06:25 - apex-evolve
 - **Status**: Complete
