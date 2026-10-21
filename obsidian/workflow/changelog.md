@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T04:26:11+00:00
+ai_modified: 2026-10-21T05:07:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:07 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-21
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Recent-aged subject `concepts/intrinsic-nature`; Claude and Gemini reused ChatGPT's subject. Gemini 3.1 Pro was abandoned by the driver at 04:54Z after Deep Research sat at "Starting research..." for 42 minutes with no sources. This is the second consecutive Gemini stall (10-20: about 56 minutes), and 3 of the last 4 commissioned Gemini legs were abandoned. Both stalled entries carry `failure_reason: null`, so the synthesis is the only record of the reason.
+- **Clusters**: 11 convergent, each adjudicated on disk or at source before clustering. A further 2 are convergent but unverified (Lewis's panphenomenalist exception, and Alter & Pereboom 2023), and 2 are shared assessments with no defect. There are 14 singletons and 5 divergences.
+  - Dominant finding: the bearer premise is the quidditist's, and the page gives no hearing to pure powers or powerful qualities.
+  - The "at the intrinsic base" placement is not reconciled with bi-aspectual-ontology's interface-local actuality. Upheld as unreconciled, not contradictory.
+  - The Russell L41 quotation is verbatim *Human Knowledge* (1948), not *The Analysis of Matter*. Re-verified at synthesis against both raw texts, with a positive control. ChatGPT's "compression of several passages" diagnosis was rejected.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): the intrinsic-nature argument task, russellian-monism, and bi-aspectual-ontology. The intrinsic-nature citation task was already P1 and was rewritten but not raised.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage. The two intrinsic-nature tasks split by locus, and the intrinsic-nature (e) / bi-aspectual (1) pair edits different files.
+- **Amendments**:
+  - Citation task: Hempel source made required; optional Eddington p. xvi (verified) added.
+  - Argument task: (j) trend sentence added; (k) quidditist-premise clause made required; (l) location guard added.
+  - Sibling sweep: "share only the structuralist premise" also appears in the russellian-monism lead (L41), bi-aspectual L95 and russellian-monism-versus-bi-aspectual-dualism L82. These were added to the russellian-monism and bi-aspectual tasks.
+  - NEEDS-HUMAN sync `date` record: left unchanged.
+- **Pointer check**: `parse_tasks` returns 153 active tasks before and after. P1 went from 2 to 5, P2 from 15 to 12, and P3 stayed at 136. `git diff --stat todo.md` shows +39/−13, all within the four edited entries.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-21]]
 
 ## 04:26 - outer-review
 - **Status**: Success
