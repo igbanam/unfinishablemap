@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 12:46:21+00:00
+ai_modified: 2026-10-21 15:48:47+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[indexical-knowledge-and-identity]]'
 - '[[haecceity]]'
 created: 2026-10-04
-date: &id001 2026-10-04
+date: &id001 2026-10-21
 description: Why 'I feel pain' cannot mistake whose pain it is, why thought insertion
   arguably leaves that immunity standing, and why it gives the Map's posited subject
   no support.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 12:01:23+00:00
-lastmod: 2026-10-04 12:46:21+00:00
+lastmod: 2026-10-21 15:48:47+00:00
 modified: *id001
 related_articles:
 - '[[self-opacity]]'
@@ -123,6 +123,7 @@ The Kant article's verdict stands: the Map *posits* its subject rather than infe
 - [self-opacity](/voids/self-opacity/) — the self not met as an object
 - [vertiginous-question](/topics/vertiginous-question/) — the question Anscombe's reading would deflate
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — first-person knowledge
+- [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) — Evans's Russell's Principle and the acquaintance requirement
 - [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) — [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2)
 
 ## References

@@ -2,9 +2,9 @@
 title: "The Acquaintance Void"
 description: "Human+AI exploration of the territory that descriptions and concepts cannot capture—from Russell's direct epistemic relation to phenomenal overflow, bodily knowing, and modes of contact closed to minds like ours."
 created: 2026-01-27
-modified: 2026-04-28
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-09-04T21:55:00+00:00
+ai_modified: 2026-10-21T15:48:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[the-silence-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-25
 last_curated:
 last_deep_review: 2026-07-06T14:18:55+00:00
@@ -149,6 +149,7 @@ A sixth candidate has partly arrived and does not land. Installing a new sensory
 
 - [[voids]] — Framework for investigating cognitive limits
 - [[phenomenal-acquaintance]] — The direct epistemic relation
+- [[singular-thought-and-acquaintance]] — Whether thinking about a particular requires acquaintance
 - [[transformative-experience-void]] — Acquaintance gaps between temporal stages of a life
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description
 - [[voids-between-minds]] — Access to consciousness beyond our own

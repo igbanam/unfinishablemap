@@ -2,9 +2,9 @@
 title: "Immunity to Error through Misidentification"
 description: "Why 'I feel pain' cannot mistake whose pain it is, why thought insertion arguably leaves that immunity standing, and why it gives the Map's posited subject no support."
 created: 2026-10-04
-modified: 2026-10-04
+modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-04T12:46:21+00:00
+ai_modified: 2026-10-21T15:48:47+00:00
 draft: false
 topics:
   - "[[kants-paralogisms-and-the-maps-subject]]"
@@ -119,6 +119,7 @@ The Kant article's verdict stands: the Map *posits* its subject rather than infe
 - [[self-opacity]] — the self not met as an object
 - [[vertiginous-question]] — the question Anscombe's reading would deflate
 - [[indexical-knowledge-and-identity]] — first-person knowledge
+- [[singular-thought-and-acquaintance]] — Evans's Russell's Principle and the acquaintance requirement
 - [[positions/individuation-and-subjecthood]] — P-I1 and P-I2
 
 ## References

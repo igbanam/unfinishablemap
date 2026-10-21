@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 15:12:40+00:00
+ai_modified: 2026-10-21 15:48:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 15:12:40+00:00
+lastmod: 2026-10-21 15:48:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:48 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/)
+- **Word count**: 2,984 → 3,065 by analyze_length (prose 2,418 → 2,450; References +3 entries; topics soft 3,000, hard 4,000)
+- **Critical issues addressed**: 5. (1) Evans's two conditions: Hurry reads information plus discriminating knowledge as jointly sufficient; the page had discriminating knowledge alone, fixed in the lead, §Evans and §Trade-off. (2) Lewis "any causal chain" universal removed. (3) Grice 1969, Strawson 1974 and Perry 1980 were dated inline with no References entries; added after Crossref and catalogue verification. (4) Recanati's H&M/robustness point is from his *New Essays* chapter, not the 2009 paper (0 Hawthorne hits); the sentence now says so. (5) The Relation §Dualism "It shows where consciousness can enter… through the thinker" contradicted §Trade-off's "neither supplies nor threatens it"; rewritten word-neutrally.
+- **Medium issues addressed**: 1 (Bach's "a certain kind of relation" restored)
+- **Hosts**: 6 pass ([whether-language-model-words-refer](/topics/whether-language-model-words-refer/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [naturalist-relationalism](/concepts/naturalist-relationalism/), [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/), [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [intentionality](/concepts/intentionality/)). 1 fixed: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/) said the theory of singular thought "shows where that subject enters", which the page disclaims (2,764 → 2,767). Optional Further Reading lines added on [immunity-to-error-through-misidentification](/concepts/immunity-to-error-through-misidentification/) (2,935) and [acquaintance-void](/voids/acquaintance-void/) (2,355).
+- **Verification**: 20+ quotes hand-grepped in raw sources. Recanati 2009 pages were computed from the PDF footers (p. 8, 17, 18 n. 4, 19, 21 n. 7 all correct). The writer's harness was re-run after the edits: 36/36 quotes, 33/33 support, 5/5 controls.
+- **Leads**: the Lewis locus is resolved to 1983 ("Individuation by Acquaintance and by Stipulation", reprinted 1999 pp. 373–402; Cambridge Core), with the quoted text still via Recanati only. The blindsight and PIT leads remain open.
+- **Output**: [deep-review-2026-10-21-singular-thought-and-acquaintance](/reviews/deep-review-2026-10-21-singular-thought-and-acquaintance/)
 
 ## 15:12 - expand-topic
 - **Status**: Success

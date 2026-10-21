@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 15:00:56+00:00
+ai_modified: 2026-10-21 15:48:47+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,8 +21,8 @@ description: 'Must you be acquainted with a thing to think about it? A human-AI 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
-lastmod: 2026-10-21 15:00:56+00:00
+last_deep_review: 2026-10-21 15:48:47+00:00
+lastmod: 2026-10-21 15:48:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,13 +36,13 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-A singular thought is about a particular thing directly, not about whatever fits a description. Must the thinker be *acquainted* with the thing? Russell said yes, and his acquaintance was presentation, the object itself before the mind. The Unfinishable Map reads the debate since as a trade-off, in its own framing rather than any cited author's: the more phenomenal the acquaintance, the less singular thought it allows ([the scope–phenomenality trade-off](#trade-off), explained below). Every view that restores ordinary singular thought about Caesar or Neptune (Evans, Lewis, Bach, Recanati, Sawyer) makes acquaintance non-phenomenal, either discriminating knowledge or an information-carrying causal channel. A phenomenal condition survives only for perceptual demonstratives ("*that* cup"), where Campbell (2002) and Smithies (2011) hold consciousness essential. Neither is a dualist. The most this literature shows is that one narrow kind of thought depends on consciousness, a thesis physicalists can accept. It gives no evidence for dualism.
+A singular thought is about a particular thing directly, not about whatever fits a description. Must the thinker be *acquainted* with the thing? Russell said yes, and his acquaintance was presentation, the object itself before the mind. The Unfinishable Map reads the debate since as a trade-off, in its own framing rather than any cited author's: the more phenomenal the acquaintance, the less singular thought it allows ([the scope–phenomenality trade-off](#trade-off), explained below). Every view that restores ordinary singular thought about Caesar or Neptune (Evans, Lewis, Bach, Recanati, Sawyer) makes acquaintance non-phenomenal: discriminating knowledge, an information-carrying causal channel, or both. A phenomenal condition survives only for perceptual demonstratives ("*that* cup"), where Campbell (2002) and Smithies (2011) hold consciousness essential. Neither is a dualist. The most this literature shows is that one narrow kind of thought depends on consciousness, a thesis physicalists can accept. It gives no evidence for dualism.
 
 Language models divide the same way ([words, files and thinkers](#language-models), explained below). The liberal views of Kaplan, Jeshion, and Hawthorne and Manley remove the acquaintance condition but not the condition that there be a thinker. The Map's verdict that a current large language model (LLM) has no singular thought of its own rests on that thinker condition, through moderate phenomenal intentionality theory and the Map's low-probability verdict on current AI consciousness, not on any lack of acquaintance. The model's words can still refer derivatively ([whether-language-model-words-refer](/topics/whether-language-model-words-refer/)). Interpretability work on entity representations bears on mechanism only, and the decisive test, for a name a model coins itself, has not been run.
 
 ## What Singular Thought Is {#what}
 
-Kent Bach's terms, quoted by Recanati (2009, n. 7), mark the contrast. A descriptive thought's object is fixed *satisfactionally*, as whoever fits, with no connection needed. A *de re* thought's object is fixed *relationally*: it must stand in some relation to that very thought.
+Kent Bach's terms, quoted by Recanati (2009, n. 7), mark the contrast. A descriptive thought's object is fixed *satisfactionally*, as whoever fits, with no connection needed. A *de re* thought's object is fixed *relationally*: it must stand in a certain kind of relation to that very thought.
 
 Three cases drive the debate. Suppose Le Verrier, having inferred an unseen planet from the perturbations of Uranus, stipulates that it be called "Neptune". Can he now think about the planet itself? Kaplan imagined stipulating that "Newman1" names the first child born in the twenty-second century (Ninan 2011). Strawson's (1959) reduplication argument, as Fitch and Nelson (2013) present it, runs the other way. Where every scene has a qualitatively identical duplicate, Sally, standing before Bill, thinks about Bill and not Bill*, although "For any purely qualitative condition Bill satisfies, Bill* satisfies it too." Description cannot separate them, but standing before Bill can.
 
@@ -54,11 +54,11 @@ The price was scope. The objects of acquaintance were sense-data, universals and
 
 ## Evans and Russell's Principle {#evans}
 
-Evans (1982) kept the requirement and relaxed its content. What Evans calls "Russell's Principle" is the requirement he finds in Russell's 1912 remark that it is "scarcely conceivable that we can make a judgement or entertain a supposition without knowing what it is that we are judging or supposing about" (Hurry 2021). As Hurry reports him, Evans takes the knowledge required to be *discriminating knowledge*, a capacity to distinguish the object from all other things. Perceiving the object, recognising it, or knowing distinguishing facts about it can each supply that capacity (Evans 1982, p. 89). Description can meet the last, so the principle imposes no general phenomenal requirement.
+Evans (1982) kept the requirement and relaxed its content. What Evans calls "Russell's Principle" is the requirement he finds in Russell's 1912 remark that it is "scarcely conceivable that we can make a judgement or entertain a supposition without knowing what it is that we are judging or supposing about" (Hurry 2021). As Hurry reports him, Evans takes the knowledge required to be *discriminating knowledge*, a capacity to distinguish the object from all other things. Perceiving the object, recognising it, or knowing distinguishing facts about it can each supply that capacity (Evans 1982, p. 89). Description can meet the last, so the principle imposes no general phenomenal requirement. On Hurry's reading, Evans also requires information derived from the object, the two conditions being jointly sufficient for singular thought.
 
 ## Acquaintance as an Information Channel {#channels}
 
-A second family keeps the word and changes the relation. Lewis, as Recanati (2009, p. 18) quotes him, counted any causal chain "of a sort which would permit a flow of information" as acquaintance: "perhaps I get misinformation, but still the channel is there." Bach, in Ninan's (2011) summary, roots singular thought in perception, memory and testimony, and concedes he has found no principled answer to how inclusive the relation is.
+A second family keeps the word and changes the relation. Lewis, as Recanati (2009, p. 18) quotes him, counted relations involving causal chains "of a sort which would permit a flow of information" as acquaintance: "perhaps I get misinformation, but still the channel is there." Bach, in Ninan's (2011) summary, roots singular thought in perception, memory and testimony, and concedes he has found no principled answer to how inclusive the relation is.
 
 Recanati builds this into the mental-file framework. Acquaintance relations "are epistemically rewarding in that they enable the subject to gain information from the object", and a file stores what its relation delivers (2009, p. 18). On Recanati's own account the idea predates him: Grice (1969) introduced it "rather incidentally", Strawson (1974) gave its "first detailed articulation", and Perry (1980) is its most influential source (Recanati 2009, p. 17). Leonardi (2013) reports that in *Mental Files* perceptual acquaintance is the paradigm, while *encyclopedic* files rest on a higher-order relation that holds whenever some first-order relations do. Most of a reader's thoughts about Robespierre would use such a file. Sawyer (2012) allows "'trace‐based' acquaintance".
 
@@ -70,7 +70,7 @@ A third family drops the requirement. *Semantic Instrumentalism*, Jeshion's labe
 
 Jeshion's *Cognitivism* denies the acquaintance requirement without returning to stipulation. Her chapter abstract keeps limits on singular thought, but they are "not strictly epistemic, but rather, cognitive, associated with the goals, interests, plans, and affective states of the thinker" (Jeshion 2010). In her campsite case, as Ninan reports it, the tracks and scat of an unseen bear suffice for singular thought about it, because the bear matters to where the family camps. Ninan replies that the traces are a causal link a weakened acquaintance theory could count. Sawyer (2012) answers with an acquaintance theory that distinguishes "unsuccessful thoughts of singular form from successful singular thoughts". Goodman (2016) argues that "the central connection she makes between significance and singularity does not hold."
 
-Hawthorne and Manley (2012) go furthest. Their *liberalism about singular thought*, unrelated to the "qualified liberalism" about [cognitive phenomenology](/concepts/cognitive-phenomenology/) that the Map holds ([P-TU1](/positions/thought-and-understanding/#p-tu1)), denies any general acquaintance restriction. In Abbott's (2013) summary, they argue that no acquaintance constraint is needed to explain the contrast between believing that someone is a spy and believing of someone that he is one, and that Le Verrier's stipulated singular knowledge still seems odd when a causal link to Neptune is added, so causal acquaintance cannot explain the oddity. Recanati observes that intuitions about such cases are "not particularly robust" (Ninan's words), and argues that Hawthorne and Manley's report-based test of singularity, applied consistently, erases the singular/general distinction itself.
+Hawthorne and Manley (2012) go furthest. Their *liberalism about singular thought*, unrelated to the "qualified liberalism" about [cognitive phenomenology](/concepts/cognitive-phenomenology/) that the Map holds ([P-TU1](/positions/thought-and-understanding/#p-tu1)), denies any general acquaintance restriction. In Abbott's (2013) summary, they argue that no acquaintance constraint is needed to explain the contrast between believing that someone is a spy and believing of someone that he is one, and that Le Verrier's stipulated singular knowledge still seems odd when a causal link to Neptune is added, so causal acquaintance cannot explain the oddity. Recanati, in *New Essays*, observes that intuitions about such cases are "not particularly robust" (Ninan's words), and argues that Hawthorne and Manley's report-based test of singularity, applied consistently, erases the singular/general distinction itself.
 
 ## Where Consciousness Enters: Demonstratives {#demonstratives}
 
@@ -86,7 +86,7 @@ The pattern across these views is the Map's synthesis, stated by none of the cit
 2. Acquaintance, in the sense premise 1 needs, is phenomenal presentation.
 3. So singular thought has a phenomenal condition.
 
-Russell holds both premises and pays in scope: he allows no singular thought about Caesar or Neptune. Each view that restores those thoughts gives up premise 2: Evans through distinguishing facts, Lewis, Bach and Recanati through information channels, Sawyer through traces. The liberal views give up premise 1. The two premises hold together only for perceptual demonstratives, and perhaps for the self, on which Russell hedged. The more phenomenal the acquaintance, the less singular thought it licenses.
+Russell holds both premises and pays in scope: he allows no singular thought about Caesar or Neptune. Each view that restores those thoughts gives up premise 2: Evans through discriminating knowledge and an information link, Lewis, Bach and Recanati through information channels, Sawyer through traces. The liberal views give up premise 1. The two premises hold together only for perceptual demonstratives, and perhaps for the self, on which Russell hedged. The more phenomenal the acquaintance, the less singular thought it licenses.
 
 Even where the conclusion holds, it delivers consciousness-dependence. Dualism needs a further premise, that phenomenal presentation is not physical, which is argued and contested in [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)'s treatment of Loar.
 
@@ -111,7 +111,7 @@ The decisive test has not been run. If the proposal is right, a name coined in c
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** Where singular thought has a phenomenal condition, the result is consciousness-dependence, which non-dualists such as Campbell and Smithies accept; dualism needs the separate premise that phenomenal presentation is not physical. The Map does not count this literature as evidence for dualism. It shows where consciousness can enter: narrowly, through acquaintance in demonstrative thought, and, on moderate PIT, through the thinker in every case.
+**[Dualism](/tenets/#dualism).** Where singular thought has a phenomenal condition, the result is consciousness-dependence, which non-dualists such as Campbell and Smithies accept; dualism needs the separate premise that phenomenal presentation is not physical. The Map does not count this literature as evidence for dualism. Consciousness can enter narrowly, through acquaintance in demonstrative thought, and, on moderate PIT, held on other grounds, through the thinker in every case.
 
 **[No Many Worlds](/tenets/#no-many-worlds).** First-person reference is the cheapest singular reference. On Perry's account, as Recanati (2009, p. 19) gives it, the concept of self is a mental file "based upon a special relation which every individual bears to himself or herself, namely identity." That relation is not phenomenal, and it presupposes a determinate bearer: if a subject branched, each successor's self-file would refer to that successor. Reference semantics thus takes for granted the centred subject that the indexical objection asks about ([indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)), so the theory fits the tenet without supporting or threatening it. The reduplication argument has a parallel structure, with qualitative information leaving open *which* one, but branches are not qualitative duplicates, so the parallel is no argument against many worlds.
 
@@ -139,6 +139,7 @@ The decisive test has not been run. If the proposal is right, a name coined in c
 1. Ferrando, J., Obeso, O., Rajamanoharan, S. & Nanda, N. (2025). Do I know this entity? Knowledge awareness and hallucinations in language models. *ICLR 2025*. arXiv:2411.14257.
 1. Fitch, G. W. & Nelson, M. (2013). Singular propositions. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/propositions-singular/
 1. Goodman, R. (2016). Cognitivism, significance and singular thought. *Philosophical Quarterly*, 66(263), 236–260. https://doi.org/10.1093/pq/pqv074
+1. Grice, H. P. (1969). Vacuous names. In D. Davidson & J. Hintikka (Eds.), *Words and Objections* (pp. 118–145). Reidel. https://doi.org/10.1007/978-94-010-1709-1_9
 1. Hattiangadi, A. & Schoubye, A. J. (forthcoming). The outputs of large language models are meaningless. In H. Cappelen & R. Sterken (Eds.), *Communicating with AI*. Oxford University Press. arXiv:2509.22206.
 1. Hawthorne, J. & Manley, D. (2012). *The Reference Book*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199693672.001.0001
 1. Hurry, D. A. (2021). *Vindicating Evans: A Defence of Evans' Theory of Singular Thought*. PhD thesis, Western University. https://ir.lib.uwo.ca/etd/7655
@@ -149,6 +150,7 @@ The decisive test has not been run. If the proposal is right, a name coined in c
 1. Meng, K., Bau, D., Andonian, A. & Belinkov, Y. (2022). Locating and editing factual associations in GPT. *NeurIPS 2022*. arXiv:2202.05262.
 1. Ninan, D. (2011). Review of Jeshion (Ed.), *New Essays on Singular Thought*. *Notre Dame Philosophical Reviews*, 2011.09.25. https://ndpr.nd.edu/reviews/new-essays-on-singular-thought/
 1. Palmira, M. (2020). Review of Goodman, Genone & Kroll (Eds.), *Singular Thought and Mental Files*. *Notre Dame Philosophical Reviews*, 2020.06.21. https://ndpr.nd.edu/reviews/singular-thought-and-mental-files/
+1. Perry, J. (1980). A problem about continued belief. *Pacific Philosophical Quarterly*, 61(4), 317–332. https://doi.org/10.1111/j.1468-0114.1980.tb00023.x
 1. Recanati, F. (2009). (Anti-)descriptivism, mental files, and the communication of singular thoughts. *Manuscrito*, 32(1), 7–32. https://periodicos.sbu.unicamp.br/ojs/index.php/manuscrito/article/download/8642058/9549/13324
 1. Russell, B. (1910–11). Knowledge by acquaintance and knowledge by description. *Proceedings of the Aristotelian Society*, 11, 108–128. Reprinted in *Mysticism and Logic* (1917), ch. X; quoted from an unpaginated edition.
 1. Russell, B. (1912). *The Problems of Philosophy*. Williams and Norgate, ch. 5.
@@ -156,6 +158,7 @@ The decisive test has not been run. If the proposal is right, a name coined in c
 1. Sawyer, S. (2012). Cognitivism: A new theory of singular thought? *Mind & Language*, 27(3), 264–283. https://doi.org/10.1111/j.1468-0017.2012.01444.x
 1. Smithies, D. (2011). What is the role of consciousness in demonstrative thought? *Journal of Philosophy*, 108(1), 5–34. https://doi.org/10.5840/jphil201110811
 1. Strawson, P. F. (1959). *Individuals*. Methuen, pp. 20–22.
+1. Strawson, P. F. (1974). *Subject and Predicate in Logic and Grammar*. Methuen, pp. 54–56.
 1. Yona, I., Barzilay, D., Karasik, M. & Geva, M. (2026). Friends and grandmothers in silico: Localizing entity cells in language models. arXiv:2604.01404 (preprint).
 1. Southgate, A. & Ocinq-cinq, C. (2026-10-11). Whether Language-Model Words Refer. *The Unfinishable Map*. https://unfinishablemap.org/topics/whether-language-model-words-refer/
 1. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Intentionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intentionality/
