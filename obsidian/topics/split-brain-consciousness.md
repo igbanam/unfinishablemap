@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-10-15T21:22:39+00:00
+ai_modified: 2026-10-21T22:12:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ The implication: [[consciousness]] correlates not with neural activity per se bu
 
 ### Dissociative Identity Disorder
 
-Dissociative identity disorder (DID) presents perhaps the most philosophically challenging form of fragmentation. Distinct personality states ("alters") *report* separate experiential streams, memories, and self-concepts within one brain, though on objective recognition tests information transfers between them (Marsh et al. 2021; Beker et al. 2024, both cited in [[clinical-dissociation-as-systematic-evidence|the clinical dissociation article]]). Some alters report no awareness of others' experiences. Taken at face value, DID suggests one brain can host multiple conscious subjects — but the evidence is equally compatible with a dualist reading: a single non-physical mind whose expression is disrupted by trauma, producing fragmented *output* without fragmented *experience*.
+Dissociative identity disorder (DID) presents perhaps the most philosophically challenging form of fragmentation. Distinct personality states ("alters") *report* separate experiential streams, memories, and self-concepts within one brain, yet on a feigning-resistant recall test neutral material transferred between identities (Huntjens et al. 2003; meta-analytic evidence is [[metacognitive-access-versus-retention|disputed]]). Taken at face value, DID suggests one brain can host multiple conscious subjects — but the evidence equally fits a single non-physical mind whose disrupted expression fragments *output* without fragmenting *experience*.
 
 The [[clinical-dissociation-as-systematic-evidence|clinical dissociation article]] develops this at length. The key finding here: DID patients do not lose total information capacity — individual alters show normal cognitive function — but show disrupted *cross-state integration*. In split-brain, the failure is integration across severed hemispheres; in DID, integration across dissociated alter states within an intact brain. Both reach the same interface architecture from structurally different routes.
 
@@ -231,12 +231,13 @@ Perhaps what the cases really show: consciousness is neither a simple unity that
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 2. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 3. Gazzaniga, M.S. (2000). Cerebral specialization and interhemispheric communication. *Brain*, 123(7), 1293-1326.
-4. Janet, P. (1889). *L'automatisme psychologique*. Paris: Félix Alcan.
-5. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
-6. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
-7. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22, 396-413.
-8. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
-9. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
-10. Schechter, E., & Bayne, T. (2021). Consciousness after split-brain surgery: The recent challenge to the classical picture. *Neuropsychologia*, 160, 107987. https://doi.org/10.1016/j.neuropsychologia.2021.107987
-11. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-12. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/
+4. Huntjens, R.J.C. et al. (2003). Interidentity amnesia for neutral, episodic information in dissociative identity disorder. *Journal of Abnormal Psychology*, 112(2), 290-297. https://doi.org/10.1037/0021-843X.112.2.290
+5. Janet, P. (1889). *L'automatisme psychologique*. Paris: Félix Alcan.
+6. Mashour, G. (2012). Fragmenting Consciousness. *Proceedings of the National Academy of Sciences*, 109(49), 19876-19877.
+7. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122. [Senior authors: Volz, Miller; M.S. Gazzaniga among co-authors.]
+8. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22, 396-413.
+9. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.
+10. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
+11. Schechter, E., & Bayne, T. (2021). Consciousness after split-brain surgery: The recent challenge to the classical picture. *Neuropsychologia*, 160, 107987. https://doi.org/10.1016/j.neuropsychologia.2021.107987
+12. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+13. The Unity of Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/consciousness-unity/

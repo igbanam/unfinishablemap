@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T21:53:12+00:00
+ai_modified: 2026-10-21T22:12:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:12 - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Task**: P3 "`topics/split-brain-consciousness` L110 cites Marsh et al. 2021 and Beker et al. 2024 for 'on objective recognit…'".
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: Marsh et al. 2021 full text (PLoS ONE HTML) has "scored significantly lower on recognition sensitivity", "trended towards a profile of reported amnesia" and "it is not possible to determine whether DID participants presented a true inability", so the old transfer claim misread it. Huntjens et al. 2003 abstract (OpenAlex; PubMed 12784839): "objectively, neither recall nor recognition scores of patients were different from those of normal controls". Donath et al. 2025 accepted manuscript (OSF f8r2t_v2) lists "an interference paradigm (e.g., Huntjens et al., 2003)" among tasks "designed to mitigate the ease of simulation" and names Marsh et al. 2021 as a paradigm "where simulation is easy". Its abstract says the corrected meta-analyses "support memory transfer between identities". No phrase is quoted in the article.
+- **Changes**: L110 "though on objective recognition tests information transfers between them (Marsh et al. 2021; Beker et al. 2024, both cited in [[clinical-dissociation-as-systematic-evidence|…]])" became "yet on a feigning-resistant recall test neutral material transferred between identities (Huntjens et al. 2003; meta-analytic evidence is [[metacognitive-access-versus-retention|disputed]])". To pay for the reference, the next sentence ("Some alters report no awareness…") was dropped as already covered by "*report* separate … memories", and the closing sentence was tightened. "by trauma" was dropped, which leaves the contested aetiology to the clinical-dissociation page; that page is still linked in the next paragraph. Reference added: Huntjens, Postma, Peters, Woertman & van der Hart (2003), *J Abnorm Psychol* 112(2), 290-297, Crossref-verified, as entry 4 with the rest renumbered. Donath 2025 and Huntjens 2012 are reached through the pipe; their entries already exist on [[metacognitive-access-versus-retention]].
+- **Length**: 3,989 → 3,989 (0) by analyze_length, under topics hard 4,000.
+- **Sibling loci (not edited)**: [[clinical-dissociation-as-systematic-evidence]] L82 "only a trend toward loss on free *recall*" leaves out the lower recognition sensitivity. That page's NEEDS-HUMAN item (10) replacement text cites Marsh 2021 for "on objective tests information transfers". [[pharmacological-dissociation-as-evidence]] L168 "Marsh et al. on cross-identity recognition transfer" is loose but defensible from Marsh's abstract.
+- **Frontmatter**: ai_modified set from `date -u`; ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 21:53 - refine-draft
 - **Status**: Success
