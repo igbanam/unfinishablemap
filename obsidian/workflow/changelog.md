@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T18:15:46+00:00
+ai_modified: 2026-10-21T19:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:08 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 908 content files (topics, concepts, positions, apex, voids, arguments) plus `tenets.md` and `tenets/background-commitments.md`. This was an eight-family sweep set by the driver brief: a full-output regex scan per family, then every apex/positions/arguments hit read in full. Each family had a positive control.
+- **Errors**: 0
+- **Warnings**: 14 entries covering 63 distinct files. Tier A has 8 entries in apex, arguments and positions. Tier B has 6 family groups.
+- **Notes**: 12
+- **Family counts (new defect loci after reading)**:
+  - Tenet 3 overclaim: 16 files + 2 apex.
+  - Closure stated only as sufficiency: 20 files + `tenets.md` L67 + P-MC3 + 2 more.
+  - "Biasing probabilities": 6 files.
+  - Photosynthesis: 0 (10-20 synthesis respected).
+  - Lowe: 1 apex.
+  - Davidson: 0 (all queued).
+  - MWI dissolves deliberation: 11 files + 1 apex + 1 arguments.
+  - Tenet 5 as refutation: 6 files.
+- **Top findings**:
+  - `apex/minds-without-words` L141 says "provides positive evidence for consciousness doing causal work".
+  - `arguments/epiphenomenalism-argument` L201/L211/L215 has an unconceded closure defeat, and says the anti-epiphenomenalism arguments "depend on collapse being real", against Posit Three.
+  - `apex/moral-architecture-of-consciousness` L190 says "Graded responsibility requires singular outcomes". It shares its opening sentence with queued `ethics-under-dualism` L206.
+  - `apex/consciousness-and-agency` L101 has "E.J. Lowe goes further".
+- **Fold-ins**:
+  - P-MC3 L46/L81 → the blocked positions HUMAN LENGTH DECISION P2.
+  - `tenets.md` L67 → the NEEDS-HUMAN doctrine P2 at L2814.
+  - phenomenology-of-resistance L117 → L2720.
+- **Output**: [[reviews/tenet-check-2026-10-21]]
 
 ## 18:15 - deep-review
 - **Status**: Success (deep review of the new page, plus cross-review of its 8 hosts)
