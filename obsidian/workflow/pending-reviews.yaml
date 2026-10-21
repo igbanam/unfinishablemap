@@ -86,3 +86,34 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-10-20-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ad81ee4-dc40-83ed-b16e-439bc9792f06
+  commissioned_at: '2026-10-21T02:10:52.702004+00:00'
+  prompt_summary: 'Audit concepts/intrinsic-nature: claims, citations, counterargs,
+    integration'
+  target_filename: outer-review-2026-10-21-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please audit the concept article https://unfinishablemap.org/concepts/intrinsic-nature/
+    on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    site. It was last substantively modified on 2026-10-13; check the changelog at
+    https://unfinishablemap.org/workflow/changelog/ for recent edits your search index
+    may not yet reflect. The article argues that physics describes only relational
+    structure and is silent on the intrinsic categorical base (quiddities), and uses
+    that distinction to frame Russellian monism, Hempel's dilemma, the inscrutability
+    of quiddities, and where the Map locates the non-physical aspect. Assess whether
+    its claims and citations hold up against the current literature on Russellian
+    monism, ontic structural realism and dispositional essentialism; whether it misses
+    strong counterarguments, such as pure-powers or structuralist replies; whether
+    its framing brackets objections in ways that protect the site's dualist tenets;
+    and how well it integrates with the related Russellian monism and bi-aspectual
+    ontology articles. Flag insufficient evidence and stale or misattributed references.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit intrinsic-nature
+  subject_articles:
+  - concepts/intrinsic-nature.md
+  subject_source: fallback:recent-aged
