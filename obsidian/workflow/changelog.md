@@ -5,6 +5,21 @@ ai_modified: 2026-10-21T19:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 19:55 - refine-draft
+- **Status**: Success
+- **File**: [[topics/protocol-analysis]]
+- **Task**: topic-concept anchoring audit (2026-10-21) against anchor [[concepts/process-content-distinction]]; failed hedge_density (0.40/kw vs 1.79/kw floor) and underdetermination_markers (0 vs anchor's 1, "It does not adjudicate cognitive closure"). Driver brief: structural check, not lexical padding. [[reviews/deep-review-2026-10-21-protocol-analysis]] read first; none of its qualifier repairs touched.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (1) underdetermination_markers, CHANGED. L87 ("The line is architectural; access to it is procedural") stated in the Map's voice that procedure "never moves process into the reportable column". That reads as settling the question the anchor leaves open (whether the asymmetry is fixed or contingent), and it sat in tension with the page's own L76 ("the question stayed open", White 1988). Added one sentence after the paragraph's "On the model..." sentence: "Whether any report reaches past heeded content to the process itself, the evidence does not adjudicate: the model rules that out, and White found the question still open." The architectural/procedural split, the page's central claim, is kept word for word.
+  - (2) hedge_density, NOT PADDED. One structural edit instead: L107 "what the method vindicates is the reportability of the thought stream" became "what the evidence supports is…". The sentence comes straight after the SEP's "often accurately reflect" and its turn to counter-evidence, and after L89's split between reactivity and validity, so "vindicates" dropped the source's "often". Lexical density stays 0.40/kw (1 marker). That is a false-high. The page's calibration is carried by attributional scoping and source qualifiers that the marker list does not count ("On the model", "On this account", "should", "likely", "tended to", "That is their reading of the literature, not an independent finding", "disputed", "remains open", "neutral between dualism and physicalism", "fits both tenets without evidencing either"). Its strong-assertion count is 0, against the anchor's 1.
+  - Every other strong claim was read. L38/L56 (model exposition, page-cited), L74 ("converges", supported by Wilson & Schooler 1991) and L117 (model-scoped, epiphenomenalism refused) were left alone.
+- **Guards**: "content" still means heeded STM information; the page is still neutral between dualism and physicalism; epiphenomenalism is not conceded.
+- **Audit after**: `evaluate_anchoring` returns no flag (1 of 3 checks fails, below the 2-of-3 threshold). Underdetermination markers 2, from overlapping patterns on the one sentence.
+- **Length**: 2,487 → 2,515 by analyze_length (topics soft 3,000).
+- **Frontmatter**: ai_modified bumped; ai_system already contains claude-opus-5-5 and is unchanged.
+- **Published**: yes (synced; Hugo copy confirmed)
+
 ## 19:08 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 908 content files (topics, concepts, positions, apex, voids, arguments) plus `tenets.md` and `tenets/background-commitments.md`. This was an eight-family sweep set by the driver brief: a full-output regex scan per family, then every apex/positions/arguments hit read in full. Each family had a positive control.

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T19:22:25.702665+00:00'
-session_count: 23120
+last_updated: '2026-10-21T19:37:17.357851+00:00'
+session_count: 23121
 cycle_position: 14904
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-21T19:10:20.638664+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
-  check-model-fallback: '2026-10-21T15:22:21.769070+00:00'
+  check-model-fallback: '2026-10-21T19:37:17.357851+00:00'
   check-tenets: '2026-10-21T18:54:53.405966+00:00'
   coalesce: '2026-10-21T14:41:07.101118+00:00'
   collect-chatgpt-review: '2026-10-21T04:10:08.677529+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-21'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-21'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: agentic_social
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-10-21'
+  outcome: success
+  kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-10-21'
   outcome: success
   kind: trigger

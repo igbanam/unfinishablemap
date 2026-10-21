@@ -4,7 +4,7 @@ description: "Ericsson and Simon's protocol analysis: which verbal reports are v
 created: 2026-10-21
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T18:15:46+00:00
+ai_modified: 2026-10-21T19:55:27+00:00
 last_deep_review: 2026-10-21T18:15:46+00:00
 draft: false
 topics:
@@ -84,7 +84,7 @@ Did Ericsson and Simon refute Nisbett and Wilson, then? White's verdict is the f
 | Concurrent thinking aloud; immediate retrospection on a specific, short episode | Delayed, general, hypothetical or between-condition probes |
 | Undirected instructions to verbalise whatever thoughts occur | Directed requests for reasons, explanations, selected information or prescribed description |
 
-**The line is architectural; access to it is procedural.** Procedure decides whether a report draws on memory or on inference, but it never moves process into the reportable column. On the model, process is knowable only by third-person reconstruction from a valid trace.
+**The line is architectural; access to it is procedural.** Procedure decides whether a report draws on memory or on inference, but it never moves process into the reportable column. On the model, process is knowable only by third-person reconstruction from a valid trace. Whether any report reaches past heeded content to the process itself, the evidence does not adjudicate: the model rules that out, and White found the question still open.
 
 **Reactivity and validity are separate questions.** A report can leave the process undisturbed and still be incomplete, or blind to what is not verbal. As Jonathan Schooler (2011) put it, "the nonreactivity of thinking aloud does not necessarily speak to its validity."
 
@@ -104,7 +104,7 @@ The meta-analysis provoked a dispute that remains open. Schooler (2011), broadly
 
 Schwitzgebel's *Stanford Encyclopedia* entry on introspection discusses the protocols among introspective methods. It takes their convergence with eye movements and response latencies as support for the view that "people’s reports about their stream of thoughts often accurately reflect those thoughts", then turns at once to counter-evidence.
 
-The Map does not settle the classification. On either answer, what the method vindicates is the reportability of the thought stream: task-directed, largely verbal information passing through attention.
+The Map does not settle the classification. On either answer, what the evidence supports is the reportability of the thought stream: task-directed, largely verbal information passing through attention.
 
 ## What Protocol Analysis Does Not License {#limits}
 
