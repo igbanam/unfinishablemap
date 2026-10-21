@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T20:11:31+00:00
+ai_modified: 2026-10-21T20:37:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:37 - deep-review
+- **Status**: Success
+- **File**: [[topics/moral-status-threshold-or-degrees]] (selector rank 2; rank 1 `topics/phenomenology-of-moral-life` skipped, edited today)
+- **Word count**: 3007 → 3014 (+7; `soft_warning`, topics hard 4000; prose ~2498, apparatus ~535)
+- **Critical issues addressed**: 3. McMahan's three-tier refinement "concedes that the line does not hold" → "answers only some of them, and he allows that others may be unanswerable (p. 101)". DeGrazia 2012 "likewise holds post-persons possible" → "holds post-persons possible but would tentatively "drop the idea of levels of moral status" — the Map's verdict". L79 "that tier extended to everyone" → "extends that tier's measure of stakes to everyone", with McMahan's p. 101 pricing ("repudiation of all constraints … other than those imposed by considerations of consequences") added to the open non-aggregative flank (L89)
+- **Medium issues addressed**: 6. Kagan status "or degree" restored. "two-factor account in Wendler's sense" → "posits a status-enhancing property in Wendler's sense". L97 neighbour misreport removed. L95 "supplies … resistance" → "motivates". "its named threshold advocate" cut. Two funding cuts
+- **Enhancements made**: 2 (DeGrazia 2012 as an ally on the verdict; McMahan's p. 101 pricing anchors the open flank)
+- **Engagements**: Buchanan Mode One; DeGrazia 2008 Mode One; McMahan Mixed (Mode Three on constraints); Floris & Timmer Mixed; Kagan Mode Three
+- **Verification**: all quotations re-grepped in raw text (McMahan, DeGrazia 2008, Buchanan, Sebo PDFs; SEP, Schukraft, NDPR, Regan HTML); tuples and abstracts from Crossref/OpenAlex; Regan now has a second independent source; McMahan 2002 TRIA raised to secondary-raw
+- **Sibling sweep**: 0 live siblings; research note `moral-status-gradualism-and-the-threshold-view-2026-09-05` L196 "DeGrazia 2012 (possibly yes)" annotated in place
+- **Leads**: `concepts/degrees-of-consciousness` L122 ("present or absent, on or off") contradicts its L36; `positions/moral-status` L63 "DeGrazia's sliding scale (2008)" as gradualist rival vs DeGrazia 2008 p. 195 "an issue I leave open" and 2012
+- **Output**: [[reviews/deep-review-2026-10-21-moral-status-threshold-or-degrees]]
 
 ## 20:11 - refine-draft
 - **Status**: Success

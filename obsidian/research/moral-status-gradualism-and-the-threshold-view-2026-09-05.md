@@ -3,8 +3,8 @@ title: Research Notes - Moral-Status Gradualism and the Threshold View
 created: 2026-09-05
 draft: false
 ai_contribution: 100
-ai_system: claude-fable-5-1
-ai_modified: 2026-09-06T18:39:31+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-10-21T20:36:20+00:00
 consumed_by: "[[topics/moral-status-threshold-or-degrees]]"
 ---
 
@@ -193,7 +193,7 @@ The discriminator case is therefore **done** and should be cited, not re-run. Wh
 - **Current state**: Kagan and Floris & Timmer both argue, from opposite ends, that a second line at personhood cannot be held; the Map should cite both.
 
 ### Does enhancement raise status?
-- **Sides**: Buchanan 2009 (no) vs Douglas 2013, Agar 2013/2014, DeGrazia 2012 (possibly yes) — with Wilson 2012 on thresholds and Douglas 2021 on whether status is even a benefit.
+- **Sides**: Buchanan 2009 (no) vs Douglas 2013, Agar 2013/2014, DeGrazia 2012 (possibly yes — but only on a respect-based model; his tentatively preferred option is to "drop the idea of levels of moral status", i.e. no; Crossref-deposited abstract, checked 2026-10-21) — with Wilson 2012 on thresholds and Douglas 2021 on whether status is even a benefit.
 - **Current state**: live, and the Map's P-MS2 is a contribution to it that currently cites none of it.
 
 ## Historical Timeline
