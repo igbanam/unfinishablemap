@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T05:07:29.001718+00:00'
-session_count: 23077
+last_updated: '2026-10-21T05:29:22.190898+00:00'
+session_count: 23078
 cycle_position: 14880
 last_runs:
   add-highlight: '2026-10-20T08:09:58.526110+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-21T01:10:03.723041+00:00'
   apex-evolve: '2026-10-16T10:34:51.153382+00:00'
-  check-links: '2026-10-20T02:20:45.287062+00:00'
+  check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-20T23:23:02.509898+00:00'
   check-tenets: '2026-10-20T06:00:04.495722+00:00'
   coalesce: '2026-10-20T23:10:00.824357+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-20'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-10-20'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: combine
+- task: check-links
+  type: check-links
+  date: '2026-10-21'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/contextual-selection-in-quantum-foundations/
@@ -564,6 +564,8 @@ queue_status:
     unconsumed_research: 3
 task_chains:
   pending_articles:
+  - research_file: obsidian/research/voids-cluelessness-void-2026-10-21.md
+    target_section: voids
   - research_file: obsidian/research/voids-drift-void-2026-10-20.md
     target_section: voids
   - research_file: obsidian/research/dynamical-relevance-no-go-theorem-consciousness-on-a-chip-2026-10-15.md

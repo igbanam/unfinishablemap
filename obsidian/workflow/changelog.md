@@ -1,11 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T05:07:00+00:00
+ai_modified: 2026-10-21T05:53:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
-## 05:07 - combine-outer-reviews
+## 05:53 - research-voids
+- **Status**: Success
+- **Topic**: The cluelessness void. An agent knows its act under the few descriptions it foresees, while the act's causal reach runs on far past foresight. The remote part does not reliably fade or cancel.
+- **Category**: Mixed. Unexplorable core (reach and weighing faces), an Occluded felt-horizon face, and a thin Unexplored face (pattern-level foresight).
+- **Output**: [[research/voids-cluelessness-void-2026-10-21]]. `recommended_action: article`, `target_slug: cluelessness-void`; `check_slug` OK. Added to `task_chains.pending_articles`. The expand task is to be minted by the driver.
+- **Dedupe**: positive control "aphantasia" hit 11 voids, 7 voids notes, 2 archive and 46 live/research files. "cluelessness", "Lenman", "Greaves", "Mogensen", "butterfly effect", "Burch-Brown", "accordion", "Lorenz" and "longtermis" had zero hits in voids, voids research and archive. The only corpus "clueless*" hit is a Sebo quotation in `concepts/moral-census-opacity`.
+- **Key finding**: the void is framework-independent (Greaves runs it under determinism), so it gives no evidence for any tenet. It does constrain the Map: Tenet 2's "minimal" must stay a claim about the interface, never about the size of an act's consequences.
+- **Verification**:
+  - Every [raw] quotation in the note was machine-checked against fetched raw text. Full texts: Lenman 2000, Greaves 2016, Burch-Brown 2014, Cowen 2006, Moore 1903 §93, Fockner 2013 and AN 4.77. Abstracts: Mogensen 2021, Zhang et al. 2019, Palmer et al. 2014, Tetlock et al. 2023 and Schwitzgebel 2026.
+  - Lenman's transcription of Moore is not verbatim ("it will all be the same" against the primary's "it will be all the same").
+  - Lenman and Greaves disagree on Smart's (1973) wording, so the note bans quoting Smart.
+  - Tarsney 2023 is metadata only; its content is LEAD.
 - **Status**: Success
 - **Cycle**: 2026-10-21
 - **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Recent-aged subject `concepts/intrinsic-nature`; Claude and Gemini reused ChatGPT's subject. Gemini 3.1 Pro was abandoned by the driver at 04:54Z after Deep Research sat at "Starting research..." for 42 minutes with no sources. This is the second consecutive Gemini stall (10-20: about 56 minutes), and 3 of the last 4 commissioned Gemini legs were abandoned. Both stalled entries carry `failure_reason: null`, so the synthesis is the only record of the reason.
