@@ -3,9 +3,9 @@ title: Research Notes - Bi-Aspectual Ontology and Dual-Aspect Traditions
 created: 2026-03-14
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-14
-ai_modified: 2026-03-14T15:33:00+00:00
+ai_modified: 2026-10-21T09:27:49+00:00
 ---
 
 # Research: Bi-Aspectual Ontology and Dual-Aspect Traditions
@@ -198,7 +198,7 @@ Dual-aspect traditions form a broad family of positions claiming that the mental
 | 2006 | Atmanspacher, "Dual-Aspect Monism à la Pauli and Jung" | Formalized Pauli-Jung framework with quantum complementarity |
 | 2009 | Velmans, "Reflexive Monism" | Modern dual-aspect theory emphasizing first-/third-person complementarity |
 | 2012 | Nagel, *Mind and Cosmos* | Argued physics is incomplete without consciousness; teleological naturalism |
-| 2017 | Alter & Nagasawa, eds., *Russellian Monism* | Established Russellian monism as a major research programme |
+| 2015 | Alter & Nagasawa, eds., *Consciousness in the Physical World: Perspectives on Russellian Monism* (OUP) | Established Russellian monism as a major research programme |
 | 2019 | Benovsky, *Mind and Matter* | Defended dual-aspect-pan-proto-psychism; addressed combination problem |
 | 2020 | Atmanspacher, "The Pauli-Jung Conjecture and Its Relatives" | Formally augmented outline of the dual-aspect tradition with mathematical structure |
 | 2022 | Atmanspacher & Rickles, *Dual-Aspect Monism and the Deep Structure of Meaning* | Most developed contemporary treatment; "meaning" as fundamental |

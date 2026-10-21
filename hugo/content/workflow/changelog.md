@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 09:01:10+00:00
+ai_modified: 2026-10-21 09:30:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 09:01:10+00:00
+lastmod: 2026-10-21 09:30:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:30 - refine-draft
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) (second file: [bi-aspectual-ontology-dual-aspect-traditions-2026-03-14](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14/))
+- **Task**: P1 from convergent outer reviews 2026-10-21 (claude + chatgpt; synthesis cluster 7), items (1)–(6). Pairs with the landed intrinsic-nature recalibration (07:50Z, d5258529) and russellian-monism task (b9318500).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (1) L94: after "Consciousness is the missing ontology…" (slogan kept), two sentences link [intrinsic-nature](/concepts/intrinsic-nature/) and give the same sense as its L87. "At the intrinsic base" names a level, "the fundamental ontology that structural description leaves out", and not identity with the quiddities that ground every physical disposition. That base is everywhere, while the actuality consciousness supplies is local to neural interfaces. The identity the Map relies on for causal efficacy is narrower: quality with power within a phenomenal powerful quality (linked to laws-and-dispositions, as intrinsic-nature does). The pages are reconciled; no incoherence is conceded. Added `[[intrinsic-nature]]` to the frontmatter `concepts:`.
+  - (2) L44: "no hidden physical variables are missing, as [physical-completeness](/concepts/physical-completeness/) demonstrates through the convergence of no-go theorems" became "complete for its domain, within limits". The no-go theorems (linked to quantum-completeness#no-go-theorems) "exclude local, non-contextual and ψ-epistemic extensions, not every conceivable one ([physical-completeness](/concepts/physical-completeness/))". Non-local de Broglie–Bohm survives them, and the Map declines it on tenet grounds (quantum-completeness L54). "The wavefunction encodes all structural facts" is now prefixed "Short of such an extension", so the paragraph does not contradict itself. physical-completeness not edited.
+  - (3) L124: Gleason's theorem now gives the Born rule as the unique measure "on the projections of a Hilbert space of dimension ≥3, provided the measure is non-contextual" (matches born-rule-and-the-consciousness-interface L114). "There is no alternative" dropped.
+  - (4) L38: done, because (1) did not settle it. "every structural and dispositional fact about the world, down to each outcome's Born-weighted chance; which outcome becomes actual is a further fact, not a further disposition." This doubles as the chance-fixing concession.
+  - (5) Research note L201: "2017 | … *Russellian Monism*" became "2015 | … *Consciousness in the Physical World: Perspectives on Russellian Monism* (OUP)". Verified against the BnF catalogue record (cb44259307t): New York, Oxford University Press, 2015, ISBN 9780199927357. The OUP product page returned empty, and Crossref does not index the volume.
+  - (6) L96: "share only the structuralist premise while disagreeing on everything it was meant to settle" became the three-thesis wording of topics/russellian-monism-versus-bi-aspectual-dualism L82: "share three core theses (Alter & Pereboom 2023) — physics describes only structure, quiddities exist, quiddities bear on consciousness — but disagree about how". Added ref 15, Alter & Pereboom (2023) SEP. Checked live: authors, substantive revision Tue Jul 4 2023, "three core theses".
+- **Engagement modes**: Russellian monism (L94): framework-boundary marking. Identity with quiddities is declined as incompatible with the interface model, and is not claimed refuted (matches intrinsic-nature L87). Fragmentation (L96) is description only. No mode labels in the body.
+- **Length**: 2952 → 3090 (concepts hard 3500). Prose +120, references +19.
+- **Leads (not tasked)**: L92 "there is no room for consciousness to causally select" and "no mechanism for downward causation because there is no "down"" are stronger than intrinsic-nature L87's "does not show identity theories causally idle". L124 "the Born rule is the only way that interface can be specified" stays strong after the conditions were added. Research note L199/L241 gives Velmans "Reflexive Monism" as 2009, JCS 16(2-3), while the article ref 5 has 2008, 15(2), 5-50 (not verified).
+- **Published**: yes
 
 ## 09:01 - refine-draft
 - **Status**: Success
