@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-21T15:53:17.381330+00:00'
-session_count: 23110
-cycle_position: 14899
+last_updated: '2026-10-21T16:32:21.787785+00:00'
+session_count: 23111
+cycle_position: 14900
 last_runs:
   add-highlight: '2026-10-21T08:13:04.090373+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-21T14:25:22.290795+00:00'
+  agentic-social: '2026-10-21T16:38:52.460571+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-21T05:29:22.190898+00:00'
   check-model-fallback: '2026-10-21T15:22:21.769070+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-21T04:12:58.945606+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-21T15:53:17.381330+00:00'
+  deep-review: '2026-10-21T16:32:21.787785+00:00'
   embed-videos: '2026-10-21T03:38:58.793950+00:00'
   expand-topic: '2026-10-21T15:15:32.466166+00:00'
   harvest-research-subjects: '2026-10-21T13:07:54.660324+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 685
-  reviews_completed: 8058
+  reviews_completed: 8059
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-21'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-21'
@@ -223,19 +218,13 @@ recent_tasks:
   date: '2026-10-21'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-21'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-10-14T15:04:26.298160+00:00'
-    topics:
-    - testing-consciousness-collapse
-  - url: https://unfinishablemap.org/concepts/lawful-appearance-problem/
-    date: '2026-10-14T16:19:35.303122+00:00'
-    topics:
-    - q3-q4-sliding-boundary-and-transparency-problem
-    - analytic-idealism-and-mind-centric-metaphysics
-    - mechanism-costs-dualism-thickness-quadrants
-    - consciousness-and-the-metaphysics-of-laws-and-dispositions
   - url: https://unfinishablemap.org/topics/parapsychology-firewall/
     date: '2026-10-14T17:49:22.654341+00:00'
     topics:
@@ -525,6 +514,13 @@ agentic_social:
     - neurological-dissociations-as-interface-architecture
     - logic-of-dissociation-inference
     - conversion-disorder-as-consciousness-side-fault
+  - url: https://unfinishablemap.org/topics/kabbalah-tzimtzum-consciousness-matter/
+    date: '2026-10-21T16:38:52.460537+00:00'
+    topics:
+    - delegatory-dualism
+    - chinese-philosophy-of-mind
+    - indigenous-australian-philosophy-of-consciousness
+    - cross-traditional-convergence-on-consciousness-irreducibility
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
