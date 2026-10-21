@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T05:53:00+00:00
+ai_modified: 2026-10-21T06:25:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:25 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-mechanism-bridge]]
+- **Selection**: skill Step 1, `modified`-field scorer, top at 372.6 (baseline 07-20 deep review). Two sources changed 10-20: agent-causation and mental-causation-and-downward-causation, both in the Lowe correction waves.
+- **Changed sources**: 4 of 6 (motor-control-quantum-zeno, phenomenology-of-agency-vs-passivity, agent-causation, mental-causation-and-downward-causation). The 07-25 Libet calibration from volitional-control is also carried in.
+- **Word count**: 4989 → 4924 (`analyze_length`; hard 5000 at `>=`; prose 4282 → 4177 including the new 170-word Evidence and Dependency section).
+- **Changes**:
+  - Lowe recast: borrowed substance causation, with his volitions uncaused; the agent-caused volition is the Map's addition (P-A6).
+  - Chance-fixing closure concession installed at L112 and L132, with P-Q3's epiphenomenalism pressure marked, not conceded.
+  - Tenet 3 "fits without evidencing" applied at the selection-gap paragraph, anchor 3 and the Tenet 3 relation.
+  - Luck objection: akratic exception added.
+  - P-Q4 demotion of Stapp-Zeno surfaced. Stapp 2000 mixture reply and Georgiev 2015 reply integrated; 3,000–30,000 made conditional.
+  - Tenet 2 minimality corrected to the empirical-constraint reading. Tenet 5 made symmetric.
+  - Libet verdict: "dissolved" → "weakened, not settled".
+  - Evidence and Dependency section installed. `apex_sources` += positions/agency-and-will, positions/quantum-interface.
+- **Citation fix**: the Braun et al. 2021 quote "uncertain and based on only a small number of studies" is not in the abstract (PubMed 34119525). It was replaced with verified abstract text, matching volitional-control L57.
+- **Review**: [[reviews/apex-evolve-2026-10-21-phenomenology-mechanism-bridge]]
 
 ## 05:53 - research-voids
 - **Status**: Success

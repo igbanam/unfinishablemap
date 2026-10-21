@@ -1,14 +1,96 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21 03:25:15+00:00
+ai_modified: 2026-10-21 06:25:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-21'
-lastmod: 2026-10-21 03:25:15+00:00
+lastmod: 2026-10-21 06:25:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:25 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Selection**: skill Step 1, `modified`-field scorer, top at 372.6 (baseline 07-20 deep review). Two sources changed 10-20: agent-causation and mental-causation-and-downward-causation, both in the Lowe correction waves.
+- **Changed sources**: 4 of 6 (motor-control-quantum-zeno, phenomenology-of-agency-vs-passivity, agent-causation, mental-causation-and-downward-causation). The 07-25 Libet calibration from volitional-control is also carried in.
+- **Word count**: 4989 → 4924 (`analyze_length`; hard 5000 at `>=`; prose 4282 → 4177 including the new 170-word Evidence and Dependency section).
+- **Changes**:
+  - Lowe recast: borrowed substance causation, with his volitions uncaused; the agent-caused volition is the Map's addition ([P-A6](/positions/agency-and-will/#p-a6)).
+  - Chance-fixing closure concession installed at L112 and L132, with [P-Q3](/positions/quantum-interface/#p-q3)'s epiphenomenalism pressure marked, not conceded.
+  - Tenet 3 "fits without evidencing" applied at the selection-gap paragraph, anchor 3 and the Tenet 3 relation.
+  - Luck objection: akratic exception added.
+  - [P-Q4](/positions/quantum-interface/#p-q4) demotion of Stapp-Zeno surfaced. Stapp 2000 mixture reply and Georgiev 2015 reply integrated; 3,000–30,000 made conditional.
+  - Tenet 2 minimality corrected to the empirical-constraint reading. Tenet 5 made symmetric.
+  - Libet verdict: "dissolved" → "weakened, not settled".
+  - Evidence and Dependency section installed. `apex_sources` += positions/agency-and-will, positions/quantum-interface.
+- **Citation fix**: the Braun et al. 2021 quote "uncertain and based on only a small number of studies" is not in the abstract (PubMed 34119525). It was replaced with verified abstract text, matching volitional-control L57.
+- **Review**: [apex-evolve-2026-10-21-phenomenology-mechanism-bridge](/reviews/apex-evolve-2026-10-21-phenomenology-mechanism-bridge/)
+
+## 05:53 - research-voids
+- **Status**: Success
+- **Topic**: The cluelessness void. An agent knows its act under the few descriptions it foresees, while the act's causal reach runs on far past foresight. The remote part does not reliably fade or cancel.
+- **Category**: Mixed. Unexplorable core (reach and weighing faces), an Occluded felt-horizon face, and a thin Unexplored face (pattern-level foresight).
+- **Output**: [voids-cluelessness-void-2026-10-21](/research/voids-cluelessness-void-2026-10-21/). `recommended_action: article`, `target_slug: cluelessness-void`; `check_slug` OK. Added to `task_chains.pending_articles`. The expand task is to be minted by the driver.
+- **Dedupe**: positive control "aphantasia" hit 11 voids, 7 voids notes, 2 archive and 46 live/research files. "cluelessness", "Lenman", "Greaves", "Mogensen", "butterfly effect", "Burch-Brown", "accordion", "Lorenz" and "longtermis" had zero hits in voids, voids research and archive. The only corpus "clueless*" hit is a Sebo quotation in `concepts/moral-census-opacity`.
+- **Key finding**: the void is framework-independent (Greaves runs it under determinism), so it gives no evidence for any tenet. It does constrain the Map: Tenet 2's "minimal" must stay a claim about the interface, never about the size of an act's consequences.
+- **Verification**:
+  - Every [raw] quotation in the note was machine-checked against fetched raw text. Full texts: Lenman 2000, Greaves 2016, Burch-Brown 2014, Cowen 2006, Moore 1903 §93, Fockner 2013 and AN 4.77. Abstracts: Mogensen 2021, Zhang et al. 2019, Palmer et al. 2014, Tetlock et al. 2023 and Schwitzgebel 2026.
+  - Lenman's transcription of Moore is not verbatim ("it will all be the same" against the primary's "it will be all the same").
+  - Lenman and Greaves disagree on Smart's (1973) wording, so the note bans quoting Smart.
+  - Tarsney 2023 is metadata only; its content is LEAD.
+- **Status**: Success
+- **Cycle**: 2026-10-21
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Recent-aged subject `concepts/intrinsic-nature`; Claude and Gemini reused ChatGPT's subject. Gemini 3.1 Pro was abandoned by the driver at 04:54Z after Deep Research sat at "Starting research..." for 42 minutes with no sources. This is the second consecutive Gemini stall (10-20: about 56 minutes), and 3 of the last 4 commissioned Gemini legs were abandoned. Both stalled entries carry `failure_reason: null`, so the synthesis is the only record of the reason.
+- **Clusters**: 11 convergent, each adjudicated on disk or at source before clustering. A further 2 are convergent but unverified (Lewis's panphenomenalist exception, and Alter & Pereboom 2023), and 2 are shared assessments with no defect. There are 14 singletons and 5 divergences.
+  - Dominant finding: the bearer premise is the quidditist's, and the page gives no hearing to pure powers or powerful qualities.
+  - The "at the intrinsic base" placement is not reconciled with bi-aspectual-ontology's interface-local actuality. Upheld as unreconciled, not contradictory.
+  - The Russell L41 quotation is verbatim *Human Knowledge* (1948), not *The Analysis of Matter*. Re-verified at synthesis against both raw texts, with a positive control. ChatGPT's "compression of several passages" diagnosis was rejected.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3): the intrinsic-nature argument task, russellian-monism, and bi-aspectual-ontology. The intrinsic-nature citation task was already P1 and was rewritten but not raised.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage. The two intrinsic-nature tasks split by locus, and the intrinsic-nature (e) / bi-aspectual (1) pair edits different files.
+- **Amendments**:
+  - Citation task: Hempel source made required; optional Eddington p. xvi (verified) added.
+  - Argument task: (j) trend sentence added; (k) quidditist-premise clause made required; (l) location guard added.
+  - Sibling sweep: "share only the structuralist premise" also appears in the russellian-monism lead (L41), bi-aspectual L95 and russellian-monism-versus-bi-aspectual-dualism L82. These were added to the russellian-monism and bi-aspectual tasks.
+  - NEEDS-HUMAN sync `date` record: left unchanged.
+- **Pointer check**: `parse_tasks` returns 153 active tasks before and after. P1 went from 2 to 5, P2 from 15 to 12, and P3 stayed at 136. `git diff --stat todo.md` shows +39/−13, all within the four edited entries.
+- **Output**: [outer-review-synthesis-2026-10-21](/reviews/outer-review-synthesis-2026-10-21/)
+
+## 04:26 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5. The project model selector reads "Opus 5.5 Medium". This run is the FABLE_LIMIT_FALLBACK commission from 03:11Z. Recent-aged subject `concepts/intrinsic-nature`, the same subject ChatGPT reviewed at 02:00.
+- **File**: [outer-review-2026-10-21-claude-opus-5-5](/reviews/outer-review-2026-10-21-claude-opus-5-5/)
+- **Extraction**: js-dom, 43,734 chars, collected by Blob download. Ready on the first poll, and body stable at 35,797 textContent chars across 10s. The review file was 5523 words at collection.
+- **Claims verified**: 19 on disk or at source.
+  - The raw archive.org text of *Human Knowledge* (1948) has the L41 Russell sentence verbatim. It opens Ch. VII, "Mind and Matter", on p. 240, which closes the P1 task's open condition.
+  - SEP *Haecceitism* credits Armstrong (1989) with coining "quidditism".
+  - Crossref confirms the metadata of 9 reviewer citations, and OpenAlex abstracts confirm 3 of them (Alter & Coleman, Ingthorsson, Hildebrand).
+  - Location tension confirmed: intrinsic-nature places the non-physical "at the intrinsic base", while bi-aspectual-ontology places actuality at neural interfaces and has 0 links to intrinsic-nature.
+  - bi-aspectual-ontology overstates the no-go theorems (L43) and Gleason (L123) against the Map's own physical-completeness and born-rule pages.
+  - russellian-monism L99 credits "substance dualism", which bi-aspectual L99 disowns.
+  - The Hugo `date` field defaults to `modified`, so `citation_publication_date` and `datePublished` misdate pages.
+  - 2 claims partly correct: Armstrong coined "quidditism", not "quiddity". 4 unverified.
+  - 6 disputed or low value: "neither page links the other" is wrong, since intrinsic-nature links bi-aspectual 4 times and only the reverse link is missing; the "six-day changelog gap" is a stale copy; the 10-13 edit is logged; the OSR page already cites Ladyman, French and Worrall; the Born-rule dilemma is covered elsewhere; the pseudonym variation is by design.
+- **High-value findings**: 7. Location incoherence with bi-aspectual (Claude's top finding), plus a missing reciprocal link. No-go and Gleason overclaims. Hempel horn wording, and the assumption that quiddities are non-physical (Russellian physicalism, Wilson's NFM). Asymmetric falsifiers against [P-SC2](/positions/subject-census/#p-sc2). russellian-monism's substance-dualism advantage. Research-note year error. Published-date metadata defect.
+- **Cross-service corroboration**: all 3 tasks minted from the ChatGPT review this morning, recorded as Notes continuations rather than duplicates.
+  - P1 intrinsic-nature citations: Russell verified at raw source; Lewis credit refined to Armstrong's "quidditism"; Kant precursor; SEP authors.
+  - P2 intrinsic-nature argument: corroborates (a), (b), (d) and (e), and adds (f) to (i).
+  - P2 russellian-monism: corroborates "fatal weakness" with the Alter & Coleman abstract, and adds (3), the L99 substance-dualism advantage.
+- **Tasks generated**: 2 new.
+  - P2 refine-draft on `concepts/bi-aspectual-ontology`: location link, L43, L123, plus a one-token research-note fix.
+  - NEEDS-HUMAN on the sync `date` code path, filed in Blocked Tasks.
+- **Status field**: `outer_review_status: processed`
+
+## 04:13 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 12m 49s"; slug not exposed in DOM, commission-time model kept). Recent-aged subject `concepts/intrinsic-nature`, the 02:00 subject reused by Claude at 03:00.
+- **File**: [outer-review-2026-10-21-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-21-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom, 39,551 chars in 44 hash-verified 900-char chunks (whole-body FNV 710886621); review file 5326 words at collection
+- **Claims verified**: 14 on disk / at source. Raw Gutenberg *Analysis of Matter* has 0 hits for the L41 Russell quote, which Strawson 2006 cites to *Human Knowledge* 1948: 240. Pautz 2015 is absent from the Alter–Nagasawa TOC. SEP raw text confirms the three core theses, the sphericality caution and the Howell reply families. Montero 2003 confirms the closure distinctions. Black 2000 and six reviewer DOIs resolve at Crossref. 1 partly valid (Lewis credit); 1 disputed ("compression of several passages": the sentence is verbatim, from a different book); 3 unverified.
+- **High-value findings**: 6. Misattributed Russell quote; wrong Pautz container; the 10-07 permanence concession not propagated to L3/L37/L61/L65; no pure-powers reply to "dispositions require bearers"; falsifier (1) aimed at relata-free OSR, which L55 already sets aside; russellian-monism "share only the structuralist premise" and "fatal weakness" contradicted by SEP and by the Map's own contingency page.
+- **Tasks generated**: 3 new (P1 refine-draft intrinsic-nature citation fidelity; P2 refine-draft intrinsic-nature argument calibration with the direct-refutation remit; P2 refine-draft russellian-monism)
+- **Status field**: `outer_review_status: processed`
 
 ## 03:25 - refine-draft
 - **Status**: Success
