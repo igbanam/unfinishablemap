@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T05:57:00+00:00
+ai_modified: 2026-10-22T06:11:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:11 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/miswanting]]
+- **Task**: P1 "`concepts/miswanting` misses the emotions-as-outcome countermodel (Davis, Love & Maddox 2009); L81 calls miswanting "the demonstrated cost"…; L29 calls Gilbert–Wilson wanting "the reverse" of Berridge's" (outer reviews 2026-10-22, ChatGPT 5.6 Sol Pro + Claude Fable 5.1; synthesis clusters 4–6). Ran after the 05:57 miswanting P1; OLD strings matched by text, its scoped wording kept.
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven fix
+- **Changes**:
+  - (1) Countermodel, L69 "They do not measure the felt input": after the calibration sentence, added Davis, Love & Maddox 2009 ("emotions-as-outcome": anticipatory affect produced by deciding, not fed into it; anticipatory SCRs tracked the response, not the stimulus) with its limits (stimulus risk versus response, "no economic valence"; arousal, not felt valence; "not a refutation of the theory as a whole", the theory being the somatic-marker hypothesis, piped to [[somatic-interface]]), the consequence (affect measured at choice cannot alone show it fed the choice) and the Grimani et al. 2024 timing trap ("anticipatory" item asked after each decision). "Nor do they show the feeling idle." → "None of this shows the feeling idle; even on Davis et al.'s account, emotions-as-outcome processes "could impact trial-by-trial decision-making"." Quotes grep-verified in the PMC2735832 / PMC11522079 full text.
+  - (2) L83: "miswanting is the demonstrated cost of that driver." → "miswanting is a cost that driver would inherit."
+  - (3) L29: "the reverse of Berridge's incentive-salience "wanting"" → "a different construct from Berridge's incentive-salience "wanting"", with "(Berridge 2023)" after "altogether".
+  - (4) Berridge 2023 cited at L29 and for L79's "hunger also raises incentive salience" (full-text sentence "…modulated in amplitude and valence by … hunger, satiety, drug intoxication, stress" verified in PMC10527990). Berridge & Robinson 2016 (optional) not added, for length; not cited for "liking can be nonconscious".
+  - (5) L79: "Misattribution describes a cost P-VS1 accepts rather than evidence against it." → "Misattribution is what P-VS1 predicts, so it fits without evidencing it; choice left unmoved by induced incidental affect, with learned value and bodily state held fixed, would count against P-VS1." The rival's incentive-salience analogue is in the preceding sentence; the feeling is not conceded idle.
+  - (6) L31 lede, after "The answer is rarely, and mostly not through forecasting.": "Most documented forecast error is absolute and can leave the ranking that choice needs intact ([[affective-forecasting-gap]])." No new citation.
+  - Not done (REJECTED by the task): "the rival predicts every reversal" wording; welfare / revealed-preference expansion; Many-Worlds paragraph; "ill-posed" for L85's experiment.
+- **Engagement classification** (editor-internal; no labels in the body): Davis, Love & Maddox countermodel: mixed. Its evidential reach is limited Mode One (from the authors' own task design and their own "not a refutation" verdict). The inference to an idle feeling is declined Mode One (their own account lets emotions-as-outcome processes act on decision-making). The residue, whether felt anticipation is the choice's input or its product, is conceded Mode Three, as a further reason existing measures cannot carry P-VS1. Value-blind rival on misattribution (L79): Mode Three, now with a stated defeater instead of an unfalsifiable "cost accepted".
+- **References added**: 18 Berridge 2023; 19 Davis, Love & Maddox 2009; 20 Grimani, Yemiscigil, Wang, Kirilov, Kudrna & Vlaev 2024 (all Crossref-checked). Map self-refs renumbered 18–19 → 21–22.
+- **Word count** (`analyze_length`, body-only): 2,973 → 3,188 (+215; prose incl. Further Reading 2,460 → 2,602 = +142, references 513 → 586 = +73). About 38 over the ~3,150 target after two compression passes; three required references cost 73. Concepts hard 3,500 (gate `>=`): 312 headroom.
+- **Calibration**: Tenet 3 paragraph states fit without evidence; no change to P-VS1's band; epiphenomenalism not conceded.
+- **Published**: yes
 
 ## 05:57 - refine-draft
 - **Status**: Success
