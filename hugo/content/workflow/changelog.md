@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 05:34:39+00:00
+ai_modified: 2026-10-22 05:57:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 05:34:39+00:00
+lastmod: 2026-10-22 05:57:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:57 - refine-draft
+- **Status**: Success
+- **File**: [miswanting](/concepts/miswanting/)
+- **Task**: P1 "`concepts/miswanting` description, lede (L31), L37, L47 heading and L67 claim Hsee & Zhang is the only forecast-driven case…" (outer reviews 2026-10-22, ChatGPT 5.6 Sol Pro + Claude Fable 5.1; synthesis clusters 1–3)
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven fix of convergent exclusivity/absence defects
+- **Changes** (every absence claim now scoped to the search; no new exclusivity claim installed):
+  - (1) L3 description: "forecast-driven mischoice rests on one unreplicated study, and no design measured felt anticipation at choice" → "few designs tie a forecast error to a worse choice, and none the Map has found sets felt anticipation at choice against later experience".
+  - (2) L31 lede: "The only reversal shown to be carried by a forecast, Hsee and Zhang's (2004) Study 3" → "The clearest case the Map has found of forecasts matching a choice that experience reversed, Hsee and Zhang's (2004) Study 3" (no-independent-replication claim kept); added Dorison et al. 2019 as a forecast-correcting randomised treatment that changed real choices without showing them worse; "No study found for this article measured the felt anticipation present at choice" → felt anticipation "has been measured and predicts choice, but no study the Map has found sets it against later experience or separates it from forecast content and learned value".
+  - (3) L37: ladder gains a randomised-evaluation rung filled by Wilson et al. 1993 (between subjects, no forecast measured, reasons-induced attitude change, satisfaction relative to controls; abstract level, no N/effect sizes). "Only Hsee and Zhang measured forecasts, choices and experiences together…" deleted; new L39 paragraph: Mellers et al. 1999 via Mellers & McGraw 2001 (forecasts, choices and experiences measured, .66–.86, "predictions were quite accurate", so no misranking); Dorison et al. 2019 Study 4/5 with all four caveats (experience also moved + demand; video study no forecasts; nobody rated what they chose; selective exposure not a hedonic misranking). "No study manipulated a forecast… so the forecast's causal role is everywhere inferred" → "No intervention the Map has found isolates the forecast from beliefs, present affect and learned value, the dissociation the test battery in [affective-forecasting-gap](/concepts/affective-forecasting-gap/) needs."
+  - (4) L47 heading "### Comparison Mode: The One Forecast-Driven Case" → "### Comparison Mode: A Forecast-Matched Reversal" (no inbound anchor links).
+  - (5) L67 (now L69): "No study found measured the felt state at choice alongside later experience" → Schlösser, Dunning & Fetchenhauer 2013 (abstract level only: definition quote + "Decisions were substantively predicted…") and Young, Shuster & Mikels 2019 (pre-decision probe, partial mediation, anticipated-affect mediator null, N = 32 and 24) added; calibration sentence ("fit [P-VS1](/positions/value-in-selection/#p-vs1)'s candidate currency without evidencing it": measured not manipulated, mediation is not causal identification, rival reads immediate affect as a correlate of learned value; "Nor do they show the feeling idle"); absence scoped to "No study the Map has found sets such a measure against later experience". Hsee & Zhang "cool judgement" sentence (others' happiness) and the not-exhaustive sentence kept.
+  - (f) L73 (now L75): "The third is the one place in this literature where the forecast's *felt* vehicle is named as an input" → "The third is where they name the forecast's *felt* vehicle as an input"; closing sentence adds risk-as-feelings (Loewenstein et al. 2001) as the decision literature's felt-input counterpart, cited for the input claim only.
+  - Optional: L51 (now L53) notes Hsee & Zhang's own audiovisual replication exists only as an unpublished 2003 manuscript (research note L96).
+  - Not carried: Dorison "34%"; Schlösser dissertation Study 4 details; "within-person" for Wilson; Mellers ".33"; Bechara/Knutson. Shiv & Huber 2000 (optional) skipped for length.
+  - Kept: L85 (was L83) "What would move the question is the measurement no study here made…"; Study 3's no-independent-replication claim (L31, L53).
+- **References added**: 11 Wilson et al. 1993; 12 Mellers, Schwartz & Ritov 1999; 13 Mellers & McGraw 2001; 14 Dorison, Minson & Rogers 2019; 15 Schlösser, Dunning & Fetchenhauer 2013; 16 Young, Shuster & Mikels 2019; 17 Loewenstein, Weber, Hsee & Welch 2001. Map self-refs renumbered 11–12 → 18–19.
+- **Lines touched**: frontmatter L3, L5, L7; body L31, L37, L39 (new), L49 (heading), L53, L69, L75; refs L112–120. NOT touched: L29, L79 (was L77), L83 (was L81) — left for the queued countermodel P1, whose line refs shift +2 below L37 (L67→L69, L69→L71, L77→L79, L81→L83).
+- **Word count** (`analyze_length`, body-only): 2,346 → 2,973 (+627; prose incl. Further Reading 2,008 → 2,460 = +452, references 338 → 513 = +175). Over the ~+320 budget: seven required/verified sources with their mandated caveats. Concepts soft 2,500 (no consequence) / hard 3,500 (gate `>=`): 526 words headroom for the queued P1 (~+170).
+- **Calibration**: no change to [P-VS1](/positions/value-in-selection/#p-vs1)'s band; the new measurements fit the candidate currency without evidencing it; feeling not conceded idle; epiphenomenalism not conceded. Engagement with the value-blind rival: Mode Three (framework-boundary: rival's correlate reading noted, not refuted), unchanged.
+- **Dependents (not edited)**: `topics/inheritance-problem-for-the-psychophysical-law` L88 and `concepts/psychophysical-social-choice-problem` L40 still carry the unscoped claim; covered by their own P1.
+- **Published**: yes
 
 ## 05:34 - deep-review
 - **Status**: Success
