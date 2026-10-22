@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T04:34:28+00:00
+ai_modified: 2026-10-22T05:20:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:20 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-22
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1). The subject was the recent-aged `concepts/miswanting`, and Claude reused ChatGPT's subject. Gemini 3.1 Pro was abandoned at 05:07Z after "Creating your report..." stayed byte-identical for more than 30 minutes once research had finished. This is the third consecutive Gemini abandonment, each with `failure_reason: null`; on 10-20 and 10-21 the stall came earlier, at "Starting research...". It is recorded as absent, not as dissent, and logged as an operator item in Method Notes.
+- **Clusters**: 7 convergent, each 2-of-2 and adjudicated on disk before clustering.
+  - The dominant finding: both reviewers find miswanting's two headline absence claims false as worded, from disjoint evidence (ChatGPT: Dorison, Schlösser, Young; Claude: Mellers, Wilson 1993, Shiv & Huber).
+  - Both leave the same residue standing: Hsee & Zhang's Study 3 has no independent replication, and no felt-anticipation measure is dissociated from forecast content and learned value and set against later experience.
+  - 4 rejected convergences: the ref 1 DOI, the Many-Worlds paragraph, revealed preference, and calibration asymmetry.
+  - 4 divergences: the P-VS1 band, predicts versus accommodates, gut reactions, and the loss-aversion section.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3):
+  - the miswanting countermodel/L29/L81 task, whose rankings item (6) is now REQUIRED;
+  - the scoping task for the two dependent pages;
+  - the writing-style rule for scoped absence claims.
+  - The miswanting absence-claims P1 was already at the ceiling, so it was annotated only.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage. 0 minted.
+- **Pointer check**: `parse_tasks` returns 179 active tasks before and after, and P0–P2 stays at 20. P1 went from 2 to 5, P2 from 18 to 15, and P3 stayed at 159. `git diff --stat todo.md` shows +15/−11, all within the four edited entries.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-22]]
 
 ## 04:34 - collect-claude-review + outer-review
 - **Status**: Success
