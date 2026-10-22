@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T03:07:35+00:00
+ai_modified: 2026-10-22T03:33:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:33 - expand-topic
+- **Status**: Success
+- **Topic**: Peritraumatic Dissociation and the Protective Reading
+- **Output**: [[topics/peritraumatic-dissociation]]
+- **Word count**: 2,799 by analyze_length (about 2,060 prose with headings and Further Reading, 739 references; 23 references including 2 self-citations). Topics soft 3,000, hard 4,000. Topics 356/370 by count_section_files before writing.
+- **Based on research**: yes, [[research/peritraumatic-dissociation-and-the-protective-reading-2026-10-22]]
+- **Finding carried**: "protective" needs a timescale. Long run: a risk marker (r = .35, .36, .401). Independence weak under control, with Werner & Griffin's unique 4% kept. Momentary relief: the one direct test (Fikretoglu 2006, N = 1,026) is null, and panic explains 47%. Measurement is retrospective and drifts. The failure is symmetric for the interface reading and the defence cascade. The subtype verdict stands; Dualism is compatible with, not evidence for; "epiphenomenon" is glossed as psychometric.
+- **Quote verification**: all 30 source quotations re-counted at 1 in raw text fetched this run (Europe PMC abstracts, PMC XML and HTML for Griffin, Werner, Thompson-Hollands, Dokkedahl and Kozlowska, and pdftotext of the Lensvelt-Mulders and van der Hart PDFs). Three Map-page quotations were counted on their pages. Sample sizes and effect sizes were checked against the same texts. One calibration fix: Griffin's "may be a risk factor" was kept at "may be".
+- **Murray et al. 2002**: cut for length (Briere, Werner and Lebois carry the persistent-predicts-better point). Lead: its abstract says dissociative symptoms predicted PTSD "over and above the other PTSD symptom clusters", so it belongs with the positive results. The research note's Executive Summary lists it among the sources where predictive power "passes to persistent dissociation", which overreaches.
+- **Integration** (analyze_length before and after): `concepts/dissociative-subtype-of-ptsd` 3,281 → 3,349 (58 words at the end of the L92 paragraph plus a Further Reading bullet; L94 and L106 untouched); `topics/clinical-dissociation-as-systematic-evidence` 4,688 → 4,688 (piped link on "the mind protecting itself" at L147); `voids/inaccessible-past` 2,834 → 2,852 (an 18-word sentence at L84); `voids/confabulation-void` 2,823 → 2,823 (piped link on *retrospective* at L89). `concepts/depersonalisation` and `concepts/introspection` were skipped: there was no anchor phrase and they had 1 and 8 words of headroom.
+- **Chain**: P2 cross-review minted in todo.md; registered in task_chains.pending_cross_reviews.
 
 ## 03:07 - research-topic
 - **Status**: Success

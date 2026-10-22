@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-10-21 17:48:22+00:00
+ai_modified: 2026-10-22 03:32:43+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[narrative-coherence]]'
 - '[[mysterianism]]'
 created: 2026-05-15
-date: &id001 2026-09-29
+date: &id001 2026-10-22
 description: Human+AI exploration of why consciousness cannot detect when it fabricates
   explanations for its own behaviour, mistaking generated content for veridical self-knowledge.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:37:29+00:00
-lastmod: 2026-10-21 17:48:22+00:00
+lastmod: 2026-10-22 03:32:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ Several lines of evidence converge to suggest that this void is not merely a dif
 
 What does it feel like to confabulate? The literature's answer: it does not feel like confabulating. Choice-blindness subjects are fluent and narratively at ease. Moral-dumbfounding subjects deliver verdicts with confidence. Anosognosic patients report left-limb action without phenomenal flag. Split-brain patients explain shovel-pointing without hesitation. The phenomenology of confabulation is the phenomenology of accurate report; this identity is the void.
 
-The closest the introspector comes to detection is *retrospective* — when external evidence contradicts the explanation. Even then, what is detected is the *result* (the explanation was wrong), not the *operation* (how the wrong explanation was generated). The interpreter then generates a second-order confabulation about how the first-order confabulation came to be: "I must have been confused" or "I changed my mind." Compare [predictive-construction-void](/voids/predictive-construction-void/) for the parallel structure where the introspector cannot determine the boundary between what is constructed and what is received.
+The closest the introspector comes to detection is *[retrospective](/topics/peritraumatic-dissociation/)* — when external evidence contradicts the explanation. Even then, what is detected is the *result* (the explanation was wrong), not the *operation* (how the wrong explanation was generated). The interpreter then generates a second-order confabulation about how the first-order confabulation came to be: "I must have been confused" or "I changed my mind." Compare [predictive-construction-void](/voids/predictive-construction-void/) for the parallel structure where the introspector cannot determine the boundary between what is constructed and what is received.
 
 ## Approaches to the Edge
 

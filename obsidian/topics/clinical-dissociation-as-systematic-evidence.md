@@ -2,9 +2,9 @@
 title: "Clinical Dissociation as Systematic Evidence"
 description: "Dissociative disorders—DID, depersonalisation, conversion, amnesia—selectively alter access, ownership, memory and motor control without a focal lesion, through decreased coupling in three and increased coupling in conversion; a pattern compatible with a dualist interface architecture without favouring it over predictive-processing physicalism."
 created: 2026-03-17
-modified: 2026-10-20
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-20T01:37:05+00:00
+ai_modified: 2026-10-22T03:32:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -144,7 +144,7 @@ The sophisticated production reading explains the selectivity by [[logic-of-diss
 
 The trauma association is real but uneven, and the blanket claim that clinical dissociation is "caused by trauma" overstates it. DID is the strongest case—correlated with severe early abuse—but that very link is what the sociocognitive model contests (Lynn et al., 2022), so it is strongly-but-contestedly trauma-linked rather than settled. DPDR and dissociative amnesia are more qualified: both often follow stress, yet many DPDR cases lack a clear traumatic trigger, and amnesia's trauma framing inherits the evidential doubts of its "stored-but-inaccessible" reading (Mangiulli et al., 2022). FND is the weakest link—current criteria no longer require an identifiable stressor, and the field has moved past the Freud–Breuer "hysteria" framing that once made distress definitional. This matters because the interface model's "consciousness withdraws from threatening channels" reading needs the trauma link to be load-bearing; where it is contested or absent, the reading claims less.
 
-Where the trauma link holds, the interface model reads it the same way throughout: trauma leaves the processing regions intact but selectively disrupts connectivity between them—the mind protecting itself by severing access to unbearable memories, withdrawing felt ownership of threatening experience, fragmenting expression across states that each carry only part of the load. Physicalists explain the same pattern through stress-mediated changes in functional connectivity—cortisol, norepinephrine, and other mediators alter regional coupling. What stands in need of explanation is the *apparent clinical selectivity*: dissociation targets precisely those channels carrying threatening content while preserving channels needed for ongoing function. The interface model offers consciousness withdrawing from specific channels to protect itself; [[dissociative-subtype-of-ptsd|an affective-salience physicalism]] replies that salience biases which couplings stress mediators disrupt, so the apparent purposiveness is the expected output of threat-weighted prediction. The selectivity is real; which framework earns it the clinical data do not settle.
+Where the trauma link holds, the interface model reads it the same way throughout: trauma leaves the processing regions intact but selectively disrupts connectivity between them—[[peritraumatic-dissociation|the mind protecting itself]] by severing access to unbearable memories, withdrawing felt ownership of threatening experience, fragmenting expression across states that each carry only part of the load. Physicalists explain the same pattern through stress-mediated changes in functional connectivity—cortisol, norepinephrine, and other mediators alter regional coupling. What stands in need of explanation is the *apparent clinical selectivity*: dissociation targets precisely those channels carrying threatening content while preserving channels needed for ongoing function. The interface model offers consciousness withdrawing from specific channels to protect itself; [[dissociative-subtype-of-ptsd|an affective-salience physicalism]] replies that salience biases which couplings stress mediators disrupt, so the apparent purposiveness is the expected output of threat-weighted prediction. The selectivity is real; which framework earns it the clinical data do not settle.
 
 ## Relation to Site Perspective
 
