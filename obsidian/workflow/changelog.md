@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T05:20:09+00:00
+ai_modified: 2026-10-22T05:34:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:34 - deep-review
+- **Status**: Success
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Why this target**: `deep_review.py candidates` rank 4 (score 69, 66 days since review). Ranks 1–3 (`cessation-versus-plenitude`, `phenomenology-of-moral-life`, `peritraumatic-dissociation`) were edited after 2026-10-21T05:00Z and skipped. No open task targets this page; last edit 10-19.
+- **Word count** (`analyze_length`, body-only): 3506 → 3514 (+8; refs 168 → 158, Further Reading 105, prose ~3251; topics soft 3000 / hard 4000; length-neutral)
+- **Critical issues addressed**: 4
+  - **Wrong number**: "roughly 23,000-word" → "roughly 29,000-word". The release-day Wayback captures of anthropic.com/constitution (2026-01-21T16:07Z, 2026-01-22T01:48Z) count 28,852 / 28,810 body words from "Overview" to "Acknowledgements". This supersedes the 08-17 stability note, whose "later typeset" rationale the January text refutes.
+  - **Institutional misattribution**: "the Oxford Institute for Ethics in AI reports…" / "The Oxford analysis" → "Four Hebrew University scholars, writing on the blog of Oxford's Institute for Ethics in AI". The byline is Mor, Abend, Keydar and Shany, all HUJI. Ref 6 venue now reads "AI Ethics at Oxford Blog".
+  - **Dropped qualifier / second-hand hedge**: the 15-20% figure is now quoted from the system card p. 161 with its own clause, "though it expressed uncertainty about the source and validity of this assessment". Oxford's "seem to have found" is dropped as a report of Anthropic. The method is given per §6.2.5.4 (an open-ended welfare audit run by automated investigator agents).
+  - **Hope presented as description**: the announcement "describes the document as 'an honest and sincere attempt'" → it "concedes that the document is 'no doubt flawed in many ways' while hoping future models will see it as 'an honest and sincere attempt'". This was left open from the 10-19 pessimistic review.
+- **Medium issues addressed**: 5
+  - Deprecation measures "characterises … as" → "partly as" (the page gives three rationales).
+  - "exactly what rationality demands" → "a rational response … sensible rather than confused".
+  - Birch "unanswerable question" → "currently unresolvable".
+  - Fleet sentence "a question the Map's framework says it cannot answer" → "on the Map's view, a determinate fact that neither the hardware nor the computation lets anyone read off" (P-I1/P-I3, moral-census-opacity L64).
+  - Orphan Ref 7 (Ropek/TechCrunch, never cited in any version) removed; Ref 2 dated 2026-01-22.
+- **Verification**: all sources downloaded raw to the session scratchpad, normalised and machine-matched, with no summariser prompts. Sources: the Constitution PDF (cdn.sanity.io d0636f72…), the live page and two Wayback captures, the announcement, the deprecation commitments, the memory page, the Opus 4.6 system card PDF, the Oxford blog, IEEE Spectrum and TechCrunch. All 29 distinct substantive quoted spans resolve to the attributed document, 1 hit each where unique (48 quote-marked strings in total, counting single-word mentions). The 3 non-matches are the Map's own illustrative strings: the "it's just a language model" gloss and the two Birch question mentions. Three absence claims were re-grepped with scoped term lists and hold. Birch's investigation-priority placement relies on the 2026-08-06 book grep: OUP returned 403 and both Google Books ids failed the control query, which is flagged in the review.
+- **Calibration / §2.6**: no upgrades. Tenets 2–3 stay framework-conditional and epiphenomenalism is not conceded. Engagements: Constitution wellbeing vocabulary Mode Two → Three; physicalist circularity Mode Three. No label leakage.
+- **Trims (offsets)**: the orphan reference, "The two are kept separate throughout.", "and worth saying plainly", "and worth stating exactly", "precisely" ×2, "exactly" ×1, "underlying".
+- **Leads (not edited)**: research/claude-constitution-and-the-map-2026-05-31.md L45/L128 "~23,000-word"; L83/L154 author given as "Oxford Institute for Ethics in AI"; L65 "describes the document as 'an honest and sincere attempt'".
+- **Output**: [[reviews/deep-review-2026-10-22-claude-constitution-consciousness-uncertainty]]
 
 ## 05:20 - combine-outer-reviews
 - **Status**: Success

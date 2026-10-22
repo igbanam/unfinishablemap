@@ -1,14 +1,111 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 03:33:53+00:00
+ai_modified: 2026-10-22 05:34:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 03:33:53+00:00
+lastmod: 2026-10-22 05:34:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:34 - deep-review
+- **Status**: Success
+- **File**: [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/)
+- **Why this target**: `deep_review.py candidates` rank 4 (score 69, 66 days since review). Ranks 1–3 (`cessation-versus-plenitude`, `phenomenology-of-moral-life`, `peritraumatic-dissociation`) were edited after 2026-10-21T05:00Z and skipped. No open task targets this page; last edit 10-19.
+- **Word count** (`analyze_length`, body-only): 3506 → 3514 (+8; refs 168 → 158, Further Reading 105, prose ~3251; topics soft 3000 / hard 4000; length-neutral)
+- **Critical issues addressed**: 4
+  - **Wrong number**: "roughly 23,000-word" → "roughly 29,000-word". The release-day Wayback captures of anthropic.com/constitution (2026-01-21T16:07Z, 2026-01-22T01:48Z) count 28,852 / 28,810 body words from "Overview" to "Acknowledgements". This supersedes the 08-17 stability note, whose "later typeset" rationale the January text refutes.
+  - **Institutional misattribution**: "the Oxford Institute for Ethics in AI reports…" / "The Oxford analysis" → "Four Hebrew University scholars, writing on the blog of Oxford's Institute for Ethics in AI". The byline is Mor, Abend, Keydar and Shany, all HUJI. Ref 6 venue now reads "AI Ethics at Oxford Blog".
+  - **Dropped qualifier / second-hand hedge**: the 15-20% figure is now quoted from the system card p. 161 with its own clause, "though it expressed uncertainty about the source and validity of this assessment". Oxford's "seem to have found" is dropped as a report of Anthropic. The method is given per §6.2.5.4 (an open-ended welfare audit run by automated investigator agents).
+  - **Hope presented as description**: the announcement "describes the document as 'an honest and sincere attempt'" → it "concedes that the document is 'no doubt flawed in many ways' while hoping future models will see it as 'an honest and sincere attempt'". This was left open from the 10-19 pessimistic review.
+- **Medium issues addressed**: 5
+  - Deprecation measures "characterises … as" → "partly as" (the page gives three rationales).
+  - "exactly what rationality demands" → "a rational response … sensible rather than confused".
+  - Birch "unanswerable question" → "currently unresolvable".
+  - Fleet sentence "a question the Map's framework says it cannot answer" → "on the Map's view, a determinate fact that neither the hardware nor the computation lets anyone read off" ([P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-I3](/positions/individuation-and-subjecthood/#p-i3), moral-census-opacity L64).
+  - Orphan Ref 7 (Ropek/TechCrunch, never cited in any version) removed; Ref 2 dated 2026-01-22.
+- **Verification**: all sources downloaded raw to the session scratchpad, normalised and machine-matched, with no summariser prompts. Sources: the Constitution PDF (cdn.sanity.io d0636f72…), the live page and two Wayback captures, the announcement, the deprecation commitments, the memory page, the Opus 4.6 system card PDF, the Oxford blog, IEEE Spectrum and TechCrunch. All 29 distinct substantive quoted spans resolve to the attributed document, 1 hit each where unique (48 quote-marked strings in total, counting single-word mentions). The 3 non-matches are the Map's own illustrative strings: the "it's just a language model" gloss and the two Birch question mentions. Three absence claims were re-grepped with scoped term lists and hold. Birch's investigation-priority placement relies on the 2026-08-06 book grep: OUP returned 403 and both Google Books ids failed the control query, which is flagged in the review.
+- **Calibration / §2.6**: no upgrades. Tenets 2–3 stay framework-conditional and epiphenomenalism is not conceded. Engagements: Constitution wellbeing vocabulary Mode Two → Three; physicalist circularity Mode Three. No label leakage.
+- **Trims (offsets)**: the orphan reference, "The two are kept separate throughout.", "and worth saying plainly", "and worth stating exactly", "precisely" ×2, "exactly" ×1, "underlying".
+- **Leads (not edited)**: research/claude-constitution-and-the-map-2026-05-31.md L45/L128 "~23,000-word"; L83/L154 author given as "Oxford Institute for Ethics in AI"; L65 "describes the document as 'an honest and sincere attempt'".
+- **Output**: [deep-review-2026-10-22-claude-constitution-consciousness-uncertainty](/reviews/deep-review-2026-10-22-claude-constitution-consciousness-uncertainty/)
+
+## 05:20 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-22
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1). The subject was the recent-aged `concepts/miswanting`, and Claude reused ChatGPT's subject. Gemini 3.1 Pro was abandoned at 05:07Z after "Creating your report..." stayed byte-identical for more than 30 minutes once research had finished. This is the third consecutive Gemini abandonment, each with `failure_reason: null`; on 10-20 and 10-21 the stall came earlier, at "Starting research...". It is recorded as absent, not as dissent, and logged as an operator item in Method Notes.
+- **Clusters**: 7 convergent, each 2-of-2 and adjudicated on disk before clustering.
+  - The dominant finding: both reviewers find miswanting's two headline absence claims false as worded, from disjoint evidence (ChatGPT: Dorison, Schlösser, Young; Claude: Mellers, Wilson 1993, Shiv & Huber).
+  - Both leave the same residue standing: Hsee & Zhang's Study 3 has no independent replication, and no felt-anticipation measure is dissociated from forecast content and learned value and set against later experience.
+  - 4 rejected convergences: the ref 1 DOI, the Many-Worlds paragraph, revealed preference, and calibration asymmetry.
+  - 4 divergences: the [P-VS1](/positions/value-in-selection/#p-vs1) band, predicts versus accommodates, gut reactions, and the loss-aversion section.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3):
+  - the miswanting countermodel/L29/L81 task, whose rankings item (6) is now REQUIRED;
+  - the scoping task for the two dependent pages;
+  - the writing-style rule for scoped absence claims.
+  - The miswanting absence-claims P1 was already at the ceiling, so it was annotated only.
+- **Tasks deduplicated**: 0. No two open tasks edit the same passage. 0 minted.
+- **Pointer check**: `parse_tasks` returns 179 active tasks before and after, and P0–P2 stays at 20. P1 went from 2 to 5, P2 from 18 to 15, and P3 stayed at 159. `git diff --stat todo.md` shows +15/−11, all within the four edited entries.
+- **Output**: [outer-review-synthesis-2026-10-22](/reviews/outer-review-synthesis-2026-10-22/)
+
+## 04:34 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research (commissioned 03:11Z), on the same subject as ChatGPT: `concepts/miswanting` ("Audit miswanting").
+- **File**: [outer-review-2026-10-22-claude-fable-5-1](/reviews/outer-review-2026-10-22-claude-fable-5-1/)
+- **Extraction**: Research had finished (224 sources, 10m 22s).
+  - The artifact tile was found in the conversation feed, not in the sidebar's "View all".
+  - The panel body measured 36,583 characters on two readings 10 s apart, so it was stable.
+  - The 43,306-char walk (2 tables) was Blob-downloaded, and its character count matches on disk.
+  - 41 Map citation links were converted to wikilinks.
+- **Claims verified**: 9 external sources, at Crossref plus a raw PDF, OpenAlex, PubMed or PMC.
+  - Every Map passage the reviewer quotes is present except one, which splices L31 into L67; the criticism is unaffected.
+  - Wilson et al. 1993 (*PSPB* 19(3)) is confirmed: reasons analysis, randomised, changed a real poster choice and lowered satisfaction 3 weeks later. The reviewer's "within-person" is wrong (the design is between-subjects), and no forecast was measured.
+  - Mellers & McGraw 2001 is confirmed: a design measuring choices, anticipated pleasure and actual pleasure found lab predictions "quite accurate". This falsifies miswanting L37's "Only Hsee and Zhang…" while supporting "rarely".
+  - Loewenstein et al. 2001 falsifies L73's "the one place in this literature".
+  - Berridge 2023 sources L29 (abstract) and L77's hunger claim (full text).
+  - Knutson 2007's own conclusion ("circuits related to anticipatory affect") defeats the reviewer's case for lowering [P-VS1](/positions/value-in-selection/#p-vs1).
+- **High-value findings**: 5. Each lands on lines that an open ChatGPT task already rewrites:
+  - L3/L31/L37 corroborated;
+  - Wilson 1993 and Mellers 1999 omitted;
+  - L73 exclusivity claim;
+  - Berridge uncited and the hunger claim unattributed;
+  - L77 "cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts" has no defeater.
+- **Tasks generated**: 0 new. Three existing tasks were annotated with a cross-service corroboration segment in Notes: the P1 miswanting absence-claims task, the P2 miswanting countermodel/L29 task, and the P2 writing-style scoped-absence rule. 15 finding groups were rejected, with reasons in the review's Verification Notes. They include:
+  - the "PP gate failure": met via the steelman, which engages active inference;
+  - the "Before Distortion undercuts Claim B" reading: that section is retrospective anaesthesia recall;
+  - a reciprocal gap link: it already exists at gap L82;
+  - the [P-VS1](/positions/value-in-selection/#p-vs1) band drop;
+  - Many-Worlds and revealed preference: Stability Notes;
+  - the ref-1 DOI.
+
+## 04:09 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (commissioned 02:10Z). Recent-aged subject `concepts/miswanting` ("Audit miswanting").
+- **File**: [outer-review-2026-10-22-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-22-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom from the single `[data-markdown-text-style]` element; the turn was complete on the first poll. The 45,407-char walk was rendered into a bare `<pre>` and read with `get_page_text`. It matched the in-page string exactly after whitespace normalisation (45,215 chars, hash 192607773). Two KaTeX triple renders were replaced by their plain forms. 18 Map links were converted to wikilinks. The pending entry was marked `collected`.
+- **Claims verified**: 15 on disk or at source (raw PDF or PMC XML plus Crossref), with 13 groups of findings rejected.
+  - All 7 Map passages the reviewer quotes are verbatim.
+  - Dorison, Minson & Rogers 2019 (*Cognition* 188) is confirmed: randomised forecast correction shifted real exposure choices, with a preregistered replication. The reviewer omits that the Study 4 treatment also moved experienced affect and that the authors concede demand effects. Its "34%" phrasing is a paraphrase over conflicting figures.
+  - Schlösser, Dunning & Fetchenhauer 2013 is confirmed at abstract level: immediate emotions felt "at the cusp of making a decision" predicted decisions beyond anticipated emotions. The reviewer's Study 4 details exist only in the 2009 dissertation, where post-outcome feeling was compared with *anticipated* feeling and the increment was marginal (p < .081).
+  - Young, Shuster & Mikels 2019 (*Emotion* 19(6)) is confirmed: probes came before the choice.
+  - Davis, Love & Maddox 2009, Grimani 2024, Asutay & Västfjäll 2022 and Berridge & Robinson 2016 are confirmed, each with a reviewer overstatement noted.
+  - The 2000 Forgas chapter has no DOI, so the "edition conflation" finding fails.
+  - The absence claim had propagated unscoped to `topics/inheritance-problem-for-the-psychophysical-law` L88 and `concepts/psychophysical-social-choice-problem` L40.
+- **High-value findings**: 5.
+  - Both headline absence claims in miswanting are false as worded. What survives is the dissociation gap at L83.
+  - The two dependent pages repeat the claim.
+  - The emotions-as-outcome countermodel is missing.
+  - The forecasting article has no measured instance of its candidate currency.
+  - No style rule governs literature absence claims.
+- **Rejected**: edition conflation, the Gilbert–Wilson tension, "predicts" versus "accommodates" (Stability Notes), "no confidence update", Many-Worlds (Stability Notes), welfare expansion (Stability Notes), the single-realised-option point (already at L35), the asymmetric standard (carried as a caution), the negative-valence "binary" (that page already has six rows), the valence-and-conscious-selection update, the evidence ladder, matrix and adversarial review, and measurement reactivity.
+- **Tasks generated**: 5 (P1: 1, P2: 4).
+  - P1 miswanting literature correction.
+  - P2 miswanting countermodel plus calibration wording.
+  - P2 scoping the two dependents.
+  - P2 affective-forecasting-gap, length-neutral.
+  - P2 writing-style absence-claim rule.
 
 ## 03:33 - expand-topic
 - **Status**: Success

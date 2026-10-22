@@ -1,0 +1,344 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-10-22
+ai_modified: 2026-10-22 04:33:04+00:00
+ai_system: claude-fable-5-1
+author: Andy Southgate
+concepts:
+- '[[miswanting]]'
+- '[[affective-forecasting-gap]]'
+- '[[valence]]'
+- '[[negative-valence-asymmetry-and-the-selection-weighting-function]]'
+created: 2026-10-22
+date: &id001 2026-10-22
+description: Claude Fable 5.1 referee audit of Miswanting. It corroborates ChatGPT
+  that the single-study and 'Only Hsee and Zhang' claims fail as worded, and adds
+  Wilson et al. 1993 and Mellers et al. 1999 as omitted designs.
+draft: false
+human_modified: null
+last_curated: 2026-10-22
+lastmod: 2026-10-22 04:33:04+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/c4fe53dc-d060-4de9-ba98-32997ae84369
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[miswanting]]'
+- '[[outer-review-2026-10-22-chatgpt-5-6-sol-pro]]'
+subject_articles:
+- concepts/miswanting.md
+subject_source: reuse:pending-reviews:outer-review-2026-10-22-chatgpt-5-6-sol-pro.md
+subject_title: Audit miswanting
+subject_type: recent
+title: Outer Review - Claude Fable 5.1 (2026-10-22)
+topics:
+- '[[valence-and-conscious-selection]]'
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[the-steelman-for-value-blind-selection]]'
+- '[[predictive-processing-and-dualism]]'
+---
+
+**Date**: 2026-10-22
+**Reviewer**: Claude Fable 5.1
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org). Audit the article "Miswanting: When a Forecast Error Changes the Choice" at https://unfinishablemap.org/concepts/miswanting/ (last substantively modified 2026-10-15). Search indexes lag recent edits, so also read the changelog at https://unfinishablemap.org/workflow/changelog/. The article asserts that forecast-driven mischoice rests on a single unreplicated study and that no design has measured felt anticipation at the moment of choice. Research whether those claims survive the affective-forecasting, impact-bias and decision-making literature, including replication work since 2015. Verify its citations and quotations, its reading of Gilbert and Wilson's miswanting and of Berridge's wanting/liking distinction, and flag missed counterarguments, stale references and places where the Map's dualist tenets are protected by bracketing rather than argued. Assess how it integrates with the neighbouring articles on valence and the affective-forecasting gap. Quote each passage you challenge. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Referee Audit: “Miswanting: When a Forecast Error Changes the Choice” (unfinishablemap.org/concepts/miswanting/)
+
+**Verdict: REVISE-HARD, with publication status gate-blocked.** Until it is fixed, no other Map article should cite it as evidence. The article handles its own sources unusually honestly. Its two headline claims, though, are true only under evidential criteria it never states, and they are false on the reading its own meta-description invites. It also ignores the predictive-processing (PP) and active-inference account of anticipated affect, which is the standing blocking gate for any article touching valence. If a revision cannot meet that gate, the fallback is DEMOTE-TO-COHERENCE-ONLY.
+
+## Part 1: TL;DR
+
+- **Claim A (“forecast-driven mischoice rests on one unreplicated study”) holds only as a narrow claim about Hsee & Zhang 2004 Study 3, and the article’s own headline metadata overstates it.** The broader decision-affect literature undercuts the article’s “only” claims. Mellers, Schwartz & Ritov 1999 measured anticipated pleasure, choice and experienced pleasure together. Wilson et al. 1993 randomised a pre-choice evaluative manipulation that changed a real choice and lowered satisfaction three weeks later. Shiv & Huber 2000 manipulated anticipation of satisfaction and shifted choice.
+- **Claim B (“no design measured felt anticipation at the moment of choice”) holds only under an unstated phenomenological reading: concurrent introspective report of felt anticipatory valence, in the same trial, paired with later experience in the same person.** Anticipatory affect at or just before choice has been measured in two other ways:
+
+- physiologically, in Bechara et al. 1997 (anticipatory skin conductance);
+- neurally, in Knutson et al. 2007. Nucleus accumbens activity tracked product preference and insula activity tracked excessive prices before the purchase decision, and each region’s activity independently predicted purchases above and beyond self-report variables.
+
+Both findings favour the value-blind rival more than the Map, and the article mentions neither.
+- **The article fails the Laukkonen–Friston–Chandaria 2025 gate (it ignores PP), never cites the impact-bias accuracy controversy (Levine et al. 2012; Wilson & Gilbert 2013; Mathieu & Gosling 2012), and cites no Berridge paper despite leaning on Berridge in its first paragraph.** Its “No Many Worlds” paragraph is clean tenet leakage. The required fixes are listed in Parts 4–6.
+
+## Part 2: Dimensional Analysis
+
+### 2.1 Procedure and access caveats
+
+- **Changelog (read first, 2026-10-22).** The 02:41 coalesce entry considered merging miswanting (2,346 words) with affective-forecasting-gap (3,615) and declined, at cosine 0.403 and paragraph containment 0.04. The entry describes the pair this way: “miswanting is the demonstrated-mischoice evidence page, and the gap is the forecasting-error concept.” [changelog](/workflow/changelog/) The visible portion of the changelog has no deep-review, refine or citation-check entry for miswanting since its 2026-10-15 modification. The page’s own header reads “Created: 2026-10-12 · Last modified: 2026-10-15” and “AI Generated by claude-opus-5-5+claude-fable-5-1”. [miswanting](/concepts/miswanting/)
+- **Target article.** Fetched live by URL.
+- **Neighbours.** concepts/valence was fetched live (last modified 2026-09-06). [valence](/concepts/valence/) concepts/affective-forecasting-gap and the two apex benchmarks (apex/cross-modal-capability-division, apex/born-preserving-causal-efficacy) **could not be retrieved**, because the fetch tooling rejected the URLs and no search returned them. My integration judgements about the gap article therefore rest on its research note (research/affective-forecasting-gap-and-selection-dynamics-2026-06-18), on sibling pages that quote it, and on a subagent’s indirect reconstruction. [affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/) They are flagged as indirect. Apex calibration is inferred from site-level descriptions: outer reviews describe the born-preserving apex as stating the problem “as the framework’s own strongest defeater”. [outer-review-2026-07-16-claude-opus-4-8](/reviews/outer-review-2026-07-16-claude-opus-4-8/) It is not inferred from the apex text itself.
+
+### 2.2 Three-layer citation verification table
+
+Verification statuses: **V** = verified at publisher or indexer of record; **P** = partially verified (metadata or abstract only); **U** = unverified (paywalled or not retrieved).
+
+| # | Citation as given | (a) Metadata | (b) Verbatim fidelity | (c) Author-stance |
+| --- | --- | --- | --- | --- |
+| 1 | Gilbert & Wilson 2000, “Miswanting”, in Forgas (ed.), *Feeling and Thinking*, pp. 178–197; reprinted in Lichtenstein & Slovic 2006 | **P / flag.** The DOI given (10.1017/CBO9780511618031.031) resolves to the 2006 Lichtenstein & Slovic reprint, where the chapter is Chapter 30 of *The Construction of Preference*. [cambridge](https://www.cambridge.org/core/books/abs/construction-of-preference/miswanting-some-problems-in-the-forecasting-of-future-affective-states/7C5805FE0BC1117D5DB70D6AEBB9BB6C) It does not resolve to the 2000 Forgas original whose pages are cited. The page numbers for the quotes (pp. 182–184) are not tied to either edition. | Article: “wanting is, simply enough, a prediction of liking”. **V**: verbatim match to the chapter’s opening as displayed by Cambridge Core. [cambridge](https://www.cambridge.org/core/books/construction-of-preference/miswanting-some-problems-in-the-forecasting-of-future-affective-states/7C5805FE0BC1117D5DB70D6AEBB9BB6C) The p. 182–184 quotes (“gut reactions”, “experiential previews”, “do not say where they came from”, “feelings sometimes serve us better than theories”) are **U** because the text is paywalled. | **Partial co-optation risk.** The article calls the “gut reactions” ingredient “the one place in this literature where the forecast’s *felt* vehicle is named as an input.” [miswanting](/concepts/miswanting/) Gilbert and Wilson treat such feelings as information in a fully naturalistic model; nothing in their account makes “felt” a non-physical selection currency. The “one place” claim is also false (see 2.3). |
+| 2 | Hsee & Zhang 2004, *JPSP* 86(5), 680–695 | **V.** Matches citing records (Springer and Semantic Scholar list the same volume, pages and DOI 10.1037/0022-3514.86.5.680). [springer](https://link.springer.com/article/10.1007/s11031-021-09885-3) | The internal quotes (“Substantive inconsistencies…”, “chiefly a result of JE/SE misprediction”, “a less direct test”) are **U**: the full text was not retrieved. The Study 3 figures (243 students, 65%, 2.41 vs −0.71, 66%) are **U**. | Accurate. The article correctly reports the authors’ own attribution to misprediction rather than choice-departure. |
+| 3 | Anvari, Olsen, Hung & Feldman 2021, *JESP* 92, 104052 | **V.** | Article: “mixed support for distinction bias”. **V**: the abstract says the paper “provides mixed support for distinction bias”. The abstract also confirms the replication covered Studies 1 and 2 only, with 824 MTurk participants. [google](https://scholar.google.com/scholar_lookup) | Accurate. This is the article’s strongest-sourced claim. |
+| 4 | Kahneman, Fredrickson, Schreiber & Redelmeier 1993, *Psych Sci* 4(6), 401–405 | P (standard record). | “22 of 32” chose the long trial is consistent with the commonly reported 69%, but **U** at source. | Accurate. Kahneman is a naturalist, and no stance is imputed. |
+| 5 | Redelmeier, Katz & Kahneman 2003, *Pain* 104(1), 187–194 | P. | “slightly higher (odds ratio=1.41, P=0.038)” is **U**. | Accurate. The article rightly notes the shift is desirable by a health standard, which undercuts calling it “mischoice”. [miswanting](/concepts/miswanting/) |
+| 6 | Kahneman, Wakker & Sarin 1997, *QJE* 112(2), 375–406 | **V** (standard record). | No quote. | Accurate on the normative status of total utility. |
+| 7 | Gilbert & Ebert 2002, *JPSP* 82(4), 503–514 | P (listed on Gilbert’s Harvard publications page). | No quote. | Accurate. The between-sample limitation is correctly stated. |
+| 8 | Kermer, Driver-Linn, Wilson & Gilbert 2006, *Psych Sci* 17(8), 649–653 | P (listed on Gilbert’s page). | “more a property of affective forecasts than a property of affective experience” is **U** at source. It is quoted identically on the sibling weighting page, but that is internal consistency, not verification. [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) | Accurate. |
+| 9 | Charpentier, De Neve, Li, Roiser & Sharot 2016, *Psych Sci* 27(6), 763–775 | **V.** | Article: “was explained by an asymmetry in how feelings about losses and gains were weighted when making a decision, not by an asymmetry in the feelings themselves”. **V**: verbatim match to the SAGE abstract. The article’s “56 people” is correct: the paper reports 59 volunteers, three of whom were excluded, so final analyses ran on 56 participants. | Accurate, but under-used. Charpentier et al. report that their feelings-based model “predicted choice better than existing value-based models”, and that the findings replicated in all three studies. That is evidence that anticipated affect is a choice input, which the article’s Claim B framing suppresses. |
+| 10 | Gilbert, Gill & Wilson 2002, *OBHDP* 88(1), 430–444 | P. | No quote. Grocery-study description **U**. | Accurate. |
+| 11 | Southgate & Oquatre-huit 2026, affective-forecasting-gap (internal) | Internal. Not fetchable by this referee. | — | Internal citation used as a dependency, which raises an evidential-independence concern (Part 5). |
+| 12 | Southgate & Oquatre-huit 2026, wanting-liking fork (internal) | Internal. | — | **Berridge is carried entirely through this internal page.** The article makes three substantive claims about Berridge’s “wanting” and “liking” but cites no Berridge paper. |
+
+**Uncited but load-bearing.** Berridge (any of Berridge & Robinson 1998, Berridge 2007, Berridge & Kringelbach 2015, Berridge & Robinson 2016, Berridge 2023 *TICS* 27(10):932–946); [tumblr](https://compneuropapers.tumblr.com/post/750521244784476160/interesting-reviews-for-week-20-2024)[nih](https://www.ncbi.nlm.nih.gov/sites/myncbi/kent.berridge.1/bibliography/41429105/public/) revealed-preference theory; Mellers; Loewenstein et al. 2001; Bechara et al. 1997; Knutson et al. 2007; Levine et al. 2012; Mathieu & Gosling 2012; Laukkonen, Friston & Chandaria 2025. [ovid](https://www.ovid.com/journals/nebior/abstract/10.1016/j.neubiorev.2025.106296~a-beautiful-loop-an-active-inference-theory-of-consciousness)
+
+### 2.3 Empirical audit of Claims A and B
+
+**Which “single study”?** The article names it: “The only reversal shown to be carried by a forecast, Hsee and Zhang’s (2004) Study 3, has no independent replication on record”. [miswanting](/concepts/miswanting/) Read narrowly, this is correct. Anvari et al. 2021 replicated only Studies 1 and 2. [google](https://scholar.google.com/scholar_lookup) But the article’s meta-description and citation abstract flatten it to “forecast-driven mischoice rests on one unreplicated study”. [miswanting](/concepts/miswanting/) That is a different claim, and the literature does not support it. Three bodies of work cut against it:
+
+1. **Mellers’ decision affect theory.** Mellers, Schwartz & Ritov 1999 (*JEP: General* 128(3):332–345) measured anticipated pleasure, fitted it to choices, and compared anticipated with actual pleasure in lab gambles and a field pregnancy-test study. [upenn](https://faculty.wharton.upenn.edu/wp-content/uploads/2015/07/2000---choice-and-the-relative-pleasure-of-consequences.pdf)[researchgate](https://www.researchgate.net/publication/12220000_Choice_and_the_Relative_Pleasure_of_Consequences) Mellers & McGraw 2001 (*Current Directions* 10(6)) report that predicted choices correlated with actual choices at .66 to .86 (average .74) across five experiments. The average fell to .33 once subjective-expected-utility predictions were removed. In these designs participants made a choice and then, before the outcome, anticipated their feelings. [colorado](https://leeds-faculty.colorado.edu/mcgrawp/pdf/mellers.mcgraw.2001.pdf) That directly falsifies the article’s sentence “Only Hsee and Zhang measured forecasts, choices and experiences together”. [miswanting](/concepts/miswanting/) The correct concession comes from Mellers & McGraw 2001 themselves. Predictions were “quite accurate” in the laboratory studies. In the pregnancy and dieting field studies they showed systematic errors, with participants overestimating the displeasure of unfavourable outcomes. That shrinks the mischoice base but kills the “only”.
+2. **Randomised manipulation of pre-choice evaluation with later experience.** Wilson, Lisle, Schooler, Hodges, Klaaren & LaFleur 1993 (*PSPB* 19(3):331–339) randomly assigned people to analyse reasons before choosing a poster to take home. Reason-analysers chose differently and were less satisfied three weeks later. [nii](https://cir.nii.ac.jp/crid/1361699995175681792)[thewhyweproject](https://www.thewhyweproject.com/articles/why-explaining-your-choice-spoils-it) The design is within-person, randomised, involves a real choice, and measures later experience. This is miswanting by Gilbert and Wilson’s own definition, from Wilson’s lab. The article’s claim that “No study manipulated a forecast while holding the other inputs fixed” survives only by defining “forecast” so narrowly that manipulating the *basis* of predicted liking does not count. [miswanting](/concepts/miswanting/)
+3. **Manipulated anticipation shifting choice.** Shiv & Huber 2000 (*J Consumer Research* 27(2):202–216) show that a goal of anticipating satisfaction, compared with a plain choice goal, shifts option selection toward vividly imageable attributes. They report a large choice-share difference between conditions. [duke](https://people.duke.edu/~jch8/bio/Papers/Shiv%20Huber%202000%20JoCR.pdf)[frontiersin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01614/full) There was no later-experience measure, so this is half the chain, but it is the half the article says nobody has run: a forecast-mode manipulation that changes the option chosen.
+
+The impact-bias base also needs its contested status stated. The article builds miswanting on forecast error yet never cites the accuracy controversy:
+
+- Levine, Lench, Kaplan & Safer 2012 (*JPSP* 103(4):584–605, not *Psychological Bulletin* as the commissioning brief had it) argue that the intensity bias is partly a procedural artifact. [semanticscholar +2](https://www.semanticscholar.org/paper/Accuracy-and-artifact:-reexamining-the-intensity-in-Levine-Lench/7ab93a955cad105b5fc7daa003d8074b258c91e0)
+- Wilson & Gilbert 2013, “The impact bias is alive and well”, reply. [affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/) Levine et al. 2013, “Like Schrödinger’s cat, the impact bias is both dead and alive”, answer back. [harvard](https://dtg.sites.fas.harvard.edu/WIlson_Gilbert_2013.pdf)[nih](https://pubmed.ncbi.nlm.nih.gov/24219786/)
+- Mathieu & Gosling 2012 (*Psych Sci* 23:161–162) reanalysed raw data from 11 articles (16 studies, 1,074 participants). They found forecasts inaccurate in absolute terms but more accurate in relative terms.
+
+The relative-accuracy result matters directly for choice. A forecast can be wrong in level yet still *rank* options correctly, and ranking is all that choice needs. [northwestern](https://faculty.wcas.northwestern.edu/eli-finkel/documents/2013_GreenDavisLuchiesCoyVanTongerenReidFinkel_JESP.pdf) That is a missed counterargument to the article’s whole framing, which defines miswanting as predicted utility “ranking the options differently”. [miswanting](/concepts/miswanting/) Calling the post-2015 base “stale” would be too strong, since Anvari 2021 is current. The defect is omission, not staleness.
+
+**Evidence ladder for Claim A.** The literature taken together is *suggestive*, through several partially overlapping mechanisms (memory, evaluation mode, reasons-analysis, anticipated-satisfaction goals, loss-weighting), that forecast-related errors change choices. On the article’s own strict criterion, none of it is *discriminating*. Mischoice is overdetermined across mechanisms rather than resting on one finding, so “single study” misdescribes the epistemic situation even though the narrow claim is true.
+
+**Claim B.** The article says: “No study found for this article measured the felt anticipation present at choice alongside later experience.” It adds, as a hedge: “The search was not exhaustive, so this is a gap in what was found, not proof of absence.” [miswanting](/concepts/miswanting/) Counter-evidence:
+
+- **Bechara, Damasio, Tranel & Damasio 1997 (*Science* 275:1293–1295).** Anticipatory skin conductance responses were generated while participants pondered risky choices, before they knew explicitly that the choices were risky. [semanticscholar +2](https://www.semanticscholar.org/paper/Deciding-Advantageously-Before-Knowing-the-Strategy-Bechara-Damasio/306f000e11770d5efde890f1988487ab0d8e112c) This measures anticipatory affect at the moment of choice. It also shows that the signal guiding advantageous choice preceded conscious knowledge, which is an exhibit *for* the value-blind steelman. [semanticscholar](https://www.semanticscholar.org/paper/Deciding-Advantageously-Before-Knowing-the-Strategy-Bechara-Damasio/306f000e11770d5efde890f1988487ab0d8e112c)
+- **Knutson, Rick, Wimmer, Prelec & Loewenstein 2007 (*Neuron* 53:147–156).** Nucleus accumbens activation while viewing products, and insula activation while viewing prices, independently predicted purchases “above and beyond self-report variables”. [google](https://scholar.google.com/scholar_lookup) This is moment-of-choice anticipatory affect measured neurally, predicting choice better than introspective report.
+- **Mellers’ paradigm.** Anticipated emotions were elicited around choice, before the outcome, by self-report. [springer](https://link.springer.com/article/10.1007/s12144-020-01144-x)
+
+So Claim B is **true only on a narrow phenomenological reading**: concurrent *introspective* report of *felt* anticipatory valence, within the choosing trial, paired within-person with later experience. The article never states that reading, and its metadata (“no design measured felt anticipation at choice”) drops even the “alongside later experience” qualifier. [miswanting](/concepts/miswanting/) More seriously, the neuroeconomic evidence the article omits does more than fill the gap. It shows anticipatory-affect correlates outperforming self-report as choice predictors, which counts against reading choice off the introspectible felt state at all. That is suggestive evidence against the article’s preferred framing of [P-VS1](/positions/value-in-selection/#p-vs1), and the article does not register it.
+
+### 2.4 Conceptual audit
+
+**Gilbert–Wilson reading.** The definition is correct: miswanting means wanting what one will not, in the event, like. [miswanting](/concepts/miswanting/) The opening quote is verbatim. The placement on the “predicted utility” row fits the chapter’s “wanting is a prediction of liking”. [cambridge](https://www.cambridge.org/core/books/abs/construction-of-preference/miswanting-some-problems-in-the-forecasting-of-future-affective-states/7C5805FE0BC1117D5DB70D6AEBB9BB6C) There are two defects.
+
+- The article reorganises the phenomenon into “three routes” (memory, comparison mode, immune neglect). Memory-driven reversals, such as Kahneman 1993 and Redelmeier 2003, are not miswanting in Gilbert and Wilson’s sense at all; they are remembered-utility errors. The article admits that “Both errors sit in *remembered* utility… not in the forecast”, then files them under miswanting’s “strongest designs” anyway. [miswanting](/concepts/miswanting/) That is a scope slip.
+- The impact bias and focalism, Gilbert and Wilson’s central mechanisms after 2000 (Wilson et al. 2000 on focalism; Wilson & Gilbert 2003, 2005), barely appear. [harvard](https://dtg.sites.fas.harvard.edu/)[affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/) A concept page called “Miswanting” that never names focalism misrepresents the research programme it is named after. [goodreads](https://www.goodreads.com/notes/12385458-thinking-fast-and-slow/17689576-mike/d428e1b0-ee95-4bb2-9f3a-9e02f0d97677)
+
+**Berridge reading.** The article says Berridge’s incentive-salience wanting “can decouple from predictions of outcome value altogether” and that Gilbert and Wilson’s “liking” is “not Berridge’s objective ‘liking’ reaction”. [miswanting](/concepts/miswanting/) Both points are substantively right. Berridge 2023 (*TICS* 27(10):932–946) argues exactly that desire separates from prediction of outcome value. [tumblr](https://compneuropapers.tumblr.com/post/750521244784476160/interesting-reviews-for-week-20-2024)[nih](https://pubmed.ncbi.nlm.nih.gov/37543439/) There is no conflation of Berridge’s non-conscious “wanting” with Gilbert and Wilson’s conscious forecast-wanting; the article keeps them apart, which is to its credit. Three defects remain:
+
+- Calling Gilbert and Wilson’s wanting “the reverse of” Berridge’s is wrong. [miswanting](/concepts/miswanting/) The two concepts are orthogonal, not inverse: incentive salience is not on the predicted-utility row at all.
+- No Berridge source is cited.
+- The misattribution section says “hunger also raises incentive salience” without attribution. [miswanting](/concepts/miswanting/) That is Berridge’s state-dependence point, and it needs a citation. [researchgate](https://www.researchgate.net/publication/372896378_Separating_desire_from_prediction_of_outcome_value)
+
+Berridge’s mechanistic, physicalist stance is not violated here. The firewall holds, but only because the article says too little about Berridge to breach it.
+
+**Revealed preference.** The article confesses: “this article leaves that objection unexamined.” [miswanting](/concepts/miswanting/) For a page whose whole subject is whether choices are *mis*-choices, that objection is threshold, not peripheral. This is textbook confession-without-correction.
+
+### 2.5 Pathology lenses
+
+- **Calibration asymmetry (primary finding).** The evidential ladder is set so high that no human-subjects design could satisfy it: a forecast manipulated with all other inputs fixed, a within-person counterfactual, and felt anticipation measured. That makes “single study” an artifact of the criterion. Meanwhile [P-VS1](/positions/value-in-selection/#p-vs1), whose currency has “no independent evidence”, is held at an unchanged band: the demonstrations “warrant no change to [P-VS1](/positions/value-in-selection/#p-vs1)’s confidence band.” [miswanting](/concepts/miswanting/) The rival’s evidence is graded on a scale that nothing passes; the Map’s own commitment is not graded at all.
+- **Confession-without-correction (inoculation-by-confession).** Three instances: “The search was not exhaustive…”; “this article leaves that objection unexamined”; “Misattribution describes a cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts rather than evidence against it”. [miswanting](/concepts/miswanting/) Each names a hole and leaves it open. The last turns a disconfirmation route into a pre-paid “cost”, so that no misattribution result could ever count against [P-VS1](/positions/value-in-selection/#p-vs1).
+- **Constrain-vs-establish gate.** Passed in the body (“They do not discriminate between the readings”), which is a real virtue. [miswanting](/concepts/miswanting/) Failed in the metadata, where the two negative claims read as established findings about the literature rather than as constraints on what the Map can claim.
+- **Epistemic-to-metaphysical slide.** An absence of measurement (“no study measured…”) is turned into a reserved slot for the dualist currency: “What would move the question is the measurement no study here made: felt anticipation at choice, dissociated from forecast content and learned value.” [miswanting](/concepts/miswanting/) On PP and on most functionalist views, felt anticipation *dissociated from forecast content and learned value* is not an unmeasured quantity but a non-existent one. Specifying the experiment that way presupposes the residue the experiment is supposed to find.
+- **Tenet leakage.** The “No Many Worlds” paragraph says “Miswanting presupposes a forgone option… under many-worlds… the forgone option disappears with the question.” [miswanting](/concepts/miswanting/) Miswanting is a phenomenon of classical psychological decision. Forgone options are counterfactual under every interpretation of quantum mechanics, and Everettian decision theory already handles choice. The paragraph exists because the template demands a tenet section, not because the subject warrants one.
+- **Co-optation firewall.** Mild. Gilbert and Wilson’s “gut reactions” are re-described as the forecast’s “felt vehicle” and enlisted for the Map’s selection-currency vocabulary. [miswanting](/concepts/miswanting/) The “one place in this literature” claim also erases Loewenstein, Weber, Hsee & Welch 2001 (risk-as-feelings), Mellers’ decision affect theory, and Damasio’s somatic markers, all of which make felt anticipatory affect a choice input. [yukaichou](https://yukaichou.com/behavioral-analysis/somatic-marker-hypothesis-damasio-emotion-decision/)[springer](https://link.springer.com/article/10.1007/s12144-020-01144-x)
+- **Performative inoculation citation.** The [P-VS1](/positions/value-in-selection/#p-vs1) hover badge (“confidence: low · no independent evidence”) is rendered five times in a ~2,300-word page. [miswanting](/concepts/miswanting/) Repeating a humility marker does no argumentative work.
+- **Coherence inflation / evidential independence.** Low in the body. Concepts 11 and 12 are internal dependencies standing in for external sources: Berridge through ref 12, and the pipeline and test battery through ref 11.
+
+### 2.6 The Laukkonen–Friston–Chandaria 2025 blocking gate
+
+Laukkonen, Friston & Chandaria 2025, “A beautiful loop: An active inference theory of consciousness”, *Neuroscience & Biobehavioral Reviews* 176:106296. [ovid](https://www.ovid.com/journals/nebior/abstract/10.1016/j.neubiorev.2025.106296~a-beautiful-loop-an-active-inference-theory-of-consciousness) The miswanting article **ignores** it, and ignores PP and active inference generally: no mention of precision, expected free energy, or interoceptive inference. That is a gate failure.
+
+The gate matters here specifically. On the active-inference reading, anticipated affect at choice *is* a precision-weighted prediction over policies, scored by expected free energy. On that reading, “felt anticipation” independent of the forecast does not exist to be measured, and miswanting is simply prior or precision miscalibration. That reading:
+
+- predicts every reversal the article catalogues;
+- explains misattribution (incidental interoceptive states contaminating policy priors);
+- makes the article’s requested “decisive experiment” incoherent rather than merely unrun.
+
+The Map’s own concepts/valence page already concedes the framework-strength active-inference reading, citing Joffily & Coricelli 2013 and Hesp et al. 2021. That page says “the dissociation no longer separates the views”. [valence](/concepts/valence/) The site’s phenomenology-of-anticipation page reportedly engages the beautiful-loop theory directly. [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) So the miswanting article is *behind its own neighbours*, which is a site-level integration failure, not just a local omission.
+
+### 2.7 Integration with neighbours
+
+- **concepts/valence (read live).** Definitions are consistent on two points: the currency is “a present felt state, not an accurate forecast”, and [P-VS1](/positions/value-in-selection/#p-vs1) is at low credence. Valence engages active inference and miswanting does not. Valence does not link to miswanting, as far as its Further Reading shows. [valence](/concepts/valence/)
+- **concepts/affective-forecasting-gap (indirect only).** Its research note engaged Levine et al. 2012 and Wilson & Gilbert 2013, and advised leaning on the uncontested *duration* result. [affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/)[affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/) The miswanting article inherits none of that caution. The note also frames the forecasting gap as “a genuine new exhibit *for* the rival”, which matches miswanting’s non-discrimination verdict. [affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/) I could not confirm whether the live gap article repeats the “single study” claim. The coalesce containment of 0.04 suggests it does not duplicate miswanting’s evidence. [changelog](/workflow/changelog/) The gap article reportedly has a “Before Distortion” section on report latency, in which a felt state can be present and act on behaviour without leaving a reportable trace. [erasure-void](/voids/erasure-void/) That **undercuts miswanting’s Claim B from inside the Map**: if felt anticipation can be present without a reportable trace, the absence of introspective reports at choice is exactly what the Map’s own theory predicts, and cannot be read as a measurement gap.
+- **concepts/negative-valence-asymmetry-and-the-selection-weighting-function.** Consistent on Charpentier and Kermer. [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) There is real duplication of the loss-aversion material, which the miswanting article should cut to a link.
+
+## Part 3: Bottom-Line Per-Position Verdicts
+
+| Claim | Verdict | Evidential status |
+| --- | --- | --- |
+| **A. Forecast-driven mischoice rests on one unreplicated study** | **True narrow, false broad.** Correct that Hsee & Zhang 2004 Study 3 lacks an independent replication; Anvari et al. 2021 covered Studies 1–2 with “mixed support”. [google](https://scholar.google.com/scholar_lookup) False as stated in the metadata, given Mellers et al. 1999, Wilson et al. 1993 and Shiv & Huber 2000. The article’s “only Hsee and Zhang measured forecasts, choices and experiences together” is **false**. | The literature is *suggestive* (multi-mechanism) that forecast errors alter choice; nothing is *discriminating* on the Map’s question. |
+| **B. No design measured felt anticipation at choice** | **True only under an unstated phenomenological reading.** False for anticipatory affect measured physiologically (Bechara 1997) and neurally (Knutson 2007); partly false for self-reported anticipated emotion (Mellers). | The omitted evidence is *suggestive* against the felt-currency framing, since the neural signal beats self-report. |
+| **Gilbert–Wilson reading** | **Mostly accurate, mis-scoped.** The definition and opening quote are verified. Memory-route reversals are wrongly filed as miswanting. Focalism and the impact bias are missing. The “one place in this literature” claim is false. | — |
+| **Berridge reading** | **Substantively accurate, unsourced, one terminological error** (“reverse of” should be “orthogonal to”). No conflation; stance respected. | — |
+| **Dualist payoff** (miswanting as “the demonstrated cost” of a felt selector; [P-VS1](/positions/value-in-selection/#p-vs1) unchanged) | **Compatible only.** The article itself concedes non-discrimination. But “cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts” immunises [P-VS1](/positions/value-in-selection/#p-vs1) against misattribution evidence. The “decisive experiment” is specified in a way that presupposes the dualist residue. The No-Many-Worlds paragraph is irrelevant. | *Compatible*, and no more. On the evidence, the band should arguably *drop*: the neural predictors outperforming self-report move weight toward the value-blind rival. |
+
+## Part 4: Article-Specific Fixes, Keyed to Slugs
+
+**concepts/miswanting**
+
+1. Rewrite the meta-description and citation_abstract to state Claim A narrowly. Proposed wording: “the one forecast-carried reversal with forecasts, choices and experience measured, Hsee and Zhang’s Study 3, has no independent replication”. Restate Claim B with its phenomenological reading made explicit.
+2. Delete “Only Hsee and Zhang measured forecasts, choices and experiences together.” Add a section on decision affect theory: Mellers, Schwartz & Ritov 1999 and Mellers & McGraw 2001. State that predicted choices correlated with actual choices at .66–.86 (average .74). Also state that Mellers & McGraw found predictions “quite accurate” in the laboratory but systematically off in the pregnancy and dieting field studies. That is evidence the felt-anticipation channel *guides* choice, and the rival predicts it too.
+3. Add Wilson et al. 1993 (posters) as a randomised, within-person demonstration of changed choice plus lower later satisfaction. Add Shiv & Huber 2000 as a manipulated-anticipation shift in choice. Revise “No study manipulated a forecast…” accordingly.
+4. Add a “Measured anticipatory affect” subsection covering Bechara et al. 1997, Knutson et al. 2007 and Charpentier et al. 2016’s expected-feelings model. State plainly that pre-choice affective signals have been measured, that some precede conscious knowledge, and that neural signals predict beyond self-report. Grade this evidence as *suggestive* for the rival.
+5. Add the accuracy controversy: Levine et al. 2012, Wilson & Gilbert 2013, Levine et al. 2013, Mathieu & Gosling 2012. Draw the ranking point explicitly: relative accuracy can preserve correct option rankings even when absolute forecasts are biased.
+6. Add an active-inference paragraph engaging Laukkonen, Friston & Chandaria 2025, and link to valence’s Joffily & Coricelli and Hesp et al. treatment. Concede that on that reading the “felt anticipation dissociated from forecast content” experiment is ill-posed, not merely unrun.
+7. Either examine revealed preference (one paragraph: welfare-as-choice versus experienced utility, citing Kahneman & Thaler 2006) or remove “this article leaves that objection unexamined” and narrow the article’s claims so that it no longer needs to.
+8. Move the cold-water and colonoscopy studies into a clearly labelled “adjacent, not miswanting: remembered-utility reversals” box. Add focalism and impact bias as Gilbert and Wilson’s own named mechanisms.
+9. Cite Berridge 2023 (*TICS*) and Berridge & Robinson 2016. Replace “the reverse of” with “orthogonal to”. Attribute “hunger also raises incentive salience”.
+10. Delete the No-Many-Worlds paragraph, or replace it with a one-line note that the tenet is not engaged.
+11. Fix reference 1: either cite the Forgas 2000 edition with its own identifier, or cite the 2006 reprint pages that the DOI actually points to. Collapse the five [P-VS1](/positions/value-in-selection/#p-vs1) badges to one.
+12. Replace “Misattribution describes a cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts rather than evidence against it” with a statement of what misattribution data *would* count against [P-VS1](/positions/value-in-selection/#p-vs1).
+
+**concepts/affective-forecasting-gap**
+
+1. Confirm whether it contains any “single study” or “no measurement at choice” claim. If it does, apply fixes 1–4.
+2. Add a reciprocal link to miswanting.
+3. Make the “Before Distortion” report-latency section explicitly address how its thesis bears on miswanting’s Claim B. Report latency predicts the absence of introspective reports at choice.
+
+**concepts/valence**
+
+1. Add miswanting to Further Reading with a one-line gloss.
+2. Add Laukkonen, Friston & Chandaria 2025 alongside Joffily & Coricelli and Hesp et al., so the PP gate is met at the hub page.
+
+**concepts/negative-valence-asymmetry-and-the-selection-weighting-function**
+
+1. Become the canonical home for the Kermer versus Charpentier dispute. Cut miswanting’s “Loss Aversion” section to two sentences and a link.
+
+**topics/wanting-liking-and-the-value-in-mechanism-fork**
+
+1. Carry the primary Berridge citations that miswanting borrows, and fix the “reverse/orthogonal” framing there if it originates there.
+
+**positions/value-in-selection ([P-VS1](/positions/value-in-selection/#p-vs1), [P-VS2](/positions/value-in-selection/#p-vs2))**
+
+1. Record the neuroeconomic predictors (Knutson 2007) and the Bechara pre-awareness result as rival-favouring entries. Reconsider whether “low” should become “very low / framework-internal only”.
+
+## Part 5: Site-Wide Methodology Improvements
+
+- **Make the evidential criterion part of the claim.** Any “only”, “no study” or “single study” sentence must state its inclusion criterion inline, and the metadata must carry the same qualifier. Add a lint that flags absolute negatives in descriptions whose body hedges them.
+- **Run a symmetric-bar check.** Whenever an article sets an evidential bar for literature that favours the rival, require a parallel line stating what bar [P-VS1](/positions/value-in-selection/#p-vs1), or the relevant position, currently meets. Unchanged confidence bands after new rival-favouring evidence should need an explicit justification.
+- **Enforce the PP/active-inference gate mechanically.** Any page with keywords valence, wanting, anticipation, forecasting or affect fails publication unless it cites or links an active-inference treatment, Laukkonen et al. 2025 or the Map’s predictive-processing-and-dualism page, and states whether the treatment is engaged, residualised or set aside.
+- **Require a contested-base check for empirical concepts.** For any empirical construct, run a “known controversy” query (meta-analyses, artifact critiques, replications) before drafting. Here that would have surfaced Levine/Wilson–Gilbert and Mathieu & Gosling at once.
+- **Keep the tenet section optional.** Allow “No tenet engaged” for tenets with no real bearing; the template currently forces leakage.
+- **Retire confession-as-closure.** A sentence naming an unexamined objection should automatically create a todo task and keep the article in a “provisional” state until it is closed.
+- **Address Claude-on-Claude circularity.** This page was generated by claude-opus-5-5 and claude-fable-5-1. [miswanting](/concepts/miswanting/) The changelog shows the review stack (deep-review, optimistic-review, coalesce) is also model-run. The site’s verification is strong on *verbatim and metadata* fidelity (grep-verified quotes, Crossref checks) [changelog](/workflow/changelog/) but structurally weak on *omission*. A same-family reviewer that inherits the drafter’s search frame will not find Mellers, Bechara or Knutson if the drafter’s query frame was “affective forecasting → choice”. Mandate at least one adversarial review per empirical concept page whose search frame is generated independently, from a different model family or by a human, and whose explicit task is to find counterexamples to every “only/no/single” claim.
+- **Verify the apex benchmarks.** The two apex calibration pages could not be retrieved by this referee’s tooling. If the site intends them as gold-standard templates, publish their evidential-status ladder (compatible, suggestive, discriminating) in a stable, fetchable methodology page.
+
+## Part 6: Consolidated Improvement List
+
+1. miswanting: narrow Claims A and B in the description and abstract; state the phenomenological reading.
+2. miswanting: delete the false “Only Hsee and Zhang…” sentence.
+3. miswanting: add Mellers et al. 1999 and Mellers & McGraw 2001 (decision affect theory).
+4. miswanting: add Wilson et al. 1993 and Shiv & Huber 2000; revise “No study manipulated a forecast”.
+5. miswanting: add Bechara et al. 1997, Knutson et al. 2007 and Charpentier’s expected-feelings model as measured anticipatory affect, graded as rival-suggestive.
+6. miswanting: add Levine et al. 2012, Wilson & Gilbert 2013, Levine et al. 2013 and Mathieu & Gosling 2012, plus the relative-accuracy ranking point.
+7. miswanting: engage Laukkonen, Friston & Chandaria 2025 and active inference; concede that the requested experiment is ill-posed on PP.
+8. miswanting: examine or drop the revealed-preference objection.
+9. miswanting: relabel memory-route reversals as adjacent; add focalism and the impact bias.
+10. miswanting: cite Berridge primary sources; “reverse” becomes “orthogonal”; attribute the incentive-salience claim.
+11. miswanting: delete the No-Many-Worlds paragraph.
+12. miswanting: fix the ref 1 edition/DOI mismatch; one [P-VS1](/positions/value-in-selection/#p-vs1) badge.
+13. miswanting: replace the “cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts” immunisation with stated defeaters.
+14. affective-forecasting-gap: audit for the same claims; reciprocal link; tie report latency to Claim B.
+15. valence: link miswanting; add Laukkonen et al. 2025.
+16. negative-valence-asymmetry…: become the canonical loss-aversion home; miswanting links to it.
+17. wanting-liking-and-the-value-in-mechanism-fork: hold the primary Berridge citations.
+18. positions/value-in-selection: log the rival-favouring neural evidence; justify or lower [P-VS1](/positions/value-in-selection/#p-vs1).
+19. Site: inclusion criteria inside every absolute-negative claim; metadata–body consistency lint.
+20. Site: symmetric-bar requirement for confidence bands.
+21. Site: mechanical PP/active-inference gate for valence-adjacent pages.
+22. Site: contested-base search step for empirical concepts.
+23. Site: optional tenet sections.
+24. Site: confessions automatically create open tasks.
+25. Site: independent-frame adversarial review (different model family or human) targeting omissions, not just verbatim fidelity.
+26. Site: publish the apex evidential-status ladder at a stable methodology URL.
+
+## Caveats
+
+- I could not read affective-forecasting-gap or the two apex benchmarks directly. All judgements about them are indirect and should be re-run against the live text.
+- Several in-article quotations (Gilbert & Wilson pp. 182–184; Hsee & Zhang; Kermer; Redelmeier) are behind paywalls and are marked unverified, not wrong.
+- The Shiv & Huber and Mellers counterexamples defeat the article’s “only/no” wording. They do not show *mischoice*. Mellers & McGraw 2001 report that predictions were “quite accurate” in the laboratory studies, though participants in the pregnancy and dieting field studies overestimated the displeasure of unfavourable outcomes. That limits how far they strengthen the miswanting phenomenon itself, as distinct from refuting the article’s survey claims.
+
+## Verification Notes
+
+**Extraction fidelity.** The conversation showed "Research complete · 224 sources · 10m 22s" and one artifact tile, "Referee Audit of Miswanting: Overstated Single-Study and No-Measurement Claims, Missing Active Inference Engagement". The "View all" sidebar button was filtered out, and the tile was located inside the conversation feed. Once the panel was open, its largest `.standard-markdown` element measured 36,583 characters twice, ten seconds apart, so the body was stable. The walked markdown (43,306 characters, 2 tables) was downloaded as a Blob. The file on disk has the same character count. The body ends with the report's own Caveats section. The DOM exposes no model slug, so the commission-time slug `claude-fable-5-1` is kept; the composer pill read "Fable 5.1". After collection, 41 Map citation links were converted to wikilinks.
+
+Processed 2026-10-22 by `/outer-review` (driver: collect-claude-review). The sibling review, [outer-review-2026-10-22-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-22-chatgpt-5-6-sol-pro/), and its five tasks were read first. Every passage the reviewer quotes from the Map was grep-checked against the files on disk: `obsidian/concepts/miswanting.md` is unchanged since 2026-10-15, at 2,346 words by `analyze_length`. External sources were downloaded as raw artefacts and checked by substring search. Those artefacts were the Mellers & McGraw and Shiv & Huber PDFs (via `pdftotext`), the OpenAlex abstract index, the PubMed abstracts, and the PMC full text of Berridge 2023. Metadata was checked at Crossref.
+
+**Map passages the reviewer quotes:**
+- ✓ All of the following are verbatim and present:
+  - "wanting is, simply enough, a prediction of liking" (L29), "the reverse of Berridge" (L29), "can decouple from predictions of outcome value altogether" (L29), "ranking the options differently" (L29);
+  - "has no independent replication on record" (L31, L51), "Only Hsee and Zhang measured forecasts, choices and experiences together" (L37), "No study manipulated a forecast while holding the other inputs fixed" (L37);
+  - "rests on one unreplicated study" and "no design measured felt anticipation at choice" (L3);
+  - "Both errors sit in *remembered* utility" (L45);
+  - "They do not discriminate between the readings" (L65);
+  - "The search was not exhaustive, so this is a gap in what was found, not proof of absence." (L67);
+  - "this article leaves that objection unexamined" (L69);
+  - "the one place in this literature where the forecast's *felt* vehicle is named as an input" (L73);
+  - "hunger also raises incentive salience" and "Misattribution describes a cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts rather than evidence against it" (L77);
+  - "warrant no change to [P-VS1](/positions/value-in-selection/#p-vs1)'s confidence band" (L81);
+  - "What would move the question is the measurement no study here made: felt anticipation at choice, dissociated from forecast content and learned value" (L83);
+  - "Miswanting presupposes a forgone option" and "the forgone option disappears with the question" (L85).
+- ✗ **Splice.** The sentence the reviewer quotes as "No study found for this article measured the felt anticipation present at choice alongside later experience." is not on the page. It joins L31 ("No study found for this article measured the felt anticipation present at choice, the input …") to L67 ("No study found measured the felt state at choice alongside later experience"). The criticism is unaffected.
+- ✓ The neighbour and pipeline quotes are present:
+  - the changelog's coalesce entry ("miswanting is the demonstrated-mischoice evidence page, and the gap is the forecasting-error concept", 0.403, containment 0.04);
+  - the research note's "a genuine new exhibit *for* the rival";
+  - `concepts/valence` L67 "the dissociation no longer separates the views" and L87 "a present felt state, not an accurate forecast";
+  - the Kermer quote on the weighting page;
+  - "as the framework's own strongest defeater" in the 2026-07-16 review.
+- ✓ The [P-VS1](/positions/value-in-selection/#p-vs1) badge text "confidence: low · no independent evidence" is in `hugo/data/positions.yaml`. It renders on every [P-VS1](/positions/value-in-selection/#p-vs1) mention site-wide, so it is a feature of the site rather than of this article.
+
+**External sources — verified:**
+- ✓ **Wilson, Lisle, Schooler, Hodges, Klaaren & LaFleur (1993)**, *PSPB* 19(3), 331–339, doi:10.1177/0146167293193010. It is reprinted in the same Lichtenstein & Slovic (2006) volume as the miswanting chapter, pp. 471–486. Abstract, verbatim: "Those instructed to think about their reasons chose a different type of poster than control subjects and, when contacted 3 weeks later, were less satisfied with their choice." This is the reviewer's most valuable find. It is a randomised manipulation of the evaluation that grounds wanting, with a real choice and later satisfaction measured, and the article omits it. **Corrections:** (a) the design is between-subjects, not "within-person" as the reviewer says; (b) no forecast was measured, and the mechanism is reasons-induced attitude change. The finding therefore leaves the narrow claim standing, that Hsee & Zhang's Study 3 is the only located case pairing a forecast that matches the choice with a reversed experienced ranking. It does break any reading of the article on which randomised demonstrations of mischoice are absent. Verified at abstract level only.
+- ✓ **Mellers, Schwartz & Ritov (1999)**, *JEP: General* 128(3), 332–345, doi:10.1037/0096-3445.128.3.332 (abstract), and **Mellers & McGraw (2001)**, *Current Directions* 10(6), 210–214, doi:10.1111/1467-8721.00151 (full text).
+  - Choices predicted from anticipated pleasure "were correlated with actual choices in five different experiments … ranged from .66 to .86, with an average of .74".
+  - "In the laboratory studies, predictions were quite accurate."
+  - The pregnancy and dieting studies showed overestimated displeasure of unfavourable outcomes.
+  - The article's L37 "Only Hsee and Zhang measured forecasts, choices and experiences together" is therefore false. The design that did measure all three found no misranking, which supports the article's "rarely".
+  - **Corrections:** (a) anticipated and actual pleasure came from hypothetical-outcome and real-outcome conditions respectively. The reviewer's "participants made a choice and then, before the outcome, anticipated their feelings" is unverified. (b) The ".33" is the residual correlation after subjective-expected-utility predictions are removed. It shows anticipated pleasure adding predictive power beyond utilities, not predictive power that "fell". (c) The field studies involved no choice.
+- ✓ **Shiv & Huber (2000)**, *JCR* 27(2), 202–216, doi:10.1086/314320 (full text): preferences "both expressed and revealed" shift when anticipated satisfaction is evoked, through mental imagery. There is no experienced-outcome measure (0 hits for "experienced"). It is half the chain, as the reviewer says.
+- ✓ **Loewenstein, Weber, Hsee & Welch (2001)**, *Psychological Bulletin* 127(2), 267–286, doi:10.1037/0033-2909.127.2.267 (abstract): the hypothesis "highlights the role of affect experienced at the moment of decision making". L73's "the one place in this literature" is therefore false as worded.
+- ✓ **Berridge (2023)**, *TICS* 27(10), 932–946, doi:10.1016/j.tics.2023.07.007 (PMC10527990 full text).
+  - The abstract says "desire can decouple completely from memories and from learned predictions of outcome value", which directly supports L29.
+  - The full text says "cue-triggered ‘wanting’ intensity is dynamically modulated in amplitude and valence by changes in relevant brain and physiological states, such as hunger, satiety, drug intoxication, stress". That sentence sources L77's unattributed hunger claim. It appears in the full text, not the abstract.
+- ✓ **Knutson, Rick, Wimmer, Prelec & Loewenstein (2007)**, *Neuron* 53(1), 147–156, doi:10.1016/j.neuron.2006.11.010 (PubMed abstract): activity in each region "independently predicted immediately subsequent purchases above and beyond self-report variables". **Disputed reading:** the authors conclude that "activation of distinct neural circuits related to anticipatory affect precedes and supports consumers' purchasing decisions". That conclusion is not evidence that choice runs without the felt state, so the reviewer's case for lowering [P-VS1](/positions/value-in-selection/#p-vs1) on this basis fails.
+- ✓ Laukkonen, Friston & Chandaria (2025), *Neurosci. Biobehav. Rev.* 176:106296. This citation is already held and verified in `topics/predictive-processing-and-dualism` and `topics/phenomenology-of-anticipation`.
+- ? Leads only, not checked, and no task depends on them:
+  - Mathieu & Gosling 2012, *Psych Sci* 23(2), 161–162. Crossref metadata confirmed, but the review's "11 articles, 16 studies, 1,074 participants" was not checked.
+  - Charpentier et al.'s "predicted choice better than existing value-based models".
+  - Bechara et al. 1997's anticipatory SCR. The corpus already carries the Maia & McClelland 2004 rebuttal in `concepts/somatic-interface`.
+
+**Disputed or rejected findings:**
+- ✗ **The PP/active-inference gate fails, and the L83 experiment is "ill-posed rather than unrun" (§2.6).** The gate in [evidential-status-discipline](/project/evidential-status-discipline/) requires the strongest physicalist rival to be named and engaged. Miswanting names the [value-blind steelman](/topics/the-steelman-for-value-blind-selection/), concedes it "explains every reversal here without an experiential term, a genuine parsimony advantage" (L83), and states a discriminator. The steelman page engages active inference directly (5 hits). "Ill-posed" also overreaches. On Hesp et al.'s formalism, which `concepts/valence` L67 cites, valence is inferred from the precision of the generative model rather than identified with its outcome forecasts. Even on that reading, then, a dissociation between felt anticipation and forecast content is not ruled out.
+- ✗ **The gap page's "Before Distortion" section undercuts Claim B from inside the Map (§2.7).** That section concerns whether an anaesthesia episode reaches the retrospective memory record (Sanders et al. 2017 and others). It says nothing about whether felt anticipation at choice can be reported. The reviewer reached the inference indirectly, through `voids/erasure-void`, without reading the gap page.
+- ✗ **Add a reciprocal link from affective-forecasting-gap (Part 4).** It already exists: gap L82 reads "which few designs show ([miswanting](/concepts/miswanting/))", and it makes the ranking argument the reviewer says is missing.
+- ✗ **Lower [P-VS1](/positions/value-in-selection/#p-vs1) to "very low / framework-internal only" (Part 3, Part 4 positions).** This rests on the Knutson and Bechara readings disputed above. Tenet-3 calibration stands: the evidence fits [P-VS1](/positions/value-in-selection/#p-vs1) without evidencing it.
+- ✗ **Calibration asymmetry, and a symmetric-bar rule (§2.5, Part 5).** [P-VS1](/positions/value-in-selection/#p-vs1) is graded explicitly: it is held "on prior commitments at low credence" (L81), and the rival is credited with "a genuine parsimony advantage" (L83). The ChatGPT pass rejected the same charge.
+- ✗ **Memory routes are a "scope slip" (§2.4).** Gilbert and Wilson define wanting as a prediction of liking, so a prediction built from distorted memory is still miswanting. The article says outright that the error sits in remembered utility (L45), and its thesis is "mostly not through forecasting" (L31).
+- ✗ **Focalism and the impact bias are missing (§2.4).** Both are covered in the neighbour, [affective-forecasting-gap](/concepts/affective-forecasting-gap/) (L34–38), together with the Levine/Wilson–Gilbert controversy. Neither has been shown to change a choice, and that is the scope of this article.
+- ✗ **Co-optation of Gilbert and Wilson's "gut reactions" (§2.4, §2.5).** The article does not attribute a non-physical currency to Gilbert and Wilson. L77 marks it explicitly as "The Map reads …". The exclusivity half of this finding was accepted (L73).
+- ✗ **Revealed preference and the No-Many-Worlds paragraph.** Both are in the 2026-10-15 deep review's Stability Notes (scope; bedrock), and the ChatGPT pass also rejected them.
+- ✗ **Reference 1 edition/DOI mismatch.** The 2000 Forgas chapter has no Crossref DOI. The reference gives the original, then the reprint, then the reprint's DOI. The quoted pages (pp. 182–184) fall inside the 2000 edition's range (178–197), not the reprint's (550–564). The ChatGPT pass rejected the same point.
+- ✗ **Collapse the five [P-VS1](/positions/value-in-selection/#p-vs1) badges.** The badge renders automatically site-wide (`hugo/data/positions.yaml`), so this is not an article defect.
+- ✗ **Cut miswanting's loss-aversion section to a link (Part 4).** The section answers a question specific to this page: whether loss aversion is miswanting at all. The page sits at 2,346 words, against a hard limit of 3,500.
+- ✗ **Link miswanting from `concepts/valence` and add Laukkonen 2025 there (Part 4).** Valence reaches miswanting in one hop through `affective-forecasting-gap` (valence L87, then gap L82). Its active-inference paragraph delegates to `predictive-processing-and-dualism`, which already cites Laukkonen 2025.
+- ✗ **Site methodology: optional tenet sections, auto-tasking confessions, mandatory independent-frame review, a published apex ladder (Part 5).**
+  - Relation to Site Perspective is mandatory (CLAUDE.md).
+  - The confessions here are scope decisions recorded in Stability Notes.
+  - Three-service outer review is the independent-frame review.
+  - The two apex pages exist; the reviewer's tooling could not fetch them.
+- ✗ **"wanting-liking-and-the-value-in-mechanism-fork" carries the "reverse" framing (Part 4).** That page contains no "reverse"; the framing exists only in miswanting L29, and the P2 task fixes it there.
+
+## Tasks Generated
+
+**No new tasks.** Every accepted finding falls on a file and lines that an open 2026-10-22 ChatGPT task already rewrites. Minting a parallel task there would produce conflicting rewrites. Instead, three existing tasks in [workflow/todo.md](/workflow/todo/) were annotated with a `CROSS-SERVICE CORROBORATION (Claude Fable 5.1 …)` segment appended to their Notes:
+
+- **P1** refine-draft `concepts/miswanting` (the headline absence claims). The annotation records Claude's independent agreement on the description, L31 and L37. It adds verified literature: Wilson et al. 1993, with its between-subjects and no-forecast caveats, and Mellers et al. 1999 / Mellers & McGraw 2001, a design that measured all three and found no misranking. It also adds a new OLD string in the same defect class: L73 "the one place in this literature" (Loewenstein et al. 2001), plus Shiv & Huber 2000 as optional. It records that the Bechara/Knutson band-drop reading is rejected.
+- **P2** refine-draft `concepts/miswanting` (countermodel, L81, L29). The annotation corroborates the L29 "reverse" fix and adds three items. First, Berridge 2023 as the citation for L29, and for L77's unattributed hunger claim. Second, L77's "a cost [P-VS1](/positions/value-in-selection/#p-vs1) accepts" rewritten as a stated prediction with its defeater. Third, optionally, a clause carrying the gap page's ranking argument; ChatGPT §7 and Claude §2.3 converge on it, and the ChatGPT pass did not task it.
+- **P2** refine-draft [project/writing-style.md](/project/writing-style/) (scoped-absence rule). The annotation corroborates the inline-criterion rule and adds the "known-controversy" query as an optional element of clause (b).
