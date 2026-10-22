@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-10-20 21:40:24+00:00
+ai_modified: 2026-10-22 00:52:08+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 20:04:27+00:00
-lastmod: 2026-10-20 21:40:24+00:00
+lastmod: 2026-10-22 00:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,6 +134,7 @@ The clause narrows the options without deciding among them. All three answers gi
 
 - [agent-causation](/concepts/agent-causation/) — the agent-causal wing and its interface
 - [event-causal-libertarianism](/topics/event-causal-libertarianism/) — the three libertarian wings
+- [agency-incompatibilism](/topics/agency-incompatibilism/) — Steward's settling by a whole physical animal, a naturalist answer to who settles
 - [philosophy-of-action-under-dualism](/topics/philosophy-of-action-under-dualism/) — the causal skeleton and the basic act
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — determinism, randomness or selection for reasons
 - [the-manipulation-argument-and-hard-incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/) — Pereboom's wild coincidences

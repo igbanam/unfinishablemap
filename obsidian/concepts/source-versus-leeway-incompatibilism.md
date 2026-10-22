@@ -4,7 +4,7 @@ description: "Leeway incompatibilism requires alternative possibilities; source 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-10-19T22:01:47+00:00
+ai_modified: 2026-10-22T00:52:08+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -59,7 +59,7 @@ So the concept is the hub the three topic arguments link into: one names the lee
 
 The labels predate Timpe: his 2007 paper calls the leeway/source split "the widely accepted taxonomy", quotes Pereboom (2003) for the naming, and credits Michael McKenna with cementing "source incompatibilism" in papers from 2001. Kevin Timpe's *Free Will: Sourcehood and Its Alternatives* (2008) systematized the distinction and argued for a version of source incompatibilism. Timpe's own refinement splits the source family in two. **Narrow** source incompatibilism holds that sourcehood *alone* is required, with no alternative-possibilities condition: an agent could lack alternatives entirely and still be free, provided she is the ultimate origin of her action. **Wide** source incompatibilism holds that ultimate sourcehood *itself requires* morally relevant alternative possibilities—that one cannot be the genuine origin of an action without there having been more than one thing one could originate.
 
-The wide view is a bridge. It concedes that sourcehood is the fundamental requirement while insisting that leeway comes along with it, so the two conditions need not be exclusive. This matters for locating the Map, which wants both a real origination and a real open alternative at the point of choice.
+The wide view is a bridge. It concedes that sourcehood is the fundamental requirement while insisting that leeway comes along with it, so the two conditions need not be exclusive. This matters for locating the Map, which wants both a real origination and a real open alternative at the point of choice. Helen Steward argues for the same bridge by a route she distinguishes from Timpe's, holding that leeway is "part and parcel of what it is to be the agential source of an action" (Steward 2021), though her agent is a wholly physical animal ([[agency-incompatibilism|agency incompatibilism]]).
 
 ## Source Incompatibilism Is Not Libertarianism
 
@@ -104,6 +104,7 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 1. Frankfurt, H.G. (1969). Alternate Possibilities and Moral Responsibility. *The Journal of Philosophy*, 66(23), 829–839. https://doi.org/10.2307/2023833
 1. Timpe, K. (2008). *Free Will: Sourcehood and Its Alternatives*. London: Continuum. ISBN 9780826496256. (2nd edn, Bloomsbury, 2013.)
 1. Timpe, K. (2007). Source Incompatibilism and Its Alternatives. *American Philosophical Quarterly*, 44(2), 143–155.
+1. Steward, H. (2021). Frankfurt cases, alternative possibilities and agency as a two-way power. *Inquiry*, 65(9), 1167–1184. https://doi.org/10.1080/0020174x.2021.1904639
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge: Cambridge University Press. ISBN 9780521791984.
 1. Pereboom, D. (2003). Source Incompatibilism and Alternative Possibilities. In D. Widerker & M. McKenna (Eds.), *Moral Responsibility and Alternative Possibilities: Essays on the Importance of Alternative Possibilities*. Ashgate.
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford: Oxford University Press. ISBN 9780199685516.

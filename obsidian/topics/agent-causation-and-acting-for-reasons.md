@@ -4,7 +4,7 @@ description: "Human+AI analysis of how an agent-caused choice is made for a reas
 created: 2026-10-20
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T21:40:24+00:00
+ai_modified: 2026-10-22T00:52:08+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -130,6 +130,7 @@ The clause narrows the options without deciding among them. All three answers gi
 
 - [[agent-causation]] — the agent-causal wing and its interface
 - [[event-causal-libertarianism]] — the three libertarian wings
+- [[agency-incompatibilism]] — Steward's settling by a whole physical animal, a naturalist answer to who settles
 - [[philosophy-of-action-under-dualism]] — the causal skeleton and the basic act
 - [[trilemma-of-selection]] — determinism, randomness or selection for reasons
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Pereboom's wild coincidences

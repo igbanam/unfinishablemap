@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 17:00:37+00:00
+ai_modified: 2026-10-22 00:52:08+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 14:46:46+00:00
-lastmod: 2026-10-04 17:00:37+00:00
+lastmod: 2026-10-22 00:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Davidson's partition keeps the irrational step from being a reasoned act of the 
 
 Neil Levy presses the general form of the objection. He argues that "agent-causation must be rational all by itself for the luck objection to be averted" (2011, p. 66), and that if reasons only structure the options, agent-causation "itself is irrational, and therefore arbitrary" (p. 67). On akrasia his conclusion is blunt: "Far from being paradigmatically free actions, akratic actions are lucky actions" (p. 153). Levy argues that on extant libertarianisms, event-causal and agent-causal alike, luck defeats moral responsibility (p. 44).
 
-The nearest published move from the other side whose text was checked here is Helen Steward's. In *A Metaphysics for Freedom* (2012) she observes that "my best reasons do not simply set my body into inexorable motion" (p. 147). Steward argues that weakness of will, whatever its value to an agent, "might nevertheless be essential to the very existence of such an agent" (p. 161), because a settler of matters at the time of action must be able not to act on an intention already formed. Steward is an agency incompatibilist whose settlers are animals, human and many non-human, and she distinguishes her view sharply from Cartesian dualism (p. 16). On the Map's reading her move explains why a settler must be *capable* of akrasia. It does not explain why this agent acted akratically on this occasion, which is what the luck objection asks. Franklin's reply to Levy on agent causation and akrasia (2015) was located by title only, and nothing here depends on it.
+The nearest published move from the other side whose text was checked here is Helen Steward's. In *A Metaphysics for Freedom* (2012) she observes that "my best reasons do not simply set my body into inexorable motion" (p. 147). Steward argues that weakness of will, whatever its value to an agent, "might nevertheless be essential to the very existence of such an agent" (p. 161), because a settler of matters at the time of action must be able not to act on an intention already formed. Steward is an [agency incompatibilist](/topics/agency-incompatibilism/) whose settlers are animals, human and many non-human, and she distinguishes her view sharply from Cartesian dualism (p. 16). On the Map's reading her move explains why a settler must be *capable* of akrasia. It does not explain why this agent acted akratically on this occasion, which is what the luck objection asks. Franklin's reply to Levy on agent causation and akrasia (2015) was located by title only, and nothing here depends on it.
 
 Two replies are open to the Map, and each has a cost. (a) It can accept the surd as the price of sourcehood, treating the agent's exercise of power as an explanatory terminus, the direction Steward's argument points. (b) It can confine agent-causal selection to choices with no settled ranking, which concedes that akratic acts are not agent-caused against the ranking and so withdraws the selection reading of akrasia. Neither reply is argued in full here. The objection stands unanswered here, as it does in [the akrasia article](/topics/akrasia-and-weakness-of-will/).
 

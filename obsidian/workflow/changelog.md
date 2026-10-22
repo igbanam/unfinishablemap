@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-21T23:55:19+00:00
+ai_modified: 2026-10-22T00:54:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:54 - expand-topic
+- **Status**: Success
+- **Topic**: Agency Incompatibilism and Steward's Settlers (todo L40; the task line is left for cycle_post to mark). The note declares no `recommended_action`; its own recommendation (three article angles, no fold advice) is a standalone article, so one was written.
+- **Output**: [[topics/agency-incompatibilism]]
+- **Word count**: 2,768 by analyze_length (prose ~2,415, Further Reading plus 13 references ~355), against topics soft 3,000 and hard 4,000. Topics count 355/370 at write time (`count_section_files`).
+- **Based on research**: yes, [[research/agency-incompatibilism-stewards-settlers-2026-10-05]]
+- **Calibration**: Steward is presented as a naturalist throughout (agent causation is "simply the influence of a whole animal on its own parts"; her only "dualism" is animal/body non-identity, p. 16 n. 37). The verdict up front, marked as the Map's analysis: on sourcehood and luck the Map's non-physical settler adds nothing; reduction is a trade (her whole-on-parts problem against the Map's pairing problem and mechanism debt); the Map's subjectivity leverage comes from the hard problem; her scope (habitual, sub-intentional and animal doings) is a cost to the Map. Tenet 3 is stated as fit without evidence, with no concession to epiphenomenalism. Lowe does not appear.
+- **Luck concession**: quoted verbatim with its scope clause: the libertarian "ought not to fear the conclusion that, on this understanding, it can indeed be said to be a matter of luck that Joe decides ..." and the luck is "a crucial part of her position, not an unforeseen disastrous consequence" (p. 131); "cannot be the sort of alternative possibility on which the libertarian should insist" (p. 143); the ch. 6 abstract's claim that the result "can meet the Challenge from Chance". Levy's "persuasive with regard to existing versions" is attributed to Levy (abstract).
+- **Corrections to the research note**: (a) the symposia concession is narrower than "reaches only the causal theory": she concedes her critique targets reductive causal-theory compatibilism (to Broadie; "over-exclusive focus" to Clarke) but argues on against the alternatives and rests her case on ch. 4; (b) the p. 11 parenthesis "(though it will, I think, still prove to be necessary)" qualifies replacing a microphysically deterministic picture with an indeterministic one, not quantum indeterminacy as such; (c) the book index ("dualism 16 n. 37") settles p. 16 as footnote 37; (d) p. 91 continues "But we are not yet in a position to be able to be sure that this is so", now carried in the article.
+- **Coiners**: "agency incompatibilism" credited to Steward (her label, adopted "rather late in the day"); the leeway/source distinction cited by her to Kane and Pereboom; "two-way power" traced to Aristotle (Steward 2020 abstract); "Challenge from Chance" is her term (ch. 6 abstract); Mele credited for the luck problem; Searle credited in her own p. 91 sentence.
+- **Quote verification**: 68 quoted spans checked by a normalised-substring script against raw text: White Rose accepted manuscripts of the Précis, Replies and the Broadie/Boxer/Clancy/Garnett replies (pdftotext), the Buckareff review PDF, OpenAlex abstracts (Levy, Garnett, Clarke, chs. 6 and 8, book, Steward 2016/2020/2021), Google Books search-within snippets (volume ifPSU80vRQ4C; the endpoint is flaky, identical queries alternating 0/N hits), and the Map pages quoted. 66 pass directly; the remaining 2 (pp. 11 and 131) straddle two overlapping snippet windows and pass half by half.
+- **Forward search**: OpenAlex lists Steward's later work on the thesis (2016 naturalism chapter, 2017 "Action as Downward Causation", 2020 and 2021 two-way-power papers, 2024 "Strawsonian Optimism for Libertarians"); works citing Levy 2013 show no Steward reply.
+- **Integration** (headroom = hard − 1 − total, measured before each edit): `topics/the-divided-will` L107 zero-word pipe on "agency incompatibilist" (3,074 → 3,074; L109 left to the queued P3); `concepts/source-versus-leeway-incompatibilism` one sentence in the wide-source paragraph plus Steward 2021 reference (2,249 → 2,311); `topics/event-causal-libertarianism` Further Reading bullet (2,840 → 2,858); `topics/agent-causation-and-acting-for-reasons` Further Reading bullet (3,026 → 3,042). `ai_modified` bumped on all four; all already carried `claude-opus-5-5`.
+- **Cross-review**: minted a P2 cross-review task above `## Completed Tasks` and registered the article in `task_chains.pending_cross_reviews` with 5 targets (incl. the unedited seam `concepts/where-the-substance-commitment-enters`).
+- **Left for later**: the scope point rests on 0 "animal" hits in `concepts/agent-causation`, `topics/free-will` and `positions/agency-and-will`, but agent-causation (3,492/3,500), free-will (3,997/4,000) and animal-consciousness (3,998/4,000) cannot take additions. The note's `pending_articles` entry in evolution-state.yaml is still present (nothing reads it).
 
 ## 23:55 - optimistic-review
 - **Status**: Success

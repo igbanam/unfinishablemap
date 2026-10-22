@@ -4,7 +4,7 @@ description: "The three-way split of libertarian free will—event-causal, agent
 created: 2026-07-09
 modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-20T17:22:32+00:00
+ai_modified: 2026-10-22T00:52:08+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -92,6 +92,7 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 ## Further Reading
 
 - [[agent-causation]] — The metaphysics of the wing the Map occupies: substance causation, immanent versus transeunt causation, and the interface
+- [[agency-incompatibilism]] — Helen Steward's naturalist agent causation, in which a whole physical animal settles what it does
 - [[quantum-indeterminacy-free-will]] — The Map's full consciousness-selection reply to the objection this article uses as its pivot, and the interface mechanism it offers where event-causal accounts leave the outcome unsettled
 - [[source-versus-leeway-incompatibilism]] — The cross-cutting taxonomy of what freedom *requires*, into which this one interlocks
 - [[free-will]] — The Map's agent-causal libertarian position stated in full
