@@ -213,3 +213,32 @@
   subject_articles:
   - concepts/miswanting.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/c4fe53dc-d060-4de9-ba98-32997ae84369
+  commissioned_at: '2026-10-22T03:11:07.258861+00:00'
+  prompt_summary: 'Audit concepts/miswanting: forecast-error mischoice claims, citations'
+  target_filename: outer-review-2026-10-22-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org).
+    Audit the article "Miswanting: When a Forecast Error Changes the Choice" at https://unfinishablemap.org/concepts/miswanting/
+    (last substantively modified 2026-10-15). Search indexes lag recent edits, so
+    also read the changelog at https://unfinishablemap.org/workflow/changelog/. The
+    article asserts that forecast-driven mischoice rests on a single unreplicated
+    study and that no design has measured felt anticipation at the moment of choice.
+    Research whether those claims survive the affective-forecasting, impact-bias and
+    decision-making literature, including replication work since 2015. Verify its
+    citations and quotations, its reading of Gilbert and Wilson''s miswanting and
+    of Berridge''s wanting/liking distinction, and flag missed counterarguments, stale
+    references and places where the Map''s dualist tenets are protected by bracketing
+    rather than argued. Assess how it integrates with the neighbouring articles on
+    valence and the affective-forecasting gap. Quote each passage you challenge. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit miswanting
+  subject_articles:
+  - concepts/miswanting.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-22-chatgpt-5-6-sol-pro.md
