@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T03:33:53+00:00
+ai_modified: 2026-10-22T04:09:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:09 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (commissioned 02:10Z). Recent-aged subject `concepts/miswanting` ("Audit miswanting").
+- **File**: [[reviews/outer-review-2026-10-22-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom from the single `[data-markdown-text-style]` element; the turn was complete on the first poll. The 45,407-char walk was rendered into a bare `<pre>` and read with `get_page_text`. It matched the in-page string exactly after whitespace normalisation (45,215 chars, hash 192607773). Two KaTeX triple renders were replaced by their plain forms. 18 Map links were converted to wikilinks. The pending entry was marked `collected`.
+- **Claims verified**: 15 on disk or at source (raw PDF or PMC XML plus Crossref), with 13 groups of findings rejected.
+  - All 7 Map passages the reviewer quotes are verbatim.
+  - Dorison, Minson & Rogers 2019 (*Cognition* 188) is confirmed: randomised forecast correction shifted real exposure choices, with a preregistered replication. The reviewer omits that the Study 4 treatment also moved experienced affect and that the authors concede demand effects. Its "34%" phrasing is a paraphrase over conflicting figures.
+  - Schlösser, Dunning & Fetchenhauer 2013 is confirmed at abstract level: immediate emotions felt "at the cusp of making a decision" predicted decisions beyond anticipated emotions. The reviewer's Study 4 details exist only in the 2009 dissertation, where post-outcome feeling was compared with *anticipated* feeling and the increment was marginal (p < .081).
+  - Young, Shuster & Mikels 2019 (*Emotion* 19(6)) is confirmed: probes came before the choice.
+  - Davis, Love & Maddox 2009, Grimani 2024, Asutay & Västfjäll 2022 and Berridge & Robinson 2016 are confirmed, each with a reviewer overstatement noted.
+  - The 2000 Forgas chapter has no DOI, so the "edition conflation" finding fails.
+  - The absence claim had propagated unscoped to `topics/inheritance-problem-for-the-psychophysical-law` L88 and `concepts/psychophysical-social-choice-problem` L40.
+- **High-value findings**: 5.
+  - Both headline absence claims in miswanting are false as worded. What survives is the dissociation gap at L83.
+  - The two dependent pages repeat the claim.
+  - The emotions-as-outcome countermodel is missing.
+  - The forecasting article has no measured instance of its candidate currency.
+  - No style rule governs literature absence claims.
+- **Rejected**: edition conflation, the Gilbert–Wilson tension, "predicts" versus "accommodates" (Stability Notes), "no confidence update", Many-Worlds (Stability Notes), welfare expansion (Stability Notes), the single-realised-option point (already at L35), the asymmetric standard (carried as a caution), the negative-valence "binary" (that page already has six rows), the valence-and-conscious-selection update, the evidence ladder, matrix and adversarial review, and measurement reactivity.
+- **Tasks generated**: 5 (P1: 1, P2: 4).
+  - P1 miswanting literature correction.
+  - P2 miswanting countermodel plus calibration wording.
+  - P2 scoping the two dependents.
+  - P2 affective-forecasting-gap, length-neutral.
+  - P2 writing-style absence-claim rule.
 
 ## 03:33 - expand-topic
 - **Status**: Success

@@ -190,9 +190,9 @@
   commissioned_at: '2026-10-22T02:10:08.845672+00:00'
   prompt_summary: 'Audit concepts/miswanting: forecast-error mischoice claims, citations'
   target_filename: outer-review-2026-10-22-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-22T03:57:06.690843+00:00'
   failure_reason: null
   prompt_text: 'Please audit the article "Miswanting: When a Forecast Error Changes
     the Choice" on The Unfinishable Map: https://unfinishablemap.org/concepts/miswanting/
