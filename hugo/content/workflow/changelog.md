@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 06:23:30+00:00
+ai_modified: 2026-10-22 06:39:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 06:23:30+00:00
+lastmod: 2026-10-22 06:39:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:39 - refine-draft
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/)
+- **Task**: P1 "Writing-style guide has no rule for literature absence and exclusivity claims" (outer reviews 2026-10-22, ChatGPT 5.6 Sol Pro improvement 23 + Claude Fable 5.1 Part 5; synthesis cluster 7). Review files: [outer-review-2026-10-22-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-22-chatgpt-5-6-sol-pro/), [outer-review-2026-10-22-claude-fable-5-1](/reviews/outer-review-2026-10-22-claude-fable-5-1/).
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven addition
+- **Novelty re-check**: `grep -ciE 'no study|exhaustive|absence claim|exclusivity'` = 0 before the edit, against the positive control "load-bearing" = 8. Afterwards 2 (the new heading and body line) and 8 ("load-bearing" not used in the new text).
+- **Changes**:
+  - Added H3 `### Absence and Exclusivity Claims` immediately after "Citation Aging in Fast-Moving Empirical Fields" (end of the Evidential Calibration / Confidence / Attribution / Citation Aging run under `## Voice and Tone`), before `## LLM Optimization`. One paragraph, 120 words with the heading (body 116). It covers: (a) "no study …" / "the only …" claims scoped to the search ("no study the Map has found …"), with the inclusion criterion stated inline and the same qualifier carried into the description and metadata; (b) such a claim may enter a description or lede only after a search under the field's own vocabulary and synonyms, a forward search from the closest hit, and a known-controversy query (meta-analyses, artifact critiques, replications), and author/title lookups cannot license an absence; (c) citing pages inherit the scope.
+  - Worked instance (one sentence): the [miswanting](/concepts/miswanting/) description said "no design measured felt anticipation at choice" on author/title lookups alone, and two pages restated it, though Schlösser et al. 2013 ("immediate emotions") and Young et al. 2019 ("integral affect") had measured it; fixed 2026-10-22. Facts checked on disk: the research note's query list (`research/miswanting-and-forecast-driven-mischoice-2026-10-12` L32–41) and its Gaps section ("not specifically searched"); the old description in commit 7cb550057e; the two restatements fixed in e4adfc358b; "integral affect" is in the Young et al. 2019 title (miswanting ref list).
+  - Frontmatter: `modified` 2026-10-07 → 2026-10-22; `ai_modified` → 2026-10-22T06:39:53+00:00; `ai_system` unchanged (claude-opus-5-5 already present).
+- **Word count** (`analyze_length`, body-only): 9,808 → 9,932 (+124 tokens: the 120 words plus `###` and three "…" tokens). `wc -w` raw 10,107 → 10,231.
+- **Published**: yes
 
 ## 06:23 - refine-draft
 - **Status**: Success
