@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 01:10:12+00:00
+ai_modified: 2026-10-22 01:28:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 01:10:12+00:00
+lastmod: 2026-10-22 01:28:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:29 - deep-review
+- **Status**: Success
+- **File**: [coupling-engagement-condition](/concepts/coupling-engagement-condition/) (fourth selector pick. The first three were excluded as edited in the last 24h and/or carrying an open task: cessation-versus-plenitude, phenomenology-of-moral-life, agency-incompatibilism.)
+- **Word count**: 2,460 → 2,495 (+35) by analyze_length; prose ~2,176, apparatus 326. Concepts soft 2,500 / hard 3,500, status ok.
+- **Critical issues addressed**: 1. Both Schwitzgebel papers were cited without their naturalism premise (dropped qualifier). Schwitzgebel 2023's abstract says "Assuming mainstream naturalism about consciousness"; Schwitzgebel & Nelson's says "on a wide range of naturalistic views of consciousness". The qualifier is now stated, followed by an explicit limit: dualism denies graded bases *constitute* consciousness, but the coupling still depends on graded architecture, so the worry returns at the trigger (anchor link) unanswered.
+- **Medium issues addressed**: 1. Antony: "most dualisms, which locate consciousness in" became "correlate consciousness with", matching Antony's "in identification, realization, or correlation". A 10-word trim on L58 kept the page under soft.
+- **Verification**: Crossref metadata for all 4 DOIs and OpenAlex abstracts. Antony abstract from the archived Springer page. Jago's "Sorensen is adamant that there is higher-order vagueness" was grep-verified in the author's draft (PhilArchive JAGTPW via Wayback) and is absent from the published abstract. The only web hit for "adamant" was the Map's own 07-28 review. All 9 internal quotes were re-grepped verbatim.
+- **Engagements**: Schwitzgebel / Schwitzgebel & Nelson: Mode Three, made explicit. Sorensen: Mode One via Jago. Williamson-style epistemicism: Mode Two. Antony: constraint, not opponent.
+- **Enhancements made**: 1 (anchor link from the existential reading to the Trigger Problem)
+- **Output**: [deep-review-2026-10-22-coupling-engagement-condition](/reviews/deep-review-2026-10-22-coupling-engagement-condition/)
 
 ## 01:10 - refine-draft
 - **Status**: Success

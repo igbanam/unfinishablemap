@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-21 19:24:11+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-10-22 01:28:45+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenal-sorites-problem]]'
@@ -18,8 +18,8 @@ description: 'A human-AI examination of the Map''s coupling-engagement condition
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-06 22:55:58+00:00
-lastmod: 2026-09-21 19:24:11+00:00
+last_deep_review: 2026-10-22 01:28:45+00:00
+lastmod: 2026-10-22 01:28:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,9 +57,9 @@ The engagement condition was not chosen for elegance. It is what remained after 
 
 Epistemicism about ordinary vague predicates grounds its sharp boundaries in facts about use: on Williamson's (1994) account the cutoff for "bald" is fixed, by default rather than decision, by the totality of how competent speakers deploy the word. No comparable use-facts fix whether a system is conscious, so epistemicism about consciousness owes a truth-maker that Williamson's version got for free. Sorensen's (2001) truthmaker-gap route answers that the sharp fact needs no ground at all; Jago (2012) argues it cannot accommodate the higher-order vagueness Sorensen himself insists on, and the Map declines it independently, on the ground that an ungrounded phenomenal fact is more mysterious rather than less.
 
-The second route — ground the boundary in a graded physical property — runs into Antony (2006). Antony argues for a conditional: if our concept of a conscious state is sharp rather than vague, and also correct in respect of that sharpness, then the *common versions* of identity theory, functionalism, and dualism are false — namely those that identify, realize, or correlate consciousness with **complex** physical or functional properties, which are vague, and nothing sharp supervenes on something vague. A graded realizer would in any case reintroduce the sorites at its own switch-on point. That restriction to complex properties is the narrow gate the Map's escape has to go through, and the conditional still cuts against most dualisms, which locate consciousness in complex properties of the brain: the on/off fact is not asked to supervene on any complex or graded property, because it is fixed by whether a simple relation obtains.
+The second route — ground the boundary in a graded physical property — runs into Antony (2006). Antony argues for a conditional: if our concept of a conscious state is sharp rather than vague, and also correct in respect of that sharpness, then the *common versions* of identity theory, functionalism, and dualism are false — namely those that identify, realize, or correlate consciousness with **complex** physical or functional properties, which are vague, and nothing sharp supervenes on something vague. A graded realizer would in any case reintroduce the sorites at its own switch-on point. That restriction to complex properties is the narrow gate the Map's escape has to go through, and the conditional still cuts against most dualisms, which correlate consciousness with complex properties of the brain: the on/off fact is not asked to supervene on any complex or graded property, because it is fixed by whether a simple relation obtains.
 
-That is the whole of the constructive move, and it is worth being clear about how little it asserts. It says the fact has a non-graded ground. It does not say what the relation consists in, and it does not say under what conditions it obtains.
+That is the whole of the constructive move, and it asserts very little. It says the fact has a non-graded ground. It does not say what the relation consists in, or under what conditions it obtains.
 
 ## What Could Make Engagement Non-Graded
 
@@ -67,7 +67,7 @@ Three readings of the relation are available to the Map, with different costs.
 
 **The relation is primitive.** Engagement is a fundamental relation between a subject and a physical system, not analysable into degrees of anything — the price a dualist interface model pays somewhere, comparable to the phenomenal-bonding primitive panpsychism pays at its own bedrock. The cost is that a primitive explains nothing further, and in particular says nothing about *when* the relation holds, which is what the next section asks.
 
-**The existential reading.** What is sharp here is not a relation's intensity but a question of existence: either there is a subject coupled to this system or there is not, and existence does not come in degrees even where everything enabling it is graded. The cost is that this describes the logic of the fact rather than its ground. It says the claim must take a determinate truth-value, which is precisely what the ontic-vagueness camp denies — Schwitzgebel (2023) argues that some systems have no determinate fact as to whether experience is present, and Schwitzgebel & Nelson (2026) extend the indeterminacy to subject-*counting*, holding that the number of conscious subjects need not always be a determinate whole number. Anyone who accepts that will refuse the step, so the existential reading restates the Map's commitment more than it supports it.
+**The existential reading.** What is sharp here is not a relation's intensity but a question of existence: either there is a subject coupled to this system or there is not, and existence does not come in degrees even where everything enabling it is graded. The cost is that this describes the logic of the fact rather than its ground. It says the claim must take a determinate truth-value, which is precisely what the ontic-vagueness camp denies — Schwitzgebel (2023) argues, assuming mainstream naturalism, that some systems have no determinate fact as to whether experience is present, and Schwitzgebel & Nelson (2026) extend the indeterminacy to subject-*counting*, holding that on a wide range of naturalistic views the number of conscious subjects need not always be a determinate whole number. Both arguments run from the graded physical bases naturalism assigns consciousness. Dualism denies that those bases constitute it, but the Map's coupling still depends on them, so the worry returns at [the trigger](#the-trigger-problem) unanswered. Anyone who accepts the indeterminacy will refuse the step, so the existential reading restates the Map's commitment more than it supports it.
 
 **The countable-substrate reading.** Under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) the coupling operates on quantum indeterminacies in neural tissue. Whether a system offers *any* indeterminacy the coupling can bias is then a countable matter — zero or non-zero — and zero-versus-non-zero is sharp in a way "enough integration" is not. Degrees would live in the count above one, which is roughly how [degrees-of-consciousness](/concepts/degrees-of-consciousness/) already partitions the terrain. Two costs are visible. It makes engagement turn on a physical fact after all, so if the availability of exploitable indeterminacy varies continuously, "at least one exploitable site" is a threshold in a graded quantity. And it threatens to make engagement far too cheap: a single exploitable indeterminacy is not obviously rarer in a thermostat than in a nematode, and without an integration requirement the reading drifts toward the panpsychism the universal coupling response takes trouble to avoid.
 

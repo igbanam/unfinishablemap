@@ -2865,14 +2865,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness.md`
 - **Notes**: Leads from the 2026-10-21 ~22:48Z deep review of `concepts/islamic-sufi-philosophy-of-consciousness`. (a) L118 "Sāṃkhya's reflection model and Avicenna's holistic governance arrived at through different routes": the holism is Jamali, Golshani & Jamali's inference (Heliyon 2019, e02130), not Avicenna's own doctrine; rescope to "the holistic governance Jamali et al. read into Avicenna" or equivalent, matching the corrected concept page L47. Measure with analyze_length first; near length-neutral. (b) Secondary file `research/interaction-problem-non-western-philosophy-2026-02-17.md` L99 still carries the al-Ghazali quote "so utterly different in their essences that one cannot affect the other" (pessimistic-2026-10-12 finding B6, never queued; the 2026-10-14 refine removed the same string from the concept page as not verbatim in any al-Ghazali translation). Annotate in place as unverified/misattributed; do not delete research history.
 
-### P2: `concepts/cessation-versus-plenitude` L51 treats the Christian beatific vision as a contemplative-practice report and calls plenitude "attested across unconnected traditions"; the beatific vision is doctrine about the blessed after death
-- **Type**: refine-draft
-- **File**: obsidian/concepts/cessation-versus-plenitude.md
-- **Source**: optimistic-review
-- **Generated**: 2026-10-21
-- **Review file**: `reviews/optimistic-2026-10-21-scorekeeping-wing.md`
-- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 1 (a calibration defect, so P2). Aquinas ST I q.12 a.11: God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life" (review checked raw New Advent text; re-grep it). Apply the review's replacement: use the Map's own Sufi *fana'* placement instead, drop "unconnected", add the Aquinas reference (new ref 5). +86 (prose +65, ref +21); 2,267 vs concepts hard 3,500. Optional zero-word companion: a piped link from `topics/cross-traditional-convergence-on-consciousness-irreducibility` L148 (3,995/4,000: ZERO words only; use the SLUG-form anchor, the heading-text form measured +5). Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
-
 ### P3: `topics/agent-causation-and-acting-for-reasons` L75 asks which reason was acted on but never meets akrasia, where `the-divided-will` shows the contrastive luck reply fails; `the-divided-will` L109 reply (a) does not link Lowe's uncaused-volition answer
 - **Type**: refine-draft
 - **File**: obsidian/topics/agent-causation-and-acting-for-reasons.md
@@ -2906,6 +2898,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-22: `concepts/cessation-versus-plenitude` L51 treats the Christian beatific vision as a contemplative-practice report and calls plenitude "attested across unconnected traditions"; the beatific vision is doctrine about the blessed after death
+- **Type**: refine-draft
+- **File**: obsidian/concepts/cessation-versus-plenitude.md
+- **Notes**: Optimistic review 2026-10-21 (scorekeeping wing), Priority List item 1 (a calibration defect, so P2). Aquinas ST I q.12 a.11: God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life" (review checked raw New Advent text; re-grep it). Apply the review's replacement: use the Map's own Sufi *fana'* placement instead, drop "unconnected", add the Aquinas reference (new ref 5). +86 (prose +65, ref +21); 2,267 vs concepts hard 3,500. Optional zero-word companion: a piped link from `topics/cross-traditional-convergence-on-consciousness-irreducibility` L148 (3,995/4,000: ZERO words only; use the SLUG-form anchor, the heading-text form measured +5). Exact OLD/NEW strings are in the review's Priority List (each OLD grep-counted once); pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Verify any quotation in a raw source. Check every wikilink/anchor renders after sync (grep both anchor dialects).
 
 ### ✓ 2026-10-22: Write `topics/agency-incompatibilism` — Agency Incompatibilism and Steward's Settlers
 - **Type**: expand-topic
