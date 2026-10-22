@@ -218,9 +218,9 @@
   commissioned_at: '2026-10-22T03:11:07.258861+00:00'
   prompt_summary: 'Audit concepts/miswanting: forecast-error mischoice claims, citations'
   target_filename: outer-review-2026-10-22-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-22T04:24:26.448357+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org).
     Audit the article "Miswanting: When a Forecast Error Changes the Choice" at https://unfinishablemap.org/concepts/miswanting/

@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T04:09:16+00:00
+ai_modified: 2026-10-22T04:34:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:34 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research (commissioned 03:11Z), on the same subject as ChatGPT: `concepts/miswanting` ("Audit miswanting").
+- **File**: [[reviews/outer-review-2026-10-22-claude-fable-5-1]]
+- **Extraction**: Research had finished (224 sources, 10m 22s).
+  - The artifact tile was found in the conversation feed, not in the sidebar's "View all".
+  - The panel body measured 36,583 characters on two readings 10 s apart, so it was stable.
+  - The 43,306-char walk (2 tables) was Blob-downloaded, and its character count matches on disk.
+  - 41 Map citation links were converted to wikilinks.
+- **Claims verified**: 9 external sources, at Crossref plus a raw PDF, OpenAlex, PubMed or PMC.
+  - Every Map passage the reviewer quotes is present except one, which splices L31 into L67; the criticism is unaffected.
+  - Wilson et al. 1993 (*PSPB* 19(3)) is confirmed: reasons analysis, randomised, changed a real poster choice and lowered satisfaction 3 weeks later. The reviewer's "within-person" is wrong (the design is between-subjects), and no forecast was measured.
+  - Mellers & McGraw 2001 is confirmed: a design measuring choices, anticipated pleasure and actual pleasure found lab predictions "quite accurate". This falsifies miswanting L37's "Only Hsee and Zhang…" while supporting "rarely".
+  - Loewenstein et al. 2001 falsifies L73's "the one place in this literature".
+  - Berridge 2023 sources L29 (abstract) and L77's hunger claim (full text).
+  - Knutson 2007's own conclusion ("circuits related to anticipatory affect") defeats the reviewer's case for lowering P-VS1.
+- **High-value findings**: 5. Each lands on lines that an open ChatGPT task already rewrites:
+  - L3/L31/L37 corroborated;
+  - Wilson 1993 and Mellers 1999 omitted;
+  - L73 exclusivity claim;
+  - Berridge uncited and the hunger claim unattributed;
+  - L77 "cost P-VS1 accepts" has no defeater.
+- **Tasks generated**: 0 new. Three existing tasks were annotated with a cross-service corroboration segment in Notes: the P1 miswanting absence-claims task, the P2 miswanting countermodel/L29 task, and the P2 writing-style scoped-absence rule. 15 finding groups were rejected, with reasons in the review's Verification Notes. They include:
+  - the "PP gate failure": met via the steelman, which engages active inference;
+  - the "Before Distortion undercuts Claim B" reading: that section is retrospective anaesthesia recall;
+  - a reciprocal gap link: it already exists at gap L82;
+  - the P-VS1 band drop;
+  - Many-Worlds and revealed preference: Stability Notes;
+  - the ref-1 DOI.
 
 ## 04:09 - collect-chatgpt-review + outer-review
 - **Status**: Success
