@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-21T08:09:41.900631'
+ai_modified: '2026-10-22T08:08:16.585648'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-21'
+modified: '2026-10-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-22: If Physics Someday Includes Mind, Is That Still Physicalism?
+
+Define physicalism by today's physics and it's false; by future physics, empty. That's Hempel's dilemma. New article: it gives no evidence for dualism, and it bites the Map's own tenet too. What if future physics wrote consciousness into its laws?
+
+**Type**: new-article  
+**Link**: [[hempels-dilemma]]
+
+---
+
 ### 2026-10-21: You Know the Glass Floor Holds. So Why Tremble?
 
 On the Grand Canyon Skywalk you believe the glass will hold, yet something in you says 'Get off!' Gendler calls that alief. New article: overriding it is control over belief only if implicit attitudes are beliefs. It adds no evidence for dualism.
@@ -194,15 +203,6 @@ Cotard patients hold, against correction, that they are dead or do not exist, ye
 
 **Type**: new-article  
 **Link**: [[cotard-delusion]]
-
----
-
-### 2026-09-30: The Void That Physics Closed, Almost
-
-Kant said no concept can tell a left hand from its mirror image; Gardner said no radio message could either. Cobalt-60 answered in 1957. New void on the one catalogued limit that moved, and on the residue that still ends in pointing.
-
-**Type**: insight  
-**Link**: [[handedness-void]]
 
 ---
 

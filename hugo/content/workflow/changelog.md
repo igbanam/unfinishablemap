@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 06:39:53+00:00
+ai_modified: 2026-10-22 07:37:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 06:39:53+00:00
+lastmod: 2026-10-22 07:37:10+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:37 - research-voids
+- **Status**: Success
+- **Topic**: The luminosity void. On Williamson's anti-luminosity argument (*Knowledge and Its Limits* ch. 4–5; "Cognitive Homelessness" 1996), a mind can be in a non-trivial mental state, even feeling cold or pain, without being in a position to know it. This happens at the unmarked margins of gradual change. Clear cases are untouched, and the same margins refute KK.
+- **Category**: Mixed. Unexplorable at the margins if the argument is sound; merely unexplored if the luminists are right. The status is the live dispute.
+- **Output**: [voids-luminosity-void-2026-10-22](/research/voids-luminosity-void-2026-10-22/). `recommended_action: article`, `target_slug: luminosity-void` (slug free in obsidian/archive/hugo). Per the driver brief, no voids article was created, no expand task was minted and `pending_articles` was NOT touched. The candidate is routed to the open voids-slot NEEDS-HUMAN entry alongside drift and cluelessness.
+- **Dedupe**: voids at 113/125 (`count_section_files`). Positive controls "Fitch" (4 voids / 7 research) and "Moore's paradox" (1 / 3) hit. "anti-luminosity", "cognitive homelessness", "KK principle", "Srinivasan" and "Brueckner" had zero hits in voids, research, topics/concepts/apex/positions and archive. Every "luminos" hit concerns svaprakāśa or Schwitzgebel's feature list. The closest hit is one clause in `concepts/epistemology` L93.
+- **Key finding**: the void is framework-independent, so it is evidence for no tenet. It makes a demand on three live pages that assert unscoped self-intimation: `concepts/types-of-consciousness` L67/L80, `concepts/phenomenal-sorites-problem` L91 and `topics/phenomenal-authority-and-first-person-evidence` L102/L140/L148. The fix is to restate them as privileged access without luminosity (Merlo 2026). A scoping `refine-draft` is suggested to the driver independently of the slot decision.
+- **Verification**:
+  - All 33 [raw] quotations were machine-checked against fetched raw text. Full texts: Srinivasan 2015 (author PDF) and Berker 2008 (DASH PDF). Abstracts: OpenAlex for Williamson's KaIL ch. 4–5 and the 1996 paper, plus 14 others.
+  - Ramachandran 2009 is a critic, not a defender.
+  - Hall 2021 is title-level only (access blocked). Overgaard 2006 and Windey 2013 are from secondary summaries.
+  - The graded-awareness bridge is flagged as the note's own suggestion.
 
 ## 06:39 - refine-draft
 - **Status**: Success
