@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T01:28:45+00:00
+ai_modified: 2026-10-22T02:02:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:02 - deep-review
+- **Status**: Success
+- **File**: [[topics/agency-incompatibilism]] (cross-review against its five linking hosts)
+- **Secondary file**: [[concepts/where-the-substance-commitment-enters]]
+- **Word count**: 2,768 → 2,813 (+45) by analyze_length, topics soft 3,000. where-the-substance 2,002 → 2,044 (+42), concepts soft 2,500.
+- **Critical issues addressed**: 3. (1) The Scope claim that agent-causation, free-will and agency-and-will "never mention animals" was a single-term false absence: free-will L114 has a species-capacity line, and agent-causation L131 cites monkey reach-commitment data. It now reads "never take up whether animals settle" and cites the free-will line. (2) "She calls the result 'a truly naturalistic libertarianism'" became "Her aim is"; the Précis says the approach "promised to bring the prospects ... much closer". (3) The Garnett-reply revision was mislocated: the page now says she revised her concession about constrained cases, and that the possibility of not acting holds "even" where reasons fix only whether and when.
+- **Medium issues addressed**: 5. Restored her "generally" in "influence, not determination". "Mele's luck problem" became "Mele's formulation of the luck problem". "Steward shows" became "argues". "the Map's reply fails" became "this reply fails", matching the-divided-will L103 "standard reply". "how agents act" became "how agents act for reasons", matching ACAFR L123. Added pp. 71–2 provenance to the Steward 2012 reference.
+- **Hosts**: the-divided-will L107/L109 PASS (pages agree; L109 untouched); source-versus-leeway L62 PASS (checked against the fresh 2021 abstract; Timpe "same conclusion"); event-causal-libertarianism and agent-causation-and-acting-for-reasons Further Reading PASS. where-the-substance-commitment-enters: a clause was owed and added to "Two clarifications". The persisting-substance requirement alone does not make the bearer non-physical (Steward's animal), so the step to the non-physical rests on the case for irreducibility.
+- **Verification**: All 7 White Rose and Buckareff PDFs were re-downloaded fresh; their MD5s match the expand-topic copies. 41 quotes were grep-verified, each in the reply or section named. OpenAlex abstracts and Crossref metadata were fetched for all 12 DOIs, and all are real-correct (Steward 2021 is online 2021, print 2022). Google Books search-within confirmed pp. 11, 16 n. 37, 91, 131 and 143. The positive control (p. 125, attested by Garnett's abstract) hit and the nonsense control did not; some phrases hit only on attempts 3–6. (surname, year) pairs were checked in both directions with 0 orphans. The 6 internal quotes and the 2 block ids exist.
+- **Engagements**: Clancy: Mode One (Steward's own argument, inside compatibilism). Map vs Steward: Mode Three throughout, with no claimed advantage on sourcehood or luck.
+- **Enhancements made**: 1 (reciprocal link from where-the-substance-commitment-enters)
+- **Output**: [[reviews/deep-review-2026-10-22-agency-incompatibilism]]
 
 ## 01:29 - deep-review
 - **Status**: Success

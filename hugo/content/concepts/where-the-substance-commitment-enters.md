@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-20 21:56:31+00:00
+ai_modified: 2026-10-22 02:01:13+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[dualism]]'
 - '[[disguised-property-dualism]]'
 created: 2026-05-27
-date: &id001 2026-10-20
+date: &id001 2026-10-22
 description: The Map's substance-leaning enters via agent causation and indexical
   identity, not via the Dualism tenet. A diagnostic for which arguments need a persisting
   subject.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-10-20 21:56:31+00:00
+lastmod: 2026-10-22 02:01:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ The lean enters one layer down, at the agent-causal commitment. [Agent causation
 
 That structure needs a subject who persists across the causing and exercises the power. A property-only reading—on which mental properties [supervene](/concepts/supervenience/) on a physical substrate without any substance bearing them—struggles to supply it. If there is no thing that does the causing, only properties co-occurring with neural events, then "the agent originated the action" loses its referent; what is left looks like event causation under another name. This is why agent causation, specifically, recruits a substance-bearing reading. The requirement is the agent-causal claim's, not the tenet's.
 
-Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Second, agent causation is not the only place a persisting subject does work: the indexical-identity argument against [many-worlds](/concepts/many-worlds/) leans on one too, by a different route, and [the section below](#second-home) takes it up. Agency remains the clearest home, because it is the only one that asks the subject to exercise a power rather than merely to be determinate.
+Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Nor does the requirement alone make that bearer non-physical: Helen Steward's [agency incompatibilism](/topics/agency-incompatibilism/) gives the causing to a whole physical animal, so the step from a persisting agent to a non-physical one rests on the case for irreducibility, not on agent causation. Second, agent causation is not the only place a persisting subject does work: the indexical-identity argument against [many-worlds](/concepts/many-worlds/) leans on one too, by a different route, and [the section below](#second-home) takes it up. Agency remains the clearest home, because it is the only one that asks the subject to exercise a power rather than merely to be determinate.
 
 ## The Second Home: Indexical Identity Against Many-Worlds {#second-home}
 
