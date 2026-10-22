@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-14 14:23:57+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-22 01:08:59+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:50:33+00:00
-lastmod: 2026-10-14 14:23:57+00:00
+lastmod: 2026-10-22 01:08:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -148,7 +148,7 @@ The convergence claim as developed here marshals three apparent sources of suppo
 
 The catalogue's [coherence-vs-evidential-status](/project/evidential-status-discipline/#coherence-vs-evidential-status) discipline names this pattern explicitly. A framework's coherence with the convergence's output is not, on its own, evidential support for the framework. The convergence on *irreducibility* is what the methodology plus the cross-traditional evidence actually license. The selection from "irreducibility" to "the Map's reading specifically" runs through the framework's own commitments — its [bidirectional-interaction tenet](/tenets/#bidirectional-interaction) and the [companion article's](/concepts/bidirectional-interaction/) positive case for it. That selection is honest as a framework move but does not earn the cross-traditional evidence's N-fold weight; it earns the weight of the bidirectional-interaction argument it rests on.
 
-The pattern matters because the convergence is *compatible* with framings the Map rejects. Madhyamaka reads the convergence as *dissolving* the substantial-witness reading rather than confirming it; Advaita reads it as disclosure of consciousness as fundamental in the idealist register; some illusionists read it as evidence that introspection-architecture produces the same artefact across traditions. None of these readings is excluded by the convergence alone; what discriminates among them, where anything does, runs through additional arguments — the bidirectional-interaction case for the Map, the combination problem for panpsychism, the regularity-of-nature problem for idealism, the explanatory burden for illusionism. Honest catalogue language: *the convergence earns irreducibility across the rival irreducibility-respecting framings; the further selection runs on separately-supported arguments and does not inherit the convergence's evidential weight*.
+The pattern matters because the convergence is *compatible* with framings the Map rejects. Madhyamaka reads the convergence as [*dissolving* the substantial-witness reading](/concepts/cessation-versus-plenitude/#why-the-divergence-cannot-resolve-itself) rather than confirming it; Advaita reads it as disclosure of consciousness as fundamental in the idealist register; some illusionists read it as evidence that introspection-architecture produces the same artefact across traditions. None of these readings is excluded by the convergence alone; what discriminates among them, where anything does, runs through additional arguments — the bidirectional-interaction case for the Map, the combination problem for panpsychism, the regularity-of-nature problem for idealism, the explanatory burden for illusionism. Honest catalogue language: *the convergence earns irreducibility across the rival irreducibility-respecting framings; the further selection runs on separately-supported arguments and does not inherit the convergence's evidential weight*.
 
 [The convergence argument for dualism](/topics/the-convergence-argument-for-dualism/) makes the parallel move at the convergence-of-philosophical-arguments layer; [the animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai) is the catalogue's worked exhibit at the species-attribution layer. The discipline operates at each layer the catalogue offers a convergence claim: framework-coherence raises framework-internal weight without raising the tier on the empirical or metaphysical claims the framework integrates.
 

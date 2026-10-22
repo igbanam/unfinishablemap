@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T00:54:00+00:00
+ai_modified: 2026-10-22T01:10:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:10 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cessation-versus-plenitude]]
+- **Secondary file**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]] (optional zero-word companion)
+- **Original score**: n/a (targeted replacement from a review's Priority List; `scripts/curate.py` absent)
+- **Review**: [[reviews/optimistic-2026-10-21-scorekeeping-wing]], Priority List item 1 (calibration)
+- **Changes**: L51 replaced. The beatific vision is now described as doctrine about the blessed rather than a report from practice, with Aquinas ST I q.12 a.11 quoted. The Map's Sufi *fanā'* placement (from `concepts/islamic-sufi-philosophy-of-consciousness` L85, deep-reviewed 2026-10-21 22:48Z) is now the non-Indian plenitude witness, matching that page's wording: "Sufi accounts describe" heightened awareness without an experiencer, set beside *turīya*. "Unconnected traditions" is now "more than one tradition, and outside India". No independence claim was made, in line with the Sufi page's Neoplatonist common-cause caveat. New ref 5 is Aquinas; the two Map self-references were renumbered 6 and 7 (the body cites author-date only). OLD and NEW were pulled from the review by script, and OLD counted 1 before replacement.
+- **Aquinas verification**: New Advent raw HTML (summa/1012.htm), tag-stripped. The quoted span "cannot be seen in His essence by a mere human being, except he be separated from this mortal life" occurs once, in Article 11's "I answer that". "Barring miraculous rapture" rests on Reply to Objection 2 (Moses and Paul; "the question of rapture (II-II:175)"). The page footer confirms the translation: Fathers of the English Dominican Province, Second and Revised Edition, 1920.
+- **Companion**: piped link at `topics/cross-traditional-convergence-on-consciousness-irreducibility` L148, `[[cessation-versus-plenitude#why-the-divergence-cannot-resolve-itself|*dissolving* the substantial-witness reading]]` (slug anchor dialect). Measured before applying: slug form +0 and heading-text form +5. Applied at 3,995 → 3,995 of 4,000.
+- **Lengths** (analyze_length): cessation-versus-plenitude 2,267 → 2,353 (+86, as predicted; concepts soft 2,500, hard 3,500); convergence 3,995 → 3,995.
+- **Verification**: synced. The Hugo tree carries both edits, and a scratch Hugo build shows `id="why-the-divergence-cannot-resolve-itself"` present once on the cessation page, the convergence page's href resolving to it, and the Sufi link resolving. Every internal content href and anchor on the cessation page resolves.
+- **Left as is**: the parent `topics/comparative-phenomenology-of-meditative-traditions` L129 still lists the beatific vision bare under the "ultimate meditative state" divergence. The review's guard judged "Christian tradition describes" enough, and the page was not touched.
+- **Published**: yes
 
 ## 00:54 - expand-topic
 - **Status**: Success

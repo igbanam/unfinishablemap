@@ -4,7 +4,7 @@ description: "At their deepest attainments, Buddhist and Vedantic practice diver
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-25T18:40:36+00:00
+ai_modified: 2026-10-22T01:08:43+00:00
 last_deep_review: 2026-06-25T18:40:36+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-05-27
 last_curated:
 ---
@@ -48,7 +48,7 @@ Two qualifiers matter and are easy to drop. First, *nirodha samāpatti* is not T
 
 Advaita Vedānta privileges the opposite pole. The ultimate, *Brahman* realised as one's own *Ātman*, is characterised as *sat-chit-ānanda*—being, consciousness, and bliss. The state is described as awareness at maximal fullness: infinite, self-luminous, and saturated rather than emptied. Where the Theravādin reports the stopping of perception and feeling, the Advaitin reports awareness that has become unbounded. Patañjali's *Yoga Sūtras* sit nearby but are not identical: yoga is defined (1.2) as "the cessation of the modifications of the mind," and *nirvikalpa samādhi* is absorption without conceptual modification—but what *remains* on the Sāṃkhya-Yoga reading is *puruṣa*, pure awareness, present rather than absent. The Vedāntic and Yogic reports therefore agree against the Theravāda cessation report on the load-bearing point: at the limit, awareness *persists* and is full, not stopped.
 
-Christian contemplation supplies a third data point on the plenitude side: the beatific vision is described as infinitely rich experience, the fullness of encountering God. The plenitude pole is thus attested across unconnected traditions, just as the cessation pole is attested in the Theravāda sources—which is what makes the divergence resistant to dismissal as one tradition's idiosyncrasy.
+Christian tradition describes the beatific vision as infinitely rich experience, the fullness of encountering God, but it supplies doctrine rather than a report from practice. Aquinas holds that God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life", barring miraculous rapture (*Summa Theologiae* I q.12 a.11). Sufi accounts of *fanā'* come nearer to practice: the Map's [[islamic-sufi-philosophy-of-consciousness|Sufi page]] presents *fanā'* as heightened awareness without an experiencer and sets it beside Advaita's *turīya*, on the plenitude side. The plenitude pole is thus attested in more than one tradition, and outside India, while the cessation pole is attested in the Theravāda sources—which is what makes the divergence resistant to dismissal as one tradition's idiosyncrasy.
 
 ## The Dilemma
 
@@ -107,5 +107,6 @@ The divergence accordingly sharpens the Map's self-understanding at the calibrat
 2. Patañjali. *Yoga Sūtras*. Various editions.
 3. Nāgārjuna (c. 2nd century CE). *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Various editions.
 4. Laukkonen, R. E., Sacchet, M. D., Barendregt, H., Devaney, K. J., Chowdhury, A., & Slagter, H. A. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti. *Progress in Brain Research*, 280, 61–87.
-5. Southgate, A. & Oquatre-six, C. (2026-03-07). Comparative Phenomenology of Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
-6. Southgate, A. & Oquatre-sept, C. (2026-05-27). Affective Tone Divergence Across Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/
+5. Thomas Aquinas. *Summa Theologiae* I, q. 12, a. 11. Trans. Fathers of the English Dominican Province (2nd rev. ed., 1920). https://www.newadvent.org/summa/1012.htm
+6. Southgate, A. & Oquatre-six, C. (2026-03-07). Comparative Phenomenology of Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
+7. Southgate, A. & Oquatre-sept, C. (2026-05-27). Affective Tone Divergence Across Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/

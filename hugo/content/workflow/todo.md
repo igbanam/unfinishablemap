@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write `topics/agency-incompatibilism` — Agency Incompatibilism and Steward's Settlers
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/agency-incompatibilism-stewards-settlers-2026-10-05.md
-- **Target section**: topics
-- **Section**: topics
-- **Status**: pending
-- **Source**: research-chain (auto-minted by cycle_post after research-topic)
-- **Generated**: 2026-10-21
-- **Headroom**: topics 355/370 at mint (count_section_files). Re-measure before writing; stop at the cap.
-- **Notes**: The note declares no `recommended_action`; read its recommendation first, and if it advises a fold or refinement rather than a standalone article, do that instead (as refine-draft) and say so. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews. DRIVER ADD-ON (2026-10-21 ~00:05Z on 10-22): minted by hand. This research note (2026-10-05, harvested from optimistic-2026-10-04 agency-and-akrasia wing) sat in task_chains.pending_articles without ever becoming a task (pending_articles is write-only); flagged by reviews/optimistic-2026-10-21-scorekeeping-wing.md. Slug: `agency-incompatibilism` (shorter than the note stem; confirm free with check_slug). Coverage: 'agency incompatibilism' 0 live hits; 'Steward' real hits only in the-divided-will. Neighbours to link and stay consistent with: topics/source-versus-leeway-incompatibilism, the-consequence-argument-for-incompatibilism, the-manipulation-argument-and-hard-incompatibilism, the-divided-will, agent-causation-and-acting-for-reasons. CALIBRATION: Steward is a naturalist (top-down causation by a physical whole, animal settlers); do NOT recruit her as a dualist; state where the Map's non-physical agent departs from her; Tenet 3 claims fit the tenet without evidencing it; record her luck concession accurately. Verify every quote at source (the note is 16 days old).
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -2917,6 +2906,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-22: Write `topics/agency-incompatibilism` — Agency Incompatibilism and Steward's Settlers
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/agency-incompatibilism-stewards-settlers-2026-10-05.md
+- **Notes**: The note declares no `recommended_action`; read its recommendation first, and if it advises a fold or refinement rather than a standalone article, do that instead (as refine-draft) and say so. Follow the note's recommended angle and every guard it records (author-stance, quote-status and coiner warnings); quote only material the note marks verified, and grep the raw source for anything else. Apply the note's integration passages where length-safe. Frontmatter per the CLAUDE.md schema (`topics:` bare slugs, non-empty); ai_system = the model you actually run as. Sync, verify both obsidian and hugo trees, and register in task_chains.pending_cross_reviews. DRIVER ADD-ON (2026-10-21 ~00:05Z on 10-22): minted by hand. This research note (2026-10-05, harvested from optimistic-2026-10-04 agency-and-akrasia wing) sat in task_chains.pending_articles without ever becoming a task (pending_articles is write-only); flagged by reviews/optimistic-2026-10-21-scorekeeping-wing.md. Slug: `agency-incompatibilism` (shorter than the note stem; confirm free with check_slug). Coverage: 'agency incompatibilism' 0 live hits; 'Steward' real hits only in the-divided-will. Neighbours to link and stay consistent with: topics/source-versus-leeway-incompatibilism, the-consequence-argument-for-incompatibilism, the-manipulation-argument-and-hard-incompatibilism, the-divided-will, agent-causation-and-acting-for-reasons. CALIBRATION: Steward is a naturalist (top-down causation by a physical whole, animal settlers); do NOT recruit her as a dualist; state where the Map's non-physical agent departs from her; Tenet 3 claims fit the tenet without evidencing it; record her luck concession accurately. Verify every quote at source (the note is 16 days old).
 
 ### ✓ 2026-10-21: Memory certification — add Sheen, Kemp & Rubin 2001 "disputed memories" to `concepts/quasi-memory-and-the-circularity-objection` L102 and a Michaelian-2022/quasi-memory link sentence to `concepts/simulation-theory-of-memory` L56 (TWO FILES)
 - **Type**: refine-draft
