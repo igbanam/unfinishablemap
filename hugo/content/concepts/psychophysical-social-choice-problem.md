@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-16 00:10:38+00:00
+ai_modified: 2026-10-22 06:22:57+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-16 00:10:38+00:00
-lastmod: 2026-10-16 00:10:38+00:00
+lastmod: 2026-10-22 06:22:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 
 The **psychophysical social-choice problem** asks how a psychophysical law should combine the conscious states of two or more subjects when those states bear on one physical event and pull in different directions. A law on which a conscious state conditions physical outcomes, written *P(O | C, X)* for one subject, becomes *P(O | C₁…Cₙ, X)* when several subjects bear on the same event. It then needs a rule that takes a *profile* of subjects' states to a probability distribution over the shared outcome. When the states are orderings of the outcomes, such a rule has the structure Allan Gibbard (1977) calls a *decision scheme*, one that "makes the probabilities of alternatives depend on individual strong orderings of them." Social-choice theory has spent more than seventy years pricing aggregation rules, and none comes free. Equal weighting makes the number of subjects a causal variable. Weighting by intensity needs feelings that are comparable across people. Jurisdiction rules give each subject a domain, and physics may not respect the boundaries.
 
-Three calibrations belong here rather than later. First, the problem is a synthesis made inside The Unfinishable Map. Its components are standard results, but no external literature treats a psychophysical law as a social-choice function, and the Map's [multi-agent Born-preservation problem](/topics/multi-agent-born-preservation-problem/) makes the same disclaimer about its sibling question. Second, the problem has normative content only on the *value-sensitive* reading of selection, on which felt valence is the currency of conscious choice. The Map holds that reading at low credence ([P-VS1](/positions/value-in-selection/#p-vs1)), and no study has yet measured the input it names, the felt anticipation present at choice ([miswanting](/concepts/miswanting/)). On the value-blind reading a composition rule is still owed, but it weighs attentional pointers rather than anyone's good. Third, the Map's default of interface locality confines the problem to a few boundary cases without solving it, and the selection mechanism being composed is itself a posit that carries the [mechanism debt](/positions/quantum-interface/#mechanism-debt). The sharpest result below is the Map's own: the Born-preservation constraint it already accepts favours composition rules whose weights ignore how strongly anyone feels ([explained below](#born-favours-fixed-weights)).
+Three calibrations belong here rather than later. First, the problem is a synthesis made inside The Unfinishable Map. Its components are standard results, but no external literature treats a psychophysical law as a social-choice function, and the Map's [multi-agent Born-preservation problem](/topics/multi-agent-born-preservation-problem/) makes the same disclaimer about its sibling question. Second, the problem has normative content only on the *value-sensitive* reading of selection, on which felt valence is the currency of conscious choice. The Map holds that reading at low credence ([P-VS1](/positions/value-in-selection/#p-vs1)), and no study it has found dissociates the input it names, the felt anticipation present at choice, from forecast content and learned value ([miswanting](/concepts/miswanting/)). On the value-blind reading a composition rule is still owed, but it weighs attentional pointers rather than anyone's good. Third, the Map's default of interface locality confines the problem to a few boundary cases without solving it, and the selection mechanism being composed is itself a posit that carries the [mechanism debt](/positions/quantum-interface/#mechanism-debt). The sharpest result below is the Map's own: the Born-preservation constraint it already accepts favours composition rules whose weights ignore how strongly anyone feels ([explained below](#born-favours-fixed-weights)).
 
 ## What the Composition Rule Must Do {#composition-rule}
 

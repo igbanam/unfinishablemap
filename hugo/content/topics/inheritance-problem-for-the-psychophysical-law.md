@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-14 10:38:50+00:00
+ai_modified: 2026-10-22 06:22:57+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 10:38:50+00:00
-lastmod: 2026-10-14 10:38:50+00:00
+lastmod: 2026-10-22 06:22:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Species-specificity and semantic richness belong to the third, which is part of 
 
 Horn (c) then loses its force, because nothing species-specific sits in the law, and horn (d) loses part of its force, because nothing in the law needs learning. The semantic mapping problem the interface programme lists is moved, not solved: the receiver must prepare options that differ in how they feel, and the selector picks by how they feel. The granular [content-specificity](/concepts/content-specificity-of-mental-causation/) of mental causation becomes a fact about menus.
 
-That step rests on a contested premise. "Picks by how they feel" is the value-sensitive reading of selection, which the Map holds at low credence on prior commitments while conceding that its rival is undefeated ([P-VS1](/positions/value-in-selection/#p-vs1)). No study has yet measured the felt anticipation present at choice, the input [P-VS1](/positions/value-in-selection/#p-vs1) names, and the existing evidence does not discriminate felt from [value-blind selection](/topics/the-steelman-for-value-blind-selection/) ([miswanting](/concepts/miswanting/)). If selection is value-blind, the codebook does not dissolve: either the outbound law does no fitness-relevant work, and horn (a) wins, or a contingent mapping returns, and horn (c) with it.
+That step rests on a contested premise. "Picks by how they feel" is the value-sensitive reading of selection, which the Map holds at low credence on prior commitments while conceding that its rival is undefeated ([P-VS1](/positions/value-in-selection/#p-vs1)). No study the Map has found dissociates the felt anticipation present at choice, the input [P-VS1](/positions/value-in-selection/#p-vs1) names, from forecast content and learned value, and the existing evidence does not discriminate felt from [value-blind selection](/topics/the-steelman-for-value-blind-selection/) ([miswanting](/concepts/miswanting/)). If selection is value-blind, the codebook does not dissolve: either the outbound law does no fitness-relevant work, and horn (a) wins, or a contingent mapping returns, and horn (c) with it.
 
 ## Learning Without a Regress {#learning}
 

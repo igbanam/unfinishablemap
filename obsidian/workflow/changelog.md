@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T06:11:18+00:00
+ai_modified: 2026-10-22T06:23:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:23 - refine-draft
+- **Status**: Success
+- **File**: [[topics/inheritance-problem-for-the-psychophysical-law]] (secondary: [[concepts/psychophysical-social-choice-problem]])
+- **Task**: P1 "Two pages repeat miswanting's absence claim, unscoped: "no study has yet measured the felt anticipation present at choice"" (outer reviews 2026-10-22, ChatGPT 5.6 Sol Pro + Claude Fable 5.1; synthesis cluster 2). Brings both pages into line with `concepts/miswanting` L31/L69 as corrected at 05:57Z/06:11Z: felt affect at choice has been measured (Schlösser et al. 2013, Young et al. 2019); what no study the Map has found shows is that affect dissociated from forecast content and learned value.
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven fix
+- **Changes**:
+  - (1) `topics/inheritance-problem-for-the-psychophysical-law` L88 (OLD matched at count 1): "No study has yet measured the felt anticipation present at choice, the input P-VS1 names, and the existing evidence…" → "No study the Map has found dissociates the felt anticipation present at choice, the input P-VS1 names, from forecast content and learned value, and the existing evidence…". Next sentence ("If selection is value-blind, the codebook does not dissolve…") takes its premise from the unchanged "does not discriminate felt from value-blind selection" clause, so it still follows.
+  - (2) `concepts/psychophysical-social-choice-problem` L40 (OLD matched at count 1): "…and no study has yet measured the input it names, the felt anticipation present at choice ([[miswanting]])." → "…and no study it has found dissociates the input it names, the felt anticipation present at choice, from forecast content and learned value ([[miswanting]])." Next sentence ("On the value-blind reading a composition rule is still owed…") does not depend on the changed verb, so it still follows. Pronouns: "it has found" = the Map (subject of the clause); "it names" = P-VS1 / that reading, as before.
+  - Both files re-grepped for sibling absence claims ("measured", "no study", "felt anticipation"): none other.
+  - No new references, no band or position changes; ai_system unchanged on both (claude-opus-5-5 already present).
+- **Word count** (`analyze_length`, body-only): inheritance 3,400 → 3,408 (+8; topics hard 4,000, 591 headroom); social-choice 2,937 → 2,944 (+7; concepts hard 3,500, 555 headroom).
+- **Published**: yes
 
 ## 06:11 - refine-draft
 - **Status**: Success
