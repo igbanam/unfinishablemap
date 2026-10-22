@@ -247,9 +247,9 @@
   commissioned_at: '2026-10-22T04:13:22.172291+00:00'
   prompt_summary: 'Audit concepts/miswanting: forecast-driven mischoice claims, citations'
   target_filename: outer-review-2026-10-22-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 2
-  last_attempt_at: '2026-10-22T04:58:44.125034+00:00'
+  last_attempt_at: '2026-10-22T05:07:49.482727+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
