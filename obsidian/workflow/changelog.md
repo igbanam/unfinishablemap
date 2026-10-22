@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T02:41:00+00:00
+ai_modified: 2026-10-22T03:07:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:07 - research-topic
+- **Status**: Success
+- **Topic**: Peritraumatic dissociation and the protective reading
+- **Output**: [[research/peritraumatic-dissociation-and-the-protective-reading-2026-10-22]]
+- **Sources consulted**: 36. Seven read in full text: Lensvelt-Mulders 2008, van der Hart 2008, Griffin 1997, Werner & Griffin 2012, Thompson-Hollands 2021, Dokkedahl & Lahav 2024, Kozlowska 2015. Twenty-seven read as PubMed abstracts. Two known only as metadata: Marmar 1997 chapter, Bryant 2009/2010 chapter.
+- **Finding**:
+  - "Protective" needs a timescale.
+  - In the long run, peritraumatic dissociation is a risk marker (r ≈ .35–.40 adults, .17 youth). Under multivariate control its predictive power largely passes to persistent dissociation and early symptoms.
+  - The one direct test of momentary relief of distress (Fikretoglu 2006, N = 1,026) is null.
+  - Measurement is retrospective and drifts with current symptoms.
+  - The failure is symmetric for the interface reading and the defence cascade, so the subtype page's verdict stands.
+- **Verdict**: article, topics/peritraumatic-dissociation. A fold was impossible (subtype page 3,281 of 3,500).
 
 ## 02:41 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-21 14:40 run (commit `24b56d7cd7`), with the 7-day floor now at 2026-10-15T02:37Z. Abandoned (steady state).
